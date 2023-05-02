@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
-  "num_followers": 228712,
+  "num_followers": 228894,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzdmN2M5NmVkNmQxZTM0MDI4NWJmYTViNGIwNTdhMTAxYjNiOWRl",
+  "snapshot_id": "MCw0MzVlMzdjMmYwY2ZlMGEyNDBiYmNhYTkzOTdlYmU4NTg4MmQyYTU5",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -183,6 +183,22 @@
       "duration_ms": 217200,
       "name": "Private Eyes",
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -283,38 +299,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -327,22 +311,6 @@
       "duration_ms": 292800,
       "name": "Sara",
       "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Hearts In Motion",
-        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Lonely Is the Night",
-      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -367,6 +335,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Inside Information",
         "url": "https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2"
       },
@@ -379,22 +363,6 @@
       "duration_ms": 237693,
       "name": "I Don't Want to Live Without You",
       "url": "https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -415,18 +383,34 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+        "name": "Hearts In Motion",
+        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 264986,
-      "name": "Kiss on My List",
-      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
+      "duration_ms": 249066,
+      "name": "Lonely Is the Night",
+      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -443,6 +427,22 @@
       "duration_ms": 267033,
       "name": "Gypsy - 2016 Remaster",
       "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Kiss on My List",
+      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
-      },
-      "artists": [
-        {
-          "name": "David Pack",
-          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
-        }
-      ],
-      "duration_ms": 284186,
-      "name": "That Girl Is Gone",
-      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "All Dressed Up",
         "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
       },
@@ -831,22 +815,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Bill LaBounty",
-        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
-      },
-      "artists": [
-        {
-          "name": "Bill LaBounty",
-          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Chicago 17 (Expanded Edition)",
         "url": "https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa"
       },
@@ -859,6 +827,38 @@
       "duration_ms": 229426,
       "name": "You're the Inspiration - 2009 Remaster",
       "url": "https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
+      },
+      "artists": [
+        {
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+        }
+      ],
+      "duration_ms": 284186,
+      "name": "That Girl Is Gone",
+      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Bill LaBounty",
+        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Airplay",
-        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
-      },
-      "artists": [
-        {
-          "name": "Airplay",
-          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Bix",
-      "url": "https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 258010,
       "name": "All Right - 2019 Remaster",
       "url": "https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Airplay",
+        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
+      },
+      "artists": [
+        {
+          "name": "Airplay",
+          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Bix",
+      "url": "https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq"
     },
     {
       "added_at": "2023-03-30 14:38:10",

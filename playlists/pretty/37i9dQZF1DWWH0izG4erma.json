@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Brothers Osborne\n",
-  "num_followers": 543729,
+  "num_followers": 544271,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDI5Yjc1NTNiYWU1MDMyNzZkMTE2MTEzMjE1ODhiOTZmMzU4NTcw",
+  "snapshot_id": "MCw2MTMwYmFlMmUwOGNlNzYyYTJjNTBmMThmZmM5NDBiMTI4ZTYxMDBj",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+      "duration_ms": 240265,
+      "name": "Fuss & Fight",
+      "url": "https://open.spotify.com/track/0NCnQYoe5YdxFjJQgEM5rX"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "SOLD OUT",
         "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 202912,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 240265,
-      "name": "Fuss & Fight",
-      "url": "https://open.spotify.com/track/0NCnQYoe5YdxFjJQgEM5rX"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 258799,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Ride It Hard",
-        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 150861,
-      "name": "Ride It Hard",
-      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
       },
@@ -639,6 +619,22 @@
       "duration_ms": 198113,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -659,18 +655,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+        "name": "Ride It Hard",
+        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+      "duration_ms": 150861,
+      "name": "Ride It Hard",
+      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 147508,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Creeps",
         "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Hillbilly (featuring Elvie Shane and Ketch Secor of Old Crow Medicine Show)",
         "url": "https://open.spotify.com/album/47PyPMhWpNNhQUX7DIUWSH"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "She's No Good for Me",
         "url": "https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 205651,
       "name": "She's No Good for Me",
       "url": "https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 147508,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 165465,
-      "name": "Cottonmouth (Rock Mix)",
-      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/37mY0fYspcp3GMzYeFwL1s"
       },
@@ -1039,6 +1019,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Call It Country",
+        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "duration_ms": 151148,
+      "name": "Call It Country",
+      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Black Motorcycle",
         "url": "https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo"
       },
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Call It Country",
-        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
+        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
       "artists": [
         {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 151148,
-      "name": "Call It Country",
-      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+      "duration_ms": 165465,
+      "name": "Cottonmouth (Rock Mix)",
+      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "LOSER",
-        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
         }
       ],
-      "duration_ms": 194896,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
+      "duration_ms": 199773,
+      "name": "Let the Rain Come Down",
+      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
       },
       "artists": [
         {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Let the Rain Come Down",
-      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+      "duration_ms": 194896,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Get There First",
-        "url": "https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz"
-      },
-      "artists": [
-        {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
-        }
-      ],
-      "duration_ms": 226304,
-      "name": "Get There First",
-      "url": "https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 230344,
       "name": "All It Cost Me Was Everything",
       "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Get There First",
+        "url": "https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "duration_ms": 226304,
+      "name": "Get There First",
+      "url": "https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Wolf",
-        "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 337239,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "What Do I Know (feat. HARDY)",
         "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 208418,
       "name": "What Do I Know (feat. HARDY)",
       "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Wolf",
+        "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 337239,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Ain't My Day",
-        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Ain't My Day",
-      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "No Reservations",
         "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
       },
@@ -1679,6 +1659,22 @@
       "duration_ms": 224733,
       "name": "No Reservations",
       "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "I'm Not For Everyone",
+        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
     },
     {
       "added_at": "2023-04-28 04:00:00",

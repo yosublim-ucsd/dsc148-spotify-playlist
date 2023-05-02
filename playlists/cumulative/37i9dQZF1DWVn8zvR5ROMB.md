@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Kip Moore, Nate Smith, Danielle Bradbery and more.
 
-3,408 songs - 7 day 18 hr 21 min
+3,409 songs - 7 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Barn Hoppin'](https://open.spotify.com/track/3O56VZ1n9eNNEPlxF7M2lh) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Barn Hoppin'](https://open.spotify.com/album/78fqLNJZCU4PYLvsoTkXh5) | 2:56 | 2022-04-22 | 2022-05-28 |
 | [Barstool or Whiskey](https://open.spotify.com/track/7Gr3VBkQPP4T9DA1JT36el) | [DJ Bridwell](https://open.spotify.com/artist/3AcWq6j9Nr2FjewS2mGah8) | [The Confliction](https://open.spotify.com/album/3jxWb45HhUMfoRA2Z7AJI2) | 3:22 | 2022-06-03 | 2022-06-11 |
 | [Battlefield](https://open.spotify.com/track/1YaBerJqOd9jzoOWGg8EjK) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Battlefield](https://open.spotify.com/album/0WcRJdmUrFjj162gkcEcB3) | 2:59 | 2021-12-31 | 2022-01-22 |
+| [Be About You](https://open.spotify.com/track/4caDwq0Qnn8cHnriT2cFlJ) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:08 | 2023-05-01 |  |
 | [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 | 2022-06-24 | 2022-07-02 |
 | [be alright \- 15 edition](https://open.spotify.com/track/5oopI1co7D0DCzWGqhMelZ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [be alright \(15 edition\)](https://open.spotify.com/album/2JnxW43i633Nt7SUUh7wJy) | 3:00 | 2023-04-21 | 2023-04-29 |
 | [Be Somebody](https://open.spotify.com/track/7MhUNHp6Z1llSWcUaxAUWA) | [Charlie Berry](https://open.spotify.com/artist/13uuE1bMMUxMCsAL4mpTp3) | [Be Somebody](https://open.spotify.com/album/45TyriekPQBOdtYThuqXSP) | 3:00 | 2022-06-17 | 2022-06-25 |

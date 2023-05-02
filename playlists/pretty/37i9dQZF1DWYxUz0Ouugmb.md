@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,570 likes - 27 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,582 likes - 27 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 26 | [PIMPSHIT](https://open.spotify.com/track/3boTwjX5FdJerg6Il8MJ2E) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [MY FIRST FRIEND](https://open.spotify.com/album/3J2gpoA7AOnOOIMbNqMhBQ) | 3:11 |
 | 27 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 |
 
-Snapshot ID: `MCxjNzAzNDk3MTY0ZGNhYzkxMDMzYjUxMjFiNjVkY2JhYTJmNTQ1NTA2`
+Snapshot ID: `MCxhYTMzYzdiMDFhYzJhM2E5ZDZlZjIzNjhiMDA1MDEyODdjNTZmMDI2`

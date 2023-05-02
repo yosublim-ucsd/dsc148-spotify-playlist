@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 125694,
+  "num_followers": 125749,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWIwYzdlNDEzMDI5MGRiNGE1YmFhMjM5OWFkNGQ3MGFlOWRmMTMx",
+  "snapshot_id": "MCw0NzgxNzRmOTE1MmVmM2Y0ZDhjN2FiYTg1NjAyMzExNGUyZjFhNDQw",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -123,22 +123,6 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
         "name": "Two Bugs and a Roach",
         "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 259760,
       "name": "Two Bugs and a Roach",
       "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -235,6 +235,22 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "Living Chicago Blues, Vol. 1",
         "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 400760,
       "name": "I Can't Quit You, Baby",
       "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -611,22 +611,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Aron Burton Live",
-        "url": "https://open.spotify.com/album/7h72Z9ynR6pYW7zhGlbChV"
-      },
-      "artists": [
-        {
-          "name": "Aron Burton",
-          "url": "https://open.spotify.com/artist/5MtZAGnIXaVV2GaVkSFXxb"
-        }
-      ],
-      "duration_ms": 378493,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/3dwWMDLZlZxtkvTjVA5J1Z"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Aron Burton Live",
+        "url": "https://open.spotify.com/album/7h72Z9ynR6pYW7zhGlbChV"
+      },
+      "artists": [
+        {
+          "name": "Aron Burton",
+          "url": "https://open.spotify.com/artist/5MtZAGnIXaVV2GaVkSFXxb"
+        }
+      ],
+      "duration_ms": 378493,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/3dwWMDLZlZxtkvTjVA5J1Z"
     },
     {
       "added_at": "2018-02-27 18:08:29",

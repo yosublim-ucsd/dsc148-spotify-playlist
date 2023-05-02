@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-174 songs - 8 hr 59 min
+175 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 | 2023-03-17 |  |
 | [CHOSEN](https://open.spotify.com/track/7aPr9KnO3XLXQQ8u5JDsMb) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHOSEN](https://open.spotify.com/album/6IG94A5YQ5AKqZs0RtXWTv) | 2:35 | 2023-04-14 |  |
 | [CLOUD 9](https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [CLOUD 9](https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx) | 3:08 | 2022-06-09 |  |
+| [Come Closer](https://open.spotify.com/track/2SBPw60niF4PMa0i5HRrBS) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Lil Nafy](https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS) | [Come Closer](https://open.spotify.com/album/24ExWn1W0i4NzG1CPxXYXT) | 2:41 | 2023-04-27 |  |
 | [Come My Way](https://open.spotify.com/track/15rWCjxhuKiWgHLzuzduKn) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [Hopeless Romantic Riddim](https://open.spotify.com/album/49JiNiTZIyxzCeGhoc2yBs) | 3:04 | 2022-06-09 | 2023-03-04 |
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-07-08 |  |
 | [Confess](https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Confess](https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e) | 2:40 | 2022-11-18 | 2023-04-19 |
@@ -108,7 +109,7 @@
 | [Mine](https://open.spotify.com/track/1nzmbzGyRa3X8n3s0AAubj) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa), [TAIO](https://open.spotify.com/artist/6WuZ1saWkFrczv6G1inkOp) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:55 | 2022-06-09 | 2022-10-01 |
 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 | 2022-08-05 | 2023-03-04 |
 | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/track/3YMPFjNdqspuEvCUYXbWAl) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/album/2pTkLDnVeiVT3HOdeh2r5Y) | 3:17 | 2023-03-30 |  |
-| [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-06-09 |  |
+| [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-06-09 | 2023-05-02 |
 | [Never Love Again](https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Never Love Again](https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt) | 3:05 | 2022-06-09 | 2022-08-07 |
 | [No letting guh](https://open.spotify.com/track/4C0DwDS6OzrUjtU8VtwhUN) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [No letting guh](https://open.spotify.com/album/1nW3aKGYni9OSGk2311kr9) | 2:24 | 2023-03-24 | 2023-04-21 |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 |  |

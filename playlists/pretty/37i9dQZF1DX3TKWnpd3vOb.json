@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Bunkers",
-  "num_followers": 200189,
+  "num_followers": 200192,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTNiMTY5Y2I0MDZjNTUyYzIzNjY2MGFjMDU2OGY0NzUwYzQzOTlm",
+  "snapshot_id": "MCw0ZTFlZjA4MjRiYzM5YjEwMjUwMWNkNDljMGZhYjFkN2RiYzEwZGJi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -91,18 +91,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Rey",
-        "url": "https://open.spotify.com/album/5IMv5sPdSP7leaSaehgacp"
+        "name": "Te van a olvidar",
+        "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
       },
       "artists": [
         {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        },
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
         }
       ],
-      "duration_ms": 223340,
-      "name": "Rey",
-      "url": "https://open.spotify.com/track/3rS6pLKhoZ8m0Z5vqgoCfc"
+      "duration_ms": 241651,
+      "name": "Te van a olvidar",
+      "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -123,26 +127,6 @@
       "duration_ms": 251454,
       "name": "Rescatame",
       "url": "https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Te van a olvidar",
-        "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        },
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 241651,
-      "name": "Te van a olvidar",
-      "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -179,34 +163,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
+        "name": "Rey",
+        "url": "https://open.spotify.com/album/5IMv5sPdSP7leaSaehgacp"
       },
       "artists": [
         {
-          "name": "Los Ex",
-          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 153991,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "De Polic\u00eda a Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        }
-      ],
-      "duration_ms": 192646,
-      "name": "De Polic\u00eda a Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+      "duration_ms": 223340,
+      "name": "Rey",
+      "url": "https://open.spotify.com/track/3rS6pLKhoZ8m0Z5vqgoCfc"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -227,22 +195,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Resiste M\u00e1s Que Yo",
-        "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
       },
       "artists": [
         {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+          "name": "Los Ex",
+          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
         }
       ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Yo",
-      "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
+      "duration_ms": 153991,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -263,18 +227,38 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "No Me Esperes M\u00e1s",
-        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
+        "name": "De Polic\u00eda a Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
       },
       "artists": [
         {
-          "name": "Los Insolentes",
-          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
         }
       ],
-      "duration_ms": 191658,
-      "name": "No Me Esperes M\u00e1s",
-      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
+      "duration_ms": 192646,
+      "name": "De Polic\u00eda a Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Resiste M\u00e1s Que Yo",
+        "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+        }
+      ],
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Yo",
+      "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -331,22 +315,34 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Carne (En vivo)",
-        "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
+        "name": "No Me Esperes M\u00e1s",
+        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
       },
       "artists": [
         {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Claudio Valenzuela",
-          "url": "https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE"
+          "name": "Los Insolentes",
+          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
         }
       ],
-      "duration_ms": 359233,
-      "name": "Carne - En Vivo",
-      "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
+      "duration_ms": 191658,
+      "name": "No Me Esperes M\u00e1s",
+      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/6PPyGzsdOpAwX1RQBakY5Y"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 264249,
+      "name": "Dual",
+      "url": "https://open.spotify.com/track/2DZ3nXTxxmwBe9f7D7ruFE"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -399,38 +395,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/6PPyGzsdOpAwX1RQBakY5Y"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 264249,
-      "name": "Dual",
-      "url": "https://open.spotify.com/track/2DZ3nXTxxmwBe9f7D7ruFE"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Me Vuelves a Herir (En Vivo)",
-        "url": "https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 282572,
-      "name": "Me Vuelves a Herir - En Vivo",
-      "url": "https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Camino a Casa",
         "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
       },
@@ -447,6 +411,42 @@
       "duration_ms": 173664,
       "name": "Camino a Casa",
       "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Carne (En vivo)",
+        "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Claudio Valenzuela",
+          "url": "https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE"
+        }
+      ],
+      "duration_ms": 359233,
+      "name": "Carne - En Vivo",
+      "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Abejas En La Miel",
+        "url": "https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 225696,
+      "name": "Abejas En La Miel",
+      "url": "https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -479,38 +479,6 @@
       "duration_ms": 218735,
       "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Abejas En La Miel",
-        "url": "https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 225696,
-      "name": "Abejas En La Miel",
-      "url": "https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -551,6 +519,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "P\u00e1lida Forma Nocturna",
         "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "R\u00e1pida Comida",
-        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
+        "name": "Me Vuelves a Herir (En Vivo)",
+        "url": "https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq"
       },
       "artists": [
         {
-          "name": "Conf\u00edo en tus amigos",
-          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 124552,
-      "name": "Surfing caracol",
-      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
+      "duration_ms": 282572,
+      "name": "Me Vuelves a Herir - En Vivo",
+      "url": "https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -627,6 +611,22 @@
       "duration_ms": 176471,
       "name": "Como te amo - Radio Edit",
       "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "R\u00e1pida Comida",
+        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
+      },
+      "artists": [
+        {
+          "name": "Conf\u00edo en tus amigos",
+          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
+        }
+      ],
+      "duration_ms": 124552,
+      "name": "Surfing caracol",
+      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Bien",
-        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
-      },
-      "artists": [
-        {
-          "name": "99 Payasos",
-          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
-        }
-      ],
-      "duration_ms": 177487,
-      "name": "Bien",
-      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Shawarma Love",
         "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 231750,
       "name": "Shawarma Love",
       "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Bien",
+        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
+      },
+      "artists": [
+        {
+          "name": "99 Payasos",
+          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
+        }
+      ],
+      "duration_ms": 177487,
+      "name": "Bien",
+      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
     },
     {
       "added_at": "2023-04-28 04:01:00",

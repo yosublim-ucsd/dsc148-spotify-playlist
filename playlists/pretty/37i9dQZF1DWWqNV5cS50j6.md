@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > maxime\. makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,306 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,302 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Oh God](https://open.spotify.com/track/3jQRh7laQ983q2bFGWpWuD) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Oh God](https://open.spotify.com/album/2Yu3wsBaJjFveHhuqD4DK7) | 2:59 |
 | 100 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
 
-Snapshot ID: `MCwxZDc1Yzg2ZmRkMzc3OWRkNmZhNTg0NjQ0ZDBkNTY2YzA5NGFlMzcw`
+Snapshot ID: `MCwzMjIzNjJkNzMyN2QxNzI1YTQ5NWEzMGE4ZWI4MmRkOWJkNzA1NGIx`

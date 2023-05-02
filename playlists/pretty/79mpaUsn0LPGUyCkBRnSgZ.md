@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 200 songs - 12 hr 29 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 203 songs - 12 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,5 +208,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 198 | [Streaker \(feat\. Notrabel\)](https://open.spotify.com/track/2hJkzU5Ry3CDL3N9ad8fRc) | [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR), [Notrabel](https://open.spotify.com/artist/3UYripz5TaFWumKpWjVXQw) | [Ultima II Massage](https://open.spotify.com/album/4BBxAB26ofkXvBmlatzTpW) | 2:52 |
 | 199 | [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 |
 | 200 | [That! Feels Good!](https://open.spotify.com/track/1XaHF28nrXBbyitGIGSdna) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:22 |
+| 201 | [Time Back](https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 2:11 |
+| 202 | [Body](https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:07 |
+| 203 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 |
 
-Snapshot ID: `ODI4LDVkYzU1YmUwN2MyMWY1NjViOGFmNDM5MTEzYTNlNDczYTE5NTk3OTg=`
+Snapshot ID: `ODMxLDE4MDgxZTU4MzQ5MjQzNTZkMmU2MGViYTUxYTQ4MTg0ZTZkM2M1M2M=`

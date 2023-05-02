@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Yoon Jiyoung\(윤지영\)\)
 
-300 songs - 16 hr 43 min
+301 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 | 2022-05-27 |  |
 | [If Not Me \(Feat\. SUMIN\)](https://open.spotify.com/track/0IX1Imw66sngLjidxvVVFQ) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 3:10 | 2022-05-27 | 2022-07-28 |
 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 | 2022-05-27 |  |
+| [In My Garden](https://open.spotify.com/track/5IKqWeB2TLj8aCwBpE5ila) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [In My Garden](https://open.spotify.com/album/6pOsJOh8sEaVBmObEI9ArK) | 3:42 | 2023-04-22 |  |
 | [Intro5](https://open.spotify.com/track/132Sr4XzND5lLD2gBg8wpz) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 5:30 | 2022-05-27 | 2022-07-27 |
 | [island](https://open.spotify.com/track/0qhBGQQnVuf1yygqwTIBMo) | [OhAn](https://open.spotify.com/artist/1rtMEdkyhkt6K6CAclvkXX), [이나래](https://open.spotify.com/artist/6GowlIsKd7y09TomG1R0G2) | [island](https://open.spotify.com/album/2i00pi3cbshoktcuGgsyA4) | 3:40 | 2022-05-27 | 2022-07-22 |
 | [It Was All a Dream](https://open.spotify.com/track/7GzefGaB1o5MpjDj811ISL) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:16 | 2022-05-27 | 2023-01-20 |
@@ -168,7 +169,7 @@
 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 | 2022-05-27 | 2022-12-20 |
 | [maldivian night](https://open.spotify.com/track/75kuXEhMGPeiv8fhiU4z2h) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [maldivian night](https://open.spotify.com/album/184u2TOIGw3XN21212Wp1j) | 3:11 | 2022-05-27 | 2022-07-23 |
 | [Matrix<3](https://open.spotify.com/track/1fVA0U2ed6LhGC9ADynsJ7) | [Noizeegu](https://open.spotify.com/artist/6eLjOr4BzLerxxVuzLClOe) | [Matrix<3](https://open.spotify.com/album/1KEfk7HWYLhkJcItcgpVNf) | 3:06 | 2022-06-09 | 2022-07-27 |
-| [Melody](https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Melody](https://open.spotify.com/album/3esIkkntCgiFEfYmgKgTBR) | 4:13 | 2023-03-16 |  |
+| [Melody](https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Melody](https://open.spotify.com/album/3esIkkntCgiFEfYmgKgTBR) | 4:13 | 2023-03-16 | 2023-05-02 |
 | [Melting Point \(Feat\. Samuel Seo\)](https://open.spotify.com/track/0RaxRKVWQTnZ31L4LfUGXt) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Summer Soundcloud](https://open.spotify.com/album/03aZUdnQGIb9bnp2kY7d7X) | 4:36 | 2022-08-19 | 2022-10-22 |
 | [mold](https://open.spotify.com/track/1eZdfEUGt6fxXbdoeR6YdE) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [mold](https://open.spotify.com/album/2k02z19MyPXeDTm3yYBIoh) | 3:46 | 2022-06-13 | 2022-07-28 |
 | [MOM \(feat\. So!YoON!\)](https://open.spotify.com/track/7kjrjlPMRQCNF93rv2Lz81) | [이수호](https://open.spotify.com/artist/7lBTPuykSETKIYL6JYjSHP), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Monika](https://open.spotify.com/album/5Mv4DGuPIBSBg2V3wLOPKA) | 3:02 | 2023-02-20 | 2023-03-18 |

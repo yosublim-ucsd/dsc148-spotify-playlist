@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 229962,
+  "num_followers": 230013,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTYyN2UyOGE5ODczOTg3NDQ0NjQyYTMyNzlhNzQ0NDNjNjRjZTI2",
+  "snapshot_id": "MCw0ODUyYWExOTFiZWIyNmQ1YmZiNjdlYTk2ZjBhZDE3NWEzMzA4ZTli",
   "tracks": [
     {
       "added_at": "2023-04-23 08:57:32",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
-        "name": "Valentina",
-        "url": "https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 154531,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
-    },
-    {
-      "added_at": "2023-04-23 08:57:32",
-      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -431,6 +415,42 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 154531,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
+    },
+    {
+      "added_at": "2023-04-23 08:57:32",
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "How (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
+    },
+    {
+      "added_at": "2023-04-23 08:57:32",
+      "album": {
         "name": "GLU",
         "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 182068,
       "name": "Tread Carefully",
       "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
-    },
-    {
-      "added_at": "2023-04-23 08:57:32",
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "How (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
+    },
+    {
+      "added_at": "2023-04-23 08:57:32",
+      "album": {
         "name": "Used To Me (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 167591,
       "name": "Used To Me (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
-    },
-    {
-      "added_at": "2023-04-23 08:57:32",
-      "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         }
       ],
-      "duration_ms": 183895,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
       "artists": [
         {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
+      "duration_ms": 183895,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
+      "duration_ms": 270585,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         }
       ],
-      "duration_ms": 270585,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4"
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
-    },
-    {
-      "added_at": "2023-04-23 08:57:32",
-      "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
         "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 162188,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
+    },
+    {
+      "added_at": "2023-04-23 08:57:32",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
-        "name": "Conflict Of Interest",
-        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "10,000 Tears (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA"
-    },
-    {
-      "added_at": "2023-04-23 08:57:32",
-      "album": {
         "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
         "url": "https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD"
       },
@@ -1335,6 +1315,26 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
+        "name": "Conflict Of Interest",
+        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "10,000 Tears (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA"
+    },
+    {
+      "added_at": "2023-04-23 08:57:32",
+      "album": {
         "name": "Goofy",
         "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
-    },
-    {
-      "added_at": "2023-04-23 08:57:32",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 187428,
       "name": "Bittersweet Goodbyes",
       "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
+    },
+    {
+      "added_at": "2023-04-23 08:57:32",
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
+    },
+    {
+      "added_at": "2023-04-23 08:57:32",
+      "album": {
         "name": "Man Makes Plans",
         "url": "https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 208000,
       "name": "Open - Remix",
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
-    },
-    {
-      "added_at": "2023-04-23 08:57:32",
-      "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
-        "name": "SASSY (Deluxe)",
-        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Spoon & Bang",
-      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
-    },
-    {
-      "added_at": "2023-04-23 08:57:32",
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-04-23 08:57:32",
       "album": {
+        "name": "SASSY (Deluxe)",
+        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Spoon & Bang",
+      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
+    },
+    {
+      "added_at": "2023-04-23 08:57:32",
+      "album": {
         "name": "Candydrip (Deluxe)",
         "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
       },
@@ -1603,6 +1603,26 @@
       "duration_ms": 284893,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
+    },
+    {
+      "added_at": "2023-04-23 08:57:32",
+      "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        }
+      ],
+      "duration_ms": 195976,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
     },
     {
       "added_at": "2023-04-23 08:57:32",
@@ -1671,26 +1691,6 @@
       "duration_ms": 253714,
       "name": "Heart Is On My Sleeve",
       "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
-    },
-    {
-      "added_at": "2023-04-23 08:57:32",
-      "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Haile",
-          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
-        }
-      ],
-      "duration_ms": 195976,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
     },
     {
       "added_at": "2023-04-23 08:57:32",

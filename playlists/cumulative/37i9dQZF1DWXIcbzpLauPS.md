@@ -4,12 +4,13 @@
 
 > Metalcore at its finest\. Cover: Veil Of Maya
 
-678 songs - 1 day 18 hr 44 min
+680 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(•REC\)](https://open.spotify.com/track/4fvR2GgkKNA3fF6sJkEWrF) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [\(•REC\)](https://open.spotify.com/album/42BvL4j3lOANgw96Xr0h5X) | 2:43 | 2022-07-13 | 2022-07-18 |
 | [10:35](https://open.spotify.com/track/0F0lT8EmvnKUYZ1YLR6ops) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [10:35](https://open.spotify.com/album/2N96LsbA1SO5Q6BpjIuY9O) | 2:49 | 2023-01-20 | 2023-04-01 |
+| [30 Under 13](https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [30 Under 13](https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b) | 4:05 | 2023-05-01 |  |
 | [5 AM](https://open.spotify.com/track/31HxV5T50CjQVzyo6yh6Jm) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA), [Blind8](https://open.spotify.com/artist/6Cp7Edmrgw7XA8duPOFmtz) | [5 AM](https://open.spotify.com/album/72sgXs42eBocQjRCFUvM4H) | 3:09 | 2022-04-22 | 2022-05-21 |
 | [A Bloodsoaked Symphony](https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [A Bloodsoaked Symphony](https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X) | 4:28 | 2022-07-13 | 2022-07-23 |
 | [A Crooked Melody](https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [A Crooked Melody](https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE) | 3:55 | 2023-04-21 |  |
@@ -174,7 +175,7 @@
 | [Deathtouch](https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Deathtouch](https://open.spotify.com/album/4lK1lZBV3S2o8XhMvSbvHH) | 3:45 | 2022-07-13 | 2022-07-23 |
 | [Deathtouch](https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Deathtouch](https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ) | 3:21 | 2022-07-13 | 2022-07-23 |
 | [Deathwish](https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW) | [Deathwish](https://open.spotify.com/album/4HJfPe3SlTU1qoT2qHGLCh) | 3:47 | 2022-07-13 | 2022-07-23 |
-| [Decay](https://open.spotify.com/track/188VxGLFQF56eO5o7bOwiC) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Decay](https://open.spotify.com/album/5wYZPVMaVGyrfy8xeJdswt) | 3:26 | 2023-02-24 |  |
+| [Decay](https://open.spotify.com/track/188VxGLFQF56eO5o7bOwiC) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Decay](https://open.spotify.com/album/5wYZPVMaVGyrfy8xeJdswt) | 3:26 | 2023-02-24 | 2023-05-02 |
 | [Dedication To Flesh](https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67) | 3:26 | 2022-08-19 | 2022-12-17 |
 | [Defeating Gravity](https://open.spotify.com/track/2tWY9liu4YQs4WM3hOLdnP) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Defeating Gravity](https://open.spotify.com/album/3ScSXOlja6qwDv2Knrkd2c) | 3:06 | 2022-04-22 | 2022-07-08 |
 | [Defiance](https://open.spotify.com/track/3ABwHp5CgD7lIbLYuVbCUY) | [ENOX](https://open.spotify.com/artist/29giH6njkq3yqb6lIf4dou) | [Euphoria](https://open.spotify.com/album/5YEVvBgnmWsTbzxtLjSBNM) | 3:57 | 2022-01-14 | 2022-04-29 |
@@ -405,6 +406,7 @@
 | [My Everything](https://open.spotify.com/track/1Zsy3xy9TvYELEGg1js4yw) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4) | 3:53 | 2023-03-10 |  |
 | [MY WAY](https://open.spotify.com/track/7m2pH8YJAhAXN0ini7NV4K) | [STEELSHOOTER](https://open.spotify.com/artist/5e4eCpkqD4AK5mFyRjDPSk) | [MY WAY](https://open.spotify.com/album/7EQ3ZSc4aBHBSCx6IjPLEH) | 2:32 | 2022-07-13 | 2022-07-16 |
 | [My World](https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [My World](https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv) | 3:11 | 2022-06-24 | 2022-11-05 |
+| [Negative](https://open.spotify.com/track/77VOSQS7TnAd07ZtUTtHry) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Negative](https://open.spotify.com/album/0jXvfiBh58VrpCm1fy0ONH) | 3:04 | 2023-05-01 |  |
 | [Nemesis](https://open.spotify.com/track/1dVSJUkVNi36hr7VKiCWIt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Nemesis](https://open.spotify.com/album/3FdwX7ZZirpfzXPLdKpEYq) | 2:45 | 2022-03-25 | 2022-04-15 |
 | [Nemesis](https://open.spotify.com/track/3u4fdUGjzrXsfZfZS2j00k) | [Venom Prison](https://open.spotify.com/artist/3iSORLy7akvZ1g6QUMnM5f) | [Nemesis](https://open.spotify.com/album/4MK1OoQYfTvV7IO0n7tubP) | 4:12 | 2022-07-13 | 2022-07-19 |
 | [Neon Grave](https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Neon Grave](https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8) | 3:59 | 2022-03-25 | 2022-05-21 |

@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Apples",
+        "url": "https://open.spotify.com/album/4ba6vbfLpTzcKX2AgeLWsd"
+      },
+      "artists": [
+        {
+          "name": "Mokezi",
+          "url": "https://open.spotify.com/artist/3H4BXDh1utWbNJp32pTqIg"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109827,
+      "name": "Apples",
+      "url": "https://open.spotify.com/track/6loGdnZ9mZQvvjXdb7lsp3"
+    },
+    {
+      "album": {
         "name": "Arraial Da Ajuda",
         "url": "https://open.spotify.com/album/0Ok5qEMTp8NBbxvWWJFa3V"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 128235,
       "name": "Azur",
       "url": "https://open.spotify.com/track/4p47HkL5KGCRoZ7TqDw9rp"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 123428,
       "name": "Black Foam",
       "url": "https://open.spotify.com/track/5ABxYELhyp9nIHqCADcRSD"
@@ -1065,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Body Movement",
+        "url": "https://open.spotify.com/album/1oKz31JFwmP6zNrt4CIIz1"
+      },
+      "artists": [
+        {
+          "name": "Left spectrum of the brain",
+          "url": "https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Body Movement",
+      "url": "https://open.spotify.com/track/7KpPlRp8jYjuuBtTTW4sSd"
+    },
+    {
+      "album": {
         "name": "Boom Bap a Lula",
         "url": "https://open.spotify.com/album/2k5gyXnBomBRmlKqj0F5gt"
       },
@@ -1106,6 +1142,24 @@
       "duration_ms": 276705,
       "name": "Bossa",
       "url": "https://open.spotify.com/track/6YgYLWehHMYQ0EYScrgcK3"
+    },
+    {
+      "album": {
+        "name": "bossa cut",
+        "url": "https://open.spotify.com/album/1mxng9ytsNgTFwP8HzsQmb"
+      },
+      "artists": [
+        {
+          "name": "Joey Silva",
+          "url": "https://open.spotify.com/artist/4wVViv1ngnAiahW2T7UQgB"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83625,
+      "name": "bossa cut",
+      "url": "https://open.spotify.com/track/6YVIaAq88PGVOmfJ9nsYxP"
     },
     {
       "album": {
@@ -1298,7 +1352,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 105186,
       "name": "Brasileiro",
       "url": "https://open.spotify.com/track/7KZBQq0GlS2VDoN7AcTgSM"
@@ -1835,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Stuck In The Past",
+        "url": "https://open.spotify.com/album/0sTlbpXZHzXzscvxAeNSfW"
+      },
+      "artists": [
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Coffee Wave",
+      "url": "https://open.spotify.com/track/6aNGqho5YSTVFtCj85GgfR"
+    },
+    {
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0nYl18rnqfe2UzBE98mvmr"
       },
@@ -2312,7 +2384,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 133237,
       "name": "Di\u00e1rio de Gratid\u00e3o",
       "url": "https://open.spotify.com/track/0XRC16k0Q6Jhc2DVgcUSKD"
@@ -2958,6 +3030,24 @@
       "duration_ms": 182127,
       "name": "Fractures",
       "url": "https://open.spotify.com/track/4vUi7jdRNbJfcKCrkNDbbU"
+    },
+    {
+      "album": {
+        "name": "Free Ride",
+        "url": "https://open.spotify.com/album/3i0sQYyyxnxkVp4bM3n3Is"
+      },
+      "artists": [
+        {
+          "name": "Toronto 7s",
+          "url": "https://open.spotify.com/artist/6uunQvg4RiF0lBnTst3ylB"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Free Ride",
+      "url": "https://open.spotify.com/track/7lS8JzmEblLIz2NEA2y9IY"
     },
     {
       "album": {
@@ -3612,6 +3702,28 @@
       "duration_ms": 166170,
       "name": "High Coast Beat",
       "url": "https://open.spotify.com/track/1uqbepnCPGf5eZZFKDKvQG"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0ulwOH308qSJ5dcoUnehtV"
+      },
+      "artists": [
+        {
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4sXh3eo15M3C5TTPWzo52L"
     },
     {
       "album": {
@@ -4338,7 +4450,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 138461,
       "name": "Lazily",
       "url": "https://open.spotify.com/track/31O9nHEGRZGcAVDxHL1g56"
@@ -4536,7 +4648,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 96020,
       "name": "Lo-Fi Prism",
       "url": "https://open.spotify.com/track/7xMO3gsf52QohpGmPzBZgt"
@@ -4623,6 +4735,24 @@
     },
     {
       "album": {
+        "name": "Lou Fai Cumbia",
+        "url": "https://open.spotify.com/album/3h2d994lqrDoh37pDRsoK5"
+      },
+      "artists": [
+        {
+          "name": "Ancestral Beats",
+          "url": "https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lou Fai Cumbia",
+      "url": "https://open.spotify.com/track/4ZOUcA0HJ9QFWKKMDNWq7c"
+    },
+    {
+      "album": {
         "name": "Low Key",
         "url": "https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP"
       },
@@ -4686,7 +4816,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 92500,
       "name": "Lucy Dreamer",
       "url": "https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6"
@@ -5168,7 +5298,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 159000,
       "name": "Morning Bop",
       "url": "https://open.spotify.com/track/7zK6zgXTPYVpWa2W0mRghL"
@@ -5356,7 +5486,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 156800,
       "name": "Nectar",
       "url": "https://open.spotify.com/track/1X5E4FEGch9ScEk1gxu8Ne"
@@ -5544,7 +5674,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 121450,
       "name": "One Day at a Time",
       "url": "https://open.spotify.com/track/3YzOBxLQQVvqKH8xR0XgNh"
@@ -5790,6 +5920,28 @@
       "duration_ms": 127087,
       "name": "Palm Beach",
       "url": "https://open.spotify.com/track/3EK9wi1Guh6qmKuPbjGKIC"
+    },
+    {
+      "album": {
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/49HUPoewQCzirtetKfjC68"
+      },
+      "artists": [
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
+        },
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116280,
+      "name": "Palm Trees",
+      "url": "https://open.spotify.com/track/02E0RZRcqKb2ga7wSSsT3a"
     },
     {
       "album": {
@@ -6607,6 +6759,24 @@
     },
     {
       "album": {
+        "name": "Samba de orla",
+        "url": "https://open.spotify.com/album/6E7R0nN7PBwQkCf54aQbeM"
+      },
+      "artists": [
+        {
+          "name": "O F F",
+          "url": "https://open.spotify.com/artist/5IjGvQKE2nsaL2RkqnqYfG"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107417,
+      "name": "Samba de orla",
+      "url": "https://open.spotify.com/track/69OKsm8bcjSqRcVr2QAvW9"
+    },
+    {
+      "album": {
         "name": "Samba For You",
         "url": "https://open.spotify.com/album/5bmX6uFfrCBE8a1AQYkPIK"
       },
@@ -6896,7 +7066,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 131250,
       "name": "Skating the Lake",
       "url": "https://open.spotify.com/track/5IKNbO4WNxnw6JYqyov0zD"
@@ -7294,7 +7464,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 120267,
       "name": "Step",
       "url": "https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ"
@@ -7457,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "summer cloud",
+        "url": "https://open.spotify.com/album/7B6KQG9Gpal4AkHPWkG7SN"
+      },
+      "artists": [
+        {
+          "name": "calima.wav",
+          "url": "https://open.spotify.com/artist/6AMRD46xHAlgS5rW7QXcWN"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119478,
+      "name": "summer cloud",
+      "url": "https://open.spotify.com/track/1mAcXjJI3LKcuPjVq5O8Ge"
+    },
+    {
+      "album": {
         "name": "Summer Days",
         "url": "https://open.spotify.com/album/5coHjMDfYAdVqHtliqbx4H"
       },
@@ -7468,7 +7656,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 147692,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/7DteH9Q6xun1eJrOKZHADb"
@@ -8137,6 +8325,24 @@
     },
     {
       "album": {
+        "name": "theory",
+        "url": "https://open.spotify.com/album/3boH3lxcS1Nz9J1KuyZuRx"
+      },
+      "artists": [
+        {
+          "name": "Dean Bowser",
+          "url": "https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "theory",
+      "url": "https://open.spotify.com/track/4HKdPsYjadAjbyExkfHckS"
+    },
+    {
+      "album": {
         "name": "Thimbleberries",
         "url": "https://open.spotify.com/album/7FUiHgF7BKS0o0QEvn5o68"
       },
@@ -8798,7 +9004,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 187857,
       "name": "Waking Waves",
       "url": "https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm"
@@ -9200,7 +9406,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 91730,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V"

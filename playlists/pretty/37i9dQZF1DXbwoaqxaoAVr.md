@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,944 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,261 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 59 | [Magic Potion \(feat\. Lion Rezz\)](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 |
 | 60 | [Beautiful Things \(Remix\)](https://open.spotify.com/track/1OhaZufeyAo6bve6Dm8hWR) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [New Again](https://open.spotify.com/album/5RN7Lm1aUvOsr7viqOl4x4) | 4:05 |
 
-Snapshot ID: `MCxkMzQxZjFiNWRkMDdlMDdjMmE2NmZhYWY1YWEwMjQyOTk2ZWFmM2U2`
+Snapshot ID: `MCxkMWJmMjMxNzgxYTI5M2Y3N2U2ZWIyZjI4NDQ2NDg2MTljYWNjMWZj`

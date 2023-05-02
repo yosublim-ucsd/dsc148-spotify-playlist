@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "1984",
+        "url": "https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 Domaga\u0142a",
+          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205925,
+      "name": "Wystarcz\u0119 ja",
+      "url": "https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke"
+    },
+    {
+      "album": {
         "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
         "url": "https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 246771,
       "name": "Zosta\u0144",
       "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"

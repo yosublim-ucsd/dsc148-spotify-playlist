@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: FIFTY FIFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,383 likes - 86 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,122 likes - 86 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 85 | [CALLING](https://open.spotify.com/track/5NibycDD14103N4SpuTSe6) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [CALLING](https://open.spotify.com/album/5iDRA7S5w068WynMraKeL5) | 3:17 |
 | 86 | [O \(Circle\)](https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Circle \- The 1st Album](https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ) | 3:17 |
 
-Snapshot ID: `MCw1OWI0MDJiNDc4MjI0MWVlNzczODQ3MzEzYzhmMTNmMTU0N2I2OTlk`
+Snapshot ID: `MCxmZjY0ZGU4ZTY5Y2I0ZTg0ZGJmNTU5YmZmNjRkMTg2Y2ZhNDcwMTBi`

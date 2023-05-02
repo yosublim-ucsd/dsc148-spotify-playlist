@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-464 songs - 1 day 3 hr 6 min
+465 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Barcelona Nights](https://open.spotify.com/track/17vXZTcVsCJF1NBoaBQjm7) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Barcelona Nights](https://open.spotify.com/album/08tb3v7S80nm19wRGvhoDi) | 3:00 | 2022-06-17 | 2022-09-01 |
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-09 | 2023-04-29 |
 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 | 2022-10-27 | 2023-01-19 |
+| [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 | 2023-05-01 |  |
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
 | [Behind Your Eyes](https://open.spotify.com/track/1hV1ZlD4WGJzBZ4ScGJKdy) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Juneau](https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34) | [Behind Your Eyes](https://open.spotify.com/album/21vde0XQf3KcIL3rbyb4mf) | 2:26 | 2021-11-19 | 2022-02-08 |
 | [Between the Lines](https://open.spotify.com/track/4i3yA5Fw7yDsm7WtXXbFKK) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Between the Lines](https://open.spotify.com/album/2ZfG7t9gQhlSA9fHvyqvta) | 4:35 | 2022-02-01 | 2022-04-13 |
@@ -113,7 +114,7 @@
 | [Diving In](https://open.spotify.com/track/7amcoQCeUQxCNullGD7V7F) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Diving In](https://open.spotify.com/album/1WWPOc87xTKMigQYkmDRn9) | 3:49 | 2023-03-15 |  |
 | [do it](https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [do it](https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9) | 2:07 | 2022-03-09 | 2022-05-21 |
 | [Do It All Again](https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Do It All Again](https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V) | 2:17 | 2022-02-11 | 2022-04-23 |
-| [do my own thing](https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [do my own thing](https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC) | 3:42 | 2023-02-10 |  |
+| [do my own thing](https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [do my own thing](https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC) | 3:42 | 2023-02-10 | 2023-05-02 |
 | [Don't Let Me Down](https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Don't Let Me Down](https://open.spotify.com/album/7EqjRqiP6PJHOoypQfTQH6) | 3:00 | 2023-04-03 |  |
 | [Don't Need You](https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Don't Need You](https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz) | 3:27 | 2022-02-08 | 2022-04-19 |
 | [Doppelleben](https://open.spotify.com/track/7HF6q1y3zrvuB74VxOoZqP) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Doppelleben](https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9) | 4:09 | 2021-11-19 | 2022-02-23 |

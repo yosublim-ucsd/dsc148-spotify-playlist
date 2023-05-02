@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Witch Fever",
-  "num_followers": 142213,
+  "num_followers": 142370,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDVlZGUzYzI5NTNhM2JmODRkNmE5NDY4YzExODk0ODFkMzI5NjY3",
+  "snapshot_id": "MCw4Mzc3ZjMxOWJiY2MyYWE5YjFjMjg3MDBkZWNiY2UwOTJkY2FhMDFm",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -363,6 +363,38 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 256398,
+      "name": "Standing In the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Get Awkward",
+        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 131226,
+      "name": "Heart Throb - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Stay Alive",
         "url": "https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh"
       },
@@ -407,22 +439,6 @@
       "duration_ms": 183994,
       "name": "Full Metal Black",
       "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
-        "name": "Get Awkward",
-        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
-      },
-      "artists": [
-        {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
-        }
-      ],
-      "duration_ms": 131226,
-      "name": "Heart Throb - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -475,22 +491,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 256398,
-      "name": "Standing In the Way of Control",
-      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "gasoline",
         "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Chickens",
-        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Chickens",
-      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Grrrl Angst",
         "url": "https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP"
       },
@@ -585,20 +569,20 @@
       "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
     },
     {
-      "added_at": "2023-01-24 14:00:00",
+      "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Sorry, Mom",
-        "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
+        "name": "Chickens",
+        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
       },
       "artists": [
         {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
         }
       ],
-      "duration_ms": 369213,
-      "name": "Word Salad",
-      "url": "https://open.spotify.com/track/6woLlMQzFg2LcPWqlCh7tq"
+      "duration_ms": 260000,
+      "name": "Chickens",
+      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -615,6 +599,22 @@
       "duration_ms": 220914,
       "name": "Glitterspit",
       "url": "https://open.spotify.com/track/5tLlzGHopRtDv56PntKB8R"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Sorry, Mom",
+        "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 369213,
+      "name": "Word Salad",
+      "url": "https://open.spotify.com/track/6woLlMQzFg2LcPWqlCh7tq"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Everything Dies",
-        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
-      },
-      "artists": [
-        {
-          "name": "Nervus",
-          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
-        }
-      ],
-      "duration_ms": 191009,
-      "name": "Sick Sad World",
-      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Home Recordings 2020 - 2021",
         "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 188374,
       "name": "Girlracer",
       "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Everything Dies",
+        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
+      },
+      "artists": [
+        {
+          "name": "Nervus",
+          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Sick Sad World",
+      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Facades",
-        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
-      },
-      "artists": [
-        {
-          "name": "Limp Wrist",
-          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
-        }
-      ],
-      "duration_ms": 96051,
-      "name": "Thick Skin",
-      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "The Seduction of Kansas",
         "url": "https://open.spotify.com/album/7LFNJk5W0KLjtdgo9W4WmQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 167276,
       "name": "Good Time Charlie",
       "url": "https://open.spotify.com/track/3m8UItuMK5t0VXmTOztjDQ"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Facades",
+        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
+      },
+      "artists": [
+        {
+          "name": "Limp Wrist",
+          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
+        }
+      ],
+      "duration_ms": 96051,
+      "name": "Thick Skin",
+      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Pity Boy",
+        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
+      },
+      "artists": [
+        {
+          "name": "Mal Blum",
+          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
+        }
+      ],
+      "duration_ms": 151473,
+      "name": "Things Still Left to Say",
+      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Always Already",
         "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
       },
@@ -1111,6 +1127,22 @@
       "duration_ms": 143853,
       "name": "Sissy Fists",
       "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Imaginary Life",
+        "url": "https://open.spotify.com/album/3uCYNGmkNe9udFYrzB373J"
+      },
+      "artists": [
+        {
+          "name": "Worriers",
+          "url": "https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD"
+        }
+      ],
+      "duration_ms": 138824,
+      "name": "They / Them / Theirs",
+      "url": "https://open.spotify.com/track/7BNTExktKvdHBU9yspah6H"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1211,22 +1243,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Pity Boy",
-        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
-      },
-      "artists": [
-        {
-          "name": "Mal Blum",
-          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
-        }
-      ],
-      "duration_ms": 151473,
-      "name": "Things Still Left to Say",
-      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Severed Ties",
         "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 344553,
       "name": "For Matt",
       "url": "https://open.spotify.com/track/4Lrwl77lIBqBFtVIUQPI3D"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "I <3 90's dreamboy",
-        "url": "https://open.spotify.com/album/1ieYTzaa6pmH3PY5L5IeN6"
-      },
-      "artists": [
-        {
-          "name": "90'sdreamboy",
-          "url": "https://open.spotify.com/artist/03i7AdjvxoQCgJRNBh3NyQ"
-        }
-      ],
-      "duration_ms": 133520,
-      "name": "Macaulay Sulkin'",
-      "url": "https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY"
     }
   ],
   "unique_name": "Queercore",

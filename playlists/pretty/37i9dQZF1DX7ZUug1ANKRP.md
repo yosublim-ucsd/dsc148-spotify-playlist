@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Bassjackers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,724,170 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,724,427 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Spirit Of The Hawk](https://open.spotify.com/track/1u0vQfpkbTKMTmkO0lLDer) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [JAMYX](https://open.spotify.com/artist/2HZQ0WXT8ECFeGLFeCHhTy) | [Spirit Of The Hawk](https://open.spotify.com/album/1qlei1hLIFR5Bk11h3jKx6) | 2:43 |
 | 50 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 |
 
-Snapshot ID: `MCw5MjBkODZlY2RiMmM0MjYzMjJiNzUyYWEyOGY4NmQ2YjU1Mjg1OWMz`
+Snapshot ID: `MCw2YTU2MTZkODVhYmZiMzI1MDVmNWY5MWU5YzZkMDg4YTI0ZTViM2Ey`

@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 272535,
+  "num_followers": 272635,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTM0ZDg5ZWVhM2MwMmIyZDAwZDVkOTI4ZjFkMzE0ZDE5YjMzN2Jh",
+  "snapshot_id": "MCw4N2YwMTllYTcyZTQzZTA3ZTY5MzY4MjE1Y2MzZjE4Y2E5NTNjYjFk",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)",
-        "url": "https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 126920,
-      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind)",
-      "url": "https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Colter Wall",
         "url": "https://open.spotify.com/album/63o3vkvtW2Cn8QMiuBN1vN"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 137703,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/0YnbCBn2UdoM5Y1l6Am5EY"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)",
+        "url": "https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 126920,
+      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind)",
+      "url": "https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Music City USA",
-        "url": "https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 201163,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2xukUi9mX3gH3n6j0aPyD7"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Kitty Wells\u2019 Country Hit Parade",
         "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 152866,
       "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
       "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Music City USA",
+        "url": "https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 201163,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2xukUi9mX3gH3n6j0aPyD7"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Love Don\u2019t",
-      "url": "https://open.spotify.com/track/31ZxzRFepEtFwGcJiR2ePy"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 259591,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Love Don\u2019t",
+      "url": "https://open.spotify.com/track/31ZxzRFepEtFwGcJiR2ePy"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Ivory Castanets",
+        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Like a Wave",
+      "url": "https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Spades & Roses",
-        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 212053,
-      "name": "Heart of Somebody",
-      "url": "https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Luke Bell",
         "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
       },
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Ivory Castanets",
-        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
+        "name": "Spades & Roses",
+        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Like a Wave",
-      "url": "https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi"
+      "duration_ms": 212053,
+      "name": "Heart of Somebody",
+      "url": "https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 300895,
-      "name": "Weather",
-      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
         "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 257372,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 300895,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Like a Rose",
-        "url": "https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 199923,
-      "name": "Weed Instead of Roses",
-      "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 188240,
       "name": "Companion",
       "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Like a Rose",
+        "url": "https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "Weed Instead of Roses",
+      "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Years",
-        "url": "https://open.spotify.com/album/11HcrLOFCg1LKkLub2u91X"
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
       "artists": [
         {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
         }
       ],
-      "duration_ms": 193306,
-      "name": "Good As Gold",
-      "url": "https://open.spotify.com/track/4LHvE4PjSvyOE0rInpU9C7"
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Years",
+        "url": "https://open.spotify.com/album/11HcrLOFCg1LKkLub2u91X"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "Good As Gold",
+      "url": "https://open.spotify.com/track/4LHvE4PjSvyOE0rInpU9C7"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -991,54 +1007,6 @@
       "duration_ms": 227893,
       "name": "To Learn Her",
       "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
-      },
-      "artists": [
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Orphan Offering",
-        "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 338814,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1059,18 +1027,34 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+        "name": "Orphan Offering",
+        "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
       },
       "artists": [
         {
-          "name": "Skylar Gudasz",
-          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 286146,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+      "duration_ms": 338814,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 240801,
       "name": "Hotel Amarillo",
       "url": "https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+      },
+      "artists": [
+        {
+          "name": "Skylar Gudasz",
+          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "All Or Nothin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Mint Condition",
         "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 242493,
       "name": "Mint Condition",
       "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "All Or Nothin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Golden Eagle",
+        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "No One Has the Answers",
+      "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Golden Eagle",
-        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
       "artists": [
         {
-          "name": "Holly Macve",
-          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 208826,
-      "name": "No One Has the Answers",
-      "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Honest Life",
         "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Broken Wing",
-        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
-      },
-      "artists": [
-        {
-          "name": "Evil",
-          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
-        }
-      ],
-      "duration_ms": 275114,
-      "name": "Broken Wing",
-      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Broken Wing",
+        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
+      },
+      "artists": [
+        {
+          "name": "Evil",
+          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
+        }
+      ],
+      "duration_ms": 275114,
+      "name": "Broken Wing",
+      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1595,22 +1595,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Same Devil (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
       },
       "artists": [
         {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 187466,
-      "name": "Same Devil (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+      "duration_ms": 170915,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1631,34 +1627,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Make Way for Love",
-        "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
+        "name": "Same Devil (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
       "artists": [
         {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 235677,
-      "name": "Make Way for Love",
-      "url": "https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Forever and Then Some",
-        "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
-      },
-      "artists": [
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
         {
-          "name": "Lillie Mae",
-          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Honky Tonks and Taverns",
-      "url": "https://open.spotify.com/track/3IYEFU6TaJl5LmyJnkodBm"
+      "duration_ms": 187466,
+      "name": "Same Devil (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1675,6 +1659,22 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Make Way for Love",
+        "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 235677,
+      "name": "Make Way for Love",
+      "url": "https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ"
     }
   ],
   "unique_name": "Vintage Vibes",

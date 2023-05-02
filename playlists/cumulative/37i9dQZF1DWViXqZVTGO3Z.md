@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-312 songs - 20 hr 17 min
+313 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [I Saw Three Ships](https://open.spotify.com/track/4DJGAJKzUvnoRes5aiv3Ji) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [I Saw Three Ships](https://open.spotify.com/album/7b68CXUUCfcrygq4dkCaOh) | 2:53 | 2021-12-11 | 2022-07-28 |
 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 | 2021-12-11 |  |
 | [I Wonder As I Wander](https://open.spotify.com/track/5kycZFxvvLXk6tKKuczzMC) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Warmer In The Winter \(Deluxe Edition\)](https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g) | 4:26 | 2021-12-24 |  |
-| [I've Heard About You](https://open.spotify.com/track/6CATl1XIBbQqva5OXirWoF) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [I've Heard About You](https://open.spotify.com/album/7qrsgIB37dv92OBW4OdD21) | 3:32 | 2022-12-11 |  |
+| [I've Heard About You](https://open.spotify.com/track/6CATl1XIBbQqva5OXirWoF) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [I've Heard About You](https://open.spotify.com/album/7qrsgIB37dv92OBW4OdD21) | 3:32 | 2022-12-11 | 2023-05-02 |
 | [In the Bleak Midwinter](https://open.spotify.com/track/5bzcOvH44AGWMae2OA6X3e) | [Harold Darke](https://open.spotify.com/artist/0w5R8w5n1DiEnqt6C36ugm), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Daniel Hyde](https://open.spotify.com/artist/7H6L3HVFT9SDD9TK50x21K), [Matthew Martin](https://open.spotify.com/artist/2ObaysAtEHSMzarkoV3JAp), [Owen Elsley](https://open.spotify.com/artist/6Rp0ZfUGmjeWSPiWDn7Xvz) | [Harold Darke: In the bleak midwinter](https://open.spotify.com/album/6miInrNjftloDswKjRrUlR) | 4:57 | 2021-12-11 |  |
 | [In the bleak midwinter \(Arr\. Mack Wilberg\)](https://open.spotify.com/track/1OIEw3zeJZFsGzLOkxRX8r) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Daniel Hyde](https://open.spotify.com/artist/7H6L3HVFT9SDD9TK50x21K), [Matthew Martin](https://open.spotify.com/artist/2ObaysAtEHSMzarkoV3JAp) | [In the Bleak Midwinter: Christmas Carols from King's](https://open.spotify.com/album/5PlDwukFUwTveB4ae3QAp0) | 5:54 | 2021-12-24 | 2022-07-21 |
 | [Infant Holy, Infant Lowly](https://open.spotify.com/track/6p5EwrlhE0iDMEom4bTPsB) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Lauren Plank Goans](https://open.spotify.com/artist/3GtOQJYQvsjowW3f9M0Kod) | [Advent Songs](https://open.spotify.com/album/0q3YflR2DQiPytrpHx7lAA) | 2:31 | 2021-12-11 |  |
@@ -284,6 +284,7 @@
 | [The Night Before Christmas](https://open.spotify.com/track/5cHDEz4PT3UtZtWAqKd4JS) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [The Night Before Christmas](https://open.spotify.com/album/7Bav4cBa9NbIYLT3t7cKT8) | 3:40 | 2021-12-11 | 2022-12-29 |
 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 | 2021-12-11 |  |
 | [The Saviour Is Here](https://open.spotify.com/track/2cqV7UbShPiNITl9UsKJzQ) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [The Saviour Is Here](https://open.spotify.com/album/7LJ2alYjOWnQhE3M9weeZQ) | 4:16 | 2022-12-11 |  |
+| [The Secret of Christmas](https://open.spotify.com/track/3DhuvZ4jsW36pjKZHzUl5w) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb), [The Tabernacle Choir at Temple Sqare](https://open.spotify.com/artist/5aoAbG5Oafx3Cdzvz9IIuk) | [Winter Morning](https://open.spotify.com/album/6ZsYYeyBnM93AI6SKREsvB) | 3:50 | 2022-12-11 |  |
 | [The Space Between](https://open.spotify.com/track/6yO3BG2NbFqYkBQRxL506o) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Christmas](https://open.spotify.com/album/1fvAAs4qTKHY1sAq1PvVYy) | 3:51 | 2021-12-11 | 2022-07-27 |
 | [The Wait is Over](https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [The Wait is Over](https://open.spotify.com/album/2Uviy1FsGVVctRmFDH3MbE) | 4:18 | 2022-11-26 |  |
 | [There is a Promise](https://open.spotify.com/track/3J4HIR5gyLFxDLcKfKm7GS) | [David & Maaike](https://open.spotify.com/artist/7KYgxNTHfEPoXzsOKhvQXg) | [There is a Promise](https://open.spotify.com/album/04syM40Ri1WsG8L7OGebGY) | 4:11 | 2021-12-24 | 2022-07-29 |

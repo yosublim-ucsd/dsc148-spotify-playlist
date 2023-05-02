@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,132 likes - 137 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,265 likes - 137 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 136 | [Off The Deep End](https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Off The Deep End](https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f) | 3:16 |
 | 137 | [NO SAD SONGS](https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:52 |
 
-Snapshot ID: `MCxhYmMzYjMwNmJlYTY0OGU0NjVmMmU0YjU4ODc5OTY3NzdiYzI5Y2Yy`
+Snapshot ID: `MCwwNTJkNWJmZWMwMGQ5NWQ4MTk5YmE4NWIxNDRhYzBhZjc2YTA2ZmI1`

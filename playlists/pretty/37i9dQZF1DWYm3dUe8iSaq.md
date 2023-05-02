@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,322 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,354 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Ghost](https://open.spotify.com/track/5xWpOP3RvKvd8oz1y5HfRo) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6tEpoBigcuVdWFWqza7U8f) | 4:12 |
 | 80 | [Tie Dye Sky](https://open.spotify.com/track/5ULS4kXKJNRkG9mujwVk0l) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Silver Lake](https://open.spotify.com/album/2Nrtj9B5oaJjJh1fOpBtQZ) | 3:01 |
 
-Snapshot ID: `MCwxNTMxMjY1N2ZjMTAwODMwNTYzODY3MjIwYjExN2Y0YTA5ZjllYTU1`
+Snapshot ID: `MCw1ZWI0Y2UwYjY0M2U4ODM4YmE1YmFlOThiZjBlZjAwOTNkYmUzZmM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,304 likes - 269 songs - 15 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,307 likes - 269 songs - 15 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 74 | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/track/0na0lYafx97flwjhS0dNIR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/album/1LbJj3VpL4nL4xOjX4aCdb) | 3:06 |
 | 75 | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/track/36h65e9IteCo7PPvkBZUyl) | [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/album/3Yv1WJDoIjO4zI1y3Ypr92) | 2:47 |
 | 76 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
-| 77 | [HANDLE IT](https://open.spotify.com/track/7xhyrH0Es6AZ8SWqtWyUr1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:51 |
-| 78 | [Radio](https://open.spotify.com/track/6zsFddikwwAfBr3USkYSDx) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 3:15 |
+| 77 | [Radio](https://open.spotify.com/track/6zsFddikwwAfBr3USkYSDx) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 3:15 |
+| 78 | [HANDLE IT](https://open.spotify.com/track/7xhyrH0Es6AZ8SWqtWyUr1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:51 |
 | 79 | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/track/2iBm8zv7d3qUKphL0FgVog) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/album/28yED9i2j4hJHx4NPlRSXP) | 3:07 |
 | 80 | [DNA](https://open.spotify.com/track/0FfC67AEwBvtTWWfzzWo0m) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 2:57 |
 | 81 | [Tongue](https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:28 |
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 186 | [Interruption](https://open.spotify.com/track/6SGo3xaUbZEu8GfvtaCJzS) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Interruption](https://open.spotify.com/album/3qYHfrjfjposJMFWg1Tj1F) | 3:08 |
 | 187 | [No Question](https://open.spotify.com/track/2rdSeijZ1fZW7qQ98ROZvd) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Rare](https://open.spotify.com/album/65L9F76DAVu2S0qeBStsiK) | 2:38 |
 | 188 | [Yours or Mine](https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Yours or Mine](https://open.spotify.com/album/63FkQa3rp7kGD4qdr0vgvl) | 2:59 |
-| 189 | [Crazy World](https://open.spotify.com/track/2vzvAby7IKudoBV12P4s0A) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:46 |
-| 190 | [Today](https://open.spotify.com/track/0rkOrVDaEZFjYh0s2ncz3l) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
+| 189 | [Today](https://open.spotify.com/track/0rkOrVDaEZFjYh0s2ncz3l) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
+| 190 | [Crazy World](https://open.spotify.com/track/2vzvAby7IKudoBV12P4s0A) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:46 |
 | 191 | [Who You Are \- Part 2](https://open.spotify.com/track/0DstRCjGNNG3vPkZMJEmX2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Mike Brainchild](https://open.spotify.com/artist/5Mg9Dxp3NrBwJ8tJT2uzge) | [Who You Are \(Part 2\)](https://open.spotify.com/album/4hgKenc090ZE2VoxXEIWbF) | 3:47 |
 | 192 | [In My Eyes](https://open.spotify.com/track/7j8ZyqgjMSvLWLNtb6weTL) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Night Work](https://open.spotify.com/album/4HzRVctbnxNnZn9MZd7syD) | 3:23 |
 | 193 | [I’m Not Okay But I Know I’m Going To Be](https://open.spotify.com/track/6QY9QsU8KypFpl2Pi46KYs) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [I’m Not Okay But I Know I’m Going To Be](https://open.spotify.com/album/58yK3KLH0wJwCPHJAs2Eg5) | 3:55 |
@@ -278,4 +278,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 268 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 269 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `MjgwNDgzMjQsMDAwMDAwMDBlMzcxYTY1YTZjOTNhNmU1OWJiNTMxYTA0M2U5NzU0YQ==`
+Snapshot ID: `MjgwNDk3NjQsMDAwMDAwMDAyYjNhZmEyOGUxMTQzNzU5YzljNTU1MTVhYzAyOWY5Zg==`

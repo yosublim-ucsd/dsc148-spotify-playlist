@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-670 songs - 2 day 1 hr 10 min
+672 songs - 2 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-24 |  |
 | [Black Orpheus](https://open.spotify.com/track/6KjKbWznK5HfNiC1vpeMtG) | [Gary Smith](https://open.spotify.com/artist/2JKqNWMM2Bm0SMIAbfhL8k) | [The Soft Side Of Jazz](https://open.spotify.com/album/0K9C5SroiOPLoDGCFkhFxr) | 4:38 | 2022-04-14 | 2022-10-04 |
 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 | 2023-04-20 |  |
-| [Bleak Days](https://open.spotify.com/track/5fJgmA4jkcqoJBnLPC3AX7) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Bleak Days](https://open.spotify.com/album/6mOQtEqWlYUEFa6UIy2QYB) | 3:57 | 2022-12-22 |  |
+| [Bleak Days](https://open.spotify.com/track/5fJgmA4jkcqoJBnLPC3AX7) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Bleak Days](https://open.spotify.com/album/6mOQtEqWlYUEFa6UIy2QYB) | 3:57 | 2022-12-22 | 2023-05-02 |
 | [Blue And Sentimental](https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Count Basie](https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x) | 2:26 | 2022-04-14 |  |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-22 |  |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2022-04-14 | 2022-05-14 |
@@ -272,6 +272,7 @@
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/01sPJkRHG839tmyrd1V8s6) | 3:49 | 2022-09-08 | 2023-04-24 |
 | [I'm Glad There Is You](https://open.spotify.com/track/499pC27JxKGMh6mYyuRmlT) | [Bill Mobley](https://open.spotify.com/artist/2RnJnmDsu7HDPmj4UNjmjh), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Robert Hurst](https://open.spotify.com/artist/398OLP0K6sxmwsYaB7Wnmj), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [MoodScape](https://open.spotify.com/album/5ACA0ncZdwtno9H8jQ9AQk) | 8:04 | 2022-04-14 | 2022-10-03 |
 | [I'm In The Mood For Love](https://open.spotify.com/track/6iYC9yDJSp6JGzpJJT9hGD) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:09 | 2023-03-09 | 2023-04-19 |
+| [I'm Old Fashioned](https://open.spotify.com/track/6Z2gqKsxunB5ILpTiAn6Wg) | [Hooks and Lines](https://open.spotify.com/artist/0YUdQnLsDe3i8B5EEW9bQQ) | [I'm Old Fashioned](https://open.spotify.com/album/4wN6ip0j2fH9ZHoYNAIpzp) | 3:11 | 2023-04-27 |  |
 | [i've got a crush on you](https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [i've got a crush on you](https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4) | 3:36 | 2023-02-23 |  |
 | [If I could just go back](https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [If I could just go back](https://open.spotify.com/album/6pt2EdumSP5OK6gyUEXnaH) | 2:59 | 2023-01-20 |  |
 | [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 | 2022-04-14 | 2022-05-03 |
@@ -359,7 +360,7 @@
 | [Lullaby Of The Leaves \- 1998 Digital Remaster](https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Original Quartet With Chet Baker](https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA) | 3:15 | 2022-04-14 | 2022-10-08 |
 | [Lumberjacks'](https://open.spotify.com/track/4Za1MUR7dLiKbvYHxlMjhQ) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Lumberjacks'](https://open.spotify.com/album/5Hx0WztbDPWqBbjr2pjxyU) | 2:30 | 2023-01-19 |  |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 |  |
-| [Madrigal](https://open.spotify.com/track/3u4BpjWcxvAJNcW4AgRPFj) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Madrigal](https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7) | 3:15 | 2023-03-09 |  |
+| [Madrigal](https://open.spotify.com/track/3u4BpjWcxvAJNcW4AgRPFj) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Madrigal](https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7) | 3:15 | 2023-03-09 | 2023-05-02 |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-24 |  |
 | [Maid of the Mist](https://open.spotify.com/track/1VzGuLqOVD04gpXZxCDPiM) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Maid of the Mist](https://open.spotify.com/album/7ywB5P1IATCRF2oTqsWedW) | 2:24 | 2023-01-19 |  |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
@@ -677,6 +678,7 @@
 | [Young At Heart \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/3EtJrVRqa5SX20tTZDgD36) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 2:57 | 2022-06-30 | 2022-10-08 |
 | [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-16 |  |
 | [Your Love Is Mine \(feat\. Corinne Bailey Rae\) \- Nostalgia 77 Remix](https://open.spotify.com/track/0sGFsWPYyhN4X9LKT1EiOv) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn), [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [Re:Mixed](https://open.spotify.com/album/4p11Kaw9TBxfcRRXk8rlPn) | 3:17 | 2022-04-14 | 2022-04-28 |
+| [Your Shining Eyes](https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Your Shining Eyes](https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm) | 3:06 | 2023-04-27 |  |
 | [Últimamente](https://open.spotify.com/track/1BJmiWUEqMx2aqHqfIbeAQ) | [Joanna Mason](https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT) | [Últimamente](https://open.spotify.com/album/0UlBxNwVwKvU30I3RHUlAr) | 3:04 | 2022-12-22 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

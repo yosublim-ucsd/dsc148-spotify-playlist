@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-299 songs - 17 hr 29 min
+300 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [High Five](https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [High Five](https://open.spotify.com/album/3G3sIi4NccAcwsZwUC537k) | 3:29 | 2023-02-23 |  |
 | [High Places \- Radio Edit](https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg) | [Kane](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Singles Only \(Deluxe Edition\)](https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6) | 3:44 | 2023-02-23 |  |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2023-02-23 |  |
-| [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2023-02-23 |  |
+| [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2023-02-23 | 2023-05-02 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2023-02-23 |  |
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2023-02-23 |  |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2023-02-23 |  |
@@ -229,7 +229,7 @@
 | [Someone New](https://open.spotify.com/track/2DNXgvkyv35vTWvdgjs7qn) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:42 | 2023-02-23 |  |
 | [Something I Need](https://open.spotify.com/track/4KANJH1baadr3U7XsVbM17) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:01 | 2023-02-23 | 2023-04-26 |
 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 | 2023-02-23 |  |
-| [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-02-23 |  |
+| [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-02-23 | 2023-05-02 |
 | [Space For Two](https://open.spotify.com/track/07hBBiv9DqLCRECKmB0Q4n) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space For Two](https://open.spotify.com/album/6f0vesZuawgU9KzR62srFN) | 3:26 | 2023-02-23 |  |
 | [Starship Fantasy](https://open.spotify.com/track/0XKLRDrYJwxGuel9cKhIbd) | [Christian Kratzsch](https://open.spotify.com/artist/3c8IBhwIzheO7S7AfMfNqt), [Vinny G.](https://open.spotify.com/artist/7vN5IWvscJYNUzlNEBUZDL) | [Starship Fantasy](https://open.spotify.com/album/45ac94aq4QwSvQ0Q5DotFO) | 3:10 | 2023-04-25 |  |
 | [Start Again](https://open.spotify.com/track/5Km6e8PWkwEPVKlifElIDB) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Start Again](https://open.spotify.com/album/6AZP6Qm8YD7hUALhn0pd6O) | 3:37 | 2023-02-23 |  |
@@ -263,6 +263,7 @@
 | [The Poetry Man](https://open.spotify.com/track/0BLMTt0ufk4vqgKUU6T3MP) | [Stevie Ann](https://open.spotify.com/artist/0BLtgRpARRInhUuj2RnpBJ) | [Away From Here](https://open.spotify.com/album/2sU6VJXNO21g8i55eZY9f7) | 4:44 | 2023-02-23 |  |
 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 | 2023-04-06 |  |
 | [The Wait Is Over!](https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa) | [Matthew Crosby](https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r) | [The Wait Is Over!](https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY) | 3:55 | 2023-04-25 |  |
+| [This Is For The Ones](https://open.spotify.com/track/2ROYTksKBDPlBzI5JEKKF7) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [This Is For The Ones](https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg) | 3:17 | 2023-05-01 |  |
 | [This Is What It Feels Like \- John Ewbank Classical Remix](https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [John Ewbank](https://open.spotify.com/artist/0P8SMwZkYqLW4ts4BNlP79), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Armada Acoustic 2017](https://open.spotify.com/album/1vaZZiBeoQO0QvzcDyxfHr) | 3:12 | 2023-02-23 |  |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2023-02-23 |  |
 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2023-02-23 | 2023-04-26 |
@@ -282,7 +283,7 @@
 | [Walk on Water](https://open.spotify.com/track/7gJxovbniGxd1capql4YkA) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:34 | 2023-04-25 |  |
 | [Walking On A Wire](https://open.spotify.com/track/5T4dlptZuicwu2CENBBTiB) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Walking On A Wire](https://open.spotify.com/album/3lwoMf5HdSl5CeSWCG3UTP) | 3:35 | 2023-02-23 | 2023-04-26 |
 | [Wandering Heart](https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wandering Heart](https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At) | 3:20 | 2023-02-23 |  |
-| [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 | 2023-02-23 |  |
+| [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 | 2023-02-23 | 2023-05-02 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2023-02-23 |  |
 | [Water Under the Bridge](https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:00 | 2023-02-23 |  |
 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 | 2023-02-23 |  |

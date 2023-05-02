@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Leah Marie Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,460 likes - 143 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,478 likes - 143 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 142 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
 | 143 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 
-Snapshot ID: `MCxhZmE3Njg5ZDY3ZjFmNDVlM2JjZjA5YmU3MzVlZDViNDFkYzc2NzNj`
+Snapshot ID: `MCxiZWNhOGI2NDIxY2I2MWFkNTU3OGM2YzQ4ZTA1OWI3MDhmMWYxYjVj`

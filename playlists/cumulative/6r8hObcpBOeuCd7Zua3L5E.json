@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 166859,
       "name": "Tek It - Sped Up",
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
@@ -2896,6 +2896,24 @@
       "duration_ms": 194062,
       "name": "Wasted (Nightcore)",
       "url": "https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI"
+    },
+    {
+      "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/616YgzuEKN9P6hDM7WzsIT"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103826,
+      "name": "What A Night - Sped Up",
+      "url": "https://open.spotify.com/track/021pU0OP2qlfGG5WZHsv2t"
     },
     {
       "album": {

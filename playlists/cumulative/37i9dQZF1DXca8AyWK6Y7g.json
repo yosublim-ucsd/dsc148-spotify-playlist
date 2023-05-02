@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 164117,
       "name": "Are You Okay?",
       "url": "https://open.spotify.com/track/4BaFnIJJGI96NaxPyZ9HLy"
@@ -26638,6 +26638,24 @@
       "duration_ms": 158464,
       "name": "talking to yourself",
       "url": "https://open.spotify.com/track/15v3hWfg1p3gfjMZ3wJ4WA"
+    },
+    {
+      "album": {
+        "name": "Tall Boi",
+        "url": "https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150090,
+      "name": "Tall Boi",
+      "url": "https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ"
     },
     {
       "album": {

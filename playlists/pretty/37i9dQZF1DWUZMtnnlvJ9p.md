@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,666 likes - 144 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,804 likes - 144 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 | 143 | [Grenade](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:42 |
 | 144 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 |
 
-Snapshot ID: `MCwwZjhmOTliZWY5Mzk5YTE1MTZlZmE3NTAzYWU0Zjc5ODIzNjA0MGVl`
+Snapshot ID: `MCwxOTM2MTU4M2NlNzJhMzJkYTdhNTMxZWE4MmJhMTIwZDQ3ZWVhZDIy`

@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-548 songs - 2 day 3 hr 27 min
+549 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Auto Pimp](https://open.spotify.com/track/1skSNwcAgE7R2cLWAHhuSH) | [Amorphous Androgynous](https://open.spotify.com/artist/1edIQYI7l4FMeYwq6fNAZQ) | [Tales Of Ephidrina](https://open.spotify.com/album/4SNliyiumphhCLF7mPnAaJ) | 7:20 | 2022-04-13 | 2023-02-11 |
 | [Back Into Time](https://open.spotify.com/track/187k7eDnkzgvErhXPiNxGY) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/7D2Hg8N6JEpdyaUFe26yni) | 4:39 | 2022-04-13 |  |
 | [Back Into Time](https://open.spotify.com/track/5ivAHEDlmAzlf8dpP3ahYx) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/1EouHA01DrBfKSqQAIWVA9) | 4:39 | 2022-04-13 | 2022-07-29 |
-| [Bad Means Good](https://open.spotify.com/track/3KTvWdWeYYh9S82FJZA0o2) | [Clatterbox](https://open.spotify.com/artist/03Pkv50pMB8ZendhJtTdgH) | [Debut](https://open.spotify.com/album/4rZMoMR4RA5CFWdwAYbDMo) | 2:24 | 2022-04-13 |  |
+| [Bad Means Good](https://open.spotify.com/track/3KTvWdWeYYh9S82FJZA0o2) | [Clatterbox](https://open.spotify.com/artist/03Pkv50pMB8ZendhJtTdgH) | [Debut](https://open.spotify.com/album/4rZMoMR4RA5CFWdwAYbDMo) | 2:24 | 2022-04-13 | 2023-05-02 |
 | [Basscadet](https://open.spotify.com/track/300JzpjKxtRR8oAsnLers1) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 5:23 | 2022-04-13 | 2022-07-29 |
 | [Beep Street](https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE) | 6:37 | 2022-04-13 |  |
 | [Beep Street](https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS) | 6:37 | 2022-04-13 | 2023-02-02 |
@@ -302,6 +302,7 @@
 | [Monday \- Paracetamol \- 2019 remaster](https://open.spotify.com/track/6feRtddM3R0G4ylyRl5LPw) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Strangely Isolated Place](https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9) | 8:00 | 2022-04-13 |  |
 | [Montreal](https://open.spotify.com/track/0Og7Doec2OJfj6B4YHHReJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 7:15 | 2022-04-13 | 2023-04-02 |
 | [Montreal](https://open.spotify.com/track/4G5lTzfkklIotjt28dhlz3) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 7:15 | 2022-04-13 | 2022-09-13 |
+| [Mr\. Frosty](https://open.spotify.com/track/0dl9NcB987SNb5bUqHQsxG) | [Mike & Rich](https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H) | [Expert Knob Twiddlers](https://open.spotify.com/album/0HlGVb8TqEG6hlE9OVhCxW) | 6:53 | 2022-04-13 |  |
 | [Mr\. Frosty](https://open.spotify.com/track/3euakHnMLK3150TiX0Appv) | [Mike & Rich](https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H) | [Expert Knob Twiddlers](https://open.spotify.com/album/3AeR7vn3ZkHCKgHgjNxeQK) | 6:53 | 2022-04-13 | 2022-07-29 |
 | [Mr\. Frosty](https://open.spotify.com/track/6gG3LaEbu4O0bPfar4UpYz) | [Mike & Rich](https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H) | [Expert Knob Twiddlers](https://open.spotify.com/album/7FkYY7UIpjx44tuk6oGCKr) | 6:53 | 2022-04-13 | 2023-04-29 |
 | [MT1 t29r2](https://open.spotify.com/track/766E5SBcB2gZP5wFA6kd7m) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Collapse EP](https://open.spotify.com/album/3SbGxJVC8fHv41RFKCGIl3) | 6:04 | 2022-04-13 | 2022-07-29 |

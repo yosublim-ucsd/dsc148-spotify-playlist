@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,280 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,282 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 36 | [Y Sufrirás](https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:42 |
 | 37 | [Las Encueradas](https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:26 |
 | 38 | [Blues para Trabajar \- En Vivo](https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo en el Teatro Isabela Corona, Vol\. 2](https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3) | 3:10 |
-| 39 | [¡Vete al Carajo!](https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 3:46 |
-| 40 | [Todas Esas Lagrimas \- En Vivo](https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 5:20 |
+| 39 | [Todas Esas Lagrimas \- En Vivo](https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 5:20 |
+| 40 | [¡Vete al Carajo!](https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 3:46 |
 | 41 | [No Me la Acabó](https://open.spotify.com/track/2O6PTggiZQT3kRZ20EIX1v) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:07 |
 | 42 | [No Te Mueras en Mi Casa](https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rock Star](https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA) | 4:14 |
-| 43 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 |
-| 44 | [Te Necesito](https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Dr\. Hollywood](https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl) | 5:17 |
+| 43 | [Te Necesito](https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Dr\. Hollywood](https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl) | 5:17 |
+| 44 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 |
 | 45 | [Sola](https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:46 |
 | 46 | [Estoy Tan Solo](https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 3:12 |
-| 47 | [Whatsapp](https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 4:23 |
-| 48 | [Una Vez Mas \- En Vivo](https://open.spotify.com/track/30miTbpiE0lfCiLEEQryYF) | [Sur 16](https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En El Teatro Ferrocarrilero \(En Vivo Vol\. 2\)](https://open.spotify.com/album/3Jt4yEPdiMwXfTUVfOQUtE) | 3:58 |
-| 49 | [Empanízame la Mojarra](https://open.spotify.com/track/0Si0jP8VqfXivdvhnQG6A2) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 3:25 |
+| 47 | [Empanízame la Mojarra](https://open.spotify.com/track/0Si0jP8VqfXivdvhnQG6A2) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 3:25 |
+| 48 | [Whatsapp](https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 4:23 |
+| 49 | [Una Vez Mas \- En Vivo](https://open.spotify.com/track/30miTbpiE0lfCiLEEQryYF) | [Sur 16](https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En El Teatro Ferrocarrilero \(En Vivo Vol\. 2\)](https://open.spotify.com/album/3Jt4yEPdiMwXfTUVfOQUtE) | 3:58 |
 | 50 | [Ataque](https://open.spotify.com/track/3SdI7oIwqdpZcwuTf6TqCp) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:48 |
 
-Snapshot ID: `MjgwNDc2MjMsMDAwMDAwMDBlNDI5YTc2OTJjNGEyNDgzNjFhYmUxYTBlZjlkMmY0NQ==`
+Snapshot ID: `MjgwNDkwMTUsMDAwMDAwMDAxNDBlYTc1ZDVmYjNkM2VlYjA5ZjBkYjE2MmI4NTlkZQ==`

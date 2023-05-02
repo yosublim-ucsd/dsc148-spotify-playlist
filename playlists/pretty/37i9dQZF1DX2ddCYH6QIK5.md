@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: LIN, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,898 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,905 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Hide And Seek](https://open.spotify.com/track/3O7p4Q0e63OjkpD4dU7sjp) | [DIMILA](https://open.spotify.com/artist/1X7kdGnTbsIDXSDMYYpXI7) | [Hide And Seek](https://open.spotify.com/album/1KHPuMuMIVVXtJalNjkaVi) | 3:17 |
 | 80 | [Hide And Seek](https://open.spotify.com/track/3dmroJ1MVOD4JzVOzf1oxe) | [Josh Byrd](https://open.spotify.com/artist/03xvSzcyf45LgRL1j7ldBJ) | [Hide And Seek](https://open.spotify.com/album/0N20M3CmqLdf1ohsDJriWn) | 3:28 |
 
-Snapshot ID: `MCw2NmMyY2FkOTA2MWI2ZmE1YWNmNWI4OWRkYjc5ZjNlYjg5ZGU5MWFi`
+Snapshot ID: `MCwzZmU4N2VkNTk4ZTVlYjU3YmZlNGY3NjQ5Y2E3ZTczNzQ4YmVhOTJk`

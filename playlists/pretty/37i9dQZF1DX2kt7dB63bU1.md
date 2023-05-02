@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,985 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,091 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 39 | [Petite musique terrienne](https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc) | 2:20 |
 | 40 | [Nature Boy](https://open.spotify.com/track/6qb2rhcuK47JxLkyVAqbyA) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Nature Boy](https://open.spotify.com/album/5jwAJkrOO8IDT3l4VChY9F) | 3:26 |
 | 41 | [Estate](https://open.spotify.com/track/1CD05bHRSAgJFmODYYT84t) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Estate](https://open.spotify.com/album/5yWVlsZ0wDgsUwGFY670G5) | 3:43 |
-| 42 | [It's a Human Race](https://open.spotify.com/track/3RDHdubxaCzV9CLnyIfLG1) | [Jocelyn Gould](https://open.spotify.com/artist/0KOhfBkfEdH7cdjIgfQULJ), [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo), [Fabio Ragnelli](https://open.spotify.com/artist/0MrsXBswXpmuHDDcQ5cNGK), [Julian Bradford](https://open.spotify.com/artist/2GzepDWSoxZhG6q7tPPWCK) | [It's a Human Race](https://open.spotify.com/album/2i5iC6eF23xLjbFbtQZfuy) | 3:41 |
+| 42 | [It's a Human Race](https://open.spotify.com/track/3RDHdubxaCzV9CLnyIfLG1) | [Jocelyn Gould](https://open.spotify.com/artist/4FAayxZOl8GefkiyFHZ4It), [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo), [Fabio Ragnelli](https://open.spotify.com/artist/0MrsXBswXpmuHDDcQ5cNGK), [Julian Bradford](https://open.spotify.com/artist/2GzepDWSoxZhG6q7tPPWCK) | [It's a Human Race](https://open.spotify.com/album/2i5iC6eF23xLjbFbtQZfuy) | 3:41 |
 | 43 | [Sometimes I'm Happy](https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:04 |
 | 44 | [À La Tour Eiffel](https://open.spotify.com/track/71RkxMNJzFk80bo0p4OFnp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 3:53 |
 | 45 | [Day Dream](https://open.spotify.com/track/73meRvUTsRHm6Rf0klY4Jf) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Day Dream](https://open.spotify.com/album/7gzHf9YPAQUKBt7vdl0vl2) | 5:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [That's All](https://open.spotify.com/track/3itB2xTfBKKuYFMXCNPRuq) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [That's All](https://open.spotify.com/album/2ytd2pxd1DDjiDNbqqJPaY) | 2:13 |
 | 100 | [The Trouble With Hello Is Goodbye](https://open.spotify.com/track/4iLS8yqoN0XJ7R5B0h9BOU) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [The Trouble With Hello Is Goodbye](https://open.spotify.com/album/6OVXyjmOHzt8Q6WcKqB9Ru) | 4:33 |
 
-Snapshot ID: `MCw3MDJmYWRlZTc3NmRjMTNkNDRmZmQ5MjdjMGI1NWFjM2ZhODNjYzg5`
+Snapshot ID: `MCw4MDcxNjVhNzYzODAxYWFkNmEwNWE5NDhlNmFlMWZmYWQ0YmI5YWFj`

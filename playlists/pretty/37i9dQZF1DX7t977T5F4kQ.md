@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=\_Z6tjKSOQ0Cm5b\-xElnpPg"> KiDi </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,723 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,740 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Waiting](https://open.spotify.com/track/4GfP6pgJtCpov1AH3DzCuf) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Waiting](https://open.spotify.com/album/6pAQ4Fxuk9b4uymswdIJ3z) | 3:23 |
 | 80 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 |
 
-Snapshot ID: `MCwyNmFkMWYzY2VhYmYzYzdkMDY1NTYyYzdmN2FlMzQ1ODc3ZDdhMmVl`
+Snapshot ID: `MCxhYTBiMTU3MzZmMGMwYjBhOWNhMTQzNDVkNTQyMGI1MzhmYzE5YzAw`

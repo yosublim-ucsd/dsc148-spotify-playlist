@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Principio del Fin",
+        "url": "https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207911,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/12vuqOqhkajHyhQgRQEG4h"
+    },
+    {
+      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 207911,
       "name": "1990",
       "url": "https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT"

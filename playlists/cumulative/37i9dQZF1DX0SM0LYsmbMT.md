@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,460 songs - 5 day 13 hr 4 min
+3,461 songs - 5 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Better Times](https://open.spotify.com/track/1Ku09oZae2A0jmznumSKWN) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Better Times](https://open.spotify.com/album/2cxoKTF3fhtaIl6clGW3B1) | 1:50 | 2021-06-25 | 2021-07-23 |
 | [Between Waves](https://open.spotify.com/track/7BlRx52vRmpTUXYLRiNZsR) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Between Waves](https://open.spotify.com/album/2MGgUdBvYITe0PU5kQB43M) | 2:37 | 2020-05-30 | 2020-08-07 |
 | [Beyond](https://open.spotify.com/track/6jDf8XD3fMm3P1vMLvHZ6w) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Beyond](https://open.spotify.com/album/3QCEvkw9ddTF5WOyL3nPkl) | 1:46 | 2022-07-21 | 2022-12-26 |
-| [beyond the pines](https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [beyond the pines](https://open.spotify.com/album/53go6havwrx2e6kqQVvoM8) | 1:51 | 2022-08-18 |  |
+| [beyond the pines](https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [beyond the pines](https://open.spotify.com/album/53go6havwrx2e6kqQVvoM8) | 1:51 | 2022-08-18 | 2023-05-02 |
 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 | 2022-03-31 |  |
 | [Big City Vibe](https://open.spotify.com/track/6q04BcK0qYeu9XOHgVsPxV) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Big City Vibe](https://open.spotify.com/album/3fspqodqLIiUQceni8iSKN) | 2:56 | 2022-05-12 | 2022-05-26 |
 | [Big Time](https://open.spotify.com/track/6uEyAx80fBHRDPkVySJSZe) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf) | [Big Time](https://open.spotify.com/album/2zpgBfbNMzSE3l0XCbcAPy) | 2:03 | 2021-02-06 | 2021-02-20 |
@@ -2553,6 +2553,7 @@
 | [Seaside Dreams \- Instrumental](https://open.spotify.com/track/5IPoCwU2ayxp9fkfyeBvhw) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Close Distance \(Deluxe\)](https://open.spotify.com/album/0uXwG5vZwOKdfqznAabVRM) | 2:54 | 2022-06-16 | 2022-07-15 |
 | [Seaside Stories](https://open.spotify.com/track/1oFzAEO2ZWev2HuiePxZpx) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb) | [Seaside Stories](https://open.spotify.com/album/5UAeze7e9klbHmX9tiPT2N) | 1:51 | 2020-12-01 | 2021-02-06 |
 | [seat back.](https://open.spotify.com/track/6dLem417UyOoIwlPIP4EvA) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [seat back](https://open.spotify.com/album/5V7yAXaHaN6tsheQ0sCgpo) | 1:36 | 2020-05-12 | 2020-07-18 |
+| [Seattle](https://open.spotify.com/track/4n5WEddcRzo2BRGQbvmPwv) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97) | [Seattle](https://open.spotify.com/album/6IThpUfkxqxOvbGfzOVthI) | 1:47 | 2023-04-27 |  |
 | [Second Birth](https://open.spotify.com/track/5v20VA1m4f82DLwXOHTTqK) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Second Birth](https://open.spotify.com/album/7MzqnhlkEbl1dJIGGX03e6) | 2:36 | 2021-05-29 | 2021-11-19 |
 | [Second Chance](https://open.spotify.com/track/6bEeSQJImuxelI4h8FfVht) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Second Chance](https://open.spotify.com/album/79XKipLUqpUDLTIPmoRcr5) | 2:13 | 2022-05-12 | 2022-05-26 |
 | [Second Chance](https://open.spotify.com/track/4XRqTzS396OGLIn5bsxcaL) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy) | [Second Chance](https://open.spotify.com/album/0waAeeb83CLveoOQtyS38K) | 1:58 | 2022-10-06 |  |

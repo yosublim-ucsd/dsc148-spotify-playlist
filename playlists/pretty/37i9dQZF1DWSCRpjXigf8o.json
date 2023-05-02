@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 84015,
+  "num_followers": 84029,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGQxMjI3N2VkZDEzZGY2MTYxYjI0M2E3YTUzMDdiZjAzZDJjNjIz",
+  "snapshot_id": "MCxmZDQ2Nzk5Mjc1Y2JjZDhjNDBiMDRiYjQ2YjU4YWI3YWI3NTYxMWM0",
   "tracks": [
     {
       "added_at": "2023-04-27 15:00:00",
@@ -443,22 +443,18 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+        "name": "Be Not Nobody",
+        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+      "duration_ms": 237493,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -479,18 +475,22 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Be Not Nobody",
-        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
       "artists": [
         {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
         }
       ],
-      "duration_ms": 237493,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "beside you",
-        "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
         }
       ],
-      "duration_ms": 166023,
-      "name": "beside you",
-      "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+        "name": "beside you",
+        "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+      "duration_ms": 166023,
+      "name": "beside you",
+      "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
-      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
         "name": "Fire On Fire (From \"Watership Down\")",
         "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
       },
@@ -1283,38 +1283,6 @@
       "duration_ms": 246735,
       "name": "Fire On Fire - From \"Watership Down\"",
       "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
-        "name": "LANY",
-        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 211149,
-      "name": "ILYSB",
-      "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
-        "name": "Falling Like The Stars",
-        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Falling Like The Stars",
-      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -1339,6 +1307,22 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 211149,
+      "name": "ILYSB",
+      "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
         "name": "Dark in the City",
         "url": "https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ"
       },
@@ -1355,18 +1339,34 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+        "name": "Falling Like The Stars",
+        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
+      "duration_ms": 212720,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Everglow - Edit",
+      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Everglow",
-        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 227506,
-      "name": "Everglow - Edit",
-      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Put A Little Love On Me",
-        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224585,
-      "name": "Put A Little Love On Me",
-      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 172354,
       "name": "always",
       "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
+        "name": "Put A Little Love On Me",
+        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224585,
+      "name": "Put A Little Love On Me",
+      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
     },
     {
       "added_at": "2023-04-27 15:00:00",

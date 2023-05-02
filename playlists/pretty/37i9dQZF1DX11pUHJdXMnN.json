@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 57634,
+  "num_followers": 57643,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjY4ZWQ0NDdlODI2Njc2MzQ4ZWRhYTk2MGNiYWIzOWRlYThkNzE1",
+  "snapshot_id": "MCwxZDZhYTU5NjRjMTlmNGJhZmQxMDRkYmZkNDI2Y2U0YzFkZWE3ZTU3",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -487,6 +487,38 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Enter Castillo",
         "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
       },
@@ -555,38 +587,6 @@
       "duration_ms": 241889,
       "name": "Street Rave - Edit",
       "url": "https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
-      },
-      "artists": [
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",

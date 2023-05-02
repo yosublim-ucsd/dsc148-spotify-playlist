@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 246793,
+  "num_followers": 247050,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjA0NTY2ZTVlZTYwMjhlNjNiMDE2ZDYxZjMxNTE4YjE1NjgwNjY3",
+  "snapshot_id": "MCxiNzE2YzdiNjhkZGU1MzcxZDg1NDMwNmRhMjIxMTk2ZTMzZWJhM2M5",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -203,18 +203,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
+        "name": "Ol' Waylon",
+        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
+      "duration_ms": 202026,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -251,18 +255,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -287,18 +291,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Whiskey Bent And Hell Bound",
-        "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Whiskey Bent And Hell Bound",
-      "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -383,42 +387,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Ol' Waylon",
-        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "A Decade Of Hits",
         "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 240106,
       "name": "Long Haired Country Boy",
       "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+        "name": "Kenny Rogers",
+        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+      "duration_ms": 220866,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Kenny Rogers",
-        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+        "name": "Whiskey Bent And Hell Bound",
+        "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+      "duration_ms": 188386,
+      "name": "Whiskey Bent And Hell Bound",
+      "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "One Piece At A Time",
+        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tennessee Three",
+          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+        }
+      ],
+      "duration_ms": 241813,
+      "name": "One Piece at a Time",
+      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 142773,
       "name": "Daydreams About Night Things",
       "url": "https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "One Piece At A Time",
-        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tennessee Three",
-          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
-        }
-      ],
-      "duration_ms": 241813,
-      "name": "One Piece at a Time",
-      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Rocky Mountain Music",
-        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Two Dollars in the Jukebox - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 126666,
       "name": "I Love",
       "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Rocky Mountain Music",
+        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Two Dollars in the Jukebox - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
         "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
       },
@@ -1083,26 +1099,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
-        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "You're The Reason Our Kids Are Ugly",
-      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Essential Dolly Parton",
         "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
+        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 145946,
-      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
+      "duration_ms": 154560,
+      "name": "You're The Reason Our Kids Are Ugly",
+      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "It Was Almost Like A Song",
-        "url": "https://open.spotify.com/album/2x8TSQw4wmfjIENmrGlvO1"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 241080,
-      "name": "What A Difference You've Made In My Life",
-      "url": "https://open.spotify.com/track/4sxet9Zdu2Z9hdhAKbjlNI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Every Time Two Fools Collide",
         "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 180906,
       "name": "Every Time Two Fools Collide",
       "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "It Was Almost Like A Song",
+        "url": "https://open.spotify.com/album/2x8TSQw4wmfjIENmrGlvO1"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 241080,
+      "name": "What A Difference You've Made In My Life",
+      "url": "https://open.spotify.com/track/4sxet9Zdu2Z9hdhAKbjlNI"
     },
     {
       "added_at": "2023-02-24 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,845 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,066 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 125 | [Twisted Angel](https://open.spotify.com/track/1x5dPO4NtMBt8BsVx8cMzs) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [About to Xplode](https://open.spotify.com/album/7H1RSCEdKGrFF9aSQdANnJ) | 2:48 |
 | 126 | [You Give Me Something](https://open.spotify.com/track/5bSHyDR9VHcFUVUdh3cITx) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Out of My Head](https://open.spotify.com/album/539FA4h32bDJBDO88ruwXV) | 3:52 |
 | 127 | [Innocence Of Youth \- Live](https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Innocence Of Youth](https://open.spotify.com/album/1c69MRP9d9rPor6AJ2cgfg) | 5:00 |
-| 128 | [To The Bone](https://open.spotify.com/track/2vDFtFES302W2LdkgJY7Vt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [To The Bone](https://open.spotify.com/album/3rVPrMd1k1qhitQyoKsrPp) | 3:39 |
+| 128 | [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:39 |
 | 129 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
 | 130 | [The Mould](https://open.spotify.com/track/5DWagsDtyFGdUSD2EM0dBQ) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/0F2pZYTsXZ5nWdSuFtTu1Y) | 3:59 |
 | 131 | [Muddy Water](https://open.spotify.com/track/7u4iSaTwibK4RlptP5mdnY) | [Zach Person](https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA) | [Muddy Water](https://open.spotify.com/album/2tEQrIm7Kd6T2PDPF0KDun) | 4:48 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Just Takes Time](https://open.spotify.com/track/4NfUTIqcPzLTcL7Owbezt7) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/52jRQHJzlln2SkAfYQnLQC) | 3:09 |
 | 150 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 |
 
-Snapshot ID: `MCw1YmY0ZDQzMWM0YjY4ZGMwYWQ0NWM2ZGNjM2U4M2E4M2QyZjQ5OTk4`
+Snapshot ID: `MCw3NmVkNWZlYzkyMWY0ZDRmOWU3MmJlMTE1ZDQ3OTIzZmQ0MmYxNzM4`

@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1374784,
+  "num_followers": 1375243,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWFlYzE0YWEwMWQxNTgxY2U3NDdmNDQzNTg2ZGQyYjM1ZjlhMTA2",
+  "snapshot_id": "MCw2ZDIzOGVjYWJkOTMyN2M5NzYxZDBmNzc5MjViNDMwY2JiYWI5MWU3",
   "tracks": [
     {
       "added_at": "2022-11-23 23:22:42",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 223866,
       "name": "What a Fool Believes",
       "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -459,22 +459,18 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Lean on Me: The Best of Bill Withers",
-        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
       "artists": [
         {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        },
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 237373,
-      "name": "Just the Two of Us (feat. Bill Withers)",
-      "url": "https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M"
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -495,18 +491,22 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        },
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+      "duration_ms": 237373,
+      "name": "Just the Two of Us (feat. Bill Withers)",
+      "url": "https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "Five-A-Side",
         "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Brother To Brother",
-        "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
-      },
-      "artists": [
-        {
-          "name": "Gino Vannelli",
-          "url": "https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "I Just Wanna Stop",
-      "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "A Rock And Roll Alternative",
         "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 260866,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
+        "name": "Brother To Brother",
+        "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
+      },
+      "artists": [
+        {
+          "name": "Gino Vannelli",
+          "url": "https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "I Just Wanna Stop",
+      "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
+        "name": "Nightwatch",
+        "url": "https://open.spotify.com/album/2IIoRTMSjA1fTv11MdpGMj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Whenever I Call You \"Friend\" (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/5NCY3uTCovd93aqwbodUhm"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
       },
@@ -1131,22 +1151,18 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Nightwatch",
-        "url": "https://open.spotify.com/album/2IIoRTMSjA1fTv11MdpGMj"
+        "name": "High Adventure",
+        "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
       },
       "artists": [
         {
           "name": "Kenny Loggins",
           "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 237826,
-      "name": "Whenever I Call You \"Friend\" (feat. Stevie Nicks)",
-      "url": "https://open.spotify.com/track/5NCY3uTCovd93aqwbodUhm"
+      "duration_ms": 322333,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -1227,22 +1243,6 @@
       "duration_ms": 259532,
       "name": "All Right",
       "url": "https://open.spotify.com/track/4ucjm7jDReA0IFHGfzOtoZ"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
-        "name": "Rock On",
-        "url": "https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO"
-      },
-      "artists": [
-        {
-          "name": "Raydio",
-          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "You Can't Change That",
-      "url": "https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp"
     }
   ],
   "unique_name": "Yacht Rock",

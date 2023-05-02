@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Saiko",
-  "num_followers": 63811,
+  "num_followers": 63824,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTNmNjdkNzNkNzExMWU1M2I1OWI5ZjVkNTgyMDQzZWU3ZjM0YzQy",
+  "snapshot_id": "MCw1ZWEyMzY2ZTE0MmUwOTE3MTgwOWY4MDIwZDI0ZDVhY2Y5NWQ1Zjdi",
   "tracks": [
     {
       "added_at": "2023-04-28 00:01:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
-        "name": "Locura y Maldad",
-        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Locura y Maldad",
-      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2023-04-28 00:01:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+        "name": "Locura y Maldad",
+        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
+      "duration_ms": 200000,
+      "name": "Locura y Maldad",
+      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
     },
     {
       "added_at": "2023-04-28 00:01:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
-        "name": "Mi Gata",
-        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Mi Gata",
-      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
-    },
-    {
-      "added_at": "2023-04-28 00:01:00",
-      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2023-04-28 00:01:00",
+      "album": {
+        "name": "Mi Gata",
+        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Mi Gata",
+      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
     },
     {
       "added_at": "2023-04-28 00:01:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2023-04-28 00:01:00",
+      "album": {
         "name": "Palmas",
         "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 171089,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
-    },
-    {
-      "added_at": "2023-04-28 00:01:00",
-      "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2023-04-28 00:01:00",

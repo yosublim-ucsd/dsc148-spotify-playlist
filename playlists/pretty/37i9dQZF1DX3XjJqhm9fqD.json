@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Tafa Mi-Soleil",
-  "num_followers": 76749,
+  "num_followers": 76767,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTdiOGFlY2ZmNzcwMGEwNDVjNTJiYzlhZDQ4NzhkMzE1Njc5MzQw",
+  "snapshot_id": "MCxkY2MyMjVhZTZjNmM3M2ZlOTNmY2NiNzk0NjJmODIxYmMzMTAxYTU4",
   "tracks": [
     {
       "added_at": "2023-03-17 20:33:35",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "EXTRA EXTRA!",
-        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "MUST BE",
-      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -263,26 +247,34 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "HoneyComb",
-        "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
         }
       ],
-      "duration_ms": 139752,
-      "name": "HoneyComb",
-      "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
+      "duration_ms": 145173,
+      "name": "MUST BE",
+      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -307,18 +299,26 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+        "name": "HoneyComb",
+        "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
       "artists": [
         {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
+      "duration_ms": 139752,
+      "name": "HoneyComb",
+      "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
-      },
-      "artists": [
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
+      },
+      "artists": [
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "3 Words (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "Podyab Yo",
         "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 270315,
       "name": "Sal Vle",
       "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Chante ap ret chante",
-        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
-      },
-      "artists": [
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 253208,
-      "name": "Bay Vag",
-      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 215026,
       "name": "Kote'w Te Ye",
       "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -955,6 +955,38 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "On va pas baisser les bras",
         "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
       },
@@ -1011,70 +1043,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
-      },
-      "artists": [
-        {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "A.k.i.ko.",
-      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "Haiti debout",
         "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
@@ -1091,34 +1059,34 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "HaitiaNola",
-        "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Win Butler",
-          "url": "https://open.spotify.com/artist/0U6vKLFxTuknSOGYcekAEN"
-        },
-        {
-          "name": "Regine Chassagne",
-          "url": "https://open.spotify.com/artist/5nkd17szLOkZkep9NoJulB"
-        },
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        },
-        {
-          "name": "79rs Gang",
-          "url": "https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX"
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
         }
       ],
-      "duration_ms": 182490,
-      "name": "Iko Krey\u00f2l",
-      "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+      },
+      "artists": [
+        {
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+        }
+      ],
+      "duration_ms": 291120,
+      "name": "A.k.i.ko.",
+      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1183,6 +1151,38 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "HaitiaNola",
+        "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Win Butler",
+          "url": "https://open.spotify.com/artist/0U6vKLFxTuknSOGYcekAEN"
+        },
+        {
+          "name": "Regine Chassagne",
+          "url": "https://open.spotify.com/artist/5nkd17szLOkZkep9NoJulB"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "79rs Gang",
+          "url": "https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX"
+        }
+      ],
+      "duration_ms": 182490,
+      "name": "Iko Krey\u00f2l",
+      "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1403,18 +1403,22 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+        "name": "Sol\u00e8y Midi",
+        "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
       },
       "artists": [
         {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+          "name": "Talie",
+          "url": "https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6"
+        },
+        {
+          "name": "David Chavannes",
+          "url": "https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc"
         }
       ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
+      "duration_ms": 229205,
+      "name": "Sol\u00e8y Midi",
+      "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Sol\u00e8y Midi",
-        "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
       },
       "artists": [
         {
-          "name": "Talie",
-          "url": "https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6"
-        },
-        {
-          "name": "David Chavannes",
-          "url": "https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc"
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
         }
       ],
-      "duration_ms": 229205,
-      "name": "Sol\u00e8y Midi",
-      "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/6V0J1WLHrN3BuuP2YOD7ND"
-      },
-      "artists": [
-        {
-          "name": "Dadi Belvokal",
-          "url": "https://open.spotify.com/artist/7acxZvRU3rgDZGcZmbRtHq"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "Tet Ou Wo",
-      "url": "https://open.spotify.com/track/6dFDWlG7CChRzolv1x0URN"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 197999,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/6V0J1WLHrN3BuuP2YOD7ND"
+      },
+      "artists": [
+        {
+          "name": "Dadi Belvokal",
+          "url": "https://open.spotify.com/artist/7acxZvRU3rgDZGcZmbRtHq"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "Tet Ou Wo",
+      "url": "https://open.spotify.com/track/6dFDWlG7CChRzolv1x0URN"
     },
     {
       "added_at": "2023-03-17 20:33:35",

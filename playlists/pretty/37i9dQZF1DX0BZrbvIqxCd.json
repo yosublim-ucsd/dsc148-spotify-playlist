@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 527559,
+  "num_followers": 527656,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzA3NzA4ZWU1OTA3MTZmZjI2MTM2ZWU3ZDQwYjFlYjNiYWNhMjU0",
+  "snapshot_id": "MCw0YjY4NWQ3NjVlNjg1NWRmYTdmZWUwNTNiN2YwZmI5NDNkNTNhZThl",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -139,38 +155,6 @@
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -239,6 +223,38 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Rose Tattoo",
-      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Lights And Sounds",
         "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -479,6 +463,22 @@
       "duration_ms": 163226,
       "name": "No Cigar",
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 149466,
       "name": "I Wanna Be Sedated - 2002 Remaster",
       "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Best Of Goldfinger",
-        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 200228,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The Best Of Goldfinger",
+        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1013,6 +1013,26 @@
       "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
     },
     {
+      "added_at": "2021-07-08 22:59:55",
+      "album": {
+        "name": "deathwish (feat. nothing,nowhere.)",
+        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 147907,
+      "name": "deathwish (feat. nothing,nowhere.)",
+      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
+    },
+    {
       "added_at": "2020-11-20 21:27:18",
       "album": {
         "name": "Rented World",
@@ -1061,24 +1081,20 @@
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
     },
     {
-      "added_at": "2021-07-08 22:59:55",
+      "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "deathwish (feat. nothing,nowhere.)",
-        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/5AWAQJsqtuF3CjytMDOdDN"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
         }
       ],
-      "duration_ms": 147907,
-      "name": "deathwish (feat. nothing,nowhere.)",
-      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
+      "duration_ms": 199416,
+      "name": "She's Quiet",
+      "url": "https://open.spotify.com/track/3YUJ8NyZfqeDcI5815TuXw"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1099,38 +1115,6 @@
       "duration_ms": 118733,
       "name": "estella//",
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/5AWAQJsqtuF3CjytMDOdDN"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 199416,
-      "name": "She's Quiet",
-      "url": "https://open.spotify.com/track/3YUJ8NyZfqeDcI5815TuXw"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Into the Raging Sea",
-        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 221539,
-      "name": "Foolish Believer",
-      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Into the Raging Sea",
+        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 221539,
+      "name": "Foolish Believer",
+      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Mindreader",
         "url": "https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Love and Loathing",
-        "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Moving Boxes",
-      "url": "https://open.spotify.com/track/0bP8VDZQ3eXgHofaXT88Cr"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Entertainment",
         "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 200706,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Love and Loathing",
+        "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Moving Boxes",
+      "url": "https://open.spotify.com/track/0bP8VDZQ3eXgHofaXT88Cr"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "From The Outside",
-      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Strange Love",
         "url": "https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lost Touch",
-        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
+        "name": "Victory Lap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
       },
       "artists": [
         {
-          "name": "We Were Sharks",
-          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
         }
       ],
-      "duration_ms": 154971,
-      "name": "Hotel Beds",
-      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
+      "duration_ms": 176893,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1519,18 +1519,34 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Victory Lap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
       },
       "artists": [
         {
-          "name": "Propagandhi",
-          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Victory Lap",
-      "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
+      "duration_ms": 154971,
+      "name": "Hotel Beds",
+      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Morbid Stuff",
+        "url": "https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -1551,22 +1567,6 @@
       "duration_ms": 164485,
       "name": "My Town",
       "url": "https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Morbid Stuff",
-        "url": "https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R"
     },
     {
       "added_at": "2020-11-20 21:27:18",

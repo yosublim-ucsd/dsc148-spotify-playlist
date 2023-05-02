@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 512724,
       "name": "Ghosts and All",
       "url": "https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 394863,
       "name": "Rushes Recede",
       "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 380819,
       "name": "Sista Dagen",
       "url": "https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA"
@@ -3208,6 +3208,32 @@
       "duration_ms": 108266,
       "name": "Supreme Monuments",
       "url": "https://open.spotify.com/track/7lyDRUzEWTELXc0Kec4i8X"
+    },
+    {
+      "album": {
+        "name": "Sleeping Sculptures",
+        "url": "https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq"
+      },
+      "artists": [
+        {
+          "name": "Voice Of Art",
+          "url": "https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk"
+        },
+        {
+          "name": "Kenneth Bager",
+          "url": "https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU"
+        },
+        {
+          "name": "Troels Hammer",
+          "url": "https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241278,
+      "name": "Ten Days Of Silence",
+      "url": "https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y"
     },
     {
       "album": {

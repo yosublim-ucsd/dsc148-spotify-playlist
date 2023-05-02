@@ -4,7 +4,7 @@
 
 > Fancy belting out your favourite Korean songs? \(Cover: Tei\(테이\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-254 songs - 16 hr 35 min
+256 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,11 +111,13 @@
 | [I will be your shining star](https://open.spotify.com/track/7hSxOrxogaR7YGpg4l8wmd) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm) | [I will be your shining star](https://open.spotify.com/album/2NjUvZ0qdGQakCdzVRbXup) | 3:41 | 2022-02-17 |  |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2022-02-23 |  |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/55pN3kkk9Zor8mlZhyxHwp) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/20SAUNThmiFFm2txSQOKH0) | 3:49 | 2022-02-17 | 2022-07-29 |
-| [I'm a little drunk \(Prod\. 2soo\)](https://open.spotify.com/track/3tdVMK7L0hJyluQaG0i925) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [I'm a little drunk](https://open.spotify.com/album/1lrr4P5sYiTLpAZUPfBvTU) | 4:17 | 2022-02-17 |  |
+| [I'm a Little Drunk](https://open.spotify.com/track/40Jxt20hGcAotPkA5Oendc) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [I'm a Little Drunk](https://open.spotify.com/album/7x1bBtLoCBIxAobNHdQ50K) | 4:17 | 2023-02-16 |  |
+| [I'm a little drunk \(Prod\. 2soo\)](https://open.spotify.com/track/3tdVMK7L0hJyluQaG0i925) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [I'm a little drunk](https://open.spotify.com/album/1lrr4P5sYiTLpAZUPfBvTU) | 4:17 | 2022-02-17 | 2023-05-02 |
 | [Ice Cream Cake](https://open.spotify.com/track/2oLLOxkJWJj9BbrsTc4Xql) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 3:11 | 2021-03-11 | 2022-02-18 |
 | [IDOL](https://open.spotify.com/track/03iCbZaM4OkRR4We6wIzvx) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 4:20 | 2021-03-11 | 2022-02-18 |
 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 | 2022-02-17 |  |
-| [If there was practice in love \(Prod\. 2soo\)](https://open.spotify.com/track/3qCL1z9ex9cM26sAYfAHxU) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [If there was practice in love](https://open.spotify.com/album/4SiT9ClPYVbk7wNEZOOhNB) | 4:15 | 2022-02-17 |  |
+| [If there was practice in love](https://open.spotify.com/track/4eyBiwsaGBRCjACGZKZsf7) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [If there was practice in love](https://open.spotify.com/album/4gsKPC03bkp8pcZwUi6kgR) | 4:15 | 2023-02-16 |  |
+| [If there was practice in love \(Prod\. 2soo\)](https://open.spotify.com/track/3qCL1z9ex9cM26sAYfAHxU) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [If there was practice in love](https://open.spotify.com/album/4SiT9ClPYVbk7wNEZOOhNB) | 4:15 | 2022-02-17 | 2023-05-02 |
 | [If you lovingly call my name \(Female Ver.\)](https://open.spotify.com/track/6qoc17sLAUHdZ48uRDXsWt) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9) | [If you lovingly call my name](https://open.spotify.com/album/3I70HPLl7jI4VufLUlUgfa) | 3:52 | 2022-02-17 |  |
 | [If You Were Still Here](https://open.spotify.com/track/63w41hGHMcWbhuK0FxjMKe) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [If You Were Still Here](https://open.spotify.com/album/4DD1XxITlzZpkInzIJBaIb) | 3:24 | 2022-02-17 |  |
 | [It's love](https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg) | [Mose](https://open.spotify.com/artist/6h7ndBCXhabUn9QnqG3q1B) | [Love, deep longing](https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX) | 4:16 | 2022-02-17 |  |

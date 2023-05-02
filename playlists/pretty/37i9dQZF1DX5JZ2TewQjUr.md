@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Gordon Flanders
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,265 likes - 132 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,269 likes - 132 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 131 | [TAITAI \(太太\)](https://open.spotify.com/track/7Gt2XwekPAYXZW79aU835U) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [TAITAI \(太太\)](https://open.spotify.com/album/2TWcKtOpTtyUOjzK9K98EQ) | 3:18 |
 | 132 | [Rosemary](https://open.spotify.com/track/2SVZHdvZX6wLCufft9ybBZ) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Rosemary](https://open.spotify.com/album/2YTZ1JrnsiUwlXArIQYMje) | 4:06 |
 
-Snapshot ID: `MCw1YWE5MzRmNzlhOTU0NTZmOGU2MTgyMmRiMDcwMzk1YzAyYmQ5OGE4`
+Snapshot ID: `MCw0Njk5YWMyMzgxYmRlZDNlZGMwMGRiNTRjMzA3M2RjYzFhNDhjOTIy`

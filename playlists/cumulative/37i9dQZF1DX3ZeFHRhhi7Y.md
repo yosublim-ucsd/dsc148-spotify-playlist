@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: IVE\(아이브\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-433 songs - 23 hr 55 min
+435 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Karma \(feat\. Nino Lucarelli\)](https://open.spotify.com/track/28tllebADXUaV2omFEhoSB) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:26 | 2022-03-22 | 2022-06-13 |
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2021-12-20 | 2022-04-16 |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-19 |  |
-| [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-20 |  |
+| [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-20 | 2023-05-02 |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-18 | 2022-12-02 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 | 2023-04-14 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-03-31 |  |
@@ -223,7 +223,7 @@
 | [Love Me \(Level Up\)](https://open.spotify.com/track/0x08oB09lbvR6Bu5YMuRwQ) | [WABISABI](https://open.spotify.com/artist/2s3oGSEgPzVTPojLcUTyCG) | [Love Me \(Level Up\)](https://open.spotify.com/album/4yOjFDzoA0uqYrF4RaHi2c) | 2:47 | 2021-12-20 | 2022-04-12 |
 | [LOVE ME LIKE](https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [LOVE ME LIKE](https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw) | 2:54 | 2022-03-22 | 2022-04-12 |
 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-22 |  |
-| [Love War \(Feat\. BE'O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 | 2023-01-16 |  |
+| [Love War \(Feat\. BE'O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 | 2023-01-16 | 2023-05-02 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-06 | 2022-08-19 |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-12-20 | 2022-09-17 |
 | [Lovin' your scene](https://open.spotify.com/track/4W1VrYNHZBiaonutVabi8m) | [divin’](https://open.spotify.com/artist/5ewYTRNVNIrOclhsz84UkH) | [Lovin' your scene](https://open.spotify.com/album/0OmNivFkztMCrqsEhMjPqN) | 3:09 | 2021-12-20 | 2022-06-03 |
@@ -366,6 +366,7 @@
 | [Swan](https://open.spotify.com/track/2BhHpVlqUoUOmo0Ph0G18X) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 2:35 | 2021-12-20 | 2022-07-01 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-07-19 | 2022-08-09 |
 | [SWING](https://open.spotify.com/track/0ZtRAKwEaEzbApyv7vZRFd) | [LUCY](https://open.spotify.com/artist/5G6kdMp4tAcaH4J2RQa0Ij), [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [SWING](https://open.spotify.com/album/6VmURVgBakY7aT5Odlwinv) | 3:33 | 2021-12-20 | 2022-04-14 |
+| [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 | 2023-05-01 |  |
 | [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-22 | 2022-07-18 |
 | [Talk & Talk](https://open.spotify.com/track/6Q5e2XpyGzMLgA3ul491pu) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Talk & Talk](https://open.spotify.com/album/3GxaqNCf6F7KAs1aDBSLVe) | 3:40 | 2021-12-20 | 2022-07-28 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 |  |
@@ -398,6 +399,7 @@
 | [Trauma](https://open.spotify.com/track/4vh7bEuYAU9TtBRXwcLtn9) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:42 | 2022-03-22 | 2022-06-18 |
 | [TRIGGER](https://open.spotify.com/track/2GNSBV3MLrT5vSEwfgSCpG) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 2 : HOLE\]](https://open.spotify.com/album/6JUF0SnjI6ZUeQQUdZmdP9) | 3:01 | 2022-02-03 | 2022-04-15 |
 | [TRUST MY LOVE](https://open.spotify.com/track/2A6ipjxIZnIBWj09CPftUG) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:12 | 2022-01-05 | 2022-07-17 |
+| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 |  |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-20 | 2022-07-27 |
 | [Up & Down](https://open.spotify.com/track/5p1PL2Gz532ziKatpyjSNh) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Up & Down](https://open.spotify.com/album/7eXi3jZrvfqIfW3dDSl9Jt) | 3:09 | 2022-03-22 | 2022-04-16 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-24 |  |

@@ -104,10 +104,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 109281,
       "name": "All That (with Kodak Black)",
       "url": "https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "Any Other Way",
+      "url": "https://open.spotify.com/track/2tCtzpukuW4P20KmAcQ2P6"
     },
     {
       "album": {

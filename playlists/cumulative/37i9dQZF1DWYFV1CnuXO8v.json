@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Ahla Ma Ghana Amr Diab",
+        "url": "https://open.spotify.com/album/0bRoop19EC0m1TfSScSPhx"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250267,
+      "name": "Alby Ekhtark",
+      "url": "https://open.spotify.com/track/534u3zvHacLt9jtfihNwGX"
+    },
+    {
+      "album": {
         "name": "Aleky Eyoun",
         "url": "https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh"
       },
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 139743,
       "name": "Heya El7lwa",
       "url": "https://open.spotify.com/track/0cEKtYoSyofkTQR1KVrXxJ"

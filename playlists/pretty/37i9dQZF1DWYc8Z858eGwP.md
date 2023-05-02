@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KVi1KePsS\-SeAeLkN8980A">Black Sherif</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,466 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,573 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 49 | [Your Body \(Cocaine\)](https://open.spotify.com/track/0GXGxkfMYquJOWGfG5bC8N) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Your Body \(Cocaine\)](https://open.spotify.com/album/6eMYMGVxrjNxQ6n8FEmn4G) | 2:26 |
 | 50 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 |
 
-Snapshot ID: `MCxjYmIwMDIxNjViOGY3NmM5MjY1NzMxMjRmNzkxYmU0MTI5ZjI3M2Ji`
+Snapshot ID: `MCxjMGJhOTU4ZWE0YmM1NjVlNDMzOGNiOThiMDY0MmE0ZWNhZGM0NjQx`

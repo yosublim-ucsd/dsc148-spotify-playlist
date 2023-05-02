@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,072 songs - 2 day 7 hr 51 min
+1,073 songs - 2 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,6 +803,7 @@
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-05 | 2022-11-18 |
 | [Pust](https://open.spotify.com/track/0PKny6x1Yl5lhMLuNAyDjG) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Enten Går Det Bra, Ellers Går Det Over](https://open.spotify.com/album/3LIWwqu7IMhuWbrw8CqSSd) | 3:08 | 2022-03-29 | 2022-04-08 |
 | [Pust](https://open.spotify.com/track/7rQGY01dn2IOFTibu9ZDws) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Pust](https://open.spotify.com/album/078zeD4mtK1j0fbe0sYbzm) | 3:08 | 2022-03-12 | 2022-03-30 |
+| [Pyton 2023 \(Vet du vil ha meg\)](https://open.spotify.com/track/0CzVygOVmW2rWPfCaVYpwU) | [LongMen](https://open.spotify.com/artist/133YXJtJbXENkpvXj71lWn) | [Pyton 2023 \(Vet du vil ha meg\)](https://open.spotify.com/album/1ks8ZfKBYPLh2WUmdQVIy2) | 3:07 | 2023-05-01 |  |
 | [På Tur](https://open.spotify.com/track/4TwurN6O3mmNVXFj8m35wV) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [På Tur](https://open.spotify.com/album/6LAVYHlr99m86F7K0bqW3p) | 3:01 | 2021-03-27 | 2021-03-29 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-01-16 |  |
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-22 | 2022-10-29 |
@@ -994,7 +995,7 @@
 | [ting som ILU](https://open.spotify.com/track/5XBabaoZyfI0jhk0M5ze6I) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [ting som ILU](https://open.spotify.com/album/2fxfTt8FWwzXaCRnXA2tav) | 2:19 | 2021-09-12 | 2021-09-15 |
 | [tinnsoldater](https://open.spotify.com/track/0A44yfrrP231Uc47GDlwvC) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [tinnsoldater](https://open.spotify.com/album/6TY9daq0sCs60R9uRbKhc5) | 2:47 | 2022-04-23 | 2022-04-25 |
 | [Tipp Topp](https://open.spotify.com/track/6Xa36bTWPOC9ju4dQHguci) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 2:51 | 2022-04-07 | 2022-04-10 |
-| [tivoli](https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tivoli](https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT) | 2:37 | 2023-04-15 |  |
+| [tivoli](https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tivoli](https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT) | 2:37 | 2023-04-15 | 2023-05-02 |
 | [tjueto \(demo\)](https://open.spotify.com/track/7kSxVn8HvKeHwW3o7W0M2S) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tjueto \(demo\)](https://open.spotify.com/album/7eiqpMZ6fowsUS8Zvu1mdv) | 1:51 | 2023-03-10 | 2023-04-09 |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-26 |
 | [Tomme Tønner](https://open.spotify.com/track/3BAmsMIDJRaxbww5gUn9I4) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 5:48 | 2023-04-14 | 2023-04-30 |

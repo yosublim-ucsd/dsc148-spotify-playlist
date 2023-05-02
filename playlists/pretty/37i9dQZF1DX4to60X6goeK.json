@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 42366,
+  "num_followers": 42408,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDdiOWIzNjZlOGZlNDMwMmRmZWY1NDc3MTVmMDg2ZGJkOWJkMmE3",
+  "snapshot_id": "MCw3MGM5N2IzYzA4N2IxOGZjN2QwN2VlM2MwNDk0NGRlZTE4M2Y3NWUw",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -711,6 +711,38 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Skillz",
+        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Nu Elementz",
+          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Skillz",
+      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Ultralight",
         "url": "https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc"
       },
@@ -747,34 +779,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Skillz",
-        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
+        "name": "Us / When the Lights Go",
+        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
       },
       "artists": [
         {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Nu Elementz",
-          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+          "name": "Tesen",
+          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
         }
       ],
-      "duration_ms": 204621,
-      "name": "Skillz",
-      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
+      "duration_ms": 271542,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -791,22 +807,6 @@
       "duration_ms": 309986,
       "name": "Lady Petrol",
       "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Us / When the Lights Go",
-        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
-      },
-      "artists": [
-        {
-          "name": "Tesen",
-          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
-        }
-      ],
-      "duration_ms": 271542,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Kickons",
-        "url": "https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 235862,
-      "name": "Kickons",
-      "url": "https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
       },
@@ -887,22 +871,6 @@
       "duration_ms": 225245,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        }
-      ],
-      "duration_ms": 281379,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -927,6 +895,38 @@
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Kickons",
+        "url": "https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Kickons",
+      "url": "https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        }
+      ],
+      "duration_ms": 281379,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Money Moves (The Remixes)",
         "url": "https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9"
       },
@@ -1091,26 +1107,6 @@
       "duration_ms": 286896,
       "name": "Why Should I",
       "url": "https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy"
-      },
-      "artists": [
-        {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        },
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 249655,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys"
     }
   ],
   "unique_name": "Jump Up!",

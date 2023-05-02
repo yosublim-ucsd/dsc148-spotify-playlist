@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-621 songs - 1 day 11 hr 19 min
+622 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-16 | 2021-11-17 |
 | [Alla Allah](https://open.spotify.com/track/64GCalyvsLphPpEevk9dWB) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Alla Allah](https://open.spotify.com/album/45o4zMEFQ7QXv4lemk8bdA) | 2:40 | 2021-08-26 | 2021-09-03 |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2022-11-19 |  |
-| [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-02-19 |  |
+| [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-02-19 | 2023-05-02 |
 | [Amaken El Sahar](https://open.spotify.com/track/7lYXrmbJhunVGUYDGvZcL5) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Amaken El Sahar](https://open.spotify.com/album/4O72F4w5CdsrzEIbvi9al7) | 4:11 | 2021-06-11 | 2022-01-26 |
 | [Amar](https://open.spotify.com/track/19QZmE8ctW3y569h1TkL5W) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:12 | 2023-04-23 |  |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-26 |  |
@@ -49,7 +49,7 @@
 | [Ana Mesh Naguib Sawiris](https://open.spotify.com/track/6x2NGy1xES5Ujzk2kNKIrd) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ana Mesh Naguib Sawiris](https://open.spotify.com/album/652mBvpZNQoZdP1UKg1HLs) | 2:55 | 2021-03-27\* | 2021-04-01 |
 | [Ana Negm](https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:01 | 2022-09-25 |  |
 | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/track/0xIbsBFRTZoNfg54EAYHoN) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Hesham El Gakh](https://open.spotify.com/artist/0u4oTPQ4k14CO5TUqKduUK) | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/album/6McyOWAOJs2fdzAA3NgZp1) | 3:06 | 2023-03-19 |  |
-| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-04-16 |  |
+| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-04-16 | 2023-05-02 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2022-11-02 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-06-11 |
 | [Ard Mostamer](https://open.spotify.com/track/1gIaBb1TIc7tmYJz1dfwst) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ard Mostamer](https://open.spotify.com/album/6n8z8mpak5pywihd9rOj8G) | 4:00 | 2021-09-08 | 2021-10-03 |
@@ -415,6 +415,7 @@
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-09 | 2022-07-13 |
 | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/track/4iRzMFqyNbX0xAY9iAtTic) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/album/1WGEKcC8jwAFoXGANK9DQn) | 4:34 | 2021-07-09 | 2021-10-27 |
 | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/track/6ZfkjaM4KONGaRkCLpHKfD) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/album/3Ou7kxBQqBBdxQHMXLFGgL) | 4:34 | 2021-06-10 | 2021-07-09 |
+| [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 | 2023-05-01 |  |
 | [SAME3 EL HAKY](https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Lorenzoo](https://open.spotify.com/artist/2xKNNvun5ikWnywLrU5Gr7) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:14 | 2023-02-22 | 2023-04-26 |
 | [Samurai](https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Samurai](https://open.spotify.com/album/17r6jfsKAlkpqUPuMOHClZ) | 2:55 | 2021-03-27\* | 2022-09-26 |
 | [Samurai](https://open.spotify.com/track/1EBmjew9K69csBqRxI8BeO) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 2:57 | 2022-09-25 | 2022-10-23 |
@@ -622,7 +623,7 @@
 | [واحدة من مليون](https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:54 | 2022-06-19 | 2022-07-23 |
 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 | 2023-04-16 |  |
 | [وسط دموع وجراح](https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [وسط دموع وجراح](https://open.spotify.com/album/5QcbolYaY1VvcTKA2mvu0T) | 4:24 | 2021-10-22 |  |
-| [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-04 | 2023-05-01 |
+| [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-04 |  |
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-03-01 | 2022-03-07 |
 | [يا اصفر](https://open.spotify.com/track/5GGtKquPqPbdlom5OBeLqT) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [يا اصفر](https://open.spotify.com/album/7ILwar3dYtlYcXn0RNhsdR) | 3:52 | 2022-03-22 | 2022-05-05 |
 | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/track/5RmuMcCHkMTkos8SdnRohq) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/album/7jvcy3vt3Jc5JaBiGS9vJO) | 2:28 | 2021-08-26 | 2021-11-28 |

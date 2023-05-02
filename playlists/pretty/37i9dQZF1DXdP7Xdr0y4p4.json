@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 7635,
+  "num_followers": 7657,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDA3Mjc3YjEwNzEyYzkxNzMyNjRjNmFjZTliNjljNTllNTJiZjFl",
+  "snapshot_id": "MCxkY2VlMDUxYjk3YTBlMjg5Y2QwZDc4NzM1ZmE4MTUxYjljY2E2ZjA5",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Thinking 'Bout Home (Live)",
-        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 245825,
-      "name": "Thinking 'Bout Home - Live",
-      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Just Sing!",
         "url": "https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Overcome (Radio Edit)",
-        "url": "https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM"
+        "name": "Thinking 'Bout Home (Live)",
+        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
       },
       "artists": [
         {
-          "name": "Ernie Haase & Signature Sound",
-          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
         }
       ],
-      "duration_ms": 247254,
-      "name": "Overcome - Radio Edit",
-      "url": "https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP"
+      "duration_ms": 245825,
+      "name": "Thinking 'Bout Home - Live",
+      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -435,6 +419,22 @@
       "duration_ms": 198511,
       "name": "Good Morning Mercy",
       "url": "https://open.spotify.com/track/2ZeYstnGxcxaQJnztHJrEZ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Overcome (Radio Edit)",
+        "url": "https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM"
+      },
+      "artists": [
+        {
+          "name": "Ernie Haase & Signature Sound",
+          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+        }
+      ],
+      "duration_ms": 247254,
+      "name": "Overcome - Radio Edit",
+      "url": "https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Great Is His Faithfulness",
-        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
-      },
-      "artists": [
-        {
-          "name": "The Collingsworth Family",
-          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
-        },
-        {
-          "name": "Olivia Collingsworth",
-          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Great Is His Faithfulness",
-      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Reckless Love",
         "url": "https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93"
       },
@@ -539,6 +519,26 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Great Is His Faithfulness",
+        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
+      },
+      "artists": [
+        {
+          "name": "The Collingsworth Family",
+          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
+        },
+        {
+          "name": "Olivia Collingsworth",
+          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
+        }
+      ],
+      "duration_ms": 288546,
+      "name": "Great Is His Faithfulness",
+      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
       },
@@ -555,22 +555,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "You Are More",
-        "url": "https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO"
+        "name": "A New Chapter",
+        "url": "https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN"
       },
       "artists": [
         {
-          "name": "Tiffany Coburn",
-          "url": "https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt"
-        },
-        {
-          "name": "Point Of Grace",
-          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+          "name": "Jim Brady Trio",
+          "url": "https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB"
         }
       ],
-      "duration_ms": 208893,
-      "name": "Matchless (feat. Point Of Grace)",
-      "url": "https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1"
+      "duration_ms": 198493,
+      "name": "Steppin' out in Faith",
+      "url": "https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -591,18 +587,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "A New Chapter",
-        "url": "https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN"
+        "name": "You Are More",
+        "url": "https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO"
       },
       "artists": [
         {
-          "name": "Jim Brady Trio",
-          "url": "https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB"
+          "name": "Tiffany Coburn",
+          "url": "https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt"
+        },
+        {
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
         }
       ],
-      "duration_ms": 198493,
-      "name": "Steppin' out in Faith",
-      "url": "https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k"
+      "duration_ms": 208893,
+      "name": "Matchless (feat. Point Of Grace)",
+      "url": "https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "2: 22",
-        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
-      },
-      "artists": [
-        {
-          "name": "Karen Peck & New River",
-          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Future Glory",
-      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Shut Him Up",
         "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 165613,
       "name": "God, Do it Again",
       "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "2: 22",
+        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
+      },
+      "artists": [
+        {
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Future Glory",
+      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The Stories We Tell",
-        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
-      },
-      "artists": [
-        {
-          "name": "Down East Boys",
-          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Good in the Good Times",
-      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Favorites: On Repeat",
         "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 199773,
       "name": "Welcome to Your Life",
       "url": "https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The Stories We Tell",
+        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Good in the Good Times",
+      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Thief In The Night",
+        "url": "https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef"
+      },
+      "artists": [
+        {
+          "name": "Joseph Habedank",
+          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "Thief in the Night",
+      "url": "https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 197760,
       "name": "Give Me Jesus",
       "url": "https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Thief In The Night",
-        "url": "https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef"
-      },
-      "artists": [
-        {
-          "name": "Joseph Habedank",
-          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "Thief in the Night",
-      "url": "https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Give Me Jesus",
-        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
         "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
       },
@@ -1127,22 +1111,6 @@
       "duration_ms": 237986,
       "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
       "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "The World Needs a Song",
-        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
-      },
-      "artists": [
-        {
-          "name": "The Lore Family",
-          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
-        }
-      ],
-      "duration_ms": 191056,
-      "name": "The World Needs a Song",
-      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Give Me Jesus",
+        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Sings Greatest Country Gospel Hits",
         "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
       },
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Music To Your Ears",
-        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Let the Rain Wash Your Troubles Away",
-      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "I Am Not Alone",
         "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
       },
@@ -1207,6 +1175,38 @@
       "duration_ms": 178546,
       "name": "King of Kings",
       "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The World Needs a Song",
+        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
+      },
+      "artists": [
+        {
+          "name": "The Lore Family",
+          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
+        }
+      ],
+      "duration_ms": 191056,
+      "name": "The World Needs a Song",
+      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Music To Your Ears",
+        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
+      },
+      "artists": [
+        {
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Let the Rain Wash Your Troubles Away",
+      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Every Story Whispers His Name",
-        "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Every Story Whispers His Name",
-      "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Lord's Prayer",
         "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 235328,
       "name": "Lord's Prayer",
       "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Every Story Whispers His Name",
+        "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
+      },
+      "artists": [
+        {
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Every Story Whispers His Name",
+      "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
     },
     {
       "added_at": "2023-04-14 06:27:38",

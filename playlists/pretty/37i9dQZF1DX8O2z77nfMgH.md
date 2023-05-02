@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,893 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,912 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 72 | [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 |
 | 73 | [Olho no Gato](https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:39 |
 
-Snapshot ID: `MCw5ZDg3YjYxY2UwMDJiNWNlNGM4M2Y0ZDJjOTc4NTViYWY0YjY2MWU0`
+Snapshot ID: `MCxmMWMwNmQwMWZkYWI2MzYwZDQ3YWY5YmNhOTE1OWQxOGJjYzEwYjMw`

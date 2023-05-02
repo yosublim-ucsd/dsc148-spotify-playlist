@@ -14686,7 +14686,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 135645,
       "name": "QUE RICO",
       "url": "https://open.spotify.com/track/49ckomdW5GGbdtC1jFBM5m"
@@ -20612,6 +20612,32 @@
       "duration_ms": 136004,
       "name": "We Make It Pop",
       "url": "https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm"
+    },
+    {
+      "album": {
+        "name": "We So Future",
+        "url": "https://open.spotify.com/album/4SJ6ky44MUmNhIkVIBTRqM"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "SPNCR",
+          "url": "https://open.spotify.com/artist/5Jjs8bJVBiSdsxuvjoAKRR"
+        },
+        {
+          "name": "Awsumo",
+          "url": "https://open.spotify.com/artist/5Gi2KJXdtV5biO7CzhhmO1"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183255,
+      "name": "We So Future",
+      "url": "https://open.spotify.com/track/6EjgnrMiuRAIVoQ3QH3Ap2"
     },
     {
       "album": {

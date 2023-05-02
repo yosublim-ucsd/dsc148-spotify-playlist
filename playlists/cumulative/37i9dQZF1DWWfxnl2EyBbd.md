@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-483 songs - 1 day 13 hr 27 min
+484 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [It's So Peaceful In The Country](https://open.spotify.com/track/6ntbjPkc9JckO4IlB0LeSg) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg), [Kenny Washington](https://open.spotify.com/artist/4ern8uIUTeqcI4AE8Q5ZnO), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp) | [All Through The Night](https://open.spotify.com/album/1ZAmPpqvbbsMa1lXu4YjWR) | 5:16 | 2022-03-10 |  |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-11-12 |  |
 | [It's Yours](https://open.spotify.com/track/35OgNnx9Uhmau4krXkD4cO) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:08 | 2022-06-03 |  |
-| [January Dust](https://open.spotify.com/track/1jSmbHPNCdQkbXaRMeaeet) | [Yoon Jong Ryul](https://open.spotify.com/artist/14gyB2ipghybniP9azTd42) | [Simple Life](https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP) | 7:33 | 2022-02-10 |  |
+| [January Dust](https://open.spotify.com/track/1jSmbHPNCdQkbXaRMeaeet) | [Yoon Jong Ryul](https://open.spotify.com/artist/14gyB2ipghybniP9azTd42) | [Simple Life](https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP) | 7:33 | 2022-02-10 | 2023-05-02 |
 | [Jitterbug Waltz](https://open.spotify.com/track/1ypXqJHbK7e2gxbXUUI5kt) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5Tm4fXny7i9zeHOKABUx2X) | 6:16 | 2022-07-07 |  |
 | [Jitterbug Waltz](https://open.spotify.com/track/78tkbFOl19X4dd25sxossL) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5xUzn9J7eHJOQpQ6bYba8U) | 6:16 | 2022-02-10 | 2022-07-29 |
 | [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2022-11-12 |  |
@@ -266,6 +266,7 @@
 | [Misty](https://open.spotify.com/track/6638Vx73iajSnMO9ZmQoHB) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Misty](https://open.spotify.com/album/5JQpMlF00cytK3RkoRwEtb) | 4:32 | 2022-02-10 | 2022-07-29 |
 | [Misty](https://open.spotify.com/track/24GGpPxMdDvCpy9vTmDc6U) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:32 | 2022-07-07 | 2022-11-12 |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 |  |
+| [Moon River](https://open.spotify.com/track/6HRaRgiuyrnd3bENS5ZoM2) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Moon River](https://open.spotify.com/album/2w1aFC5btuTPK2rr75Jt1N) | 6:27 | 2023-04-27 |  |
 | [Moon River](https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:46 | 2022-07-07 | 2023-04-21 |
 | [Moon River](https://open.spotify.com/track/1Px7rF9pcSTnuZm18bQ78i) | [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moon River](https://open.spotify.com/album/3jqg4L6cU3PPzRipAUa4sM) | 5:46 | 2022-02-10 | 2022-07-29 |
 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2022-12-30 |  |

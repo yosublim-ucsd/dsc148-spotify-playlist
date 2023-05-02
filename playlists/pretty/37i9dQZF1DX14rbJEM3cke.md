@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock driving the current, every week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,096 likes - 62 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,129 likes - 62 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 61 | [Can't Wait](https://open.spotify.com/track/3GEhHEU3nkK2vGFqmKWKc3) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [In the Mourning](https://open.spotify.com/artist/1uzirhDmkUbDDaBGcwfd0h) | [Can't Wait](https://open.spotify.com/album/02OI10erl4E2J2WUOp5mv0) | 3:47 |
 | 62 | [Black Punk](https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 |
 
-Snapshot ID: `MCw0YThiZDg5YzI5NDM0MjZhZDAyNGJjMGM2YzRiN2FiMjdkM2Y4ZmVi`
+Snapshot ID: `MCwzMjYzZDFmZGVhZmM5YjZiMGYzNzJiOTE3MmZiNGQ3ZDY4YWRiYTkz`

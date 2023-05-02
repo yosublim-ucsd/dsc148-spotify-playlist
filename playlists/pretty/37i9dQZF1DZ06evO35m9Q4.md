@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,507 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,566 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 42 | [Come On, Pt\. III](https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 4:30 |
 | 43 | [Slide Thing \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 2:55 |
 | 44 | [Match Box Blues](https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 7:39 |
-| 45 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 |
-| 46 | [Slip Slidin' Slim](https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 1:41 |
+| 45 | [Slip Slidin' Slim](https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 1:41 |
+| 46 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 |
 | 47 | [In the Open \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/07DsSy1L0z2JsiUfwR0pu7) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 5:53 |
 | 48 | [Don't Lie To Me](https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 8:57 |
 | 49 | [Intro \- Ken Dashow / John Hammond \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/240SjhK6MlhtKUdU7fLBxt) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 2:09 |
 | 50 | [Albert's Shuffle \- Live](https://open.spotify.com/track/6aqeVjcTX2ivUtPjr0xocT) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 7:07 |
 
-Snapshot ID: `MjgwNDc2MjMsMDAwMDAwMDAzYmMyZmVhN2M0YWNlZjY5ZDI3YWUyMjVkNGY1NzFmZQ==`
+Snapshot ID: `MjgwNDkwMTQsMDAwMDAwMDA2OTliNTdiMzAyOGU5YmU3MWJhMzNjMjVkZmRjOGY0Yw==`

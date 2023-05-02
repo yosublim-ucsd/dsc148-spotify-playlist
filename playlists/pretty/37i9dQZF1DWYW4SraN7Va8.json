@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 56261,
+  "num_followers": 56339,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTc0Y2ExZWY2MjYzM2U5NDVjOGMxYWE0ZjhkYWIyZTVjNGI0ZGMz",
+  "snapshot_id": "MCw5MGQ2OWE2OGFhZjY3NjljZTZlM2IyNjdjMWY2N2IwY2VlYjZlMmZj",
   "tracks": [
     {
       "added_at": "2023-04-21 06:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 141600,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Love At First Sting",
-        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Rock You Like A Hurricane",
-      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 179760,
       "name": "I Wanna Rock",
       "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Rock You Like A Hurricane",
+      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 228666,
       "name": "Brown Sugar - 2009 Remaster",
       "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 176306,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Kill 'Em All (Remastered)",
         "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 414720,
       "name": "Seek & Destroy (Remastered)",
       "url": "https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Too Fast For Love (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6eADUk8en6omoudkkYsnoa"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Too Fast For Love",
-      "url": "https://open.spotify.com/track/7mJ9n1EaruTwLbgcQC5AGp"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Fear of the Dark (2015 - Remaster)",
         "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 438120,
       "name": "Fear of the Dark - 2015 Remaster",
       "url": "https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Too Fast For Love (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6eADUk8en6omoudkkYsnoa"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Too Fast For Love",
+      "url": "https://open.spotify.com/track/7mJ9n1EaruTwLbgcQC5AGp"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Generator",
-        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Piece of Mind (2015 - Remaster)",
         "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 230760,
       "name": "Flight of Icarus - 2015 Remaster",
       "url": "https://open.spotify.com/track/5orSFpEyBcj8ogpOqI4yOQ"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
     },
     {
       "added_at": "2023-04-21 06:00:00",

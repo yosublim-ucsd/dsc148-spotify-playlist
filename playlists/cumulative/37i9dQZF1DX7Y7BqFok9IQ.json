@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+      },
+      "artists": [
+        {
+          "name": "Chris Leamy",
+          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219249,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
+    },
+    {
+      "album": {
         "name": "Love & Peace",
         "url": "https://open.spotify.com/album/7IWzUoiQj0lYIiq97ChEzo"
       },
@@ -3470,28 +3488,10 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 219249,
       "name": "To The Bone",
       "url": "https://open.spotify.com/track/2vDFtFES302W2LdkgJY7Vt"
-    },
-    {
-      "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
-      },
-      "artists": [
-        {
-          "name": "Chris Leamy",
-          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
-        }
-      ],
-      "date_added": "2022-10-14",
-      "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
-      "duration_ms": 219249,
-      "name": "To The Bone",
-      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 9560,
+  "num_followers": 9599,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Y5ZjFhNWM5MjdkOGVlMzM0MDU3MmZjNmZiZTA0NTAyMDJhMTYw",
+  "snapshot_id": "MCxhNTczNjM1Y2NkNzYzNzJiMDU5ZTgxMDRhMmQxYjhhZjc1ZGY0NzRj",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -639,6 +639,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "FUNKONAUT",
+        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "FUNKONAUT",
+      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Kill Me With Your Love",
         "url": "https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 228413,
       "name": "NECROMANCER",
       "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "FUNKONAUT",
-        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "FUNKONAUT",
-      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
     },
     {
       "added_at": "2022-11-30 13:46:00",

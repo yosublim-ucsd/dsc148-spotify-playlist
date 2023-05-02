@@ -4,7 +4,7 @@
 
 > عيش أجمل حاله حب 🫶
 
-145 songs - 9 hr 16 min
+146 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Akeno Embareh](https://open.spotify.com/track/4RoDdFZXuhFkJ6zsCmv1gd) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Akeno Embareh](https://open.spotify.com/album/05KloIKSlpmcD8PKTBzfVD) | 2:53 | 2023-02-13 |  |
 | [Ala Bali](https://open.spotify.com/track/05nDuLXu5ejNOM05LNbS8a) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Lazem A'eish](https://open.spotify.com/album/3QutrFTKwcT0Wn99v3u9cw) | 4:39 | 2023-02-13 |  |
 | [Ala Fekra](https://open.spotify.com/track/0gsnDtfVAFKPOEqbOwNmH3) | [Wama](https://open.spotify.com/artist/7yB2bLPVo9PoqeN9c1T6UN) | [El Seif Ebtada](https://open.spotify.com/album/4nfduIDLeIte5K55pcyTmd) | 4:02 | 2023-02-13 |  |
+| [Alby Ekhtark](https://open.spotify.com/track/534u3zvHacLt9jtfihNwGX) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ahla Ma Ghana Amr Diab](https://open.spotify.com/album/0bRoop19EC0m1TfSScSPhx) | 4:10 | 2023-04-11 |  |
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2023-02-13 |  |
 | [Alhali](https://open.spotify.com/track/0YHQ2pLDTk49vpJ6j8MdFH) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Alhali](https://open.spotify.com/album/3oWgako6E2XthzxurF1ToK) | 3:03 | 2023-02-13 |  |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2023-02-13 |  |
@@ -68,7 +69,7 @@
 | [Hayatak Fi Sora](https://open.spotify.com/track/5v5DvfdykdjmzgA3t9pnGg) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Hayatak Fi Sora](https://open.spotify.com/album/2LE4wOXSuqwPXyY22h1ad1) | 2:49 | 2023-02-13 |  |
 | [Hayaty Msh Tamam](https://open.spotify.com/track/5P1lXXSESjRau7dg9l6egg) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hayaty Msh Tamam](https://open.spotify.com/album/0zBxKqULhsSAiY3qWbeJMM) | 3:15 | 2023-02-13 |  |
 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 | 2023-02-13 |  |
-| [Heya El7lwa](https://open.spotify.com/track/0cEKtYoSyofkTQR1KVrXxJ) | [Mohamed Ramadan](https://open.spotify.com/artist/3gg0cJDqpgB4EgsMrjlca3) | [Heya El7lwa](https://open.spotify.com/album/1rswisEv96JhXJ6YojmIc5) | 2:19 | 2023-02-13 |  |
+| [Heya El7lwa](https://open.spotify.com/track/0cEKtYoSyofkTQR1KVrXxJ) | [Mohamed Ramadan](https://open.spotify.com/artist/3gg0cJDqpgB4EgsMrjlca3) | [Heya El7lwa](https://open.spotify.com/album/1rswisEv96JhXJ6YojmIc5) | 2:19 | 2023-02-13 | 2023-05-02 |
 | [Howa Nafs El Shouk](https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Howa Nafs El Shouk](https://open.spotify.com/album/6wWHzbMgBnZoZAPsGUlAiM) | 5:17 | 2023-02-13 |  |
 | [Inta Eyh](https://open.spotify.com/track/4lbXJ51VeYp8WA7JuOEzWP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 5:04 | 2023-02-13 | 2023-03-18 |
 | [Inta Eyh](https://open.spotify.com/track/7LpGX7ajb4o8OPQ1XdeeFZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 5:04 | 2023-02-23 |  |

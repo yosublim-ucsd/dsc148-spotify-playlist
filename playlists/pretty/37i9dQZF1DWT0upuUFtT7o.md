@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: MINOVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,235 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,391 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 109 | [ONLY ONE](https://open.spotify.com/track/6FCMfT9bWZ8bcrEK7wbjgY) | [Ruby](https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI) | [BEDTIME](https://open.spotify.com/album/5ZWsqSYied2r8qQk1rYdDO) | 2:09 |
 | 110 | [Apollo](https://open.spotify.com/track/21NC2lCEgUMvL3QbYYwSHX) | [Sivu](https://open.spotify.com/artist/6RFYCKz8MgykjjsvnpLPTf) | [Apollo](https://open.spotify.com/album/6Cj8vu4963c8uotOiwonxb) | 3:21 |
 
-Snapshot ID: `MCwxMDU5ZTc2NDViM2M1MDI2MjA2NTNlZTliN2I5YTYyYzc1NWQ0MWRl`
+Snapshot ID: `MCw5YzliYjUyYmU2NDM1MGVhNWM4ZmRjMDdhNzdkMWQ1YWM2MDViMmQx`

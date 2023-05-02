@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,321 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,371 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [S'envolement](https://open.spotify.com/track/4qTtDG8wnFPBuMT9gX8e2d) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [S'envolement](https://open.spotify.com/album/43kB8Cbtaz8nI0GFOUivXg) | 3:18 |
 | 40 | [Yiri](https://open.spotify.com/track/4I3c9wYQoNJtihFna5yZes) | [Sly De Sly](https://open.spotify.com/artist/55hvy7lq6Kh8n67VmTXGKe) | [Yiri](https://open.spotify.com/album/6cgZiXODV7Mzj6URW2khZq) | 3:35 |
 
-Snapshot ID: `MCxkMDFjODFkYTFmMWE1Mjg5YmFiYzdkYTdkZGQxMjk4OTUzZjQwNWVi`
+Snapshot ID: `MCxlY2ZjZmViNWI3ZTUyZTk5YWJjNzlmYTI2MjA2Mjc4NjNlNWJjNWQ0`

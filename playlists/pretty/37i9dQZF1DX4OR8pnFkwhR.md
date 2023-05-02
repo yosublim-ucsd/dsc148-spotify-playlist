@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Tele
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,308 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,307 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [火遊び](https://open.spotify.com/track/5z04OSKrmIakufm8vEMlQl) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [火遊び](https://open.spotify.com/album/5MnxhgDndyzTbMUif8ou7a) | 3:39 |
 | 70 | [僕らの純情](https://open.spotify.com/track/0fvF0nkcnCpyi80PpVn2Fq) | [髙橋多聞](https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs) | [僕らの純情](https://open.spotify.com/album/32SnAdmGCALw68HG00Gg5F) | 4:00 |
 
-Snapshot ID: `MCwzNWVmMGVkNjQxOWQwMTg5ZmU4YTc1NjY5ZDZkYWU4ZDkxNzY3Zjkz`
+Snapshot ID: `MCxkYjgxOTA5NjdlNWFkMmMxMGZmZjMyNDJmMjVjNjFiMzhjNGNiYjkz`

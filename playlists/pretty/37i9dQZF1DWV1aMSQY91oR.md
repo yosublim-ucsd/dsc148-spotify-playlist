@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Digga D, Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,427 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 17 | [Miss You \(When You’re Gone\)](https://open.spotify.com/track/39kmuuycrDDcuj2DVO0HLd) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Chloe Sagum](https://open.spotify.com/artist/5Ix0hwihsi3EY773JZwNSf) | [Miss You \(When You’re Gone\)](https://open.spotify.com/album/5GOenMgInWYoaMk8TuvUuG) | 2:51 |
 | 18 | [No Pressure \(feat\. Fivio Foreign & Rah Swish\)](https://open.spotify.com/track/7s0L5WRejHWYBE03EMDQyn) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Fetty Luciano](https://open.spotify.com/artist/6Zric3RvzGMM9wRZMNTUFF), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Splash Brothers](https://open.spotify.com/album/6z7bXzVtYKDzHNeKILSyi8) | 3:06 |
 | 19 | [4 X 4](https://open.spotify.com/track/6aLWXhxqvUFMK1jQg4PYoV) | [Blasian Baddie](https://open.spotify.com/artist/3oSZai3UjeOWTzeDGXnlU3), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [4 X 4](https://open.spotify.com/album/1xmgCv1s493rz6BDoMYwun) | 2:28 |
-| 20 | [Greeze \- No Miming](https://open.spotify.com/track/0xHmmPW6dQA6cHEavhrT6J) | [Tim & Barry](https://open.spotify.com/artist/7MdhgOG14jdWpchQuE14Ce), [Greeze](https://open.spotify.com/artist/79gg2hMyDNBmT70e2wN5nA) | [Greeze \- No Miming](https://open.spotify.com/album/6V0mhtx7ZXg6LCPa5kroOy) | 2:22 |
+| 20 | [Greeze \- No Miming](https://open.spotify.com/track/0xHmmPW6dQA6cHEavhrT6J) | [Tim & Barry](https://open.spotify.com/artist/7MdhgOG14jdWpchQuE14Ce), [GREEZE](https://open.spotify.com/artist/5IMz6l0DpwZuZ5y9IKNigv) | [Greeze \- No Miming](https://open.spotify.com/album/6V0mhtx7ZXg6LCPa5kroOy) | 2:22 |
 | 21 | [Sweeter Scars](https://open.spotify.com/track/5gqsRd3x46C7dkVDNPIQ6H) | [Just Juice](https://open.spotify.com/artist/4s0K7Gh1qCZCXB5OuMF1VT), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sweeter Scars](https://open.spotify.com/album/7atAlfldLb0ZTAptZlSaeC) | 3:40 |
 | 22 | [Ra Ra](https://open.spotify.com/track/38ICxkglyDu31eXAMwDidr) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Ra Ra](https://open.spotify.com/album/6WNu4fA4u9hfDUjHUmDNQs) | 3:32 |
 | 23 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 32 | [Check](https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Check](https://open.spotify.com/album/0oUW916No7iVMeYUYDENIk) | 2:42 |
 | 33 | [Can't Get It Back](https://open.spotify.com/track/7ypWDgxhvNIsDB3RPH6FSf) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Can't Get It Back](https://open.spotify.com/album/47St3rJPe4fEEd6fUPPTs8) | 2:47 |
 | 34 | [EYE LANGUAGE](https://open.spotify.com/track/5dPZWdcXMbUFu6wNUZMyVX) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [EYE LANGUAGE](https://open.spotify.com/album/13JpN9rflHdSwWGvSw284v) | 3:23 |
-| 35 | [Yessir](https://open.spotify.com/track/4QvE6PJfBwV3kZqqgT4Vyy) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MEAN](https://open.spotify.com/album/0caskFxobzTYLHt6vgiYLO) | 2:20 |
+| 35 | [Yessir \(feat\. Quavo\)](https://open.spotify.com/track/4QvE6PJfBwV3kZqqgT4Vyy) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MEAN](https://open.spotify.com/album/0caskFxobzTYLHt6vgiYLO) | 2:20 |
 | 36 | [Pick a Side Freestyle](https://open.spotify.com/track/3fmayIilsj7bVdVzgqurE4) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [No Label No Budget \(Season 2\)](https://open.spotify.com/album/2ePeXoHaADW89x5nCWB2cj) | 1:23 |
 | 37 | [Tablecloth](https://open.spotify.com/track/1jWiWOtVJVL2JYJHOKYJGa) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Tablecloth](https://open.spotify.com/album/28HdEYqBikp5BW9Xl5CZra) | 2:51 |
 | 38 | [untitled.2021](https://open.spotify.com/track/6n0CQr6jvP4OEE2BYXyH4N) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4) | [untitled.2021](https://open.spotify.com/album/0IRI1eUMxLQd1MXXbLCa4f) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [What I'm On](https://open.spotify.com/track/4n2e8z05jLbaggUqjmNKch) | [PongoFromTheS](https://open.spotify.com/artist/7qIce0fjMRmNhoZAqpHArA), [YNLSTACKINGBNDZ.](https://open.spotify.com/artist/4Yaic6pvcF3yUKUsiKrXhF), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [AIP \(Alone In Public\) Deluxe](https://open.spotify.com/album/3X0Kqvxu0AUFvc9xR8kvWw) | 3:16 |
 | 50 | [Escape](https://open.spotify.com/track/2bMfD4BTf5nH4U5s6FNXCA) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [DJ Prodiigy](https://open.spotify.com/artist/6oM8rsauPkS4qGGClTv5F4), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Escape](https://open.spotify.com/album/2MVocQaJbnF8Fs7B5ixgdP) | 2:27 |
 
-Snapshot ID: `MCxjYzM1YmNiMWNmMDY1NDRlMWM3NDBiZWJhNTE3ODYwOGY3OWQxZTQ2`
+Snapshot ID: `MCw5ZjNkNDViODAyMTg1MDk2NTczMWI3ZjE0ZDhlMTZmMTQ3ZTFmN2Ez`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Movements
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,000 likes - 52 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,107 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 51 | [Knucklen'](https://open.spotify.com/track/6gDl07mqToOH2vG1QN1dj9) | [Country Westerns](https://open.spotify.com/artist/2OwWrhaP4RycOww0FursPt) | [Forgive the City](https://open.spotify.com/album/5Cjg2NBzIxZqSpehkmPEH9) | 2:27 |
 | 52 | [Wakey Wakey](https://open.spotify.com/track/17ivxMwaJ6I7vyDdYDxjxT) | [Dolo Tonight](https://open.spotify.com/artist/3ED1AG2E67Epo3MBFVOFj9) | [Wakey Wakey](https://open.spotify.com/album/7hvyAA9FIgFRV0QhNWS8sT) | 2:13 |
 
-Snapshot ID: `MCxkOWEyMjc4ZWIxYWYxZDE3ZGY2YWEzN2EzOGVjMzJlZDUxNjcxNDQ3`
+Snapshot ID: `MCw4MjBlMDM2NmVhYTliMGY1YjA1MGIzMTFmYWI3ZDgxOTJjMTdiZTg5`

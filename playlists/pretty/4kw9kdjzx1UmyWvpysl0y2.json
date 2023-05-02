@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127270,
+  "num_followers": 127266,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE1OSw0MzUwNTUxOGJiM2RmYzEyZDU5OGI3OTU2OTg1Njc4ODc3ODY1M2Y0",
+  "snapshot_id": "NDE2Myw2MjY3NjQ0NDk2NmI0MDBlNTBkMjEyZWYzYjJjYzVkMzdiYjI1NTM2",
   "tracks": [
+    {
+      "added_at": "2023-05-01 20:21:58",
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
+    },
     {
       "added_at": "2023-04-27 16:34:08",
       "album": {
@@ -1079,26 +1095,6 @@
       "duration_ms": 227500,
       "name": "destination heartbreak",
       "url": "https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK"
-    },
-    {
-      "added_at": "2023-02-10 20:38:44",
-      "album": {
-        "name": "do my own thing",
-        "url": "https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC"
-      },
-      "artists": [
-        {
-          "name": "warner case",
-          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 222165,
-      "name": "do my own thing",
-      "url": "https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

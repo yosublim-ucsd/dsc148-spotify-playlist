@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,831 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,887 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MCw5YTMwNTBiNjAyMWNiOWJkZGY2Yzc1ODYxMjc3MjZiNjJhMjJlN2Rk`
+Snapshot ID: `MCw4MjkwMTY3MzU4NTUzMDQ1MGY5NjU0MzgwMjU0MTc5N2MxODQ5MWI5`

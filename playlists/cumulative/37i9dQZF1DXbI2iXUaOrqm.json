@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 214245,
       "name": "No Duele Llorar",
       "url": "https://open.spotify.com/track/2xZKtcwZyXBU4nGhoV8Pur"
@@ -972,6 +972,24 @@
       "duration_ms": 206615,
       "name": "Plaza en el cielo",
       "url": "https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo"
+    },
+    {
+      "album": {
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193567,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
     },
     {
       "album": {

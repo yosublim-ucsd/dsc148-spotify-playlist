@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,076 likes - 229 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,968 likes - 229 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 228 | [Brown Noise Dream](https://open.spotify.com/track/4eGCTk4n1GXu9C1keB4ama) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Soft Brown Noise](https://open.spotify.com/album/3hwBhINVPJ9NDri4krChxd) | 2:52 |
 | 229 | [Brown Noise \- 1.400 Hz \- Cutoff](https://open.spotify.com/track/7weKSvgicnoAr4dujNGkTE) | [Technical Sleep](https://open.spotify.com/artist/1ZsuYhFu8JGCi3NBaGL61v) | [Brown Noise For Sleep](https://open.spotify.com/album/5YhA1CtVFppw9e8f0HU2ae) | 2:11 |
 
-Snapshot ID: `MCwyNjQ1YjM1OTdkNDE1ZjFjYjA5ZWM3MDU0ZWQwZTU1N2E3MDdlOTM4`
+Snapshot ID: `MCwwZDZhMWUzYzI3NjQyNGM3ODgxNDZiYTA1OTMyZjAwOWYxNDIyM2Iz`

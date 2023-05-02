@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: SEVENTEEN
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: LE SSERAFIM
 
-571 songs - 1 day 7 hr 27 min
+572 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Umbrella](https://open.spotify.com/track/4p25h8uVkSoSsq5Vl5NeJ3) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Umbrella](https://open.spotify.com/album/6m3fEmldriKRNaxcCooP7T) | 3:38 | 2022-08-09 | 2022-10-01 |
 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/6mMaK2MTTnJR1vug1ykPig) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/4yC8CrziY3rJMkTKVM6lIG) | 2:45 | 2022-03-03 | 2022-03-11 |
 | [Undercover \- Japanese ver.](https://open.spotify.com/track/3JezulRWDYGqfjzq6PK65L) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Undercover \(Japanese ver.\)](https://open.spotify.com/album/2qTRlCOArOeI8JfBYk4eMF) | 3:08 | 2022-06-07 | 2022-07-19 |
+| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 |  |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/11bKMtXv6SRHY4paHR6qhz) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/1yG3aJf5tQz4D9pCosjn3f) | 3:51 | 2021-12-23 | 2022-03-02 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-07-28 | 2022-09-07 |
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-06-20 | 2022-07-29 |

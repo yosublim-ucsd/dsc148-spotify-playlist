@@ -4,7 +4,7 @@
 
 > Who's now and next in pop\. Cover: Lizzy McAlpine
 
-1,677 songs - 3 day 14 hr 52 min
+1,678 songs - 3 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [3, 2, 1](https://open.spotify.com/track/1bFoCHXsP2qd4YWi2JmlCN) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [3, 2, 1](https://open.spotify.com/album/2gt7MlxyMKUl6LUDcc2etd) | 2:11 | 2021-02-19 | 2021-05-08 |
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2020-10-30 | 2020-11-20 |
 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [34+35 \(Remix\)](https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9) | 3:02 | 2021-01-15 | 2021-02-26 |
+| [4Runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4Runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-05-01 |  |
 | [911 \- Charli XCX & A\. G\. Cook Remix](https://open.spotify.com/track/4xx8LCv4tUv7PNk6g7VQmY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 4:13 | 2021-09-04 | 2021-09-25 |
 | [999 \(with Camilo\)](https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [999 \(with Camilo\)](https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu) | 3:44 | 2021-08-28 | 2021-09-18 |
 | [@ my worst](https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [@ my worst](https://open.spotify.com/album/6nai5PN6n6imja0Bg8n3OW) | 3:11 | 2021-08-07 | 2021-10-30 |

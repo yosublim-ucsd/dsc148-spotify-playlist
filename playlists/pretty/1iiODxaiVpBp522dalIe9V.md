@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 
 > Hip hop heat from the Lone Star State featuring LilCJ Kasino, TrapboyDre10k, Tisakorean, Sauce Walka, Peso Peso, Don Toliver.
 
-[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,424 likes - 80 songs - 3 hr 55 min
+[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,427 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 | 20 | [I'm A King \(with Megan Thee Stallion\)](https://open.spotify.com/track/580Rp3F98KrnHMdg8yoGvP) | [Bobby Sessions](https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [I'm A King \(From The Amazon Original Motion Picture Soundtrack Coming 2 America\)](https://open.spotify.com/album/73W1nB0OXc4YnawDDyW48D) | 3:16 |
 | 21 | [Can't Stay](https://open.spotify.com/track/6mY6dWxeBcaGkcJHbHd0m2) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Where Dreams Are Made](https://open.spotify.com/album/303NsRaDsJeaS8BXenh6Ux) | 2:43 |
 | 22 | [In My Hand](https://open.spotify.com/track/6ARJo5lSV4lbAlfh0ra89A) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Big K.r.i.t.](https://open.spotify.com/artist/2htYlcU22pV8w566FNnpZc), [Cal Wayne](https://open.spotify.com/artist/0R8BCKmSXfXiXPEycf51AO) | [Trillstatik 2](https://open.spotify.com/album/0x06iiRmDrPpU1Wlo5MHoz) | 3:59 |
-| 23 | [Super Bowl \(feat\. Juicy J\)](https://open.spotify.com/track/6ZVCTRvj1eXd0HPeRAzApk) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Super Bowl \(feat\. Juicy J\)](https://open.spotify.com/album/3GymCdEVWbum9C8vozXvMe) | 3:54 |
+| 23 | [Came Dine](https://open.spotify.com/track/0Sf3f8bXNhCVll1ACNoWeu) | [Woine](https://open.spotify.com/artist/4Kh6WXjCUHN6ueN5iJCEtQ) | [Came Dine](https://open.spotify.com/album/0hGb6dWc29p1ET7T6OSYHh) | 3:32 |
 | 24 | [Ayo \(feat\. Bun B & Lil Keke\)](https://open.spotify.com/track/6GzDq5EH6Ful3TWQnXTvN9) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Lil’ Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 3:35 |
 | 25 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
 | 26 | [Mo Trill](https://open.spotify.com/track/3M5vBN36ZzDeCp68rKcpvH) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Cory Mo](https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE), [Lil’ Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Mo Trill](https://open.spotify.com/album/7rygMYiuRO1D657l65Nwvl) | 4:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 | 79 | [Misconceptions 4](https://open.spotify.com/track/1jWSVQ4z6sl0RIwVF9erEE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [A.I\. The Anomaly](https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Church Clothes 4: Dry Clean Only](https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7) | 3:52 |
 | 80 | [Dawg Azz](https://open.spotify.com/track/3j3obkRApPS1vmViv9iqnP) | [OTB Fastlane](https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj) | [Dawg Azz](https://open.spotify.com/album/3Ah42x8vjrobAwPQ2EdOXj) | 3:12 |
 
-Snapshot ID: `NDYzMyxiNmE1ZTE1OWQ3ZTZhMTYwMmJmMmI1NWZkYWRlNzBkOWU0MTQzZjk2`
+Snapshot ID: `NDYzNixlMTExMjRlYjEyNDVlZGFkZTQ0YjIyODYyM2I5YTE0NTczN2FhYWZl`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1gjl24GAQC0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1gjl24GAQC0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1gjl24GAQC0)
 
-### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
+### [Hallyu Boy Bands: EPEX Takeover](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
 > Enjoy EPEX's takeover and special clips! \(EPEX의 테이크오버와 스페셜 클립스를 감상하세요!\)
 
@@ -139,7 +139,7 @@
 | [EXIT](https://open.spotify.com/track/5pTMVpOuFCM1GYjI2Lm2r3) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 2](https://open.spotify.com/album/0oTCoSk1qZJ2LdiZ05sJC0) | 3:10 | 2021-12-08 | 2022-04-18 |
 | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd) | 3:34 | 2022-01-17 | 2022-07-25 |
 | [FAKE LOVE](https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2022-02-15 | 2022-05-15 |
-| [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-07-27 |  |
+| [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-07-27 | 2023-05-02 |
 | [FAKER](https://open.spotify.com/track/4yIP456UEjLIDBdRvBTTcw) | [루커스](https://open.spotify.com/artist/5nYClr2BjPKj9lENjV5Hbx) | [FAKER](https://open.spotify.com/album/5NXALmMcE00WExg8Bqr1U6) | 3:37 | 2022-03-31 | 2022-04-16 |
 | [FAM \(Korean Ver.\)](https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:33 | 2022-12-21 | 2023-04-20 |
 | [FANTASIA](https://open.spotify.com/track/59lh6XYTsfhoXXTNU8TUrz) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:06 | 2022-03-30 | 2022-07-13 |
@@ -231,7 +231,7 @@
 | [Left & Right](https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:21 | 2021-12-08 | 2022-07-21 |
 | [Levanter](https://open.spotify.com/track/4mtPGvoOvfqskC9M3tNZrV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:15 | 2021-12-08 | 2022-07-27 |
 | [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 | 2021-12-08 | 2022-07-29 |
-| [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2022-07-27 | 2023-05-01 |
+| [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2022-07-27 |  |
 | [Like a Movie](https://open.spotify.com/track/6dPzi41DQDgzsPJDFffbJO) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Origine](https://open.spotify.com/album/5VzMQgh8F9GOgNPu7LcZUs) | 3:33 | 2021-12-08 | 2022-05-27 |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-04-21 |  |
 | [Lo Siento](https://open.spotify.com/track/2VVqxQhALecXvaArlZSVXr) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [REPLAY \- The 8th Repackage Album](https://open.spotify.com/album/5uxH9so2Yrmi6nLClUZJkv) | 3:46 | 2022-03-31 | 2022-04-14 |

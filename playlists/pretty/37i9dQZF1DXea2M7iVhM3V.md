@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain]
 | 30 | [Close Your Eyes \(And Count to Fuck\)](https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run the Jewels 2](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY) | 3:54 |
 | 31 | [Wop \(Official Version\)](https://open.spotify.com/track/3zbnvxvqV5lL4Vq0FznWsX) | [J\. Dash](https://open.spotify.com/artist/6bsEozzA1CHU0TIq2DXDxq) | [Wop \(Official Version\)](https://open.spotify.com/album/6GDAhfB43sXcVMPUT3jxaA) | 3:50 |
 
-Snapshot ID: `MCwyNTFhMGYzYjM2YTViYzJjOTg0OWIxYzBmNzlhMTJjZjNlMjJmMmJi`
+Snapshot ID: `MCxiNzlkOTIyZTk4MzdhY2U3YWJmOTg4NTI5MTExZDBjZWQ4NDcyMTFi`

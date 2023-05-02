@@ -4,7 +4,7 @@
 
 > Paul Sinha op de cover van dé Nederpop playlist
 
-169 songs - 8 hr 13 min
+170 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Jij Bent Het](https://open.spotify.com/track/4WSbSPMqpwoYFWk9H9jY2v) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Bart en Robin](https://open.spotify.com/album/1D2kBgIwNIMiVoeSZdf284) | 2:24 | 2023-02-23 |  |
 | [Jouw Love](https://open.spotify.com/track/1y0SJhnwKGEGZbH9OmrqyN) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Jouw Love](https://open.spotify.com/album/7s1jQ9f82JwSBC14Z1tvHH) | 2:56 | 2023-02-23 | 2023-03-31 |
 | [Kansen](https://open.spotify.com/track/7Mw4F5tnXF5D52dghmzbLQ) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Kansen](https://open.spotify.com/album/7Jk5bj58KHAdhERKgUqgET) | 2:50 | 2023-02-23 | 2023-03-31 |
-| [Koffie Of Thee](https://open.spotify.com/track/14kD5P9OI8PRa4mhaCh0vL) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Koffie Of Thee](https://open.spotify.com/album/4qAwTxhcOUGC6tWmmHmQzf) | 2:42 | 2023-02-23 |  |
+| [Koffie Of Thee](https://open.spotify.com/track/14kD5P9OI8PRa4mhaCh0vL) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Koffie Of Thee](https://open.spotify.com/album/4qAwTxhcOUGC6tWmmHmQzf) | 2:42 | 2023-02-23 | 2023-05-02 |
+| [Koffie Of Thee](https://open.spotify.com/track/3toCB81vU1BzlsVm4Rsen5) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [De Kibbelingsound](https://open.spotify.com/album/50v6QLrNbW3NZdbvKSLkDM) | 2:42 | 2023-04-27 |  |
 | [Kom Jij Weer Voorbij](https://open.spotify.com/track/6saNAXWMY0gqpNMwnFG34a) | [Luminar](https://open.spotify.com/artist/4XVWcEp6zOQScLQZl4fCsT) | [Kom Jij Weer Voorbij](https://open.spotify.com/album/67RWbCJmi16DnublyBoNvC) | 3:33 | 2023-03-02 |  |
 | [Koning Liefde](https://open.spotify.com/track/4y8Lwn9OwGxUf7fTJtlPXl) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Koning Liefde](https://open.spotify.com/album/2xyUvd6kssT9MiTbDQfwUZ) | 2:44 | 2023-03-30 |  |
 | [Laat Het Effe](https://open.spotify.com/track/2TpYFSFsDLK0Sd0QwoV7zV) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Laat Het Effe](https://open.spotify.com/album/6YW7e4vC5ytXUDG2IDoWUt) | 3:23 | 2023-02-23 | 2023-04-28 |

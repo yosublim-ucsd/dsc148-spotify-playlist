@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 31726,
+  "num_followers": 31886,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzcyZGZlMWEwNWE5ODEwOGQyYWM2Y2JhZTkxODc2MmE3MzhiMTE2",
+  "snapshot_id": "MCw1MWQyNGYxOTU4ZTBkMTg2NDdkYWU5MTYxMjA4Mzg1MmI3MmM5YWM2",
   "tracks": [
     {
       "added_at": "2023-04-17 16:07:16",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 226821,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
+    },
+    {
+      "added_at": "2023-04-17 16:07:16",
+      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 155818,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
-    },
-    {
-      "added_at": "2023-04-17 16:07:16",
-      "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 226821,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "MUSICA <3",
-        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 253605,
-      "name": "Psicodelica",
-      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
-    },
-    {
-      "added_at": "2023-04-17 16:07:16",
-      "album": {
         "name": "Que Bendici\u00f3n",
         "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
@@ -403,6 +387,42 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
+        "name": "MUSICA <3",
+        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 253605,
+      "name": "Psicodelica",
+      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
+    },
+    {
+      "added_at": "2023-04-17 16:07:16",
+      "album": {
+        "name": "Mil Maneras De Morir",
+        "url": "https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        }
+      ],
+      "duration_ms": 189881,
+      "name": "Mil Maneras De Morir",
+      "url": "https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5"
+    },
+    {
+      "added_at": "2023-04-17 16:07:16",
+      "album": {
         "name": "Si Es Posible",
         "url": "https://open.spotify.com/album/1PogP2XZKpfOBGgIuGk9Iu"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 216226,
       "name": "Broche de Oro",
       "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
-    },
-    {
-      "added_at": "2023-04-17 16:07:16",
-      "album": {
-        "name": "Mil Maneras De Morir",
-        "url": "https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        }
-      ],
-      "duration_ms": 189881,
-      "name": "Mil Maneras De Morir",
-      "url": "https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177249,
+      "name": "Como Que Me Enamoro - En Vivo",
+      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
+    },
+    {
+      "added_at": "2023-04-17 16:07:16",
+      "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
@@ -591,34 +607,18 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 177249,
-      "name": "Como Que Me Enamoro - En Vivo",
-      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
-    },
-    {
-      "added_at": "2023-04-17 16:07:16",
-      "album": {
-        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Mi Raz\u00f3n De Ser",
-      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
+      "duration_ms": 278073,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
         }
       ],
-      "duration_ms": 278073,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
+      "duration_ms": 209906,
+      "name": "Mi Raz\u00f3n De Ser",
+      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -703,6 +703,22 @@
       "duration_ms": 164933,
       "name": "Es Amor",
       "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+    },
+    {
+      "added_at": "2023-04-17 16:07:16",
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 270668,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -775,22 +791,6 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2023-04-17 16:07:16",
-      "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 270668,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
     },
     {
       "added_at": "2023-04-17 16:07:16",
@@ -955,6 +955,38 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Espero Con Ansias",
+      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2023-04-17 16:07:16",
+      "album": {
+        "name": "Junto A Ti",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A Ti",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": "2023-04-17 16:07:16",
+      "album": {
         "name": "Perfecta En Mis Ojos",
         "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
       },
@@ -987,38 +1019,6 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": "2023-04-17 16:07:16",
-      "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 161766,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
-    },
-    {
-      "added_at": "2023-04-17 16:07:16",
-      "album": {
         "name": "Eres Vida",
         "url": "https://open.spotify.com/album/1s9ha8ihTBqdKYjSXK78kC"
       },
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-04-17 16:07:16",
       "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
       "artists": [
         {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 214146,
-      "name": "Espero Con Ansias",
-      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": "2023-04-17 16:07:16",

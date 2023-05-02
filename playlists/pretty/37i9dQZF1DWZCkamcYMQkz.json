@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 110141,
+  "num_followers": 110324,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzNhNDlhOThiYWRhM2YzY2JiNWM4YWRmNTFmNzE1OWY2Nzg1YzRj",
+  "snapshot_id": "MCw5ZjU2NDJlZmVlMTA5MzNkMTQzNGVjNzE3MTc0NzEzNzRkZThmMDEz",
   "tracks": [
     {
       "added_at": "2023-04-26 07:08:21",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "C'est si bon",
+      "url": "https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -163,26 +179,6 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Got You on My Mind",
-        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        },
-        {
-          "name": "William Galison",
-          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
-        }
-      ],
-      "duration_ms": 152531,
-      "name": "Back in Your Own Back Yard",
-      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
         "name": "Balm in Gilead",
         "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
       },
@@ -199,18 +195,22 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+        "name": "Got You on My Mind",
+        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        },
+        {
+          "name": "William Galison",
+          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
         }
       ],
-      "duration_ms": 183053,
-      "name": "C'est si bon",
-      "url": "https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A"
+      "duration_ms": 152531,
+      "name": "Back in Your Own Back Yard",
+      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Sun of June",
-        "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 306086,
-      "name": "Let Me Take You for a Walk",
-      "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+        "name": "Sun of June",
+        "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
       },
       "artists": [
         {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
         }
       ],
-      "duration_ms": 185666,
-      "name": "Let's Do It",
-      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
+      "duration_ms": 306086,
+      "name": "Let Me Take You for a Walk",
+      "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Pavanne",
-      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
         }
       ],
-      "duration_ms": 144973,
-      "name": "Just You, Just Me",
-      "url": "https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu"
+      "duration_ms": 347453,
+      "name": "Pavanne",
+      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -711,6 +695,22 @@
       "duration_ms": 308666,
       "name": "I Hear Music",
       "url": "https://open.spotify.com/track/3CoBpiBcaqi1qq58mzaJNi"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 144973,
+      "name": "Just You, Just Me",
+      "url": "https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 110933,
       "name": "It's A Big Wide Wonderful World",
       "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 138986,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 407533,
       "name": "The More I See You - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 138986,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -907,18 +907,22 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "The Modern Sound Of Betty Carter",
-        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
+        "name": "Cheek To Cheek: The Complete Duet Recordings",
+        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 116320,
-      "name": "Jazz (Ain't Nothin' But Soul)",
-      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
+      "duration_ms": 191053,
+      "name": "Oops!",
+      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -939,6 +943,22 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
+        "name": "The Modern Sound Of Betty Carter",
+        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 116320,
+      "name": "Jazz (Ain't Nothin' But Soul)",
+      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -951,22 +971,6 @@
       "duration_ms": 130199,
       "name": "Ridin' High",
       "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -991,22 +995,18 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Cheek To Cheek: The Complete Duet Recordings",
-        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
+        "name": "Past Midnight",
+        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Oops!",
-      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
+      "duration_ms": 172453,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Blue Trane",
-        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed Trio",
-          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "You're Sensational",
-      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
+        "name": "Blue Trane",
+        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed Trio",
+          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "You're Sensational",
+      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
+        "name": "Dippin'",
+        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 491293,
+      "name": "Recado Bossa Nova - Remastered 2005",
+      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Dippin'",
-        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 491293,
-      "name": "Recado Bossa Nova - Remastered 2005",
-      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
+      "duration_ms": 250280,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -1315,22 +1331,6 @@
       "duration_ms": 182760,
       "name": "See See Rider",
       "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
+        "name": "I Feel Foolish",
+        "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "I Feel Foolish",
+      "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "I Feel Foolish",
-        "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Feel Foolish",
-      "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
         "name": "Not So Dukish",
         "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Delightfulee",
-        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 179200,
       "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
       "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
+        "name": "Delightfulee",
+        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
     },
     {
       "added_at": "2023-04-26 07:08:21",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-04-26 07:08:21",
       "album": {
-        "name": "Ramblin'",
-        "url": "https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "Ramblin'",
-      "url": "https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm"
-    },
-    {
-      "added_at": "2023-04-26 07:08:21",
-      "album": {
         "name": "Bing With A Beat",
         "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 161546,
       "name": "Dream a Little Dream of Me",
       "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
+    },
+    {
+      "added_at": "2023-04-26 07:08:21",
+      "album": {
+        "name": "Ramblin'",
+        "url": "https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "Ramblin'",
+      "url": "https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm"
     },
     {
       "added_at": "2023-04-26 07:08:21",

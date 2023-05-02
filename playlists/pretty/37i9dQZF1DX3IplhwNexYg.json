@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Gengahr",
-  "num_followers": 111245,
+  "num_followers": 111230,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGRmMzcyYTBhOGQwNTBhMmU2OWE0OGNjMGI0N2JhYzcxNjg4MTFj",
+  "snapshot_id": "MCxkZmMxYjE4NWEwM2E5OWFiNmFiNjNiZWZhMmQyMGFlZWM3NGE4MWM5",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "im so happy",
+      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "im so happy",
-      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 174626,
       "name": "Easy On Your Own?",
       "url": "https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Struggle",
+        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 204407,
+      "name": "Struggle - Single Version",
+      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Struggle",
-        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 204407,
-      "name": "Struggle - Single Version",
-      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 264986,
       "name": "Alright",
       "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Hello Alien",
         "url": "https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 205884,
       "name": "Hello Alien",
       "url": "https://open.spotify.com/track/4apqIevNZl1POiQccrGWls"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Everybody's Saying Thursday's The Weekend",
-        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Everybody's Saying Thursday's The Weekend",
-      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 226471,
       "name": "Someone2Me",
       "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Everybody's Saying Thursday's The Weekend",
+        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Everybody's Saying Thursday's The Weekend",
+      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Last Together",
-        "url": "https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 198473,
-      "name": "Last Together",
-      "url": "https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Say It Now",
         "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 220833,
       "name": "Say It Now",
       "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Last Together",
+        "url": "https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 198473,
+      "name": "Last Together",
+      "url": "https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Fading Like A Picture",
-        "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Fading Like A Picture",
-      "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Head of the Love Club",
         "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 149090,
       "name": "King of Nothing",
       "url": "https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Fading Like A Picture",
+        "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Fading Like A Picture",
+      "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -939,38 +939,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Dress",
-        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 206921,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "tainted in our memories",
-        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 160089,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "What You Did",
         "url": "https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP"
       },
@@ -987,6 +955,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Dress",
+        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 206921,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 248243,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "tainted in our memories",
+        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 160089,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "A Fistful of Peaches",
-        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 212288,
-      "name": "Cut the Cord",
-      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 202786,
       "name": "What\u2019s Wrong With Me",
       "url": "https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "A Fistful of Peaches",
+        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 212288,
+      "name": "Cut the Cord",
+      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Whenever You Want",
-        "url": "https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25"
+        "name": "My Very Best",
+        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
       },
       "artists": [
         {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
         }
       ],
-      "duration_ms": 239771,
-      "name": "Whenever You Want",
-      "url": "https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC"
+      "duration_ms": 197333,
+      "name": "My Very Best",
+      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+        "name": "Whenever You Want",
+        "url": "https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25"
       },
       "artists": [
         {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
+      "duration_ms": 239771,
+      "name": "Whenever You Want",
+      "url": "https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Break!",
         "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 137000,
       "name": "Thick of the Honey",
       "url": "https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "My Very Best",
-        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
-      },
-      "artists": [
-        {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "My Very Best",
-      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/7sHDo7EBwVqJXaXOYAIEhB"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/4RHjB7f6wc1mkIHno5bsNG"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 231684,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/7sHDo7EBwVqJXaXOYAIEhB"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/4RHjB7f6wc1mkIHno5bsNG"
     }
   ],
   "unique_name": "pulp",

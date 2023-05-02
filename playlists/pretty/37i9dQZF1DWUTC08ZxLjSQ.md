@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: nour\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,051 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,074 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Theeba](https://open.spotify.com/track/6d5jCujuJOwybONWCJGulU) | [Wiha](https://open.spotify.com/artist/4OObxAaYEWxmJD3dKQjKV0) | [Theeba](https://open.spotify.com/album/3PqWZoMfDSxPD3m3gMI1am) | 3:17 |
 | 50 | [Loom](https://open.spotify.com/track/1Q1PWZvKU0kvXZSc6B1LJW) | [Noul](https://open.spotify.com/artist/2eBVLC3ePF9HO0Ew4snCNq) | [Loom](https://open.spotify.com/album/0uNojfPWQ6REBGYSjWtBcp) | 5:55 |
 
-Snapshot ID: `MCxhZGJmY2M1NzQ1ZjljOWE5ZTdhOTgzMDAyN2NhYmVjNWZlZjllOGQ5`
+Snapshot ID: `MCxjZDRmN2VjMjczOGE0NTE2MTNjODFmMjY1ZWM5M2VmOTgwZjJhNWQ1`

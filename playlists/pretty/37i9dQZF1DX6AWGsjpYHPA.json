@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 103422,
+  "num_followers": 103529,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTVmNDJlMzFlNjc0YzA3OTU3MjIxMWNmYjBjMzQ4MGU0MjIwOGQx",
+  "snapshot_id": "MCxjMGQ4NDdkOWJkMTJjZjRkMThjOGJkODY2ODA5ZGMxMTExOTU3YTRm",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Along the Lethe",
-        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
-      },
-      "artists": [
-        {
-          "name": "Beacon",
-          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Harm",
-      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Along the Lethe",
+        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
+      },
+      "artists": [
+        {
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Harm",
+      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -835,22 +819,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Yesterday Is Heavy",
-        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
       },
       "artists": [
         {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 189422,
-      "name": "To The Floor",
-      "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -867,6 +847,26 @@
       "duration_ms": 235200,
       "name": "Summon The Fire",
       "url": "https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Yesterday Is Heavy",
+        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 189422,
+      "name": "To The Floor",
+      "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Your Queen Is A Reptile",
         "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
       },
@@ -1111,38 +1095,6 @@
       "duration_ms": 314693,
       "name": "My Queen Is Albertina Sisulu",
       "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Jazz Vol. 1",
-        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 397477,
-      "name": "Jazz Vol. 1",
-      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Wisdom Through Music",
-        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
-      },
-      "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        }
-      ],
-      "duration_ms": 318626,
-      "name": "Love Is Everywhere",
-      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1163,18 +1115,50 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
+        "name": "Jazz Vol. 1",
+        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
       },
       "artists": [
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
         }
       ],
-      "duration_ms": 275719,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
+      "duration_ms": 397477,
+      "name": "Jazz Vol. 1",
+      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Wisdom Through Music",
+        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 318626,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1199,6 +1183,22 @@
       "duration_ms": 313587,
       "name": "Beside April",
       "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 275719,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
     },
     {
       "added_at": "2022-09-15 22:32:37",

@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 169626,
+  "num_followers": 169726,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTExN2RiZDFhNTQwNjBhMzZiZGRmN2IzMTRkZmU5NTFhMzI1OGYy",
+  "snapshot_id": "MCxiY2M4Nzg4NTI1YWUzZGVlNmU5MTA3YjYyNDUzYzE4NjA1YTEzYzVj",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -183,6 +183,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "MultiViral",
+        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "El Aguante",
+      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "\u00bfSer\u00e1 Posible El Sur?",
         "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
       },
@@ -219,26 +235,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
-      },
-      "artists": [
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        },
-        {
-          "name": "Stailok",
-          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
-        }
-      ],
-      "duration_ms": 237396,
-      "name": "El Otro Chile",
-      "url": "https://open.spotify.com/track/6NxXtGRGKVDfhuza8CJn5G"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Donde Jugaran Las Ni\u00f1as",
         "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
       },
@@ -271,18 +267,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "MultiViral",
-        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        },
+        {
+          "name": "Stailok",
+          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
         }
       ],
-      "duration_ms": 288746,
-      "name": "El Aguante",
-      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+      "duration_ms": 237396,
+      "name": "El Otro Chile",
+      "url": "https://open.spotify.com/track/6NxXtGRGKVDfhuza8CJn5G"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -299,6 +299,22 @@
       "duration_ms": 160068,
       "name": "Mujer detente",
       "url": "https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Mercedes Sosa En Argentina (En Directo)",
+        "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Como La Cigarra - En Directo",
+      "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -451,18 +467,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Mercedes Sosa En Argentina (En Directo)",
-        "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Como La Cigarra - En Directo",
-      "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
+      "duration_ms": 280546,
+      "name": "Cerca De La Revolucion",
+      "url": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -479,22 +495,6 @@
       "duration_ms": 351400,
       "name": "La Maza",
       "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 280546,
-      "name": "Cerca De La Revolucion",
-      "url": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 184378,
-      "name": "Antipatriarca",
-      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 184378,
+      "name": "Antipatriarca",
+      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "De Sur a Norte",
         "url": "https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 217000,
       "name": "Basta",
       "url": "https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Antolog\u00eda del Canto Nuevo Vol. 2",
+        "url": "https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        }
+      ],
+      "duration_ms": 147520,
+      "name": "Para Que Nunca Mas",
+      "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -851,22 +867,6 @@
       "duration_ms": 245149,
       "name": "Patria y Vida",
       "url": "https://open.spotify.com/track/1jOF5X4zw27t9LQltutz9f"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Antolog\u00eda del Canto Nuevo Vol. 2",
-        "url": "https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu"
-      },
-      "artists": [
-        {
-          "name": "Sol y Lluvia",
-          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
-        }
-      ],
-      "duration_ms": 147520,
-      "name": "Para Que Nunca Mas",
-      "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Bala",
-        "url": "https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Shock",
-      "url": "https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Ekhymosis",
         "url": "https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB"
       },
@@ -951,22 +935,6 @@
       "duration_ms": 225480,
       "name": "La Tierra",
       "url": "https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 242216,
-      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
-      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -987,6 +955,38 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "La Bala",
+        "url": "https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Shock",
+      "url": "https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 242216,
+      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
+      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -1003,26 +1003,6 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "Shadia Mansour",
-          "url": "https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93"
-        }
-      ],
-      "duration_ms": 226922,
-      "name": "Somos Sur",
-      "url": "https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv"
     },
     {
       "added_at": "2022-04-01 20:17:41",
@@ -1059,18 +1039,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
+        "name": "M\u00e1s Poder",
+        "url": "https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "La Sarita",
+          "url": "https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Por Qu\u00e9 No Se Van",
-      "url": "https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV"
+      "duration_ms": 255600,
+      "name": "M\u00e1s Poder",
+      "url": "https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1087,22 +1067,6 @@
       "duration_ms": 268467,
       "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
       "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "M\u00e1s Poder",
-        "url": "https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN"
-      },
-      "artists": [
-        {
-          "name": "La Sarita",
-          "url": "https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "M\u00e1s Poder",
-      "url": "https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1135,6 +1099,42 @@
       "duration_ms": 346506,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Shadia Mansour",
+          "url": "https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93"
+        }
+      ],
+      "duration_ms": 226922,
+      "name": "Somos Sur",
+      "url": "https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Por Qu\u00e9 No Se Van",
+      "url": "https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
-      },
-      "artists": [
-        {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
-        }
-      ],
-      "duration_ms": 240716,
-      "name": "El Mundo Que Nos Toc\u00f3 Vivir",
-      "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "La Nueva Cancion Chilena, Vol. 1",
         "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 279333,
       "name": "La Muralla",
       "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 240716,
+      "name": "El Mundo Que Nos Toc\u00f3 Vivir",
+      "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Ni Por La Raz\u00f3n, Ni Por La Fuerza (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/69Zs9jtNOpru1938K1odQi"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 342533,
-      "name": "El Baile De Los Que Sobran",
-      "url": "https://open.spotify.com/track/4RBZ1KDYHFY61CiL0T8VEh"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 220613,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Ni Por La Raz\u00f3n, Ni Por La Fuerza (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/69Zs9jtNOpru1938K1odQi"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 342533,
+      "name": "El Baile De Los Que Sobran",
+      "url": "https://open.spotify.com/track/4RBZ1KDYHFY61CiL0T8VEh"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
     },
     {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Cordillera",
-      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
-    },
-    {
       "added_at": "2022-03-18 03:36:26",
       "album": {
         "name": "S\u00edganme los Buenos",
@@ -1403,6 +1387,22 @@
       "duration_ms": 207580,
       "name": "S\u00edganme los Buenos",
       "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Pateando Craneos",
-        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
-      },
-      "artists": [
-        {
-          "name": "2X",
-          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "La Fuerza Policial",
-      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Homonimo",
         "url": "https://open.spotify.com/album/45SyOhvUtpGhEkYvdN1YWr"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 226355,
       "name": "Ni\u00f1x",
       "url": "https://open.spotify.com/track/2sKurE9yCmgFfdP4vW0rgy"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Pateando Craneos",
+        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
+      },
+      "artists": [
+        {
+          "name": "2X",
+          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "La Fuerza Policial",
+      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Paco Vampiro",
-        "url": "https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 201284,
-      "name": "Paco Vampiro",
-      "url": "https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "His Great Songs",
         "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 188066,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Paco Vampiro",
+        "url": "https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 201284,
+      "name": "Paco Vampiro",
+      "url": "https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Velocidad de la Luz",
-        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+        "name": "Un Le\u00f3n D-Mente",
+        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
       },
       "artists": [
         {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "D-Mente",
+          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
         }
       ],
-      "duration_ms": 183640,
-      "name": "La Maldici\u00f3n de Mi Pa\u00eds",
-      "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
+      "duration_ms": 346946,
+      "name": "La Memoria",
+      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
     },
     {
       "added_at": "2022-09-26 22:09:52",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Un Le\u00f3n D-Mente",
-        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        },
-        {
-          "name": "D-Mente",
-          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 346946,
-      "name": "La Memoria",
-      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
+      "duration_ms": 183640,
+      "name": "La Maldici\u00f3n de Mi Pa\u00eds",
+      "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1759,6 +1759,22 @@
       "duration_ms": 305893,
       "name": "Fuerte",
       "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Formas para Perderse o I.D.E.A.S",
+        "url": "https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 299319,
+      "name": "Polyrics",
+      "url": "https://open.spotify.com/track/6AMi0uaTgLG3HrbOIIrRls"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1815,22 +1831,6 @@
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Formas para Perderse o I.D.E.A.S",
-        "url": "https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 299319,
-      "name": "Polyrics",
-      "url": "https://open.spotify.com/track/6AMi0uaTgLG3HrbOIIrRls"
     },
     {
       "added_at": "2021-09-24 14:38:22",

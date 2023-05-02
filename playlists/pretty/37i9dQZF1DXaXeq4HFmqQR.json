@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. AKRIILA. \nDales play, dales power.",
-  "num_followers": 11847,
+  "num_followers": 11850,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDBiOWE1MWE3OGFhYjA4ZjI0MTY4YzQwYjZmZjEwYmZmZDIwZmQy",
+  "snapshot_id": "MCxlZDlmZTYyOWNkYTczNGI2ZjMzZDcxNTI3MDc1ZmJhM2JlZTJlMTVm",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        }
+      ],
+      "duration_ms": 176249,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "Flor de Loto",
         "url": "https://open.spotify.com/album/7BeWJPSCV5V47GqEXCi4wH"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 194000,
       "name": "Flor de Loto",
       "url": "https://open.spotify.com/track/2MywTeCcDn6ClNrGewWeUh"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 184145,
-      "name": "Libre Albedr\u00edo",
-      "url": "https://open.spotify.com/track/1V199S6f6QMqqb7j1V4MaF"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -551,6 +551,38 @@
       "duration_ms": 137140,
       "name": "XULA",
       "url": "https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 184145,
+      "name": "Libre Albedr\u00edo",
+      "url": "https://open.spotify.com/track/1V199S6f6QMqqb7j1V4MaF"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "duration_ms": 191857,
+      "name": "Siempre Nice",
+      "url": "https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -579,22 +611,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Molly",
-        "url": "https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        }
-      ],
-      "duration_ms": 176249,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "No Ver\u00e1n",
         "url": "https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 205712,
       "name": "No Ver\u00e1n",
       "url": "https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY"
-      },
-      "artists": [
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 191857,
-      "name": "Siempre Nice",
-      "url": "https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -855,34 +855,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "00",
-        "url": "https://open.spotify.com/album/7AksLApsTy2yNIFbja6kHt"
-      },
-      "artists": [
-        {
-          "name": "Bela",
-          "url": "https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        },
-        {
-          "name": "Cheskv Liz",
-          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
-        },
-        {
-          "name": "Liah Veliz",
-          "url": "https://open.spotify.com/artist/63HSomNykcQxJfQeZIUr39"
-        }
-      ],
-      "duration_ms": 208010,
-      "name": "Chucky",
-      "url": "https://open.spotify.com/track/74ImQ4zywA6716AlZGVH3q"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Rayokuza",
         "url": "https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg"
       },
@@ -911,6 +883,34 @@
       "duration_ms": 150295,
       "name": "Saber Si Me Amas (Quiero)",
       "url": "https://open.spotify.com/track/5XqB8ZPPhGHkmoXOasTAKn"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "00",
+        "url": "https://open.spotify.com/album/7AksLApsTy2yNIFbja6kHt"
+      },
+      "artists": [
+        {
+          "name": "Bela",
+          "url": "https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "Cheskv Liz",
+          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
+        },
+        {
+          "name": "Liah Veliz",
+          "url": "https://open.spotify.com/artist/63HSomNykcQxJfQeZIUr39"
+        }
+      ],
+      "duration_ms": 208010,
+      "name": "Chucky",
+      "url": "https://open.spotify.com/track/74ImQ4zywA6716AlZGVH3q"
     },
     {
       "added_at": "2023-04-05 03:00:00",

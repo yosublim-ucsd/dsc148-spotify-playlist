@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-283 songs - 15 hr 5 min
+284 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [My Man \- Acoustic](https://open.spotify.com/track/5R1fjItNhkMxVmuN7wQ1JL) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man \(Acoustic\)](https://open.spotify.com/album/0oY04SQ5YE3hAxR9dv5K3X) | 4:42 | 2022-06-24 | 2023-03-04 |
 | [My Only Baby](https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [My Only Baby](https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9) | 2:38 | 2023-01-12 | 2023-02-11 |
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-06-24 | 2022-08-14 |
+| [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 | 2023-04-27 |  |
 | [NANA](https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y) | 2:26 | 2023-03-06 | 2023-05-01 |
 | [Need You](https://open.spotify.com/track/6p0u1dLtzN6F2N0pPhP2JC) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 3:17 | 2022-11-25 | 2023-02-24 |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 | 2023-02-24 |
@@ -263,7 +264,7 @@
 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-06-24 |  |
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-30 |  |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-21 |  |
-| [troublin \- A COLORS SHOW](https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [troublin \- A COLORS SHOW](https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K) | 2:25 | 2023-03-17 |  |
+| [troublin \- A COLORS SHOW](https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [troublin \- A COLORS SHOW](https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K) | 2:25 | 2023-03-17 | 2023-05-02 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:07 | 2023-04-20 |  |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-28 | 2022-11-26 |
 | [Unpopular Opinion](https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Unpopular Opinion](https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK) | 3:11 | 2022-10-13 | 2022-10-29 |

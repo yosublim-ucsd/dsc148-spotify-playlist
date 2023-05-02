@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,381 likes - 130 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,403 likes - 130 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 129 | [Groovin'](https://open.spotify.com/track/6K0gMnFO7HgrKGJKmGL1Wm) | [KTTK](https://open.spotify.com/artist/6twl7VzHH1aK1FFkOgaIyJ), [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [Groovin'](https://open.spotify.com/album/4YdSc00ZUmKc0GibiyMxhm) | 3:44 |
 | 130 | [Sunrise](https://open.spotify.com/track/69lYM9QS3rkCpgYu1bv0Tz) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Sunrise](https://open.spotify.com/album/2li5OyXeNan4XE6mqs5Omj) | 4:37 |
 
-Snapshot ID: `MCwyNzdiZWE2ZGZiMWM2MmJmMTNmMjYxNzNjNDFlYTkzOTg3NTJiNWI4`
+Snapshot ID: `MCw2OTg4MDBiM2Q0NWM0NDYzZTk5OWI4NzhiZTgyNDMzM2Y5MTFiMjAy`

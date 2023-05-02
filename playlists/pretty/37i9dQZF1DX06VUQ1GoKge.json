@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 500968,
+  "num_followers": 501362,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTliZGZjYjg0YjE3NDcwY2Q3NjViODhjZTUxMTdjMWYwODFmODJh",
+  "snapshot_id": "MCwyNmM4ZTExN2Y2ZDk3YjIwYzQ4YWQ1Y2QwN2Y5NWI4MDgyY2U0NjJi",
   "tracks": [
     {
       "added_at": "2023-04-04 14:04:12",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Mezmerize",
-        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "B.Y.O.B.",
-      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -119,6 +103,38 @@
       "duration_ms": 322339,
       "name": "Deutschland",
       "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Mezmerize",
+        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "B.Y.O.B.",
+      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -171,22 +187,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "Master of Puppets (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 374453,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 260773,
+      "name": "Unsainted",
+      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -299,22 +315,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Runnin' Wild (Special Edition)",
-        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "Runnin' Wild",
-      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "City of Evil",
         "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+        "name": "Runnin' Wild (Special Edition)",
+        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
         }
       ],
-      "duration_ms": 260773,
-      "name": "Unsainted",
-      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
+      "duration_ms": 222240,
+      "name": "Runnin' Wild",
+      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -359,6 +359,22 @@
       "duration_ms": 263080,
       "name": "A Warrior's Call",
       "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "People = Shit",
+      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -423,22 +439,6 @@
       "duration_ms": 244364,
       "name": "Animals",
       "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "People = Shit",
-      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "Clayman",
         "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 294866,
       "name": "Only for the Weak",
       "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "American Capitalist (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
       },
@@ -859,22 +843,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
       },
@@ -887,6 +855,22 @@
       "duration_ms": 203680,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -939,6 +923,22 @@
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "The Great War",
         "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 268266,
       "name": "Great War",
       "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Scars (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
-      },
-      "artists": [
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
+        "name": "Scars (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
         "name": "Through The Eyes",
         "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 232640,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1323,6 +1307,22 @@
       "duration_ms": 376920,
       "name": "Blacklist",
       "url": "https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 232640,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
     },
     {
       "added_at": "2023-04-04 14:04:12",

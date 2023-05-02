@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Remembering Keith Gattis",
-  "num_followers": 221043,
+  "num_followers": 221180,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjI1MzlmZDM0OWIyMjJiNjhjNTkzNTBlYjI2NGRkYThiNzU2ZTdj",
+  "snapshot_id": "MCw1YTdiYzg5MTdkNDIzMjc5ODBjMGIyZDY2NDIwOWNhYmRlMWJkNTlj",
   "tracks": [
     {
       "added_at": "2023-04-26 18:20:08",
@@ -155,38 +155,6 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 177083,
-      "name": "Settle Me Down",
-      "url": "https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
-        "name": "Lifers",
-        "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Must Be The Whiskey",
-      "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -215,6 +183,38 @@
       "duration_ms": 182653,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "Lifers",
+        "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Must Be The Whiskey",
+      "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 177083,
+      "name": "Settle Me Down",
+      "url": "https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Less Wise",
-        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 300680,
-      "name": "Hippies and Cowboys",
-      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -315,38 +315,6 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Broken Window Serenade",
-      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
         "name": "Probably Wrong",
         "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
       },
@@ -359,6 +327,22 @@
       "duration_ms": 232653,
       "name": "Hell of a Year",
       "url": "https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "Less Wise",
+        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 300680,
+      "name": "Hippies and Cowboys",
+      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -379,6 +363,22 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
+      },
+      "artists": [
+        {
+          "name": "Read Southall Band",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 197997,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
         "name": "A Different Day",
         "url": "https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k"
       },
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
       },
       "artists": [
         {
-          "name": "Read Southall Band",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 197997,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ"
+      "duration_ms": 346333,
+      "name": "Broken Window Serenade",
+      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -475,38 +475,6 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Ballad Of A Southern Man",
-      "url": "https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
-        "name": "Cowboy Like Me",
-        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Dance Her Home",
-      "url": "https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -535,22 +503,6 @@
       "duration_ms": 257773,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/3QtCKENdSI3l8xlSULRrK0"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
-        "name": "Strait From The Heart",
-        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Amarillo By Morning",
-      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -587,8 +539,24 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Gotta Be Me",
-        "url": "https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD"
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "Cowboy Like Me",
+        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
       },
       "artists": [
         {
@@ -596,9 +564,41 @@
           "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 186066,
-      "name": "Wild as You",
-      "url": "https://open.spotify.com/track/4IZOdhEvXYWqh5XAXYzBk3"
+      "duration_ms": 174680,
+      "name": "Dance Her Home",
+      "url": "https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "Ballad Of A Southern Man",
+      "url": "https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "Come May",
+        "url": "https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5Sx22WASoyuCUbK72Fs78y"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -631,38 +631,6 @@
       "duration_ms": 298906,
       "name": "blood",
       "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "Virginia",
-      "url": "https://open.spotify.com/track/0sQkMsh3ojWIw7CIGsXArG"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
-        "name": "Come May",
-        "url": "https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5Sx22WASoyuCUbK72Fs78y"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -715,22 +683,50 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+        "name": "Broke Ass Kid",
+        "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 223062,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB"
+      "duration_ms": 242325,
+      "name": "Broke Ass Kid",
+      "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "Virginia",
+      "url": "https://open.spotify.com/track/0sQkMsh3ojWIw7CIGsXArG"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "Gotta Be Me",
+        "url": "https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Wild as You",
+      "url": "https://open.spotify.com/track/4IZOdhEvXYWqh5XAXYzBk3"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -751,34 +747,38 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Broke Ass Kid",
-        "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 242325,
-      "name": "Broke Ass Kid",
-      "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
+      "duration_ms": 223062,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB"
     },
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
       "artists": [
         {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 216146,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
+      "duration_ms": 289653,
+      "name": "7 & 7",
+      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 241786,
       "name": "Tequila Does",
       "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
-        "name": "Diamonds & Gasoline",
-        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "7 & 7",
-      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z"
-      },
-      "artists": [
-        {
-          "name": "Charlie Robison",
-          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "New Year's Day",
-      "url": "https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
         "name": "Goodbye Normal Street",
         "url": "https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 301000,
       "name": "Good Lord Lorrie",
       "url": "https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z"
+      },
+      "artists": [
+        {
+          "name": "Charlie Robison",
+          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "New Year's Day",
+      "url": "https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
+        "name": "Blink You'll Miss It",
+        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 212819,
+      "name": "Damn Good Goodbye",
+      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
         "name": "Welcome To Countryland",
         "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 221626,
       "name": "Buy Myself A Chance",
       "url": "https://open.spotify.com/track/1EHNNWLiWe1PJADKEnMvIr"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
-        "name": "Blink You'll Miss It",
-        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 212819,
-      "name": "Damn Good Goodbye",
-      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
+        "name": "Drowning In Dreams",
+        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
+      },
+      "artists": [
+        {
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+        }
+      ],
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
         "name": "Every Single Kiss",
         "url": "https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr"
       },
@@ -1359,34 +1375,18 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP"
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
         }
       ],
-      "duration_ms": 224027,
-      "name": "Happier Alone",
-      "url": "https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
-        "name": "Drowning In Dreams",
-        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
+      "duration_ms": 212235,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L"
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP"
       },
       "artists": [
         {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
         }
       ],
-      "duration_ms": 212235,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu"
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7"
     },
     {
       "added_at": "2023-04-26 18:20:08",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-04-26 18:20:08",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
-    },
-    {
-      "added_at": "2023-04-26 18:20:08",
-      "album": {
         "name": "Any Night in Texas",
         "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 238666,
       "name": "Boots on a Dance Floor",
       "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
+    },
+    {
+      "added_at": "2023-04-26 18:20:08",
+      "album": {
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-04-26 18:20:08",

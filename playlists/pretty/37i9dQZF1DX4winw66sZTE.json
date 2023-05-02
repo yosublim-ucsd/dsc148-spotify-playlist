@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 10946,
+  "num_followers": 10969,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2ZlOGU5ZTAyNzUzNDE1ZDI4ODZiNDJlN2Y2NmZiMDRlMDRkYmI3",
+  "snapshot_id": "MCxhMWM4ODQ3NDZlNjY4NjAyMzBkNDFmYTkyYWU1NDlkMDhmNDQ5YTg3",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -243,22 +243,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "SUNMI SPECIAL EDITION [Gashina]",
-        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gashina",
-      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 229989,
       "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
       "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
-        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 272847,
-      "name": "If It Is You",
-      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 205192,
       "name": "ALWAYS",
       "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
+        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 272847,
+      "name": "If It Is You",
+      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -635,22 +635,6 @@
       "duration_ms": 213853,
       "name": "Galaxy \uc6b0\uc8fc\ub97c \uc904\uac8c",
       "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 231748,
-      "name": "FXXK IT",
-      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -748,9 +732,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 211926,
-      "name": "LET'S NOT FALL IN LOVE",
-      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
+      "duration_ms": 231748,
+      "name": "FXXK IT",
+      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -823,6 +807,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 211926,
+      "name": "LET'S NOT FALL IN LOVE",
+      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "NCT 2018 EMPATHY",
         "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Ma Boy",
-        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
-      },
-      "artists": [
-        {
-          "name": "SISTAR19",
-          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Ma Boy",
-      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Why So Lonely",
         "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+        "name": "Ma Boy",
+        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
         }
       ],
-      "duration_ms": 233098,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
+      "duration_ms": 196702,
+      "name": "Ma Boy",
+      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -983,6 +967,22 @@
       "duration_ms": 229627,
       "name": "COME BACK HOME",
       "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233098,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 233955,
-      "name": "Baby, Don't Cry",
-      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "INSANE LOVE",
         "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Yanghwa BRDG",
-        "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
       "artists": [
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 229349,
-      "name": "Yanghwa BRDG",
-      "url": "https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU"
+      "duration_ms": 233955,
+      "name": "Baby, Don't Cry",
+      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Yanghwa BRDG",
+        "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 229349,
+      "name": "Yanghwa BRDG",
+      "url": "https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "180\u02da",
         "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+        "name": "/// (You, Clouds, Rain)",
+        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
       },
       "artists": [
         {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+      "duration_ms": 189410,
+      "name": "Don't Know You",
+      "url": "https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Rain - SM STATION",
         "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 222047,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "/// (You, Clouds, Rain)",
-        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 189410,
-      "name": "Don't Know You",
-      "url": "https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg"
     },
     {
       "added_at": "2021-03-01 03:07:22",

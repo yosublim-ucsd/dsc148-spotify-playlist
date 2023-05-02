@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 69542,
+  "num_followers": 69627,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWE3YTZlMzgwMDk4YjU2YzAzNjVkMWM0YjY0NzQ1YmM0M2I1Y2Y0",
+  "snapshot_id": "MCxkZDg3YmNlYTU3ZmQ1OTA1ZDYzMDM3OTUzZjJhZjNlODI0MDUyNDBl",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 290933,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
-      },
-      "artists": [
-        {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
-        }
-      ],
-      "duration_ms": 292933,
-      "name": "Rush Rush",
-      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Go for Your Guns",
         "url": "https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 306800,
       "name": "Footsteps in the Dark, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 292933,
+      "name": "Rush Rush",
+      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -439,38 +455,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Sweet Love",
         "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
       "artists": [
         {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
         }
       ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "80s Jazz Hits",
-        "url": "https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 300706,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 282480,
       "name": "Computer Love",
       "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "80s Jazz Hits",
+        "url": "https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Hangin' Tough",
-        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Please Don't Go Girl",
-      "url": "https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 373266,
       "name": "You Put A Move On My Heart",
       "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Hangin' Tough",
+        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Please Don't Go Girl",
+      "url": "https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 357333,
-      "name": "It's Time for Love",
-      "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 254453,
       "name": "You Are My Heaven (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 357333,
+      "name": "It's Time for Love",
+      "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Injoy",
-        "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
-      },
-      "artists": [
-        {
-          "name": "The Bar-Kays",
-          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Running In And Out Of My Life",
-      "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Nossa Imagina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 216333,
       "name": "Pensando Nela",
       "url": "https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Injoy",
+        "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
+      },
+      "artists": [
+        {
+          "name": "The Bar-Kays",
+          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Running In And Out Of My Life",
+      "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
     },
     {
       "added_at": "2023-01-19 17:27:16",

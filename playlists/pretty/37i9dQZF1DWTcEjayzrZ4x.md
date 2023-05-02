@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,945 likes - 424 songs - 1 day 0 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,173 likes - 424 songs - 1 day 0 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -433,4 +433,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 423 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 |
 | 424 | [London Plane](https://open.spotify.com/track/0ehejUJtOzYTWpmysmXaMI) | [Luc Brooks](https://open.spotify.com/artist/3Kqbdl8JFUxNSbbJns8OMU) | [London Plane](https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk) | 3:19 |
 
-Snapshot ID: `MCwyZjkyNGFkY2M5ODQ3YjE3OTZiZmM0ZDliY2U1YjlhYTJhOThhZDA0`
+Snapshot ID: `MCxiMTQ3NTgyOWJiMDJlNDUyMmJhZWQ5ZWFkMmZmZWEzY2EyMDA1ZTkz`

@@ -4,11 +4,11 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-214 songs - 13 hr 32 min
+215 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [30 Horas](https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ) | [Cuarta Pared](https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX) | [30 Horas](https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8) | 3:39 | 2021-12-09 |  |
+| [30 Horas](https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ) | [Cuarta Pared](https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX) | [30 Horas](https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8) | 3:39 | 2021-12-09 | 2023-05-02 |
 | [A Lo Cubano](https://open.spotify.com/track/5RHsMuIxbJhGJoyd8DYmn8) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 4:03 | 2023-03-07 |  |
 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-02-18 |  |
 | [Agüita de Coco](https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Butera Knowless](https://open.spotify.com/artist/3x4ddfyjJHpGIBcPvdFxeK) | [Agüita de Coco](https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx) | 2:33 | 2023-04-21 |  |
@@ -210,6 +210,7 @@
 | [Una Música Brutal](https://open.spotify.com/track/3XaSDElucjBkM3qFe1ynms) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Best of Gotan Project](https://open.spotify.com/album/2LVpoh6UUJpRMvxR3CqsRc) | 4:13 | 2021-12-09 | 2022-07-29 |
 | [Una Piedra en el Cielo](https://open.spotify.com/track/4DIsKUbv10eow52QIzrvtX) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Parrilladas Vargas](https://open.spotify.com/album/366fzjDHqs8XiOdlNGSwVt) | 2:11 | 2021-12-09 | 2022-07-29 |
 | [Una Piedra en el Cielo](https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Parrilladas Vargas](https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR) | 2:11 | 2022-01-01 |  |
+| [Vem Pra Mim](https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:52 | 2023-04-28 |  |
 | [Virgencita \(Happy Colors Remix\)](https://open.spotify.com/track/0RwP4csx5VT9jsnL8okhjX) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Happy Colors](https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1) | [Calentura: Global Bassment](https://open.spotify.com/album/18ynFrrFKg1wRPU5CfmDLP) | 3:16 | 2021-12-09 | 2022-07-29 |
 | [Virgencita \- Happy Colors Remix](https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Happy Colors](https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Calentura: Global Bassment](https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu) | 3:16 | 2022-01-01 |  |
 | [Ya Llego \(Captain Planet Remix\)](https://open.spotify.com/track/3ofJQlyeMIigLD3hSJUyME) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Calentura: Global Bassment](https://open.spotify.com/album/18ynFrrFKg1wRPU5CfmDLP) | 4:04 | 2022-01-01 | 2022-07-29 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTc3MWY1NDVlMGJiZTQ2ZjM5YzY5YzZhZjRjMjJhZmExYjQ1Mjg1",
+  "snapshot_id": "MCxhM2RlNDM0OTA3MzAyMmUzMzBiNzk4ZjY1NDdlNGI3NmVlOWE4YWM5",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Algo Que Decirte",
-        "url": "https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf"
-      },
-      "artists": [
-        {
-          "name": "Canticu\u00e9nticos",
-          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Bate Con La Cucharita",
-      "url": "https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
         "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 163786,
       "name": "La Merienda - Remasterizado",
       "url": "https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Algo Que Decirte",
+        "url": "https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf"
+      },
+      "artists": [
+        {
+          "name": "Canticu\u00e9nticos",
+          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Bate Con La Cucharita",
+      "url": "https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Canciones Infantiles, Vol. 2",
-        "url": "https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE"
-      },
-      "artists": [
-        {
-          "name": "Nene Le\u00f3n",
-          "url": "https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q"
-        }
-      ],
-      "duration_ms": 92127,
-      "name": "Canci\u00f3n para la hora del ba\u00f1o (Agua, jab\u00f3n)",
-      "url": "https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Gallina Pintadita, Vol. 2",
         "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2"
+        "name": "Canciones Infantiles, Vol. 2",
+        "url": "https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Nene Le\u00f3n",
+          "url": "https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q"
         }
       ],
-      "duration_ms": 260853,
-      "name": "Family Time",
-      "url": "https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0"
+      "duration_ms": 92127,
+      "name": "Canci\u00f3n para la hora del ba\u00f1o (Agua, jab\u00f3n)",
+      "url": "https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -319,6 +303,22 @@
       "duration_ms": 157173,
       "name": "El Juego de las Verduras",
       "url": "https://open.spotify.com/track/7htnCgZlRosLtszzgGQXeB"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 260853,
+      "name": "Family Time",
+      "url": "https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -367,6 +367,26 @@
       "duration_ms": 193840,
       "name": "Do The Chores",
       "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -435,26 +455,6 @@
       "duration_ms": 92170,
       "name": "Brush Brush Brush",
       "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
       },
       "artists": [
         {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -663,6 +647,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Life Lessons for Children from LittleBabyBum",
         "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Adelante",
-        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
-      },
-      "artists": [
-        {
-          "name": "Lucky Diaz and the Family Jam Band",
-          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
-        }
-      ],
-      "duration_ms": 174511,
-      "name": "Cuantos Tacos (The Taco Song)",
-      "url": "https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Canciones Para Chicos",
         "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 110960,
       "name": "Canci\u00f3n De Tomar El T\u00e9",
       "url": "https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Adelante",
+        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "duration_ms": 174511,
+      "name": "Cuantos Tacos (The Taco Song)",
+      "url": "https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Papa Goose",
-        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
+        "name": "Pink!",
+        "url": "https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE"
       },
       "artists": [
         {
-          "name": "Nat Hussey",
-          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
+          "name": "Rocknoceros",
+          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
         }
       ],
-      "duration_ms": 89306,
-      "name": "Wash The Dishes",
-      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
+      "duration_ms": 184600,
+      "name": "Nappin' Time",
+      "url": "https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl"
     }
   ],
   "unique_name": "Daily Rutina",

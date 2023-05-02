@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=fL99jsIQS3OdQLYrAT5RlA"> Suté Iwar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,610 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,666 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 89 | [MATILDA \(feat\. Brazy\)](https://open.spotify.com/track/4PdDPRNhKeS1krsLvclPUb) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 3:50 |
 | 90 | [Vex](https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [ODUMODUBLVCK](https://open.spotify.com/artist/1KMl7oxmZzQS5I9e8aiNTs) | [Cruel Love/Vex](https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u) | 2:46 |
 
-Snapshot ID: `MCw3YzJiN2U5ZjgwMmE1ZDNhZDlmOGJiOTIwMTU1NDRmNTE3MTA4ZTA0`
+Snapshot ID: `MCw0MTE3NTE1N2JmYjE3YTU4ZTdhODc3YTkwMzE4MGE1N2YwMzM4N2I4`

@@ -1,12 +1,12 @@
 {
   "description": "Gettin' figgy with it, bana-na-na-nanana",
-  "num_followers": 934331,
+  "num_followers": 934789,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2M2MTc3YTFjYmQ4Y2RiMmYxN2RiMzdiMzMxMzA1YTBmNDQwMTMw",
+  "snapshot_id": "MCwxNzViN2MyMGUxNjg4YzllMzU5MjdiOWU2YmY5NzI1YzdmN2EzYjVj",
   "tracks": [
     {
       "added_at": "2023-04-19 16:05:06",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
         "name": "Love Goes",
         "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
       },
@@ -267,18 +283,18 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg"
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -323,22 +339,6 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "Cheryl Lynn (Expanded Edition)",
         "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 307946,
       "name": "Got to Be Real",
       "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -915,6 +915,30 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Got 'Til It's Gone",
+      "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -959,30 +983,6 @@
       "duration_ms": 345975,
       "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
       "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
-        "name": "The Velvet Rope",
-        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "Got 'Til It's Gone",
-      "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
+        "name": "Saturday Songs",
+        "url": "https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Get Down Saturday Night",
+      "url": "https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
         "name": "Thrill of the Arts",
         "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 181259,
       "name": "Back Pocket",
       "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
-        "name": "Saturday Songs",
-        "url": "https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Get Down Saturday Night",
-      "url": "https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "All Night Long - Single Version",
-      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 140133,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 265373,
-      "name": "Appletree",
-      "url": "https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT"
+      "duration_ms": 140133,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1275,6 +1259,22 @@
       "duration_ms": 428222,
       "name": "As",
       "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Appletree",
+      "url": "https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT"
     },
     {
       "added_at": "2023-04-19 16:05:06",

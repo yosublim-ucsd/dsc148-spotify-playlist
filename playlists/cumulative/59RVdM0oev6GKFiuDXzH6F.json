@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 202000,
       "name": "Activate",
       "url": "https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 153070,
       "name": "At Night",
       "url": "https://open.spotify.com/track/1br2N1gwtHw5ruPDw0Bau0"
@@ -374,10 +374,32 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 140000,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/3MsUWU9TM7y5dvmvW4R2uW"
+    },
+    {
+      "album": {
+        "name": "Back To This (feat. SoShy)",
+        "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Soshy",
+          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "Back To This (feat. SoShy)",
+      "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
     },
     {
       "album": {
@@ -454,6 +476,46 @@
       "duration_ms": 169756,
       "name": "Bounded",
       "url": "https://open.spotify.com/track/32obiX5zfNijobb5dTXaNe"
+    },
+    {
+      "album": {
+        "name": "BRAZIL",
+        "url": "https://open.spotify.com/album/1XpQBTKoUEImwzvgolPS0K"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212840,
+      "name": "BRAZIL",
+      "url": "https://open.spotify.com/track/1ORp1yoMlfMqlRn83VTB2O"
+    },
+    {
+      "album": {
+        "name": "Bring The Noise",
+        "url": "https://open.spotify.com/album/2zMr2UnfRyYqpmMVonGJ1c"
+      },
+      "artists": [
+        {
+          "name": "HunterSynth",
+          "url": "https://open.spotify.com/artist/3Age3mMsN1JeN7csgZ4BQU"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/0YZfPGvKjlAlwkXdev1WTL"
     },
     {
       "album": {
@@ -555,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Chiki Ta",
+        "url": "https://open.spotify.com/album/4gozxbu9QuB6AAMW4CMv43"
+      },
+      "artists": [
+        {
+          "name": "Orient",
+          "url": "https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114490,
+      "name": "Chiki Ta",
+      "url": "https://open.spotify.com/track/6i5KdoiRrN290bPq6IQkIa"
+    },
+    {
+      "album": {
         "name": "Children Of The Resistance",
         "url": "https://open.spotify.com/album/54Jnky4Rfl83BTAiDB5dwo"
       },
@@ -596,6 +676,24 @@
       "duration_ms": 205000,
       "name": "Comin' Back",
       "url": "https://open.spotify.com/track/3u672pLueDfjhsLBvERzKh"
+    },
+    {
+      "album": {
+        "name": "Concrete Jungle",
+        "url": "https://open.spotify.com/album/3amdSKG2ydGodVwnWUx9OZ"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "Concrete Jungle",
+      "url": "https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2"
     },
     {
       "album": {
@@ -836,7 +934,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 155168,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/0EwCsZkURSXM8GEIJzycCA"
@@ -954,6 +1052,28 @@
       "duration_ms": 157617,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/6tj1oCWq8QkShD7Vuy32jA"
+    },
+    {
+      "album": {
+        "name": "Get Real High",
+        "url": "https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186220,
+      "name": "Get Real High",
+      "url": "https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy"
     },
     {
       "album": {
@@ -1773,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Mami Mami",
+        "url": "https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121955,
+      "name": "Mami Mami",
+      "url": "https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV"
+    },
+    {
+      "album": {
         "name": "MAS GASOLINA (feat. N.F.I) [Raffa FL Remix]",
         "url": "https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn"
       },
@@ -1840,7 +1978,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 176129,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/5elXslOYF3TiYaRZLBdhqb"
@@ -1924,7 +2062,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 216562,
       "name": "Move Left Move Right",
       "url": "https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf"
@@ -2077,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+    },
+    {
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu"
       },
@@ -2139,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/3wDr7cn2wfcWvtQeMCfFwH"
+      },
+      "artists": [
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/66xS3YEhMuUpOcPgRlOUyW"
+    },
+    {
+      "album": {
         "name": "Out Of Reach (Kydus Club Mix)",
         "url": "https://open.spotify.com/album/4o3Cxui6I1t65ZEV0hI8b7"
       },
@@ -2154,7 +2328,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 371617,
       "name": "Out of Reach - Kydus Club Mix",
       "url": "https://open.spotify.com/track/2uCxSjh1eAV01GI21J9oWt"
@@ -2172,7 +2346,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 130571,
       "name": "Over It",
       "url": "https://open.spotify.com/track/58VDyZmGn823Xg4XCDoFCl"
@@ -2300,7 +2474,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 204094,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1"
@@ -2326,7 +2500,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 354285,
       "name": "Penguin Hit Squad - Claude VonStroke Remix",
       "url": "https://open.spotify.com/track/6OfgBGFF8L8SRfUjP1CIG7"
@@ -2362,7 +2536,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 125905,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/7JPG3ljp5px1ocLYO4EmNr"
@@ -2442,7 +2616,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 190312,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/2ClTrd8Yob4FclId0VyjiV"
@@ -2508,7 +2682,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 178616,
       "name": "Samsara",
       "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
@@ -2530,7 +2704,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 141120,
       "name": "Saturday Love",
       "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
@@ -2556,7 +2730,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 194062,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/0T8VMb5jV2XeNJvXG4wWr4"
@@ -2578,6 +2752,28 @@
       "duration_ms": 131428,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4U89t1EEap9oPaqz0p9z08"
+    },
+    {
+      "album": {
+        "name": "Silence Your Mind (feat. Fredrik Ferrier)",
+        "url": "https://open.spotify.com/album/6G18cwP5xVsxJ3wK08JlpK"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hedges",
+          "url": "https://open.spotify.com/artist/2AFFYBbkKiVSCMF19TSeCb"
+        },
+        {
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237635,
+      "name": "Silence Your Mind (feat. Fredrik Ferrier)",
+      "url": "https://open.spotify.com/track/6IOJl2g2cTm0xfW2QtTQsY"
     },
     {
       "album": {
@@ -2679,6 +2875,28 @@
     },
     {
       "album": {
+        "name": "Swipe Right",
+        "url": "https://open.spotify.com/album/3jbkPoFE8dDXAtXqYBInLs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayhew",
+          "url": "https://open.spotify.com/artist/1b3Fzlmx6LsJLXYPRJryEG"
+        },
+        {
+          "name": "Agus Zack",
+          "url": "https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141904,
+      "name": "Swipe Right",
+      "url": "https://open.spotify.com/track/1sYbOEE67umDAzHRfmkTwE"
+    },
+    {
+      "album": {
         "name": "Takata",
         "url": "https://open.spotify.com/album/557rBxVHIxdUYxfi508M4w"
       },
@@ -2738,6 +2956,24 @@
       "duration_ms": 209631,
       "name": "Talk Talk",
       "url": "https://open.spotify.com/track/3sxlSXXCQIPITS8xJBqcSc"
+    },
+    {
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/3gR4hWly26piBnKlv6kQQz"
+      },
+      "artists": [
+        {
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/6OCsM9LVLyNBEWWYQEki9l"
     },
     {
       "album": {
@@ -2840,7 +3076,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 177380,
       "name": "That's Right - Radio Edit",
       "url": "https://open.spotify.com/track/1q1N8ktQE9K34GqNVJewg6"
@@ -2968,6 +3204,24 @@
       "duration_ms": 204094,
       "name": "The Jack (Dan McKie Remix)",
       "url": "https://open.spotify.com/track/5Jhl4KMCPGIJpYZky2C70k"
+    },
+    {
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/5Uvfmx3R1O88Bt6DdZ5ll2"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/00nvluAXKcXmdr4z8HsbHP"
     },
     {
       "album": {
@@ -3168,10 +3422,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 167368,
       "name": "Welcome To The Club",
       "url": "https://open.spotify.com/track/0ZvFLTcq9dDuk43l1HARPZ"
+    },
+    {
+      "album": {
+        "name": "What Do You Mean?!",
+        "url": "https://open.spotify.com/album/0IPzQ3XQBn44ejyjqJD62E"
+      },
+      "artists": [
+        {
+          "name": "TWOBUZZ",
+          "url": "https://open.spotify.com/artist/2fmK2j1yvoiRTsIgYxZSeP"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171415,
+      "name": "What Do You Mean",
+      "url": "https://open.spotify.com/track/0Vb49jKIYWGLXwJCuKTUzC"
     },
     {
       "album": {

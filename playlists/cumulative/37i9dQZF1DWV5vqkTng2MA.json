@@ -132,6 +132,24 @@
     {
       "album": {
         "name": "Bad Self Portraits",
+        "url": "https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "Bad Self Portraits",
+      "url": "https://open.spotify.com/track/3CWHWrV0UNbA2kT9xtoI6n"
+    },
+    {
+      "album": {
+        "name": "Bad Self Portraits",
         "url": "https://open.spotify.com/album/6SIib5yrq0saKy08p2IPrB"
       },
       "artists": [
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 244108,
       "name": "Two Wolves",
       "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"

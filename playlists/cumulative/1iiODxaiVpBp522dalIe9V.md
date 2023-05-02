@@ -4,7 +4,7 @@
 
 > Hip hop heat from the Lone Star State featuring LilCJ Kasino, TrapboyDre10k, Tisakorean, Sauce Walka, Peso Peso, Don Toliver.
 
-350 songs - 16 hr 21 min
+351 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Buss It \(feat\. Travis Scott\)](https://open.spotify.com/track/0XqrIEnDoHvodUzGRmyKYQ) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Buss It \(feat\. Travis Scott\)](https://open.spotify.com/album/5UmygQJtxCI19iqzkizz0J) | 3:08 | 2023-03-03 |  |
 | [Buss Me A Script](https://open.spotify.com/track/7A2Yyh5xyiyTmk41QzhspS) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Buss Me A Script](https://open.spotify.com/album/0QreedHihbyfwNetMqo0yA) | 3:12 | 2023-04-08 |  |
 | [C.F.T.B.](https://open.spotify.com/track/4WsWC7NP1ABzQbOxIp4ofL) | [Big Kuza](https://open.spotify.com/artist/0kxx6GHKzx3WYuTupq0PWi), [Neek Starks](https://open.spotify.com/artist/4u9asseuVpMTPRKGtV3BlD) | [Heavyweight](https://open.spotify.com/album/5Oyn9lZhBEGbgF7pZu7w7F) | 2:15 | 2023-03-03 |  |
+| [Came Dine](https://open.spotify.com/track/0Sf3f8bXNhCVll1ACNoWeu) | [Woine](https://open.spotify.com/artist/4Kh6WXjCUHN6ueN5iJCEtQ) | [Came Dine](https://open.spotify.com/album/0hGb6dWc29p1ET7T6OSYHh) | 3:32 | 2023-05-01 |  |
 | [Can't Stay](https://open.spotify.com/track/6mY6dWxeBcaGkcJHbHd0m2) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Where Dreams Are Made](https://open.spotify.com/album/303NsRaDsJeaS8BXenh6Ux) | 2:43 | 2023-04-08 |  |
 | [Can’t Dress Me \(feat\. Lil Keed\)](https://open.spotify.com/track/3i8akyijBwNtRwT5KK6kSU) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [GasGod 2](https://open.spotify.com/album/30ZkAc4eDuAOPnlZkpVQKq) | 3:15 | 2022-09-09 | 2023-01-06 |
 | [Catfish](https://open.spotify.com/track/4OhWw6msXRsV8PqELMk4M3) | [Rizzoo Rizzoo](https://open.spotify.com/artist/2zaB41HXDxNghkA6X0fgXT), [Lil Migo](https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF) | [Catfish](https://open.spotify.com/album/3cDElpCExXA68XkhdXcmiA) | 3:02 | 2022-11-01 | 2022-12-02 |
@@ -293,7 +294,7 @@
 | [Suicide](https://open.spotify.com/track/1RKdIAB2mgaelPCxbOO9Aj) | [GGO Kurt](https://open.spotify.com/artist/0vz5Vjiz8a9dq9PEBACdRG) | [Suicide](https://open.spotify.com/album/7McDjv1gNIYgXp4HifR0yJ) | 2:26 | 2022-09-09 | 2023-01-06 |
 | [Summer Body Aye](https://open.spotify.com/track/0QIEFA87VMVKtj9e6zxKjz) | [Rich Fetti](https://open.spotify.com/artist/0fvWAbOeL2c5E9QgBApz5G), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Sauce PWA](https://open.spotify.com/album/6jLxWSwSrWxo7UFAg59iPT) | 1:49 | 2022-11-12 | 2022-12-02 |
 | [Suns Out Buns Out](https://open.spotify.com/track/2eGEeqmPLjmS54tuNwJhKl) | [lil.eaarl](https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES), [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq) | [Suns Out Buns Out](https://open.spotify.com/album/7ynh3KxQn8wIdyYqc21E1F) | 2:25 | 2023-04-08 |  |
-| [Super Bowl \(feat\. Juicy J\)](https://open.spotify.com/track/6ZVCTRvj1eXd0HPeRAzApk) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Super Bowl \(feat\. Juicy J\)](https://open.spotify.com/album/3GymCdEVWbum9C8vozXvMe) | 3:54 | 2023-03-03 |  |
+| [Super Bowl \(feat\. Juicy J\)](https://open.spotify.com/track/6ZVCTRvj1eXd0HPeRAzApk) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Super Bowl \(feat\. Juicy J\)](https://open.spotify.com/album/3GymCdEVWbum9C8vozXvMe) | 3:54 | 2023-03-03 | 2023-05-02 |
 | [supercalifragilistic](https://open.spotify.com/track/7J9sAoWvr9RckIuQm5CvsK) | [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [supercalifragilistic](https://open.spotify.com/album/56UXn7lj4erZRyVNsQRhUr) | 3:16 | 2022-06-02 | 2022-07-02 |
 | [Supercalifragilistic](https://open.spotify.com/track/4ubr1Roh7kvfdOQeWDPqhW) | [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Superhero Sos](https://open.spotify.com/album/6ndKtEAg2SLWAhGd1GOZYo) | 3:23 | 2022-10-13 | 2023-01-06 |
 | [Supercharge \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/4seu8pJErmrVqSGYuI9WDt) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [GasGod 2](https://open.spotify.com/album/30ZkAc4eDuAOPnlZkpVQKq) | 2:54 | 2022-09-09 | 2022-11-02 |

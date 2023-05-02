@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 155115,
+  "num_followers": 155212,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2U3NTVmMmNlN2FhOGQ3MzRiMGQxMGRjOTdjZTExYzIzYTBlMDdh",
+  "snapshot_id": "MCw4YjE2ZDU1ZGZmNjcyODYwY2RjZGE4Yjk3MmQxNTNkYWYzZTQ3N2Zj",
   "tracks": [
     {
       "added_at": "2023-03-06 17:06:24",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 281026,
       "name": "Un Siglo Sin Ti",
       "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 264786,
-      "name": "Dime Que No",
-      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 243426,
       "name": "Devu\u00e9lveme El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Dime Que No",
+      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Almas Del Silencio",
-        "url": "https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279226,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/2VspVkHity8i4H9jammhhR"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Almas Del Silencio",
+        "url": "https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279226,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/2VspVkHity8i4H9jammhhR"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "La M\u00fasica No Se Toca (Deluxe)",
-        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "No Me Compares",
-      "url": "https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Tu Mano",
         "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
       },
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "La Dif\u00edcil",
-        "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -1111,6 +1079,38 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "La M\u00fasica No Se Toca (Deluxe)",
+        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "No Me Compares",
+      "url": "https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "La Dif\u00edcil",
+        "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
         "url": "https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 259399,
       "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "Porque Aun Te Amo",
+      "url": "https://open.spotify.com/track/4xXIrj1bhJP2X0x3WhAgqp"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Dispuesto A Amarte",
-        "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "Porque Aun Te Amo",
-      "url": "https://open.spotify.com/track/4xXIrj1bhJP2X0x3WhAgqp"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 240205,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/5ZCamgcqvkckdf2FdfYuth"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/5bYw6PI3uwvfcNXKCAO84C"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -1271,22 +1287,6 @@
       "duration_ms": 274933,
       "name": "Bailar Pegados - En Concierto",
       "url": "https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/5bYw6PI3uwvfcNXKCAO84C"
     },
     {
       "added_at": "2023-03-06 17:06:24",

@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1478180,
+  "num_followers": 1478531,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDg2YTFlYmNjMjJhNDUwMzhkYjg0N2U5YzY5Nzc0Y2ViNDY4MzU4",
+  "snapshot_id": "MCxjZTk0ZDNhMmVlODBiYTk2NTVmNDY3ZmRlMjc1MGViODNlMWQ4MGE5",
   "tracks": [
     {
       "added_at": "2022-08-31 15:13:54",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -143,6 +159,22 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
         "name": "Celebrate!",
         "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
       },
@@ -171,38 +203,6 @@
       "duration_ms": 323346,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
         "name": "Young Hearts Run Free (US Internet Release)",
         "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 198066,
       "name": "I Will Survive - Single Version",
       "url": "https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Nightbirds",
-        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
-      },
-      "artists": [
-        {
-          "name": "LaBelle",
-          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "Lady Marmalade",
-      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "Casablanca Records Greatest Hits",
         "url": "https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 239226,
       "name": "Funkytown",
       "url": "https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Nightbirds",
+        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
+      },
+      "artists": [
+        {
+          "name": "LaBelle",
+          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Lady Marmalade",
+      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 307573,
-      "name": "Car Wash - Long Version",
-      "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "I Remember Yesterday",
         "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 307573,
+      "name": "Car Wash - Long Version",
+      "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
+        "name": "Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/388S3dsftPqG1nwgauItcx"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 402693,
+      "name": "Everybody Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
         "name": "KC & the Sunshine Band... and More",
         "url": "https://open.spotify.com/album/6ufis2iWp3hrox9QJfg5Jq"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 245173,
       "name": "Boogie Oogie Oogie",
       "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
-        "name": "Big Fun",
-        "url": "https://open.spotify.com/album/0wPapw2OnSgmpg8G1DpZtI"
-      },
-      "artists": [
-        {
-          "name": "Shalamar",
-          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "The Second Time Around",
-      "url": "https://open.spotify.com/track/6yh8yf1jpPrTMA5cezYpbi"
     }
   ],
   "unique_name": "Disco Forever",

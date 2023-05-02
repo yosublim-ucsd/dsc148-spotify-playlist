@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: سلطان المرشد
 
-216 songs - 14 hr 41 min
+217 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Albadr Aldhahook](https://open.spotify.com/track/3to1cO2tsmdl7d4JNVnSyE) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Albadr Aldhahook](https://open.spotify.com/album/2rONmeWNNWsm1oh8Yt8T45) | 3:34 | 2022-02-11 | 2022-02-12 |
 | [Aleek Agreb](https://open.spotify.com/track/2UyZhVv6kMbIJafgjUB2Pb) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Aleek Agreb](https://open.spotify.com/album/5h2AknGWBsTQvXss7zmgTA) | 4:11 | 2021-12-23 | 2022-06-04 |
 | [Aljamal Al Yousefy](https://open.spotify.com/track/2n4bNkN9g10IrpneHrvIXR) | [Mohammed AlMenhali](https://open.spotify.com/artist/3zwErc4TrlnprH22dO0Iem) | [Aljamal Al Yousefy](https://open.spotify.com/album/0NoIyLmo6NtjSmeEUb4SBg) | 4:36 | 2021-12-23 | 2022-03-12 |
-| [Alkhamri](https://open.spotify.com/track/4lUN47aPWKGlKbiWOuYkJR) | [Sheyaab](https://open.spotify.com/artist/4ws4u7WBMXjLtooqt1yQ49), [Bu Belal](https://open.spotify.com/artist/3V5efQdYiGDYq2LLV6dsU2), [Carol](https://open.spotify.com/artist/0t3N6YV4XJtCd93C6c6CIS), [Bu Belall](https://open.spotify.com/artist/6sIFcXYk0GMwlYxHcMV3B2) | [Alkhamri](https://open.spotify.com/album/0Tji72I9mjsExOYcQUN2Ih) | 3:07 | 2022-09-28 |  |
+| [Alkhamri](https://open.spotify.com/track/4lUN47aPWKGlKbiWOuYkJR) | [Sheyaab](https://open.spotify.com/artist/4ws4u7WBMXjLtooqt1yQ49), [Bu Belal](https://open.spotify.com/artist/3V5efQdYiGDYq2LLV6dsU2), [Carol](https://open.spotify.com/artist/0t3N6YV4XJtCd93C6c6CIS), [Bu Belall](https://open.spotify.com/artist/6sIFcXYk0GMwlYxHcMV3B2) | [Alkhamri](https://open.spotify.com/album/0Tji72I9mjsExOYcQUN2Ih) | 3:07 | 2022-09-28 | 2023-05-02 |
 | [Allah Qader](https://open.spotify.com/track/26pkoVSfghnAkcOjzq7Jva) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Allah Qader](https://open.spotify.com/album/4KKMiYL45ThLuavVMGIMs9) | 3:27 | 2022-12-16 |  |
 | [Allyali Alsood](https://open.spotify.com/track/3lBC27reqYjPHwISTQo0rX) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Allyali Alsood](https://open.spotify.com/album/6bU88B3okSZFZ4XYSLMENb) | 4:13 | 2022-07-26 | 2023-01-25 |
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-03-24 |  |
@@ -142,6 +142,7 @@
 | [Rehla La Tantahi](https://open.spotify.com/track/13ifLIrwKb2lQ5sQq9wQNc) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Rehla La Tantahi](https://open.spotify.com/album/7dIXkx8ikTlbNKKrIhWqot) | 1:52 | 2023-03-24 | 2023-03-31 |
 | [Rock, Paper, Scissors](https://open.spotify.com/track/45SCe1H8pRSxTQvj6tFL8D) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Big Soof](https://open.spotify.com/artist/66F3AtolzpP4jS4JujAu4V) | [Rock, Paper, Scissors](https://open.spotify.com/album/2UBLMlL4zN4yjv6ZnPAGXz) | 2:09 | 2021-12-23 | 2022-06-04 |
 | [Sadifni](https://open.spotify.com/track/2TeCJAG93aPzLza6jrcKRJ) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Sadifni](https://open.spotify.com/album/4ZYHCcsuKD16UhftYX4gaT) | 4:20 | 2021-12-23 | 2022-02-25 |
+| [Sadmat Omri](https://open.spotify.com/track/6XztCmGblAwpXwD4lJMKKi) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:02 | 2023-05-01 |  |
 | [Sameet Ashyaa](https://open.spotify.com/track/7eGawwsI0Q5h6OKuU73Ozq) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Sameet Ashyaa](https://open.spotify.com/album/7qZ1IHHWxO103OVGTKuQll) | 4:52 | 2022-06-02 | 2022-12-06 |
 | [Sanhat Al Batal](https://open.spotify.com/track/0CnIBJh5OQSLLxCEvRom5s) | [Tareq Al Harbi](https://open.spotify.com/artist/5sc0loMqCN6R1ap06baL2K) | [Sanhat Al Batal](https://open.spotify.com/album/3zvLLHOURRbEsXWqudBwnW) | 3:15 | 2022-01-21 | 2022-06-15 |
 | [Sara Barg](https://open.spotify.com/track/611PXXtuU51ToWk55udzWo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sara Barg](https://open.spotify.com/album/38JLjvDN9Vmdv3hlf6KA0O) | 4:07 | 2022-07-22 | 2023-02-03 |

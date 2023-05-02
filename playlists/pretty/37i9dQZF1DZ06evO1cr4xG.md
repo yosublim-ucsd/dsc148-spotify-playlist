@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,863 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,885 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 6 | [Dying in Your Arms](https://open.spotify.com/track/2nuA1esWzYEgnfQ4DpsSsm) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 2:53 |
 | 7 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
 | 8 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 |
-| 9 | [Down from the Sky](https://open.spotify.com/track/5LePaQIrJcIwrUzNEr3m86) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:34 |
-| 10 | [Feast Of Fire](https://open.spotify.com/track/1c7kZbuNixEsCMbU3MZFpy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 4:18 |
+| 9 | [Feast Of Fire](https://open.spotify.com/track/1c7kZbuNixEsCMbU3MZFpy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 4:18 |
+| 10 | [Down from the Sky](https://open.spotify.com/track/5LePaQIrJcIwrUzNEr3m86) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:34 |
 | 11 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 |
 | 12 | [Pull Harder on the Strings of Your Martyr](https://open.spotify.com/track/0UXaslpoA81no74N7U56U9) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:51 |
-| 13 | [What The Dead Men Say](https://open.spotify.com/track/4KugBNgb6iilXInnWQrMVh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 4:45 |
-| 14 | [In The Court Of The Dragon](https://open.spotify.com/track/1N8HMQL90GFdDaFUz6ONcs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 5:09 |
+| 13 | [In The Court Of The Dragon](https://open.spotify.com/track/1N8HMQL90GFdDaFUz6ONcs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 5:09 |
+| 14 | [What The Dead Men Say](https://open.spotify.com/track/4KugBNgb6iilXInnWQrMVh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 4:45 |
 | 15 | [Beyond Oblivion](https://open.spotify.com/track/2xOwDv18iuRmDI7akoJ250) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:16 |
 | 16 | [Built to Fall](https://open.spotify.com/track/6yRh9h4Kc00PnrAuVYRAkq) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:08 |
-| 17 | [Implore The Darken Sky](https://open.spotify.com/track/6EjW31ubcZfxYnuiiPAGLm) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Implore The Darken Sky](https://open.spotify.com/album/3Z8V22s9cCh4bzeRo63knn) | 4:42 |
-| 18 | [Like A Sword Over Damocles](https://open.spotify.com/track/5YhmiVbhzLVP9aA20scJCs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 5:30 |
+| 17 | [Like A Sword Over Damocles](https://open.spotify.com/track/5YhmiVbhzLVP9aA20scJCs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 5:30 |
+| 18 | [Implore The Darken Sky](https://open.spotify.com/track/6EjW31ubcZfxYnuiiPAGLm) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Implore The Darken Sky](https://open.spotify.com/album/3Z8V22s9cCh4bzeRo63knn) | 4:42 |
 | 19 | [Endless Night](https://open.spotify.com/track/7yi6fynaCi2lWhjcOfcHz5) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 3:38 |
 | 20 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 |
 | 21 | [Like Light to the Flies](https://open.spotify.com/track/3wuGM9ka6DGQPtrEaVGl00) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [Ember to Inferno](https://open.spotify.com/track/3IKNbveo9wfVgEjEFLpY6b) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ember to Inferno](https://open.spotify.com/album/3hnOE93weJxgpQZOkVC4as) | 4:11 |
 | 50 | [Capsizing the Sea](https://open.spotify.com/track/0NM1S9231y3Pgz6oI3on2f) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 1:30 |
 
-Snapshot ID: `MjgwNDc2MjMsMDAwMDAwMDA0MTQ0YzhkOGI4Y2UxZTg5NTE0OTFhZTAxNjM1MzAxMg==`
+Snapshot ID: `MjgwNDkwMTUsMDAwMDAwMDA5MTljYWViOTE0YjU2OTE3ZTA1NzJhNjY2M2U3MmUzNQ==`

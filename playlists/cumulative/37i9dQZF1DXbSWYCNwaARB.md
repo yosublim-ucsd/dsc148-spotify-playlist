@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: MINNIE\(민니\)
 
-356 songs - 19 hr 8 min
+357 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Happy Now](https://open.spotify.com/track/4RQohfdcFYZ62cxZUyjeDp) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Happy Now](https://open.spotify.com/album/6C8Md6te1B8A7gbM15Uxd8) | 3:30 | 2021-03-14 | 2022-04-10 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-29 | 2022-10-23 |
 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 | 2021-02-28 | 2021-03-02 |
-| [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 | 2020-10-20 |  |
+| [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 | 2020-10-20 | 2023-05-02 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-07-26 |
 | [Hocus Pocus](https://open.spotify.com/track/4X0kjAmFgu6zX5Uwl4lnwa) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [BVNDIT, BE AMBITIOUS!](https://open.spotify.com/album/1HAL8eTzvFRxaMGjYybRG5) | 3:27 | 2021-03-01 | 2022-04-13 |
 | [HOME](https://open.spotify.com/track/7KrThgzyyulBjY9vEbqceh) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [HOME](https://open.spotify.com/album/3npgimYVYM64IDAiLytb2l) | 3:16 | 2021-01-16 | 2022-05-07 |
@@ -229,12 +229,12 @@
 | [Not Yours](https://open.spotify.com/track/6F8NVcYbERkpD3TlkYYVm4) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:03 | 2021-03-02 | 2022-04-21 |
 | [Nun Nu Nan Na](https://open.spotify.com/track/7ladzyHoK60op9Zq7wy9UN) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [Nun Nu Nan Na](https://open.spotify.com/album/7p3NTiZoaZRzgPmwlGMHtM) | 3:28 | 2021-02-19 | 2022-04-19 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-17 |  |
-| [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-02-23 | 2023-04-26 |
+| [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-02-23 |  |
 | [Odd Eye](https://open.spotify.com/track/28Jwll1H52Hr4JzQ6vMoul) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:04 | 2021-01-30 | 2022-04-14 |
 | [Oh MAMA](https://open.spotify.com/track/3usVtuGqnWOy2zp8CMO0PB) | [Bling Bling](https://open.spotify.com/artist/6xS3dyQKA8RajjorUSVrvi) | [CONTRAST](https://open.spotify.com/album/7ivQIfOWxgSAg3OSDsbrch) | 3:14 | 2021-08-25 | 2022-07-28 |
 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2020-10-13\* | 2023-01-03 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-04-17 |
-| [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 |  |
+| [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 | 2023-05-02 |
 | [OOMM \(Out of My Mind\)](https://open.spotify.com/track/65gzcr0GjgVInjECujSpPm) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [OOMM \(Out of My Mind\)](https://open.spotify.com/album/2oTioa2D2E29diIrgaQmag) | 3:20 | 2021-03-01 | 2022-04-16 |
 | [OOPSIE \(My Bad\)](https://open.spotify.com/track/5TEdFgup4L8CdEZlcqcAHK) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE A](https://open.spotify.com/album/2rWqzpo4TfsbjUt4FSmpJ8) | 3:21 | 2021-02-28 | 2022-04-19 |
 | [P.O.W! \(Play On the World\)](https://open.spotify.com/track/2FgeeDfd0MeBi1bT8MP6ni) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Dash](https://open.spotify.com/album/4WKhHCj1pBU1aVyEmRkMZQ) | 3:14 | 2023-03-08 | 2023-03-23 |
@@ -309,6 +309,7 @@
 | [Trouble](https://open.spotify.com/track/6Addtv72IK02MBRDYvOY07) | [Azer](https://open.spotify.com/artist/1PezbflKZup3T95LnAQ0vg) | [Trouble](https://open.spotify.com/album/2azFNJDJLIN8I19woiWfE9) | 3:32 | 2022-04-21 | 2022-05-08 |
 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 | 2020-10-20 | 2021-03-17 |
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-01-15 | 2022-07-29 |
+| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 |  |
 | [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 | 2021-02-28 | 2022-04-13 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-20 | 2022-11-15 |
 | [VILLAIN](https://open.spotify.com/track/6ugf8AinXOgjCWfrjZJvTa) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [VILLAIN](https://open.spotify.com/album/4Jvy4ZUSnZOoDOfQ12CAg3) | 3:05 | 2020-10-13\* | 2022-04-16 |

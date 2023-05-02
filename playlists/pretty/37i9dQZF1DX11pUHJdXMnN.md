@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,634 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,643 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 24 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
 | 25 | [Cocoon \- Maya Jane Coles Remix](https://open.spotify.com/track/3SPaw7nI7gwo95tpPIx7Cm) | [Gold Fields](https://open.spotify.com/artist/3kJeINOSExu0ctySTaMu6Q), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Cocoon \(Maya Jane Coles Remix\)](https://open.spotify.com/album/2WbM2EmjfDhV8TXhtqQt2u) | 4:16 |
 | 26 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 |
-| 27 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
-| 28 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
-| 29 | [In My Element \- Skream Remix](https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In My Element \(Skream Remix\)](https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U) | 6:00 |
-| 30 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
-| 31 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
-| 32 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
+| 27 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
+| 28 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
+| 29 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
+| 30 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
+| 31 | [In My Element \- Skream Remix](https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In My Element \(Skream Remix\)](https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U) | 6:00 |
+| 32 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
 | 33 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
 | 34 | [Dreamers](https://open.spotify.com/track/5087hJq9c6KM6gGb7CsjDi) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Dixon Presents Transmoderna Part 2/4](https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g) | 6:39 |
 | 35 | [Queen of Hearts](https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Queen of Hearts](https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque) | 3:56 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
 | 45 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 
-Snapshot ID: `MCwzMjY4ZWQ0NDdlODI2Njc2MzQ4ZWRhYTk2MGNiYWIzOWRlYThkNzE1`
+Snapshot ID: `MCwxZDZhYTU5NjRjMTlmNGJhZmQxMDRkYmZkNDI2Y2U0YzFkZWE3ZTU3`

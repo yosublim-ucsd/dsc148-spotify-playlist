@@ -4,7 +4,7 @@
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-157 songs - 8 hr 38 min
+158 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Les yeux ouverts \(dream a little dream of me\)](https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Very Thought of You](https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP) | 4:46 | 2022-01-20 |  |
 | [Lettre A P](https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Attraction](https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS) | 3:42 | 2022-01-20 |  |
 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 | 2022-06-14 | 2022-07-29 |
-| [Liberté](https://open.spotify.com/track/6aqNZAOITFShgcpg66Gatm) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs](https://open.spotify.com/album/6ZBquZ3qyIkf5pIX8w6j7m) | 3:37 | 2022-06-28 |  |
+| [Liberté](https://open.spotify.com/track/6aqNZAOITFShgcpg66Gatm) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs](https://open.spotify.com/album/6ZBquZ3qyIkf5pIX8w6j7m) | 3:37 | 2022-06-28 | 2023-05-02 |
 | [M'envoyer des fleurs](https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8) | [Sandrine Kiberlain](https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l) | [Manquait Plus Qu'Ca](https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf) | 2:35 | 2022-01-20 |  |
 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 | 2022-06-10 |  |
 | [Mes pas dans la neige \(Spanish Song Bird\)](https://open.spotify.com/track/7cM8i0m3As7TY3twK5867L) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [LA DISPARITION](https://open.spotify.com/album/6p2Mn3SnLuqX0HzzPh5zUV) | 4:17 | 2022-01-20 | 2022-07-29 |
@@ -126,6 +126,7 @@
 | [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 | 2022-01-20 | 2023-04-29 |
 | [Plein soleil](https://open.spotify.com/track/3cnjkGxvV25vrx5lewbKfS) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Gilbert Becaud \(1964\-1966\) \[2011 Remastered\] \[Deluxe version\]](https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF) | 3:02 | 2022-06-10 | 2022-10-05 |
 | [Plus bleu que tes yeux](https://open.spotify.com/track/1TzWvpsXhggO68d6FNmanm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 3:23 | 2022-06-09 | 2023-04-29 |
+| [Plus bleu que tes yeux](https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 3:23 | 2023-04-27 |  |
 | [Plus Je T'embrasse](https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 2:29 | 2022-01-20 |  |
 | [Plus je t'embrasse](https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:17 | 2022-09-13 |  |
 | [Puisque vous partez en voyage](https://open.spotify.com/track/6AxIQYB4hZhhwyUHTRkThH) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g), [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Clair Obscur](https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK) | 3:46 | 2022-01-20 | 2022-08-11 |

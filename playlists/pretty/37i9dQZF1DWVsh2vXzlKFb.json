@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 269947,
+  "num_followers": 270012,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2UzY2JiY2NlMmFkZDI5NDllM2Y3N2YzMDhjODM4OTg1NGFlN2U2",
+  "snapshot_id": "MCwwZDlmNzRhZmUzOWIxNjQyYWIzMDQ1Y2RhYjk0ZDRiYzhhMWNiNmFl",
   "tracks": [
     {
       "added_at": "2023-03-11 00:52:02",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 176702,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "K.I.D.S. (Deluxe)",
-        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "The Spins",
-      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 226610,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 232320,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Seventeen Going Under",
-        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
+        "name": "Ode to a Conversation Stuck in Your Throat",
+        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 237280,
-      "name": "Seventeen Going Under - Edit",
-      "url": "https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz"
+      "duration_ms": 198927,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+        "name": "Seventeen Going Under",
+        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 261560,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
+      "duration_ms": 237280,
+      "name": "Seventeen Going Under - Edit",
+      "url": "https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Ode to a Conversation Stuck in Your Throat",
-        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 198927,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
+      "duration_ms": 261560,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Youth is Only Ever Fun in Retrospect",
-        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "For Abby",
         "url": "https://open.spotify.com/album/1DrYnUi6jx0ClomBVvbjAY"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/1bt443XPmX5ZG5DjhMJ8Rh"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1545,7 +1545,7 @@
       "url": "https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k"
     },
     {
-      "added_at": "2023-05-01 00:45:23",
+      "added_at": "2023-05-02 00:48:12",
       "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"

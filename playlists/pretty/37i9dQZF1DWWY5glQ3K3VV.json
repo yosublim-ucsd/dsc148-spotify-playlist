@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Tony Effe",
-  "num_followers": 77770,
+  "num_followers": 77863,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2M3ZDRiZjE1OTM3MjllY2Q1NTFmN2MxNmZiOGRhYWYxYWJhMTM3",
+  "snapshot_id": "MCwxZTI5MjZhNDI5YWIyMDY3ZTYzY2UyNzI1NGY3OTk1NmQ5Y2VlYjI3",
   "tracks": [
     {
       "added_at": "2023-04-19 19:49:54",
@@ -231,6 +231,66 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
+        "name": "Motley Crew",
+        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Motley Crew",
+      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -267,86 +327,6 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "One Dance",
-      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "Motley Crew",
-        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Motley Crew",
-      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
         "name": "Night Away (Dance) (feat. Tion Wayne)",
         "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 217925,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
         "name": "Won't Be Late (feat. Drake)",
         "url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 157714,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 217925,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
       },
@@ -779,42 +795,6 @@
       "duration_ms": 162362,
       "name": "Lento",
       "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -859,6 +839,26 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
         "name": "J",
         "url": "https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO"
       },
@@ -875,6 +875,30 @@
       "duration_ms": 183027,
       "name": "ALYX (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
+      "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -910,15 +934,11 @@
         {
           "name": "Paky",
           "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 122373,
-      "name": "No wallet (feat. Marracash)",
-      "url": "https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv"
+      "duration_ms": 175586,
+      "name": "Blauer",
+      "url": "https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -983,30 +1003,6 @@
       "duration_ms": 180774,
       "name": "Michelle Pfeiffer (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "PROVINCIALE",
-        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
-      "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
       },
       "artists": [
         {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 175586,
-      "name": "Blauer",
-      "url": "https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy"
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
+      "duration_ms": 122373,
+      "name": "No wallet (feat. Marracash)",
+      "url": "https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Twerk (con Boro Boro)",
+      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
         "name": "Scialla Semper (Emodrill Repack)",
         "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 249303,
       "name": "Polo nord - C+N Progressive Mix",
       "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        },
-        {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Twerk (con Boro Boro)",
-      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "Caramba",
-        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 183174,
-      "name": "Caramba",
-      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 158630,
       "name": "DREAM TEAM (feat. Dylan, Capo Plaza, Tedua & Shiva)",
       "url": "https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
+        "name": "Caramba",
+        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 183174,
+      "name": "Caramba",
+      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
+        "name": "Frero",
+        "url": "https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "duration_ms": 180532,
+      "name": "Frero",
+      "url": "https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
         "name": "Non Lo So",
         "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "Frero",
-        "url": "https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        }
-      ],
-      "duration_ms": 180532,
-      "name": "Frero",
-      "url": "https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect"
     },
     {
       "added_at": "2023-04-19 19:49:54",

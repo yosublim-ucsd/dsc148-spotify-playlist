@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Yasmine, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,281 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,284 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Esta Canção](https://open.spotify.com/track/0fyiPbrQwEvjGtljWwsGh6) | [Mafalda Veiga](https://open.spotify.com/artist/5bD6psQfhLXvadNAD0VttX) | [Esta Canção](https://open.spotify.com/album/5IdHyIM8ZuYVK0yR6XUn2E) | 2:38 |
 | 50 | [Estações](https://open.spotify.com/track/75WHmcPKPHcV9vvF4sKikH) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Estações](https://open.spotify.com/album/2j6hIjOJXpWeBxXGJxJlIV) | 3:30 |
 
-Snapshot ID: `MCxhZmRkNTkyODVjM2IyYTc1NGVmYTVkZWZiOTIxYmZhNTQ4ZTljNTRi`
+Snapshot ID: `MCxjMzM0ZGQ1OWQ1YTI0NDIwZWJkMWViN2JkZDkwZmRiZTVhMWM0MThi`

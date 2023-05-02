@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Allan Andersn
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,827 likes - 53 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,824 likes - 53 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 52 | [sesal](https://open.spotify.com/track/302ZL7chNycksi5DR06mEn) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [sesal](https://open.spotify.com/album/1DAvkjqtvLG4PkDSJFq5gp) | 3:46 |
 | 53 | [Sexy Girls](https://open.spotify.com/track/05PHEZ0iYqiEhzeA7Nx6fA) | [Evan Joris](https://open.spotify.com/artist/3XPx2SkhkCDZSp2b0ekPGV), [Audrey June](https://open.spotify.com/artist/0KrCiXb9VevFQTItPxrHiJ) | [Sexy Girls](https://open.spotify.com/album/4HFoHT74eKZPysCanpYYNa) | 3:41 |
 
-Snapshot ID: `MCw0MjlkMmY5MmI5MmFlZGYxZTI4M2RhMjQ0MjQ2NDg2YjdiOGE4ZTRl`
+Snapshot ID: `MCw3ZWJjOTI1ZmZhMmYyMDc2MjkzY2JjYzUyOWE1NTA2ZDcxNjgxMDUy`

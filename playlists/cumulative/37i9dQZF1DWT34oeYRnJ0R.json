@@ -64,7 +64,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 164093,
       "name": "12AM",
       "url": "https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 253714,
       "name": "caos",
       "url": "https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 173999,
       "name": "coisa linda",
       "url": "https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa"
@@ -1138,6 +1138,24 @@
       "duration_ms": 184000,
       "name": "DIADREAMER",
       "url": "https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv"
+    },
+    {
+      "album": {
+        "name": "Trickstar",
+        "url": "https://open.spotify.com/album/3gRXyOU8EUuqwCbOqxSBaH"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Dices que",
+      "url": "https://open.spotify.com/track/1y3UT74qi3hgzBygSpMkVi"
     },
     {
       "album": {
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 171477,
       "name": "esc\u00e1pate",
       "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 257233,
       "name": "Jungla de locos",
       "url": "https://open.spotify.com/track/6z6SO9VO4pt6hKObRc23Hp"
@@ -2967,6 +2985,28 @@
     },
     {
       "album": {
+        "name": "Mi Vicio (Remix)",
+        "url": "https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284285,
+      "name": "Mi Vicio - Remix",
+      "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
+    },
+    {
+      "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
       },
@@ -3507,6 +3547,46 @@
     },
     {
       "album": {
+        "name": "L\u00e1grimas pa otro d\u00eda",
+        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124110,
+      "name": "No te lo niego, ma dol\u00edo",
+      "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
+    },
+    {
+      "album": {
+        "name": "Nobody Got It (Remix)",
+        "url": "https://open.spotify.com/album/06tbAH14600bPLsZ97s9WJ"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "NOBODY GOT IT (Remix)",
+      "url": "https://open.spotify.com/track/3838Rsovb7CmNIHcrhlfr7"
+    },
+    {
+      "album": {
         "name": "Nobody Like Me",
         "url": "https://open.spotify.com/album/5yNTTe5Y9eyjEdNLKY2TPL"
       },
@@ -3774,6 +3854,36 @@
       "duration_ms": 156300,
       "name": "P.O.V.",
       "url": "https://open.spotify.com/track/1KkwYF9KdyosZE8XBxCyvO"
+    },
+    {
+      "album": {
+        "name": "Emociones 1.5",
+        "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284021,
+      "name": "Pacto (feat. Luar La L)",
+      "url": "https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V"
     },
     {
       "album": {
@@ -4738,7 +4848,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 168000,
       "name": "TRATO",
       "url": "https://open.spotify.com/track/4W2p5xqBjV8xAlFNsbrJS5"
@@ -4808,6 +4918,28 @@
       "duration_ms": 214535,
       "name": "Tu Fan\u00e1tico - Remix",
       "url": "https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc"
+    },
+    {
+      "album": {
+        "name": "Tu No Me Amas",
+        "url": "https://open.spotify.com/album/4MKwAPEjNQ7Vsv0mhDxXgh"
+      },
+      "artists": [
+        {
+          "name": "D2OS",
+          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
+        },
+        {
+          "name": "Paradize",
+          "url": "https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Tu No Me Amas",
+      "url": "https://open.spotify.com/track/2uyJGVcniKrNpt2ZSIGOqg"
     },
     {
       "album": {

@@ -17636,7 +17636,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 98788,
       "name": "cielo blanco",
       "url": "https://open.spotify.com/track/4W1rLMJOwF99VSOq8QppSm"
@@ -28880,7 +28880,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 134505,
       "name": "En Route",
       "url": "https://open.spotify.com/track/0nUFD6i20AB1yzCxB3zGA5"
@@ -61637,6 +61637,24 @@
     },
     {
       "album": {
+        "name": "Letters From The Heart",
+        "url": "https://open.spotify.com/album/2wGJNm55yZvms7WUGDaOzG"
+      },
+      "artists": [
+        {
+          "name": "Mamoosh",
+          "url": "https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138298,
+      "name": "More Love",
+      "url": "https://open.spotify.com/track/5OQn5iK9axhAhxx4tDkChX"
+    },
+    {
+      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/50DX1IxwzOZyCmoBgWYbfN"
       },
@@ -71474,6 +71492,24 @@
       "duration_ms": 137142,
       "name": "Past Midnight",
       "url": "https://open.spotify.com/track/2XrxEdsGEB1S6igoZ0oZlV"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
     },
     {
       "album": {

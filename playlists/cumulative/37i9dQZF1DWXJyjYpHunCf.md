@@ -4,11 +4,12 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Brenn!
 
-268 songs - 15 hr 25 min
+269 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12345](https://open.spotify.com/track/6WKZjZ8Efxa5JDBEE5Qiyg) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [12345](https://open.spotify.com/album/1UULSmzki8FPkCVaSjVnRl) | 2:42 | 2021-11-12 | 2022-07-25 |
+| [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 |  |
 | [3AM](https://open.spotify.com/track/30OVbvbrKOdmzeXxaOiyZW) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f), [TAESAN](https://open.spotify.com/artist/2Zz9U4J4t6H3G0HdYVX0uY) | [3AM](https://open.spotify.com/album/5NQXeXToor0XUCpTxe4eSZ) | 2:18 | 2021-11-12 | 2022-07-08 |
 | [4Runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4Runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-04-28 |  |
 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-10-14 |  |
@@ -184,7 +185,7 @@
 | [Nothing Left To Give](https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Nothing Left To Give](https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO) | 3:13 | 2023-04-14 |  |
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2021-11-12 |  |
 | [Oh Love](https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [In Tokens & Charms](https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul) | 3:31 | 2021-11-12 | 2023-03-12 |
-| [On My Way](https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [On My Way](https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8) | 3:31 | 2021-11-12 |  |
+| [On My Way](https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [On My Way](https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8) | 3:31 | 2021-11-12 | 2023-05-02 |
 | [One Life \- Acoustic](https://open.spotify.com/track/4P9MWUFxwQIOXGTyBHcQva) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life \(Acoustic\)](https://open.spotify.com/album/0JJnuQKbA6mrON6NF6ZzEZ) | 3:19 | 2022-08-19 | 2022-10-04 |
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2022-03-12 |  |
 | [Our Kingdom](https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [Yellow](https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0) | 3:06 | 2021-11-12 |  |

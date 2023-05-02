@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Chromeo, La Roux
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,948 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,944 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Hold](https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:05 |
 | 75 | [Sunday by the River](https://open.spotify.com/track/5SjdXpQqq54uRrlSXv12i4) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Sunday by the River](https://open.spotify.com/album/0Ukujcae2Ufeke5HuKzZQW) | 2:33 |
 
-Snapshot ID: `MCw1YTExNDUzZjFjODJmOGQ1ZTBhMjA5MWY0NWNkYTlkZjAxODhjZTlh`
+Snapshot ID: `MCxmODY3ZjJlNGRlZmI5YzM5NzFmNzQ4OWM5ODY2N2ZhNDkxYjQxMTRk`

@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 357348,
+  "num_followers": 357845,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWQ4MmFmODk1ODBjNDNjYzNlYTEyZDk4YWQwMzBjMzVmMjVlZThj",
+  "snapshot_id": "MCw2ZjkzNmNjNWE0NDZkNWJiNTRiNzQyZTA3YWMyMzQxZDc5ZWIyMmVm",
   "tracks": [
     {
       "added_at": "2021-12-22 16:16:43",
@@ -163,22 +163,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -963,6 +963,22 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
+        "name": "Kim Wilde",
+        "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Kids In America",
+      "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Kim Wilde",
-        "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Kids In America",
-      "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "La Bamba / Charlena",
         "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 174186,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Together Forever",
-      "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Together Forever",
+      "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 215040,
       "name": "Pump Up The Jam - Edit",
       "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
+        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+      "duration_ms": 284625,
+      "name": "Big in Japan - 2019 Remaster",
+      "url": "https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1131,22 +1147,6 @@
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
-        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
-        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 284625,
-      "name": "Big in Japan - 2019 Remaster",
-      "url": "https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R"
     },
     {
       "added_at": "2021-12-22 16:16:43",

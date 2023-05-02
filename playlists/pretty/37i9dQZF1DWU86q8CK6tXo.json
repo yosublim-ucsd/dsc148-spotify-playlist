@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:3uikSah4dwqwuk0EidFI4R\u201d>Caitlyn Smith</a> ",
-  "num_followers": 38385,
+  "num_followers": 38380,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTY3N2QyMzg4NjI4ODE4YjkyZjFmNDg2NWI0NjVmODM5YmE4MTY4",
+  "snapshot_id": "MCw1NmZlMGY0NTllOWU3OWZiNDY1MjVkMmZhNzFkMzAzNGNjMDg0NDlk",
   "tracks": [
     {
       "added_at": "2023-04-24 16:47:13",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
+        "name": "Light On In The Kitchen",
+        "url": "https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "Light On In The Kitchen",
+      "url": "https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm"
+    },
+    {
+      "added_at": "2023-04-24 16:47:13",
+      "album": {
         "name": "If Love Is A Skill & Georgia",
         "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 204832,
       "name": "Told Ya",
       "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
-    },
-    {
-      "added_at": "2023-04-24 16:47:13",
-      "album": {
-        "name": "Light On In The Kitchen",
-        "url": "https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "Light On In The Kitchen",
-      "url": "https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm"
     },
     {
       "added_at": "2023-04-24 16:47:13",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
-        "name": "Salivate",
-        "url": "https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 147171,
-      "name": "Salivate",
-      "url": "https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN"
-    },
-    {
-      "added_at": "2023-04-24 16:47:13",
-      "album": {
         "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 256217,
       "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
+    },
+    {
+      "added_at": "2023-04-24 16:47:13",
+      "album": {
+        "name": "Salivate",
+        "url": "https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 147171,
+      "name": "Salivate",
+      "url": "https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN"
     },
     {
       "added_at": "2023-04-24 16:47:13",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/6VHL5nyGCYfxOIDnxMEs55"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/5IpgV6z5r7eQmFHI35jfVa"
-    },
-    {
-      "added_at": "2023-04-24 16:47:13",
-      "album": {
         "name": "Lotus Glow",
         "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
-        "name": "taste of u",
-        "url": "https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/6VHL5nyGCYfxOIDnxMEs55"
       },
       "artists": [
         {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 179358,
-      "name": "taste of u",
-      "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
+      "duration_ms": 202720,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/5IpgV6z5r7eQmFHI35jfVa"
     },
     {
       "added_at": "2023-04-24 16:47:13",
@@ -747,6 +731,22 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
+    },
+    {
+      "added_at": "2023-04-24 16:47:13",
+      "album": {
+        "name": "taste of u",
+        "url": "https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 179358,
+      "name": "taste of u",
+      "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
     },
     {
       "added_at": "2023-04-24 16:47:13",

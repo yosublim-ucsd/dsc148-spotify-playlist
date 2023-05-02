@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 452916,
+  "num_followers": 453043,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDI2MWEwN2ZhNzkzNDQ0NzdjMWJjN2I3NTYyYmY3MGZmMWQ5ZGVk",
+  "snapshot_id": "MCwxMTQxNmQyNmUyZTAwYjBiNmZlNTc5NTFkMzEyZGYwN2RkNTdkNmRl",
   "tracks": [
     {
       "added_at": "2023-04-28 15:41:26",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Borealis",
-        "url": "https://open.spotify.com/album/4uC2fFEwq3cb0JdC0EgPwW"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 152769,
-      "name": "Borealis",
-      "url": "https://open.spotify.com/track/6W8T0RkhPgCNZXHvKDYB1V"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 269531,
       "name": "Purple Days",
       "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Borealis",
+        "url": "https://open.spotify.com/album/4uC2fFEwq3cb0JdC0EgPwW"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 152769,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/6W8T0RkhPgCNZXHvKDYB1V"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -499,38 +499,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Spaziergang im All",
-        "url": "https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf"
-      },
-      "artists": [
-        {
-          "name": "Deorbiting",
-          "url": "https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr"
-        }
-      ],
-      "duration_ms": 498670,
-      "name": "Spaziergang im All",
-      "url": "https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Wormhole",
         "url": "https://open.spotify.com/album/10PmsWsXc3P2jeHkyJjkpT"
       },
@@ -559,6 +527,38 @@
       "duration_ms": 364810,
       "name": "Pulses",
       "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Spaziergang im All",
+        "url": "https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf"
+      },
+      "artists": [
+        {
+          "name": "Deorbiting",
+          "url": "https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr"
+        }
+      ],
+      "duration_ms": 498670,
+      "name": "Spaziergang im All",
+      "url": "https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
       },
       "artists": [
         {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
         }
       ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+      "duration_ms": 290731,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
       },
       "artists": [
         {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
         }
       ],
-      "duration_ms": 290731,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Rapture EP",
         "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 249120,
       "name": "Landing in Halifax",
       "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 414053,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Orchestra (Remixes)",
         "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 412500,
       "name": "Entrudo - Booka Shade Remix",
       "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 414053,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Sora",
+        "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
+      },
+      "artists": [
+        {
+          "name": "Milkwish",
+          "url": "https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv"
+        },
+        {
+          "name": "9hearts",
+          "url": "https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt"
+        }
+      ],
+      "duration_ms": 212849,
+      "name": "Sora",
+      "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "Lost in Berlin",
         "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 425437,
       "name": "Reframed Future",
       "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Sora",
-        "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
-      },
-      "artists": [
-        {
-          "name": "Milkwish",
-          "url": "https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv"
-        },
-        {
-          "name": "9hearts",
-          "url": "https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt"
-        }
-      ],
-      "duration_ms": 212849,
-      "name": "Sora",
-      "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
     },
     {
       "added_at": "2023-04-28 15:41:26",

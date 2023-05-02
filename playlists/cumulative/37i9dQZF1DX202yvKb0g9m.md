@@ -4,12 +4,13 @@
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-81 songs - 7 hr 43 min
+82 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acid Bit](https://open.spotify.com/track/62qTgeNdswNbPAsY9qm8vk) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:25 | 2021-10-22 | 2022-07-29 |
 | [Acid Bit \(feat\. Addison Groove\)](https://open.spotify.com/track/2L2PKs5qpu0atU6MBVfIyS) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Double Cup](https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF) | 3:24 | 2021-10-22 | 2023-04-28 |
+| [Acid Bit \(feat\. Addison Groove\)](https://open.spotify.com/track/2yvsFzmOODkBzhJo4l5ywM) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Double Cup](https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR) | 3:24 | 2021-10-22 |  |
 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 | 2021-10-22 |  |
 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 | 2021-10-22 |  |
 | [Acid Trax](https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 11:49 | 2021-10-22 |  |
@@ -53,7 +54,7 @@
 | [I Love Acid](https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:19 | 2021-10-22 | 2023-02-03 |
 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 | 2021-10-22 |  |
 | [Land Of Confusion](https://open.spotify.com/track/45WAqLonACPBfTZd6ye5tn) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1XQXorGVNfyRxDqVzKgAjx) | 2:58 | 2021-10-22 | 2022-07-28 |
-| [Land Of Confusion](https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv) | 2:58 | 2021-10-22 |  |
+| [Land Of Confusion](https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv) | 2:58 | 2021-10-22 | 2023-05-02 |
 | [Let Me Go](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 | 2021-10-22 |  |
 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0) | 3:27 | 2021-10-22 | 2023-03-23 |
 | [Miserablism](https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Alternative](https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw) | 4:10 | 2021-10-22 | 2022-07-29 |

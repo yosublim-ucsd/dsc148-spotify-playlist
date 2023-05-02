@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 262200,
       "name": "Desnudarte",
       "url": "https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M"
@@ -2470,7 +2470,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 310860,
       "name": "En Tu Cuerpo - Remix",
       "url": "https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z"
@@ -5438,6 +5438,24 @@
     {
       "album": {
         "name": "Por Ti",
+        "url": "https://open.spotify.com/album/1uu3MwIw21RXO6zM9qkDHS"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/3BgDDnVALASShFNeZw4RJ0"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
         "url": "https://open.spotify.com/album/5BcsMa1EAEa2FOEHaMyRf2"
       },
       "artists": [
@@ -7110,7 +7128,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 196974,
       "name": "Verte de Nuevo",
       "url": "https://open.spotify.com/track/7M8BZVPwEvO66vJCZvBXOY"

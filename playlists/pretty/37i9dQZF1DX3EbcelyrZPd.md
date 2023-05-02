@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Barnaba
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,258 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,301 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Closer](https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Closer](https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm) | 3:18 |
 | 70 | [Melody](https://open.spotify.com/track/4SU8d5EyTg6fM4AUkrWmCg) | [Robby Vibe](https://open.spotify.com/artist/5MbMEjr2wDI9iczXvMCmUC), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Melody](https://open.spotify.com/album/3IsdN5UkV8Ri9F1KFDiL05) | 2:58 |
 
-Snapshot ID: `MCxjNmM2MDViYWEwMDA3NTFlYTdkYzA5NzQyNDMyMGRlZGJhN2MzN2U2`
+Snapshot ID: `MCw5Mjg3Mzk0NTBkMWU5ZTJhNDhmOTI0ZWZiNzU2ZTAwMmZlOTkzNDRm`

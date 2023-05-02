@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 125213,
+  "num_followers": 125284,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGNhZDBmOGNkZTQ4YTRiOWMxNzVjYmE2MjkzMjc3Yjk5ZjQ4M2Vi",
+  "snapshot_id": "MCxhZTI2OTI3MGRiNTJlMTVhYzJlYjBlYTk0Yzc4N2E5ODM3Mjg0Nzll",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 144880,
+      "name": "Here, There And Everywhere - Remastered 2009",
+      "url": "https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
         "name": "Days Of Future Passed (Deluxe Version)",
         "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
-        "name": "Revolver (Remastered)",
-        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 144880,
-      "name": "Here, There And Everywhere - Remastered 2009",
-      "url": "https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Hits'n'Flips",
         "url": "https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Ketty Lester Presenting Love Letters",
-        "url": "https://open.spotify.com/album/3u5x4ufBilwbvdf6qt61yF"
+        "name": "Doo Wop Classics Vol. 1",
+        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
       "artists": [
         {
-          "name": "Ketty Lester",
-          "url": "https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi"
+          "name": "Shep",
+          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
+        },
+        {
+          "name": "The Limelites",
+          "url": "https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW"
         }
       ],
-      "duration_ms": 162840,
-      "name": "Love Letters (Alternate Take)",
-      "url": "https://open.spotify.com/track/3DDV3CsZan0GcUVZAtvs7N"
+      "duration_ms": 174200,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
     }
   ],
   "unique_name": "60s Ballads",

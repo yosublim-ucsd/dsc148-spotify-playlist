@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie songs every Friday\. Cover: The National
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,070 likes - 175 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,102 likes - 175 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 175 | [Futuro Incierto](https://open.spotify.com/track/4Rz2h33CcrSLpQ4EScZmPJ) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Futuro Incierto](https://open.spotify.com/album/4pFmMfwJjvoU8QKEJl7cRq) | 4:48 |
 
-Snapshot ID: `MCwyYzQwNmE4NzBhNmU4ZmMyZjNlZDVjOWM1MTg5NjBkOGU5MWEzZGFm`
+Snapshot ID: `MCw2MmJiYjliZmRjMzA2YjBmYTlkMGY1ZGU5NmQyNjIxZDU5MGZkNzAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain]
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 776 likes - 40 songs - 3 hr 38 min
+[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 788 likes - 40 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

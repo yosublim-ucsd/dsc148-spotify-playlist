@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: 50 Cent",
-  "num_followers": 308949,
+  "num_followers": 309367,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWI5ZTZjMmIwM2U1NDBjNThlNThjYjc4NWYxNGJkMTc4MWRhZTk1",
+  "snapshot_id": "MCxjN2ZjNjE5NzhhYzM3NmQyNDhlMDJkNGFjZGRhMDhhOGI4YTg3MGUx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
     },
     {
-      "added_at": "2023-05-01 00:54:45",
+      "added_at": "2023-05-02 01:09:54",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -163,38 +163,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Blackout!",
-        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
       "artists": [
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
         }
       ],
-      "duration_ms": 136093,
-      "name": "Da Rockwilder",
-      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Hypnotize - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+      "duration_ms": 224533,
+      "name": "Survival of the Fittest",
+      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -215,18 +195,54 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Survival of the Fittest",
-      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Blackout!",
+        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Da Rockwilder",
+      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -295,38 +311,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
       },
@@ -375,6 +359,38 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2023-05-02 01:09:54",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Liquid Swords",
         "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 212760,
       "name": "Feel Me Flow",
       "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
-    },
-    {
-      "added_at": "2023-05-01 00:54:45",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 249466,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 366880,
-      "name": "Notorious Thugs - 2014 Remaster",
-      "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Return of the Boom Bap",
         "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 366880,
+      "name": "Notorious Thugs - 2014 Remaster",
+      "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Only Built 4 Cuban Linx...",
         "url": "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
       },
@@ -691,6 +691,42 @@
       "duration_ms": 238840,
       "name": "Whoa!",
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Tical (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 309946,
+      "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
+      "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Loungin (Who Do Ya Luv) - Remix",
+      "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -759,26 +795,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Tical (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 309946,
-      "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
-      "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Liquid Swords",
         "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 270800,
       "name": "Liquid Swords",
       "url": "https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Mr. Smith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Loungin (Who Do Ya Luv) - Remix",
-      "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
     },
     {
       "added_at": "2022-10-28 04:00:00",

@@ -1283,6 +1283,32 @@
     },
     {
       "album": {
+        "name": "ILLENIUM",
+        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152331,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
+    },
+    {
+      "album": {
         "name": "Fall 4 u",
         "url": "https://open.spotify.com/album/3tZfjLiISFF10SgVj4nsmw"
       },
@@ -1789,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak In The Making",
+        "url": "https://open.spotify.com/album/0FX2iXci5RZKRqVQslP6fk"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194347,
+      "name": "Heartbreak In The Making",
+      "url": "https://open.spotify.com/track/7pQDEFgqfceckGdx9v4Me2"
+    },
+    {
+      "album": {
         "name": "Never Look Back (Deluxe)",
         "url": "https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx"
       },
@@ -2183,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Internet Official",
+        "url": "https://open.spotify.com/album/4tkSjaAxhfsUCG67qqpgeY"
+      },
+      "artists": [
+        {
+          "name": "CRAY",
+          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Internet Official",
+      "url": "https://open.spotify.com/track/15tD9GvqAyY15buCuUa2IK"
+    },
+    {
+      "album": {
         "name": "Irrelevant",
         "url": "https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J"
       },
@@ -2212,7 +2274,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 125746,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
@@ -2804,7 +2866,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 164800,
       "name": "MASOCHIST",
       "url": "https://open.spotify.com/track/1fDGlJAUBDeCgWYqhna9jN"
@@ -4500,7 +4562,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 200482,
       "name": "Troubled Son",
       "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"

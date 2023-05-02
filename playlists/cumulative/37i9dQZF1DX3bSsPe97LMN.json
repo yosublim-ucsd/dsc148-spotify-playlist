@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Los Comienzos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q3Z3Jw6XI5w0ki6hceiS7"
+      },
+      "artists": [
+        {
+          "name": "Javier Olguin",
+          "url": "https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264802,
+      "name": "La Ultima Sombra (En Vivo)",
+      "url": "https://open.spotify.com/track/3KgfP8YkvF2znrBPelYTJ7"
+    },
+    {
+      "album": {
         "name": "La Vida Es Bella",
         "url": "https://open.spotify.com/album/3X2lM2vUzWvCb4OjFiFN4u"
       },
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 193920,
       "name": "Qui\u00e9n Te Entiende - En Vivo",
       "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"

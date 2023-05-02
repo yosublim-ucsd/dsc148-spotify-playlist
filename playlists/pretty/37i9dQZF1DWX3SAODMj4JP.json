@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 102482,
+  "num_followers": 102606,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDZiMGM2MWQxMzFlNTZkNTFhOGI3ZWQ5OTdlYmQ3Nzg2NDRhMTFj",
+  "snapshot_id": "MCxiYzM2MzVjN2I4MmM3YmIwMDAzNjJlZDIzZDNhMjhjNjU1MzhlYTQw",
   "tracks": [
     {
       "added_at": "2023-04-28 19:03:48",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Se Eu Cair",
-        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 335597,
-      "name": "Se Eu Cair",
-      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "comigo",
         "url": "https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 193453,
       "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
       "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Se Eu Cair",
+        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 335597,
+      "name": "Se Eu Cair",
+      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "360 Graus",
-        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 250485,
-      "name": "Aonde Est\u00e1 Deus?",
-      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "N\u00e3o Sou T\u00e3o Forte",
         "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
       },
@@ -395,22 +379,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Cuide",
-        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Cuide",
-      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Todos Um",
         "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
       },
@@ -443,6 +411,38 @@
       "duration_ms": 302653,
       "name": "Deserto",
       "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "360 Graus",
+        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 250485,
+      "name": "Aonde Est\u00e1 Deus?",
+      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Cuide",
+        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Cuide",
+      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -495,6 +495,22 @@
       "duration_ms": 241840,
       "name": "Claro e Certo",
       "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "S\u00f3 Tenho a Ti",
+        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 153717,
+      "name": "S\u00f3 Tenho a Ti",
+      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -555,6 +571,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "III (Studio Sessions)",
+        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 352173,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Dear God (Acoustic)",
         "url": "https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m"
       },
@@ -571,22 +603,6 @@
       "duration_ms": 217373,
       "name": "Dear God - Acoustic",
       "url": "https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "III (Studio Sessions)",
-        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 352173,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "S\u00f3 Tenho a Ti",
-        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 153717,
-      "name": "S\u00f3 Tenho a Ti",
-      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Miseric\u00f3rdia \u00c9s",
         "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 263040,
       "name": "Todo Medo",
       "url": "https://open.spotify.com/track/7C0NIIqcZK4reNv9boACco"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Clarear",
-        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Clarear",
-      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -899,6 +883,22 @@
       "duration_ms": 225230,
       "name": "Descansar em Ti",
       "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Clarear",
+        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Clarear",
+      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
+        "name": "Ent\u00e3o Vem",
+        "url": "https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d"
       },
       "artists": [
         {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+          "name": "Caio Ver\u00edssimo",
+          "url": "https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb"
         }
       ],
-      "duration_ms": 277884,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
+      "duration_ms": 341142,
+      "name": "Ent\u00e3o Vem",
+      "url": "https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Ent\u00e3o Vem",
-        "url": "https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d"
-      },
-      "artists": [
-        {
-          "name": "Caio Ver\u00edssimo",
-          "url": "https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb"
-        }
-      ],
-      "duration_ms": 341142,
-      "name": "Ent\u00e3o Vem",
-      "url": "https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 265982,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 277884,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Pra Viver Project",
-        "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
-      },
-      "artists": [
-        {
-          "name": "Praviver Worship",
-          "url": "https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Pra Viver - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Awake (Deluxe)",
         "url": "https://open.spotify.com/album/1OrZpETlp9ZUT1qbLvYMu0"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 234973,
       "name": "Upper Room - Acoustic/Live",
       "url": "https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Pra Viver Project",
+        "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
+      },
+      "artists": [
+        {
+          "name": "Praviver Worship",
+          "url": "https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Pra Viver - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "O Banquete",
-        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
-      },
-      "artists": [
-        {
-          "name": "O Bairro Novo",
-          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
-        }
-      ],
-      "duration_ms": 280760,
-      "name": "Corpo I",
-      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Cora\u00e7\u00e3o de Aprendiz",
         "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 303071,
       "name": "Cora\u00e7\u00e3o de Aprendiz",
       "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Visita",
+        "url": "https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr"
+      },
+      "artists": [
+        {
+          "name": "Ana Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC"
+        }
+      ],
+      "duration_ms": 287647,
+      "name": "Visita",
+      "url": "https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6"
     }
   ],
   "unique_name": "Chocolate Crente",

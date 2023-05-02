@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 140847,
+  "num_followers": 140990,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmE0YzBhYjc3Zjc5MDc2M2RiNzczMjExZGNlZWEyYTQ1NDExMzdk",
+  "snapshot_id": "MCxmNGJjMDgzMTcyYjk2Y2NjNjU0YzdlNWZlMDI1NDQ3NzI0NjdlNzI4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Silver Side Up",
         "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 262533,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 307879,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "When The World Comes Down",
-        "url": "https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gives You Hell",
-      "url": "https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "The Long Road",
         "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 207466,
       "name": "Someday",
       "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "When The World Comes Down",
+        "url": "https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gives You Hell",
+      "url": "https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Spirit Room",
-        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
-      },
-      "artists": [
-        {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 246400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "Hero (feat. Josey Scott)",
-        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
-      },
-      "artists": [
-        {
-          "name": "Chad Kroeger",
-          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
-        },
-        {
-          "name": "Josey Scott",
-          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Hero (feat. Josey Scott)",
-      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -975,6 +955,26 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "Hero (feat. Josey Scott)",
+        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
+      },
+      "artists": [
+        {
+          "name": "Chad Kroeger",
+          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+        },
+        {
+          "name": "Josey Scott",
+          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Hero (feat. Josey Scott)",
+      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 215160,
       "name": "Everybody's Changing",
       "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Have A Nice Day",
-        "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 229106,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF"
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1087,6 +1087,22 @@
       "duration_ms": 188840,
       "name": "Flavor Of The Weak",
       "url": "https://open.spotify.com/track/1UkMAtLU8NxsddE7j4zXGO"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Under The Iron Sea",
+        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "Nothing In My Way",
+      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1135,22 +1151,6 @@
       "duration_ms": 198973,
       "name": "Behind These Hazel Eyes",
       "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "Under The Iron Sea",
-        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 240386,
-      "name": "Nothing In My Way",
-      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Something to Be",
-        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Ever the Same",
-      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1ISFv3wJNEj1DxP64UWEMO"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 217760,
       "name": "I Don't Want to Be",
       "url": "https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Something to Be",
+        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Ever the Same",
+      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "Chariot - Stripped",
+        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/08kTO4EW0jb07zNsCNM83w"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Welcome Interstate Managers",
         "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Stuck In A Moment You Can't Get Out Of",
-      "url": "https://open.spotify.com/track/3xjTuTBaihydhSC7ByNoSb"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Something to Be",
         "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 226640,
       "name": "Lonely No More",
       "url": "https://open.spotify.com/track/4faFAhOflLzhfJECveRwva"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Stuck In A Moment You Can't Get Out Of",
+      "url": "https://open.spotify.com/track/3xjTuTBaihydhSC7ByNoSb"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1607,22 +1623,6 @@
       "duration_ms": 207213,
       "name": "Life After You",
       "url": "https://open.spotify.com/track/70NGpcNvhI2hqonWNAETIu"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "Chariot - Stripped",
-        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/08kTO4EW0jb07zNsCNM83w"
     }
   ],
   "unique_name": "00s Pop Rock",

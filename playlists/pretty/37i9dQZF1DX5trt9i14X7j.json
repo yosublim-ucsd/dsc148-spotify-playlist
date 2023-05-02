@@ -1,12 +1,12 @@
 {
   "description": "Dedicated to all the programmers out there.",
-  "num_followers": 338447,
+  "num_followers": 338602,
   "original_name": "Coding Mode  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODAzYjgwZTNjZGUyY2JjMGJmYThkYTdiMGM1ZTNkMTMwYWJmNGY0",
+  "snapshot_id": "MCw3YWFkYzJlZjA4NTk1NjgzZTRkMjQ3MmEzZGY1ZjkxZmU4YzBmM2Zk",
   "tracks": [
     {
       "added_at": "2023-04-10 10:36:11",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 383513,
+      "name": "S.T.A.Y.",
+      "url": "https://open.spotify.com/track/6GUq9y0Iy5QrAuPYxTrFp2"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 75969,
       "name": "Fire and Light",
       "url": "https://open.spotify.com/track/1d6BkMki9M6K0yp9OLBzOM"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 383513,
-      "name": "S.T.A.Y.",
-      "url": "https://open.spotify.com/track/6GUq9y0Iy5QrAuPYxTrFp2"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "North Pole",
-        "url": "https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo"
-      },
-      "artists": [
-        {
-          "name": "WYS",
-          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Flamagra",
         "url": "https://open.spotify.com/album/6tC2ERExm7n7JEDkHOEFs5"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 71520,
       "name": "FF4",
       "url": "https://open.spotify.com/track/39nSL4qbk0rsGNSVJb5TWK"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "North Pole",
+        "url": "https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Hypnagogia Well",
-        "url": "https://open.spotify.com/album/5QULT8EPM4qXnA8hAQmbJL"
-      },
-      "artists": [
-        {
-          "name": "Monocle Twins",
-          "url": "https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Hypnagogia Well",
-      "url": "https://open.spotify.com/track/2jpL7mFOMzRnbaSj790BfQ"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "deep wild",
         "url": "https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 175782,
       "name": "Stillness Within",
       "url": "https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Hypnagogia Well",
+        "url": "https://open.spotify.com/album/5QULT8EPM4qXnA8hAQmbJL"
+      },
+      "artists": [
+        {
+          "name": "Monocle Twins",
+          "url": "https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Hypnagogia Well",
+      "url": "https://open.spotify.com/track/2jpL7mFOMzRnbaSj790BfQ"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -631,34 +631,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Starlight Passage",
-        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
+        "name": "Kermesse",
+        "url": "https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub"
       },
       "artists": [
         {
-          "name": "Starlight Passage",
-          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
         }
       ],
-      "duration_ms": 148301,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Loosen Up",
-        "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
-      },
-      "artists": [
-        {
-          "name": "Cake House",
-          "url": "https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB"
-        }
-      ],
-      "duration_ms": 147307,
-      "name": "Loosen Up",
-      "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
+      "duration_ms": 347528,
+      "name": "Sunday Glide",
+      "url": "https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Kermesse",
-        "url": "https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub"
+        "name": "Starlight Passage",
+        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
       },
       "artists": [
         {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+          "name": "Starlight Passage",
+          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
         }
       ],
-      "duration_ms": 347528,
-      "name": "Sunday Glide",
-      "url": "https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY"
+      "duration_ms": 148301,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -707,6 +691,22 @@
       "duration_ms": 151624,
       "name": "Ethereal Glow",
       "url": "https://open.spotify.com/track/381cpx26XrMnGOIn4faioN"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
+      },
+      "artists": [
+        {
+          "name": "Cake House",
+          "url": "https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB"
+        }
+      ],
+      "duration_ms": 147307,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Dawning",
-        "url": "https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ"
-      },
-      "artists": [
-        {
-          "name": "LUCHS",
-          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
-        }
-      ],
-      "duration_ms": 138574,
-      "name": "Red Gold Yesterday",
-      "url": "https://open.spotify.com/track/5q4HX5dFrepBt1T4Kjuw6p"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Polar (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 200727,
       "name": "cabin",
       "url": "https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Dawning",
+        "url": "https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ"
+      },
+      "artists": [
+        {
+          "name": "LUCHS",
+          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+        }
+      ],
+      "duration_ms": 138574,
+      "name": "Red Gold Yesterday",
+      "url": "https://open.spotify.com/track/5q4HX5dFrepBt1T4Kjuw6p"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Kurzgesagt, Vol. 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lCnMllidUf5pmU5N67vb6"
-      },
-      "artists": [
-        {
-          "name": "Epic Mountain",
-          "url": "https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Optimistic Nihilism",
-      "url": "https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 447800,
       "name": "#1",
       "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Kurzgesagt, Vol. 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lCnMllidUf5pmU5N67vb6"
+      },
+      "artists": [
+        {
+          "name": "Epic Mountain",
+          "url": "https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Optimistic Nihilism",
+      "url": "https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/63kvEHiTLB6bneB34fM9jJ"
-      },
-      "artists": [
-        {
-          "name": "Abakus",
-          "url": "https://open.spotify.com/artist/5EEbMGQOwrTuy51Vin8bL1"
-        }
-      ],
-      "duration_ms": 412631,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/1Alcws0xXs4eQDchjn3RGh"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Further Than Far",
         "url": "https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/63kvEHiTLB6bneB34fM9jJ"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Abakus",
+          "url": "https://open.spotify.com/artist/5EEbMGQOwrTuy51Vin8bL1"
         }
       ],
-      "duration_ms": 148546,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
+      "duration_ms": 412631,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/1Alcws0xXs4eQDchjn3RGh"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -915,6 +899,22 @@
       "duration_ms": 246462,
       "name": "Bacall",
       "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 148546,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Cumulus Motion",
-        "url": "https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O"
-      },
-      "artists": [
-        {
-          "name": "Lama House",
-          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
-        }
-      ],
-      "duration_ms": 174755,
-      "name": "Cotton Spheres",
-      "url": "https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Fresh Air",
         "url": "https://open.spotify.com/album/5Yvsg0Yzg8pYR8X3EiUBok"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "Cumulus Motion",
+        "url": "https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O"
+      },
+      "artists": [
+        {
+          "name": "Lama House",
+          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
+        }
+      ],
+      "duration_ms": 174755,
+      "name": "Cotton Spheres",
+      "url": "https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "Owls and Pinecones",
         "url": "https://open.spotify.com/album/04TS42w8CD2eLXL734HHsW"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 137764,
       "name": "Alone in the World",
       "url": "https://open.spotify.com/track/5GrVyPPaSy9OksTkFOpdns"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 343400,
+      "name": "Parallel 7",
+      "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1035,22 +1051,6 @@
       "duration_ms": 357383,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/1gkGreJ6lZAk1fJRwlsinY"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 343400,
-      "name": "Parallel 7",
-      "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "By the Deep Sea",
-        "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
-      },
-      "artists": [
-        {
-          "name": "Federico Albanese",
-          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
-        }
-      ],
-      "duration_ms": 241114,
-      "name": "Mauer Blues",
-      "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Flourishing Views",
         "url": "https://open.spotify.com/album/3EwiPwpIygpD2BwEzqbUsw"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 137454,
       "name": "Beau",
       "url": "https://open.spotify.com/track/4HlyP1UN4PSkGowgNeYWep"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "By the Deep Sea",
+        "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "duration_ms": 241114,
+      "name": "Mauer Blues",
+      "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Finding Hope",
-        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
-      },
-      "artists": [
-        {
-          "name": "Haakon Stange",
-          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Finding Hope",
-      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Pillars",
         "url": "https://open.spotify.com/album/5aSe7EH7yhtFGvyQPsVcgF"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 243795,
       "name": "Sibyl",
       "url": "https://open.spotify.com/track/5YmjFHheTqiMyhVtBM04lo"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Finding Hope",
+        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
+      },
+      "artists": [
+        {
+          "name": "Haakon Stange",
+          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Finding Hope",
+      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "We're Back Chilling",
-        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
+        "name": "Midnight Thoughts",
+        "url": "https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a"
       },
       "artists": [
         {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
         }
       ],
-      "duration_ms": 311613,
-      "name": "Absent Minded in Berlin",
-      "url": "https://open.spotify.com/track/1ErakKk3ypf8rp8N5UUrta"
+      "duration_ms": 161927,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Midnight Thoughts",
-        "url": "https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a"
+        "name": "We're Back Chilling",
+        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
       },
       "artists": [
         {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
         }
       ],
-      "duration_ms": 161927,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5"
+      "duration_ms": 311613,
+      "name": "Absent Minded in Berlin",
+      "url": "https://open.spotify.com/track/1ErakKk3ypf8rp8N5UUrta"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 281882,
-      "name": "Riverline",
-      "url": "https://open.spotify.com/track/4LgL0LKDAVGylgyab5hZWn"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Sjangeli",
         "url": "https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 168648,
       "name": "Stay Near",
       "url": "https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 281882,
+      "name": "Riverline",
+      "url": "https://open.spotify.com/track/4LgL0LKDAVGylgyab5hZWn"
     },
     {
       "added_at": "2023-04-10 10:36:11",

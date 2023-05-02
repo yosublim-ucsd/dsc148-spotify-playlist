@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2000s. Cover: Usher",
-  "num_followers": 4359710,
+  "num_followers": 4361023,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTcwMmUyN2EzZmZkM2I4ZmI3ZmM4ZDhiMDk1MDY2NGY3NTA2Nzhh",
+  "snapshot_id": "MCwzYTUyOWVlMjZkYmUzZDhjZWFiZGY3ODk1NjNlYTFlNTJmMzAyZDVk",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Confessions Part II",
+      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -381,22 +397,6 @@
       "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Confessions Part II",
-      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Go",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3"
     },
     {
-      "added_at": "2023-01-21 18:20:05",
-      "album": {
-        "name": "Memoirs of an imperfect Angel",
-        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "It's A Wrap",
-      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Mama's Gun",
@@ -443,6 +427,22 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2023-01-21 18:20:05",
+      "album": {
+        "name": "Memoirs of an imperfect Angel",
+        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "It's A Wrap",
+      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "The Neptunes Present... Clones",
         "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 236506,
       "name": "Frontin' (feat. Jay-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Life",
-        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "I Wanna Go There",
@@ -895,6 +879,22 @@
       "duration_ms": 294693,
       "name": "How You Gonna Act Like That",
       "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 262226,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1013,26 +1013,6 @@
       "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 256346,
-      "name": "Oh (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Love/Hate",
@@ -1087,6 +1067,26 @@
       "duration_ms": 229866,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 256346,
+      "name": "Oh (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Jennifer Hudson",
-        "url": "https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Juslisen",
@@ -1263,6 +1247,22 @@
       "duration_ms": 254493,
       "name": "Halfcrazy",
       "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Jennifer Hudson",
+        "url": "https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Ice Box",
-      "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Ms. Kelly",
         "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 215853,
       "name": "Like This (feat. Eve)",
       "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Ice Box",
+      "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 222946,
       "name": "4Ever (feat. Fabolous)",
       "url": "https://open.spotify.com/track/6ubNZ5edKBKH3MQKatUY3S"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1469,22 +1469,6 @@
       "url": "https://open.spotify.com/track/7BgUcOjSOlKJXASLgJ6bx1"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
-    },
-    {
       "added_at": "2023-03-04 19:43:24",
       "album": {
         "name": "J.E. Heartbreak",
@@ -1499,6 +1483,22 @@
       "duration_ms": 246720,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "It's Over Now",
+      "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
       },
@@ -1691,42 +1707,26 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Nivea",
-        "url": "https://open.spotify.com/album/6tXzTKfHd9fR1OPsvstxVt"
+        "name": "My Name Is Joe",
+        "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
       },
       "artists": [
         {
-          "name": "Nivea",
-          "url": "https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN"
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
         },
         {
-          "name": "Brian Casey",
-          "url": "https://open.spotify.com/artist/1Zgn8DDi8ema6uKufbQOdG"
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
         },
         {
-          "name": "Brandon Casey",
-          "url": "https://open.spotify.com/artist/6pw5ePxlLPN87ikxsFHsvZ"
+          "name": "Allen Gordon",
+          "url": "https://open.spotify.com/artist/1f7DyDtA0IwtD0f9NLf4P6"
         }
       ],
-      "duration_ms": 213226,
-      "name": "Don't Mess With My Man (feat. Brian Casey & Brandon Casey)",
-      "url": "https://open.spotify.com/track/39YovPslPCXbFYhlYjsZ2Y"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "It's Over Now",
-      "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
+      "duration_ms": 213026,
+      "name": "Stutter (feat. Mystikal) - Double Take Remix",
+      "url": "https://open.spotify.com/track/7FWuzwapuKHTEyDJIcQOw3"
     }
   ],
   "unique_name": "I Love My '00s R&B",

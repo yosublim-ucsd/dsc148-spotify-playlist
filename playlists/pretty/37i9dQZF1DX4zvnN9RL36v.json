@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5054,
+  "num_followers": 5063,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTUxMGE0NGQyYzIwNmE5YmZhZDZkMmRhYWNjYmEzYTRiNTZhYTk0",
+  "snapshot_id": "MCwxNzFlNzcwZGQxNjI5ZjcyM2FkNjNkNDI4NWY5OTI1Mzg1YjI4ODZk",
   "tracks": [
     {
       "added_at": "2023-03-27 08:25:32",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "I hope I cross your mind",
-        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "I hope I cross your mind",
-      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "Exhibition 2",
         "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 320055,
       "name": "Druken Truth",
       "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "I hope I cross your mind",
+        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "I hope I cross your mind",
+      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -419,22 +419,18 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "Jewel (feat. KURO)",
-        "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
+        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
       },
       "artists": [
         {
-          "name": "Sumsher",
-          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
-        },
-        {
-          "name": "KURO",
-          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 181377,
-      "name": "Jewel (feat. KURO)",
-      "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
+      "duration_ms": 189905,
+      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
+      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -455,18 +451,22 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
+        "name": "Jewel (feat. KURO)",
+        "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
         }
       ],
-      "duration_ms": 189905,
-      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
-      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
+      "duration_ms": 181377,
+      "name": "Jewel (feat. KURO)",
+      "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "One Strange Night",
-        "url": "https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 251105,
-      "name": "Wanna be her",
-      "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "One-sided love",
         "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 190586,
       "name": "One-sided love",
       "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "One Strange Night",
+        "url": "https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 251105,
+      "name": "Wanna be her",
+      "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
     },
     {
       "added_at": "2023-03-27 08:25:32",

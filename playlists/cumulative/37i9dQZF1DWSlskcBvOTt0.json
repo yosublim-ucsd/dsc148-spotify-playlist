@@ -2341,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "album": {
         "name": "Firedance EP",
         "url": "https://open.spotify.com/album/3PxySRX2mtpektDFcDXsQw"
       },
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 223050,
       "name": "Free Bird",
       "url": "https://open.spotify.com/track/3OsAfJ303euvdK0k5wL4Ob"
@@ -4180,7 +4198,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 331457,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA"
@@ -5102,6 +5120,24 @@
       "duration_ms": 432360,
       "name": "Never Sleep Again - Keinemusik Remix",
       "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
+    },
+    {
+      "album": {
+        "name": "Never Too Late",
+        "url": "https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287039,
+      "name": "Never Too Late",
+      "url": "https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd"
     },
     {
       "album": {

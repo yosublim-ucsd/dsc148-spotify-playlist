@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 135838,
+  "num_followers": 135861,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjRiYTAwN2M4YTA1ODg0NDA4ZDU0MTg5YTYxZjNlZGZiYjM1Zjdh",
+  "snapshot_id": "MCxmOWQ3MTNkMDNhODY0ZmFmY2RjNTc4NzVlMTA2OTIxZTRkZDg5YWE2",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -391,34 +391,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -487,6 +459,34 @@
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -715,6 +715,26 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "SICKO MODE (Skrillex Remix)",
+        "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 304512,
+      "name": "SICKO MODE - Skrillex Remix",
+      "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Dance Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 133000,
       "name": "Seven Nation Army (feat. KOYSINA)",
       "url": "https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "SICKO MODE (Skrillex Remix)",
-        "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 304512,
-      "name": "SICKO MODE - Skrillex Remix",
-      "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Five Hours",
-        "url": "https://open.spotify.com/album/6qBYhiSsjPux8YODj3YX3e"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 326887,
-      "name": "Five Hours",
-      "url": "https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Better When You're Gone",
         "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 192402,
       "name": "Better When You're Gone",
       "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Five Hours",
+        "url": "https://open.spotify.com/album/6qBYhiSsjPux8YODj3YX3e"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 326887,
+      "name": "Five Hours",
+      "url": "https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1071,6 +1071,30 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs"
       },
@@ -1095,30 +1119,6 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 231290,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Drop It (feat. LUISAH)",
         "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 231290,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "What's Up Suckaz",
-        "url": "https://open.spotify.com/album/26Ii0K4367aR8WKk6GXQi9"
-      },
-      "artists": [
-        {
-          "name": "TJR",
-          "url": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "What's Up Suckaz",
-      "url": "https://open.spotify.com/track/3D5Or5cnuSQ9IBnRTdjhGX"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 150160,
       "name": "Unlove You",
       "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "What's Up Suckaz",
+        "url": "https://open.spotify.com/album/26Ii0K4367aR8WKk6GXQi9"
+      },
+      "artists": [
+        {
+          "name": "TJR",
+          "url": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "What's Up Suckaz",
+      "url": "https://open.spotify.com/track/3D5Or5cnuSQ9IBnRTdjhGX"
     },
     {
       "added_at": "2022-10-12 15:43:07",

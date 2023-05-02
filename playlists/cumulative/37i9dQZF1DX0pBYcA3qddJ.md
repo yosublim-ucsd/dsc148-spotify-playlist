@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-383 songs - 1 day 1 hr 40 min
+384 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [5つの歌曲 作品105より第1曲「調べのように私を通り抜ける」](https://open.spotify.com/track/4vEIAx1HbcJynNpOlhpueH) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [吉田 誠](https://open.spotify.com/artist/5wev3nAlYNDtbSDAZyqnVD), [Yu Kosuge](https://open.spotify.com/artist/5tcUjfUAZwX2NMjWU0fqON) | [ブラームス:クラリネット・ソナタ\(全曲\)、シューマン:幻想小曲集ほか](https://open.spotify.com/album/34gl2k0zSTO3Vp5Ckkd0LH) | 2:12 | 2022-10-20 | 2022-12-02 |
 | [7 O'clock Clap](https://open.spotify.com/track/2XcFTsrCoFarJErjxaaYm9) | [Arthur Moon](https://open.spotify.com/artist/5iDcZ7vN17Cq55AbEqy0aC) | [7 O'clock Clap](https://open.spotify.com/album/4QqtF1Jw2lyD2JzKDGL0d4) | 2:34 | 2023-04-04 |  |
 | [9 Preludes, Op\. 1: No\. 1 in B Minor\. Andante ma non troppo](https://open.spotify.com/track/73cFlYu63RLX1qn9qzMXiJ) | [Karol Szymanowski](https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal), [Krystian Zimerman](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) | [Szymanowski: 9 Preludes, Op\. 1: No\. 1 in B Minor\. Andante ma non troppo](https://open.spotify.com/album/2a4mPDnGKkY1ZnxhsHIrK0) | 2:56 | 2022-10-20 | 2022-12-02 |
+| [A Child's Question, August](https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [A Child's Question, August](https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB) | 2:46 | 2023-04-27 |  |
 | [A Dream of Hanakonzyo Color](https://open.spotify.com/track/2PklJbGfHNaFPo5HidKimK) | [青木慶則](https://open.spotify.com/artist/0rb8Q1ctJ25z9P64TgKXWy) | [Scene Tonight Only](https://open.spotify.com/album/4SmjguZEfuwXUbLErOu4aH) | 2:34 | 2023-04-18 |  |
 | [A Man Main Theme](https://open.spotify.com/track/31hV0jmhlMYzcp6CUvsFSZ) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [A Man Main Theme](https://open.spotify.com/album/75grRnp9GaEhzRlsQqVVNL) | 3:01 | 2022-11-10 | 2022-12-02 |
 | [A Mother's Touch \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-27 | 2022-11-11 |
@@ -119,7 +120,7 @@
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 |  |
 | [Hawk](https://open.spotify.com/track/4tmN5DNeqyW1E2CL5nA5iI) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Birds 2](https://open.spotify.com/album/5YRGHMPBe6bHwFzcs5sqyA) | 4:39 | 2022-11-01 | 2022-12-02 |
 | [Haze Garden \(Prayer\)](https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Haze Garden \(Prayer\)](https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ) | 3:18 | 2023-02-28 | 2023-04-05 |
-| [Henry St.](https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 4:29 | 2023-04-25 |  |
+| [Henry St.](https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 4:29 | 2023-04-25 | 2023-05-02 |
 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 | 2023-03-09 | 2023-04-26 |
 | [Holy](https://open.spotify.com/track/6HqUbd3s956kPMGovpL9FI) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Holy](https://open.spotify.com/album/2e8EsnQduWjhDsdmQBBN15) | 2:52 | 2023-03-14 |  |
 | [Home](https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Home](https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ) | 3:30 | 2022-10-20 | 2022-12-13 |

@@ -4,7 +4,7 @@
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-149 songs - 7 hr 31 min
+150 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Det gör ont](https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Det gör ont en stund på natten men inget på dan](https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr) | 3:03 | 2019-02-28 |  |
 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 | 2019-02-28 | 2022-07-29 |
 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 | 2019-02-28 |  |
-| [E' de' det här du kallar kärlek](https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3) | [Lasse Holm](https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI), [Monica Thörnell](https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA) | [Lasse Holm](https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ) | 2:49 | 2019-02-28 |  |
+| [E' de' det här du kallar kärlek](https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3) | [Lasse Holm](https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI), [Monica Thörnell](https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA) | [Lasse Holm](https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ) | 2:49 | 2019-02-28 | 2023-05-02 |
 | [Efter solsken](https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [Det blir vad du gör det till](https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs) | 3:10 | 2019-02-28 | 2022-04-22 |
 | [Eloise](https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR) | 3:08 | 2019-02-28 |  |
 | [Eloise](https://open.spotify.com/track/1cmdyYqbzc8fvHsmtErxx0) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/51qel3QBboYlXlQlmM1KaY) | 3:09 | 2019-02-28 | 2022-07-29 |
@@ -59,6 +59,7 @@
 | [Fuego](https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fuego](https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8) | 3:03 | 2019-02-28 |  |
 | [Fyra Bugg & en Coca\-Cola](https://open.spotify.com/track/3KKaGvEv3xkQpRAUMX4e0l) | [Lotta Engberg](https://open.spotify.com/artist/26deOFc7Oj2gu2pqzPo9O8) | [Svenska Tokhits](https://open.spotify.com/album/31E0B8ViVDRjZXRVuPbjZa) | 2:57 | 2019-02-28 | 2022-07-28 |
 | [Fångad av en stormvind \- Swedish Version](https://open.spotify.com/track/5I6eq9wK0SOkeUWEPHqD39) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hits](https://open.spotify.com/album/0Ie4L2DEKLQ0dun65tmLJL) | 3:01 | 2019-02-28 | 2022-07-29 |
+| [Genom Eld & Vatten](https://open.spotify.com/track/20NfHnLzpw6qoAKOX8BFaQ) | [Sarek](https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp) | [Genom Eld & Vatten](https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4) | 3:19 | 2023-02-26 |  |
 | [Genom Eld & Vatten](https://open.spotify.com/track/4wLWZx74WHOosQq5p8VVkL) | [Sarek](https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp) | [Genom Eld & Vatten](https://open.spotify.com/album/35mmuEFKzNsEJ97gYThkVX) | 3:19 | 2019-02-28 | 2023-04-30 |
 | [Genom Eld & Vatten](https://open.spotify.com/track/6N6Ias6AghMTQOwP3G2TfQ) | [Sarek](https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp) | [Genom Eld & Vatten](https://open.spotify.com/album/6uL4SHOsPuLrRQGESOS3Jy) | 3:19 | 2019-02-28 | 2022-07-29 |
 | [Give Me Your Love](https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd) | [Fame](https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6) | [Give Me Your Love](https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR) | 3:02 | 2019-02-28 |  |

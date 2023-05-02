@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 174879,
+  "num_followers": 174974,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDdiZjkxZmU3OWYwNjY5NTMwYjlhMmU5YjVjZTE2MzE4YTUxMTEz",
+  "snapshot_id": "MCxkMzM2MmZiMTM2OTAwZDFhZGVlNTU0Nzg5YTk4MWNhNGMxNDQyNzQ2",
   "tracks": [
     {
       "added_at": "2022-01-11 00:02:15",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "I Can Hear the Birds",
-        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 288866,
-      "name": "Brockley",
-      "url": "https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "From Shores To Mountains",
         "url": "https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 145800,
       "name": "From Shores To Mountains",
       "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 288866,
+      "name": "Brockley",
+      "url": "https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k"
     },
     {
       "added_at": "2021-11-12 19:01:27",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71"
     },
     {
-      "added_at": "2022-09-15 12:29:37",
-      "album": {
-        "name": "caso de estudio",
-        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
-      },
-      "artists": [
-        {
-          "name": "s e r \u00e9 n a t e",
-          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
-        }
-      ],
-      "duration_ms": 225822,
-      "name": "to all the plants i loved",
-      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Gal\u00e1pagos (Original Series Soundtrack)",
@@ -959,22 +943,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Rothko Chapel",
-        "url": "https://open.spotify.com/album/63WHCdmhhPgOHiRrSRQ0NO"
-      },
-      "artists": [
-        {
-          "name": "Morton Feldman",
-          "url": "https://open.spotify.com/artist/3Vmj59eAzsbiISxcCBHRCM"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Rothko Chapel 5",
-      "url": "https://open.spotify.com/track/3ci95cJaK7fYZN3o9YBTXf"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP"
       },
@@ -987,6 +955,22 @@
       "duration_ms": 187058,
       "name": "Gyroscope",
       "url": "https://open.spotify.com/track/2dziNfL0S9awABp30vNN08"
+    },
+    {
+      "added_at": "2022-09-15 12:29:37",
+      "album": {
+        "name": "caso de estudio",
+        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
+      },
+      "artists": [
+        {
+          "name": "s e r \u00e9 n a t e",
+          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
+        }
+      ],
+      "duration_ms": 225822,
+      "name": "to all the plants i loved",
+      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1003,6 +987,22 @@
       "duration_ms": 245418,
       "name": "Le ch\u00e2teau de corail",
       "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Rothko Chapel",
+        "url": "https://open.spotify.com/album/63WHCdmhhPgOHiRrSRQ0NO"
+      },
+      "artists": [
+        {
+          "name": "Morton Feldman",
+          "url": "https://open.spotify.com/artist/3Vmj59eAzsbiISxcCBHRCM"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Rothko Chapel 5",
+      "url": "https://open.spotify.com/track/3ci95cJaK7fYZN3o9YBTXf"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Pantano Lontano",
-        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
-      },
-      "artists": [
-        {
-          "name": "Nodes",
-          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
-        }
-      ],
-      "duration_ms": 341621,
-      "name": "Sin\u00fa",
-      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "The Box Tree",
         "url": "https://open.spotify.com/album/0GLlwTGHxAZpOTPLMFFaCH"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 235973,
       "name": "For Seconds at a Time",
       "url": "https://open.spotify.com/track/6dSo66w4jxsSL7d8bWHR33"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Pantano Lontano",
+        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
+      },
+      "artists": [
+        {
+          "name": "Nodes",
+          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
+        }
+      ],
+      "duration_ms": 341621,
+      "name": "Sin\u00fa",
+      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
+    },
+    {
       "added_at": "2022-03-30 02:54:54",
       "album": {
         "name": "Point Zero",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "4T Recordings",
         "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 197249,
       "name": "4T Recordings",
       "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
+    },
+    {
+      "added_at": "2022-05-18 01:37:47",
+      "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L"
+      },
+      "artists": [
+        {
+          "name": "Yosi Horikawa",
+          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
+        }
+      ],
+      "duration_ms": 338500,
+      "name": "Swashers",
+      "url": "https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT"
     },
     {
       "added_at": "2023-03-03 04:35:09",
@@ -1209,22 +1225,6 @@
       "url": "https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK"
     },
     {
-      "added_at": "2022-05-18 01:37:47",
-      "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L"
-      },
-      "artists": [
-        {
-          "name": "Yosi Horikawa",
-          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
-        }
-      ],
-      "duration_ms": 338500,
-      "name": "Swashers",
-      "url": "https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT"
-    },
-    {
       "added_at": "2022-11-09 01:04:49",
       "album": {
         "name": "#3 (Rhubarb)",
@@ -1239,6 +1239,22 @@
       "duration_ms": 437138,
       "name": "#3 (Rhubarb)",
       "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Sunflower Dance",
+        "url": "https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 212054,
+      "name": "Sunflower Dance",
+      "url": "https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1259,34 +1275,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Sunflower Dance",
-        "url": "https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p"
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 212054,
-      "name": "Sunflower Dance",
-      "url": "https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89"
-    },
-    {
-      "added_at": "2023-01-12 02:08:58",
-      "album": {
-        "name": "Antidotes 2",
-        "url": "https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
-        }
-      ],
-      "duration_ms": 200724,
-      "name": "An Avalanche",
-      "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
+      "duration_ms": 435070,
+      "name": "Parallel 9",
+      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1321,20 +1321,20 @@
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
+      "added_at": "2023-01-12 02:08:58",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+        "name": "Antidotes 2",
+        "url": "https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
         }
       ],
-      "duration_ms": 435070,
-      "name": "Parallel 9",
-      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
+      "duration_ms": 200724,
+      "name": "An Avalanche",
+      "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Healing Collection: Quiet Comfort",
-        "url": "https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b"
-      },
-      "artists": [
-        {
-          "name": "Takashi Kokubo",
-          "url": "https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1"
-        }
-      ],
-      "duration_ms": 964666,
-      "name": "Dawn of the Forest",
-      "url": "https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "Healing Collection: Quiet Comfort",
+        "url": "https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b"
+      },
+      "artists": [
+        {
+          "name": "Takashi Kokubo",
+          "url": "https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1"
+        }
+      ],
+      "duration_ms": 964666,
+      "name": "Dawn of the Forest",
+      "url": "https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "Greenhouse",
         "url": "https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 104560,
       "name": "Sunflower, Raise Your Heavy Head and Face the Sun!",
       "url": "https://open.spotify.com/track/2mXwSbqPRfmiG2KcM81Y1j"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Sova",
+        "url": "https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY"
+      },
+      "artists": [
+        {
+          "name": "Guustavv",
+          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
+        }
+      ],
+      "duration_ms": 132958,
+      "name": "Yawn Machine",
+      "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
     },
     {
       "added_at": "2022-01-12 18:38:07",
@@ -1467,22 +1483,6 @@
       "duration_ms": 163914,
       "name": "Hope!",
       "url": "https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Sova",
-        "url": "https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY"
-      },
-      "artists": [
-        {
-          "name": "Guustavv",
-          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
-        }
-      ],
-      "duration_ms": 132958,
-      "name": "Yawn Machine",
-      "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1517,6 +1517,22 @@
       "url": "https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Circular Wave Forms.",
+        "url": "https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla"
+      },
+      "artists": [
+        {
+          "name": "LFO Waves",
+          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Circular Wave Forms.",
+      "url": "https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj"
+    },
+    {
       "added_at": "2022-09-03 02:56:41",
       "album": {
         "name": "Sounds of Fischer Vol. 1",
@@ -1543,22 +1559,6 @@
       "duration_ms": 243250,
       "name": "Birki",
       "url": "https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Circular Wave Forms.",
-        "url": "https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla"
-      },
-      "artists": [
-        {
-          "name": "LFO Waves",
-          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Circular Wave Forms.",
-      "url": "https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj"
     },
     {
       "added_at": "2022-11-12 17:14:56",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Ecom\u00fasica | Aves",
-        "url": "https://open.spotify.com/album/73sWcZGKahZ7CD8N4uWovl"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1bio Caramuru",
-          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
-        }
-      ],
-      "duration_ms": 210421,
-      "name": "Komadori",
-      "url": "https://open.spotify.com/track/2k2znhiwRTrTN9eP1SzNom"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Jardin au fou",
         "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "SVMMER SVN vol. 6",
-        "url": "https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya"
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY"
       },
       "artists": [
         {
-          "name": "John Looke",
-          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
+          "name": "autumn keys",
+          "url": "https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy"
         }
       ],
-      "duration_ms": 267027,
-      "name": "Redder Than The Moon",
-      "url": "https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE"
+      "duration_ms": 149142,
+      "name": "Ailments",
+      "url": "https://open.spotify.com/track/55HhJOp3tvLBBnCYKnRqt2"
     },
     {
       "added_at": "2022-07-15 05:17:48",
@@ -1671,18 +1655,34 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY"
+        "name": "Ecom\u00fasica | Aves",
+        "url": "https://open.spotify.com/album/73sWcZGKahZ7CD8N4uWovl"
       },
       "artists": [
         {
-          "name": "autumn keys",
-          "url": "https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy"
+          "name": "F\u00e1bio Caramuru",
+          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
         }
       ],
-      "duration_ms": 149142,
-      "name": "Ailments",
-      "url": "https://open.spotify.com/track/55HhJOp3tvLBBnCYKnRqt2"
+      "duration_ms": 210421,
+      "name": "Komadori",
+      "url": "https://open.spotify.com/track/2k2znhiwRTrTN9eP1SzNom"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "SVMMER SVN vol. 6",
+        "url": "https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya"
+      },
+      "artists": [
+        {
+          "name": "John Looke",
+          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
+        }
+      ],
+      "duration_ms": 267027,
+      "name": "Redder Than The Moon",
+      "url": "https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE"
     },
     {
       "added_at": "2021-10-20 17:59:21",

@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 612138,
+  "num_followers": 612271,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2U2NjRmZDNjNDZhZGY0NThmMzNjMzhiM2Y3NzFlODAxZDI3MjFm",
+  "snapshot_id": "MCw0ZGZkNTRlYmQ4ZDVlN2MwNmEzNTFlZmJiZjg3MDMxYTIyYzNlYTUw",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Amor Supremo (Desnudo)",
-        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Hasta el Fin Del Mundo",
         "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 179094,
       "name": "V\u00e1monos a Marte",
       "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Amor Supremo (Desnudo)",
+        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -355,34 +355,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+        "name": "Amor Viejo",
+        "url": "https://open.spotify.com/album/5X9lk7ihH8XySmuhGGXRUN"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+      "duration_ms": 137496,
+      "name": "Amor Viejo",
+      "url": "https://open.spotify.com/track/3W5h65cRwTaZ1FCvEw6Ltx"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -403,6 +387,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "MAM\u00c1",
         "url": "https://open.spotify.com/album/5rjblafbv954vxZYqnNvhR"
       },
@@ -419,8 +419,24 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Amor Viejo",
-        "url": "https://open.spotify.com/album/5X9lk7ihH8XySmuhGGXRUN"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
       "artists": [
         {
@@ -428,29 +444,9 @@
           "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 137496,
-      "name": "Amor Viejo",
-      "url": "https://open.spotify.com/track/3W5h65cRwTaZ1FCvEw6Ltx"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Ropa De Bazar",
-        "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Ropa De Bazar",
-      "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
+      "duration_ms": 251433,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -487,6 +483,26 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Ropa De Bazar",
+        "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "Ropa De Bazar",
+      "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "Mundo De Dos",
         "url": "https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C"
       },
@@ -499,54 +515,6 @@
       "duration_ms": 168125,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 251433,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 235306,
-      "name": "D\u00e9jenme Llorar",
-      "url": "https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Transiciones",
-        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "siempreestoypati",
-      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -583,18 +551,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Qui\u00e9reme As\u00ed",
-        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 188193,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
+      "duration_ms": 235306,
+      "name": "D\u00e9jenme Llorar",
+      "url": "https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -611,6 +579,22 @@
       "duration_ms": 196064,
       "name": "Mi Despedida",
       "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Qui\u00e9reme As\u00ed",
+        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188193,
+      "name": "Qui\u00e9reme As\u00ed",
+      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -643,6 +627,22 @@
       "duration_ms": 140929,
       "name": "Terraformar",
       "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Transiciones",
+        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "siempreestoypati",
+      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Fuentes de Ort\u00edz (Live session)",
-        "url": "https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Fuentes de Ort\u00edz (Live session)",
-      "url": "https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Sin Final Feliz",
         "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 192250,
       "name": "Ponte en Mi Lugar",
       "url": "https://open.spotify.com/track/55iIqtFbxy8mJEZC08B1wl"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Fuentes de Ort\u00edz (Live session)",
+        "url": "https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Fuentes de Ort\u00edz (Live session)",
+      "url": "https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "C\u00d3MO RESPIRAR???",
-        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "C\u00d3MO RESPIRAR???",
-      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Anhelos",
         "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 222474,
       "name": "Anhelos",
       "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "C\u00d3MO RESPIRAR???",
+        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "C\u00d3MO RESPIRAR???",
+      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 293098,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "c\u00f3mo acaba",
         "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
       },
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 293098,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
         "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
       },
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
       },
       "artists": [
         {
-          "name": "valeria d\u00e1vila",
-          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 214865,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "2 A.M.",
-        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Elefante Rosado",
-      "url": "https://open.spotify.com/track/0N4BGb7WrI2INcxrxRbnNG"
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
+      },
+      "artists": [
+        {
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+        }
+      ],
+      "duration_ms": 214865,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "Cada Vez M\u00e1s > :-(",
         "url": "https://open.spotify.com/album/5wfGJBe1sQ4XbuL2fs0tkz"
       },
@@ -1199,6 +1199,42 @@
       "duration_ms": 187666,
       "name": "Vete a la Chingada",
       "url": "https://open.spotify.com/track/2Eyhp0Y1c27MJPJNEVLs9n"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "2 A.M.",
+        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Elefante Rosado",
+      "url": "https://open.spotify.com/track/0N4BGb7WrI2INcxrxRbnNG"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1251,38 +1287,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -1315,18 +1319,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Ma\u00f1ana Te Escribo Otra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE"
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
       "artists": [
         {
-          "name": "Covi Quintana",
-          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 235320,
-      "name": "caf\u00e9 de las ocho",
-      "url": "https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8"
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-642 songs - 1 day 9 hr 57 min
+643 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Come With Me \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/track/2Iz6IShd0yHxPMkWXjLntB) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Come With Me \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/album/3k0qGUCZz7ZLTN9v5ninSt) | 2:59 | 2021-06-26 | 2021-10-08 |
 | [Confetti \(feat\. Saweetie\) \- Billen Ted Remix](https://open.spotify.com/track/35nPmgVHQJ6umD3BkDnf4O) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Confetti \(feat\. Saweetie\) \[Billen Ted Remix\]](https://open.spotify.com/album/7fxTomvwrFqXKeaArhDkLA) | 3:01 | 2021-05-15 | 2021-07-17 |
 | [Contact](https://open.spotify.com/track/3bRw4PNSq0kwDryyE9ON3d) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6mNXEOrhljPdrtS4aINMqH) | 4:00 | 2023-01-20 | 2023-03-18 |
-| [Contrast](https://open.spotify.com/track/5Zi2LEJaU81qjXBIPjB9Kf) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Extra Time](https://open.spotify.com/album/49qaWr7XitNvgKzobKGiGg) | 3:39 | 2023-02-03 |  |
+| [Contrast](https://open.spotify.com/track/5Zi2LEJaU81qjXBIPjB9Kf) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Extra Time](https://open.spotify.com/album/49qaWr7XitNvgKzobKGiGg) | 3:39 | 2023-02-03 | 2023-05-02 |
 | [Control Dem](https://open.spotify.com/track/7CJj238MecPG1II1UgO1OJ) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Control Dem](https://open.spotify.com/album/34pOYo2McKDiygDZgHoo6s) | 3:49 | 2022-06-24 | 2022-08-05 |
 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 | 2020-11-03\* | 2021-05-29 |
 | [Core \(That's Who We Are\)](https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Core \(That's Who We Are\)](https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5) | 2:58 | 2021-06-11 | 2021-07-24 |
@@ -230,6 +230,7 @@
 | [Ghost](https://open.spotify.com/track/7rcbmaPYR5F1P3MsH6tuMd) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Ghost](https://open.spotify.com/album/304KuKPW1G3RjomSy8FgGD) | 3:09 | 2021-07-17 | 2021-08-06 |
 | [GIRL LIKE ME \- twocolors remix](https://open.spotify.com/track/19tO5sNxHHJcX7CUPMVykl) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [GIRL LIKE ME \(twocolors remix\)](https://open.spotify.com/album/1UKrd1cduH9EIC89bDnXRM) | 3:01 | 2021-02-26 | 2021-04-17 |
 | [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 | 2022-12-16 | 2023-01-13 |
+| [Give Life Back to Music](https://open.spotify.com/track/10fbCavbRqZcQmZNIgK5Ti) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [GLBTM \(Studio Outtakes\)](https://open.spotify.com/album/1gDbMxDY14mf9OZzpQfON0) | 4:35 | 2023-05-01 |  |
 | [Glimmer](https://open.spotify.com/track/6mbaDSOA05Cy4txRRYuJqL) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4) | [Glimmer](https://open.spotify.com/album/4UQ7SYtwVP2TzxBbqHKfNz) | 3:16 | 2022-09-02 | 2022-11-11 |
 | [Go Crazy](https://open.spotify.com/track/16xwg9hnjqaKGmOSiE5JFV) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW), [KDDK](https://open.spotify.com/artist/1793RNBnWXkl6iRbT196Nk) | [Go Crazy](https://open.spotify.com/album/0AXEZvL5CvHgIbChzCmBVy) | 2:40 | 2021-12-16 | 2022-03-04 |
 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 | 2021-03-19 | 2021-06-05 |

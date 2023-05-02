@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,084 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,089 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 44 | [Me First](https://open.spotify.com/track/0LhgsQDr1TtG4e21NVn7tS) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:41 |
 | 45 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 |
 | 46 | [Look @ That \- Remix](https://open.spotify.com/track/6DsuRfvs19wzZ5Vp26mus1) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3) | 2:42 |
-| 47 | [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 |
-| 48 | [Hot Girl \(feat\. Kari Faux\)](https://open.spotify.com/track/1p2ZhlXPJ1CdEKEcl4naXs) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 2:42 |
+| 47 | [Hot Girl \(feat\. Kari Faux\)](https://open.spotify.com/track/1p2ZhlXPJ1CdEKEcl4naXs) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 2:42 |
+| 48 | [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 |
 | 49 | [Bad Lil Bish \(feat\. Baby Tate & Black Boe\)](https://open.spotify.com/track/6pZFQmfGK8NnU0xrvK42ng) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Black Boe](https://open.spotify.com/artist/0H6CjdCp9GMNoFgMVALJOk) | [Better Than Drugs](https://open.spotify.com/album/1Z7KnOiOsVLzW2qkgYatxY) | 3:09 |
 | 50 | [Let It Rain \(feat\. 6lack\)](https://open.spotify.com/track/59Vf2uyRLPrVqXkCKRhyjE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:06 |
-| 51 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
+| 51 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 |
 
-Snapshot ID: `MjgwNDc2MjMsMDAwMDAwMDBjNzE5NDI0ZGJkMjgwYjY3MzEwOTVlZDNkYjYxMGVlMg==`
+Snapshot ID: `MjgwNDkwMTUsMDAwMDAwMDAyNDYxZmEwYTM1Mzg0MmQ3ZDBhNjRhNTUwZDQzNjljMw==`

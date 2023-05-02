@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=uWmAS5RlRr6ZPrGWdhmvSg"> Stonebwoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,298 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,340 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 79 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 |
 | 80 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 |
 
-Snapshot ID: `MCxkY2U1Y2E5YmRjYTZjYTYzY2Q1ZDExMWQxOGRlNWVlZjhjZmJiYTc0`
+Snapshot ID: `MCwwMWMzOGE3OTVhNDMwMDBkMTQ5NmMwODI4YWIxMDQ1NDg0YzUwZTg0`

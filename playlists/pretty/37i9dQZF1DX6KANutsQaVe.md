@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,602 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,605 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 74 | [My Limitations](https://open.spotify.com/track/3jbBgWsDIvqYeF1Du6z6EE) | [The Zolas](https://open.spotify.com/artist/0BVWMc7JEHdh2Ku6xgKuYL) | [My Limitations](https://open.spotify.com/album/55P9us6DOduyACzkWhjMJk) | 3:01 |
 | 75 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 |
 
-Snapshot ID: `MCw0YWU1NmEwNzcyZmZlZGI2N2ViMTU3NTc5M2E5ZWVkNjI0OTVlYTEx`
+Snapshot ID: `MCw1ZGU1NWQ0NGVhYTFlNjM1MWUyNWNjOWQ4NTE1M2IwZTU4ODk4MmZi`

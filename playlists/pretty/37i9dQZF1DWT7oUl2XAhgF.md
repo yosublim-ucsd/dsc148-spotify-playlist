@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,868 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,979 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Lord Have Mercy](https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lord Have Mercy](https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF) | 4:01 |
 | 100 | [Better Than You](https://open.spotify.com/track/4oVDopGdLrWqBIpzpRhCqV) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Better Than You](https://open.spotify.com/album/6jzbKJUEQvyalgM0aZzfaH) | 3:14 |
 
-Snapshot ID: `MCxlZTVlZTU1ZTBkZmQwZWMzMDIzYWYwNjE2ODVkZDVmY2U2Njg1YWE3`
+Snapshot ID: `MCxmZmI0OGMxZDc1ZjZiZjZjNjUzZGIyZjE4MDFhNDdmNmNkOTAxYzQ4`

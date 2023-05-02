@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Yas Werneck",
-  "num_followers": 159751,
+  "num_followers": 159785,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGM2NjQxZDU0ZjkwNTFkNTFiMjIyMWYyOWY4ZTBmNDQ5NDdmY2M4",
+  "snapshot_id": "MCxiZTMwOGVjZjc2ZDBmZDQyMDQ3YmVhNDE1MDEyZDNlM2U0ZDJlNDI1",
   "tracks": [
     {
       "added_at": "2023-04-28 03:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Caos",
         "url": "https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 180000,
       "name": "Caos",
       "url": "https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -831,30 +831,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
       "artists": [
         {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+          "name": "T\u00e1llia",
+          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
         },
         {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        },
-        {
-          "name": "Wall Music",
-          "url": "https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI"
-        },
-        {
-          "name": "Briozzini",
-          "url": "https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj"
+          "name": "Klismman",
+          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
         }
       ],
-      "duration_ms": 204937,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+      "duration_ms": 151475,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -883,6 +875,34 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        },
+        {
+          "name": "Wall Music",
+          "url": "https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI"
+        },
+        {
+          "name": "Briozzini",
+          "url": "https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj"
+        }
+      ],
+      "duration_ms": 204937,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O"
       },
@@ -907,58 +927,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1llia",
-          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
-        },
-        {
-          "name": "Klismman",
-          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Marcas",
         "url": "https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh"
       },
@@ -979,6 +947,22 @@
       "duration_ms": 226206,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 205480,
       "name": "Real (Citando Djonga)",
       "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "1001 Motivos",
-        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Black",
-          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
-        }
-      ],
-      "duration_ms": 163201,
-      "name": "1001 Motivos",
-      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Mergulhei",
         "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 211524,
       "name": "Mergulhei",
       "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "1001 Motivos",
+        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "duration_ms": 163201,
+      "name": "1001 Motivos",
+      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
     },
     {
       "added_at": "2023-04-28 03:01:00",

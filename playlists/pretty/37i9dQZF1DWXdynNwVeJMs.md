@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: LũpḁGangGang
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,502 likes - 80 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,510 likes - 80 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 79 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 |
 | 80 | [Drops](https://open.spotify.com/track/3awFJqol6x36gdU7I0p8vw) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Maxime Delpierre](https://open.spotify.com/artist/7IHLrjSlSFup9A50WSJkRO) | [Drops & Points](https://open.spotify.com/album/2KKXVzr8i0J2oGKFMvKz60) | 5:33 |
 
-Snapshot ID: `MCwzMTM0YTNmNzA0NjkzNTY0NGIyYjNjMDI2MmE0MWE2MDY0YjZmMGZi`
+Snapshot ID: `MCxmYmNjZDExZTU3NTUxOTczNTQwMjFhNDg0ZjY3MGUyMmE4YzEyMjJh`

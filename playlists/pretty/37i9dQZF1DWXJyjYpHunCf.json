@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Brenn!",
-  "num_followers": 816869,
+  "num_followers": 817236,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWQ0Mjg4ZmIxOGZkNmViZGE4MDdjYjlkOGQ4M2ZiYTgzMGIxZDVi",
+  "snapshot_id": "MCxhOWNiNWRmZGI5ZGEzNjlmZmMzODIwMjExMWNkZTBjZDYzMzY0MzVh",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 136378,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Yellow Paper Daisy",
         "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 199772,
       "name": "Yellow Paper Daisy",
       "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 136378,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
+      },
+      "artists": [
+        {
+          "name": "Family and Friends",
+          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
+        }
+      ],
+      "duration_ms": 207519,
+      "name": "Amadeus",
+      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
-      },
-      "artists": [
-        {
-          "name": "Family and Friends",
-          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
-        }
-      ],
-      "duration_ms": 207519,
-      "name": "Amadeus",
-      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 217966,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Twin Forks",
         "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 170962,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 217966,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "If I Didn\u2019t Love You",
         "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
       },
@@ -1431,18 +1447,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+        "name": "Shrinking: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq"
       },
       "artists": [
         {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        },
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
         }
       ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+      "duration_ms": 147337,
+      "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
+      "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1483,22 +1503,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Shrinking: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq"
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
       "artists": [
         {
-          "name": "Benjamin Gibbard",
-          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
-        },
-        {
-          "name": "Tom Howe",
-          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 147337,
-      "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
-      "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1515,22 +1531,6 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Better When We're Falling Apart",
+      "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+        "name": "18",
+        "url": "https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 186826,
-      "name": "Better When We're Falling Apart",
-      "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
+      "duration_ms": 171157,
+      "name": "18",
+      "url": "https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1659,22 +1675,6 @@
       "duration_ms": 201253,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 211579,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
     }
   ],
   "unique_name": "Folk Pop",

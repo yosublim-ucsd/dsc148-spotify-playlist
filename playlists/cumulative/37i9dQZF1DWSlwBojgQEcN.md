@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-322 songs - 20 hr 13 min
+323 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Be Good Or Be Gone](https://open.spotify.com/track/25eTGO7LUbNk1N0FNXoaFH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End Of History](https://open.spotify.com/album/3AiBzMGzdk5QQWLWRhXUTz) | 3:19 | 2021-04-24 | 2021-05-28 |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-02-14 |  |
 | [Beyond](https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beyond](https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ) | 4:00 | 2019-09-29\* | 2022-07-29 |
+| [Big Love Ahead](https://open.spotify.com/track/3RGfmaB407YxayMDaV2jlO) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Big Love Ahead](https://open.spotify.com/album/0XT6wyN9L8cv0On0rOKNIb) | 1:48 | 2023-05-01 |  |
 | [Bittersweet](https://open.spotify.com/track/3NoD3W2dltcoGrCtfbmUeE) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Bittersweet](https://open.spotify.com/album/1WS08xYFGfoIMTEUOXJZnk) | 4:00 | 2020-06-12 | 2021-01-15 |
 | [Both Hands](https://open.spotify.com/track/3sQIESZGkkxYRn4NCq9B55) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0G6JEkNgzfTlve4XAiRlCk) | 3:35 | 2020-06-12 | 2021-10-16 |
 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 | 2022-02-14 |  |
@@ -250,7 +251,7 @@
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 | 2019-09-29\* | 2022-07-29 |
 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 | 2023-02-14 |  |
 | [Sudden Love \(Acoustic\)](https://open.spotify.com/track/4j1qgmRVqhFANilbZ70bft) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2jA6chvv51t3YxdJWsgxzu) | 3:02 | 2019-09-29\* | 2022-07-29 |
-| [Sudden Love \- Acoustic](https://open.spotify.com/track/0jzybKEorzfrq1zhu72lG0) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2vmKBrFef6FFwZtX1DBvcW) | 3:02 | 2022-02-14 |  |
+| [Sudden Love \- Acoustic](https://open.spotify.com/track/0jzybKEorzfrq1zhu72lG0) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2vmKBrFef6FFwZtX1DBvcW) | 3:02 | 2022-02-14 | 2023-05-02 |
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 | 2021-01-12 | 2023-02-15 |
 | [Sweet Hurt](https://open.spotify.com/track/2q3v8cuFmaaSFZPnXhgulP) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Sweet Hurt](https://open.spotify.com/album/18EcmYw6yTT0qFklLtELeu) | 3:24 | 2020-06-12 | 2021-10-14 |
 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 | 2019-09-29\* | 2023-03-26 |

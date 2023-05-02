@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – bästa och största hitsen just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,278 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,376 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
-| 2 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 |
-| 3 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
-| 4 | [Det Är Jag Inte Du](https://open.spotify.com/track/7LcRyueVx91UF5kfMeDsnt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Det Är Jag Inte Du](https://open.spotify.com/album/4zeo0umVdWldGkVvMiY9h7) | 2:21 |
-| 5 | [Fånga mig när jag faller](https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG) | 2:27 |
-| 6 | [Måndagsbarn \- Spotify Singles](https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Måndagsbarn \(Spotify Singles\)](https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC) | 3:00 |
-| 7 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
-| 8 | [Andas in andas ut](https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Andas in andas ut](https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen) | 2:36 |
-| 9 | [Genom eld \- Spotify Singles](https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Genom eld \(Spotify Singles\)](https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n) | 2:46 |
+| 1 | [Måndagsbarn \- Spotify Singles](https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Måndagsbarn \(Spotify Singles\)](https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC) | 3:00 |
+| 2 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
+| 3 | [Det Är Jag Inte Du](https://open.spotify.com/track/7LcRyueVx91UF5kfMeDsnt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Det Är Jag Inte Du](https://open.spotify.com/album/4zeo0umVdWldGkVvMiY9h7) | 2:21 |
+| 4 | [Fånga mig när jag faller](https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG) | 2:27 |
+| 5 | [Genom eld \- Spotify Singles](https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Genom eld \(Spotify Singles\)](https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n) | 2:46 |
+| 6 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
+| 7 | [Andas in andas ut](https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Andas in andas ut](https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen) | 2:36 |
+| 8 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
+| 9 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
 | 10 | [Lilla B](https://open.spotify.com/track/2c8wnqPxPUXtxNSJN9b4cS) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Lilla B](https://open.spotify.com/album/28MPRpCxLmy4OTCvvhFtAW) | 2:58 |
 | 11 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 12 | [Nej tack, det är bra!](https://open.spotify.com/track/3C23RjOroCMUmbdtmpSPX4) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [+3 bpm](https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq) | 2:15 |
 | 13 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
 | 14 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 |
 | 15 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 |
-| 16 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
+| 16 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 |
 | 17 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 |
 | 18 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
 | 19 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 50 | [Cocktails \(feat\. Asme\)](https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Cocktails \(feat\. Asme\)](https://open.spotify.com/album/0ZrYAHvPy0aTXpWhRN5es6) | 2:27 |
 | 51 | [Air](https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Air](https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy) | 2:52 |
 
-Snapshot ID: `MCw2MTBhYmUxZDQ3MzJhZDk1MzUzZmU4NGJmNWYzNDkwN2RhODk3MDVj`
+Snapshot ID: `MCw1ODg5YmU0OGY0NWI2ODk5ZTE2NTg1NjE0ZjU2ODY3Y2QyMzY4NDY4`

@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-325 songs - 20 hr 25 min
+326 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Love Me Do Again](https://open.spotify.com/track/0T4hPBqUrXIY3BGUh3sYgF) | [The Gluts](https://open.spotify.com/artist/13WOru4Cg1ZdszgnB1AU17) | [Love Me Do Again](https://open.spotify.com/album/4T4T30hUA1MfwaZiMaz1eM) | 3:34 | 2021-12-06 | 2022-07-19 |
 | [Lucky](https://open.spotify.com/track/4r7cKo2Lp5sD6VcK1Gu3r4) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Lucky](https://open.spotify.com/album/0ChQSvv5Af1BJhm8tQ7Aeu) | 2:33 | 2021-12-06 | 2022-07-23 |
 | [Lucky](https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ) | 2:33 | 2022-06-16 | 2023-04-29 |
+| [Lucky](https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX) | 2:33 | 2023-02-24 |  |
 | [Lucky Ones](https://open.spotify.com/track/6RFdhq5Eb0LvEuDAB71TZP) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [This Time Next Year \(Deluxe\)](https://open.spotify.com/album/6P3ZyijowPOvCE5EtTBHbW) | 3:07 | 2022-03-11 | 2022-04-21 |
 | [Machine](https://open.spotify.com/track/5UKFWucPL9JIiPv5oXd5Do) | [Primo!](https://open.spotify.com/artist/2vsgzWoIxqa2qjugu7a1jH) | [Sogni](https://open.spotify.com/album/6wjyemPyv0sq0KS5j64ltw) | 2:36 | 2021-12-06 | 2022-07-16 |
 | [Magic of Meghan](https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR) | 3:50 | 2023-02-24 |  |
@@ -264,7 +265,7 @@
 | [Solid State](https://open.spotify.com/track/20Aun7R1lVk1AmL3ibxScC) | [FRIGS](https://open.spotify.com/artist/7qnOIwmC4mBss5sA6y8jvi) | [Basic Behaviour](https://open.spotify.com/album/5yhJfm3NbkJggTi8xn9PIR) | 3:00 | 2021-12-06 | 2022-05-19 |
 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 | 2023-02-03 | 2023-04-20 |
 | [South](https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:54 | 2022-06-16 | 2023-02-02 |
-| [South](https://open.spotify.com/track/6eQ0yqG2lN2GK1xuf6qAZ9) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV) | 3:54 | 2023-02-24 |  |
+| [South](https://open.spotify.com/track/6eQ0yqG2lN2GK1xuf6qAZ9) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV) | 3:54 | 2023-02-24 | 2023-05-02 |
 | [South](https://open.spotify.com/track/7pMZ71tatoBEvhpM5ZaIS2) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [South](https://open.spotify.com/album/3Od0bk7TUgTbSdkA0K4axE) | 3:56 | 2021-12-06 | 2022-07-29 |
 | [Southbound Station](https://open.spotify.com/track/2XJRjW5xk9SluEBqsjuBK6) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Multi\-task](https://open.spotify.com/album/27YRAke3xHX3lAXtEWyS1Y) | 2:42 | 2021-12-06 | 2022-07-24 |
 | [Speed in My Coffee](https://open.spotify.com/track/1U3qPPRRM7Aof7w4KVzm4B) | [Fiendz YT](https://open.spotify.com/artist/13oT5nhGbDXOkAdWRbdnfE) | [Speed in My Coffee](https://open.spotify.com/album/56iGugw4udekZyS9h96bMf) | 3:26 | 2022-01-20 | 2022-07-16 |

@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 114984,
+  "num_followers": 115011,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE2ZTMyY2ZkYmFkY2M0NWNlYzY3YTI4OTQyMGQ1NWEzYzM3ZDY3",
+  "snapshot_id": "MCwzYzdlYzliNmQwM2M0ODQ5NjA3YWY2NzJlYWExMmUwMjE2NzM1ODcw",
   "tracks": [
     {
       "added_at": "2023-04-27 15:12:07",
@@ -579,22 +579,18 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 178274,
-      "name": "Fantasy (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -619,18 +615,22 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 175875,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+      "duration_ms": 178274,
+      "name": "Fantasy (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -791,6 +791,42 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "added_at": "2023-04-27 15:12:07",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/0MnfNB3z2eK1gPvk5QWNtB"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "duration_ms": 300124,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/39yw4rOahVl6Yg9lz7BN1F"
+    },
+    {
+      "added_at": "2023-04-27 15:12:07",
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -811,18 +847,18 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/0MnfNB3z2eK1gPvk5QWNtB"
+        "name": "This Conversation",
+        "url": "https://open.spotify.com/album/61NDFeLLqDQKjSLp8KnXZ4"
       },
       "artists": [
         {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+          "name": "Body of Light",
+          "url": "https://open.spotify.com/artist/4PR7TsQ2ZXxE9KaZ7NLSou"
         }
       ],
-      "duration_ms": 300124,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/39yw4rOahVl6Yg9lz7BN1F"
+      "duration_ms": 167180,
+      "name": "This Conversation",
+      "url": "https://open.spotify.com/track/2ygafa90f0JvCNhV9vihZI"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -847,42 +883,6 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2023-04-27 15:12:07",
-      "album": {
-        "name": "This Conversation",
-        "url": "https://open.spotify.com/album/61NDFeLLqDQKjSLp8KnXZ4"
-      },
-      "artists": [
-        {
-          "name": "Body of Light",
-          "url": "https://open.spotify.com/artist/4PR7TsQ2ZXxE9KaZ7NLSou"
-        }
-      ],
-      "duration_ms": 167180,
-      "name": "This Conversation",
-      "url": "https://open.spotify.com/track/2ygafa90f0JvCNhV9vihZI"
-    },
-    {
-      "added_at": "2023-04-27 15:12:07",
-      "album": {
-        "name": "No More Lies",
-        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 327217,
-      "name": "No More Lies",
-      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 247805,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg"
-    },
-    {
-      "added_at": "2023-04-27 15:12:07",
-      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 151301,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
+    },
+    {
+      "added_at": "2023-04-27 15:12:07",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 247805,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
-        "name": "Better Love",
-        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Better Love",
-      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
-    },
-    {
-      "added_at": "2023-04-27 15:12:07",
-      "album": {
         "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
         "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+    },
+    {
+      "added_at": "2023-04-27 15:12:07",
+      "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
-        "name": "Pearls",
-        "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
-    },
-    {
-      "added_at": "2023-04-27 15:12:07",
-      "album": {
         "name": "- Ugh, those feels again",
         "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 206465,
       "name": "Find Someone Like You",
       "url": "https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o"
+    },
+    {
+      "added_at": "2023-04-27 15:12:07",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -1567,22 +1567,6 @@
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
-    },
-    {
-      "added_at": "2023-04-27 15:12:07",
-      "album": {
-        "name": "The Sun Is Up Forever",
-        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "The Sun Is Up Forever",
-      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+    },
+    {
+      "added_at": "2023-04-27 15:12:07",
+      "album": {
         "name": "move",
         "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
       },
@@ -1659,8 +1659,8 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
-        "name": "Two Sides (I\u2019m So Gemini)",
-        "url": "https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp"
+        "name": "You Never Visit Me",
+        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
       },
       "artists": [
         {
@@ -1668,9 +1668,29 @@
           "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 126625,
-      "name": "Two Sides (I\u2019m So Gemini) - Single Version",
-      "url": "https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q"
+      "duration_ms": 230906,
+      "name": "You Never Visit Me - Single Version",
+      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
+    },
+    {
+      "added_at": "2023-04-27 15:12:07",
+      "album": {
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -1695,26 +1715,6 @@
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
-    },
-    {
-      "added_at": "2023-04-27 15:12:07",
-      "album": {
-        "name": "CooCool",
-        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
     },
     {
       "added_at": "2023-04-27 15:12:07",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-04-27 15:12:07",
       "album": {
-        "name": "You Never Visit Me",
-        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "You Never Visit Me - Single Version",
-      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
-    },
-    {
-      "added_at": "2023-04-27 15:12:07",
-      "album": {
         "name": "Impurities",
         "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 221920,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/4Z27gYTMJnvrRpovGSDbbo"
+    },
+    {
+      "added_at": "2023-04-27 15:12:07",
+      "album": {
+        "name": "Two Sides (I\u2019m So Gemini)",
+        "url": "https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 126625,
+      "name": "Two Sides (I\u2019m So Gemini) - Single Version",
+      "url": "https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q"
     },
     {
       "added_at": "2023-04-27 15:12:07",

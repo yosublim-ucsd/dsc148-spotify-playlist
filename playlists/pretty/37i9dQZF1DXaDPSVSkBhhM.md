@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,508 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,528 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,17 +18,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 8 | [Yonaguni](https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 3:13 |
 | 9 | [Ella Miente](https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N) | [Ella Miente](https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6) | 2:19 |
 | 10 | [Otra Vez](https://open.spotify.com/track/1QUuM84MAXja1Nva7RezdD) | [Will of One](https://open.spotify.com/artist/1IRaphz10w9gPlxfimO3Np), [Mariana Sandoval](https://open.spotify.com/artist/4NdwM3glsAV3bnntvxrQ8k) | [Otra Vez](https://open.spotify.com/album/2g4kMXrBHL8NrtDe4mi9O5) | 4:01 |
-| 11 | [Más de Lo Que Te Imaginas](https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Delux](https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl) | 2:48 |
-| 12 | [Eso Es Todo Lo Que Soy](https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Historias De La Calle](https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w) | 3:30 |
+| 11 | [Eso Es Todo Lo Que Soy](https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Historias De La Calle](https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w) | 3:30 |
+| 12 | [Más de Lo Que Te Imaginas](https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Delux](https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl) | 2:48 |
 | 13 | [3 de Noviembre \(No Me Agüito\)](https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Me Pongo Hasta la Madre Porque Estoy Hasta la Madre](https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu) | 3:03 |
 | 14 | [Cien Inviernos](https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Monumentos](https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK) | 3:07 |
 | 15 | [LilPeep69Minion420](https://open.spotify.com/track/24SAYRe4xqyhZrYgnVfFYU) | [Meeky](https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5) | [Experiencia Miguel](https://open.spotify.com/album/4LFw2Xc55QxecgpHzNIwWE) | 2:36 |
-| 16 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 |
-| 17 | [Vamos Otra Vez](https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [120 Km/Hr.](https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM) | 3:41 |
-| 18 | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG) | [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob) | 3:43 |
-| 19 | [Cc \(Como Compas\)](https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O) | [Mi Mascota Leila](https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge) | [Jäula](https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE) | 3:46 |
-| 20 | [Dicen Que Estoy Muerto](https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh) | [Tungas](https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM) | [Vamos Perdiendo el Corazón](https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn) | 4:01 |
-| 21 | [Apariencia](https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Corazón D' Roto](https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC) | 3:37 |
+| 16 | [Apariencia](https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Corazón D' Roto](https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC) | 3:37 |
+| 17 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 |
+| 18 | [Vamos Otra Vez](https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [120 Km/Hr.](https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM) | 3:41 |
+| 19 | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG) | [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob) | 3:43 |
+| 20 | [Cc \(Como Compas\)](https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O) | [Mi Mascota Leila](https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge) | [Jäula](https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE) | 3:46 |
+| 21 | [Dicen Que Estoy Muerto](https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh) | [Tungas](https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM) | [Vamos Perdiendo el Corazón](https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn) | 4:01 |
 | 22 | [Desamorados](https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx) | [Hey Bésala](https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh) | [Volumen 2](https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN) | 3:44 |
 | 23 | [Quemando Cartas](https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:05 |
 | 24 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 34 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
 | 35 | [Cometas](https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Cometas](https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li) | 3:03 |
 | 36 | [Llévate Todo](https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Volver a Empezar](https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel) | 3:29 |
-| 37 | [AMSIEDAD](https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ) | [Ningun Artista](https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV) | [S.C.E.N.A.](https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9) | 3:40 |
-| 38 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 |
+| 37 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 |
+| 38 | [AMSIEDAD](https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ) | [Ningun Artista](https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV) | [S.C.E.N.A.](https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9) | 3:40 |
 | 39 | [Cereal](https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Cereal](https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL) | 2:41 |
 | 40 | [Humanos Como Tú](https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Humanos Como Tú](https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY) | 3:48 |
 | 41 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [No Hay Final Feliz](https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r) | [Cuatro y Medio](https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC) | [No Hay Final Feliz](https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea) | 3:38 |
 | 50 | [tú + yo](https://open.spotify.com/track/4lPCAX8wRQKNzHTiXnZUjb) | [Marc!](https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF) | [tú + yo](https://open.spotify.com/album/4lNSJb1LqQ85MPDX0NV4Us) | 3:32 |
 
-Snapshot ID: `MCw3ZTM5NzY4MjE1N2VhODc4OTViYzlkNzI4ODFhYjNkMzMyYjJhYjE1`
+Snapshot ID: `MCxjZDgwNzU5NjgyOWI4NzA4MTBhZTBjOWJhOTM4MjQ4YzIwYmEyNzM1`

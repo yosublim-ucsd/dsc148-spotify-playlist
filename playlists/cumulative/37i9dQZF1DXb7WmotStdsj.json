@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 302307,
       "name": "Amour \u00e9ternel",
       "url": "https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK"
@@ -855,6 +855,28 @@
     },
     {
       "album": {
+        "name": "Fal Moujtama3 Ghir Dahiya",
+        "url": "https://open.spotify.com/album/6GSFQJUp2IvC2z2aMQoDlz"
+      },
+      "artists": [
+        {
+          "name": "Kader Tirigou",
+          "url": "https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs"
+        },
+        {
+          "name": "Abderrahmane Piti",
+          "url": "https://open.spotify.com/artist/0hcxeVxZkWcHMlt0oJw9qY"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Fal Moujtama3 Ghir Dahiya",
+      "url": "https://open.spotify.com/track/0ASqhlxw7xAYrYu5XPNuQ4"
+    },
+    {
+      "album": {
         "name": "Fi Hawmtek Tayah",
         "url": "https://open.spotify.com/album/1cmcB8p4CvvbbDJR8rrpfY"
       },
@@ -932,6 +954,28 @@
       "duration_ms": 307524,
       "name": "Galbi 3lik Nberdah",
       "url": "https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop"
+    },
+    {
+      "album": {
+        "name": "Galbi Datah",
+        "url": "https://open.spotify.com/album/6u1mr4vKlPuFnAzUnWpUR8"
+      },
+      "artists": [
+        {
+          "name": "Cheb Reda",
+          "url": "https://open.spotify.com/artist/4Dv4xd6O64eglhzxOCQDcb"
+        },
+        {
+          "name": "Amine La Colombe",
+          "url": "https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276620,
+      "name": "Galbi Datah",
+      "url": "https://open.spotify.com/track/5JsvWH6RGUJB6534yHu6h1"
     },
     {
       "album": {
@@ -1994,7 +2038,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 222786,
       "name": "Matebkich & Madanit Netfarko",
       "url": "https://open.spotify.com/track/4dTKDe11H4a3yZrcZvnjWI"

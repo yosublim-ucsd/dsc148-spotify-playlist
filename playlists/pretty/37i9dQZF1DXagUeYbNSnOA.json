@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring La Cassandra. Updates every Wednesday.",
-  "num_followers": 169719,
+  "num_followers": 169725,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTIwNWNkNGQzYzNiODBlNWUzODJiNjVlMzE3OGFjYzhmM2U4MDAw",
+  "snapshot_id": "MCwwOGE1MDViZTRmODY5NjE4N2QwZmU5NGMzZDVhMmJhMmFhMTgzOWM2",
   "tracks": [
     {
       "added_at": "2023-04-26 15:38:42",
@@ -155,22 +155,18 @@
     {
       "added_at": "2023-04-26 15:38:42",
       "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a"
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/0y0ZkDK6vDRpeA1HtrS6i9"
       },
       "artists": [
         {
-          "name": "Nikky Bourbon",
-          "url": "https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL"
-        },
-        {
-          "name": "Stylolive",
-          "url": "https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ"
+          "name": "Juliana Qu\u00e9date Otro Dia",
+          "url": "https://open.spotify.com/artist/2m6iAL3gp5mysPREyfZTrR"
         }
       ],
-      "duration_ms": 195048,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4"
+      "duration_ms": 159671,
+      "name": "Los Amigos",
+      "url": "https://open.spotify.com/track/1xWAFAA90hdcdPfi2VrTKT"
     },
     {
       "added_at": "2023-04-26 15:38:42",
@@ -193,20 +189,24 @@
       "url": "https://open.spotify.com/track/3LgRKLoX60g83BxiBdH0Ol"
     },
     {
-      "added_at": "2023-04-19 18:00:00",
+      "added_at": "2023-04-26 15:38:42",
       "album": {
-        "name": "No Apagues La Luna",
-        "url": "https://open.spotify.com/album/5tqThs118a8zjn8QykcbSU"
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a"
       },
       "artists": [
         {
-          "name": "Pao Pestana",
-          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
+          "name": "Nikky Bourbon",
+          "url": "https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL"
+        },
+        {
+          "name": "Stylolive",
+          "url": "https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ"
         }
       ],
-      "duration_ms": 266362,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/0TxgAddwzHCBAXe2ZKjz8W"
+      "duration_ms": 195048,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4"
     },
     {
       "added_at": "2023-04-26 15:38:42",
@@ -229,20 +229,20 @@
       "url": "https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE"
     },
     {
-      "added_at": "2023-04-26 15:38:42",
+      "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/0y0ZkDK6vDRpeA1HtrS6i9"
+        "name": "No Apagues La Luna",
+        "url": "https://open.spotify.com/album/5tqThs118a8zjn8QykcbSU"
       },
       "artists": [
         {
-          "name": "Juliana Qu\u00e9date Otro Dia",
-          "url": "https://open.spotify.com/artist/2m6iAL3gp5mysPREyfZTrR"
+          "name": "Pao Pestana",
+          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
         }
       ],
-      "duration_ms": 159671,
-      "name": "Los Amigos",
-      "url": "https://open.spotify.com/track/1xWAFAA90hdcdPfi2VrTKT"
+      "duration_ms": 266362,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/0TxgAddwzHCBAXe2ZKjz8W"
     },
     {
       "added_at": "2023-04-26 15:38:42",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
+        "name": "Viajes",
+        "url": "https://open.spotify.com/album/427VteQWWdzaPn0MvBT4kc"
+      },
+      "artists": [
+        {
+          "name": "Sweet Honesty",
+          "url": "https://open.spotify.com/artist/0u8uFvusH51hxqYVnRT3gl"
+        }
+      ],
+      "duration_ms": 144557,
+      "name": "Viajes",
+      "url": "https://open.spotify.com/track/6XaQLfoH2ux5QUChQyYZrh"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
         "name": "Tuya",
         "url": "https://open.spotify.com/album/0xoaHBfzWupVVsW1mG6nqu"
       },
@@ -519,6 +535,22 @@
       "duration_ms": 216409,
       "name": "Tuya",
       "url": "https://open.spotify.com/track/4QzQALrqr9cLdmT75FThbW"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
+        "name": "Luces de tu Voz",
+        "url": "https://open.spotify.com/album/0wKl12XUUrs635EfzQRm7O"
+      },
+      "artists": [
+        {
+          "name": "Shortlive",
+          "url": "https://open.spotify.com/artist/4UlEI2cgS3UVJwAdh3ZBPf"
+        }
+      ],
+      "duration_ms": 202216,
+      "name": "Luces de tu Voz",
+      "url": "https://open.spotify.com/track/5eGM1tVC9KclMgnD7rcb1v"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -551,38 +583,6 @@
       "duration_ms": 205351,
       "name": "romance 2009",
       "url": "https://open.spotify.com/track/2dlzU9pSpChjyIshfuNwet"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
-        "name": "Luces de tu Voz",
-        "url": "https://open.spotify.com/album/0wKl12XUUrs635EfzQRm7O"
-      },
-      "artists": [
-        {
-          "name": "Shortlive",
-          "url": "https://open.spotify.com/artist/4UlEI2cgS3UVJwAdh3ZBPf"
-        }
-      ],
-      "duration_ms": 202216,
-      "name": "Luces de tu Voz",
-      "url": "https://open.spotify.com/track/5eGM1tVC9KclMgnD7rcb1v"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
-        "name": "Viajes",
-        "url": "https://open.spotify.com/album/427VteQWWdzaPn0MvBT4kc"
-      },
-      "artists": [
-        {
-          "name": "Sweet Honesty",
-          "url": "https://open.spotify.com/artist/0u8uFvusH51hxqYVnRT3gl"
-        }
-      ],
-      "duration_ms": 144557,
-      "name": "Viajes",
-      "url": "https://open.spotify.com/track/6XaQLfoH2ux5QUChQyYZrh"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "Caminante",
-        "url": "https://open.spotify.com/album/4ykMFTKG5rFD9YyphiQRyW"
-      },
-      "artists": [
-        {
-          "name": "Chichafria",
-          "url": "https://open.spotify.com/artist/5n6ruKJ5yG2rFSJTZwTyA8"
-        }
-      ],
-      "duration_ms": 405250,
-      "name": "Trif\u00e1sico",
-      "url": "https://open.spotify.com/track/6yskAtBgkjXrGU2ui4Bzsr"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
         "name": "El Ruido",
         "url": "https://open.spotify.com/album/65t3KHlWmwMMBvmOiMMai8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 308024,
       "name": "El Ruido",
       "url": "https://open.spotify.com/track/1LOTIjL9i9kXhcMhJDNUCQ"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
+        "name": "Caminante",
+        "url": "https://open.spotify.com/album/4ykMFTKG5rFD9YyphiQRyW"
+      },
+      "artists": [
+        {
+          "name": "Chichafria",
+          "url": "https://open.spotify.com/artist/5n6ruKJ5yG2rFSJTZwTyA8"
+        }
+      ],
+      "duration_ms": 405250,
+      "name": "Trif\u00e1sico",
+      "url": "https://open.spotify.com/track/6yskAtBgkjXrGU2ui4Bzsr"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/1LxixKqXcYzSBbdRiJFohR"
     },
     {
-      "added_at": "2023-04-26 15:38:42",
-      "album": {
-        "name": "Noche de Ronda",
-        "url": "https://open.spotify.com/album/2W4eAl6o6AQ7MilPDHnXYf"
-      },
-      "artists": [
-        {
-          "name": "Thony Neal",
-          "url": "https://open.spotify.com/artist/01WRnfupxbgWvuWI56UebR"
-        }
-      ],
-      "duration_ms": 209384,
-      "name": "Noche de Ronda",
-      "url": "https://open.spotify.com/track/74XndrGyo2DYbDwaWjmZo7"
-    },
-    {
       "added_at": "2023-04-19 18:00:00",
       "album": {
         "name": "Broken",
@@ -735,6 +719,22 @@
       "duration_ms": 163124,
       "name": "Broken",
       "url": "https://open.spotify.com/track/3jK2YFWNGYLxhftEc8cir5"
+    },
+    {
+      "added_at": "2023-04-26 15:38:42",
+      "album": {
+        "name": "Noche de Ronda",
+        "url": "https://open.spotify.com/album/2W4eAl6o6AQ7MilPDHnXYf"
+      },
+      "artists": [
+        {
+          "name": "Thony Neal",
+          "url": "https://open.spotify.com/artist/01WRnfupxbgWvuWI56UebR"
+        }
+      ],
+      "duration_ms": 209384,
+      "name": "Noche de Ronda",
+      "url": "https://open.spotify.com/track/74XndrGyo2DYbDwaWjmZo7"
     },
     {
       "added_at": "2023-04-19 18:00:00",

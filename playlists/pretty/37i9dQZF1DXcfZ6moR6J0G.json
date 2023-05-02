@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1650959,
+  "num_followers": 1652003,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWNkYTM3ODkwNjBkY2QwMTdkYWRjNjEyYWE2MjE0YzM0NThjOGNj",
+  "snapshot_id": "MCxlYzI0YzUwZmUzZDhhNjZmYmZlYWI3MDhjYmE5ZDZlZjU2MWJlZGFh",
   "tracks": [
     {
       "added_at": "2023-02-27 22:20:42",
@@ -331,8 +331,8 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
       "artists": [
         {
@@ -340,25 +340,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 216880,
-      "name": "In the End",
-      "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
+      "duration_ms": 185586,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -407,6 +391,22 @@
       "duration_ms": 252613,
       "name": "Duality",
       "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 185586,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+      "duration_ms": 216880,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Trapt",
-        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
       "artists": [
         {
-          "name": "Trapt",
-          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 285569,
-      "name": "Headstrong",
-      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -555,18 +555,34 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+        "name": "Trapt",
+        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Trapt",
+          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
         }
       ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+      "duration_ms": 285569,
+      "name": "Headstrong",
+      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Nookie",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Every Six Seconds",
-        "url": "https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe"
-      },
-      "artists": [
-        {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Click Click Boom",
-      "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
+        "name": "Every Six Seconds",
+        "url": "https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Click Click Boom",
+      "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -647,38 +663,6 @@
       "duration_ms": 223893,
       "name": "7 Words",
       "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Nookie",
-      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -715,6 +699,38 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
         "name": "Satellite (U.S. Version)",
         "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 186066,
       "name": "Die MF Die",
       "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -811,8 +827,8 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
       "artists": [
         {
@@ -820,9 +836,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 221000,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -955,18 +971,18 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         }
       ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+      "duration_ms": 206200,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -983,22 +999,6 @@
       "duration_ms": 191373,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/76xddM2irVQCbuBoVbaElZ"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
     },
     {
       "added_at": "2023-02-27 22:20:42",

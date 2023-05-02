@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-209 songs - 13 hr 1 min
+212 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Blackstrap](https://open.spotify.com/track/0uPk8BMGZIRNzrsFER80l8) | [The Besnard Lakes](https://open.spotify.com/artist/2hMif9QK1Knz7gD5XIUsER) | [The Besnard Lakes Are The Last Of The Great Thunderstom Warnings](https://open.spotify.com/album/5rGiRjTQSLOEpwLuvoepg7) | 6:35 | 2022-09-13 |  |
 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 | 2023-04-07 | 2023-04-19 |
 | [Blue](https://open.spotify.com/track/6lp6YWBzpPj1oaGZiTD5x2) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Miles](https://open.spotify.com/album/7J3XAN9vV4smAoiz1TQwHB) | 2:18 | 2022-01-13 |  |
+| [Body](https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:07 | 2023-04-30 |  |
 | [Born](https://open.spotify.com/track/0BiEG7SI1LyBjwKJIjew4q) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Reptilians](https://open.spotify.com/album/5pfqk4oFycMVynOD8S2Cqs) | 3:23 | 2022-12-18 |  |
 | [BUSY / SIRENS](https://open.spotify.com/track/4YdRnTnXYwgI48kkzWy6uk) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [CARE FOR ME](https://open.spotify.com/album/6Te111t5gDZ7W94myHRqUt) | 5:29 | 2023-01-13 |  |
 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/51pAliCZ3Mm7jiqgk12O5R) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Remastered\)](https://open.spotify.com/album/5VknaZWiywvQJMpPOfB6tA) | 4:16 | 2022-05-18 |  |
@@ -119,6 +120,7 @@
 | [LMPD](https://open.spotify.com/track/0HFQJcLpqVWhBYzdUZC5xd) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Stillness in Wonderland](https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer) | 4:03 | 2022-12-15 |  |
 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 | 2022-04-21 |  |
 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 | 2022-08-11 |  |
+| [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 | 2023-04-30 |  |
 | [Margaret vs\. Pauline](https://open.spotify.com/track/7zp9Uj66my5wUpdH1FTfy9) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 2:52 | 2023-02-21 |  |
 | [Mean Street \- 2015 Remaster](https://open.spotify.com/track/1eGSgC6ZhJ8D4nrZZ83LyA) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Fair Warning \(Remastered\)](https://open.spotify.com/album/4KlqAmR1tA1dERWo7MHhzO) | 5:00 | 2022-12-27 |  |
 | [Medusa](https://open.spotify.com/track/3ei0xxgl2QNKR41fKWfTMN) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Sterling Toles](https://open.spotify.com/artist/0WdhLYtPH99bhAmqPLndhO) | [Manger on McNichols](https://open.spotify.com/album/0ZUtBUG7Ya4y0p8qSYlPFj) | 3:26 | 2023-01-13 |  |
@@ -200,6 +202,7 @@
 | [There's a Rugged Road \- Remastered](https://open.spotify.com/track/5rIjJkNIY3sRtjPJVOctRE) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Heart Food](https://open.spotify.com/album/40epQ5uLIK1k7mGL0ESpUn) | 3:44 | 2022-12-17 | 2023-04-20 |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-03-11 |  |
 | [thousand eyes](https://open.spotify.com/track/1xsb4ZIwzSi5dacBz9oMdA) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 5:00 | 2022-01-19 |  |
+| [Time Back](https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 2:11 | 2023-04-30 |  |
 | [Time Travelin' \(A Tribute To Fela\)](https://open.spotify.com/track/2AaB2ZDeJXu6j4Csos4gZH) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 6:37 | 2022-01-06 |  |
 | [Turkish Cotton](https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:46 | 2023-04-25 |  |
 | [Under The Pressure](https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 8:52 | 2022-01-11 |  |

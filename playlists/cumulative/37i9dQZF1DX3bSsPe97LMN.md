@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Franco Rey en portada.
 
-287 songs - 14 hr 58 min
+288 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [la del rencoroso](https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la del rencoroso](https://open.spotify.com/album/0lonH1EHVMwAJghZUHxnxX) | 2:12 | 2022-09-30 | 2022-12-24 |
 | [La Negra](https://open.spotify.com/track/2TNjM6ceY3RaA5u2kDSI8Y) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Dani Tapia](https://open.spotify.com/artist/0ODccomcktwx3B6hJVAF1C) | [La Negra](https://open.spotify.com/album/3Zh9RTB7X8uUsPGiUHWI7u) | 3:34 | 2022-04-01 | 2022-08-06 |
 | [La Octava Maravilla \- En Vivo](https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH) | [En Vivo](https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1) | 3:53 | 2022-12-23 |  |
+| [La Ultima Sombra \(En Vivo\)](https://open.spotify.com/track/3KgfP8YkvF2znrBPelYTJ7) | [Javier Olguin](https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt) | [Los Comienzos \(En Vivo\)](https://open.spotify.com/album/6Q3Z3Jw6XI5w0ki6hceiS7) | 4:24 | 2023-04-28 |  |
 | [La Vida Es Bella](https://open.spotify.com/track/0E3tJRyG1FMEMFSovJEMUe) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH), [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [La Vida Es Bella](https://open.spotify.com/album/3X2lM2vUzWvCb4OjFiFN4u) | 2:54 | 2023-02-24 |  |
 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-17 | 2022-09-24 |
 | [Lo Siento Mi Amor](https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Una Copa Por Cada Reina](https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0) | 3:46 | 2022-12-09 | 2023-04-15 |
@@ -227,7 +228,7 @@
 | [Quedate](https://open.spotify.com/track/0vGh3sL5U8JMl0LBAU2JAo) | [Konzentido de Afid Ferrer](https://open.spotify.com/artist/7FONGfnHl6HPvHaJAik9yp) | [Quedate](https://open.spotify.com/album/2JdkZ3WmXOngJih4zluAdm) | 3:30 | 2023-04-28 |  |
 | [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 | 2022-09-23 | 2022-12-10 |
 | [Quién Como Ella](https://open.spotify.com/track/34IPKpDvkxraMK2roBo2O7) | [Elebier Lopez](https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r) | [Quién Como Ella](https://open.spotify.com/album/4dpn4WmpnHdo68TfbZaQsA) | 1:59 | 2022-09-30 | 2022-12-10 |
-| [Quién Te Entiende \- En Vivo](https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quién Te Entiende \(En Vivo\)](https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8) | 3:13 | 2023-01-13 |  |
+| [Quién Te Entiende \- En Vivo](https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quién Te Entiende \(En Vivo\)](https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8) | 3:13 | 2023-01-13 | 2023-05-02 |
 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 | 2022-06-17 | 2022-09-24 |
 | [Refuego por Culiacan](https://open.spotify.com/track/5KvVBN8WLI8RRy4iryZnMg) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Refuego por Culiacan](https://open.spotify.com/album/3E0kYtbOyjAPPaSK5G2pY5) | 3:30 | 2022-12-23 | 2023-04-15 |
 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-09-16 | 2022-12-10 |

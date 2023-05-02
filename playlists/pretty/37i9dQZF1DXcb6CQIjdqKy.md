@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  <a href="https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97?si=ce4e89d71a0e4849">Ryan Stevenson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,382 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,629 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Never Walk Alone \- Live At Team Night](https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Team Night \(Live\)](https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO) | 4:33 |
 | 100 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 |
 
-Snapshot ID: `MCwyMjBiNmZiNWE4ZDA4OWQzZWRmMmE1YTVmZGI0OWU0MDc3ODNlYjI0`
+Snapshot ID: `MCw1MzdlZmNmNWYwNmNlMzFiMDhiYTlhZTg5ZTMxY2MzMjIzNzk3MjUw`

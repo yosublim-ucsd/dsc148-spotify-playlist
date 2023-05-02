@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 213556,
       "name": "A Good Love, Pt. 2",
       "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
@@ -3002,6 +3002,24 @@
       "duration_ms": 202706,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4HoL1fewA33MBWjTWikc5D"
+    },
+    {
+      "album": {
+        "name": "Hopelessly",
+        "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180013,
+      "name": "Hopelessly",
+      "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
     },
     {
       "album": {

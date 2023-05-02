@@ -1,12 +1,12 @@
 {
   "description": "soundtracking your ex calling/nothing's working/existential crisis",
-  "num_followers": 56020,
+  "num_followers": 56279,
   "original_name": "mercury in retrograde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzI2MTQ3OWFkYWRjMjkyNTM5NmJhNDg5ODBjZTJlMGI1YmRlZDhh",
+  "snapshot_id": "MCw3MWEwYTE3YzU5NzJmZDhmZmJlY2Y3NGU0ZTUyNmZkYzE4ODdjM2Nh",
   "tracks": [
     {
       "added_at": "2023-04-28 01:40:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
-    },
-    {
-      "added_at": "2023-04-28 01:40:53",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 230010,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS"
+    },
+    {
+      "added_at": "2023-04-28 01:40:53",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 363240,
-      "name": "New Person, Same Old Mistakes",
-      "url": "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"
-    },
-    {
-      "added_at": "2023-04-28 01:40:53",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
+      "duration_ms": 363240,
+      "name": "New Person, Same Old Mistakes",
+      "url": "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -439,6 +423,22 @@
       "duration_ms": 223346,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
+    },
+    {
+      "added_at": "2023-04-28 01:40:53",
+      "album": {
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 291796,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
+    },
+    {
+      "added_at": "2023-04-28 01:40:53",
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 291796,
-      "name": "i love you",
-      "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
-    },
-    {
-      "added_at": "2023-04-28 01:40:53",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 345133,
       "name": "Self Care",
       "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
+    },
+    {
+      "added_at": "2023-04-28 01:40:53",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -639,8 +655,24 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 272485,
+      "name": "Happiness is a butterfly",
+      "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
+    },
+    {
+      "added_at": "2023-04-28 01:40:53",
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
       "artists": [
         {
@@ -648,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -667,22 +699,6 @@
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
-    },
-    {
-      "added_at": "2023-04-28 01:40:53",
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 272485,
-      "name": "Happiness is a butterfly",
-      "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
-    },
-    {
-      "added_at": "2023-04-28 01:40:53",
-      "album": {
         "name": "WHERE DOES YOUR SPIRIT GO?",
         "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 201183,
       "name": "WHERE DOES YOUR SPIRIT GO?",
       "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
+    },
+    {
+      "added_at": "2023-04-28 01:40:53",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 249667,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -879,22 +895,6 @@
       "duration_ms": 182678,
       "name": "like i need u",
       "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
-    },
-    {
-      "added_at": "2023-04-28 01:40:53",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249667,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -1073,6 +1073,38 @@
       "url": "https://open.spotify.com/track/1MONUudxAjEk76FJvzGhuD"
     },
     {
+      "added_at": "2023-04-28 01:45:00",
+      "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "added_at": "2023-04-28 01:40:53",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 256688,
+      "name": "Be My Mistake",
+      "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
+    },
+    {
       "added_at": "2023-04-28 01:40:53",
       "album": {
         "name": "closer to closure",
@@ -1091,18 +1123,18 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 256688,
-      "name": "Be My Mistake",
-      "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -1155,22 +1187,6 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
-    },
-    {
-      "added_at": "2023-04-28 01:40:53",
-      "album": {
         "name": "We'll Never Have Sex",
         "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 235225,
       "name": "affection",
       "url": "https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9"
-    },
-    {
-      "added_at": "2023-04-28 01:40:53",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Been Like This",
-      "url": "https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih"
     },
     {
       "added_at": "2023-04-28 01:40:53",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-04-28 01:40:53",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Been Like This",
+      "url": "https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih"
+    },
+    {
+      "added_at": "2023-04-28 01:40:53",
+      "album": {
         "name": "Surrender (2014 - 2017)",
         "url": "https://open.spotify.com/album/78RlalVILUrWdkRSHiNT2z"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 112863,
       "name": "Sleep Thru Ur Alarms",
       "url": "https://open.spotify.com/track/3Mmt4wAMtWRmObAxbejpPe"
-    },
-    {
-      "added_at": "2023-04-28 01:45:00",
-      "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
     },
     {
       "added_at": "2023-04-28 01:40:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,062 likes - 54 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,076 likes - 54 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 53 | [Old Skool](https://open.spotify.com/track/4V9rQZOGILc4YfBnCDXgTz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Old Skool](https://open.spotify.com/album/357wf3qJ5AukE3IfN4e1Am) | 4:13 |
 | 54 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 |
 
-Snapshot ID: `MCxkMDdiMzljOWMyMWE1YjViMTA0MGI1ZDMxYzc4OTgzYzk0ZGFkNGFi`
+Snapshot ID: `MCwyYTVlM2UxMTU5NjFiZWQ5ZTJiYzZkYzFlNmY4YTEwN2RlZDk0NmY2`

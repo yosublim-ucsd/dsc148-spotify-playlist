@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,168 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,174 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 79 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 |
 | 80 | [Ring Ring Ring](https://open.spotify.com/track/2m1rSnIazzgbksxAiS4gpk) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Ring Ring Ring](https://open.spotify.com/album/7IZrlKiOYoJrvn6xF2ZZFd) | 5:47 |
 
-Snapshot ID: `MCw3MTk5NDRlMzJmMTkzNjY2NGY1ZDNmMDQ3Yjc5YWU5MDBjMzYwNWEw`
+Snapshot ID: `MCw5ZmFmYTgwMjI5OTE1NDNiM2JjNjc2N2NhMDc5NGE5MWRlYmM1MjJi`

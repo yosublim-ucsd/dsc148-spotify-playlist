@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,912 likes - 247 songs - 13 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,923 likes - 247 songs - 13 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,4 +256,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 246 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 |
 | 247 | [tea for two](https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:44 |
 
-Snapshot ID: `MCwwOGQ3MmNiOTc2MjZiZDUxMDZiMjYwZjdmNmRkOTJmNjU4NDhhYTI4`
+Snapshot ID: `MCwxZTA4ZTA3NTJhNmIyNTdjMjc3NDliZjRlNDdjM2Y4MThiOGQ4MzRl`

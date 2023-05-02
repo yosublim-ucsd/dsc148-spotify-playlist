@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Caramelo Haze en portada.",
-  "num_followers": 30667,
+  "num_followers": 30698,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDljYWI5MWQzNDBhZTQ0YzkyNDRiMzE5NGRmNDU2YTY4YzY0MmQ5",
+  "snapshot_id": "MCxhZDUwMTgxNmJjMGNmMWVhNDRjYzQxOTg4Yjg4ODE4NjJhNmFjM2E1",
   "tracks": [
     {
       "added_at": "2023-03-31 17:57:12",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-03-31 20:16:58",
       "album": {
-        "name": "RawayanaLand",
-        "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Mamita (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
-    },
-    {
-      "added_at": "2023-03-31 20:16:58",
-      "album": {
         "name": "Necedad",
         "url": "https://open.spotify.com/album/1BOGlxbOkLcgj9ZzXe0N9H"
       },
@@ -531,6 +511,22 @@
       "duration_ms": 164750,
       "name": "Necedad",
       "url": "https://open.spotify.com/track/65ECX9IpEdilzLDWmQCGOH"
+    },
+    {
+      "added_at": "2023-03-31 20:16:58",
+      "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2023-03-31 20:16:58",
@@ -557,22 +553,6 @@
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
     },
     {
-      "added_at": "2023-03-31 20:16:58",
-      "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
-    },
-    {
       "added_at": "2022-03-19 05:58:48",
       "album": {
         "name": "Otun",
@@ -591,6 +571,66 @@
       "duration_ms": 263225,
       "name": "Solo Quiero (feat. Pedrina)",
       "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
+    },
+    {
+      "added_at": "2023-03-31 20:16:58",
+      "album": {
+        "name": "RawayanaLand",
+        "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Mamita (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
+    },
+    {
+      "added_at": "2023-03-31 20:16:58",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 159800,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
+    },
+    {
+      "added_at": "2023-03-31 20:16:58",
+      "album": {
+        "name": "Bah\u00eda",
+        "url": "https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        },
+        {
+          "name": "Coco Santos",
+          "url": "https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg"
+        },
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Bah\u00eda",
+      "url": "https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni"
     },
     {
       "added_at": "2022-11-03 18:26:02",
@@ -635,46 +675,6 @@
       "duration_ms": 184475,
       "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
       "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
-    },
-    {
-      "added_at": "2023-03-31 20:16:58",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 159800,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
-    },
-    {
-      "added_at": "2023-03-31 20:16:58",
-      "album": {
-        "name": "Bah\u00eda",
-        "url": "https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        },
-        {
-          "name": "Coco Santos",
-          "url": "https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg"
-        },
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Bah\u00eda",
-      "url": "https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni"
     },
     {
       "added_at": "2023-03-31 20:16:58",
@@ -773,6 +773,26 @@
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
       "added_at": "2022-03-30 02:02:45",
       "album": {
         "name": "Boleros Psicod\u00e9licos",
@@ -827,26 +847,6 @@
       "duration_ms": 145746,
       "name": "Oiseau Sauvage",
       "url": "https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-07-13 15:48:37",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
     },
     {
+      "added_at": "2022-02-25 03:53:48",
+      "album": {
+        "name": "Canoas",
+        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Canoas",
+      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
+    },
+    {
       "added_at": "2022-11-12 17:25:42",
       "album": {
         "name": "Piedras del Sol",
@@ -947,22 +963,6 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
-      "added_at": "2022-02-25 03:53:48",
-      "album": {
-        "name": "Canoas",
-        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Canoas",
-      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
       "added_at": "2022-04-20 18:21:19",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
+      "added_at": "2022-09-03 03:44:59",
+      "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
       "added_at": "2023-03-31 20:16:58",
       "album": {
         "name": "Nubecita",
@@ -1177,22 +1193,6 @@
       "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
-      "added_at": "2022-09-03 03:44:59",
-      "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "El Sol",
@@ -1231,6 +1231,26 @@
       "duration_ms": 191150,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
+    },
+    {
+      "added_at": "2022-06-24 16:07:34",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
       "added_at": "2022-09-26 21:49:32",
@@ -1283,26 +1303,6 @@
       "duration_ms": 232241,
       "name": "Coraz\u00f3n Usado",
       "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
-    },
-    {
-      "added_at": "2022-06-24 16:07:34",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
       "added_at": "2021-10-05 16:26:53",

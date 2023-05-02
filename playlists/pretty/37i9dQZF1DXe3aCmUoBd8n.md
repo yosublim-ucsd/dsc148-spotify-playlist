@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: Mohanad Zaiter & Al Shami .
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,863 likes - 47 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,892 likes - 47 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 46 | [Tan Tan \(feat\. Wessam Qutob\)](https://open.spotify.com/track/554c9cCoZ0jRhHxgiMCraE) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [Wessam Qutob](https://open.spotify.com/artist/1SPocxtvn6FfdFayQ8DBO2) | [Tan Tan \(feat\. Wessam Qutob\)](https://open.spotify.com/album/4Q6iHkdb5JEhOIELDNKGBu) | 2:38 |
 | 47 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
 
-Snapshot ID: `MCw4ZWVhOWE2MzczMGVjYWRjMjFkNjI2Y2Q2ZjA3ZGM5OGYzZTMzZTNh`
+Snapshot ID: `MCxkYTI1YjA1NDhlNjAxY2Q2MGY5YWYxOWY4MDFjMmJiNDllOTUyZGZl`

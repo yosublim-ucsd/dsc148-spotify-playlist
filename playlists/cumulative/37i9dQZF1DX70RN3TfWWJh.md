@@ -2,7 +2,7 @@
 
 ### [Workout](https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh)
 
-> Pop hits to keep your workout fresh with a takeover by Strava\. <a href="https://newsroom.spotify.com/2023\-04\-12/spotify\-strava\-integration\-stream\-track\-workout/">Learn more about the partnership.</a>
+> Pop hits to keep your workout fresh,
 
 494 songs - 1 day 1 hr 10 min
 
@@ -193,7 +193,7 @@
 | [I Don’t \(with DVBBS\)](https://open.spotify.com/track/1J9ekSUHGCaWKBdmeEWPJZ) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [I Don’t \(with DVBBS\)](https://open.spotify.com/album/1HFjksWr1gBV4FyYwzrbM8) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [I Give Everything](https://open.spotify.com/track/7dX7gCMEviiaH9YDb9RnCJ) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [I Give Everything](https://open.spotify.com/album/2ljtGIdS43Dx9caG9glR2z) | 2:52 | 2022-03-25 | 2022-07-19 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-03-25 | 2022-04-21 |
-| [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-27 | 2023-04-21 |
+| [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-27 |  |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2022-03-25 | 2022-04-17 |
 | [I Love Me](https://open.spotify.com/track/2IHLaN6wwYKQ3S24NsQqpA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I Love Me](https://open.spotify.com/album/3VKVZ7PvA64NtVJChPGDaH) | 3:23 | 2022-03-25 | 2022-04-21 |
 | [I Love U](https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:05 | 2022-05-20 | 2022-06-21 |
@@ -227,7 +227,7 @@
 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 | 2022-07-28 | 2022-09-03 |
 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 | 2022-03-25 | 2022-07-29 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-07-28 |  |
-| [Lavender Haze \- Snakehips Remix](https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa) | 3:07 | 2023-04-28 |  |
+| [Lavender Haze \- Snakehips Remix](https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa) | 3:07 | 2023-04-28 | 2023-05-02 |
 | [Lavender Haze \- Snakehips Remix](https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 3:07 | 2023-04-20 | 2023-04-29 |
 | [Layover](https://open.spotify.com/track/0xFuZlwE5hugBECRF5ZI5o) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Layover](https://open.spotify.com/album/0uj9R1NJH5P9WEPUr75fEV) | 3:23 | 2022-03-25 | 2022-04-21 |
 | [LazyBaby](https://open.spotify.com/track/4jjI9eHfSHtsmacfjeZvhc) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [LazyBaby](https://open.spotify.com/album/3cd1HgIGBisYfK7UUThumR) | 2:41 | 2022-03-25 | 2022-06-15 |

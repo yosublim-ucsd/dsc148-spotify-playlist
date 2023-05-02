@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2662,
+  "num_followers": 2664,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTUzZWRlMTU3YjViM2EyNTk0NWIyYzA3NjEyZDI0NWE4OWMxZWVi",
+  "snapshot_id": "MCxjOGEzM2ZjN2ZkYjE3NWI3YTcyNTMzM2UzY2MwNDYzNjJkNTEzZjA5",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Old City (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG"
-      },
-      "artists": [
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        }
-      ],
-      "duration_ms": 128181,
-      "name": "Intro / Menu",
-      "url": "https://open.spotify.com/track/73E1KgkXmrxyOREKgJIVTy"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 146160,
       "name": "The First I love You",
       "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Old City (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG"
+      },
+      "artists": [
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        }
+      ],
+      "duration_ms": 128181,
+      "name": "Intro / Menu",
+      "url": "https://open.spotify.com/track/73E1KgkXmrxyOREKgJIVTy"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 531426,
-      "name": "#7",
-      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -495,18 +479,34 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 176254,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo"
+      "duration_ms": 219893,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 531426,
+      "name": "#7",
+      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -523,6 +523,22 @@
       "duration_ms": 358200,
       "name": "It Was Only a Dream",
       "url": "https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 176254,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -567,22 +583,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Eulogy",
-      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "I Am the Night",
         "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 381424,
       "name": "The Price of Failure",
       "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 143880,
+      "name": "This Isn't You",
+      "url": "https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -615,22 +631,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Starwheel",
-        "url": "https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG"
-      },
-      "artists": [
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
-        }
-      ],
-      "duration_ms": 393440,
-      "name": "A Room Between the Rooms",
-      "url": "https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 279666,
       "name": "#4",
       "url": "https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Starwheel",
+        "url": "https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG"
+      },
+      "artists": [
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        }
+      ],
+      "duration_ms": 393440,
+      "name": "A Room Between the Rooms",
+      "url": "https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -679,22 +695,6 @@
       "duration_ms": 264127,
       "name": "Prepare the Stage of Night",
       "url": "https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 143880,
-      "name": "This Isn't You",
-      "url": "https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -763,6 +763,30 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
+      },
+      "artists": [
+        {
+          "name": "Apocryphos",
+          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
+        },
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        },
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        }
+      ],
+      "duration_ms": 333803,
+      "name": "Immemorial",
+      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "The Word as Power",
         "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
       },
@@ -795,46 +819,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
-      },
-      "artists": [
-        {
-          "name": "Apocryphos",
-          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
-        },
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
-        },
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        }
-      ],
-      "duration_ms": 333803,
-      "name": "Immemorial",
-      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "In Fabric OST",
-        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 254624,
-      "name": "Mannequin Metric",
-      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
       },
@@ -847,22 +831,6 @@
       "duration_ms": 363843,
       "name": "A Curved Blade",
       "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "L'illustration Musicale",
-        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
-      },
-      "artists": [
-        {
-          "name": "King Of Woolworths",
-          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
-        }
-      ],
-      "duration_ms": 370800,
-      "name": "Delia Derbyshire",
-      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -883,18 +851,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes II",
-        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
       },
       "artists": [
         {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 227626,
-      "name": "Utopian Facade",
-      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
+      "duration_ms": 409066,
+      "name": "Melancholia II",
+      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -923,34 +891,50 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+        "name": "In Fabric OST",
+        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
       },
       "artists": [
         {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
         }
       ],
-      "duration_ms": 283786,
-      "name": "The Willows",
-      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+      "duration_ms": 254624,
+      "name": "Mannequin Metric",
+      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
     },
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Asleep And Well Hidden",
-        "url": "https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ"
+        "name": "L'illustration Musicale",
+        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
       },
       "artists": [
         {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+          "name": "King Of Woolworths",
+          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
         }
       ],
-      "duration_ms": 430986,
-      "name": "The Ruins And The Serene",
-      "url": "https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3"
+      "duration_ms": 370800,
+      "name": "Delia Derbyshire",
+      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Lost Themes II",
+        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Utopian Facade",
+      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -971,6 +955,38 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Asleep And Well Hidden",
+        "url": "https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ"
+      },
+      "artists": [
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        }
+      ],
+      "duration_ms": 430986,
+      "name": "The Ruins And The Serene",
+      "url": "https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Cycles \"Cyclic Law's 10th Year Anniversary Label Sampler\"",
         "url": "https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 508630,
       "name": "The Moment Before You Fall Asleep",
       "url": "https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 409066,
-      "name": "Melancholia II",
-      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Berberian Sound Studio",
-        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Teresa, Lark of Ascension",
-      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Loneliness of Hidden Structures",
         "url": "https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Perception Report 2",
-        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
+        "name": "Berberian Sound Studio",
+        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
       },
       "artists": [
         {
-          "name": "The Night Monitor",
-          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 254955,
-      "name": "Dance of the Mince Pie Martians",
-      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
+      "duration_ms": 217133,
+      "name": "Teresa, Lark of Ascension",
+      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1127,6 +1111,22 @@
       "duration_ms": 310333,
       "name": "Interior Synthesis of Polarity",
       "url": "https://open.spotify.com/track/1rDKcl40U9HOF6VFQoSwqU"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Perception Report 2",
+        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
+      },
+      "artists": [
+        {
+          "name": "The Night Monitor",
+          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
+        }
+      ],
+      "duration_ms": 254955,
+      "name": "Dance of the Mince Pie Martians",
+      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
     },
     {
       "added_at": "2022-07-06 17:58:03",

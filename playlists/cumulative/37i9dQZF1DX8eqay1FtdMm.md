@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover:SOLE & Sung Si Kyung\(쏠 & 성시경\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover:Lena Park\(박정현\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-400 songs - 1 day 2 hr 8 min
+401 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [NUN MUL I JU RUG JU RUG](https://open.spotify.com/track/4LHTwx71a9xf7hIrsVp11n) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [\[Vol.21\] You Hee yul's Sketchbook 10th Anniversary Project : 9th Voice 'Sketchbook X Kim MinSeok'](https://open.spotify.com/album/2EaeCysFyddUWKt57blFzU) | 4:15 | 2022-03-29 | 2022-07-29 |
 | [Ode To The Stars](https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Ode To The Stars](https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA) | 4:42 | 2021-12-20 |  |
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2021-12-20 | 2022-07-28 |
-| [One Day More](https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [One Day More](https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68) | 4:07 | 2021-12-20 |  |
+| [One Day More](https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [One Day More](https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68) | 4:07 | 2021-12-20 | 2023-05-02 |
 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 | 2022-06-14 | 2022-12-06 |
 | [One Sided Love](https://open.spotify.com/track/0d4VN98EgAtxFcKfjc5Kdw) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [Sugar Man2 Pt\. 13](https://open.spotify.com/album/2Hdxm7Br3rOwozF7EbKzVz) | 4:09 | 2022-01-12 | 2022-07-13 |
 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 | 2021-12-20 |  |
@@ -368,6 +368,7 @@
 | [Workaholic \(Monthly Project 2019 September Yoon Jong Shin\)](https://open.spotify.com/track/0Rh5GTCIKFk3GcNFy84KHC) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Workaholic \(Monthly Project 2019 September Yoon Jong Shin\)](https://open.spotify.com/album/3rVBl32G6feUNMrvc52p5U) | 4:57 | 2022-01-21 | 2022-04-19 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-13 |  |
 | [You](https://open.spotify.com/track/3ihvNxwcqjcmoZjoMn84ri) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [투유 프로젝트 \- 슈가맨2, Pt\. 2](https://open.spotify.com/album/3Hx5xwoXszbXuHqOgziew8) | 4:31 | 2022-03-24 | 2022-04-21 |
+| [You Are The Sea](https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [The Bridge](https://open.spotify.com/album/0CGBkyLZW3izWrGZDcMz7u) | 3:35 | 2023-05-01 |  |
 | [You Can Cry](https://open.spotify.com/track/1bD4DokWm69ZwGBQ75jAga) | [Cheon ji won](https://open.spotify.com/artist/4mAMLdxCAnBsr14WaJ23oy) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 4:07 | 2021-12-20 | 2022-07-14 |
 | [YOU TOUCHED MY HEART](https://open.spotify.com/track/4TIRSAavwjGMWL8Rrzucx6) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[Vol.28\] You Hee yul's Sketchbook 10th Anniversary Project : 13th Voice 'Sketchbook X URBAN ZAKAPA'](https://open.spotify.com/album/5tBd0sTkBhsAq5jwEru5Gk) | 4:43 | 2021-12-27 | 2022-07-13 |
 | [You will shine](https://open.spotify.com/track/2QnzKVxbZSiunJYCmHvt5G) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi), [Insooni](https://open.spotify.com/artist/5jGYA5Yz8Tt8UFx5jbtxTy) | [You will shine](https://open.spotify.com/album/74hfH7A2FyGp7R5SR0m0wG) | 4:04 | 2022-05-11 | 2022-07-04 |

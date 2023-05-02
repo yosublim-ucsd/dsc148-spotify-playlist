@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 383540,
+  "num_followers": 383978,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmMyYWE0MWYwNGJlNjk4MTU0ZTQyOWIyMWY0NDU4MGM4MjE2Yjk3",
+  "snapshot_id": "MCxiMTcxOTRjM2I2ZThlNzAwYjQwMWZlZTU5ZGFmNzJiOWQ4MjQzYTg2",
   "tracks": [
     {
       "added_at": "2023-04-27 22:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Liquid Spirit (Deluxe Version)",
         "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
       },
@@ -171,8 +155,8 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
       "artists": [
         {
@@ -180,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 210000,
-      "name": "What Am I To You?",
-      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -235,54 +219,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Worrisome Heart",
-        "url": "https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Worrisome Heart",
-      "url": "https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 280529,
-      "name": "Don't Think Twice, It's Alright",
-      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Those Sweet Words",
-      "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Bare Bones",
         "url": "https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha"
       },
@@ -299,6 +235,38 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "Worrisome Heart",
+        "url": "https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Worrisome Heart",
+      "url": "https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "What Am I To You?",
+      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "The Girl In The Other Room",
         "url": "https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s"
       },
@@ -311,6 +279,22 @@
       "duration_ms": 267720,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 280529,
+      "name": "Don't Think Twice, It's Alright",
+      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -363,38 +347,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 187769,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "Sunset In The Blue",
-        "url": "https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0zjOktNIgywCUwaJrIX93E"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Make this moment",
         "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
@@ -431,22 +383,34 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Ultimate Collection",
-        "url": "https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u"
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq"
       },
       "artists": [
         {
-          "name": "Katie Melua",
-          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
-        },
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 259480,
-      "name": "What a Wonderful World (with Eva Cassidy)",
-      "url": "https://open.spotify.com/track/49GsE7zUrjEea5QXfP4NWS"
+      "duration_ms": 227346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0zjOktNIgywCUwaJrIX93E"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Those Sweet Words",
+      "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -467,18 +431,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+        "name": "Ultimate Collection",
+        "url": "https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u"
       },
       "artists": [
         {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        },
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
         }
       ],
-      "duration_ms": 251920,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
+      "duration_ms": 259480,
+      "name": "What a Wonderful World (with Eva Cassidy)",
+      "url": "https://open.spotify.com/track/49GsE7zUrjEea5QXfP4NWS"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -495,6 +463,22 @@
       "duration_ms": 216453,
       "name": "Just Like Chet",
       "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 251920,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -527,6 +511,22 @@
       "duration_ms": 272085,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 187769,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 224460,
-      "name": "Place To Hide",
-      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 224460,
+      "name": "Place To Hide",
+      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
         }
       ],
-      "duration_ms": 162720,
-      "name": "Your Heart Is As Black As Night",
-      "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -891,18 +891,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
       },
       "artists": [
         {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+      "duration_ms": 250546,
+      "name": "Pennies From Heaven (with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -923,22 +927,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 250546,
-      "name": "Pennies From Heaven (with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l"
+      "duration_ms": 162720,
+      "name": "Your Heart Is As Black As Night",
+      "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
+        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
         }
       ],
-      "duration_ms": 288693,
-      "name": "From Paris With Love - Single Version",
-      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
+      "duration_ms": 191826,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1075,18 +1075,34 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
-        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
       },
       "artists": [
         {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 191826,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 222146,
       "name": "I've Never Been In Love Before",
       "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1231,42 +1231,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Dream a Little Dream",
-        "url": "https://open.spotify.com/album/45VdrnQMcb43uBQyocSKqo"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        },
-        {
-          "name": "The Von Trapps",
-          "url": "https://open.spotify.com/artist/2Mu6EXEvZgJedsm8fCrkiD"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Dream a Little Dream",
-      "url": "https://open.spotify.com/track/7zaiLgzejyT5M7fTsmqZ18"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "Kisses On The Bottom",
-        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
-      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -1311,6 +1275,26 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "Dream a Little Dream",
+        "url": "https://open.spotify.com/album/45VdrnQMcb43uBQyocSKqo"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        },
+        {
+          "name": "The Von Trapps",
+          "url": "https://open.spotify.com/artist/2Mu6EXEvZgJedsm8fCrkiD"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Dream a Little Dream",
+      "url": "https://open.spotify.com/track/7zaiLgzejyT5M7fTsmqZ18"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "Back to Bacharach (Expanded Edition)",
         "url": "https://open.spotify.com/album/0wfkSewGh40HvJ2Mo48kiJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 223866,
       "name": "Close to You - 2018 Remaster",
       "url": "https://open.spotify.com/track/6uQ6RYJ0Brt4laZCLF9gKC"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Kisses On The Bottom",
+        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
+      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 219080,
       "name": "I Will Wait for You",
       "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "My Wonderland",
-        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A Man and a Woman",
-      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "My Wonderland",
+        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "A Man and a Woman",
+      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "True Love's Flame",
-        "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Herman",
-          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
-        },
-        {
-          "name": "Anna Serierse",
-          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
-        }
-      ],
-      "duration_ms": 152360,
-      "name": "A Place I Don\u2019t Know",
-      "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "So in Love",
         "url": "https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 127400,
       "name": "My Funny Valentine (For Oskar and Eli)",
       "url": "https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "True Love's Flame",
+        "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        },
+        {
+          "name": "Anna Serierse",
+          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
+        }
+      ],
+      "duration_ms": 152360,
+      "name": "A Place I Don\u2019t Know",
+      "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "The Best of Blu",
-        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
-      },
-      "artists": [
-        {
-          "name": "Jonny Blu",
-          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Girl from Ipanema",
-      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "The Lemonade Song",
         "url": "https://open.spotify.com/album/0HuI0DCboMnA7impm0IbrP"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 154871,
       "name": "The Lemonade Song",
       "url": "https://open.spotify.com/track/2kby1XWPnTc0fFMrViKbE4"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "The Best of Blu",
+        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
+      },
+      "artists": [
+        {
+          "name": "Jonny Blu",
+          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Girl from Ipanema",
+      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1719,22 +1719,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "The Look Of Love - Burt Bacharach Songbook",
-        "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
       },
       "artists": [
         {
-          "name": "Trijntje Oosterhuis",
-          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         },
         {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 273960,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul"
+      "duration_ms": 200626,
+      "name": "The Good Life (with Billy Joel)",
+      "url": "https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL"
     }
   ],
   "unique_name": "Easy Jazz",

@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 251324,
       "name": "Another Way",
       "url": "https://open.spotify.com/track/6xU24c00m15ZxjFqmVs0hN"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 190066,
       "name": "Cheap Date",
       "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Heavy Metal Heart",
+        "url": "https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx"
+      },
+      "artists": [
+        {
+          "name": "The Blessing Business",
+          "url": "https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167658,
+      "name": "Moment in Time",
+      "url": "https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR"
+    },
+    {
+      "album": {
         "name": "Melchor Lullaby Hotline Vol. 1",
         "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
@@ -3018,7 +3036,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 186143,
       "name": "Seeing Other People",
       "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"

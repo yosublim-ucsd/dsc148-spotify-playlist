@@ -4,7 +4,7 @@
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-142 songs - 7 hr 6 min
+143 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 | 2022-02-18 |  |
 | [Acordando o Prédio](https://open.spotify.com/track/40bK2uosUmAS92c17n98xd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acordando o Prédio](https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS) | 3:38 | 2022-02-18 |  |
 | [Agora vai sentar \(Participação Wesley Safadão\)](https://open.spotify.com/track/0eLY0decDHqKe5aHEiRieo) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Agora vai sentar \(Participação Wesley Safadão\)](https://open.spotify.com/album/32sNU9M9KOodijPjpvkgjA) | 3:12 | 2022-03-24 | 2022-04-20 |
+| [Ai Se Eu Te Pego \- Ao Vivo](https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Na Balada \(Ao Vivo\)](https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc) | 2:50 | 2022-03-24 |  |
 | [Ai Se Eu Te Pego \- Ao Vivo](https://open.spotify.com/track/46aIq2GKW7Vr6i4g2Vvycd) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Na Balada \(Ao Vivo\)](https://open.spotify.com/album/4urZPIaswCaFNXZoZ3adkw) | 2:50 | 2022-03-24 | 2023-04-28 |
 | [Amiga Da Minha Mulher](https://open.spotify.com/track/4t4oqMSwwmpHzQIu1aok1z) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. I\)](https://open.spotify.com/album/4rp1jclowkzH4QyGMg6xTx) | 4:08 | 2022-03-24 | 2022-04-24 |
 | [Amiga da Minha Mulher](https://open.spotify.com/track/6TVmNRrCRzU3NlyuubLIzZ) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 1](https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg) | 4:08 | 2022-03-24 |  |
@@ -147,7 +148,7 @@
 | [Vamos Beber \(Joga o Copo Pro Alto\)](https://open.spotify.com/track/6Fm97GOxpVyW6vhGc46Wj9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe) | [Arena Pop 2014](https://open.spotify.com/album/02Tl6kO2w7U3DMwxGzr6TS) | 2:49 | 2022-03-24 | 2022-04-21 |
 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 | 2022-02-18 |  |
 | [Você Não Vale Nada](https://open.spotify.com/track/6EFIK4B0jrvLO096QYEhnX) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Menor](https://open.spotify.com/artist/0By75sLZQ06mWyzNiSdLUB) | [Na Mesma Estrada](https://open.spotify.com/album/2Dy95A9pniL5HcVUVMhJbC) | 3:30 | 2022-02-18 | 2022-07-29 |
-| [Você Partiu Meu Coração \(feat\. Anitta & Wesley Safadão\)](https://open.spotify.com/track/0u8aj0c4IxeVSLTUuuq9V5) | [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Você Partiu Meu Coração \(feat\. Anitta & Wesley Safadão\)](https://open.spotify.com/album/53y7OTl1WRQftTuaXoXYFk) | 2:59 | 2022-03-24 |  |
+| [Você Partiu Meu Coração \(feat\. Anitta & Wesley Safadão\)](https://open.spotify.com/track/0u8aj0c4IxeVSLTUuuq9V5) | [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Você Partiu Meu Coração \(feat\. Anitta & Wesley Safadão\)](https://open.spotify.com/album/53y7OTl1WRQftTuaXoXYFk) | 2:59 | 2022-03-24 | 2023-05-02 |
 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 | 2022-02-18 | 2022-07-29 |
 | [É Nóis Faze Parapapá \- Ao Vivo](https://open.spotify.com/track/4FWbjgkqS6fUSpBg05ieTe) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [É Nóis Faze Parapapá \(Ao Vivo\)](https://open.spotify.com/album/0YyCs38Cbi7ELeEr1YDBZA) | 2:34 | 2022-02-18 | 2022-07-29 |
 

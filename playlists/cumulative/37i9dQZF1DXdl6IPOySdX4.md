@@ -4,7 +4,7 @@
 
 > you up?
 
-377 songs - 21 hr 21 min
+378 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-03-25 |  |
 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2022-11-18 | 2023-03-02 |
 | [do re mi](https://open.spotify.com/track/3sTCfUmYXSVWDacTd6uMbQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [do re mi](https://open.spotify.com/album/2pVmCOuvfn3SbDgR2QW3lW) | 3:32 | 2022-02-04 | 2022-04-12 |
-| [do re mi](https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 3:32 | 2022-10-24 |  |
+| [do re mi](https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 3:32 | 2022-10-24 | 2023-05-02 |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-02-03 | 2023-04-26 |
 | [Don't Let Me Down \(feat\. Khalid\)](https://open.spotify.com/track/2cSiyndkQZRPmYOfrk9WlC) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Don't Let Me Down / All to You](https://open.spotify.com/album/1NkkXbEvt3lhsVdgYYf8tn) | 2:56 | 2022-04-01 | 2022-04-19 |
 | [don't stop](https://open.spotify.com/track/4Zz7qwjSgxs9sRnOP2KjHb) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [help](https://open.spotify.com/album/4PcOLASOD0VikPG4yB3bxg) | 2:50 | 2022-03-25 | 2022-04-21 |
@@ -141,6 +141,7 @@
 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 | 2023-01-20 |  |
 | [Girls Need Love \(with Drake\) \- Remix](https://open.spotify.com/track/0mfCH4nfpshBQR9ueZP5eP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Girls Need Love \(with Drake\) \[Remix\]](https://open.spotify.com/album/3i9w4RgUuxBxUVaarH91kx) | 3:42 | 2022-02-04 | 2022-07-07 |
 | [Girls Need Love \(with Drake\) \- Remix](https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:42 | 2022-07-22 |  |
+| [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-05-01 |  |
 | [Give You the World](https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:33 | 2022-08-25 | 2023-01-05 |
 | [Go Again](https://open.spotify.com/track/4pJHOKnhaj53aTQwM0Vigb) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Go Again](https://open.spotify.com/album/78egLdqpviDIASDHbQg79i) | 2:25 | 2022-02-04 | 2022-05-24 |
 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 | 2022-02-04 |  |

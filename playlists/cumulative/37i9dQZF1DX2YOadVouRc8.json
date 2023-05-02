@@ -769,6 +769,32 @@
     },
     {
       "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/24ExWn1W0i4NzG1CPxXYXT"
+      },
+      "artists": [
+        {
+          "name": "Swish Music",
+          "url": "https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI"
+        },
+        {
+          "name": "Dau Dau",
+          "url": "https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1"
+        },
+        {
+          "name": "Lil Nafy",
+          "url": "https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161583,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/2SBPw60niF4PMa0i5HRrBS"
+    },
+    {
+      "album": {
         "name": "Hopeless Romantic Riddim",
         "url": "https://open.spotify.com/album/49JiNiTZIyxzCeGhoc2yBs"
       },
@@ -2024,7 +2050,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 162352,
       "name": "Naked Wire",
       "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"

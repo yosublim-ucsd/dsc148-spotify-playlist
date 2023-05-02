@@ -4,7 +4,7 @@
 
 > A free space for Indigenous creators\. Currently curated by Zoon.
 
-316 songs - 18 hr 50 min
+317 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [25](https://open.spotify.com/track/74W8hlQqCm4PRjMSBvVlTE) | [Ila Barker](https://open.spotify.com/artist/6V5NP1pPpYLvS3hhyyUOAF) | [25](https://open.spotify.com/album/5zxpSc7KMQ0oUmwMt7gYUn) | 3:59 | 2022-10-14 | 2022-11-19 |
 | [2nd Intertribal](https://open.spotify.com/track/1HBhkPPK0nh86Rsvk3SkI1) | [Charging Horse](https://open.spotify.com/artist/0vCyMRfNDKqcv6VziuUUUM) | [2018](https://open.spotify.com/album/5IyCa46xU7oHddaqu96t5r) | 4:02 | 2023-02-03 | 2023-03-11 |
 | [37 Sat: Men's Traditional \- Live](https://open.spotify.com/track/06Pvgl2BW93vsHoGrc8ez7) | [Dakota Hotain](https://open.spotify.com/artist/4yVzpwytsks65kNviZtauD) | [Better Late Than Never \(Live at Sisseton\-Wahpeton Pow Wow\)](https://open.spotify.com/album/3x7Y4K5H2RyHX9Ejfh5WWD) | 4:35 | 2023-02-03 | 2023-03-11 |
-| [A Language Dissapears \- Single Edit](https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Language Disappears](https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD) | 3:07 | 2023-04-07 |  |
+| [A Language Disappears](https://open.spotify.com/track/3vaxNf7d4i8o8sxZrA5Nv5) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bekka Ma'iingan](https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD) | 3:08 | 2023-04-28 |  |
+| [A Language Dissapears \- Single Edit](https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Language Disappears](https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD) | 3:07 | 2023-04-07 | 2023-05-02 |
 | [A Lot About A Little](https://open.spotify.com/track/2ZzSjyVPiCk7II9D37qnuW) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w), [JDZL](https://open.spotify.com/artist/6fb7ZYidj3Ps1dEdN9g1YG) | [A Lot About A Little](https://open.spotify.com/album/3vki6Q7nFB6jldMTdGi5zg) | 3:53 | 2022-04-01 | 2022-05-07 |
 | [AANNGIQ](https://open.spotify.com/track/1YLx7QBLLEy8e8c8eqszSX) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [SHIFTING](https://open.spotify.com/album/10v5r1u4kwiIpdbakONaps) | 2:05 | 2022-11-18 | 2023-04-09 |
 | [Ain't No Man](https://open.spotify.com/track/0zOKmbOkPP7z4G5O9UKOQr) | [Chelsie Young](https://open.spotify.com/artist/0gkihtfmb0Fjsu65gTe9L1) | [Ain't No Man](https://open.spotify.com/album/1IWsKfS8aa6hWxocC59SNS) | 3:26 | 2022-11-18 | 2023-02-04 |

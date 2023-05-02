@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,175 likes - 51 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,188 likes - 51 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 27 | [SLAM DUNK \(FEAT\. YOUNG SCOOTER\)](https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:22 |
 | 28 | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19) | 3:51 |
 | 29 | [I Still Dont Feel Nun](https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:04 |
-| 30 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 |
+| 30 | [Death Around The Corner \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:43 |
 | 31 | [STAY FOCUSED](https://open.spotify.com/track/14n7SlQKzXh0ygH9cNfCGm) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:13 |
 | 32 | [Balloons \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bigger Than Life Or Death \(Deluxe\)](https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA) | 2:36 |
-| 33 | [Death Around The Corner \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:43 |
+| 33 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 |
 | 34 | [Spin](https://open.spotify.com/track/04ZrEsPyVGsahWXTegcO33) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:21 |
 | 35 | [Get Money \(feat\. Yo Gotti\)](https://open.spotify.com/track/1qgGitQYJs68OQbfL5kQ4W) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:29 |
 | 36 | [Morals](https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 1:46 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 50 | [Trust Nun \(feat\. EST Gee\)](https://open.spotify.com/track/0D77ULkdHxpfbu0NsDLeRL) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Gas God](https://open.spotify.com/album/2Bz7FAQGKk464rBl9oxaVj) | 2:22 |
 | 51 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
 
-Snapshot ID: `MjgwNDc2MjMsMDAwMDAwMDA5ZDEyNWFmMDI4NjhkZmM2NzFlNTljODE3MTUyMmU3ZQ==`
+Snapshot ID: `MjgwNDkwMTUsMDAwMDAwMDAxMmU1NDk5YzU5ZTUzZDgyOWY0M2RhNzlmYjZiYWEwOQ==`

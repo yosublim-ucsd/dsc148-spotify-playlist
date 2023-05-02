@@ -3113,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153414,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
+    },
+    {
+      "album": {
         "name": "This Time Next Year (Deluxe)",
         "url": "https://open.spotify.com/album/6P3ZyijowPOvCE5EtTBHbW"
       },
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 234293,
       "name": "South",
       "url": "https://open.spotify.com/track/6eQ0yqG2lN2GK1xuf6qAZ9"

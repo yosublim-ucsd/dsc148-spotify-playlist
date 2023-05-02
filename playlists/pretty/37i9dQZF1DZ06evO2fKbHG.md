@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,472 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,536 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 33 | [Armagideon Time](https://open.spotify.com/track/2hOi0U15nSrV9ueYLCtvE2) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:51 |
 | 34 | [Know Your Rights \- Remastered](https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:40 |
 | 35 | [Stay Free \- Remastered](https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:40 |
-| 36 | [This is England](https://open.spotify.com/track/7p949cKSO5MDSjajSrAcfI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:50 |
+| 36 | [Gates of the West](https://open.spotify.com/track/62QXkCDecDXfW95CzjmegU) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Cost of Living \- EP](https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u) | 3:25 |
 | 37 | [Clash City Rockers](https://open.spotify.com/track/7KMOrq5bPFiEQPmxsYvJ2C) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:56 |
-| 38 | [Atom Tan \- Remastered](https://open.spotify.com/track/5rL2E6ZlMJYMdV799HumhZ) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 2:30 |
-| 39 | [Gates of the West](https://open.spotify.com/track/62QXkCDecDXfW95CzjmegU) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Cost of Living \- EP](https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u) | 3:25 |
-| 40 | [We are the Clash](https://open.spotify.com/track/2I4WKzFdwTPhLTJCJ1Hpvq) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:02 |
+| 38 | [Inoculated City \- Remastered](https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 2:42 |
+| 39 | [This is England](https://open.spotify.com/track/7p949cKSO5MDSjajSrAcfI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:50 |
+| 40 | [1977](https://open.spotify.com/track/44P8K95Vlk5chiWAIrEtvx) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 1:40 |
 | 41 | [All the Young Punks \(New Boots and Contracts\) \- Remastered](https://open.spotify.com/track/153E8CZ5kCe6KkCHS8mZtS) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 4:58 |
-| 42 | [Inoculated City \- Remastered](https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 2:42 |
-| 43 | [1977](https://open.spotify.com/track/44P8K95Vlk5chiWAIrEtvx) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 1:40 |
+| 42 | [Atom Tan \- Remastered](https://open.spotify.com/track/5rL2E6ZlMJYMdV799HumhZ) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 2:30 |
+| 43 | [We are the Clash](https://open.spotify.com/track/2I4WKzFdwTPhLTJCJ1Hpvq) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:02 |
 | 44 | [City of the Dead \(Live\) \[Remastered\]](https://open.spotify.com/track/744eHv8kvVhIYc4le3NEvt) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [From Here to Eternity \(Live\) \[Remastered\]](https://open.spotify.com/album/70NjH8NkxcbYNvWAHnyv1e) | 2:47 |
 | 45 | [He Who Dares or Is Tired](https://open.spotify.com/track/5qDs46EokLqDHpQ7sqcHWE) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:53 |
 
-Snapshot ID: `MjgwNDc2MjMsMDAwMDAwMDA3ZmY4NDBjZjFkOGYwNTIwYWUyMmFmYWJmMTI1MGZiMQ==`
+Snapshot ID: `MjgwNDkwMTUsMDAwMDAwMDA0MWVlZTc3M2FiZjFmMTI4ODNjMWI3N2UzMDA1MTQ5NA==`

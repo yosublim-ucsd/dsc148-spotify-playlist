@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,434 songs - 3 day 4 hr 29 min
+1,436 songs - 3 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Benim İçin Üzülme](https://open.spotify.com/track/48laGKFr73HmALqSKqlzv0) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Acıların Kadını](https://open.spotify.com/album/75qpnDwZZv4o7rfxoykj2H) | 5:02 | 2022-03-12 | 2022-03-28 |
 | [Benimle Gel](https://open.spotify.com/track/6TQj22qKkIAd9cuBiFlvKf) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Benimle Gel](https://open.spotify.com/album/3UHVdV8G1u2xI1t1qX9sSJ) | 2:41 | 2022-03-08 | 2022-04-06 |
 | [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-03-05 | 2022-04-13 |
-| [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-04-18 |  |
+| [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-04-18 | 2023-05-02 |
 | [Besos Y Caricias](https://open.spotify.com/track/2V2caKcvSw2tBTBVTFKqy0) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:18 | 2022-06-27 | 2022-06-30 |
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-05 | 2022-08-24 |
 | [Beverly Hills](https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Beverly Hills](https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp) | 2:18 | 2021-12-27 | 2021-12-29 |
@@ -877,6 +877,7 @@
 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 | 2022-03-13 | 2022-03-16 |
 | [Márchate](https://open.spotify.com/track/7ywyOW3ugVzVBIU3TFO9af) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Márchate Y Olvídame](https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP) | 2:54 | 2022-06-24 | 2022-07-01 |
 | [Média Boa \- Ao Vivo](https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Média Boa \(Ao Vivo\)](https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj) | 2:28 | 2022-10-16 | 2022-10-28 |
+| [Na Brisa Que É Bom Vs Cheiro do Skunk](https://open.spotify.com/track/0IuKBc2qc4yRajqLd9uFGR) | [AGUILLERA](https://open.spotify.com/artist/2Bv3elHepLCEiMceBTPqpe), [DJ Feeh Ribeiro](https://open.spotify.com/artist/19aWf0vIIRxNrwYSu30Iqf), [Mc Yago](https://open.spotify.com/artist/3eKjUJNwglGwLmS8dELCuC), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY) | [Na Brisa Que É Bom Vs Cheiro do Skunk](https://open.spotify.com/album/0bP7U6PKdDGlvcehMHV5is) | 3:31 | 2023-05-01 |  |
 | [Nachts wach](https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Nachts wach](https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE) | 2:58 | 2022-08-09 | 2022-08-24 |
 | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2021-12-27 | 2022-01-11 |
 | [Naina Ki Talwar](https://open.spotify.com/track/5MpM5puyNHPxDEoe1l5ldo) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/4tlu5ECRwxyCSyMICmau24) | 2:42 | 2022-11-13 | 2022-11-24 |
@@ -1064,7 +1065,7 @@
 | [Richest Killers](https://open.spotify.com/track/1Tcx4BMphr7XayLP3tgFzG) | [Mtsg](https://open.spotify.com/artist/2wIrIh3ZQvZ6r2CJBtghI4) | [Richest Killers](https://open.spotify.com/album/0C7H5k4DVMZZyGAI2OmuWu) | 2:51 | 2022-04-22 | 2022-04-24 |
 | [Righteous](https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS) | 2:43 | 2022-09-17 | 2022-09-23 |
 | [Rihaayi](https://open.spotify.com/track/4aMVJBiDmewOHsbdfPKQCv) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IwG4KxgETGFj087O5sF2C) | 2:48 | 2022-11-22 | 2022-12-14 |
-| [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-04-11 |  |
+| [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-04-11 | 2023-05-02 |
 | [River \- Eurovision 2022 \- Poland](https://open.spotify.com/track/6mkQtlv43QQcW6ivLuL9JE) | [Ochman](https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc) | [Ochman \(Deluxe Edition\)](https://open.spotify.com/album/4cgyAvJqQXpY5dpasG4B2f) | 3:00 | 2022-05-17 | 2022-05-22 |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-05 | 2022-08-03 |
 | [rockhardt](https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi) | [Carbon](https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J) | [rockhardt](https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc) | 2:38 | 2023-02-23 | 2023-02-28 |
@@ -1409,6 +1410,7 @@
 | [Yes t0 Heaven](https://open.spotify.com/track/5KMfWGgk4YhuGLHthUuhjG) | [B4SAX](https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq) | [Yes t0 Heaven](https://open.spotify.com/album/3IoAc6Bees7aBBtLSTNRTV) | 3:17 | 2023-01-09 | 2023-01-11 |
 | [Yes To Heaven](https://open.spotify.com/track/4A9gkQxQYN3bJmURtGKul5) | [Christi Buckley](https://open.spotify.com/artist/76n7ZdH6NZlsVxk0EXVQ2F) | [Secret Love Club](https://open.spotify.com/album/0lcxNJKZuKh4coyS8804R2) | 3:54 | 2023-01-11 | 2023-01-14 |
 | [yes to heaven](https://open.spotify.com/track/1Vswy6mJf9gAYhqqxdMCr7) | [ilyNUN](https://open.spotify.com/artist/49IxHq6jHIFvSV98SfLH3R) | [yes to heaven](https://open.spotify.com/album/7irGbx3XVENSgp7HkcV4hy) | 3:17 | 2023-04-01 | 2023-04-11 |
+| [Yes To Heaven](https://open.spotify.com/track/71xnWO5KczCb5Cx1xAINuS) | [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [Yes To Heaven](https://open.spotify.com/album/09ypD2pBw9EfxpOnIlegP8) | 2:54 | 2023-05-01 |  |
 | [Yes to Heaven](https://open.spotify.com/track/5uNOFOhBkAzFSRUyaSzk2l) | [Noxys](https://open.spotify.com/artist/2bSb7CbXZfEGdW61MEUOMh) | [Yes to Heaven](https://open.spotify.com/album/7al2elrKDgGMlPNxibgQ2n) | 2:55 | 2023-04-18 | 2023-04-30 |
 | [yes to heaven](https://open.spotify.com/track/3vVSacI1LGT7R2BHWgO3Aq) | [pint](https://open.spotify.com/artist/3TYPfYOqLCUgy4ZHtk7fPH) | [yes to heaven](https://open.spotify.com/album/52NG0N8rHtM8o0XbnOgsHD) | 2:55 | 2022-12-07 | 2022-12-10 |
 | [Yes To Heaven Sped Up](https://open.spotify.com/track/7ixk0oaK6aBS0O6UPdzMkZ) | [B4SAX](https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq) | [Yes To Heaven Sped Up](https://open.spotify.com/album/4yZiQJoegfR9j2olNuTWab) | 2:55 | 2023-01-09 | 2023-01-11 |

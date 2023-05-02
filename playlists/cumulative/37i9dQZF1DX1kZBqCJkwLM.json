@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "GORGEOUS",
+        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
+      },
+      "artists": [
+        {
+          "name": "BODUR",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149973,
+      "name": "GORGEOUS",
+      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
+    },
+    {
+      "album": {
         "name": "Grace Lee",
         "url": "https://open.spotify.com/album/7vl5GDFnXRxlviqI5APoBe"
       },
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 181040,
       "name": "Nobody Knows We Are Fun",
       "url": "https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2"

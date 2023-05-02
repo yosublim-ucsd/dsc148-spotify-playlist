@@ -2,7 +2,7 @@
 
 ### [Mariachi 2023](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
-> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Sarah La Morena
+> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal
 
 337 songs - 18 hr 19 min
 

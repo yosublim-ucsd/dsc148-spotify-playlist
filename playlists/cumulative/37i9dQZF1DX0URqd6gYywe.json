@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Los A\u00f1os Salvajes",
+        "url": "https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266773,
+      "name": "Encuentros Cercanos",
+      "url": "https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX"
+    },
+    {
+      "album": {
         "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
         "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
       },
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 136512,
       "name": "Ojos de R\u00edo",
       "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"

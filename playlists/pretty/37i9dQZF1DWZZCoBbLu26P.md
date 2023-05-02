@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life\. Cover: Bimini
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,295 likes - 92 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,312 likes - 92 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 91 | [To the Moon \- Cast Version](https://open.spotify.com/track/5xzSubIQvRSH5ryDk6EhU1) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc) | [To the Moon \(Cast Version\)](https://open.spotify.com/album/7fMIVWlRIrPSe1H8ceFcaG) | 3:02 |
 | 92 | [Jungle Kitty](https://open.spotify.com/track/6aoIbBF71WGdWJhifeoi5V) | [Bebe Zahara Benet](https://open.spotify.com/artist/4d5CbyJTqjfFvn9ZgU5bEa) | [Jungle Kitty](https://open.spotify.com/album/6dgRWADx9TcH1osLAXWV90) | 3:05 |
 
-Snapshot ID: `MCw5NTI3MDY3OWNkNzA4NDJkOTI0ZjAzYzgzMmFiMDcwODBjZDczNTY5`
+Snapshot ID: `MCxmODgzNDY3YTFmNzk5MmI3MWM3NWU0MDNhMTgzYTJlYTVjMGM4N2Ez`

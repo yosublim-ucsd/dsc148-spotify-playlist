@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,328 likes - 111 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,967 likes - 111 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 88 | [Liquor & Pills](https://open.spotify.com/track/1xTexcIY9YipgP8UiQbSOk) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Liquor & Pills](https://open.spotify.com/album/6pQ9QAPUXGlY8YrKEdgkhY) | 4:15 |
 | 89 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
 | 90 | [Actin' Up](https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:25 |
-| 91 | [Eastern Kentucky](https://open.spotify.com/track/3KHv9f9K6pZRSv61z4SaRu) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Eastern Kentucky](https://open.spotify.com/album/4fbqrkjymL0LAtCAFxq7Wd) | 3:34 |
+| 91 | [Eastern Kentucky](https://open.spotify.com/track/6IT6bUPDd0wbTrGTDs4Xke) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Home Is Where The Heart Is](https://open.spotify.com/album/5I5o18dU689s743rNR356A) | 3:34 |
 | 92 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
 | 93 | [Stayin' Quit](https://open.spotify.com/track/5mt0XIGAbYidztqDQxv0DH) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Stayin' Quit](https://open.spotify.com/album/6dMpzHaEE4fND0GXkqHMc7) | 3:06 |
 | 94 | [Love](https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 3:43 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 110 | [The Jealous Kind \(Live from the Church\)](https://open.spotify.com/track/5s39a54LU092WwtEGoOmtp) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Jealous Kind \(Live from the Church\)](https://open.spotify.com/album/1KSDcbkwcDd1XrjYz8Lpx0) | 3:35 |
 | 111 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 |
 
-Snapshot ID: `MCw4ZjI1N2Y2Njc5ZjA5OTkxMDU1YzZhMWRmZTZkY2ExNzc3NWZkZDkx`
+Snapshot ID: `MCw0YmMyMzJmNDcxOTA3NmNmYTQ4ZmJhYjRkNjkwOWU2NWEwNWJjMWFi`

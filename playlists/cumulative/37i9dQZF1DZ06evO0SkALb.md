@@ -4,7 +4,7 @@
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-96 songs - 6 hr 2 min
+97 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [If I Coulda, Woulda, Shoulda](https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 4:32 | 2022-05-25 |  |
 | [If I Were A Magician](https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:03 | 2022-05-25 |  |
 | [In My Heart](https://open.spotify.com/track/0ZMwnIDnRaSSxcbUl7Z8yo) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Hit After Hit](https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA) | 2:11 | 2022-11-29 | 2023-03-10 |
-| [In The Evening When The Sun Goes Down](https://open.spotify.com/track/449ERuFb4q69n28mdvpUS7) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 3:28 | 2022-10-19 |  |
+| [In The Evening When The Sun Goes Down](https://open.spotify.com/track/449ERuFb4q69n28mdvpUS7) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 3:28 | 2022-10-19 | 2023-05-02 |
 | [It Was A Very Good Year \- Digitally Remastered 00](https://open.spotify.com/track/0MuK8gUKHaj9PdlOxgvygy) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:50 | 2022-07-28 |  |
 | [Lady Love](https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 4:02 | 2022-05-25 |  |
 | [Let Me Be Good to You](https://open.spotify.com/track/0Z1OoeOob3W4Qf4eAuz463) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 5:25 | 2022-05-25 |  |
@@ -59,6 +59,7 @@
 | [Nine Pound Hammer](https://open.spotify.com/track/1gbdDazbGiV83TxannfdyL) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Hit After Hit](https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA) | 2:14 | 2023-01-07 | 2023-04-11 |
 | [Nobody But Me](https://open.spotify.com/track/1TKnomDQTCtUQEKdGwaE5S) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Nobody But Lou](https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM) | 2:44 | 2022-05-25 |  |
 | [Not the Staying Kind](https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:51 | 2022-05-25 |  |
+| [Now Is The Time For Love](https://open.spotify.com/track/5gJrQaWzJmQI1LnUjmB2MC) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Now Is The Time](https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58) | 3:40 | 2023-05-01 |  |
 | [Oh, What A Nite](https://open.spotify.com/track/1yUrw3yuITA18pUdmgLMfx) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:33 | 2022-05-26 | 2022-09-10 |
 | [One Life to Live](https://open.spotify.com/track/7K5oM0YifHysADifGna69g) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:53 | 2022-05-25 |  |
 | [Pure Imagination](https://open.spotify.com/track/0SYrCElkWSynWIEBKj1hwl) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 3:41 | 2022-05-25 |  |
@@ -66,9 +67,9 @@
 | [Scotch & Soda](https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 | 2022-05-26 |  |
 | [Season Of The Witch](https://open.spotify.com/track/65CQSLIsCjbVyGXVRg97K4) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 5:51 | 2022-05-25 | 2023-01-03 |
 | [See See Rider](https://open.spotify.com/track/0nm1sz6alpQnzQAZZ8oOPq) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 3:11 | 2022-11-12 | 2023-04-30 |
-| [See You When I Git There](https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 4:28 | 2022-05-25 |  |
+| [See You When I Git There](https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 4:28 | 2022-05-25 | 2023-05-02 |
 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 | 2022-05-25 |  |
-| [She's No Lady](https://open.spotify.com/track/5wtHVeMwtU2CoTwzeCnn4T) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:00 | 2023-04-24 | 2023-05-01 |
+| [She's No Lady](https://open.spotify.com/track/5wtHVeMwtU2CoTwzeCnn4T) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:00 | 2023-04-24 |  |
 | [Sit Down and Talk to Me](https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:53 | 2022-05-25 |  |
 | [Southside Blues/Tobacco Road \- Live/Medley](https://open.spotify.com/track/7E7IVQTT08vYalrSXXQajt) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 7:56 | 2022-05-25 | 2022-10-15 |
 | [Spring Again](https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 4:26 | 2022-05-25 |  |

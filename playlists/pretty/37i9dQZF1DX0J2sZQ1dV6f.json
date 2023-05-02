@@ -1,12 +1,12 @@
 {
   "description": "Perreo after hours.",
-  "num_followers": 78287,
+  "num_followers": 78380,
   "original_name": "4AM Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGYzNjAxNWYxOGMwYTBhMDk4NzU2Yjk5YjczMGZmMGY1ZWZkNGQ0",
+  "snapshot_id": "MCw4OWJmNWUzMzQ5YWQ3OTdlNjc1NmFkOWU2NjBkZjU1MDE5OTIwZTM4",
   "tracks": [
     {
       "added_at": "2023-04-03 23:44:09",
@@ -143,18 +143,22 @@
     {
       "added_at": "2023-04-03 23:44:09",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 175918,
-      "name": "A Tu Merced",
-      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
+      "duration_ms": 222346,
+      "name": "QUE PRETENDES",
+      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
     },
     {
       "added_at": "2023-04-03 23:44:09",
@@ -199,22 +203,18 @@
     {
       "added_at": "2023-04-03 23:44:09",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 222346,
-      "name": "QUE PRETENDES",
-      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+      "duration_ms": 175918,
+      "name": "A Tu Merced",
+      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
     },
     {
       "added_at": "2023-04-03 23:44:09",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-04-03 23:44:09",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+      "duration_ms": 208291,
+      "name": "Sexo Virtual",
+      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
     },
     {
       "added_at": "2023-04-03 23:44:09",
@@ -659,22 +659,6 @@
       "duration_ms": 195201,
       "name": "Otros XOXO",
       "url": "https://open.spotify.com/track/3vJ44oLx2n1izEqpD9yycT"
-    },
-    {
-      "added_at": "2023-04-03 23:44:09",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Sexo Virtual",
-      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
     },
     {
       "added_at": "2023-04-03 23:44:09",
@@ -699,6 +683,22 @@
       "duration_ms": 202866,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
+    },
+    {
+      "added_at": "2023-04-03 23:44:09",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2023-04-03 23:44:09",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-03 23:44:09",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
-    },
-    {
-      "added_at": "2023-04-03 23:44:09",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 182836,
       "name": "DEJAU'",
       "url": "https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC"
+    },
+    {
+      "added_at": "2023-04-03 23:44:09",
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
     },
     {
       "added_at": "2023-04-03 23:44:09",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-04-03 23:44:09",
       "album": {
-        "name": "Problem\u00f3n",
-        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
-    },
-    {
-      "added_at": "2023-04-03 23:44:09",
-      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 171640,
       "name": "HOOKIA",
       "url": "https://open.spotify.com/track/1WgyA7SYEzPRZkig3q1b0j"
+    },
+    {
+      "added_at": "2023-04-03 23:44:09",
+      "album": {
+        "name": "Problem\u00f3n",
+        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
       "added_at": "2023-04-03 23:44:09",
@@ -955,6 +955,26 @@
     {
       "added_at": "2023-04-03 23:44:09",
       "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 207835,
+      "name": "Sin Seguro",
+      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
+    },
+    {
+      "added_at": "2023-04-03 23:44:09",
+      "album": {
         "name": "Sali\u00f3 De Noche",
         "url": "https://open.spotify.com/album/2h5u7sSXcSL7YwVJRRw3AE"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 220631,
       "name": "Sali\u00f3 De Noche",
       "url": "https://open.spotify.com/track/15r68Um6LBYYBGUEEkqRkB"
-    },
-    {
-      "added_at": "2023-04-03 23:44:09",
-      "album": {
-        "name": "Welcome To My World",
-        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 207835,
-      "name": "Sin Seguro",
-      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
     },
     {
       "added_at": "2023-04-03 23:44:09",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-04-03 23:44:09",
       "album": {
-        "name": "Fundota",
-        "url": "https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "Fundota",
-      "url": "https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu"
-    },
-    {
-      "added_at": "2023-04-03 23:44:09",
-      "album": {
         "name": "Tremendo Cul\u00f3n",
         "url": "https://open.spotify.com/album/6tbSlpWCnjq57F93UsBKFP"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-04-03 23:44:09",
       "album": {
+        "name": "Fundota",
+        "url": "https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "Fundota",
+      "url": "https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu"
+    },
+    {
+      "added_at": "2023-04-03 23:44:09",
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 159587,
       "name": "Perreo Bendito",
       "url": "https://open.spotify.com/track/56uvG8rHQkvEtbRXK2R8rx"
-    },
-    {
-      "added_at": "2023-04-03 23:44:09",
-      "album": {
-        "name": "Viva el Perreo",
-        "url": "https://open.spotify.com/album/0Oe2Bh74rFWrYSvJVCeF8j"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 146145,
-      "name": "L\u00e1tigo",
-      "url": "https://open.spotify.com/track/1nvD54j8RrJEukr8oxCAok"
     },
     {
       "added_at": "2023-04-03 23:44:09",
@@ -1431,6 +1415,22 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "added_at": "2023-04-03 23:44:09",
+      "album": {
+        "name": "Viva el Perreo",
+        "url": "https://open.spotify.com/album/0Oe2Bh74rFWrYSvJVCeF8j"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 146145,
+      "name": "L\u00e1tigo",
+      "url": "https://open.spotify.com/track/1nvD54j8RrJEukr8oxCAok"
     },
     {
       "added_at": "2023-04-03 23:44:09",

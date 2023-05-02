@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Bekka Ma'iingan",
+        "url": "https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD"
+      },
+      "artists": [
+        {
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188723,
+      "name": "A Language Disappears",
+      "url": "https://open.spotify.com/track/3vaxNf7d4i8o8sxZrA5Nv5"
+    },
+    {
+      "album": {
         "name": "A Language Disappears",
         "url": "https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 187223,
       "name": "A Language Dissapears - Single Edit",
       "url": "https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4"

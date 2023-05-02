@@ -492,10 +492,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 214200,
       "name": "Eastern Kentucky",
       "url": "https://open.spotify.com/track/3KHv9f9K6pZRSv61z4SaRu"
+    },
+    {
+      "album": {
+        "name": "Home Is Where The Heart Is",
+        "url": "https://open.spotify.com/album/5I5o18dU689s743rNR356A"
+      },
+      "artists": [
+        {
+          "name": "Davisson Brothers Band",
+          "url": "https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214200,
+      "name": "Eastern Kentucky",
+      "url": "https://open.spotify.com/track/6IT6bUPDd0wbTrGTDs4Xke"
     },
     {
       "album": {

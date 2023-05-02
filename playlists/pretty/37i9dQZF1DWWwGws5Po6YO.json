@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 28678,
+  "num_followers": 28709,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDhjNTg3ZDA4YzAyNjc5NmQxNjM4Y2QyNjVkNjM2ZWQyYzcyOTE0",
+  "snapshot_id": "MCwzMzVlMDc2NDk2NmViNzJkMzdiOWQ2MmU5MzA4NTU5YjI1NTk0Njgz",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -275,18 +291,18 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+      "duration_ms": 544533,
+      "name": "Vapor Trails",
+      "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -307,18 +323,18 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 544533,
-      "name": "Vapor Trails",
-      "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -335,6 +351,26 @@
       "duration_ms": 368000,
       "name": "Woodland Encounter",
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
+        "name": "Fantas Variations",
+        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 187863,
+      "name": "Fantas Morbida",
+      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -371,42 +407,6 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Fantas Variations",
-        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 187863,
-      "name": "Fantas Morbida",
-      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -487,22 +487,6 @@
       "duration_ms": 508613,
       "name": "Russian Snow",
       "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "Big Room",
         "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
       },
@@ -711,6 +727,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Withdrawal",
+      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -743,38 +775,6 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "outside of your lifetime",
-        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Withdrawal",
-      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
     },
     {
       "added_at": "2022-12-20 17:52:39",

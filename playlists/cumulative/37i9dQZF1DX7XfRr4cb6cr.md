@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-212 songs - 18 hr 45 min
+213 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Ghostlore](https://open.spotify.com/track/4fYhvLW1p5inttamdBxDUC) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 6:49 | 2023-02-17 |  |
 | [Ghosts and All](https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG) | 8:32 | 2022-12-30 | 2023-02-02 |
 | [Ghosts And All](https://open.spotify.com/track/3NoWosBv396ElBNTIuDT4u) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2MfGjYqGBrXFFPqr2Cduv6) | 8:32 | 2022-01-28 | 2022-07-26 |
-| [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 | 2023-03-10 |  |
+| [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 | 2023-03-10 | 2023-05-02 |
 | [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-02-18 |  |
 | [Good Earth](https://open.spotify.com/track/07GU39LRsLAOdjT6FTwYKY) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Good Earth](https://open.spotify.com/album/4f79S7nCBxZ9UvqQJn8nih) | 2:15 | 2022-02-25 |  |
 | [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-01-28 |  |
@@ -153,7 +153,7 @@
 | [Ribbon](https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:06 | 2023-01-27 |  |
 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 | 2022-01-21 |  |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2022-01-21 | 2022-07-28 |
-| [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 | 2023-04-07 | 2023-04-24 |
+| [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 | 2023-04-07 |  |
 | [Sacro Bosco](https://open.spotify.com/track/27gRCQY4CNnc7qLz84TFj0) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Sacro Bosco](https://open.spotify.com/album/2i2x4rz1bYSegtMgFC3Ryc) | 6:23 | 2022-01-21 | 2022-08-18 |
 | [Saints And Sinners](https://open.spotify.com/track/1d2NFYfJCzOdv0wJal2ecV) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 9:24 | 2022-01-21 | 2022-08-09 |
 | [Saints And Sinners](https://open.spotify.com/track/4kDYRMzcrEfKb8sVNq2eaU) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib) | 9:24 | 2022-12-30 | 2023-02-22 |
@@ -164,7 +164,7 @@
 | [Seeing Past What Things Seem](https://open.spotify.com/track/2sgqTahUU0PBwKcgRhqRDN) | [Aidan Baker](https://open.spotify.com/artist/7wPBSl15ddi9mRCgIllOa9) | [Seeing Past What Things Seem](https://open.spotify.com/album/7km6d7bH6SLfaaB52JuuoT) | 11:33 | 2022-01-21 | 2022-07-27 |
 | [Serpentine](https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 3:41 | 2022-01-21 |  |
 | [Silkworms](https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [Silkworms](https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY) | 9:35 | 2022-01-28 | 2022-07-26 |
-| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 |  |
+| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 | 2023-05-02 |
 | [Skymningszonen](https://open.spotify.com/track/6TMAYNIdnq8uEgK2YWmBOc) | [AKB](https://open.spotify.com/artist/2t9tbX2KNkdUAkiTmFxsat) | [Marianergraven](https://open.spotify.com/album/2r8nNouZ00fu3vA3CLmgos) | 4:13 | 2022-01-21 | 2022-07-28 |
 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 | 2022-03-18 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 |  |
@@ -177,6 +177,7 @@
 | [Sun \- Midnight Version](https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/0Ki50P3NuzhFtM70S5OOtf) | 19:28 | 2022-10-14 |  |
 | [Sun \- Midnight Version](https://open.spotify.com/track/7MJNbajzY9V54Eq2a0SiQD) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK) | 19:28 | 2022-03-25 | 2022-07-25 |
 | [Supreme Monuments](https://open.spotify.com/track/7lyDRUzEWTELXc0Kec4i8X) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg) | [Last And First Men](https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC) | 1:48 | 2022-01-21 |  |
+| [Ten Days Of Silence](https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Sleeping Sculptures](https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq) | 4:01 | 2023-04-21 |  |
 | [Ten Days Of Silence](https://open.spotify.com/track/7MKDDopU4Sc64SORGL3qY5) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Ten Days of Silence](https://open.spotify.com/album/1gqCn9PPhEg5FCx0luN0uu) | 4:01 | 2022-03-25 | 2022-04-20 |
 | [Thaw](https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Evighet](https://open.spotify.com/album/7Cd5dCtulmThozmYAv1I9s) | 7:54 | 2022-01-21 | 2022-07-28 |
 | [The Aurae Loops](https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 5:42 | 2022-01-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 231222,
+  "num_followers": 231236,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODk3OWFlOWU0OGU1YWMxZDRkMmFiYjUyZjRkM2IyYzk4YTlmNWI3",
+  "snapshot_id": "MCwwMmY2NmRmZGNlNzQ5Mzk3MGU0ZWUxZWI1ZTc2OWIxNGI3NjNiMDdk",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -47,6 +47,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Retreat",
+        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
+      },
+      "artists": [
+        {
+          "name": "Sinee",
+          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
+        }
+      ],
+      "duration_ms": 171137,
+      "name": "Retreat",
+      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Feel It Still",
         "url": "https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 222590,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Retreat",
-        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
-      },
-      "artists": [
-        {
-          "name": "Sinee",
-          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
-        }
-      ],
-      "duration_ms": 171137,
-      "name": "Retreat",
-      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -255,22 +255,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Wicked Hearts",
-        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
+        "name": "Best Part Of Us",
+        "url": "https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm"
       },
       "artists": [
         {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
         },
         {
-          "name": "Jamie Hartman",
-          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
         }
       ],
-      "duration_ms": 189136,
-      "name": "Wicked Hearts",
-      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
+      "duration_ms": 241040,
+      "name": "Best Part Of us",
+      "url": "https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -291,22 +291,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Best Part Of Us",
-        "url": "https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm"
+        "name": "Wicked Hearts",
+        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
       },
       "artists": [
         {
-          "name": "AmPm",
-          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
         },
         {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+          "name": "Jamie Hartman",
+          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
         }
       ],
-      "duration_ms": 241040,
-      "name": "Best Part Of us",
-      "url": "https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp"
+      "duration_ms": 189136,
+      "name": "Wicked Hearts",
+      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
-      },
-      "artists": [
-        {
-          "name": "Art of November",
-          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
-        }
-      ],
-      "duration_ms": 229581,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Elephant & Castle",
         "url": "https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 186900,
       "name": "Elephant & Castle",
       "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "duration_ms": 229581,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -839,6 +839,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Donum",
+        "url": "https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Donum",
+      "url": "https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Make It Work",
         "url": "https://open.spotify.com/album/6Ga7bHYIzazaFPfdbluAO9"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 169514,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/20bIVbHo1YmaG11l3Y3NnP"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Donum",
-        "url": "https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Donum",
-      "url": "https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Fugue State",
-        "url": "https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg"
-      },
-      "artists": [
-        {
-          "name": "Maiwan",
-          "url": "https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI"
-        }
-      ],
-      "duration_ms": 228055,
-      "name": "Trembling",
-      "url": "https://open.spotify.com/track/4lgaqqxbWLnc32Iy6gBjyd"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 451362,
       "name": "Girl",
       "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Fugue State",
+        "url": "https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg"
+      },
+      "artists": [
+        {
+          "name": "Maiwan",
+          "url": "https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI"
+        }
+      ],
+      "duration_ms": 228055,
+      "name": "Trembling",
+      "url": "https://open.spotify.com/track/4lgaqqxbWLnc32Iy6gBjyd"
     }
   ],
   "unique_name": "Aperitivo Time",

@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Indigo De Souza
 
-343 songs - 20 hr 47 min
+344 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,10 +326,11 @@
 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2021-11-14 | 2022-11-13 |
 | [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 | 2022-10-07 |  |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-02-04 | 2022-12-26 |
+| [Waltzing Back](https://open.spotify.com/track/3JcvpTfI64SmXxUl7XUvQI) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5j49mR7hcvrACDJZNVTmpu) | 3:12 | 2023-04-28 |  |
 | [Waltzing Back](https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq) | 3:12 | 2021-11-14 | 2023-04-30 |
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2021-11-14 | 2022-07-29 |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2022-05-20 |  |
-| [Watching Cartoons](https://open.spotify.com/track/3Gb1M4i5UlDauEnaLJF2HT) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [La Luz](https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w) | 3:28 | 2022-05-20 |  |
+| [Watching Cartoons](https://open.spotify.com/track/3Gb1M4i5UlDauEnaLJF2HT) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [La Luz](https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w) | 3:28 | 2022-05-20 | 2023-05-02 |
 | [Watching Cartoons](https://open.spotify.com/track/3IIZJE9HWQM0dkBBwL8TSW) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Watching Cartoons](https://open.spotify.com/album/0gvjWAOxM448sbpxLtBFHl) | 3:28 | 2021-11-14 | 2022-07-29 |
 | [Water Me Down](https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 4:32 | 2021-11-14 |  |
 | [We've Got a Good Thing Going](https://open.spotify.com/track/2KEfnqq0wATQc8S1mrFTcf) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [We've Got a Good Thing Going](https://open.spotify.com/album/4Uvzo1wpAuV6orxGuWPxqe) | 5:19 | 2021-11-14 | 2022-07-28 |

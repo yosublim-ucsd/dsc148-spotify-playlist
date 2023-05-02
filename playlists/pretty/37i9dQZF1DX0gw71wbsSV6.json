@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43323,
+  "num_followers": 43330,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjYzNWEzNmI4ZDMwYjVkZDZhMzk4Y2Q5ZmYyYTI0ZmJiNjI2ZWMz",
+  "snapshot_id": "MCwwY2FlNmM2YTE4Mzc5YjBkZjcxNjlkMThkNzY0MzQxZjg2OGJjOWRm",
   "tracks": [
     {
       "added_at": "2023-04-27 16:32:22",
@@ -659,22 +659,18 @@
     {
       "added_at": "2023-04-27 16:32:22",
       "album": {
-        "name": "A Night At The Symphony",
-        "url": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
+        "name": "See You In Life",
+        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Iceland Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Let You Break My Heart Again - Live at The Symphony",
-      "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
+      "duration_ms": 241750,
+      "name": "See You In Life",
+      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
     },
     {
       "added_at": "2023-04-27 16:32:22",
@@ -695,18 +691,22 @@
     {
       "added_at": "2023-04-27 16:32:22",
       "album": {
-        "name": "See You In Life",
-        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
+        "name": "A Night At The Symphony",
+        "url": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
       },
       "artists": [
         {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
         }
       ],
-      "duration_ms": 241750,
-      "name": "See You In Life",
-      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
+      "duration_ms": 302000,
+      "name": "Let You Break My Heart Again - Live at The Symphony",
+      "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
     },
     {
       "added_at": "2023-04-27 16:32:22",
@@ -727,18 +727,22 @@
     {
       "added_at": "2023-04-27 16:32:22",
       "album": {
-        "name": "How To Drive",
-        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
+        "name": "You & I (with Zack Tabudlo)",
+        "url": "https://open.spotify.com/album/0FPnGwztFm9X3r7C8kyX6l"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "Diego Gonzalez",
+          "url": "https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd"
+        },
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 219824,
-      "name": "How To Drive",
-      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
+      "duration_ms": 152000,
+      "name": "You & I (with Zack Tabudlo)",
+      "url": "https://open.spotify.com/track/2YZRBM2w68HXHgbKaRTlyw"
     },
     {
       "added_at": "2023-04-27 16:32:22",
@@ -763,6 +767,22 @@
     {
       "added_at": "2023-04-27 16:32:22",
       "album": {
+        "name": "How To Drive",
+        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 219824,
+      "name": "How To Drive",
+      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
+    },
+    {
+      "added_at": "2023-04-27 16:32:22",
+      "album": {
         "name": "Love (feat. Skaai)",
         "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
@@ -779,6 +799,22 @@
       "duration_ms": 258920,
       "name": "Love (feat. Skaai)",
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+    },
+    {
+      "added_at": "2023-04-27 16:32:22",
+      "album": {
+        "name": "Thank You For Attending",
+        "url": "https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "Paper Houses",
+      "url": "https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf"
     },
     {
       "added_at": "2023-04-27 16:32:22",
@@ -819,22 +855,18 @@
     {
       "added_at": "2023-04-27 16:32:22",
       "album": {
-        "name": "You & I (with Zack Tabudlo)",
-        "url": "https://open.spotify.com/album/0FPnGwztFm9X3r7C8kyX6l"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
       },
       "artists": [
         {
-          "name": "Diego Gonzalez",
-          "url": "https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd"
-        },
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 152000,
-      "name": "You & I (with Zack Tabudlo)",
-      "url": "https://open.spotify.com/track/2YZRBM2w68HXHgbKaRTlyw"
+      "duration_ms": 164586,
+      "name": "ceilings - Spotify Singles",
+      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
     },
     {
       "added_at": "2023-04-27 16:32:22",
@@ -855,22 +887,6 @@
     {
       "added_at": "2023-04-27 16:32:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "ceilings - Spotify Singles",
-      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
-    },
-    {
-      "added_at": "2023-04-27 16:32:22",
-      "album": {
         "name": "NIGHT TAPE",
         "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
@@ -883,26 +899,6 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-04-27 16:32:22",
-      "album": {
-        "name": "The Gym",
-        "url": "https://open.spotify.com/album/1aGB1YZ8nU8AciTJwe9uks"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "The Gym",
-      "url": "https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

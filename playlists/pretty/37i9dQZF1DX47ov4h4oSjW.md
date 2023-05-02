@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,172 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,174 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 29 | [20:17](https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Trance Frendz](https://open.spotify.com/album/5yulSZK48ArdLPXWur0qik) | 5:54 |
 | 30 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 |
 | 31 | [Her Eyes the Stars](https://open.spotify.com/track/3UR1smBMBt2bckrJfBSgyV) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe), [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [Her Eyes the Stars](https://open.spotify.com/album/2DQBbKWhK5Vbd55LgImyRg) | 2:10 |
-| 32 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 |
-| 33 | [For Stormboy](https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp) | [Rhiannon Bannenberg](https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy) | [Ambrosia \(Official Soundtrack\)](https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU) | 1:36 |
+| 32 | [For Stormboy](https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp) | [Rhiannon Bannenberg](https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy) | [Ambrosia \(Official Soundtrack\)](https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU) | 1:36 |
+| 33 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 |
 | 34 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 |
 | 35 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 |
 | 36 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 |
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 57 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 |
 | 58 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 |
 | 59 | [Gone](https://open.spotify.com/track/4FWHZMgkRqos4JD0Y9UUDb) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Gone](https://open.spotify.com/album/061BZmW8qfNCy5a1VkqRMr) | 1:54 |
-| 60 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 |
-| 61 | [Feels like home](https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Feels like home](https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz) | 2:33 |
-| 62 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 |
+| 60 | [Feels like home](https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Feels like home](https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz) | 2:33 |
+| 61 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 |
+| 62 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 |
 | 63 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 |
 | 64 | [Exhibitions](https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 3:31 |
 | 65 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 |
 | 66 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 |
-| 67 | [Amore](https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/05](https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix) | 5:09 |
-| 68 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 |
+| 67 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 |
+| 68 | [Amore](https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/05](https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix) | 5:09 |
 | 69 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 |
 | 70 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 |
 | 71 | [Always](https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Always](https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO) | 3:17 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 90 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 |
 | 91 | [Mantra for Piano](https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 3:18 |
 | 92 | [Next](https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq) | 2:14 |
-| 93 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 |
+| 93 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 |
 | 94 | [Airbourne](https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Airbourne](https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M) | 3:58 |
-| 95 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 |
-| 96 | [Azure \- Piano Version](https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Azure \(Piano Version\)](https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5) | 3:42 |
-| 97 | [Ready Set Love](https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Ready Set Love](https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25) | 1:29 |
-| 98 | [Midnight Musette](https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c) | [De Maynes](https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn) | [Midnight Musette](https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb) | 3:17 |
+| 95 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 |
+| 96 | [Ready Set Love](https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Ready Set Love](https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25) | 1:29 |
+| 97 | [Azure \- Piano Version](https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Azure \(Piano Version\)](https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5) | 3:42 |
+| 98 | [Under Cold Water](https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Under Cold Water](https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq) | 2:06 |
 | 99 | [Lonely Leslie](https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Lonely Leslie](https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg) | 2:39 |
-| 100 | [Under Cold Water](https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Under Cold Water](https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq) | 2:06 |
+| 100 | [Midnight Musette](https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c) | [De Maynes](https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn) | [Midnight Musette](https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb) | 3:17 |
 
-Snapshot ID: `MCxiNzQ2OWM1YThjZTQzZDhjMGE2NzUxZDYzODcwZjA2NDE0OGQ5NzIw`
+Snapshot ID: `MCw3Nzc5NTdhODY5Zjg3NTFmYzBkNDcxOThiYjU0NjUzN2ZiYjBiMjUz`

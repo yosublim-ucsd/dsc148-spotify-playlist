@@ -3320,6 +3320,24 @@
     {
       "album": {
         "name": "NANA",
+        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
+    },
+    {
+      "album": {
+        "name": "NANA",
         "url": "https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y"
       },
       "artists": [
@@ -5174,7 +5192,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 145594,
       "name": "troublin - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"

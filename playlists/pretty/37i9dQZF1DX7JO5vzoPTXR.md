@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: BLÜ EYES
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,458 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,482 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [You Make Me](https://open.spotify.com/track/6OjFxdNXqeBMfg7GNXcDLw) | [DEVADO](https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL) | [You Make Me](https://open.spotify.com/album/1RQZ4TvWFfWcmX87WGmfp3) | 2:16 |
 | 40 | [Be Her](https://open.spotify.com/track/0s1ZSmJT0dtCB7hf2agfHy) | [Andrea Dee](https://open.spotify.com/artist/5jT2BQS6mhv4pPvG1Tp1hj) | [Be Her](https://open.spotify.com/album/5g5WYrbK9SiDdZtQrzYDdr) | 2:49 |
 
-Snapshot ID: `MCxmYmRlMTgwZjM0NmI4ZGQ4MWU5MWUzMTc3N2MxMWQ2MjhkMTEzZGEw`
+Snapshot ID: `MCwyOGZhYzA3NWU0YzFlNGY1OWUwYmI1YTYwZDZmMTg4ZGM1Yjc1MjNl`

@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 197750,
+  "num_followers": 197786,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmM4OTU0ZDhjMGE1ODg2ZTA1Y2E0ZDc3YjMxODE3NzM1ZjMyZTUw",
+  "snapshot_id": "MCxmYzI1ZmU1YWI5NDc1ZWYxYTQ5YjY0OTY0ZDEyMDU1M2Y4OWRkMjU4",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -271,26 +271,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "RELATE (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "RELATE (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "FOUGHT 4 LOVE",
         "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
       },
@@ -311,18 +291,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
+        "name": "RELATE (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 211719,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
+      "duration_ms": 166666,
+      "name": "RELATE (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -343,6 +327,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
       },
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+      "duration_ms": 211719,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -531,6 +531,26 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Come Home (Warehouse Mix)",
+        "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        }
+      ],
+      "duration_ms": 158096,
+      "name": "Come Home - Warehouse Mix",
+      "url": "https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 221909,
       "name": "Spring Theory",
       "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Come Home (Warehouse Mix)",
-        "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        }
-      ],
-      "duration_ms": 158096,
-      "name": "Come Home - Warehouse Mix",
-      "url": "https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -651,70 +651,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "High Low (Remix)",
-        "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        },
-        {
-          "name": "Tryhard Society",
-          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 164383,
-      "name": "High Low - Remix",
-      "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "God Help Me",
-        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "Love Is Everything We Need",
-      "url": "https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 226281,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Source",
-        "url": "https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ"
-      },
-      "artists": [
-        {
-          "name": "Landry Cantrell",
-          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
-        }
-      ],
-      "duration_ms": 184385,
-      "name": "Source",
-      "url": "https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX"
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -735,34 +683,86 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
       },
       "artists": [
         {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 174314,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
+      "duration_ms": 226281,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
     },
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
+        "name": "God Help Me",
+        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 237537,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
+      "duration_ms": 157617,
+      "name": "Love Is Everything We Need",
+      "url": "https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Source",
+        "url": "https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ"
+      },
+      "artists": [
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        }
+      ],
+      "duration_ms": 184385,
+      "name": "Source",
+      "url": "https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "High Low (Remix)",
+        "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Tryhard Society",
+          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
+        }
+      ],
+      "duration_ms": 164383,
+      "name": "High Low - Remix",
+      "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -787,6 +787,22 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -843,6 +859,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 157463,
+      "name": "Help Me Let Go",
+      "url": "https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
       },
@@ -859,18 +891,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "How Far",
-        "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
+        "name": "This Is Freedom (Ain't No Rock) [Live]",
+        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
       },
       "artists": [
         {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 157463,
-      "name": "Help Me Let Go",
-      "url": "https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ"
+      "duration_ms": 344125,
+      "name": "This Is Freedom (Ain't No Rock) - Live",
+      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -899,58 +935,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "This Is Freedom (Ain't No Rock) [Live]",
-        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 344125,
-      "name": "This Is Freedom (Ain't No Rock) - Live",
-      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
-      },
-      "artists": [
-        {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Jireh (Reyer Remix)",
         "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 184012,
       "name": "Jireh - Reyer Remix",
       "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1003,6 +1003,22 @@
       "duration_ms": 178928,
       "name": "Unashamed",
       "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1047,22 +1063,6 @@
       "duration_ms": 184335,
       "name": "Won't Stop - Reyer Remix",
       "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z"
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
       "artists": [
         {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 177250,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7"
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
         }
       ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+      "duration_ms": 177250,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug"
-      },
-      "artists": [
-        {
-          "name": "Christian Paul",
-          "url": "https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe"
-        }
-      ],
-      "duration_ms": 209429,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Happy Day - Retain Remix",
         "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 200903,
       "name": "Happy Day - Retain Remix",
       "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug"
+      },
+      "artists": [
+        {
+          "name": "Christian Paul",
+          "url": "https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe"
+        }
+      ],
+      "duration_ms": 209429,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1359,26 +1359,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Heavenly (Ethan C. Davis Remix)",
-        "url": "https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        },
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Heavenly - Ethan C. Davis Remix",
-      "url": "https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR"
+      "duration_ms": 204613,
+      "name": "Nothing But The Truth",
+      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1403,18 +1395,26 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
+        "name": "Heavenly (Ethan C. Davis Remix)",
+        "url": "https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon"
       },
       "artists": [
         {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
         }
       ],
-      "duration_ms": 204613,
-      "name": "Nothing But The Truth",
-      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
+      "duration_ms": 222000,
+      "name": "Heavenly - Ethan C. Davis Remix",
+      "url": "https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR"
     }
   ],
   "unique_name": "Pop for Life",

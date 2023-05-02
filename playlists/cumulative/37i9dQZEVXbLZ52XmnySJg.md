@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- India.
 
-655 songs - 1 day 15 hr 25 min
+656 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Addi Sunni](https://open.spotify.com/track/1MTlqUpK9ukiBUbT9J9On2) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:02 | 2021-09-17 | 2021-09-18 |
 | [Adiye \- From "Bachelor"](https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Adiye \(From "Bachelor"\)](https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8) | 4:32 | 2022-01-06 | 2022-10-30 |
 | [Ae Watan \(Male\)](https://open.spotify.com/track/4wNLPh3T8dxrJwC32MzIUd) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Raazi](https://open.spotify.com/album/0RdCVt41cIwQe5pVPH2Z8B) | 3:43 | 2022-08-16 | 2022-08-18 |
-| [Afterhours](https://open.spotify.com/track/7o1SDLghDwMc4OW3rKakVt) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Afterhours](https://open.spotify.com/album/0gutaa3BZpZvwSL0eVRbP8) | 2:20 | 2023-04-30 |  |
+| [Afterhours](https://open.spotify.com/track/7o1SDLghDwMc4OW3rKakVt) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Afterhours](https://open.spotify.com/album/0gutaa3BZpZvwSL0eVRbP8) | 2:20 | 2023-04-30 | 2023-05-02 |
 | [Agar Tum Saath Ho \(From "Tamasha"\)](https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Forever With Arijit Singh](https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T) | 5:41 | 2021-03-27\* |  |
 | [Ain't Died In Vain](https://open.spotify.com/track/5tXDVieP5trNSb9cco2ZRt) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Ain't Died In Vain](https://open.spotify.com/album/5wb5xwD5MjgcpnnLNEK3V3) | 2:50 | 2022-06-18 | 2022-06-20 |
 | [Ainak](https://open.spotify.com/track/7JVpb6CY3I1JwQCIEgw9XT) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Ainak](https://open.spotify.com/album/1aFwpOLBomC4uEHVU36map) | 2:58 | 2022-10-01 | 2022-10-30 |
@@ -131,6 +131,7 @@
 | [Cold Hours](https://open.spotify.com/track/2la7g9bMqsgsWPC9WcQg56) | [Aleemrk](https://open.spotify.com/artist/13Dqz5dO1qYKzssnnbOwxR) | [Cold Hours](https://open.spotify.com/album/2Ul6Xcx8ghlQE20DVs3B0d) | 3:26 | 2022-10-01 | 2022-10-03 |
 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 | 2022-09-28 | 2022-10-23 |
 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 | 2021-03-27\* | 2021-05-16 |
+| [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-01 |  |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2022-09-24 |  |
 | [Dance Ka Bhoot](https://open.spotify.com/track/43Xb3G04Pgp63fNhQW4T6W) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Brahmastra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79) | 4:05 | 2022-10-07 | 2022-10-11 |
 | [Dance Ka Bhoot \(From "Brahmastra"\)](https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Dance Ka Bhoot \(From "Brahmastra"\)](https://open.spotify.com/album/4vOdoBnuF9sXjpRsofpJAv) | 4:05 | 2022-10-02 | 2022-10-08 |

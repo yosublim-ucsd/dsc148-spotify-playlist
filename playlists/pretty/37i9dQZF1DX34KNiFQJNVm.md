@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Marvvila, Luan Santana, Marina Senna, Lauana Prado com Guilherme & Benuto, Di Propósito e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865,403 likes - 101 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,865,485 likes - 101 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 100 | [Foi melhor assim](https://open.spotify.com/track/4qNf8KMLEssv9wpDy3Sj2F) | [Raissa](https://open.spotify.com/artist/1RPV7GfUGvfiptfKMTbxya), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Foi melhor assim](https://open.spotify.com/album/5fmpbTZAaguMCbW2BkTBzj) | 2:45 |
 | 101 | [Bunda Pra Lá, Bunda Pra Cá](https://open.spotify.com/track/49Hp8x0nM1INNaBIYT1reL) | [LT](https://open.spotify.com/artist/27EsaYcDfQ1XhSx08LJCNR) | [Bunda Pra Lá, Bunda Pra Cá](https://open.spotify.com/album/5lNqUxbkibKmTiyw9yPvsc) | 2:22 |
 
-Snapshot ID: `MCw4ZTBiZmQwZDU3MzVkNjk3MzQ3NGZjZjQ0MDRlZTZhM2ExOTJkN2M3`
+Snapshot ID: `MCw3ZDJmZmE2ZmZjNDkxZmIwYTM3ZDE2MjJhZjZlMmVlZWVjMWYxZmNk`

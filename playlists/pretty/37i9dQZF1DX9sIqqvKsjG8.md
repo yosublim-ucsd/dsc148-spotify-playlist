@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,726,848 likes - 319 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,727,030 likes - 319 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -328,4 +328,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 318 | [Im Garten nebenan](https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ) | [Julian Friedrich](https://open.spotify.com/artist/2XO8vo43M9GoHmXZelYzEH) | [Oetztal](https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX) | 2:42 |
 | 319 | [Aviron](https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Prospicio](https://open.spotify.com/album/2Jva3LhKgM8We64wBcUtAX) | 2:30 |
 
-Snapshot ID: `MCw1ZTQzODYwNDZiYjViYThlODhlNGMxNDNlYWY1ODExMTZiZjBjNGY3`
+Snapshot ID: `MCw4MWFiZTY5Nzg2MjdkZjI2OTMyOTdiNGIxZDZiZDkxNTdmZGVhMzU1`

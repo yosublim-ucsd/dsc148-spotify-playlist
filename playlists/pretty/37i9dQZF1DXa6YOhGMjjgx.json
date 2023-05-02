@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: The Luka State",
-  "num_followers": 471768,
+  "num_followers": 471804,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTkxZDYxNTM4MTk4ZWJhZGQ0YWFkYTk3M2QwMTkyZTM4NWU2ODdj",
+  "snapshot_id": "MCxiNzYyM2NhYmQ5ZTEzY2RjMGMwMDRlNzVmN2U1OGNiZGYwMzlkNDM3",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Don't Hate Me",
+        "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 251010,
+      "name": "Don't Hate Me",
+      "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Don't Go Dark",
         "url": "https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 224580,
       "name": "OK",
       "url": "https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Don't Hate Me",
-        "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 251010,
-      "name": "Don't Hate Me",
-      "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 173314,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Right After I Smoke This...",
         "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 239675,
       "name": "Joiner",
       "url": "https://open.spotify.com/track/1y19yprweVojkuEr954I0G"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Gaslight",
-        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 173314,
-      "name": "Gaslight",
-      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Moments of Clarity",
-        "url": "https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ"
+        "name": "One + One",
+        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
       "artists": [
         {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
         }
       ],
-      "duration_ms": 230935,
-      "name": "Moments of Clarity",
-      "url": "https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu"
+      "duration_ms": 226296,
+      "name": "One + One",
+      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "One + One",
-        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ"
       },
       "artists": [
         {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 226296,
-      "name": "One + One",
-      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
+      "duration_ms": 230935,
+      "name": "Moments of Clarity",
+      "url": "https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Magical Touch",
-        "url": "https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU"
-      },
-      "artists": [
-        {
-          "name": "The Wans",
-          "url": "https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn"
-        }
-      ],
-      "duration_ms": 188746,
-      "name": "Magical Touch",
-      "url": "https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Magical Touch",
+        "url": "https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU"
+      },
+      "artists": [
+        {
+          "name": "The Wans",
+          "url": "https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn"
+        }
+      ],
+      "duration_ms": 188746,
+      "name": "Magical Touch",
+      "url": "https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ"
     },
     {
       "added_at": "2023-03-17 04:00:00",

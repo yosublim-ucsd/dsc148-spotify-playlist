@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,201 likes - 80 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,499 likes - 80 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Reflection](https://open.spotify.com/track/4prvj25xjRhb9LkXOFjGhH) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Reflection](https://open.spotify.com/album/2cX4zlGQSTwgL6b2ia98m6) | 6:13 |
 | 80 | [Cormoran](https://open.spotify.com/track/09jgiJE4renLFOUgqxSWml) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [Cormoran](https://open.spotify.com/album/70Ovl6U9pKTsE2bE2YiXvc) | 6:28 |
 
-Snapshot ID: `MCwxMzc1NjJkMWEzNjI5NzkyNDA4YTI5YjQwZDczYWZiZDY0NzMxNTAz`
+Snapshot ID: `MCxiOWU4MTcxNzFhZmU2NjUwMzBiZGYyY2M5Yzg0MTg1ZjQ3YzFiZWRl`

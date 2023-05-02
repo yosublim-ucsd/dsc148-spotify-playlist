@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-422 songs - 1 day 0 hr 2 min
+423 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 | 2022-05-09 |  |
 | [Lo que necesitas es amor](https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Lo que necesitas es amor](https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe) | 5:03 | 2022-01-07 | 2023-03-03 |
 | [Lo Que Quieras](https://open.spotify.com/track/33mcpZMTT27FkyjnJ848Dz) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Todo Lo Sólido Se Desvanece en el Aire](https://open.spotify.com/album/1LGH4NHBhLBQtFL6Ouqicf) | 4:29 | 2022-01-07 | 2022-07-16 |
-| [Lo Que Quieras](https://open.spotify.com/track/3eeVnrODL1rVq94TQaYK8p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Todo Lo Sólido Se Desvanece en el Aire](https://open.spotify.com/album/3wLGZ4KdmOcXmWNHpuRo0t) | 4:29 | 2023-03-03 |  |
+| [Lo Que Quieras](https://open.spotify.com/track/3eeVnrODL1rVq94TQaYK8p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Todo Lo Sólido Se Desvanece en el Aire](https://open.spotify.com/album/3wLGZ4KdmOcXmWNHpuRo0t) | 4:29 | 2023-03-03 | 2023-05-02 |
 | [Lo Que Siento](https://open.spotify.com/track/47mhQpxuG4lA6ah7hqDvVe) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Lo Que Siento](https://open.spotify.com/album/1y8ohzuv7bF94pXkIkAfBT) | 4:30 | 2022-01-28 | 2022-07-20 |
 | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW) | 3:31 | 2022-01-07 | 2022-07-29 |
 | [Lo Quiero Ya](https://open.spotify.com/track/43srqItOQC7eURQ2Re0HKt) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Lo Quiero Ya](https://open.spotify.com/album/15rgy51NaYmffcxPkPumS4) | 1:56 | 2022-07-15 | 2022-07-20 |
@@ -325,6 +325,7 @@
 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 | 2022-01-07 | 2023-04-14 |
 | [Radar](https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5) | 2:42 | 2023-04-14 |  |
 | [Rapunzel](https://open.spotify.com/track/5yRqtny5JXioXV8SHO30nw) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Rapunzel](https://open.spotify.com/album/1kEkSvrq0Hv2K80V7YfirE) | 3:42 | 2022-04-01 | 2022-04-19 |
+| [RAYEN](https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [RAYEN](https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN) | 3:07 | 2023-04-14 |  |
 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 | 2022-01-28 | 2022-07-22 |
 | [Reina](https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Reina](https://open.spotify.com/album/64uweRga2ScsdB8Nf77yjg) | 3:03 | 2022-01-07 | 2022-07-21 |
 | [Remar una Canción](https://open.spotify.com/track/1f0Bo5En0SdihJiZZwcE3y) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Remar una Canción](https://open.spotify.com/album/2TFN0dlPZwNbDJsNu8ajhm) | 2:44 | 2022-01-07 | 2022-07-21 |

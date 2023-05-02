@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 366676,
+  "num_followers": 366748,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODk4YzlmYWFiODU5YWI3NDE3MzM5NmJiOWIyYTQ0MDkwMjA5MTVh",
+  "snapshot_id": "MCw1ZmRiN2FjZTNlZGU0Mzk0ODczZjdmMDcwYzVjMmEzY2NjYThkZDU3",
   "tracks": [
     {
       "added_at": "2023-04-28 06:51:55",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
+        "name": "\u307e\u3064\u308a",
+        "url": "https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5"
       },
       "artists": [
         {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 228573,
-      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
+      "duration_ms": 225924,
+      "name": "\u307e\u3064\u308a",
+      "url": "https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "\u307e\u3064\u308a",
-        "url": "https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5"
+        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 225924,
-      "name": "\u307e\u3064\u308a",
-      "url": "https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem"
+      "duration_ms": 228573,
+      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 216730,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
         "name": "DAWN (feat. Aile The Shota)",
         "url": "https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 184640,
       "name": "DAWN (feat. Aile The Shota)",
       "url": "https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
-        "name": "\u307e\u305f\u306d",
-        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 216730,
-      "name": "\u307e\u305f\u306d",
-      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
+        "name": "Running In The Dark (Image Song for Arknights mobile game)",
+        "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
+      },
+      "artists": [
+        {
+          "name": "Monkey Majik",
+          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Running In The Dark - Image Song for Arknights mobile game",
+      "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
         "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
         "url": "https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
-        "name": "Running In The Dark (Image Song for Arknights mobile game)",
-        "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
-      },
-      "artists": [
-        {
-          "name": "Monkey Majik",
-          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Running In The Dark - Image Song for Arknights mobile game",
-      "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "Hozue",
-        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 220236,
-      "name": "Hozue",
-      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
         "name": "The Swallow (feat. Midories)",
         "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
+        "name": "Hozue",
+        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 220236,
+      "name": "Hozue",
+      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L"
       },
@@ -1403,6 +1403,42 @@
       "duration_ms": 263692,
       "name": "Heat",
       "url": "https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
+        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
+        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 203554,
+      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
+        "name": "\u706f\u706b (feat. miida)",
+        "url": "https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "miida",
+          "url": "https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "\u706f\u706b (feat. miida)",
+      "url": "https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1435,38 +1471,6 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
-        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 203554,
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
-        "name": "\u751f\u304d\u308b\u8005",
-        "url": "https://open.spotify.com/album/26gXUOA2UGD1g0Bq3scVqi"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 281179,
-      "name": "\u751f\u304d\u308b\u8005",
-      "url": "https://open.spotify.com/track/6PI1TwnN9RmZvVFxxY8zIE"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
         "name": "BE THE GROOVE",
         "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
       },
@@ -1483,6 +1487,22 @@
       "duration_ms": 164800,
       "name": "BE THE GROOVE",
       "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
+        "name": "\u751f\u304d\u308b\u8005",
+        "url": "https://open.spotify.com/album/26gXUOA2UGD1g0Bq3scVqi"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 281179,
+      "name": "\u751f\u304d\u308b\u8005",
+      "url": "https://open.spotify.com/track/6PI1TwnN9RmZvVFxxY8zIE"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1535,22 +1555,18 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "\u706f\u706b (feat. miida)",
-        "url": "https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq"
+        "name": "orange",
+        "url": "https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "miida",
-          "url": "https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX"
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
         }
       ],
-      "duration_ms": 184285,
-      "name": "\u706f\u706b (feat. miida)",
-      "url": "https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul"
+      "duration_ms": 176666,
+      "name": "orange",
+      "url": "https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1607,6 +1623,22 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
+        "name": "Girl in the Mirror",
+        "url": "https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "duration_ms": 190594,
+      "name": "Girl in the Mirror",
+      "url": "https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
         "name": "Who are you ?",
         "url": "https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX"
       },
@@ -1623,38 +1655,6 @@
       "duration_ms": 176810,
       "name": "Who are you ?",
       "url": "https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
-        "name": "orange",
-        "url": "https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "orange",
-      "url": "https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
-        "name": "Girl in the Mirror",
-        "url": "https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA"
-      },
-      "artists": [
-        {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
-        }
-      ],
-      "duration_ms": 190594,
-      "name": "Girl in the Mirror",
-      "url": "https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1803,18 +1803,22 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "Chrome Season",
-        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
       },
       "artists": [
         {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "uin",
+          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
         }
       ],
-      "duration_ms": 186176,
-      "name": "come again",
-      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
+      "duration_ms": 174219,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb"
     },
     {
       "added_at": "2023-04-28 06:51:55",

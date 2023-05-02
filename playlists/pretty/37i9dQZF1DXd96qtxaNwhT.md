@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,241 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,237 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 69 | [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 |
 | 70 | [Hopeless Romantics](https://open.spotify.com/track/0zn5Sa8fRjpUo7XXUaNRTB) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Hopeless Romantics](https://open.spotify.com/album/4caqBOEvibGE77J3LaRrzK) | 2:59 |
 
-Snapshot ID: `MCw5MjkyMDcyMjJjYTAyODgxNDdiMjMzZjM4YmZmMjFhZWNkNzVkZjAz`
+Snapshot ID: `MCxiZTEwMDQ2NWRlNzUwZmEzNDNhNzFjMTMyNzgyNjI5YjQyZTg3N2Iz`

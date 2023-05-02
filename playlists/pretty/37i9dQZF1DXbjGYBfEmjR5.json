@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 271254,
+  "num_followers": 271441,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjRmODZmNTAwZDhjYzdlM2Q3YzI0N2E4OTdmNDU4NTgxMDU2MzAy",
+  "snapshot_id": "MCw4ZmY2YzI4MmQzZDIxN2M2MTIyM2MxMGIzMTI3MmQ3YTQ1NzA4N2I3",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -499,26 +499,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "I Found You (feat. Benjamin Ingrosso)",
-        "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "I Found You (feat. Benjamin Ingrosso)",
-      "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "FIGHT! 2",
         "url": "https://open.spotify.com/album/3TKjFJjhIOQSZ9Iej81PwJ"
       },
@@ -531,6 +511,22 @@
       "duration_ms": 132485,
       "name": "FIGHT! 2",
       "url": "https://open.spotify.com/track/23YjswBh5Od2fGEs5jEHoQ"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Flavored",
+        "url": "https://open.spotify.com/album/5jni2TbWknd8TBL6Nt4dyh"
+      },
+      "artists": [
+        {
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+        }
+      ],
+      "duration_ms": 189545,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/0bZPy3kBR0TzKeUvkMNcSg"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -555,18 +551,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Flavored",
-        "url": "https://open.spotify.com/album/5jni2TbWknd8TBL6Nt4dyh"
+        "name": "I Found You (feat. Benjamin Ingrosso)",
+        "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
       },
       "artists": [
         {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 189545,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/0bZPy3kBR0TzKeUvkMNcSg"
+      "duration_ms": 152195,
+      "name": "I Found You (feat. Benjamin Ingrosso)",
+      "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Sendagi Collection",
-        "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Selfish Earrings",
-      "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 178064,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/1vxCTGgZMs4LFCAlswRiS2"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Sendagi Collection",
+        "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "Selfish Earrings",
+      "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "J-Funk City : Vantage's Edits Collection",
-        "url": "https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf"
+        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
       },
       "artists": [
         {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 209529,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
+      "duration_ms": 142372,
+      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Now That I Have You",
         "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
       },
@@ -807,6 +791,38 @@
       "duration_ms": 153103,
       "name": "Sweet Baby!",
       "url": "https://open.spotify.com/track/2qHasYWuyXCwoJ8FYai22K"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "J-Funk City : Vantage's Edits Collection",
+        "url": "https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 209529,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+      },
+      "artists": [
+        {
+          "name": "K/92",
+          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
+        }
+      ],
+      "duration_ms": 132485,
+      "name": "Funk Dust",
+      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -827,18 +843,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },
       "artists": [
         {
-          "name": "K/92",
-          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
         }
       ],
-      "duration_ms": 132485,
-      "name": "Funk Dust",
-      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
+      "duration_ms": 173232,
+      "name": "Lovin' Is Everywhere",
+      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -907,38 +923,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "love u!!",
-        "url": "https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 150004,
-      "name": "love u!!",
-      "url": "https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 173232,
-      "name": "Lovin' Is Everywhere",
-      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Welcome To The Alley",
         "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 161959,
       "name": "Like My Love",
       "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "love u!!",
+        "url": "https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 150004,
+      "name": "love u!!",
+      "url": "https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "SAILORWAVE III",
+        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sailor Saturn",
+      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Saturn St.",
         "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 80098,
       "name": "Disco's Revenge",
       "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "SAILORWAVE III",
-        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
-      },
-      "artists": [
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sailor Saturn",
-      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Dance Tonite",
-        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Dance Tonite",
-      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
       },
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Dance Tonite",
+        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Dance Tonite",
+      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Now That I Have You",
         "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "\u9055\u3046",
-        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
-      },
-      "artists": [
-        {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "\u9055\u3046",
-      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Sexy Times (3rd Anniversary Edition)",
         "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 225084,
       "name": "Hot Chance",
       "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "\u9055\u3046",
+        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
+      },
+      "artists": [
+        {
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "\u9055\u3046",
+      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Lynx",
         "url": "https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3"
       },
@@ -1427,6 +1443,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Bae 5",
+        "url": "https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 195274,
+      "name": "Welcome To The Disco",
+      "url": "https://open.spotify.com/track/6NT76Qk0fQCjPZecFgMIl5"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "DUCK GROOVE",
         "url": "https://open.spotify.com/album/63dKEwkkrKpyaZT3y9h8xj"
       },
@@ -1439,22 +1475,6 @@
       "duration_ms": 142497,
       "name": "DUCK GROOVE",
       "url": "https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1507,22 +1527,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Montaime, Vol. 1",
-        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
-      },
-      "artists": [
-        {
-          "name": "Bazz",
-          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
-        }
-      ],
-      "duration_ms": 369500,
-      "name": "Knights",
-      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "First Season",
         "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
       },
@@ -1535,6 +1539,22 @@
       "duration_ms": 295894,
       "name": "First Season",
       "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Montaime, Vol. 1",
+        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
+      },
+      "artists": [
+        {
+          "name": "Bazz",
+          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
+        }
+      ],
+      "duration_ms": 369500,
+      "name": "Knights",
+      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1575,22 +1595,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Stellae",
-        "url": "https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k"
+        "name": "Selfish High Heels",
+        "url": "https://open.spotify.com/album/181GktSNgR8gA0ql8LLlEa"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
         },
         {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 230163,
-      "name": "Stellae",
-      "url": "https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8"
+      "duration_ms": 226500,
+      "name": "Selfish High Heels",
+      "url": "https://open.spotify.com/track/4jkQZNP7o8T7xuTs9EQu7Y"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1635,18 +1659,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Slowed Midnight",
-        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
+        "name": "Stellae",
+        "url": "https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k"
       },
       "artists": [
         {
-          "name": "Cape Coral",
-          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Querelle",
-      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
+      "duration_ms": 230163,
+      "name": "Stellae",
+      "url": "https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1667,38 +1695,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
+        "name": "Slowed Midnight",
+        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
       "artists": [
         {
-          "name": "Versiple",
-          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
+          "name": "Cape Coral",
+          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
         }
       ],
-      "duration_ms": 303148,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Galetus",
-        "url": "https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Mere Notilde",
-          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
-        }
-      ],
-      "duration_ms": 207138,
-      "name": "Galetus",
-      "url": "https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK"
+      "duration_ms": 171000,
+      "name": "Querelle",
+      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
     }
   ],
   "unique_name": "Future Funk",

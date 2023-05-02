@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 707672,
+  "num_followers": 707906,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDVhNDJiYmU4Zjg3YTJiMjM3MjYwZTAyNmIxMTVjNTM0YzA5Nzgy",
+  "snapshot_id": "MCwwNzBmMzhlMmQ1ZGI5ZDBhMWMxYTdiY2Y3ZGNlNzZkYWMyMGY5Y2Yz",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Bahar",
+        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Star Tripper",
         "url": "https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 445210,
       "name": "Before the Storm",
       "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Bahar",
-        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 427000,
       "name": "Chaghaf",
       "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Nterini (Sparrow & Barbossa Remix)",
         "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 363765,
       "name": "Nterini - Sparrow & Barbossa Remix",
       "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+      },
+      "artists": [
+        {
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "White Desert",
         "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 400696,
       "name": "White Desert",
       "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Magic Workout",
         "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 335877,
       "name": "Magic Workout",
       "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1023,22 +1023,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Parivartan",
-        "url": "https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp"
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
       "artists": [
         {
-          "name": "Elcor",
-          "url": "https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj"
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
         },
         {
-          "name": "Skydrips",
-          "url": "https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF"
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
         }
       ],
-      "duration_ms": 486879,
-      "name": "Parivartan",
-      "url": "https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv"
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+        "name": "Parivartan",
+        "url": "https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp"
       },
       "artists": [
         {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+          "name": "Elcor",
+          "url": "https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj"
         },
         {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+          "name": "Skydrips",
+          "url": "https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF"
         }
       ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+      "duration_ms": 486879,
+      "name": "Parivartan",
+      "url": "https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1191,42 +1191,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
-      },
-      "artists": [
-        {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
-        },
-        {
-          "name": "Tim Jules",
-          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
-        }
-      ],
-      "duration_ms": 286392,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Voodoo Guitar",
         "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
       },
@@ -1251,18 +1215,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1283,18 +1247,38 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "Tim Jules",
+          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
         }
       ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+      "duration_ms": 286392,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 464237,
       "name": "Caminando de Noche",
       "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2023-04-20 22:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Staind",
-  "num_followers": 574936,
+  "num_followers": 575244,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjMwMWY5NmMyY2U2MTRiMWYwZDhlMzQ3YzMxZTBhN2U3MWRmYzFj",
+  "snapshot_id": "MCw0NmJmNzJmZTNlYTg2Y2FmZmQ0YzRjODczY2E0MTcxZWY0NmI2ODc1",
   "tracks": [
     {
       "added_at": "2023-01-04 08:57:15",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Silver Side Up",
-        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "How You Remind Me",
-      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 260026,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Silver Side Up",
+        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "The Boy Who Died Wolf",
         "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
       },
       "artists": [
         {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
         }
       ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -843,22 +859,6 @@
       "duration_ms": 255000,
       "name": "Doesn't Remind Me",
       "url": "https://open.spotify.com/track/0o995gJCGebaza0LWybToU"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Throwing Copper",
-        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
-      },
-      "artists": [
-        {
-          "name": "Live",
-          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Selling The Drama",
-      "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 298600,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Throwing Copper",
+        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Selling The Drama",
+      "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 340106,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "Frogstomp (Deluxe Edition) [Remastered]",
         "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 267284,
       "name": "Poor Aileen",
       "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 340106,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "13 Ways To Bleed Onstage",
+        "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
+      },
+      "artists": [
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "10: 1993-2003 - Ten Years of K's Choice",
         "url": "https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 189363,
       "name": "Stoned, Alone",
       "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "13 Ways To Bleed Onstage",
-        "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
-      },
-      "artists": [
-        {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
     },
     {
       "added_at": "2023-01-04 08:57:15",

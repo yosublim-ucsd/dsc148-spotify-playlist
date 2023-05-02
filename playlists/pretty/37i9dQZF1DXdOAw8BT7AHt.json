@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Lambrini Girls",
-  "num_followers": 48700,
+  "num_followers": 48701,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmMzNjY0MDZmNjkwY2RhMTgwY2UyMzMyZWRiNjg4NWVjNmM1Nzg3",
+  "snapshot_id": "MCwyYmI4NWZlZDdkODU1M2I0ZTY0OTRhMWQ4ZWFiMDM4OWRjZDM1Mjhj",
   "tracks": [
     {
       "added_at": "2023-04-21 15:17:44",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "It Was Fun While It Lasted",
-        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 150522,
-      "name": "Drunk Dial",
-      "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "MANIC MAN",
         "url": "https://open.spotify.com/album/2VYycGvZq7uUmzjqWN11V3"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 134634,
       "name": "MANIC MAN",
       "url": "https://open.spotify.com/track/0ioY5fitg2h9o2VgBtjVCj"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 150522,
+      "name": "Drunk Dial",
+      "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
     },
     {
       "added_at": "2023-04-21 15:17:44",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Harder Than It Looks",
-        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 216474,
-      "name": "Wake Me Up (When This Nightmare\u2019s Over)",
-      "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Get Fucked",
         "url": "https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 160380,
       "name": "hair out",
       "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Harder Than It Looks",
+        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 216474,
+      "name": "Wake Me Up (When This Nightmare\u2019s Over)",
+      "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Here\u2019s What You Could Have Won",
         "url": "https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/5zbKXMod7hqor3gJH72enV"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -471,22 +471,6 @@
       "duration_ms": 232058,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
-    },
-    {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Til' The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/2AqP19h098LcAM1bBTRkXI"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 186048,
-      "name": "Til' The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -525,6 +509,22 @@
       "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
     },
     {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Til' The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/2AqP19h098LcAM1bBTRkXI"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 186048,
+      "name": "Til' The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Carousel",
@@ -559,38 +559,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Totally Fine",
-      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
-    },
-    {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "FTS (KYS)",
-        "url": "https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "I.N.V.U.",
         "url": "https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v"
       },
@@ -607,6 +575,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "Totally Fine",
+      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Marching Powder",
         "url": "https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 125937,
       "name": "Marching Powder",
       "url": "https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "FTS (KYS)",
+        "url": "https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
-      },
-      "artists": [
-        {
-          "name": "Phoneboy",
-          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -713,20 +697,20 @@
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
     },
     {
-      "added_at": "2023-03-20 13:21:43",
+      "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
       },
       "artists": [
         {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
         }
       ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+      "duration_ms": 162133,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -743,6 +727,22 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2023-03-20 13:21:43",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Cave World (Deluxe)",
-        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 283187,
-      "name": "It Ain't Enough",
-      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Cave World (Deluxe)",
+        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 283187,
+      "name": "It Ain't Enough",
+      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "EXPLICIT: The MiXXXtape",
         "url": "https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 192226,
       "name": "D.R.I.L.D.O",
       "url": "https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Baku's Revenge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 151268,
+      "name": "Facedown",
+      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
     },
     {
       "added_at": "2023-04-21 15:17:44",
@@ -867,22 +883,6 @@
       "duration_ms": 284093,
       "name": "Sweet Dreams of Otherness",
       "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
-    },
-    {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Baku's Revenge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 151268,
-      "name": "Facedown",
-      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "serotonin",
         "url": "https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge"
       },
@@ -1117,20 +1101,20 @@
       "url": "https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj"
     },
     {
-      "added_at": "2023-03-27 20:30:32",
+      "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "DBSAC",
-        "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
       "artists": [
         {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 147764,
-      "name": "DBSAC",
-      "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1163,6 +1147,38 @@
       "duration_ms": 230857,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6m4BBz6Ui5oQKXNmiy1QOg"
+    },
+    {
+      "added_at": "2023-03-27 20:30:32",
+      "album": {
+        "name": "DBSAC",
+        "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 147764,
+      "name": "DBSAC",
+      "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 197660,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 196000,
       "name": "Little Fix",
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
-    },
-    {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 197660,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",

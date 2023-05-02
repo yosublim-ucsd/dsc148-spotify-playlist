@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 168631,
+  "num_followers": 168627,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzNkMWM5NWM1YzdjZWNmM2I5MjQ5MmNmZjM4ZmRhNjQxOTYwOTk4",
+  "snapshot_id": "MCw0OTJiOTJkYWZlZmVhM2JhZGE1MzE2ZGRjMDI0M2VjMzRkOGVmNDE0",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -295,30 +295,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
-      "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Fall in Love at Christmas",
         "url": "https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 308000,
       "name": "Fall in Love at Christmas",
       "url": "https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
+      "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -437,26 +437,6 @@
       "url": "https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF"
     },
     {
-      "added_at": "2022-12-12 18:18:20",
-      "album": {
-        "name": "Home For The Holidays Vol. 2",
-        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 237393,
-      "name": "Might As Well Have Coal (with Baby Tate)",
-      "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Sleigh Ride (Remixes)",
@@ -521,6 +501,26 @@
       "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
     },
     {
+      "added_at": "2022-12-12 18:18:20",
+      "album": {
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 237393,
+      "name": "Might As Well Have Coal (with Baby Tate)",
+      "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The Classic Christmas Album",
@@ -555,26 +555,6 @@
       "duration_ms": 262649,
       "name": "All I Want For Christmas Is You (feat. Stokley)",
       "url": "https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Home For The Holidays Vol. 2",
-        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Let It Snow (with dvsn)",
-      "url": "https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -625,6 +605,22 @@
       "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
+        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "duration_ms": 360133,
+      "name": "Soul Holidays",
+      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
+    },
+    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "The Christmas Song (Merry Christmas To You)",
@@ -641,20 +637,24 @@
       "url": "https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
-        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
       },
       "artists": [
         {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
         }
       ],
-      "duration_ms": 360133,
-      "name": "Soul Holidays",
-      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
+      "duration_ms": 259500,
+      "name": "Let It Snow (with dvsn)",
+      "url": "https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -691,26 +691,6 @@
       "duration_ms": 287426,
       "name": "I Can Hardly Wait 'Til Christmas",
       "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 140140,
-      "name": "Santa Baby (with Summer Walker)",
-      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -779,6 +759,26 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "First Christmas",
         "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 263866,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Someday At Christmas",
-        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
-      },
-      "artists": [
-        {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
-        }
-      ],
-      "duration_ms": 203434,
-      "name": "Someday At Christmas",
-      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -823,6 +807,22 @@
       "duration_ms": 192455,
       "name": "To: You",
       "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Someday At Christmas",
+        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
+      },
+      "artists": [
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -863,18 +863,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
       },
       "artists": [
         {
-          "name": "Vanessa Williams",
-          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
         }
       ],
-      "duration_ms": 232840,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
+      "duration_ms": 186098,
+      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -895,22 +899,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
         }
       ],
-      "duration_ms": 186098,
-      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
+      "duration_ms": 232840,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
     },
     {
       "added_at": "2022-11-25 20:23:30",

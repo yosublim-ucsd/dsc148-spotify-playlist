@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 95626,
+  "num_followers": 95879,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTQyMjljYzI3ODZiNDQwODFjODE1NTc3ODAyYTZmNjRkZWU4M2I5",
+  "snapshot_id": "MCw4MDUwYzNhN2MzODk0YjUyNmI3ZmE4ODhkMjg3YTQ4NzMxMzlhOWEy",
   "tracks": [
     {
       "added_at": "2023-03-14 21:50:42",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
-      "added_at": "2023-05-01 01:03:41",
+      "added_at": "2023-05-02 01:01:39",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 173040,
       "name": "God Only Knows - Mono",
       "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 191560,
       "name": "Nine in the Afternoon - Single Mix",
       "url": "https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "For Emma",
-      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "For Emma",
+      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
       },
@@ -607,38 +623,6 @@
       "duration_ms": 330773,
       "name": "Michigan",
       "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "America",
-      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -719,6 +703,22 @@
       "duration_ms": 180093,
       "name": "Anyone Else But You",
       "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Soviet Kitsch",
-        "url": "https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 199573,
       "name": "Atop a Cake",
       "url": "https://open.spotify.com/track/6LC4cyrlOPeg2WXijaYrgj"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Soviet Kitsch",
+        "url": "https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "The First Days Of Spring",
-        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Begin to Hope (Special Edition)",
-        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
+        "name": "The First Days Of Spring",
+        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
       },
       "artists": [
         {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
         }
       ],
-      "duration_ms": 226680,
-      "name": "Fidelity",
-      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
+      "duration_ms": 247733,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1023,6 +1007,22 @@
       "duration_ms": 208973,
       "name": "Tiger Mountain Peasant Song",
       "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Begin to Hope (Special Edition)",
+        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Fidelity",
+      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "The Execution Of All Things",
-        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "With Arms Outstretched",
-      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 245120,
       "name": "Foundations",
       "url": "https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "With Arms Outstretched",
+      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "Where The Wild Things Are Motion Picture Soundtrack: Original Songs By Karen O And The Kids",
         "url": "https://open.spotify.com/album/58lyF4XIJENuFrTI0W2wXf"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "The Execution Of All Things",
         "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Beat Happening",
-        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
-      },
-      "artists": [
-        {
-          "name": "Beat Happening",
-          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
-        }
-      ],
-      "duration_ms": 122466,
-      "name": "What\u2019s Important",
-      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "London Weekend",
         "url": "https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 278440,
       "name": "You Should All Be Murdered",
       "url": "https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Beat Happening",
+        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
+      },
+      "artists": [
+        {
+          "name": "Beat Happening",
+          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+        }
+      ],
+      "duration_ms": 122466,
+      "name": "What\u2019s Important",
+      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Title and Registration",
+      "url": "https://open.spotify.com/track/0COWVvFfJ7sPNI8CIS6TU7"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "Just Another Diamond Day",
         "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 219266,
-      "name": "Title and Registration",
-      "url": "https://open.spotify.com/track/0COWVvFfJ7sPNI8CIS6TU7"
+      "duration_ms": 166320,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/1pTwsLvnN8xPULDGzRjnfd"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1591,34 +1607,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Some Are Lakes",
-        "url": "https://open.spotify.com/album/0LcNbby41jxxvg5nrgwsvo"
+        "name": "Torch Song",
+        "url": "https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs"
       },
       "artists": [
         {
-          "name": "Land of Talk",
-          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
+          "name": "Radiator Hospital",
+          "url": "https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn"
         }
       ],
-      "duration_ms": 294146,
-      "name": "It's Okay",
-      "url": "https://open.spotify.com/track/1Mhm1ffgSwXQnherftGRau"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/1pTwsLvnN8xPULDGzRjnfd"
+      "duration_ms": 126971,
+      "name": "Cut Your Bangs",
+      "url": "https://open.spotify.com/track/3ziv4Uszw9iRjUpZt1la0L"
     }
   ],
   "unique_name": "Twee",

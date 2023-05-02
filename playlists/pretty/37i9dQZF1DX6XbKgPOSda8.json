@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 144193,
+  "num_followers": 144320,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjFiY2VjYmY2MzVkZWY1Nzg2MTIyYTliN2NkYzM0MGI1ZmFiNDVj",
+  "snapshot_id": "MCw0MDEwOWNmYzQ0ZDhjOTg2M2M2ZTE3ODlkNDdiMTM2ZWExZDQ5NTJl",
   "tracks": [
     {
       "added_at": "2022-08-02 23:23:30",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Destilando Amor",
         "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
@@ -151,22 +135,6 @@
       "duration_ms": 247893,
       "name": "Todo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -187,6 +155,22 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 181306,
       "name": "17 A\u00f1os",
       "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -331,18 +315,34 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
       },
       "artists": [
         {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
+      "duration_ms": 184920,
+      "name": "Amor Secreto",
+      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -363,38 +363,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
@@ -411,18 +379,34 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 184920,
-      "name": "Amor Secreto",
-      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -459,26 +443,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -491,6 +455,22 @@
       "duration_ms": 281129,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -527,38 +507,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Amor De 3",
-        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
-      },
-      "artists": [
-        {
-          "name": "Aroma",
-          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Amor De Tres",
-      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Lo Nuevo Y Lo Mejor",
-        "url": "https://open.spotify.com/album/5zowtYibiMVyn3VjPUp3I5"
-      },
-      "artists": [
-        {
-          "name": "Xochilt",
-          "url": "https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB"
-        }
-      ],
-      "duration_ms": 228680,
-      "name": "Quiero Saber De Ti",
-      "url": "https://open.spotify.com/track/6St9CXbwvRkP9gHgbuC0mY"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
@@ -571,6 +519,22 @@
       "duration_ms": 207516,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Amor De 3",
+        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
+      },
+      "artists": [
+        {
+          "name": "Aroma",
+          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Amor De Tres",
+      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -591,6 +555,22 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
+        "name": "Lo Nuevo Y Lo Mejor",
+        "url": "https://open.spotify.com/album/5zowtYibiMVyn3VjPUp3I5"
+      },
+      "artists": [
+        {
+          "name": "Xochilt",
+          "url": "https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB"
+        }
+      ],
+      "duration_ms": 228680,
+      "name": "Quiero Saber De Ti",
+      "url": "https://open.spotify.com/track/6St9CXbwvRkP9gHgbuC0mY"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
         "name": "Felicidad",
         "url": "https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 197640,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -751,22 +735,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Conga Y Timbal",
         "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
       },
@@ -779,6 +747,38 @@
       "duration_ms": 219559,
       "name": "Conga Y Timbal",
       "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 214173,
-      "name": "Destilando Amor",
-      "url": "https://open.spotify.com/track/6Gi35T5449ZbiGpzn9cfBl"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
         "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 171600,
       "name": "Cumbia de los Pajaritos",
       "url": "https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 214173,
+      "name": "Destilando Amor",
+      "url": "https://open.spotify.com/track/6Gi35T5449ZbiGpzn9cfBl"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
         "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
         "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
         "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 248857,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Sue\u00f1o Contigo",
         "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 211506,
       "name": "Mami (Angel De Paz)",
       "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 248857,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1455,6 +1455,26 @@
       "duration_ms": 272091,
       "name": "Abandonado",
       "url": "https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Juntos Por La Sonora",
+        "url": "https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 278120,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1495,26 +1515,6 @@
       "duration_ms": 207400,
       "name": "Mu\u00f1eca Esquiva",
       "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Juntos Por La Sonora",
-        "url": "https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 278120,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Antologia",
-        "url": "https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
-          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "Corazon Enamorado",
-      "url": "https://open.spotify.com/track/51KykeJrnWtNyDoNcJelcZ"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Disco De Oro - Cumbia",
         "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 180012,
       "name": "Cumbia Barulera",
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Antologia",
+        "url": "https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
+          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Corazon Enamorado",
+      "url": "https://open.spotify.com/track/51KykeJrnWtNyDoNcJelcZ"
     },
     {
       "added_at": "2022-08-02 23:23:30",

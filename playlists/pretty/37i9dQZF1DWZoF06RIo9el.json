@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de abril 2023",
-  "num_followers": 1522176,
+  "num_followers": 1522235,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjA2ZmJkZjU5NDM3OGI5YjA5MmNkYzQ2MGU1NGQxNjlmODMyYmEx",
+  "snapshot_id": "MCw5ZDUyODk3NTA3YmIwZTM5OTE3MjY4MWIyYWJmMTFiNmVjNGQ4MTIy",
   "tracks": [
     {
       "added_at": "2023-04-20 21:27:13",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-04-20 21:27:13",
       "album": {
-        "name": "Cuerpecito",
-        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Cuerpecito",
-      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
-    },
-    {
-      "added_at": "2023-04-20 21:27:13",
-      "album": {
         "name": "Jagger.mp3",
         "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 155861,
       "name": "Jagger.mp3",
       "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
+    },
+    {
+      "added_at": "2023-04-20 21:27:13",
+      "album": {
+        "name": "Cuerpecito",
+        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Cuerpecito",
+      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
     },
     {
       "added_at": "2023-04-20 21:27:13",

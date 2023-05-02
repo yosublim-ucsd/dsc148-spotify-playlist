@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 79160,
+  "num_followers": 79215,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjZlMTJlM2YzZDY3MWY0NjRjNWIwOTBmNGU0MGYyNmVmNTA5ODlk",
+  "snapshot_id": "MCw2MzQ0NThiOWIzNDI4NGRmOWM2NDgzNjg5NGY0MGUyYzljNjRjNDJj",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Big Fun (Remastered)",
-        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Big Fun (Remastered)",
-      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Recycled Plastik",
         "url": "https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 325880,
       "name": "A Walk in the Park",
       "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Big Fun (Remastered)",
+        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Big Fun (Remastered)",
+      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
+        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 252720,
+      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
+      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "The Album Formerly Known As ...",
         "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
       },
@@ -339,6 +359,22 @@
       "duration_ms": 415759,
       "name": "A Wonderful Life - Version",
       "url": "https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Pennies From Heaven (Remastered)",
+        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 198159,
+      "name": "Pennies From Heaven (Remastered)",
+      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -363,6 +399,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
       },
@@ -375,58 +427,6 @@
       "duration_ms": 341106,
       "name": "Tedra",
       "url": "https://open.spotify.com/track/0LXrOoeTSHbDF4gsxZXRSD"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Pennies From Heaven (Remastered)",
-        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 198159,
-      "name": "Pennies From Heaven (Remastered)",
-      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "No Ufo's (Original Version)",
-        "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
-      },
-      "artists": [
-        {
-          "name": "Model 500",
-          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "No Ufo's - Vocal",
-      "url": "https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
-        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
-      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -447,18 +447,46 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+        "name": "No Ufo's (Original Version)",
+        "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
       },
       "artists": [
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+          "name": "Model 500",
+          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
         }
       ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+      "duration_ms": 258933,
+      "name": "No Ufo's - Vocal",
+      "url": "https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
+        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Virus J",
+          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
+        },
+        {
+          "name": "Justin Cholewski",
+          "url": "https://open.spotify.com/artist/7h81kW4LNqyMlPkfRD8nEq"
+        }
+      ],
+      "duration_ms": 190947,
+      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
+      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -499,82 +527,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Innovator (Mayday)",
-        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
-      },
-      "artists": [
-        {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
-        }
-      ],
-      "duration_ms": 432586,
-      "name": "The Dance",
-      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
-        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        },
-        {
-          "name": "Virus J",
-          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
-        },
-        {
-          "name": "Justin Cholewski",
-          "url": "https://open.spotify.com/artist/7h81kW4LNqyMlPkfRD8nEq"
-        }
-      ],
-      "duration_ms": 190947,
-      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
-      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Into The Dark",
-        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
-      },
-      "artists": [
-        {
-          "name": "The Saunderson Brothers",
-          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
-        }
-      ],
-      "duration_ms": 221199,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "When We Used To Play",
-        "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
-      },
-      "artists": [
-        {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        }
-      ],
-      "duration_ms": 500807,
-      "name": "When We Used To Play - Original Extended Mix",
-      "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
       },
@@ -595,18 +547,34 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Art of Music",
-        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
+        "name": "Innovator (Mayday)",
+        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
       },
       "artists": [
         {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
         }
       ],
-      "duration_ms": 320866,
-      "name": "Telekinesis",
-      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
+      "duration_ms": 432586,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Into The Dark",
+        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
+      },
+      "artists": [
+        {
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+        }
+      ],
+      "duration_ms": 221199,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -627,6 +595,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "When We Used To Play",
+        "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
+      },
+      "artists": [
+        {
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        }
+      ],
+      "duration_ms": 500807,
+      "name": "When We Used To Play - Original Extended Mix",
+      "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "I Can't Believe",
         "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 369016,
       "name": "I Can't Believe - Extended Mix",
       "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Art of Music",
+        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 320866,
+      "name": "Telekinesis",
+      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
-      },
-      "artists": [
-        {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
-        }
-      ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Just Want Another Chance",
         "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Bearer feat. Karina Mia",
-        "url": "https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl"
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
       },
       "artists": [
         {
-          "name": "Octave One",
-          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
         }
       ],
-      "duration_ms": 360773,
-      "name": "The Bearer feat. Karina Mia - Brother\u2019s Burden PT1",
-      "url": "https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk"
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -763,6 +747,38 @@
       "duration_ms": 223626,
       "name": "Throw",
       "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Bearer feat. Karina Mia",
+        "url": "https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl"
+      },
+      "artists": [
+        {
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
+        }
+      ],
+      "duration_ms": 360773,
+      "name": "The Bearer feat. Karina Mia - Brother\u2019s Burden PT1",
+      "url": "https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Red Room",
+        "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
+      },
+      "artists": [
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        }
+      ],
+      "duration_ms": 400579,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Red Room",
-        "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
-      },
-      "artists": [
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        }
-      ],
-      "duration_ms": 400579,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Detroit Love Vol. 2 (DJ Mix)",
         "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 339336,
       "name": "Do It All Night (C2 Edit) - Mixed",
       "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -875,6 +859,22 @@
       "duration_ms": 352599,
       "name": "We All Move Together - Album Mix",
       "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "On A Journey",
+        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 271464,
+      "name": "On A Journey",
+      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
     }
   ],
   "unique_name": "Detroit Techno",

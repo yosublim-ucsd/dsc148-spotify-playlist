@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 99476,
+  "num_followers": 99665,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODdkZWE3NmY0ODZiYmNlZTdjZTA1YTA5Mzg2YzY0YmYyZDA0OGEy",
+  "snapshot_id": "MCw4YjQwMGY1ZWRkMjhkYWE3MThjYzY2MmFhNTRhYmNlODcwNjEyYWNm",
   "tracks": [
     {
       "added_at": "2023-03-14 22:36:58",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "The World Has Turned And Left Me Here",
-      "url": "https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -167,6 +151,54 @@
       "duration_ms": 264546,
       "name": "Understanding In A Car Crash",
       "url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "The World Has Turned And Left Me Here",
+      "url": "https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Your Favorite Weapon",
+        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
+      },
+      "artists": [
+        {
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Jude Law And A Semester Abroad",
+      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Pleasant Living",
+        "url": "https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci"
+      },
+      "artists": [
+        {
+          "name": "Tiny Moving Parts",
+          "url": "https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "Always Focused",
+      "url": "https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -203,34 +235,18 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Pleasant Living",
-        "url": "https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci"
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
       "artists": [
         {
-          "name": "Tiny Moving Parts",
-          "url": "https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH"
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 160613,
-      "name": "Always Focused",
-      "url": "https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Your Favorite Weapon",
-        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Jude Law And A Semester Abroad",
-      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
+      "duration_ms": 222040,
+      "name": "Standing On The Edge Of Summer",
+      "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -247,22 +263,6 @@
       "duration_ms": 303093,
       "name": "Ape Dos Mil",
       "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "Getchoo",
-      "url": "https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Full Collapse",
-        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Standing On The Edge Of Summer",
-      "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Dear You",
         "url": "https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI"
       },
@@ -327,6 +311,38 @@
       "duration_ms": 373920,
       "name": "Accident Prone",
       "url": "https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "War All The Time",
+      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "Getchoo",
+      "url": "https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
     },
     {
-      "added_at": "2023-05-01 00:53:11",
+      "added_at": "2023-05-02 01:09:23",
       "album": {
         "name": "Something to Write Home About",
         "url": "https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8"
@@ -427,22 +443,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "War All The Time",
-        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "War All The Time",
-      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 246560,
       "name": "For Me This Is Heaven",
       "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "For The Workforce, Drowning",
+      "url": "https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Napoleon Solo",
-      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Whenever, If Ever",
         "url": "https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 341906,
       "name": "Heartbeat in the Brain",
       "url": "https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -539,34 +555,18 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "War All The Time",
-        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+        "name": "The Shape Of Punk To Come (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
       "artists": [
         {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
         }
       ],
-      "duration_ms": 196426,
-      "name": "For The Workforce, Drowning",
-      "url": "https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
-      },
-      "artists": [
-        {
-          "name": "Sparta",
-          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "While Oceana Sleeps",
-      "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
+      "duration_ms": 250520,
+      "name": "Liberation Frequency",
+      "url": "https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -583,22 +583,6 @@
       "duration_ms": 179493,
       "name": "Tip Your Bartender",
       "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "The Shape Of Punk To Come (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
-      },
-      "artists": [
-        {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Liberation Frequency",
-      "url": "https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
+      },
+      "artists": [
+        {
+          "name": "Sparta",
+          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "While Oceana Sleeps",
+      "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
         "name": "Something to Write Home About",
         "url": "https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Everything You Ever Wanted To Know About Silence Remaster",
-        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Siberian Kiss - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Slip",
         "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 207906,
       "name": "Dine Alone",
       "url": "https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Everything You Ever Wanted To Know About Silence Remaster",
+        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Siberian Kiss - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "United By Fate",
-        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
-      },
-      "artists": [
-        {
-          "name": "Rival Schools",
-          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "Travel By Telephone",
-      "url": "https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Frame & Canvas",
         "url": "https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 153800,
       "name": "Killing A Camera",
       "url": "https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "United By Fate",
+        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
+      },
+      "artists": [
+        {
+          "name": "Rival Schools",
+          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "Travel By Telephone",
+      "url": "https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E"
     }
   ],
   "unique_name": "mEMOries",

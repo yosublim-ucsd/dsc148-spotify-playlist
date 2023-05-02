@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Wax Motif
 
-1,042 songs - 2 day 13 hr 21 min
+1,043 songs - 2 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,7 +719,7 @@
 | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb) | 3:01 | 2023-02-24 |  |
 | [Put Your Hands Up](https://open.spotify.com/track/5Ez4dUP6gZ4ILZOGkh1Url) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Put Your Hands Up](https://open.spotify.com/album/5SUA976nzsaIlf8hAIpn1e) | 3:30 | 2022-08-12 | 2022-10-22 |
 | [Que Lo Que](https://open.spotify.com/track/3tsULujkCT6HRxLqyhv9Uz) | [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Que Lo Que](https://open.spotify.com/album/7LjzvsJT0ImNudTh8SDaQE) | 3:46 | 2022-07-15 | 2022-12-24 |
-| [QUE RICO](https://open.spotify.com/track/49ckomdW5GGbdtC1jFBM5m) | [Space Rangers](https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy) | [QUE RICO](https://open.spotify.com/album/40y77moozfRsQ2JJuhFsnz) | 2:15 | 2023-04-07 |  |
+| [QUE RICO](https://open.spotify.com/track/49ckomdW5GGbdtC1jFBM5m) | [Space Rangers](https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy) | [QUE RICO](https://open.spotify.com/album/40y77moozfRsQ2JJuhFsnz) | 2:15 | 2023-04-07 | 2023-05-02 |
 | [Que Te Toca](https://open.spotify.com/track/7a0nmRHMV5OvH9P52LhMaJ) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Maceo El Perro Blanco](https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [Que Te Toca](https://open.spotify.com/album/7ua6PisPhTsPnWFZcGKdSd) | 3:56 | 2022-09-05 | 2022-11-19 |
 | [R.E.A.L](https://open.spotify.com/track/1mK6vQxrBu7tStp3b8G2Z9) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [R.E.A.L](https://open.spotify.com/album/1IH5Mhnvy26yF7fKFwyBET) | 3:03 | 2021-11-26 | 2022-03-26 |
 | [Rabbit Hole](https://open.spotify.com/track/4N4xtDgLIqGhPG5ikMqP3k) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Rabbit Hole](https://open.spotify.com/album/3ec1ZqVWs2lAFoGqHFIlIR) | 2:21 | 2023-03-31 |  |
@@ -1009,6 +1009,7 @@
 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need \(Club Edit\)](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 | 2022-03-25 | 2022-08-13 |
 | [We Got The Fire](https://open.spotify.com/track/4KGBFbXNCKNC6ZPwdhx0eq) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [We Got The Fire](https://open.spotify.com/album/2YvvywJmJkenbmYQAAkkzy) | 3:21 | 2022-08-26 | 2022-09-24 |
 | [We Make It Pop](https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [We Make It Pop](https://open.spotify.com/album/1xSKqKJAjZseHGYhBnVXgw) | 2:16 | 2022-08-19 | 2022-11-29 |
+| [We So Future](https://open.spotify.com/track/6EjgnrMiuRAIVoQ3QH3Ap2) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [SPNCR](https://open.spotify.com/artist/5Jjs8bJVBiSdsxuvjoAKRR), [Awsumo](https://open.spotify.com/artist/5Gi2KJXdtV5biO7CzhhmO1) | [We So Future](https://open.spotify.com/album/4SJ6ky44MUmNhIkVIBTRqM) | 3:03 | 2023-04-28 |  |
 | [Welcome To The People](https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Welcome To The People](https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF) | 2:40 | 2021-11-26 | 2022-04-29 |
 | [Westside Trippin](https://open.spotify.com/track/6FUCfttIpDffqKo2JLIf5A) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [State Of Mind / Westside Trippin](https://open.spotify.com/album/65icEEAu7TwaePaVUzqcHZ) | 3:35 | 2023-02-24 | 2023-04-30 |
 | [What](https://open.spotify.com/track/6seHTszvbf07VkWm8rBrUq) | [Flashmob](https://open.spotify.com/artist/7xo0kZGwplHhSh8ORbToS8), [Lexa Hill](https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI) | [What EP](https://open.spotify.com/album/1MumL9HmoeumXg9bDywDY1) | 3:47 | 2022-11-28 | 2023-01-21 |

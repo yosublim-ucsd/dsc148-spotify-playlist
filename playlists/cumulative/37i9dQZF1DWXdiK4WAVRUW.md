@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Guy Walks Into a Bar](https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:16 | 2021-05-12 |  |
+| [A Guy Walks Into a Bar](https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:16 | 2021-05-12 | 2023-05-02 |
 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 | 2021-05-12 |  |
 | [A Woman Like You](https://open.spotify.com/track/3oyMHCAAcnWFdcGuVgwfhd) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:29 | 2021-06-07 |  |
 | [Ain't Worth the Whiskey](https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:11 | 2021-05-12 |  |
@@ -250,6 +250,6 @@
 | [You Make It Easy](https://open.spotify.com/track/6EGAfJaLUFzhS4zRBIEQ2J) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:16 | 2021-05-12 |  |
 | [Yours](https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 | 2022-07-24 |  |
 | [Yours](https://open.spotify.com/track/6RSNKGdv3nDTHqgw4bdzyF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/2iarUPEwf9aLuvE0PDvpfi) | 3:36 | 2021-05-12 | 2022-07-29 |
-| [Yours If You Want It](https://open.spotify.com/track/4D4xJ4LyDXBWIf9thFSMAJ) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Us](https://open.spotify.com/album/0SVt148hDLtlcJ95kIngKE) | 3:26 | 2021-06-07 | 2023-04-16 |
+| [Yours If You Want It](https://open.spotify.com/track/4D4xJ4LyDXBWIf9thFSMAJ) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Us](https://open.spotify.com/album/0SVt148hDLtlcJ95kIngKE) | 3:26 | 2021-06-07 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-241 songs - 17 hr 38 min
+242 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 | 2022-04-15 |  |
 | [Mariposa](https://open.spotify.com/track/7yoBYwXd4gtGBIygYefGOI) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/4w7XAXjOUIOuzIr3MjQC1K) | 7:57 | 2021-11-26 | 2022-07-28 |
 | [Matiela Suto](https://open.spotify.com/track/7e31OKhHlh5pFh3Podo1RT) | [Killabeatmaker](https://open.spotify.com/artist/37wP9xRIgEc1Bb25jvRjQb) | [Matiela Suto \(Colombian Singles Series, Vol\. 2, Part 2\)](https://open.spotify.com/album/4cOMbMexwbzpNiFVr2Vy2F) | 4:53 | 2021-11-26 | 2022-07-24 |
+| [Mañana Tepotzlan](https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr) | 4:00 | 2023-02-13 |  |
 | [Mañana Tepotzlan](https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ) | 4:00 | 2022-04-15 | 2023-04-30 |
 | [Mañana Tepotzlan](https://open.spotify.com/track/3SIvxOsX0OUlkhzSdQle6D) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/49SC0iDWnUvugi5UHZQuOQ) | 4:00 | 2022-04-15 | 2022-10-13 |
 | [Me Recordaras](https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Varias Dudas Después](https://open.spotify.com/album/34fVndRedzzRL0wCMNeavG) | 4:13 | 2021-11-26 |  |
@@ -155,7 +156,7 @@
 | [Olvídame](https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Aliboria](https://open.spotify.com/artist/7snXGTX2QLVH8buiuH8t2L) | [Misturas](https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ) | 3:48 | 2021-11-26 | 2022-07-29 |
 | [Otun](https://open.spotify.com/track/59nGJkd816q3iBUQGAM3Dy) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Otun](https://open.spotify.com/album/1y1nMpgSr0kqSzaZFLz0GG) | 3:25 | 2021-11-26 | 2022-07-29 |
 | [Otun \(feat\. Nidia Gongora\)](https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 3:25 | 2022-04-15 |  |
-| [Pachamama](https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg) | [ATO 3: América do Sol](https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC) | 2:37 | 2021-11-26 |  |
+| [Pachamama](https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg) | [ATO 3: América do Sol](https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC) | 2:37 | 2021-11-26 | 2023-05-02 |
 | [Paracaídas](https://open.spotify.com/track/1U2VJnATZ5a0UwqJx1aHie) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Paracaídas](https://open.spotify.com/album/6EPBq63T1DMFseKbMJ4qwm) | 8:09 | 2021-11-26 | 2022-07-29 |
 | [Paso Por El Fuego](https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX) | [Di Laif](https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1), [Mafé Tula](https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP) | [Shika Shika Presents Eco](https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx) | 5:32 | 2022-04-15 | 2023-04-30 |
 | [Paso Por El Fuego \(feat\. Mafé Tula\)](https://open.spotify.com/track/2untweR6vKgPN9mKEBPq7f) | [Di Laif](https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1), [Mafé Tula](https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP) | [Shika Shika Presents Eco](https://open.spotify.com/album/7nyTrLzwcnxjvX4Wq6wEVr) | 5:32 | 2021-11-26 | 2022-07-29 |

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 141333,
       "name": "Bali",
       "url": "https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF"
@@ -132,6 +132,24 @@
       "duration_ms": 175846,
       "name": "Banaan Meloen Kiwi & Citroen",
       "url": "https://open.spotify.com/track/2PPViwxoP2YtX3S2BUxTdj"
+    },
+    {
+      "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "album": {
@@ -258,7 +276,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -342,7 +360,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -486,7 +504,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 104357,
       "name": "Drunk in Love (Henny)",
       "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
@@ -820,7 +838,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 145972,
       "name": "Het Eind",
       "url": "https://open.spotify.com/track/2umHBbVBhktAVcU5U6L2BY"
@@ -1145,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "Jam Inside Your Love (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147401,
+      "name": "Jam Inside Your Love (feat. Carla Monroe)",
+      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
+    },
+    {
+      "album": {
         "name": "Het Beste Van: De Paladijns",
         "url": "https://open.spotify.com/album/7m9P64LLeRpFAObUwWrHhj"
       },
@@ -1250,7 +1290,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 137528,
       "name": "Kill Bill - Sped Up Version",
       "url": "https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x"
@@ -1308,7 +1348,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 88673,
       "name": "labyrinth (sped up)",
       "url": "https://open.spotify.com/track/5hNKOpGzXIU6pnGdW04H6R"
@@ -1384,7 +1424,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 332386,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv"
@@ -1901,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "Past Lives",
+        "url": "https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8"
+      },
+      "artists": [
+        {
+          "name": "Farizki",
+          "url": "https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153170,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj"
+    },
+    {
+      "album": {
         "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
       },
@@ -2233,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Straight and Narrow",
+        "url": "https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199874,
+      "name": "Straight and Narrow",
+      "url": "https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy"
+    },
+    {
+      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -2284,7 +2360,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 157040,
       "name": "The Cure & The Cause - Radio Edit",
       "url": "https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm"
@@ -2378,10 +2454,32 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 212459,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
       "album": {
@@ -2462,7 +2560,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 236068,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
@@ -2502,6 +2600,44 @@
       "duration_ms": 196160,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+    },
+    {
+      "album": {
+        "name": "ASYLUM",
+        "url": "https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Justin99",
+          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296975,
+      "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
+      "url": "https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8"

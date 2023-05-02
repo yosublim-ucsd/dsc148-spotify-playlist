@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 119205,
+  "num_followers": 119238,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTg4ZWYwZDU4YjUzYjE5NTlmNDllNGUxNjg5MmFjMmEwODJlODk2",
+  "snapshot_id": "MCw5MTkzYWFkNTYxY2Y5ZjE3OWEwZWFiNGUzNjlhMTBiOWFiMjU4ZGQy",
   "tracks": [
     {
       "added_at": "2023-04-20 13:54:28",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 190000,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
-      },
-      "artists": [
-        {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
-        }
-      ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "Can't Do Without (My Baby)",
         "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 202253,
       "name": "Can't Do Without (My Baby)",
       "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "Touch (feat. Rromarin)",
         "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -947,22 +947,22 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
         },
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 216818,
-      "name": "Highest Building (feat. Oklou)",
-      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
+      "duration_ms": 243599,
+      "name": "Get To Know (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -987,22 +987,22 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         }
       ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
+      "duration_ms": 216818,
+      "name": "Highest Building (feat. Oklou)",
+      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
+        "name": "Bang My Line (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Bang My Line (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
         "name": "Tied to You",
         "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
       },
@@ -1103,54 +1123,46 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Things Don't Always Go The Way You Plan",
-        "url": "https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n"
+        "name": "What I Breathe",
+        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 293281,
-      "name": "Why 1.3 [2012 Export Wav]",
-      "url": "https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
-        "name": "Bang My Line (feat. Tkay Maidza)",
-        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         },
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
         }
       ],
-      "duration_ms": 153500,
-      "name": "Bang My Line (feat. Tkay Maidza)",
-      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
+      "duration_ms": 257424,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
     },
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF"
+        "name": "hollatchu",
+        "url": "https://open.spotify.com/album/6v2Carq39870pglhzZeHqx"
       },
       "artists": [
         {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        },
+        {
+          "name": "Jaydonclover",
+          "url": "https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz"
+        },
+        {
+          "name": "YUNGMORPHEUS",
+          "url": "https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy"
         }
       ],
-      "duration_ms": 282225,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
+      "duration_ms": 242711,
+      "name": "hollatchu",
+      "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
     }
   ],
   "unique_name": "Sunday Sessions",

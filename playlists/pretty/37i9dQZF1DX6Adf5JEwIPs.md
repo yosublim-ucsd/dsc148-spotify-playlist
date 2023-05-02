@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Adriel Favela
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,069 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,117 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 52 | [El Inky](https://open.spotify.com/track/0mPU8kU7S7LGNuFRsZDLPX) | [Movida Distinta](https://open.spotify.com/artist/0QSyqoFJOdsGy786ZpMyrv) | [El Inky](https://open.spotify.com/album/20fvvM1DbmhETO2WJFnhDM) | 2:19 |
 | 53 | [Celoso](https://open.spotify.com/track/4ZTQDuwZ9kHhYRnEdZodFV) | [Conjunto Rienda](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU) | [Me Traes Desbocado](https://open.spotify.com/album/4MHKABup91PRKNuOnMGvd5) | 2:44 |
 
-Snapshot ID: `MCwxNWZiMDhiNGI2MTJkNmRkNzUyMThkODBiOTk5NTVmZTNhM2JlN2Rk`
+Snapshot ID: `MCxiMjkwZmFjMzA5ZTk2NjQ0MjExMjdkODUyNTIyZmFiMWYyYjY3ZDFi`

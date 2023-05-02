@@ -4,7 +4,7 @@
 
 > 日本でもおなじみの映画からの大ヒット曲から隠れた名曲まで、ディズニーミュージックの豊富なカタログからセレクトした公式プレイリスト！
 
-123 songs - 6 hr 35 min
+125 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,8 @@
 | [One Jump Ahead \- Japanese Version](https://open.spotify.com/track/6ecDTWvGTbF3494W7qjKXb) | [Kazutaka Ishii](https://open.spotify.com/artist/2E3u3DFA1rwICiHqlXJ05L) | [Aladdin \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/5S0T4c50ZC0VsUdJQyBDbQ) | 2:22 | 2022-12-28 |  |
 | [One Sweet Ride](https://open.spotify.com/track/3q8anc3vW8V4qBANm8kal5) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [Tokyo Disneyland The Happy Ride with Baymax](https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k) | 1:40 | 2022-12-28 |  |
 | [Part of Your World](https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 | 2022-12-28 |  |
+| [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 | 2023-05-01 |  |
+| [Part of Your World \- From "The Little Mermaid"/Soundtrack Version](https://open.spotify.com/track/4C7ufs8hOYTkIk7hdyeu7J) | [Erika Toyohara](https://open.spotify.com/artist/0E8DxHuFZ0f9WJDKfUpHZj) | [Part of Your World \(From "The Little Mermaid"/Soundtrack Version\)](https://open.spotify.com/album/3OEBqbReTKlhG7fS4zQIc5) | 3:34 | 2023-05-01 |  |
 | [Part of Your World \- Japanese Version](https://open.spotify.com/track/24s18dNsVfEZsrPfo0QkHJ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [MAYUMI SUZUKI](https://open.spotify.com/artist/2A898Bz1BlL0RbbRL1n0RJ) | [The Little Mermaid \(Original Motion Picture Soundtrack/Japanese Dubbed Version\)](https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO) | 3:09 | 2022-12-28 |  |
 | [Proud Corazón \- Japanese Version](https://open.spotify.com/track/5fRJx95yalySCOXhYLI0A6) | [Hiiro Ishibashi](https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Coco \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ) | 2:03 | 2022-12-28 |  |
 | [Reflection \- From "Mulan"](https://open.spotify.com/track/6HozDOA1E0OV6pMqKtxNeK) | [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg) | [Mulan \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB) | 2:24 | 2022-12-28 |  |

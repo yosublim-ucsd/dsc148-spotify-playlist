@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 138320,
+  "num_followers": 138399,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2UwNzg1ZThiYThjMzJhMDk3YTVlZDViODM2MGI2ZGNlM2Q1MDll",
+  "snapshot_id": "MCxhNGMzOTNlYmQ5NzJmNzRlMThhYzg0NmU1ZjQ0ODM1Y2U1NTk5YjRk",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -195,26 +195,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Foxwarren",
-        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
+        "name": "666",
+        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
       },
       "artists": [
         {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
-        },
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        },
-        {
-          "name": "Darryl Kissick",
-          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
         }
       ],
-      "duration_ms": 260090,
-      "name": "Sunset Canyon",
-      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -235,18 +227,26 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
+        "name": "Foxwarren",
+        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
       "artists": [
         {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        {
+          "name": "Darryl Kissick",
+          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
         }
       ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
+      "duration_ms": 260090,
+      "name": "Sunset Canyon",
+      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "LONER",
-        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "More Of The Same",
-      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Bottle It In",
         "url": "https://open.spotify.com/album/1UVthTEgHP0WcZZxqHtkvL"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 203133,
       "name": "Loading Zones",
       "url": "https://open.spotify.com/track/0Z6W8GqZLM7DmgKp2jY6Pd"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "LONER",
+        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 248791,
+      "name": "More Of The Same",
+      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Shannon In Nashville",
-        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
-      },
-      "artists": [
-        {
-          "name": "Shannon Shaw",
-          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "Goodbye Summer",
-      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Oh My God",
         "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 310360,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Shannon In Nashville",
+        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
+      },
+      "artists": [
+        {
+          "name": "Shannon Shaw",
+          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "Goodbye Summer",
+      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
-      },
-      "artists": [
-        {
-          "name": "Barnaby Keen",
-          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
-        }
-      ],
-      "duration_ms": 221514,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 140164,
       "name": "Hippo",
       "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Keen",
+          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+        }
+      ],
+      "duration_ms": 221514,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+      },
+      "artists": [
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Panther in the Dollhouse",
         "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Habbie Doobie",
-        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+        "name": "Brain Cycles",
+        "url": "https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi"
       },
       "artists": [
         {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+          "name": "Radio Moscow",
+          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
         }
       ],
-      "duration_ms": 376618,
-      "name": "Habbie Doobie",
-      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
+      "duration_ms": 292000,
+      "name": "250 Miles",
+      "url": "https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 236973,
       "name": "Hey Man",
       "url": "https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Fanfare",
-        "url": "https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Wilson",
-          "url": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Cecil Taylor",
-      "url": "https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX"
     }
   ],
   "unique_name": "Psych & Groove",

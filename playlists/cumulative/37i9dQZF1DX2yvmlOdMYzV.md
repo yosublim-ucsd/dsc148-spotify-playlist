@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-364 songs - 20 hr 20 min
+366 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Caged Bird](https://open.spotify.com/track/2dzEIMnXj4bRiRMoax1xE4) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Caged Bird](https://open.spotify.com/album/1jtKoTIOnGlTuw9Vamp0qc) | 3:55 | 2022-06-30 |  |
 | [Caged Bird](https://open.spotify.com/track/3MPcfaxPTQPR3w58qaODvX) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Caged Bird](https://open.spotify.com/album/3IBILS75wwvGzaNFCQtV8u) | 3:55 | 2021-12-15 | 2022-04-21 |
 | [Call Me](https://open.spotify.com/track/2wfhBk432aY2abZYUsFtdK) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Call Me](https://open.spotify.com/album/1V7N5QcQylVUFyGK6fTSz6) | 2:31 | 2021-12-15 | 2022-07-29 |
+| [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2023-02-16 |  |
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-09-02 | 2023-04-30 |
 | [Can We Pretend](https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | ['Justments](https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt) | 3:49 | 2021-12-15 | 2023-03-25 |
 | [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-27 |  |
@@ -75,11 +76,12 @@
 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 | 2022-10-14 |  |
 | [D'Evils](https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [November](https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9) | 2:51 | 2021-12-15 | 2023-03-11 |
 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 | 2022-10-19 |  |
+| [Dance With Me](https://open.spotify.com/track/5TdzPzC6hlBT5cofaaqybi) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:20 | 2023-04-28 |  |
 | [Dancing](https://open.spotify.com/track/6x1jUK7H6qZVS265OCnlVw) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Endless Summer](https://open.spotify.com/album/1i1hnI5ABCJE0CbbLsuIL1) | 4:05 | 2021-12-15 | 2022-04-08 |
 | [Dawn Rise](https://open.spotify.com/track/6TOqU9kVOg0Z16EEN3FKOm) | [Colton Bryan](https://open.spotify.com/artist/1x9dy0YY8U7OAbT3opvFjO) | [Dawn Rise](https://open.spotify.com/album/4fRgWwUzS0uadgSBXdRJMH) | 3:30 | 2021-12-15 | 2022-10-19 |
 | [Daydream](https://open.spotify.com/track/57OukQCxwo81b1v9B7iuhg) | [Cariss Auburn](https://open.spotify.com/artist/2ufvSyz0aDtPdSTzB6a3b1) | [Daydream](https://open.spotify.com/album/5zUC2dAZOqF34yXVNI6g91) | 3:16 | 2021-12-15 | 2022-06-11 |
 | [Desoleil \(Brilliant Corners\)](https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 3:40 | 2021-12-15 | 2023-03-11 |
-| [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-24 |  |
+| [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-24 | 2023-05-02 |
 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 | 2022-09-29 | 2023-04-01 |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-04-07 |  |
 | [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 | 2021-12-15 | 2023-04-25 |
@@ -92,7 +94,7 @@
 | [Dying in the Subtlety](https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Dying in the Subtlety](https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP) | 2:19 | 2021-12-15 | 2023-02-10 |
 | [Easy Baby](https://open.spotify.com/track/3trAHivkszyC0kFTGQ7Bf4) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/0x7hOg2zE7GSphEDmwI7Ct) | 3:19 | 2022-06-30 | 2023-01-28 |
 | [Easy Baby](https://open.spotify.com/track/4ti63sQWlpSvKUaCqXjcjc) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/5nxfGiKqavxhxGZG3VQQ2B) | 3:19 | 2021-12-15 | 2022-07-29 |
-| [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-17 |  |
+| [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-17 | 2023-05-02 |
 | [Envious](https://open.spotify.com/track/5QrhTxjhRFYqYjQeT0tqEa) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 2:33 | 2023-04-28 |  |
 | [Exit](https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Exit](https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej) | 3:16 | 2021-12-15 |  |
 | [Fair Chance](https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:57 | 2021-12-15 | 2023-01-28 |

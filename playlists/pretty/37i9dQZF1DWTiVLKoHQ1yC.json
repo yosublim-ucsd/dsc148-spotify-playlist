@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 146987,
+  "num_followers": 147100,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGUzMWZjYmJmNjcxMGU3YTFmYjc1MmRhNTY2MWNhNTYyZWIxMDdj",
+  "snapshot_id": "MCxhNDc1YWRiMTE3ZWU4OThhYjFiNjQwOTQ5ZjAyYzljMGM5YTU5MTg5",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -143,26 +143,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 332146,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Was It The Wind That Stirred The Trees",
         "url": "https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am"
       },
@@ -371,6 +387,26 @@
       "duration_ms": 228387,
       "name": "Was It The Wind That Stirred The Trees",
       "url": "https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "My Stripes",
+        "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 267488,
+      "name": "My Stripes",
+      "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -395,42 +431,6 @@
       "duration_ms": 262249,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        }
-      ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "My Stripes",
-        "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 267488,
-      "name": "My Stripes",
-      "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 253662,
       "name": "Zeit & Raum",
       "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Clear",
-      "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Need You By My Side",
         "url": "https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 200874,
       "name": "Need You By My Side",
       "url": "https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Ascendance / Give It Up",
+        "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        }
+      ],
+      "duration_ms": 230673,
+      "name": "Ascendance",
+      "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Brightest Lights Remixed",
         "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Ascendance / Give It Up",
-        "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
-      },
-      "artists": [
-        {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
-        }
-      ],
-      "duration_ms": 230673,
-      "name": "Ascendance",
-      "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Face The Sun",
-        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
+        "name": "Froozen / Balloons",
+        "url": "https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT"
       },
       "artists": [
         {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+          "name": "Hosini",
+          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
         }
       ],
-      "duration_ms": 439437,
-      "name": "Face The Sun",
-      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
+      "duration_ms": 234744,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X"
     }
   ],
   "unique_name": "Melodic & Euphoric",

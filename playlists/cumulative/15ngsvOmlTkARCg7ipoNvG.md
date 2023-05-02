@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-960 songs - 21 hr 49 min
+961 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Awakening](https://open.spotify.com/track/58VrjRhzoC4a5MqIurZRUT) | [Ryan Stewart](https://open.spotify.com/artist/6C3BLXg58ruQY0PmlhV7sy) | [In the Dreaming Hour](https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7) | 4:28 | 2022-01-12 |  |
 | [Away With Me](https://open.spotify.com/track/11xSEDkKHlTTLaF4Y7aL1f) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |
 | [Back Home](https://open.spotify.com/track/0IyTpgi77rDglvxb97mi7I) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:10 | 2022-01-12 |  |
+| [Balance](https://open.spotify.com/track/1TzeN9UeIfkw26sn0U88EQ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Balance](https://open.spotify.com/album/3tbQGMTiTKWr24aemv07Uh) | 1:01 | 2023-05-01 |  |
 | [Bare](https://open.spotify.com/track/5ccbZRLFO7X9TJkALMRLKZ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:37 | 2022-01-20 |  |
 | [Barriers Between](https://open.spotify.com/track/7GI5F432HpRntYFtSKrtMD) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Barriers Between](https://open.spotify.com/album/36BOhfw1l2Ywd9HpOlQqqh) | 1:01 | 2022-02-24 |  |
 | [Bath](https://open.spotify.com/track/0xVDJ29bnFPSroQqq4GgKU) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Beyond](https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I) | 1:04 | 2022-01-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,798 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,803 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 183 | [Love you](https://open.spotify.com/track/2AaFVIvvx4IofzSMuaLkbe) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [The K2 \(Original Television Soundtrack\), Pt 4](https://open.spotify.com/album/62zPzFcvW08FhyggfphnlK) | 3:49 |
 | 184 | [Forever Love](https://open.spotify.com/track/4YjqD7fhDkscICs1vntatO) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [Kill It Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5z1BTvTZVtSVCzQdhh5uc5) | 3:46 |
 | 185 | [One Love](https://open.spotify.com/track/5alMW854ShjDbupOJtaNKC) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 4:21 |
-| 186 | [If there was practice in love \(Prod\. 2soo\)](https://open.spotify.com/track/3qCL1z9ex9cM26sAYfAHxU) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [If there was practice in love](https://open.spotify.com/album/4SiT9ClPYVbk7wNEZOOhNB) | 4:15 |
+| 186 | [If there was practice in love](https://open.spotify.com/track/4eyBiwsaGBRCjACGZKZsf7) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [If there was practice in love](https://open.spotify.com/album/4gsKPC03bkp8pcZwUi6kgR) | 4:15 |
 | 187 | [There has never been a day I haven't loved you](https://open.spotify.com/track/3LZ9KcitGoJmHJvL1NXkBb) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [There has never been a day I haven't loved you](https://open.spotify.com/album/13tmOLMXtkt9RjabCYnF0K) | 4:03 |
 | 188 | [Love Again](https://open.spotify.com/track/1mNcX6T6ut6JPR7nSso1tr) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Love Again](https://open.spotify.com/album/0Ani1HKCSVWQj1BoPtww2a) | 4:35 |
 | 189 | [Things that I couldn't say](https://open.spotify.com/track/3dMvYOL0joYQ9yeNQsedp3) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [TIME FOR LOVE](https://open.spotify.com/album/4vOrKQQbPSjYGQRbixrdRi) | 4:18 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [Ali](https://open.spotify.com/artist/5QeXARPcuiXETSB2iPhaup) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCwwNTdjZmI4MGM3N2YzY2E0NDlmMTM0Y2QwOWUyYjA4NzVmZjU3YWY1`
+Snapshot ID: `MCwzNjFlZThjNDUxNzc1OTNhMDAxMGVkNGUzZjFlNzVlNDEzMmUzNjBm`

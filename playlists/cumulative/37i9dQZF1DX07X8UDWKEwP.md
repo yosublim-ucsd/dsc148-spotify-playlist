@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Mike Bahía
 
-252 songs - 15 hr 8 min
+253 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Compañera](https://open.spotify.com/track/4LalayMtx5CXPZsgFmfj6Q) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Compañera](https://open.spotify.com/album/0uPrUduyf1VaC7GqmfG70R) | 3:40 | 2022-03-25 | 2023-01-14 |
 | [Confesión](https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu) | 3:20 | 2022-02-11 | 2022-06-30 |
 | [Confesión](https://open.spotify.com/track/2wH2cK76Vc3w3KmDGgfyiE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión \(Remix\)](https://open.spotify.com/album/5rfpFxvkE4fFfialHL5oQE) | 3:20 | 2022-06-29 | 2023-01-14 |
-| [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 | 2023-01-13 |  |
+| [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 | 2023-01-13 | 2023-05-02 |
 | [Conocí a una Chica](https://open.spotify.com/track/5c0wqC9SuKeWKyQVVMhRCa) | [Antonio Hernandez](https://open.spotify.com/artist/18ee3OkoEvUU0BiFGVU2Pw), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Conocí a una Chica](https://open.spotify.com/album/4JeqXwg7LMHulJUN0rA9MS) | 2:31 | 2022-01-01 | 2022-03-26 |
 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 | 2023-01-27 |  |
 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 | 2023-01-20 |  |
@@ -198,6 +198,7 @@
 | [Republica Dominicana](https://open.spotify.com/track/02IdYXYJ0G9vgs9DVmONFX) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Republica Dominicana](https://open.spotify.com/album/69Fk1rIWzvwImYuXN6CcUQ) | 4:36 | 2023-01-27 | 2023-02-25 |
 | [Resistirá](https://open.spotify.com/track/7knEsle2mCnypBafCdrWx8) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Resistirá](https://open.spotify.com/album/4VmevPcZ6QXfiKira0aBE7) | 3:45 | 2022-06-29 | 2023-01-14 |
 | [Resistiré \- Salsa](https://open.spotify.com/track/4Qpom4kmnP9PEFOF2TAoxi) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Resistiré \(Salsa\)](https://open.spotify.com/album/4uJZ8kVOQW8T1ehTZqltfy) | 4:48 | 2022-01-01 | 2022-03-26 |
+| [Romántica Champeta](https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [The Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [Romántica Champeta](https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO) | 3:22 | 2023-04-28 |  |
 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/5c5iWSKvsgGj74RF0ofhsX) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Lo Pido por Favor](https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu) | 3:19 | 2022-06-29 | 2022-07-20 |
 | [Se Va a Beber](https://open.spotify.com/track/7nthB8BE4K8aTYJcw1M1iV) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Se Va a Beber](https://open.spotify.com/album/5aZmDgnv8aUx5B2Ir7VYYT) | 3:39 | 2022-01-28 | 2022-06-30 |
 | [Ser Feliz](https://open.spotify.com/track/6yCl5sFcpDHT22TePqnBQ9) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Aymee Nuviola](https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY) | [Ser Feliz](https://open.spotify.com/album/1350bThlLzMSZak6rzX2ZM) | 4:49 | 2022-01-01 | 2022-01-29 |

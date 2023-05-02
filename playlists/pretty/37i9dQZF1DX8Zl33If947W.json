@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 127114,
+  "num_followers": 127237,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjkwYTU4Yzc5YmJiOTk3M2EzN2MzM2ExN2UyNDQ3NDMyMGM1MGI1",
+  "snapshot_id": "MCw1NzgxYWZmZWMwMjA0YzFiYTRiZTExNjc5OGQzZWRmYzI0MjE1ZmMy",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Melodie",
+        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 195548,
+      "name": "Traum",
+      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
@@ -207,6 +223,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Es ist Abend und wir sitzen bei mir",
         "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
       },
@@ -223,18 +255,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Melodie",
-        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
+        "name": "Von Hier An Blind",
+        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
       },
       "artists": [
         {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "Wir Sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
         }
       ],
-      "duration_ms": 195548,
-      "name": "Traum",
-      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
+      "duration_ms": 236200,
+      "name": "Nur ein Wort",
+      "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -259,38 +291,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Von Hier An Blind",
-        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
-      },
-      "artists": [
-        {
-          "name": "Wir Sind Helden",
-          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Nur ein Wort",
-      "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Von Anfang An",
-        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnchener Freiheit",
-          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
-      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Endorphine",
         "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
       },
@@ -303,6 +303,22 @@
       "duration_ms": 172596,
       "name": "Endorphine",
       "url": "https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 174873,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Schlagschatten",
-        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 207751,
-      "name": "Vielleicht Vielleicht",
-      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Powerbausa",
         "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
       },
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Schlagschatten",
+        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 207751,
+      "name": "Vielleicht Vielleicht",
+      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Nador",
         "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 190186,
       "name": "Lieblingsmensch",
       "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 174873,
-      "name": "Du",
-      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Wenn ich wein",
-        "url": "https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj"
-      },
-      "artists": [
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Wenn ich wein",
-      "url": "https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Kraniche (plus Track by Track)",
         "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 233760,
       "name": "Sch\u00f6nste Zeit",
       "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Wenn ich wein",
+        "url": "https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Wenn ich wein",
+      "url": "https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD"
     },
     {
       "added_at": "2023-03-06 08:21:00",

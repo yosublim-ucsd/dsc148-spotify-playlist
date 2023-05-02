@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Moha K, DYSTINKT
+> Les hits du moment sont ici\. Cover : Moha K, DYSTINCT
 
 164 songs - 9 hr 8 min
 

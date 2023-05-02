@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-551 songs - 1 day 13 hr 19 min
+553 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/0ndlTAGPCJ2Xy12Ncoc5rq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [It Never Entered My Mind](https://open.spotify.com/album/5iHpp0Os02Ae2LiX4ZICxA) | 3:44 | 2023-03-16 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-11-10 |  |
 | [It Never Entered My Mind \- Remastered](https://open.spotify.com/track/47zglRNpxJfxadAe3C6xQe) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Miles Davis \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 4:03 | 2021-12-03 | 2022-05-25 |
+| [It Used To Be Us](https://open.spotify.com/track/0iC0JiVXY8dmM3IIlqUk1p) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [It Used To Be Us](https://open.spotify.com/album/5o4zDDeN1kf2tsXUrV9bYI) | 3:38 | 2023-04-27 |  |
 | [It's Easier Than You Might Think](https://open.spotify.com/track/1lC6fXNgq6Bxgz8GpTkxEY) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [It's Easier Than You Might Think](https://open.spotify.com/album/7sfucyoyWUtYk5RUOPYQBj) | 2:40 | 2023-01-05 |  |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-11-10 |  |
 | [It’s not a novel](https://open.spotify.com/track/2328JsPTUOHvx7eiEaIxJN) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [It’s not a novel](https://open.spotify.com/album/0L5iCQPDWPKVeccKPuclC0) | 3:12 | 2023-03-16 |  |
@@ -261,7 +262,7 @@
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-11-10 | 2023-01-20 |
 | [Just Imagine](https://open.spotify.com/track/4nndewSr38VMklIgluKRHo) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [Just Imagine](https://open.spotify.com/album/7ANTZQREh4OU3pxWhvLjWo) | 2:59 | 2023-03-16 | 2023-04-05 |
 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-08 |  |
-| [La part des anges](https://open.spotify.com/track/5QJNVrABmfDW0g4EDVAR89) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 3:36 | 2021-12-03 |  |
+| [La part des anges](https://open.spotify.com/track/5QJNVrABmfDW0g4EDVAR89) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 3:36 | 2021-12-03 | 2023-05-02 |
 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 | 2023-04-14 |  |
 | [Land Between the Lakes](https://open.spotify.com/track/6lFwLd1nlzrdVIAlB5goJo) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Land Between the Lakes](https://open.spotify.com/album/1TZMHVgskfAiGskycdSipZ) | 2:43 | 2023-04-20 |  |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
@@ -333,6 +334,7 @@
 | [Mulled Wine](https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Mulled Wine](https://open.spotify.com/album/4CkQOAKGVlc6mjXHRwsKbK) | 3:27 | 2023-04-20 |  |
 | [My first kiss](https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My first kiss](https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw) | 3:24 | 2023-03-09 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-11-10 |  |
+| [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 | 2023-04-27 |  |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2023-01-12 |  |
 | [My Old Flame](https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 10:18 | 2021-12-03 | 2022-09-23 |
 | [My Reverie](https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [My Reverie](https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8) | 3:48 | 2023-02-02 |  |
@@ -457,7 +459,7 @@
 | [Tap on my Door](https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Tap on my Door](https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7) | 3:34 | 2022-11-10 |  |
 | [Tea For Two](https://open.spotify.com/track/5wMykWFbz1CV2eXaGLjlbj) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Larry Grenadier](https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV) | [On Broadway Vol\. 4 or the Paradox of Continuity](https://open.spotify.com/album/1krBoEyffLMXuGqGkpKEhw) | 4:07 | 2021-12-03 | 2022-07-29 |
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2022-11-10 |  |
-| [Teru \- Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/2WSJsFFzxQGYFJlR57ddGI) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:12 | 2021-12-03 |  |
+| [Teru \- Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/2WSJsFFzxQGYFJlR57ddGI) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:12 | 2021-12-03 | 2023-05-02 |
 | [That Old Feeling](https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 2:43 | 2021-12-03 |  |
 | [That's All](https://open.spotify.com/track/53VuyKap8WiDjkrtm5d4h3) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:47 | 2021-12-03 |  |
 | [That's Nothing](https://open.spotify.com/track/211NFPThPEPKCoScvCAelb) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [That's Nothing](https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD) | 4:26 | 2023-03-16 |  |

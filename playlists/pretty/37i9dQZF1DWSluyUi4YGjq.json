@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 64608,
+  "num_followers": 64990,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDQ4ZGQ0Y2ViY2UzMjc0N2Q5MGU2NTIxZGU4NGY3YTRlN2M2ZDlh",
+  "snapshot_id": "MCxlZTcxZWZhNjBjM2FhODZlZmYyYmZjNDZiYWMwNzhkYjllYjc5N2M2",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/64AAttKIyZcQgtPVHhNyj2"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
-    },
-    {
       "added_at": "2022-09-29 00:07:21",
       "album": {
         "name": "Blue Rev",
@@ -475,6 +459,22 @@
       "duration_ms": 165445,
       "name": "Belinda Says",
       "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Blouse",
-        "url": "https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk"
-      },
-      "artists": [
-        {
-          "name": "Blouse",
-          "url": "https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL"
-        }
-      ],
-      "duration_ms": 208237,
-      "name": "Into Black",
-      "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Bang Bang",
@@ -555,6 +539,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Blouse",
+        "url": "https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk"
+      },
+      "artists": [
+        {
+          "name": "Blouse",
+          "url": "https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL"
+        }
+      ],
+      "duration_ms": 208237,
+      "name": "Into Black",
+      "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 123331,
+      "name": "At It Again",
+      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
+    },
+    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "We're Not Here to Be Loved",
@@ -699,22 +715,6 @@
       "duration_ms": 320625,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 123331,
-      "name": "At It Again",
-      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -845,38 +845,6 @@
       "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Blankenship",
-      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
-    },
-    {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
-    },
-    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "eye cue rew see",
@@ -907,6 +875,38 @@
       "duration_ms": 250096,
       "name": "Famine Asylum",
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Blankenship",
+      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
+    },
+    {
+      "added_at": "2023-02-27 23:19:06",
+      "album": {
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+    },
+    {
       "added_at": "2022-05-03 02:08:01",
       "album": {
         "name": "Destiny XL",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 211319,
       "name": "Press",
       "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2022-01-07 19:52:45",
@@ -1117,54 +1133,6 @@
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dead Kids R.I.P. City",
-        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
-      },
-      "artists": [
-        {
-          "name": "Soft Kill",
-          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
-    },
-    {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "taste of concrete",
-        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
-      },
-      "artists": [
-        {
-          "name": "Shrimp",
-          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
-        }
-      ],
-      "duration_ms": 152061,
-      "name": "taste of concrete",
-      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
-    },
-    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Urban Twilight (Remaster)",
@@ -1183,6 +1151,38 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dead Kids R.I.P. City",
+        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
+      },
+      "artists": [
+        {
+          "name": "Soft Kill",
+          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Colour Trip",
         "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
       },
@@ -1197,20 +1197,20 @@
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+        "name": "taste of concrete",
+        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
       },
       "artists": [
         {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+          "name": "Shrimp",
+          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
         }
       ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+      "duration_ms": 152061,
+      "name": "taste of concrete",
+      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
     }
   ],
   "unique_name": "Shoegaze Now",

@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 43 min
+75 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,11 +37,12 @@
 | [El Gato del Vecindario](https://open.spotify.com/track/6kfpFMsbGcNrN6CBH87Qyx) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:34 | 2022-06-01 | 2022-10-01 |
 | [El Pasito Perron](https://open.spotify.com/track/70cAHG35vnpbGnoykbIFcn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [El Pasito Perron](https://open.spotify.com/album/6CiXXNc8Mg5rFwbUwcZ68k) | 2:51 | 2022-06-01 |  |
 | [El pulpito](https://open.spotify.com/track/3wystEzsZLBcIPr7YdZvbe) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 1:43 | 2022-11-07 | 2022-11-23 |
+| [El Sabio Conocedor](https://open.spotify.com/track/7GzZBCNVabgCDX0jPXtfvc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:44 | 2023-05-01 |  |
 | [El Sabio Conocedor](https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:53 | 2022-06-01 | 2023-02-20 |
 | [El señor de las canas](https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 2:48 | 2022-06-03 |  |
 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 | 2022-06-01 |  |
 | [El Zorro y el Sabueso](https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:31 | 2022-06-01 | 2022-11-28 |
-| [En La Esquina](https://open.spotify.com/track/3keUCZz4ZHiFlPcmlJ6Vmj) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:49 | 2022-10-11 |  |
+| [En La Esquina](https://open.spotify.com/track/3keUCZz4ZHiFlPcmlJ6Vmj) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:49 | 2022-10-11 | 2023-05-02 |
 | [En Que Fallé](https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:46 | 2022-06-01 | 2022-10-15 |
 | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN) | 2:48 | 2022-06-01 |  |
 | [Estupendo](https://open.spotify.com/track/5s5i3LqYQ7F6fPdw2reBo2) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:13 | 2022-06-01 | 2022-11-15 |

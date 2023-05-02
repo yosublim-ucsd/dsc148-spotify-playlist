@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 482452,
+  "num_followers": 482649,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTg2Njg0MzIwODYxMTJlODA2MDQ2MmNkOTAwZjMyMWYzYzcwNDZi",
+  "snapshot_id": "MCxkYTFiZjVkNjZhNWMwMGM1YTg2NzRmNmJmOTM5ZmQ3ZGZjZDI4NjVj",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
-      "added_at": "2023-03-17 11:15:09",
-      "album": {
-        "name": "GLU",
-        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 262711,
-      "name": "GLU",
-      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Edges Run",
@@ -1075,6 +1059,22 @@
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
+    },
+    {
+      "added_at": "2023-03-17 11:15:09",
+      "album": {
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 221706,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1913,6 +1913,22 @@
       "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
     },
     {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Only Ticket Home",
+        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
+    },
+    {
       "added_at": "2023-02-13 10:37:00",
       "album": {
         "name": "Best Feature (feat. Devin Morrison)",
@@ -1931,22 +1947,6 @@
       "duration_ms": 203720,
       "name": "Best Feature",
       "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Only Ticket Home",
-        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2029,6 +2029,22 @@
       "url": "https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip"
     },
     {
+      "added_at": "2023-04-21 11:59:42",
+      "album": {
+        "name": "Talk Luv",
+        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 164468,
+      "name": "Talk Luv",
+      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
+    },
+    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Super",
@@ -2047,22 +2063,6 @@
       "duration_ms": 181812,
       "name": "Super",
       "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
-    },
-    {
-      "added_at": "2023-04-21 11:59:42",
-      "album": {
-        "name": "Talk Luv",
-        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 164468,
-      "name": "Talk Luv",
-      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2361,22 +2361,6 @@
       "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
     },
     {
-      "added_at": "2023-04-21 12:01:04",
-      "album": {
-        "name": "Teach",
-        "url": "https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Teach",
-      "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Eyes on You",
@@ -2407,6 +2391,22 @@
       "duration_ms": 197706,
       "name": "World Without You",
       "url": "https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0"
+    },
+    {
+      "added_at": "2023-04-21 12:01:04",
+      "album": {
+        "name": "Teach",
+        "url": "https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Teach",
+      "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
     },
     {
       "added_at": "2023-02-10 11:00:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzVjNzk2N2FhYzU1YmQwN2ZkZTJlYmEzN2ZkY2NmNDE4NGJjMGVk",
+  "snapshot_id": "MCxkMjc0Y2Y5YjQwNDRkZjk5ODNkYWIyZmY1YTRiZmU3YzllMmI0YjU2",
   "tracks": [
     {
       "added_at": "2023-03-27 08:26:37",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 235562,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Syndrome",
         "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 221146,
       "name": "Syndrome",
       "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "BOKE",
+        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE",
+      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 233059,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
-        "name": "BOKE",
-        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE",
-      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 191191,
-      "name": "Distance (Feat. I.M of MONSTA X)",
-      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz"
       },
@@ -527,6 +507,26 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 191191,
+      "name": "Distance (Feat. I.M of MONSTA X)",
+      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
         "name": "Space science",
         "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
       },
@@ -555,26 +555,6 @@
       "duration_ms": 227500,
       "name": "Go Back \uc9d1\uc5d0",
       "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -643,6 +623,26 @@
       "duration_ms": 181120,
       "name": "#mood",
       "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 183281,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "BOKE (Remix) (feat. kojikoji)",
         "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 184510,
       "name": "BOKE (Remix) (feat. kojikoji)",
       "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "I thought it was love.",
+        "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Sagong",
+          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+      "duration_ms": 240000,
+      "name": "I thought it was love.",
+      "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

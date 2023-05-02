@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Jana Horn
 
-326 songs - 20 hr 33 min
+328 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 | 2023-04-07 |  |
 | [Dear Mexico \(Thank You for Joyce\)](https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 4:05 | 2022-12-16 |  |
 | [Death Is the New Sex](https://open.spotify.com/track/2shp71iOOf5DJVAgqQs58D) | [Tunng](https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa) | [Death Is the New Sex](https://open.spotify.com/album/4wcuAtKqJ2U3ZK6lVteHhX) | 4:14 | 2022-04-13 | 2022-07-29 |
-| [Deep Routed](https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48), [GHRIAN](https://open.spotify.com/artist/3cteHzEas8SKKUnG5VEWsb) | [Deep Routed](https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD) | 3:46 | 2023-02-17 |  |
+| [Deep Routed](https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48), [GHRIAN](https://open.spotify.com/artist/3cteHzEas8SKKUnG5VEWsb) | [Deep Routed](https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD) | 3:46 | 2023-02-17 | 2023-05-02 |
 | [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 | 2023-02-03 |  |
 | [Distant Axis](https://open.spotify.com/track/572HkIrjSOI7GLfQUTxn4H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison](https://open.spotify.com/album/5EqnUTFVewiWTuN11K4G8E) | 4:25 | 2022-01-21 | 2022-07-29 |
 | [Distant Axis](https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison \(Deluxe Edition\)](https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA) | 4:25 | 2022-04-29 |  |
@@ -112,6 +112,7 @@
 | [Forever \(New Feelings Version\)](https://open.spotify.com/track/0a3XINx8PuXVIwEiQoSdUd) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 4:05 | 2022-04-29 | 2022-07-29 |
 | [Forever You & I](https://open.spotify.com/track/6XBUQjHdbHeLvc45We8UZM) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [Forever You & I](https://open.spotify.com/album/1dWmrJhe6iXyMgZ9FjX1oi) | 4:06 | 2022-04-29 | 2022-06-26 |
 | [Friends](https://open.spotify.com/track/32irCtqVudXga5frCUDFVH) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Friends](https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD) | 3:02 | 2022-12-02 | 2023-03-19 |
+| [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-05-01 |  |
 | [Giant Palm](https://open.spotify.com/track/0iUorp8jbqv4YJRtD79ewf) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Giant Palm](https://open.spotify.com/album/0aenLd8evkQ9BQJbC9UlNd) | 4:36 | 2022-04-13 | 2022-07-29 |
 | [Giant Palm](https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Giant Palm](https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf) | 4:36 | 2022-04-29 |  |
 | [Giving Up](https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:10 | 2022-04-29 |  |
@@ -122,6 +123,7 @@
 | [Graves](https://open.spotify.com/track/2AMh8Toy9gNVutZN0V8bmn) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Graves](https://open.spotify.com/album/2Pn1ZcmnqkFAVflaBEnHkg) | 3:12 | 2022-01-21 | 2022-07-29 |
 | [Graves](https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 3:12 | 2022-04-29 |  |
 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 | 2022-10-14 | 2023-04-29 |
+| [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 | 2023-04-28 |  |
 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 | 2022-04-29 |  |
 | [Hard Drive](https://open.spotify.com/track/6l39fy6bGJAzWYEZzuBtmG) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Hard Drive](https://open.spotify.com/album/0HJUDvrf75GoOnjScVcOkY) | 5:27 | 2022-01-21 | 2022-07-29 |
 | [Hawks](https://open.spotify.com/track/6VskgbUMKUrhlrliKtWza7) | [Jodi](https://open.spotify.com/artist/3RBTPtXcwJncQGphGFRFJp) | [Hawks](https://open.spotify.com/album/6cITGU0F8XKxQT3cYB0IlS) | 3:31 | 2022-04-13 | 2022-07-29 |
@@ -310,7 +312,7 @@
 | [Under the Sky](https://open.spotify.com/track/1pU3Ujy096uOmEd68Doqi3) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [When It Comes](https://open.spotify.com/album/3onCVtegEMRsrgiysa4m1P) | 4:18 | 2022-04-29 | 2022-12-10 |
 | [Under the Sky](https://open.spotify.com/track/3vbBc820WrJ6xMjwxB4bxM) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [I Kiss the Night](https://open.spotify.com/album/29WmMuLngwP4b4j1ExcwBv) | 4:18 | 2022-04-13 | 2022-07-29 |
 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 | 2022-09-09 | 2023-04-11 |
-| [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2022-01-21 |  |
+| [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2022-01-21 | 2023-05-02 |
 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2022-04-29 |  |
 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 | 2022-01-21 | 2022-07-29 |
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2022-01-21 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: K\. Flay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,907 likes - 128 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,400 likes - 128 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 127 | [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 |
 | 128 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 |
 
-Snapshot ID: `MCxkNjQ2NTAyNDFkMjJjNGEzY2E2MDU4Nzk0MDIwOTc2MDA4YjBhOGY4`
+Snapshot ID: `MCxjYWZmOGM5NTNkZjZkMWI1NDYzOTBiZWIzMjg0N2E0MTU5MGU1MDYx`

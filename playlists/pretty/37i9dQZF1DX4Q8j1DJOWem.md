@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,566 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,577 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 50 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu) | 3:41 |
 
-Snapshot ID: `MCw5MmRlNTAyMTMyNzZhNjc4YWEzNTZhNmE1ZWI5YWQ4MWIzNjliNDM4`
+Snapshot ID: `MCwwYmQyMjE5OGNhN2M1N2EwYzJjNWJkYjdkNzc0ZWQyOGJiNGY1NTRj`

@@ -4,11 +4,12 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-382 songs - 1 day 9 hr 13 min
+383 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [666 Voices Inside](https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Attera Totus Sanctus](https://open.spotify.com/album/53m5q93sqZpTZ8NFtWHKuE) | 4:38 | 2022-07-13 | 2023-02-16 |
+| [A csend hegyei](https://open.spotify.com/track/14YaVGzQho0X6zqI5Rfx5T) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [A csend hegyei](https://open.spotify.com/album/5MX3Rtz5e4kCopEkYfuRHp) | 4:10 | 2023-04-28 |  |
 | [A Fine Day to Die](https://open.spotify.com/track/1nLF4GpaJe54kjjBVxIBRS) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Blood Fire Death](https://open.spotify.com/album/2QVt9UZEloRJgYqE70ACPs) | 8:36 | 2022-07-13 |  |
 | [A Psylacybic Death](https://open.spotify.com/track/3gRVHf7tMrvbAZFMqZIWmD) | [Abduction](https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp) | [A Psylacybic Death](https://open.spotify.com/album/0ldAuoMKfNhTDZn9lvLDgp) | 7:08 | 2022-10-07 | 2023-01-01 |
 | [Acclamation of Bonds](https://open.spotify.com/track/1KKcGv11n6RVa2l7Edi5ZY) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [Acclamation of Bonds](https://open.spotify.com/album/0BBiyOZILxrh1WvVp0TfGb) | 6:00 | 2022-06-10 | 2022-07-19 |
@@ -94,7 +95,7 @@
 | [Destination Woe](https://open.spotify.com/track/1J4V8aJYMKrFAj64ry7Pxl) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [Destination Woe](https://open.spotify.com/album/5q13Ch3bg28ZqVrHhPsP1y) | 4:52 | 2023-03-17 | 2023-04-01 |
 | [Devil's Blood](https://open.spotify.com/track/3YW1hcnwzRIjwBfXuxl99Q) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi \(Remastered\)](https://open.spotify.com/album/56zmJY3VeoWpC2j71DbsOI) | 5:54 | 2022-07-13 | 2022-07-29 |
 | [Devil's Blood](https://open.spotify.com/track/4IiSKfn6MVHcqrG2ScUbiF) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi](https://open.spotify.com/album/2uqCn6pAXfkOd9P4huVZuf) | 5:54 | 2022-07-13 |  |
-| [Digital Bliss](https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG) | [Rotten Sound](https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf) | [Apocalypse](https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg) | 1:16 | 2023-03-31 |  |
+| [Digital Bliss](https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG) | [Rotten Sound](https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf) | [Apocalypse](https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg) | 1:16 | 2023-03-31 | 2023-05-02 |
 | [Dissociation of the Extinguished Mind](https://open.spotify.com/track/5Ucq7WMc4ouHggTqo09ITX) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Dissociation of the Extinguished Mind](https://open.spotify.com/album/3gHYXJp2doaScSI6pEbsHq) | 6:56 | 2022-04-01 | 2022-05-07 |
 | [Dissolve](https://open.spotify.com/track/61cEE5HRsqLvSjGAmVxd8h) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Dissolve](https://open.spotify.com/album/1cLVKutiND7BbiLO40lCp1) | 3:06 | 2022-08-12 | 2022-09-20 |
 | [Diviner](https://open.spotify.com/track/3iXwVC24spjmldA84JCjuz) | [Inborn Tendency](https://open.spotify.com/artist/5I5qsax1FbMfnJ52k5iADw) | [Godkiller](https://open.spotify.com/album/7LBSl4Et96Km08oDAa2kxP) | 3:38 | 2021-12-17 | 2022-05-21 |
@@ -203,7 +204,7 @@
 | [Kill for Satan](https://open.spotify.com/track/6iaN2Q0DOxOIAPPrI3R3KZ) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/46ecBgtPpQZZsAdFaeuFn0) | 4:54 | 2022-07-13 | 2022-07-28 |
 | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/track/2KIFDLjfHIIkRum4fNmonY) | [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/album/0pOdTGdqc1p8iizWzoE64G) | 1:54 | 2022-11-25 | 2023-02-04 |
 | [Kingdom](https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Kingdom](https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW) | 5:51 | 2022-08-26 | 2022-12-01 |
-| [Latrodectus](https://open.spotify.com/track/7u1Ng0a75DPuSQDnRL2whv) | [Blood Red Throne](https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4) | [Latrodectus](https://open.spotify.com/album/6Ii6CnoWpYAlwfoKACn6iH) | 4:22 | 2023-03-03 |  |
+| [Latrodectus](https://open.spotify.com/track/7u1Ng0a75DPuSQDnRL2whv) | [Blood Red Throne](https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4) | [Latrodectus](https://open.spotify.com/album/6Ii6CnoWpYAlwfoKACn6iH) | 4:22 | 2023-03-03 | 2023-05-02 |
 | [Le cœur noir charbon](https://open.spotify.com/track/6SkVNR0kwbHBbBqNHRkhno) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Le cœur noir charbon](https://open.spotify.com/album/1iEQyb7x4RuWNpQfbjGNo3) | 7:18 | 2022-01-14 | 2022-01-29 |
 | [Legion](https://open.spotify.com/track/6Q7tXH6CsjLRFnry2es67r) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Rapture](https://open.spotify.com/album/3LK4RzSqoZwzZ6rtEbOj1G) | 3:30 | 2022-05-27 | 2022-07-14 |
 | [Let the Devil In](https://open.spotify.com/track/56l9aTJffgtP3Kssrcb7Q6) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Let the Devil In](https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B) | 4:40 | 2022-01-07 | 2022-02-11 |
@@ -263,7 +264,7 @@
 | [Popecrusher](https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Popecrusher](https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8) | 3:08 | 2022-05-20 | 2022-08-18 |
 | [Prism](https://open.spotify.com/track/21Atks7bDN6e7RYQe7Ctax) | [Anachronism](https://open.spotify.com/artist/6PEBIPKi5TvTrCoyDsRDTh) | [Meanders](https://open.spotify.com/album/5uZNpFKELGKlq5iJkVlIuF) | 4:04 | 2023-02-15 | 2023-02-24 |
 | [Profetens Åpenbaring](https://open.spotify.com/track/1pNqnj1ympoWWNR1qEpHKo) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3GBpagKDLL4cRseF5yxKVV) | 5:20 | 2022-07-13 | 2022-07-29 |
-| [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 | 2022-07-13 | 2023-05-01 |
+| [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 | 2022-07-13 |  |
 | [Puritania](https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia](https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2) | 3:06 | 2022-07-13 |  |
 | [Puritania \- The Kolbotn Tapes](https://open.spotify.com/track/69vWSqVEctJbTKD3qKaAnD) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritania \(The Kolbotn Tapes\)](https://open.spotify.com/album/2zOvw7u5XelDbYsxQMPQDI) | 2:49 | 2022-08-12 | 2022-11-13 |
 | [Quintessence](https://open.spotify.com/track/0h2KyPkIISeMMkA2X0eXU5) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Panzerfaust](https://open.spotify.com/album/1WVwSy7kIQ5AmkVa1tPppg) | 7:36 | 2022-07-13 |  |

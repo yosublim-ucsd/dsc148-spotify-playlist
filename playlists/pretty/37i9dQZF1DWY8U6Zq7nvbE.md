@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,746 likes - 179 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,749 likes - 179 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 178 | [Thunder](https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX) | [Fink's Mood](https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8) | [Thunder](https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ) | 2:51 |
 | 179 | [Boyfriend](https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Boyfriend](https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo) | 2:59 |
 
-Snapshot ID: `MCwyNDVjNTc5YTAyOTFlMjQzMzc4MGQ0OTEzYjEyZDc5ZDBjYmVjMjc3`
+Snapshot ID: `MCw4ZGRkMWE2YWQ3MzFkOWU1MDA5NzViZThlOWFjOWNjYTFhNGQ4MmQz`

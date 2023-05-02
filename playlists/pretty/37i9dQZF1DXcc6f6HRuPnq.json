@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 79238,
+  "num_followers": 79353,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDM3ZmYzNjZhZGRhMzY5Mjg1NmJhZDUxYmNlYTRmODU5OGU3MjE0",
+  "snapshot_id": "MCw2ZjVkMGMzMTk0Zjc2NmZjNTY2MWRkNjQ0MTJmM2UxYjcxYjQ0OTVl",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 464040,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 170320,
       "name": "Since I Fell for You",
       "url": "https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 464040,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+        "name": "Power of the Blues",
+        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+      "duration_ms": 244346,
+      "name": "That's Why I Play the Blues",
+      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Power of the Blues",
-        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 244346,
-      "name": "That's Why I Play the Blues",
-      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Gee Baby Ain't I Good To You",
         "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Big Fun",
+        "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
+      },
+      "artists": [
+        {
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "She Puts Me In The Mood",
+      "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Big Fun",
-        "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "She Puts Me In The Mood",
-      "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
     },
     {
       "added_at": "2023-04-14 00:01:00",

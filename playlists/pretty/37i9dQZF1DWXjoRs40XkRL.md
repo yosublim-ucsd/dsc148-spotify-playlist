@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,222 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,280 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 99 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 |
 | 100 | [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 |
 
-Snapshot ID: `MCw0ZDFlMTc5NjA3NzQxMzA2MGU3ZTY2NTVjYjY2ZjUwOTQ0NWNiODY5`
+Snapshot ID: `MCw3M2YxYzhlN2QyMDU0MjQxZTg1MzM1ODg3ODI1ZTNkYjMwZTc4NGFi`

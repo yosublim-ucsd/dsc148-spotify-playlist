@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: DaniLeigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,547 likes - 144 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,811 likes - 144 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 143 | [Good Life](https://open.spotify.com/track/2Lc5zGwYbAHprruXw7BRN4) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Good Life](https://open.spotify.com/album/036V4i5G3gEIbUJXjz72z9) | 3:00 |
 | 144 | [Opps](https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [From Me, To Me](https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI) | 3:16 |
 
-Snapshot ID: `MCwzMzdjZjIwMmM0NWMzZWIxYjgwYjNiNjZhODI4NDNkYTM0ODA5ZjJj`
+Snapshot ID: `MCxlOTJiYWNkNDEyOTRkYjUyYWQzMDFlZWI5MzYzYTBiYzBkZjNlZjlk`

@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-533 songs - 1 day 6 hr 11 min
+534 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 | 2022-04-13 |  |
 | [Dark Days](https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:00 | 2021-05-01 | 2022-10-15 |
 | [Days in the Summer](https://open.spotify.com/track/0fqq9VztIytNN9pFIxsw0v) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Days in the Summer](https://open.spotify.com/album/1eFtxgSrKAUYAM7d7RVLHz) | 3:04 | 2021-05-01 | 2022-04-13 |
+| [Dead](https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:39 | 2023-05-01 |  |
 | [Dead](https://open.spotify.com/track/6Ww5yDLIVX3ZcUs9wSvXH8) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Dead](https://open.spotify.com/album/3QutVC0xl9EKHyHeUhUV21) | 3:39 | 2022-10-14 | 2022-11-11 |
 | [Deadline](https://open.spotify.com/track/1aUOZefupdIGf4ohZayFbO) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Deadline](https://open.spotify.com/album/2qaw9qJCDhB7zddI7rXLcq) | 3:38 | 2021-05-01 | 2022-04-12 |
 | [Diamond](https://open.spotify.com/track/33sOtnSvolKA5lDbvBtiSs) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Diamond](https://open.spotify.com/album/0RaRzSkUXCPA56uuhYcMuR) | 3:48 | 2021-05-01 | 2022-04-14 |
@@ -189,7 +190,7 @@
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2022-04-13 |  |
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2022-04-13 |  |
 | [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 | 2022-07-29 | 2022-10-14 |
-| [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2022-10-14 |  |
+| [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2022-10-14 | 2023-05-02 |
 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 | 2023-04-07 |  |
 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2021-05-01 | 2022-04-14 |
 | [Going up the Coast](https://open.spotify.com/track/2bTvNKT8bxyyPhzHu4A2Wx) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Going up the Coast](https://open.spotify.com/album/229OwGf2JaBsr2DFw9ixjy) | 2:54 | 2021-05-01 | 2022-04-20 |

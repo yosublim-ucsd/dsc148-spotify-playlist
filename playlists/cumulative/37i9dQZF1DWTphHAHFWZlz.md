@@ -4,12 +4,13 @@
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-186 songs - 10 hr 58 min
+187 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#3](https://open.spotify.com/track/1uRihlRJsDwZDua2HzUTMs) | [Caro Luisa](https://open.spotify.com/artist/5jpYEIn8PiFl8HmZ0sFpOb) | [\#3](https://open.spotify.com/album/2ngqOCSgr6VREfGkEsmm3m) | 3:45 | 2022-06-29 |  |
-| [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 | 2022-07-22 |  |
+| [1990](https://open.spotify.com/track/12vuqOqhkajHyhQgRQEG4h) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 3:27 | 2023-04-28 |  |
+| [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 | 2022-07-22 | 2023-05-02 |
 | [1990](https://open.spotify.com/track/7CTCnEu2LljIX5pUyY1MLq) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/2gqPdcjJINsjtfs74t5OYg) | 3:27 | 2022-07-19 | 2022-07-29 |
 | [A Mi Banda](https://open.spotify.com/track/7xVzPnsrUWNstMQ2t4Dcn5) | [Fulgura](https://open.spotify.com/artist/1i7SeHXbKSyxqiCh8e0Yg4) | [A Mi Banda](https://open.spotify.com/album/3IPTHuE3yxcAFzYDBosXhL) | 3:26 | 2022-06-29 |  |
 | [Aclarecer](https://open.spotify.com/track/2eg0qx2CpIJWo8UV7Gee1N) | [Oliver 4](https://open.spotify.com/artist/5LErubZ0xtU7IsRVYTsqFD) | [Aclarecer](https://open.spotify.com/album/5ScRy86d80fQX9AA8mP1qN) | 3:23 | 2022-06-29 | 2022-08-13 |

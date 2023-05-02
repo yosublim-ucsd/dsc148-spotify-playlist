@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Ethan in cover! <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">Qua la playlist global</a> ✨
 
-268 songs - 16 hr 21 min
+269 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Faradenza](https://open.spotify.com/track/5YdbRdc2AhwJXzz8eOfCP3) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [Antipositive, Pt\. 1](https://open.spotify.com/album/6aKvehyRr8lcSApGpkie7X) | 2:29 | 2022-06-12 | 2022-06-27 |
 | [FINIMONDO](https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [FINIMONDO](https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2) | 2:51 | 2022-05-25 | 2022-06-13 |
 | [FINIMONDO](https://open.spotify.com/track/0RFRr1i6USZRE66r5vB9OT) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:51 | 2022-06-12 | 2022-06-27 |
+| [Flauta Magica](https://open.spotify.com/track/01gb9bfWp306gDQRbFd5ds) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/4JLgXoma9I3Dewc8tEGonO) | 2:22 | 2023-04-12 |  |
 | [Flauta Magica](https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8) | 2:22 | 2023-02-27 | 2023-04-30 |
 | [Flores no Mar](https://open.spotify.com/track/7eNSgICl11uh6hzLfDXV6d) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/6QW0AjRzQmHoUxwT570bJX) | 8:13 | 2021-11-19 | 2022-07-29 |
 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 8:13 | 2022-09-08 | 2023-05-01 |
@@ -200,7 +201,7 @@
 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:20 | 2022-06-26 | 2023-01-25 |
 | [Rebel \(Sem&Stènn Remix\)](https://open.spotify.com/track/3K0NohCbTsh53i6cnj2x07) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa), [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5) | [Rebel \(Sem&Stènn Remix\)](https://open.spotify.com/album/70dxR8oMAQPMMmy4BCSUWm) | 2:39 | 2021-11-19 | 2022-07-24 |
 | [REGNO DEI CUORI](https://open.spotify.com/track/6ccU7LnsRFPt1Y6fUCcHHl) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [REGNO DEI CUORI](https://open.spotify.com/album/5B0ZeZfp2B8DnX4AcqHIf9) | 3:22 | 2023-02-27 |  |
-| [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 | 2022-04-01 |  |
+| [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 | 2022-04-01 | 2023-05-02 |
 | [Respiro](https://open.spotify.com/track/0AwjnkfYhpjZOO6eDSFFxx) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Dormi](https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo) | 3:33 | 2023-02-23 |  |
 | [Rhythm Is My Bitch \- Original Mix](https://open.spotify.com/track/0qCA1BoUgGckvfnyX04jgL) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Rhythm Is My Bitch \- EP](https://open.spotify.com/album/1efme0Jwk5ZxdGA3pOXtcK) | 6:30 | 2022-06-26 | 2022-07-26 |
 | [Rin Tin Tin](https://open.spotify.com/track/6I48dHZ08YxQfFfOjDuWMS) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo) | [Rin Tin Tin](https://open.spotify.com/album/5Z3NO6kR7tiV5IFtmIS4EE) | 2:16 | 2022-06-12 | 2022-06-27 |

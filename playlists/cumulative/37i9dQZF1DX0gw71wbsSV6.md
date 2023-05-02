@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-155 songs - 9 hr 36 min
+156 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Nobose](https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:02 | 2023-03-28 |  |
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-10-16 | 2023-01-11 |
 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 | 2023-01-12 | 2023-01-20 |
+| [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-04-27 |  |
 | [Paris in the Rain](https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:24 | 2022-10-27 |  |
 | [Paris in the Rain](https://open.spotify.com/track/41CgzGD7xlgnJe14R4cqkL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:24 | 2022-10-16 | 2022-11-02 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-12 |  |
@@ -121,7 +122,7 @@
 | [Telephone dream](https://open.spotify.com/track/7AlBJGFpGi9BR1HfaNWnDi) | [Hugh Keice](https://open.spotify.com/artist/74w143cx7ODBg7fiKC23aO) | [Telephone dream](https://open.spotify.com/album/41pwpM53tHIPDGGuTdsElH) | 3:05 | 2023-02-21 | 2023-04-14 |
 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 | 2023-03-28 |  |
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-16 | 2023-04-02 |
-| [The Gym](https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [The Gym](https://open.spotify.com/album/1aGB1YZ8nU8AciTJwe9uks) | 3:19 | 2023-04-27 |  |
+| [The Gym](https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [The Gym](https://open.spotify.com/album/1aGB1YZ8nU8AciTJwe9uks) | 3:19 | 2023-04-27 | 2023-05-02 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-10-16 |  |
 | [The Little Prince \(feat\. Kevin Chung & suru\)](https://open.spotify.com/track/5uCnSxDkiDLnnO7kmHhl27) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kevin Chung](https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [The Little Prince](https://open.spotify.com/album/0kRywtnCwHW31d54CmrzSU) | 2:59 | 2023-03-23 | 2023-04-05 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2022-10-16 | 2023-01-11 |

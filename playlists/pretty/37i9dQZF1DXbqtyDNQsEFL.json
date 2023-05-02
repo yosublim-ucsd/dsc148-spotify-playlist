@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 34305,
+  "num_followers": 34363,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDM1MjhjNmNlNjk5Yzk4OWI2ZDRjNjVkYWQ1YjE1ZDQwNDEwY2M1",
+  "snapshot_id": "MCwyYzNjYjNjYzA5NWM0MTE1ZDhhNDlmZDVlZjE1M2I2YWNmOGRiMzNh",
   "tracks": [
     {
       "added_at": "2023-04-14 13:13:25",
@@ -191,6 +191,30 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 402803,
+      "name": "Old Church Basement (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "Kumama",
         "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
       },
@@ -247,30 +271,6 @@
       "duration_ms": 348773,
       "name": "Awesome",
       "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 402803,
-      "name": "Old Church Basement (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -343,38 +343,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Lion of Judah",
-        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        }
-      ],
-      "duration_ms": 316280,
-      "name": "Lion of Judah",
-      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Your Grace",
-        "url": "https://open.spotify.com/album/7lsWJ06VBvThqiQ2jrKzMy"
-      },
-      "artists": [
-        {
-          "name": "Prince Tuffour",
-          "url": "https://open.spotify.com/artist/6Eepfbu8xs396Vg3nDfTH4"
-        }
-      ],
-      "duration_ms": 325328,
-      "name": "Your Grace",
-      "url": "https://open.spotify.com/track/7JUphXRshWVYaxMwhgIWK2"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "This God Is Too Good",
         "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
       },
@@ -395,6 +363,38 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "Your Grace",
+        "url": "https://open.spotify.com/album/7lsWJ06VBvThqiQ2jrKzMy"
+      },
+      "artists": [
+        {
+          "name": "Prince Tuffour",
+          "url": "https://open.spotify.com/artist/6Eepfbu8xs396Vg3nDfTH4"
+        }
+      ],
+      "duration_ms": 325328,
+      "name": "Your Grace",
+      "url": "https://open.spotify.com/track/7JUphXRshWVYaxMwhgIWK2"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Lion of Judah",
+        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        }
+      ],
+      "duration_ms": 316280,
+      "name": "Lion of Judah",
+      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "The Glory Experience (Live In Houston)",
         "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
@@ -407,26 +407,6 @@
       "duration_ms": 298306,
       "name": "Most High - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Frankincense",
-        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        },
-        {
-          "name": "Don Moen",
-          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Ka Anyi Bulie (feat. Don Moen)",
-      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -447,6 +427,26 @@
       "duration_ms": 338218,
       "name": "Believe For It (Eu Creio)",
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Frankincense",
+        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Don Moen",
+          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Ka Anyi Bulie (feat. Don Moen)",
+      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -643,46 +643,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "The King Is Coming",
-        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "NWANDO OMOSEBI",
-          "url": "https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT"
-        },
-        {
-          "name": "IFIOK EZENWA",
-          "url": "https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz"
-        }
-      ],
-      "duration_ms": 466666,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "The Kadosh (Live)",
         "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
       },
@@ -715,6 +675,46 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "The King Is Coming",
+        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "NWANDO OMOSEBI",
+          "url": "https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT"
+        },
+        {
+          "name": "IFIOK EZENWA",
+          "url": "https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz"
+        }
+      ],
+      "duration_ms": 466666,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "More Than Music (Transcendent Worship)",
         "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
       },
@@ -727,6 +727,26 @@
       "duration_ms": 632469,
       "name": "Glory",
       "url": "https://open.spotify.com/track/6WxUoDi4xnl4E1NDrcAewm"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "No One Like You",
+        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 317675,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -759,26 +779,6 @@
       "duration_ms": 405865,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "No One Like You",
-        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 317675,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "The Name of Jesus: Sinach Live in Concert",
+        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 626674,
+      "name": "Great Are You Lord (Live)",
+      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "Way\u03b5 Me Yie",
         "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Heal Our Land (Live)",
-        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
-      },
-      "artists": [
-        {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
-        }
-      ],
-      "duration_ms": 461003,
-      "name": "Spontaneous Worship 1 - Live",
-      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -903,38 +903,18 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Yhwh",
-        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
+        "name": "Heal Our Land (Live)",
+        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
         }
       ],
-      "duration_ms": 583858,
-      "name": "Yhwh",
-      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "The Name of Jesus: Sinach Live in Concert",
-        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 626674,
-      "name": "Great Are You Lord (Live)",
-      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
+      "duration_ms": 461003,
+      "name": "Spontaneous Worship 1 - Live",
+      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -975,18 +955,22 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "ALONE WITH GOD (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
+        "name": "Yhwh",
+        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 2526933,
-      "name": "ALONE WITH GOD (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+      "duration_ms": 583858,
+      "name": "Yhwh",
+      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1007,6 +991,22 @@
       "duration_ms": 190000,
       "name": "Watching All over Me",
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "ALONE WITH GOD (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2526933,
+      "name": "ALONE WITH GOD (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Soldier",
-        "url": "https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm"
-      },
-      "artists": [
-        {
-          "name": "Tobi Adey",
-          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
-        }
-      ],
-      "duration_ms": 132785,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "Taking care (Live at Bliss Experience)",
         "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 464677,
       "name": "Nsenkyerene Nyankopon (Live)",
       "url": "https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Soldier",
+        "url": "https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm"
+      },
+      "artists": [
+        {
+          "name": "Tobi Adey",
+          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
+        }
+      ],
+      "duration_ms": 132785,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2509230,
-      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/2EkC0qivZmtC9WmfLrmaZV"
       },
@@ -1291,22 +1275,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Always Win (Solo Version)",
-        "url": "https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 300562,
-      "name": "Always Win (Solo Version)",
-      "url": "https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "IBUKA",
         "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
       },
@@ -1323,6 +1291,22 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2509230,
+      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "Olowo Orimi (The One Who Paid For Me)",
         "url": "https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh"
       },
@@ -1335,6 +1319,38 @@
       "duration_ms": 489493,
       "name": "Olowo Orimi (The One Who Paid For Me)",
       "url": "https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Journey To The Deep (Prayer Chants)",
+        "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 131640,
+      "name": "Eyes of The Spirit Chant (Prayer Chant)",
+      "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Always Win (Solo Version)",
+        "url": "https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 300562,
+      "name": "Always Win (Solo Version)",
+      "url": "https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1367,22 +1383,6 @@
       "duration_ms": 464291,
       "name": "King of Heaven",
       "url": "https://open.spotify.com/track/7o5X7UiaWdlhZ8RzhgpMvB"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Journey To The Deep (Prayer Chants)",
-        "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 131640,
-      "name": "Eyes of The Spirit Chant (Prayer Chant)",
-      "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
     },
     {
       "added_at": "2023-04-14 13:13:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > ETT GLAS TILL!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,311 likes - 103 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,372 likes - 103 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 102 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 |
 | 103 | [KAPTEN KAPTEN \- Radio Edit](https://open.spotify.com/track/6ZnNBc9aadApyNnQ3hgS8S) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [KAPTEN KAPTEN \(Radio Edit\)](https://open.spotify.com/album/3qawlLrgiH0LvtXGOS8rKC) | 2:36 |
 
-Snapshot ID: `MCwzYTA2ZGMwZWVkNjQxNWQ4YTUxZWYyZGFmZGE0OWMzNmIzMmM2NTVl`
+Snapshot ID: `MCwzZGM4ZDMwNDQ1MDg4ZTA4OWI4Y2M5NTE3ZjJhOTIyNmExNGQxZWI2`

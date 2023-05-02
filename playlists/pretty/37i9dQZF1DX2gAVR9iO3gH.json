@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Eladio Carrion",
-  "num_followers": 49753,
+  "num_followers": 49817,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWJkY2VjN2E3ZTk4YjhlNmQxMzc1ODhmZmEzY2MwMDE2YWIyOGFm",
+  "snapshot_id": "MCwxMWNmMTlmZjcxNDJiMmJmMzBjZjQzMWM4ZGExYjBjN2UyMWQ4MDA5",
   "tracks": [
     {
       "added_at": "2023-03-31 07:10:40",
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
     },
     {
-      "added_at": "2023-05-01 01:22:20",
+      "added_at": "2023-05-02 01:19:05",
       "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 167175,
-      "name": "AGUARDIENTE",
-      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
-    },
-    {
-      "added_at": "2023-03-31 07:10:40",
-      "album": {
         "name": "Marianela (Que Pasa)",
         "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
       },
@@ -535,26 +519,6 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "CHAO BEBE",
-        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 206499,
-      "name": "CHAO BEBE",
-      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
-    },
-    {
-      "added_at": "2023-03-31 07:10:40",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -571,6 +535,42 @@
       "duration_ms": 197383,
       "name": "PANTIES Y BRASIERES",
       "url": "https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV"
+    },
+    {
+      "added_at": "2023-03-31 07:10:40",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 167175,
+      "name": "AGUARDIENTE",
+      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
+    },
+    {
+      "added_at": "2023-03-31 07:10:40",
+      "album": {
+        "name": "CHAO BEBE",
+        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 206499,
+      "name": "CHAO BEBE",
+      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
+      },
+      "artists": [
+        {
+          "name": "Un Titico",
+          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
+        },
+        {
+          "name": "El Dany MG",
+          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s"
+    },
+    {
+      "added_at": "2023-03-31 07:10:40",
+      "album": {
         "name": "LE DOY 20 MIL",
         "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 191489,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
-    },
-    {
-      "added_at": "2023-03-31 07:10:40",
-      "album": {
-        "name": "Que Rico",
-        "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
-      },
-      "artists": [
-        {
-          "name": "Un Titico",
-          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
-        },
-        {
-          "name": "El Dany MG",
-          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Que Rico",
-      "url": "https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
-    },
-    {
-      "added_at": "2023-03-31 07:10:40",
-      "album": {
         "name": "Dame Cinturita Maricona",
         "url": "https://open.spotify.com/album/5PDtBuhsau29DKcH9qmHMb"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 188550,
       "name": "Dame Cinturita Maricona",
       "url": "https://open.spotify.com/track/1UVf3NdJdBTNE3MfdfOcRO"
+    },
+    {
+      "added_at": "2023-03-31 07:10:40",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
     },
     {
       "added_at": "2023-03-31 07:10:40",

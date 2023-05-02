@@ -7182,7 +7182,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 281835,
       "name": "Esclava",
       "url": "https://open.spotify.com/track/6xnprGQqFigj5Zh5PCeC35"
@@ -7584,7 +7584,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
@@ -17202,7 +17202,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 231644,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
@@ -18580,7 +18580,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
@@ -18984,7 +18984,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 115165,
       "name": "Sin Condon (TikTok) - Remix",
       "url": "https://open.spotify.com/track/4i57FtSgN0a7UlcECOX4ws"
@@ -19772,7 +19772,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 248352,
       "name": "Street Poem",
       "url": "https://open.spotify.com/track/4h1cwq4kKiOXcndkNZQqc1"
@@ -21410,7 +21410,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 146227,
       "name": "Toda (Solo Anuel)",
       "url": "https://open.spotify.com/track/3Vun4CA3aLiVFM3fAJQuTs"
@@ -21630,6 +21630,32 @@
       "duration_ms": 192203,
       "name": "Traficando a Mi Manera RHLM",
       "url": "https://open.spotify.com/track/275grFUhvHCrrDdVMY2bgL"
+    },
+    {
+      "album": {
+        "name": "Tu Chacal",
+        "url": "https://open.spotify.com/album/54TJ2t2cbWixJjwffEK68w"
+      },
+      "artists": [
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171812,
+      "name": "Tu Chacal",
+      "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
     },
     {
       "album": {

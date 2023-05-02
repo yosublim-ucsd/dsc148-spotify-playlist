@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Styx",
-  "num_followers": 1112882,
+  "num_followers": 1113204,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWU4ZGY3YjI5NDE3YzdhMjliZTg2MTFjMGI1Y2ViOGY5YTgwOTMz",
+  "snapshot_id": "MCxjZWJhYmY3YzFjM2Y3NTZlZmJiYzIzNzY1NzE1NTg4NDgxZWE2YWNl",
   "tracks": [
     {
       "added_at": "2023-01-18 16:06:35",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Theatre of Pain (2021 - Remaster)",
         "url": "https://open.spotify.com/album/4ns4vxdkk4PdkneLNfJL52"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 239080,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/2C0hJUVjp7FSchyhYiceJq"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -427,54 +427,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Brigade",
         "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
       },
@@ -507,6 +459,22 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
         "name": "Straight Shooter",
         "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 313840,
       "name": "Feel like Makin' Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -747,38 +747,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Alice In Chains",
-        "url": "https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 327893,
-      "name": "Heaven Beside You",
-      "url": "https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Hold Your Fire",
         "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
       },
@@ -791,6 +759,22 @@
       "duration_ms": 239866,
       "name": "When I Look Into Your Eyes",
       "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Alice In Chains",
+        "url": "https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 327893,
+      "name": "Heaven Beside You",
+      "url": "https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -843,6 +827,22 @@
       "duration_ms": 165666,
       "name": "Beth",
       "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Dr. Feelgood (2021 - Remaster)",
         "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 304693,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
+        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "I Won't Forget You - Remastered",
+      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
         "name": "The Great Radio Controversy",
         "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "I Can't Hold Back",
-      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Harem Scarem",
         "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 242293,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
-        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
-      },
-      "artists": [
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "I Won't Forget You - Remastered",
-      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "I Can't Hold Back",
+      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
         "name": "W.A.S.P.",
         "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Alias",
-        "url": "https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF"
-      },
-      "artists": [
-        {
-          "name": "Alias",
-          "url": "https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ"
-        }
-      ],
-      "duration_ms": 234196,
-      "name": "More Than Words Can Say",
-      "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Psychotic Supper",
         "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 435226,
       "name": "What You Give",
       "url": "https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Alias",
+        "url": "https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF"
+      },
+      "artists": [
+        {
+          "name": "Alias",
+          "url": "https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ"
+        }
+      ],
+      "duration_ms": 234196,
+      "name": "More Than Words Can Say",
+      "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Mass Slaughter",
-        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
-      },
-      "artists": [
-        {
-          "name": "Slaughter",
-          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Fly To The Angels",
-      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
+        "name": "Mass Slaughter",
+        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
+      },
+      "artists": [
+        {
+          "name": "Slaughter",
+          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Fly To The Angels",
+      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
         "name": "Boogie Nights / Music From The Original Motion Picture",
         "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Vixen",
-        "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
-      },
-      "artists": [
-        {
-          "name": "Vixen",
-          "url": "https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Edge Of A Broken Heart",
-      "url": "https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Good Acoustics",
         "url": "https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 261826,
       "name": "I Live My Life for You",
       "url": "https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Vixen",
+        "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Edge Of A Broken Heart",
+      "url": "https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
-        "name": "Treasure Chest (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Forever & One",
-      "url": "https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
         "name": "Abbey Road (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2023-01-18 16:06:35",
       "album": {
+        "name": "Treasure Chest (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Forever & One",
+      "url": "https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
         "name": "Detonator",
         "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 326000,
       "name": "Givin' Yourself Away",
       "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
-    },
-    {
-      "added_at": "2023-01-18 16:06:35",
-      "album": {
-        "name": "Killing Machine",
-        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Before the Dawn",
-      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
     },
     {
       "added_at": "2023-01-18 16:06:35",
@@ -1579,6 +1563,22 @@
       "duration_ms": 337906,
       "name": "When It's Love",
       "url": "https://open.spotify.com/track/7gG1RvwQRrofiL3tvq8pBI"
+    },
+    {
+      "added_at": "2023-01-18 16:06:35",
+      "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Before the Dawn",
+      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
     },
     {
       "added_at": "2023-01-18 16:06:35",

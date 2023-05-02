@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 15276,
+  "num_followers": 15313,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWY4ZmMwZGM2MTRmODdjM2YzMmJmYzgzY2Q4Nzc3MWNhNTRiN2M0",
+  "snapshot_id": "MCxjZDY0OGY1ZDZjNDNkZGRjOWVhOWNjOTVkOGIyMGY1MjJlMmFkNDNk",
   "tracks": [
     {
       "added_at": "2023-04-27 16:36:24",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-04-27 16:36:24",
       "album": {
-        "name": "\u9003\u907f\u884c",
-        "url": "https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 191689,
-      "name": "\u9003\u907f\u884c",
-      "url": "https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z"
-    },
-    {
-      "added_at": "2023-04-27 16:36:24",
-      "album": {
         "name": "The Beam",
         "url": "https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 216015,
       "name": "BUDDY feat. PUNPEE",
       "url": "https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq"
+    },
+    {
+      "added_at": "2023-04-27 16:36:24",
+      "album": {
+        "name": "\u30d6\u30e9\u30a6\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u306c\u304b",
+          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+        }
+      ],
+      "duration_ms": 210158,
+      "name": "\u30d6\u30e9\u30a6\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

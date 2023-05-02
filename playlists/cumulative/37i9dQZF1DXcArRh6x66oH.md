@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-117 songs - 7 hr 6 min
+118 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Drowning](https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Drowning](https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw) | 3:02 | 2023-03-24 |  |
 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 | 2023-02-24 |  |
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2023-02-24 |  |
-| [Eastern Kentucky](https://open.spotify.com/track/3KHv9f9K6pZRSv61z4SaRu) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Eastern Kentucky](https://open.spotify.com/album/4fbqrkjymL0LAtCAFxq7Wd) | 3:34 | 2023-03-24 |  |
+| [Eastern Kentucky](https://open.spotify.com/track/3KHv9f9K6pZRSv61z4SaRu) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Eastern Kentucky](https://open.spotify.com/album/4fbqrkjymL0LAtCAFxq7Wd) | 3:34 | 2023-03-24 | 2023-05-02 |
+| [Eastern Kentucky](https://open.spotify.com/track/6IT6bUPDd0wbTrGTDs4Xke) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Home Is Where The Heart Is](https://open.spotify.com/album/5I5o18dU689s743rNR356A) | 3:34 | 2023-04-28 |  |
 | [Eveline](https://open.spotify.com/track/6wgCah9IU4VP9zqqMSVxk7) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [farmland](https://open.spotify.com/album/7HD3bbzKRfWsKX5KvaQTe4) | 3:50 | 2023-02-24 |  |
 | [Even Jesus Got The Blues](https://open.spotify.com/track/3O6pwu8y1SGJudoAiLouGy) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Even Jesus Got The Blues](https://open.spotify.com/album/54V2QD9hvipUq4629FNm36) | 3:31 | 2023-04-14 |  |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-03-27 |  |

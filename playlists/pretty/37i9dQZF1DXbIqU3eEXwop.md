@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 
 > Les indispensables de l'été.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,213 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,292 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 | 49 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 |
 | 50 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 |
 
-Snapshot ID: `MCwwZWMzMWQ2YzFhMDVmZTI4NDUyZjc5NGVhYmJkNDAzMTliNDJlNjI5`
+Snapshot ID: `MCw3OWEzYTdkZGQwYjE0MDY0ODU4MzI4NGVkMjVhYjc1MzMyMjYzZmMz`

@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9179,
+  "num_followers": 9181,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzM0YTNhMTcyMzBkZDkwZDU1YjkyNWE2OWIyNjAyZTgxZjJkMGNk",
+  "snapshot_id": "MCxlODU5Mjc5YzM5OGI3ZTkyNjRjYzA4YTg4NDViMzA5Mzc2ZTI0NjAy",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
@@ -199,6 +183,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Practice",
         "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
       },
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Mobster",
-        "url": "https://open.spotify.com/album/7qAR0K7zQHG9OsiNkZxriW"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Mobster",
-      "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 175187,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Mobster",
+        "url": "https://open.spotify.com/album/7qAR0K7zQHG9OsiNkZxriW"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Mobster",
+      "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -295,6 +295,22 @@
       "duration_ms": 218228,
       "name": "Wotless",
       "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -403,18 +419,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+        "name": "Demon Girl",
+        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
       },
       "artists": [
         {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
         }
       ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+      "duration_ms": 202422,
+      "name": "Demon Girl",
+      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -435,22 +451,6 @@
       "duration_ms": 187375,
       "name": "Heaven Passport",
       "url": "https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Demon Girl",
-        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
-        }
-      ],
-      "duration_ms": 202422,
-      "name": "Demon Girl",
-      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -919,38 +919,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
-      },
-      "artists": [
-        {
-          "name": "Daddy1",
-          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
-        }
-      ],
-      "duration_ms": 175216,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Rats Hole Riddim",
-        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Baila Riddim",
         "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
       },
@@ -963,6 +931,22 @@
       "duration_ms": 137195,
       "name": "Shots (One for Di Road)",
       "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
+      },
+      "artists": [
+        {
+          "name": "Daddy1",
+          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
+        }
+      ],
+      "duration_ms": 175216,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 154909,
       "name": "Bend Yuh Back",
       "url": "https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Rats Hole Riddim",
+        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Gold 2012",
-        "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Mandrakes Riddim",
         "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 230769,
       "name": "Tombstone",
       "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2012",
+        "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
     },
     {
       "added_at": "2022-02-24 18:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Jhayco & Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,424 likes - 56 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,576 likes - 56 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [Imaginándonos](https://open.spotify.com/track/752gmsq47534EHFJJR8bIm) | [Mercy LD](https://open.spotify.com/artist/6MtdozPV1ApwJDxZBp0MlV) | [Imaginándonos](https://open.spotify.com/album/3eJ7WAkL7SKbV9WzNBH6Ge) | 2:23 |
 | 56 | [Quiero Bailar Contigo](https://open.spotify.com/track/3iIvuDuC4ZdP2RqWHCSP3p) | [Truzman](https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr) | [Quiero Bailar Contigo](https://open.spotify.com/album/42W88xG8y9WfcqdarnA1uO) | 2:35 |
 
-Snapshot ID: `MCw0ZGJjMzEzMGE5YzIyYjdjMjY0OGVkNWQ3MTk2MzMxZDEyZjAzZDEy`
+Snapshot ID: `MCw0NmViYThhN2Q4NjA1NzhhZDlmNDBlNWQ4ODY5MjA1NTU5MjJhODE4`

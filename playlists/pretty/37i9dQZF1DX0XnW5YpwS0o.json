@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 66271,
+  "num_followers": 66369,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGUyZmUxMWNlZTU2MzE0YzdjM2I5MzQ4ODJiZjQxOWYxNTI0NTFj",
+  "snapshot_id": "MCwzMDNkZmQ3NWQ3ODk5YjQ5M2NjYjk0M2NhN2ViMjIwMDI0MDg2NTU1",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -279,6 +247,22 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
     },
     {
       "added_at": "2021-12-13 13:21:36",
@@ -299,18 +283,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -363,6 +347,22 @@
       "duration_ms": 212183,
       "name": "Your Best American Girl",
       "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -639,6 +639,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
         "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Songs From Final Fantasy XV",
         "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 245780,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Hot Blood",
+      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -819,22 +835,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Home of the Strange",
-        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "Silvertongue",
-      "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        "name": "Home of the Strange",
+        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 218600,
-      "name": "Hot Blood",
-      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
+      "duration_ms": 197426,
+      "name": "Silvertongue",
+      "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Future Present Past",
-        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 264724,
-      "name": "Threat of Joy",
-      "url": "https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 228146,
       "name": "GOT IT GOOD",
       "url": "https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Future Present Past",
+        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 264724,
+      "name": "Threat of Joy",
+      "url": "https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 270106,
-      "name": "She's American",
-      "url": "https://open.spotify.com/track/51cd3bzVmLAjlnsSZn4ecW"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Schmilco",
         "url": "https://open.spotify.com/album/1Wjheru5k9DMQduRIasAyL"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 270106,
+      "name": "She's American",
+      "url": "https://open.spotify.com/track/51cd3bzVmLAjlnsSZn4ecW"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 196946,
       "name": "Twice",
       "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 220609,
+      "name": "Burn the Witch",
+      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1179,22 +1195,6 @@
       "duration_ms": 202200,
       "name": "Shut Up Kiss Me",
       "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 220609,
-      "name": "Burn the Witch",
-      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 171789,
       "name": "Uno",
       "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1431,38 +1431,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Die Trying",
-        "url": "https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm"
-      },
-      "artists": [
-        {
-          "name": "Michl",
-          "url": "https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN"
-        }
-      ],
-      "duration_ms": 209536,
-      "name": "Die Trying",
-      "url": "https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Cardinal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -1475,6 +1443,22 @@
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
       "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Die Trying",
+        "url": "https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm"
+      },
+      "artists": [
+        {
+          "name": "Michl",
+          "url": "https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN"
+        }
+      ],
+      "duration_ms": 209536,
+      "name": "Die Trying",
+      "url": "https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1495,6 +1479,22 @@
       "duration_ms": 232490,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/5T5b5ZLAUPjtGUTdaH8KLd"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Cardinal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "Lewis Del Mar",
         "url": "https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 237693,
       "name": "Coins",
       "url": "https://open.spotify.com/track/53I7CviVHhNYEKth717RLG"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 309013,
-      "name": "8 (circle)",
-      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
     }
   ],
   "unique_name": "Best of Indie 2016",

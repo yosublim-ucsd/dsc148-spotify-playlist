@@ -4,7 +4,7 @@
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-164 songs - 10 hr 3 min
+165 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 | 2022-02-10 |  |
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/1Re30B3AC2Ra8n4f2xsDW3) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le fabuleux destin d'Amélie Poulain \(Bande originale de film\)](https://open.spotify.com/album/3HJyNEMgfUh37Q6wpmtXL0) | 2:20 | 2022-02-10 | 2022-07-29 |
 | [Cut Your Bangs](https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu) | 2:06 | 2022-02-10 | 2023-04-30 |
+| [Cut Your Bangs](https://open.spotify.com/track/3ziv4Uszw9iRjUpZt1la0L) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs) | 2:06 | 2023-03-14 |  |
 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 | 2022-02-10 |  |
 | [Elephant Gun](https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Elephant Gun](https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20) | 5:48 | 2022-02-10 |  |
 | [Emma's House](https://open.spotify.com/track/7IeinCxS7XtnmYKE1FBkRe) | [The Field Mice](https://open.spotify.com/artist/3KH6DLHeoFZgVbtKiLXb6L) | [Where'd You Learn To Kiss That Way?](https://open.spotify.com/album/1Lr3IdIToxtcNiCLcf04MB) | 3:36 | 2022-02-10 | 2022-07-29 |
@@ -73,7 +74,7 @@
 | [I Wonder](https://open.spotify.com/track/1N7CPfmaGgfulHwmnBRanq) | [The Willowz](https://open.spotify.com/artist/2dG9gBa7T5yfZZVXvvHxPF) | [The Willowz](https://open.spotify.com/album/4Jf3B2ckkvhkVSWDkCeEHN) | 2:57 | 2022-02-10 | 2022-07-20 |
 | [I'm In Love With A Girl Who Doesn't Know I Exist](https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 1:38 | 2022-02-10 |  |
 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 | 2022-02-10 |  |
-| [It's Okay](https://open.spotify.com/track/1Mhm1ffgSwXQnherftGRau) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Some Are Lakes](https://open.spotify.com/album/0LcNbby41jxxvg5nrgwsvo) | 4:54 | 2022-02-10 |  |
+| [It's Okay](https://open.spotify.com/track/1Mhm1ffgSwXQnherftGRau) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Some Are Lakes](https://open.spotify.com/album/0LcNbby41jxxvg5nrgwsvo) | 4:54 | 2022-02-10 | 2023-05-02 |
 | [Keep It Clean](https://open.spotify.com/track/0hPHOFbf3uKhBL2VaZ9YGn) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:16 | 2022-02-10 | 2022-07-29 |
 | [LDN](https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:10 | 2022-02-10 | 2022-07-29 |
 | [LDN](https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:12 | 2022-02-10 |  |

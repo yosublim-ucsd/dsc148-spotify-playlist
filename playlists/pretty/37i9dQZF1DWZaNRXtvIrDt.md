@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Nabihah Iqbal
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,800 likes - 68 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,805 likes - 68 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 67 | [Unknown Angel](https://open.spotify.com/track/0c3l1ht3cKspGlY67Fcogu) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Unknown Angel](https://open.spotify.com/album/0Uo6UEk7brlxliZ1KmzTKV) | 6:59 |
 | 68 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 |
 
-Snapshot ID: `MCxkZWUyMzAyNzQzODZhYmM5ZTEwNjUwNjk3OGQxNmEyYzZlN2MxNjM5`
+Snapshot ID: `MCxiZjk0YmE0YjVkYjM4MWQ0NjRhZWI1YTE1OWY1OTk5OGUwNzY0Yzk1`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,013 songs - 2 day 4 hr 35 min
+1,014 songs - 2 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1009,7 +1009,7 @@
 | [Zie Ginds Komt De Stoomboot](https://open.spotify.com/track/7ftem6EQF6isH4imw6qK58) | [Alles Kids](https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd), [Sinterklaasliedjes Alles Kids](https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i) | [Sinterklaasliedjes om mee te zingen](https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd) | 1:03 | 2022-12-04 | 2022-12-08 |
 | [Zie Ginds Komt De Stoomboot](https://open.spotify.com/track/2wC30lLCl3n4QERyZd0pWW) | [Noord\-Hollands Kinderkoor](https://open.spotify.com/artist/7yOobv5U0tQXYJaow5MN9P) | [Oerhollandse Sinterklaasliedjes](https://open.spotify.com/album/7Is5aN4rrDSKimGlZWzAkv) | 1:29 | 2021-12-07 | 2021-12-08 |
 | [Zie Ginds Komt De Stoomboot \(feat\. Sinterklaasliedjes\)](https://open.spotify.com/track/3TKZ1WIvUj4A6wxhTRM7YF) | [Kinderliedjes](https://open.spotify.com/artist/5NIQNYb3j3WtX4ZKnLNajy), [Sinterklaasliedjes](https://open.spotify.com/artist/2ieZVeLSXjusHvAKJCQ1NC) | [Sinterklaasliedjes](https://open.spotify.com/album/7l4uTpA6SDnW0Qq47sNxqF) | 0:57 | 2021-12-07 | 2021-12-08 |
-| [ZiggZagg](https://open.spotify.com/track/0wdw86kxFxu0IGz2JxnbfN) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [ZiggZagg](https://open.spotify.com/album/0ubDajCOt6N3FRP2ZXyWeG) | 3:04 | 2023-04-20 |  |
+| [ZiggZagg](https://open.spotify.com/track/0wdw86kxFxu0IGz2JxnbfN) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [ZiggZagg](https://open.spotify.com/album/0ubDajCOt6N3FRP2ZXyWeG) | 3:04 | 2023-04-20 | 2023-05-02 |
 | [Zij aan zij](https://open.spotify.com/track/5QGGDdqiTjGA8u8TS1xQRI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Zij aan zij](https://open.spotify.com/album/0VVyLi8EL6qVWRh7JsSQTu) | 3:07 | 2021-04-26 | 2021-04-30 |
 | [Zij Wil Mij](https://open.spotify.com/track/01F3XjTDNiB5v3hfAPi7qT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/463bjptI7QogsQjWLw566S) | 2:36 | 2022-01-08 | 2022-06-14 |
 | [Zij Wil Mij](https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR) | 2:36 | 2022-01-03 | 2022-01-08 |
@@ -1020,6 +1020,7 @@
 | [Zonder Gezicht](https://open.spotify.com/track/0KAqcZyd6eiKjyneZRmePT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:44 | 2022-03-20 | 2022-03-28 |
 | [Zoveel Pijn](https://open.spotify.com/track/0FU1Y9AHAGzy7JrF6YlqXt) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Zoveel Pijn](https://open.spotify.com/album/5UoT3oReW0V3AmEyx3a4BV) | 2:31 | 2022-03-20 | 2022-04-04 |
 | [Zoveel Takkies](https://open.spotify.com/track/3iabh1D7hKB9a81EfvxBat) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Zoveel Takkies](https://open.spotify.com/album/3K97I78QTGy2nVJLPwM94a) | 2:56 | 2022-02-12 | 2022-03-06 |
+| [Zusje](https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Zusje](https://open.spotify.com/album/0SNid4vYygVVvwph9bueos) | 2:27 | 2023-05-01 |  |
 | [Ça Sert à Rien](https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Ça Sert à Rien](https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5) | 2:50 | 2021-06-20 | 2021-07-06 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,898 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,939 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 59 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 |
 | 60 | [No Idol \- Remix](https://open.spotify.com/track/6uVCNLms1D9lQLIg9JG7Jr) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/1KqDdW5d7l4g9y7JzGyyDB) | 2:36 |
 
-Snapshot ID: `MCxmYmQyZDhhNzFkNTRmYjBmNDJhOGQwZTUwZTRkNTc3ZmNmNWRjMmEz`
+Snapshot ID: `MCxkOGFjMDJjOWQyZGU5Y2RlZDY0NDQ2MjBlMzRkZTdjMDhlZmFhOTQw`

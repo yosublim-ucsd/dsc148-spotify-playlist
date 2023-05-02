@@ -1634,6 +1634,24 @@
     {
       "album": {
         "name": "Moonbaton Vol. 1",
+        "url": "https://open.spotify.com/album/4JLgXoma9I3Dewc8tEGonO"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142852,
+      "name": "Flauta Magica",
+      "url": "https://open.spotify.com/track/01gb9bfWp306gDQRbFd5ds"
+    },
+    {
+      "album": {
+        "name": "Moonbaton Vol. 1",
         "url": "https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8"
       },
       "artists": [
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 178000,
       "name": "Repito - Populous Remix",
       "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"

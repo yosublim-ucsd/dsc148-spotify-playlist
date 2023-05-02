@@ -4,7 +4,7 @@
 
 > Workout songs to get your mental right and blood pumping.
 
-76 songs - 3 hr 59 min
+77 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [BLOOD SWEAT & TEARS](https://open.spotify.com/track/2sGHNzT76rKbSmAGs8ENH2) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 2:42 | 2022-06-20 | 2022-11-01 |
 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 | 2022-10-03 |  |
 | [BOOM](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BOOM](https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99) | 2:59 | 2022-06-09 |  |
+| [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 | 2023-04-30 |  |
 | [Bounce Back](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 3:42 | 2022-06-09 |  |
 | [Bussin](https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bussin](https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n) | 2:16 | 2022-06-09 |  |
 | [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2022-06-09 |  |
@@ -41,7 +42,7 @@
 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 | 2022-06-09 | 2023-04-25 |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-06-09 | 2023-02-23 |
 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 | 2022-06-09 | 2022-08-02 |
-| [Legendary](https://open.spotify.com/track/79QyrteZHwCJwijmJpgziR) | [X\-Raided](https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle) | [Legendary](https://open.spotify.com/album/5HxslbVnIoZ0NXa4nYICKj) | 2:57 | 2023-04-24 |  |
+| [Legendary](https://open.spotify.com/track/79QyrteZHwCJwijmJpgziR) | [X\-Raided](https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle) | [Legendary](https://open.spotify.com/album/5HxslbVnIoZ0NXa4nYICKj) | 2:57 | 2023-04-24 | 2023-05-02 |
 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 | 2022-06-09 |  |
 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 | 2022-06-09 |  |
 | [Loveless \(with Teddy Swims\)](https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Loveless \(with Teddy Swims\)](https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC) | 3:03 | 2022-06-09 |  |

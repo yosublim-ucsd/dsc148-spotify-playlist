@@ -4,7 +4,7 @@
 
 > Sped up songs from TikTok and around the internet.
 
-145 songs - 7 hr 24 min
+146 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 | 2022-07-18 | 2023-02-28 |
 | [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-07-18 | 2023-02-05 |
 | [Teenage Dirtbag \- Sped Up](https://open.spotify.com/track/4fWaKRsV1WgIPVICeYgrp3) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Teenage Dirtbag \(Sped Up\)](https://open.spotify.com/album/3MJwPSoCnSfeuoZKHu4PCO) | 3:21 | 2022-09-07 |  |
-| [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-07-18 |  |
+| [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-07-18 | 2023-05-02 |
 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 | 2022-07-18 | 2023-02-28 |
 | [The Middle](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) | 2:48 | 2020-03-31 | 2022-07-19 |
 | [The Sweet Escape](https://open.spotify.com/track/26eOTllWPn7oKuDUJnsJwF) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape \(International Version\)](https://open.spotify.com/album/2uoNsOC1w0zkRp0TE2uzuI) | 4:06 | 2020-03-31 | 2022-07-19 |
@@ -149,6 +149,7 @@
 | [Wake Me Up](https://open.spotify.com/track/294vBlXfZYspeI29SXZaON) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Wake Me Up](https://open.spotify.com/album/4c1UVOzAFB4mqGYZGadOru) | 4:09 | 2020-03-31 | 2022-07-19 |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2020-03-31 | 2022-07-19 |
 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 | 2022-07-18 | 2022-11-22 |
+| [What A Night \- Sped Up](https://open.spotify.com/track/021pU0OP2qlfGG5WZHsv2t) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [What A Night](https://open.spotify.com/album/616YgzuEKN9P6hDM7WzsIT) | 1:43 | 2023-04-30 |  |
 | [Where Do We Go From Here? \- sped up](https://open.spotify.com/track/5Ytgzxvn0waqOa4h3Ztpb8) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Where Do We Go From Here? \(sped up\)](https://open.spotify.com/album/3QWolpriPFWyqWCEzFAVnJ) | 3:34 | 2023-01-30 |  |
 | [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-07-18 | 2022-09-09 |
 | [Wicked Games \- Sped Up](https://open.spotify.com/track/2gD25C4hWZoQeGNlfqCAK2) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Wicked Games \(Sped Up\)](https://open.spotify.com/album/4C5wHfZutXxy8BlqegHYHw) | 2:36 | 2023-03-30 |  |

@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-201 songs - 11 hr 54 min
+202 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,12 +70,13 @@
 | [Heart of Somebody](https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 3:32 | 2022-04-01 |  |
 | [Heartbreak Blues](https://open.spotify.com/track/1dNAFligPl5TPPXxQ1EBgd) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/3ZVKsaGLzKLXyLpDht0SF6) | 4:07 | 2021-11-12 | 2022-07-29 |
 | [Hell's Bells](https://open.spotify.com/track/5o2a1mjibu0Tb2qQaqh0b3) | [Lauren Shera](https://open.spotify.com/artist/4BHgCTlgRJGkP54Ppwsz8R) | [Gold and Rust](https://open.spotify.com/album/1i2UKFquAa9QjWi936r05T) | 4:47 | 2022-04-01 | 2022-04-20 |
+| [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2023-04-21 |  |
 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2022-02-18 | 2023-04-30 |
 | [Hey Little Girl](https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM) | [Carli Brill](https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD) | [Hey Little Girl](https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O) | 3:13 | 2022-04-01 | 2022-07-15 |
 | [High Rise](https://open.spotify.com/track/26r7ckzM27o17eV3soHYWN) | [H.C\. McEntire](https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4) | [Eno Axis](https://open.spotify.com/album/17pqCR4Q5CInYKj4VizvD8) | 4:49 | 2021-11-12 | 2022-07-29 |
 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 | 2021-11-12 |  |
 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 | 2021-11-12 |  |
-| [Honky Tonks and Taverns](https://open.spotify.com/track/3IYEFU6TaJl5LmyJnkodBm) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 2:19 | 2022-04-01 |  |
+| [Honky Tonks and Taverns](https://open.spotify.com/track/3IYEFU6TaJl5LmyJnkodBm) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 2:19 | 2022-04-01 | 2023-05-02 |
 | [Honky Tonks and Taverns](https://open.spotify.com/track/7A57mX7GPbD0uycT0gl1W2) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Honky Tonks and Taverns](https://open.spotify.com/album/7jHhUfLqcnVkyGmjldatPX) | 2:19 | 2021-11-12 | 2022-07-28 |
 | [Hotel Amarillo](https://open.spotify.com/track/5SDvZaLLRx5vw22lur128q) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades and Roses](https://open.spotify.com/album/17G3ABTFVs6dpdmk2gPPxC) | 4:00 | 2021-11-12 | 2022-07-29 |
 | [Hotel Amarillo](https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 4:00 | 2022-04-01 |  |

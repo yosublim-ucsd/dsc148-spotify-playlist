@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 354647,
+  "num_followers": 354947,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWIwODBkOGQ1NzBmMzMzOGViYWQ3Yjk1NmFiYjdkZjRmZjUxNDJi",
+  "snapshot_id": "MCxkMzA0YzkxYTg4MDAwMThkNzBmMWY4ZWVhNmJiOGY5Njk1Y2Y1MWQ3",
   "tracks": [
     {
       "added_at": "2023-04-28 18:58:49",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
+        "name": "A Casa \u00c9 Sua",
+        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 346697,
+      "name": "Eu Te Vejo Em Tudo",
+      "url": "https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
         "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
         "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 372173,
       "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "A Casa \u00c9 Sua",
-        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 346697,
-      "name": "Eu Te Vejo Em Tudo",
-      "url": "https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
-      },
-      "artists": [
-        {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
-        }
-      ],
-      "duration_ms": 290763,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
         "name": "Raridade",
         "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 261178,
       "name": "Acalma o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 290763,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -407,6 +407,54 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
+        "name": "Que Amor \u00c9 Esse",
+        "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 420977,
+      "name": "Que Amor \u00c9 Esse",
+      "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Compromisso",
+        "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        }
+      ],
+      "duration_ms": 324013,
+      "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Leandro Borges ao Vivo: Parte 2",
+        "url": "https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Deus e Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
         "name": "Ele N\u00e3o Desiste de Voc\u00ea",
         "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
       },
@@ -431,34 +479,18 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Que Amor \u00c9 Esse",
-        "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
+        "name": "O Fogo Nunca Dorme",
+        "url": "https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
         }
       ],
-      "duration_ms": 420977,
-      "name": "Que Amor \u00c9 Esse",
-      "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "Leandro Borges ao Vivo: Parte 2",
-        "url": "https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Deus e Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP"
+      "duration_ms": 360187,
+      "name": "Quero Conhecer Jesus",
+      "url": "https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -475,38 +507,6 @@
       "duration_ms": 239815,
       "name": "Sonda-me, Usa-me",
       "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "Compromisso",
-        "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
-        }
-      ],
-      "duration_ms": 324013,
-      "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "O Fogo Nunca Dorme",
-        "url": "https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
-        }
-      ],
-      "duration_ms": 360187,
-      "name": "Quero Conhecer Jesus",
-      "url": "https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Eu Escolho Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
         "name": "Me Leva Pra Casa",
         "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 224920,
       "name": "Hey, Pai - Ao Vivo",
       "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Eu Escolho Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 260620,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
         "name": "Diz",
         "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
       },
@@ -899,38 +883,6 @@
       "duration_ms": 275306,
       "name": "Diz",
       "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "Mesmo Sem Entender - Ao Vivo",
-      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "Liberta-Me de Mim",
-        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 429332,
-      "name": "Liberta-Me de Mim",
-      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -951,6 +903,54 @@
       "duration_ms": 215666,
       "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
       "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 260620,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Liberta-Me de Mim",
+        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 429332,
+      "name": "Liberta-Me de Mim",
+      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 277680,
+      "name": "Mesmo Sem Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "15 Anos (ao Vivo)",
-        "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        },
-        {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/1oVjhNDztl0fhT3y0iq5my"
-        }
-      ],
-      "duration_ms": 339033,
-      "name": "Deus de Promessas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
         "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
       },
@@ -1151,22 +1131,22 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Aba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
+        "name": "15 Anos (ao Vivo)",
+        "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         },
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/1oVjhNDztl0fhT3y0iq5my"
         }
       ],
-      "duration_ms": 348364,
-      "name": "Aba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
+      "duration_ms": 339033,
+      "name": "Deus de Promessas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -1183,6 +1163,26 @@
       "duration_ms": 342667,
       "name": "\u00c1guas Purificadoras",
       "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Aba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 348364,
+      "name": "Aba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
     },
     {
       "added_at": "2023-04-28 18:58:49",

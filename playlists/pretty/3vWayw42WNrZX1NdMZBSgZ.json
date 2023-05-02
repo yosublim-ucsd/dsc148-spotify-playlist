@@ -1,69 +1,13 @@
 {
-  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Thalia",
-  "num_followers": 56450,
+  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Marca MP, Gabito Ballesteros",
+  "num_followers": 56446,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzgwMCxmYTAyZmM1OWMwY2QxMzM1YjUxZjI1MDg4ZmU0Y2RkNzdjMTdjNzY2",
+  "snapshot_id": "MzgwNiw1YTYwZDM1NGIwMzBkZmQ1ZWU1MmE4NWVkNjk2MDE1ZTQ2Zjc2NThk",
   "tracks": [
-    {
-      "added_at": "2023-04-28 04:09:52",
-      "album": {
-        "name": "Thalia's Mixtape",
-        "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "David Summers",
-          "url": "https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt"
-        }
-      ],
-      "duration_ms": 202736,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na"
-    },
-    {
-      "added_at": "2023-04-28 04:10:32",
-      "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 197036,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
-    },
-    {
-      "added_at": "2023-04-28 00:02:15",
-      "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
-    },
     {
       "added_at": "2023-04-28 00:07:16",
       "album": {
@@ -85,24 +29,40 @@
       "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
     },
     {
-      "added_at": "2023-04-28 15:42:05",
+      "added_at": "2023-04-28 00:02:15",
       "album": {
-        "name": "MI EXXX",
-        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 194470,
-      "name": "MI EXXX",
-      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
+      "duration_ms": 247500,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
+    },
+    {
+      "added_at": "2023-04-28 04:09:52",
+      "album": {
+        "name": "Thalia's Mixtape",
+        "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "David Summers",
+          "url": "https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt"
+        }
+      ],
+      "duration_ms": 202736,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na"
     },
     {
       "added_at": "2023-04-27 14:04:25",
@@ -127,6 +87,46 @@
       "duration_ms": 202641,
       "name": "Rom\u00e1ntica Champeta",
       "url": "https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF"
+    },
+    {
+      "added_at": "2023-04-28 15:42:05",
+      "album": {
+        "name": "MI EXXX",
+        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 194470,
+      "name": "MI EXXX",
+      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
+    },
+    {
+      "added_at": "2023-04-28 04:10:32",
+      "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
     },
     {
       "added_at": "2023-04-27 22:44:08",

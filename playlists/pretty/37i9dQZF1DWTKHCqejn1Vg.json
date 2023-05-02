@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 20809,
+  "num_followers": 20863,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzZlNDkyMGFhMWRkNjMyNDU5MjhkMTdiYjI2YWFkMGYyM2FmZjA4",
+  "snapshot_id": "MCw1MGY0MTIwMDcwMTU1MjE2NTQ3OTYyNmZhMTZlZmMzMTI1ODBiODhh",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:54",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 198949,
+      "name": "Dank",
+      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -251,18 +267,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
         }
       ],
-      "duration_ms": 198949,
-      "name": "Dank",
-      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
+      "duration_ms": 206613,
+      "name": "RING RING",
+      "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -283,26 +303,6 @@
       "duration_ms": 219080,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "Ring Ring",
-        "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "RING RING",
-      "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -343,18 +343,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 196986,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -379,38 +383,18 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
+      "duration_ms": 196986,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -427,6 +411,22 @@
       "duration_ms": 198069,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -463,26 +463,6 @@
       "duration_ms": 233333,
       "name": "In the Blur of the Rain",
       "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
-        }
-      ],
-      "duration_ms": 244153,
-      "name": "YOU KNOW",
-      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -619,8 +599,8 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
         {
@@ -628,13 +608,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
         }
       ],
-      "duration_ms": 243492,
-      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
-      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+      "duration_ms": 244153,
+      "name": "YOU KNOW",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -711,6 +691,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Future Love",
+      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -731,22 +727,6 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Future Love",
-      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
         "name": "BOYCOLD",
         "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 193882,
       "name": "Get That Money",
       "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+        }
+      ],
+      "duration_ms": 243492,
+      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
+      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Harujongil",
+      "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
         "name": "Hated you",
         "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Harujongil",
-      "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",

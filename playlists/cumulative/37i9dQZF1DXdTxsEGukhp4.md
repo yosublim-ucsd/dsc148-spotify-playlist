@@ -2,9 +2,9 @@
 
 ### [Buzz Tracker \#バズトラ](https://open.spotify.com/playlist/37i9dQZF1DXdTxsEGukhp4)
 
-> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: KANA\-BOON
+> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 新しい学校のリーダーズ
 
-129 songs - 7 hr 19 min
+130 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Ninji\-n Loves you yeah!](https://open.spotify.com/track/4BRBpWDkJM7QlVYIyedm0s) | [Ranka Lee = Megumi Nakajima](https://open.spotify.com/artist/3JODQ7XeLxOZtG9cGuVPUw) | [MACROSS FRONTIER \~The False Songstress\~ CM Ranka](https://open.spotify.com/album/5g9MR6bwfKq3tUj1PXyUFM) | 1:01 | 2023-02-16 | 2023-04-21 |
 | [One More Last Time](https://open.spotify.com/track/2EPQXOr3VLvDImQnoHOYO3) | [Henry Young](https://open.spotify.com/artist/7BFfb40nQrs3xKRMGK1GrC), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [One More Last Time](https://open.spotify.com/album/7duK1Gh3RZxf0G306zMree) | 2:09 | 2023-04-20 |  |
 | [Oops \(feat\. Charlie Puth\)](https://open.spotify.com/track/7uU7UhUzfZJ5vEMoemdcIW) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:24 | 2023-03-17 |  |
-| [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-04-13 | 2023-04-21 |
+| [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-04-13 |  |
 | [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 | 2023-01-26 | 2023-04-16 |
 | [Our Bright Parade](https://open.spotify.com/track/4fuwpHWlsoPUTFXEWhHC6l) | [hololive IDOL PROJECT](https://open.spotify.com/artist/18Zr9CaElvS40S0AtizMWZ) | [Our Bright Parade](https://open.spotify.com/album/7eCf9tUxrNZ3LleQY5ofvX) | 4:29 | 2023-03-17 |  |
 | [Pa Pi Pu Pe POP!](https://open.spotify.com/track/6sAaPOTjwisyye2fyavqKd) | [Appare!](https://open.spotify.com/artist/3avXpwvPXKpP2AoUvd9pEe) | [Appare!Future](https://open.spotify.com/album/0Uy7NcYLJnUp5uJmTMNxj4) | 4:13 | 2023-01-26 |  |
@@ -73,6 +73,7 @@
 | [Sakura furefure](https://open.spotify.com/track/4i32VDJhNyNYeRmuSSGVFQ) | [THE SUPER FRUIT](https://open.spotify.com/artist/3I0DG4uOeYNPq5MCyHPPer) | [Sakura furefure](https://open.spotify.com/album/1TXAzr199OFgyoMhtPhZz4) | 3:53 | 2023-03-03 | 2023-03-31 |
 | [Sansantaruya](https://open.spotify.com/track/0RZRrJnxUtLHXDX0jyEB5g) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Sansantaruya](https://open.spotify.com/album/7JihRr3RNTdxNkzWHHdL8f) | 3:36 | 2023-01-26 | 2023-02-10 |
 | [Scent of you](https://open.spotify.com/track/5ZYkN3JL30YiLogzEy38Sc) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 2:59 | 2023-01-26 | 2023-02-02 |
+| [SEISHUN WO KIRISAKU HADO](https://open.spotify.com/track/1dsB6klI4iqwcDcWzaI8zI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:33 | 2023-05-01 |  |
 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-17 |  |
 | [Shining One](https://open.spotify.com/track/7DTKSwO1kTAJDu9Q5U73UZ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Shining One](https://open.spotify.com/album/1cdXswO18i5AFNWQLPasok) | 4:04 | 2023-03-03 | 2023-04-04 |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-01-26 | 2023-02-24 |
@@ -95,13 +96,13 @@
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-26 | 2023-02-03 |
 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2023-01-26 |  |
 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 | 2023-01-26 |  |
-| [ぐらでーしょん](https://open.spotify.com/track/7a0XxV7vR9HwvbdhwQ5KSE) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd), [北澤ゆうほ](https://open.spotify.com/artist/16GairTgKufSywJwInf6O7) | [ぐらでーしょん](https://open.spotify.com/album/1YF3kyuNc1dpRorHlxqRu1) | 3:17 | 2023-04-03 |  |
+| [ぐらでーしょん](https://open.spotify.com/track/7a0XxV7vR9HwvbdhwQ5KSE) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd), [北澤ゆうほ](https://open.spotify.com/artist/16GairTgKufSywJwInf6O7) | [ぐらでーしょん](https://open.spotify.com/album/1YF3kyuNc1dpRorHlxqRu1) | 3:17 | 2023-04-03 | 2023-05-02 |
 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 | 2023-02-23 | 2023-03-31 |
 | [こころのこり](https://open.spotify.com/track/1cqKVIGbfrsy3BdQK0atQ8) | [Brown Basket](https://open.spotify.com/artist/2mJfqewA84cfTX6sUPIyna) | [ROLLING](https://open.spotify.com/album/1HFBae3WUx2X2RpKY87nEI) | 3:36 | 2023-04-27 |  |
 | [さよならプリンセス](https://open.spotify.com/track/3rDpUjIlqllrgvZTq1DaVQ) | [Kai](https://open.spotify.com/artist/3pstnSha9lNrdYVfFTUucR) | [さよならプリンセス](https://open.spotify.com/album/6B41pgJt4suwcAz5cf2j5B) | 2:06 | 2023-02-09 | 2023-03-10 |
 | [ただそれだけのことがさ](https://open.spotify.com/track/3B6vc2GvuGBmoNESYzpkze) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ただそれだけのことがさ](https://open.spotify.com/album/2xO7qPcley2aBcIy0Lf6mK) | 4:13 | 2023-04-27 |  |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-01-26 |  |
-| [ないものねだり](https://open.spotify.com/track/1dsh4buvcBs2u7YtHy29c7) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [僕がCDを出したら](https://open.spotify.com/album/3SKxJng83DxoCi3CuHfaLU) | 4:22 | 2023-04-03 |  |
+| [ないものねだり](https://open.spotify.com/track/1dsh4buvcBs2u7YtHy29c7) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [僕がCDを出したら](https://open.spotify.com/album/3SKxJng83DxoCi3CuHfaLU) | 4:22 | 2023-04-03 | 2023-05-02 |
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-26 | 2023-02-10 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-27 |  |
 | [アドベンチャー](https://open.spotify.com/track/1w2tdCsX2yKFjbh3wHII94) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドベンチャー](https://open.spotify.com/album/1oniwzKzy5hIwoAHjACgsi) | 3:19 | 2023-02-16 | 2023-03-31 |

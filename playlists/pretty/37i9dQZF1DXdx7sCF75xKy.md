@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Marian Carmel
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,210 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,214 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [It Takes Two](https://open.spotify.com/track/6j2w15KqCDflc50qqXYbqY) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [It Takes Two](https://open.spotify.com/album/6Mz7qeG6gGptfVccKLgE5W) | 4:40 |
 | 50 | [轻盈风影](https://open.spotify.com/track/6ScuH6KhZzqTAdsM7hNkXL) | [Miss Lou](https://open.spotify.com/artist/4d9Kpr4Q9VIn3DkREGx2rJ) | [轻盈风影](https://open.spotify.com/album/5aoHJyasXGzQFQyNOyYvrw) | 2:54 |
 
-Snapshot ID: `MCxjNjE1MDUxMzM3YmNiODdlMDIzOTc2Zjg0Mzk4ZWQ3Y2I1N2UzZTJj`
+Snapshot ID: `MCwyODYyNDFlYjU4NjY0N2M2MzJlZWYxNWQxZjJiZTc1NGM0ZmFkYTIy`

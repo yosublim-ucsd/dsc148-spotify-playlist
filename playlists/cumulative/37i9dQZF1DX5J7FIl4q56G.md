@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Swollen Teeth
 
-3,336 songs - 9 day 10 hr 3 min
+3,337 songs - 9 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [ANOTHER PLACE](https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [EXILE](https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3) | 4:16 | 2022-10-28 | 2022-11-05 |
 | [Antagonist](https://open.spotify.com/track/5ZZ9610zQACdtDz00dnzVK) | [Make Way for Man](https://open.spotify.com/artist/6SlO6pKq2xARAFpqwBLQMo), [Rob Davies](https://open.spotify.com/artist/3kqkG8Bw85302O8MTo6ffh) | [Antagonist](https://open.spotify.com/album/11rGNkvBAdAp2mBbURBmYL) | 3:15 | 2022-06-10 | 2022-06-17 |
 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 | 2023-03-03 | 2023-03-11 |
+| [Anti\-Fetish](https://open.spotify.com/track/2fc6YX69npgSxNM1pBHBgf) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Anti\-Fetish](https://open.spotify.com/album/1GsWn1EFJa6DdETJcCLytU) | 3:58 | 2023-05-01 |  |
 | [Anti\-Hero](https://open.spotify.com/track/28YUn5oSzXiwQNYzM8oMpY) | [Skar](https://open.spotify.com/artist/2HN1lrc44W3luhSgywJz4b), [Demiquaver](https://open.spotify.com/artist/0vCK4dMROhrhZmu62K2Ktr) | [Anti\-Hero](https://open.spotify.com/album/7p9Mo8DPFXvwkCgyQf3sYX) | 3:19 | 2022-11-11 | 2022-11-19 |
 | [Anti\-Savior](https://open.spotify.com/track/3BU7uj7ixhXYAC7ZoWsRrT) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Anti\-Savior](https://open.spotify.com/album/5XgyKKzd4aC3E6zeKfBdDg) | 3:14 | 2023-02-03 | 2023-02-11 |
 | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/track/1B9aS3j55UpRVfU9qYl91t) | [Omerta](https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo), [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/album/38uAebsempzVHfIVX7EVKs) | 3:23 | 2023-04-07 | 2023-04-15 |

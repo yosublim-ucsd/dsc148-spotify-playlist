@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-88 songs - 8 hr 49 min
+89 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Chupke Chupke Raat Din](https://open.spotify.com/track/4E0KNKup3x1EqEpfiDfGVt) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 11:35 | 2022-07-26 |  |
 | [Chupke Chupke Raat Din](https://open.spotify.com/track/4KN7h2tr4ELHBy2ph70G5O) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ishq Sufiana 30 Greatest Love Songs](https://open.spotify.com/album/1hqhmD0j95M1mcKuNMxMYF) | 11:35 | 2022-11-09 | 2022-11-13 |
 | [Chupke Chupke Raat Din](https://open.spotify.com/track/5Guw1XbK37L6pvbJ6qZV6r) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [50 Greatest Ghazals \- Songs of Love and Longing](https://open.spotify.com/album/4OZbHfjilGWJ2Tp9RHUP6Z) | 11:36 | 2021-12-01 | 2022-07-29 |
-| [DARIYA](https://open.spotify.com/track/4HyRnl0uXLKlyNkPmj3yWU) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Manmarzee](https://open.spotify.com/album/5DloXHOMHfcHpHN6RBl19B) | 5:23 | 2023-03-02 |  |
+| [DARIYA](https://open.spotify.com/track/4HyRnl0uXLKlyNkPmj3yWU) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Manmarzee](https://open.spotify.com/album/5DloXHOMHfcHpHN6RBl19B) | 5:23 | 2023-03-02 | 2023-05-02 |
 | [Dasht\-E\-Tanhai Mein](https://open.spotify.com/track/0PZO1Ih1qTQawy5Wc9B7zy) | [Iqbal Bano](https://open.spotify.com/artist/7JxXeUTiGg0vr8SS2iS0F0) | [An Evening With Iqbal Bano, Vol\. 1](https://open.spotify.com/album/28YZZXx13F7sSEwW13v1yv) | 8:58 | 2021-12-01 | 2023-04-01 |
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist Soundtrack](https://open.spotify.com/album/0DY2lIwaHNbR7aoLKWZit5) | 1:42 | 2021-12-01 |  |
 | [Dilkash](https://open.spotify.com/track/4RBzmqblZsEuNypCAHdWYf) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Gulmohar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79Xlo73WJ5gL2TnbAFWw87) | 4:29 | 2023-02-27 | 2023-03-21 |
@@ -65,6 +65,7 @@
 | [Main Teri Yaad Ko](https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Collection of Memorable Ghazals](https://open.spotify.com/album/0l5ac88or0M9cXIm4sfZ4Q) | 8:32 | 2021-12-01 | 2022-07-29 |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/3FoMsUV3YRuLoQDdFZxVvN) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shahad](https://open.spotify.com/album/0YCKkEc1hyPL7qCtpYrCNa) | 8:36 | 2022-07-26 |  |
 | [Mere Qatil](https://open.spotify.com/track/2i16NsRLKUsvLWyYRla7rn) | [Malika Pukhraj](https://open.spotify.com/artist/5rmKDntSlnGQF6Ndc5IklQ) | [Ghazals By Malika Pukhraj](https://open.spotify.com/album/2PsagHFpEZ3W1mLZYXmtmg) | 6:21 | 2021-12-01 |  |
+| [Meri Aankhon Mein](https://open.spotify.com/track/0r0xRQWURgruzTqF3yd6Mw) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sanjay Vidyarthi](https://open.spotify.com/artist/6tYoojxHYH95QPMINKJmkO) | [Meri Aankhon Mein](https://open.spotify.com/album/1VgsO8Cw4bNOt8dVT1oucS) | 4:50 | 2023-05-01 |  |
 | [Meri Ajab Hai Zindagi](https://open.spotify.com/track/41ffCRz4qgkCidL08CBuPo) | [Kirti Anuraag](https://open.spotify.com/artist/3k76V6C9xfs43QCm8mqhOd), [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Rare Moments](https://open.spotify.com/album/4kTiRFjbJLrP4Py00IA10N) | 5:30 | 2021-12-01 |  |
 | [Mujhe Tum Nazar Se Gira To Rahe Ho](https://open.spotify.com/track/6D5YqPRZo1OfpD2cy5hUz1) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Strokes Of Sohail Rana](https://open.spotify.com/album/45zJ5AmAvKqBnCsfymVLbV) | 3:55 | 2021-12-01 |  |
 | [Na Kajare Ki Dhar \(Duet Version\) \- With Heart Beats](https://open.spotify.com/track/5Lfsdm1eKTsUxEdqwmbBLb) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Top 20 Hits \(With Heart Beats\)](https://open.spotify.com/album/5kRbMqkJmFYaOmU3Oi9nsL) | 5:08 | 2021-12-01 |  |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 71895,
+  "num_followers": 71899,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM2MjE3NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM2MzAzODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Wintersaga",
         "url": "https://open.spotify.com/album/3jUF0J5D8AKLJyeabT8cVG"
@@ -45,23 +45,7 @@
       "url": "https://open.spotify.com/track/4KUaNBVG2YRoIrg8ajzBaf"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "Las Ag\u00fcitas",
-        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
-      },
-      "artists": [
-        {
-          "name": "Los Vendavales de Adan Melendez",
-          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -77,39 +61,23 @@
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
-        "name": "Pa La Europa",
-        "url": "https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn"
+        "name": "Las Ag\u00fcitas",
+        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
         }
       ],
-      "duration_ms": 219753,
-      "name": "Pa La Europa",
-      "url": "https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG"
+      "duration_ms": 176333,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 150519,
-      "name": "UNDERSTAND",
-      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "NARCISSISTIC PERSONALITY DISORDER",
         "url": "https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd"
@@ -125,7 +93,39 @@
       "url": "https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "Pa La Europa",
+        "url": "https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "duration_ms": 219753,
+      "name": "Pa La Europa",
+      "url": "https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 150519,
+      "name": "UNDERSTAND",
+      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Pobre Coraz\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -165,27 +165,7 @@
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Classy 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
@@ -205,7 +185,27 @@
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "HABLA",
         "url": "https://open.spotify.com/album/15NtQavZZkldQlXrm4Ikkp"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/0eD8HwEktgTG5ZOeUxyCUx"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Flow Violento (Remix)",
         "url": "https://open.spotify.com/album/6iWto0Hn1ZEAbOjym7ZTEL"
@@ -249,7 +249,23 @@
       "url": "https://open.spotify.com/track/66j4P6CdkPZQW5q0Lv3Vn8"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231475,
+      "name": "High Infidelity",
+      "url": "https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Por las Noches",
         "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Un Star",
         "url": "https://open.spotify.com/album/3BnW9wXevvtq7N8SXXcP3z"
@@ -281,23 +297,7 @@
       "url": "https://open.spotify.com/track/1UhKr7lhxhNfItnMd6rpdM"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 212241,
-      "name": "Like Crazy",
-      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "ser humano",
         "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
@@ -313,7 +313,23 @@
       "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
@@ -329,23 +345,7 @@
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "Scream",
-        "url": "https://open.spotify.com/album/1LzQ8k1PDyXvy5pjCcfaZT"
-      },
-      "artists": [
-        {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
-        }
-      ],
-      "duration_ms": 241426,
-      "name": "Monsoon",
-      "url": "https://open.spotify.com/track/32Ky5QCRtwYJJXuLwoGufj"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
@@ -365,23 +365,23 @@
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/1LzQ8k1PDyXvy5pjCcfaZT"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
         }
       ],
-      "duration_ms": 187723,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+      "duration_ms": 241426,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/32Ky5QCRtwYJJXuLwoGufj"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) [Remix]",
         "url": "https://open.spotify.com/album/4BbheII9RPkXhHCae8AoM0"
@@ -429,23 +429,23 @@
       "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 231475,
-      "name": "High Infidelity",
-      "url": "https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo"
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "TE EXO DE MENOS :(",
         "url": "https://open.spotify.com/album/2nl4PR8ItbHzzjmhmW1m3p"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "I Know (PR1SVX Edit)",
         "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/15yhsBOVqRkMk7OgOUfZRF"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/5wNjL8uTd3qVPvGhSQODzb"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Morocha",
         "url": "https://open.spotify.com/album/32iPicZA3H69P7btglWyKh"
@@ -537,23 +537,7 @@
       "url": "https://open.spotify.com/track/5nv4ffgl1eVW7MvnEuEf31"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/3HN4YC7niYSVhVQWmgagOI"
-      },
-      "artists": [
-        {
-          "name": "JocaBegge",
-          "url": "https://open.spotify.com/artist/0DicwL5r1PUqGe9vVaaXhO"
-        }
-      ],
-      "duration_ms": 200341,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/4qa0GxbPdzhH0BVCKmMoMi"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "6.5",
         "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
@@ -573,7 +557,39 @@
       "url": "https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "Esos Ojxss",
+        "url": "https://open.spotify.com/album/4YUJNVbNwVT0Hytc0pvor5"
+      },
+      "artists": [
+        {
+          "name": "daviid_328",
+          "url": "https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP"
+        }
+      ],
+      "duration_ms": 133630,
+      "name": "Esos Ojxss",
+      "url": "https://open.spotify.com/track/48KzcxV31Yi1UHNCGulhez"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
@@ -593,23 +609,7 @@
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/3Lp6ksRzWbRgGxuhsbBp56"
@@ -625,7 +625,23 @@
       "url": "https://open.spotify.com/track/2m6FuVpKUaDTekCZ90pMRV"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/3HN4YC7niYSVhVQWmgagOI"
+      },
+      "artists": [
+        {
+          "name": "JocaBegge",
+          "url": "https://open.spotify.com/artist/0DicwL5r1PUqGe9vVaaXhO"
+        }
+      ],
+      "duration_ms": 200341,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/4qa0GxbPdzhH0BVCKmMoMi"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Death of a Party Girl",
         "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
@@ -641,39 +657,7 @@
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 149718,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Adi\u00f3s Amor / Oye Mujer",
         "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
@@ -689,59 +673,39 @@
       "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
-        "name": "Esos Ojxss",
-        "url": "https://open.spotify.com/album/4YUJNVbNwVT0Hytc0pvor5"
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
       },
       "artists": [
         {
-          "name": "daviid_328",
-          "url": "https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP"
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
         }
       ],
-      "duration_ms": 133630,
-      "name": "Esos Ojxss",
-      "url": "https://open.spotify.com/track/48KzcxV31Yi1UHNCGulhez"
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+      "duration_ms": 149718,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "Mayerling",
-        "url": "https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        },
-        {
-          "name": "Christian Gaubert",
-          "url": "https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT"
-        }
-      ],
-      "duration_ms": 105560,
-      "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
-      "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "N.S.D.T",
         "url": "https://open.spotify.com/album/6XWISVrrS7tKHEs2lGyLpl"
@@ -761,7 +725,63 @@
       "url": "https://open.spotify.com/track/3Gn6H2Q6tSMyEDJpuPOmoL"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "Mayerling",
+        "url": "https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        },
+        {
+          "name": "Christian Gaubert",
+          "url": "https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT"
+        }
+      ],
+      "duration_ms": 105560,
+      "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
+      "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "Querer Querernos",
+        "url": "https://open.spotify.com/album/4wSzIa7QnZ6s6SBdvKc6oU"
+      },
+      "artists": [
+        {
+          "name": "Fritrs rei",
+          "url": "https://open.spotify.com/artist/59znsfjXjaGujWu9CyYOOV"
+        },
+        {
+          "name": "Canserberr1",
+          "url": "https://open.spotify.com/artist/6K4qNicoWGe1LzpUjPt3Bt"
+        }
+      ],
+      "duration_ms": 231644,
+      "name": "Querer Querernos",
+      "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "M.A (Mejores Amigos)",
         "url": "https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6"
@@ -781,7 +801,23 @@
       "url": "https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
         "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
@@ -805,59 +841,7 @@
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "Tutank\u2019mon",
-        "url": "https://open.spotify.com/album/4Wlrq1ImA0Se5pJ0BiB4iL"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 152393,
-      "name": "Tutank\u2019mon",
-      "url": "https://open.spotify.com/track/3rN9kZP0gnL6Li2YlUJdKP"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "Querer Querernos",
-        "url": "https://open.spotify.com/album/4wSzIa7QnZ6s6SBdvKc6oU"
-      },
-      "artists": [
-        {
-          "name": "Fritrs rei",
-          "url": "https://open.spotify.com/artist/59znsfjXjaGujWu9CyYOOV"
-        },
-        {
-          "name": "Canserberr1",
-          "url": "https://open.spotify.com/artist/6K4qNicoWGe1LzpUjPt3Bt"
-        }
-      ],
-      "duration_ms": 231644,
-      "name": "Querer Querernos",
-      "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "Gabbana",
         "url": "https://open.spotify.com/album/5qd91itbYnnec05BJ76F6j"
@@ -873,23 +857,7 @@
       "url": "https://open.spotify.com/track/1zkoSIuTrvJ1N4Bfqn76B3"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 206049,
-      "name": "SORRY NOT SORRY",
-      "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
-    },
-    {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
@@ -913,24 +881,52 @@
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
-      "added_at": "2023-04-30 11:10:56",
+      "added_at": "2023-05-01 10:48:30",
       "album": {
-        "name": "Mujeriego",
-        "url": "https://open.spotify.com/album/0pZhWMSDItIQUt2kRHdpwR"
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
       "artists": [
         {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 259591,
-      "name": "Mujeriego",
-      "url": "https://open.spotify.com/track/5r7eJOBw5Yqik0efMbC3Eq"
+      "duration_ms": 206049,
+      "name": "SORRY NOT SORRY",
+      "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "Tutank\u2019mon",
+        "url": "https://open.spotify.com/album/4Wlrq1ImA0Se5pJ0BiB4iL"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 152393,
+      "name": "Tutank\u2019mon",
+      "url": "https://open.spotify.com/track/3rN9kZP0gnL6Li2YlUJdKP"
+    },
+    {
+      "added_at": "2023-05-01 10:48:30",
+      "album": {
+        "name": "French Exit",
+        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
     }
   ],
   "unique_name": "Viral 50 - Chile",

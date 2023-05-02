@@ -307,6 +307,32 @@
     },
     {
       "album": {
+        "name": "Raavana Kottam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f4mHDmV6ZYRKmGLmbQY0e"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Vandana Srinivasan",
+          "url": "https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299076,
+      "name": "Athana Per Mathiyila",
+      "url": "https://open.spotify.com/track/4W4SHHoCvygUFYOLiOAgfL"
+    },
+    {
+      "album": {
         "name": "Athana Per Mathiyila (From \"Raavana Kottam\") - Single",
         "url": "https://open.spotify.com/album/6U8ZXbDKr0Rl4v9SXmvtNd"
       },
@@ -330,7 +356,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 299076,
       "name": "Athana Per Mathiyila (From \"Raavana Kottam\")",
       "url": "https://open.spotify.com/track/0f1FicKijCSSWYfeECL8py"

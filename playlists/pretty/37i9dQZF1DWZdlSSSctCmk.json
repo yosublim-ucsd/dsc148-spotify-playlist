@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 91553,
+  "num_followers": 91621,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzVlOGRmYzljZDM5NGRjYzgwNDkyMzFjYWYyNjFmOTNlNzQ3NGQ1",
+  "snapshot_id": "MCxkMmE0OTdjNzNkMjFhMmFhNTFkYzM3YmEzMDYyYmFhNzRmMDAxYmFl",
   "tracks": [
     {
       "added_at": "2023-02-02 23:01:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Vanille fraise",
-        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 238183,
-      "name": "Vanille fraise",
-      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 91706,
       "name": "Olson",
       "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Talkie Walkie",
         "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Carboot Soul",
-        "url": "https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 379367,
-      "name": "Les Nuits",
-      "url": "https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Mirrorwriting",
         "url": "https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 322400,
       "name": "Night Air",
       "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Carboot Soul",
+        "url": "https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 379367,
+      "name": "Les Nuits",
+      "url": "https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Icare",
-        "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
-      },
-      "artists": [
-        {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
-        },
-        {
-          "name": "Bertrand Burgalat",
-          "url": "https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "Icare",
-      "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 229066,
       "name": "Three",
       "url": "https://open.spotify.com/track/7FKhuZtIPchBVNIhFnNL5W"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Icare",
+        "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Bertrand Burgalat",
+          "url": "https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7"
+        }
+      ],
+      "duration_ms": 222631,
+      "name": "Icare",
+      "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "AO Longo Do Rio",
-      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Mister Mellow",
         "url": "https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 252920,
       "name": "Hard To Say Goodbye",
       "url": "https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 441160,
       "name": "More Than Ever People - Late Night Mix",
       "url": "https://open.spotify.com/track/2ESCeu4Z0WXGl6zezMQTvX"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Am\u00e9rica",
-        "url": "https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro"
-      },
-      "artists": [
-        {
-          "name": "Pietro Nicosia",
-          "url": "https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Tiefer",
         "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 214014,
       "name": "Tiefer - Edit",
       "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Am\u00e9rica",
+        "url": "https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro"
+      },
+      "artists": [
+        {
+          "name": "Pietro Nicosia",
+          "url": "https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 224840,
       "name": "Paz",
       "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+        "name": "Into Daylight",
+        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
       },
       "artists": [
         {
-          "name": "Antena",
-          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        },
+        {
+          "name": "Hush Forever",
+          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
         }
       ],
-      "duration_ms": 222680,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
+      "duration_ms": 295989,
+      "name": "Verbana (feat. Hush Forever)",
+      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1367,6 +1371,22 @@
       "duration_ms": 209311,
       "name": "My Boy - Edit",
       "url": "https://open.spotify.com/track/0WguORZMIHRuKEyXnzOioL"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+      },
+      "artists": [
+        {
+          "name": "Antena",
+          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1399,26 +1419,6 @@
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Into Daylight",
-        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        },
-        {
-          "name": "Hush Forever",
-          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
-        }
-      ],
-      "duration_ms": 295989,
-      "name": "Verbana (feat. Hush Forever)",
-      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Cantoma (Deluxe)",
+        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 325760,
+      "name": "Pandajero",
+      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "RAS",
         "url": "https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 250383,
       "name": "Outer Sunset",
       "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Cantoma (Deluxe)",
-        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 325760,
-      "name": "Pandajero",
-      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "10.000 Hours",
-        "url": "https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 267697,
-      "name": "House in the Hills",
-      "url": "https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "The Works",
         "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 428234,
       "name": "Josephine - French Edit",
       "url": "https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "10.000 Hours",
+        "url": "https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 267697,
+      "name": "House in the Hills",
+      "url": "https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ"
     },
     {
       "added_at": "2023-02-02 23:01:00",

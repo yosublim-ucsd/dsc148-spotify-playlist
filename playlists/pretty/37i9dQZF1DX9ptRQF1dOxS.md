@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,469 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,471 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 39 | [Don't Go Through It Alone](https://open.spotify.com/track/6uLgsQ8k4mB7VIZlGvix5K) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [Don't Go Through It Alone](https://open.spotify.com/album/0pltnX0PXyDEj54Tapijff) | 3:12 |
 | 40 | [Hard To Be](https://open.spotify.com/track/325NzsIToV1028QGvUXBa1) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Hard To Be](https://open.spotify.com/album/66VsC4E6NmpkcMC03kraZz) | 3:24 |
 
-Snapshot ID: `MCw1NzNiZTJmYmFlZThhY2UxZDMwODc2Yzg1YzY4ODU2NmVmODE3OTlh`
+Snapshot ID: `MCxkZTI0ZDEyNDk1MDYzZGVhNDdhOTVmYzUyZjMyYzg0NzUxNWVjOTM0`

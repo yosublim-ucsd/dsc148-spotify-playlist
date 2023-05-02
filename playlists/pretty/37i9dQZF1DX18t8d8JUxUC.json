@@ -1,29 +1,13 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Y La Bamba",
-  "num_followers": 10501,
+  "num_followers": 10543,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzA3YjcwOTJjZDkzZjQyMWI0YjVlNDM1NjE0YTMxZGEwZWRlYzFk",
+  "snapshot_id": "MCxmNGM3OWZlYmMzZTJiZjViM2ViZDA4Njk3OWQ0ZjhiNzkwZjc5YmU1",
   "tracks": [
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Sin Final Feliz",
         "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
@@ -187,34 +171,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "las consecuencias",
-        "url": "https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9"
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
       "artists": [
         {
-          "name": "Jaze",
-          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
-      "duration_ms": 191448,
-      "name": "las consecuencias",
-      "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Mujer El\u00e9ctrica",
-        "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 113639,
-      "name": "Caf\u00e9 Con Leche",
-      "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -235,6 +203,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "las consecuencias",
+        "url": "https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "duration_ms": 191448,
+      "name": "las consecuencias",
+      "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 234656,
       "name": "Otras Se Pierden",
       "url": "https://open.spotify.com/track/3SvbcJH2seu1zs0PMjPS6F"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Mujer El\u00e9ctrica",
+        "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 113639,
+      "name": "Caf\u00e9 Con Leche",
+      "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Ciencia Exacta",
         "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 217609,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Conticinio",
+        "url": "https://open.spotify.com/album/7iqnQQB4qkSdFGlO0F8MCn"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 212659,
+      "name": "Conticinio",
+      "url": "https://open.spotify.com/track/66V8fWmTWOTcZTo0niDctU"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Conticinio",
-        "url": "https://open.spotify.com/album/7iqnQQB4qkSdFGlO0F8MCn"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 212659,
-      "name": "Conticinio",
-      "url": "https://open.spotify.com/track/66V8fWmTWOTcZTo0niDctU"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Aroma A Nostalgia",
         "url": "https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL"
       },
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
         "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 198430,
       "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
       "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 201861,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     }
   ],
   "unique_name": "Latin Folk",

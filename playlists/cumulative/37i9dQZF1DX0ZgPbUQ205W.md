@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-294 songs - 21 hr 24 min
+295 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Black meditation](https://open.spotify.com/track/76m6W5MNiQmspKUoReaIvN) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Black meditation](https://open.spotify.com/album/4YiFMgoiVVMLoEKk1RsIPM) | 3:58 | 2022-05-05 | 2022-05-26 |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-23 |  |
 | [Blue in Green](https://open.spotify.com/track/7y2Se9fwns1AlQtwAIOVYk) | [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Insight](https://open.spotify.com/album/0pJDQV8lXMutpbweWhgCyq) | 6:22 | 2021-12-17 | 2022-10-08 |
+| [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 | 2023-04-27 |  |
 | [Blue Mist](https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 3:24 | 2023-01-26 |  |
 | [Body and Shadow \- Noon](https://open.spotify.com/track/4uGP5aRFILxq3j6riQB3Jt) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Body And Shadow](https://open.spotify.com/album/02LCzhJYIuhocX6uCzTPJh) | 3:09 | 2021-12-17 | 2022-11-11 |
 | [Breathe the Air](https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:45 | 2023-02-16 |  |
@@ -159,7 +160,7 @@
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 |  |
 | [Midnight](https://open.spotify.com/track/3C39yMMp5FZC7Dvk10KFrA) | [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Martin Höper](https://open.spotify.com/artist/1in1rh9jX09HI8VSThaIeg), [Ola Winkler](https://open.spotify.com/artist/2G1GN2b3u7Fh607yHsFOCb) | [Underworld](https://open.spotify.com/album/5wBPrHUc1HAt0JJhidr6Ke) | 4:18 | 2022-05-25 | 2022-10-08 |
 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 | 2023-02-02 |  |
-| [Min Bästa Vän](https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Min Bästa Vän](https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw) | 3:34 | 2022-12-01 |  |
+| [Min Bästa Vän](https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Min Bästa Vän](https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw) | 3:34 | 2022-12-01 | 2023-05-02 |
 | [Moonpie](https://open.spotify.com/track/3YlJpTObKekXnRKgK9v7j0) | [Food](https://open.spotify.com/artist/5UH0MJYNrZoaqu9P0A3SII) | [Mercurial Balm](https://open.spotify.com/album/3cf5MLkn2rHxN7LFSHaMFW) | 4:33 | 2021-12-17 | 2022-02-18 |
 | [Morning Moon](https://open.spotify.com/track/4b1cZXkFtOdpZnyU0GfZWm) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Morning Moon](https://open.spotify.com/album/3n781Nd8Ff9001PJNWTuUq) | 5:52 | 2022-03-03 | 2022-11-13 |
 | [Morning Song](https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 6:55 | 2021-12-17 | 2022-12-04 |

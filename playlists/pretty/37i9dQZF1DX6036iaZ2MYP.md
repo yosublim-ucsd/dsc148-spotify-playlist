@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,985 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,084 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 39 | [Bambelela](https://open.spotify.com/track/0NfP1YJUifJKXMSx0AyIup) | [TuksinSA](https://open.spotify.com/artist/3F8IEuHCZhhYDmTU9VSGka), [Vyn](https://open.spotify.com/artist/4Ffs8qFMeghZQXDs5x2RvX), [Tonic Jazz](https://open.spotify.com/artist/7DYAFo4uF3zsAIm0ii03zQ) | [Bambelela](https://open.spotify.com/album/1fvHP8sh8dW9eUnt7YxRYi) | 3:49 |
 | 40 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 |
 
-Snapshot ID: `MCxlZWI3N2ZiOTIxZjZmM2VhNjIzOGMwZGI2ZmYzNDdiYWY3NWU1MTQw`
+Snapshot ID: `MCwzZDRmYjczNTNjYjFiM2ExMDNhNTE1YjkwN2E5YjMzN2JjZWJmNTkx`

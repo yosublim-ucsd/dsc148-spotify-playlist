@@ -2158,10 +2158,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 210586,
       "name": "Tengo Ganas de Ti",
       "url": "https://open.spotify.com/track/4JD6C4Atg92awORLru91DD"
+    },
+    {
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210651,
+      "name": "Tengo Ganas De Ti",
+      "url": "https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L"
     },
     {
       "album": {

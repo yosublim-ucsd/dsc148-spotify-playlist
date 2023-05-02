@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,837 likes - 166 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,842 likes - 166 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 165 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 166 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCw3ODgxNjBhMjhiYjFkMTZmZjYyNmVhZDEzMzQwZjE3MDhlZTMzZjdl`
+Snapshot ID: `MCwwMTRhZjk0NmRjNjFiZDhjZDRjMWNjMDk2ZTBiYWU5YzU4MzU1ZDY1`

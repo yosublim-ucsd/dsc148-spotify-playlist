@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr. Pig en portada.",
-  "num_followers": 54303,
+  "num_followers": 54317,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTc1YjdkZDNhZDI2ODg5NGFkYTM4MjRkZDFkNzU5NDM2OGRhMzlh",
+  "snapshot_id": "MCxiODM3NWEyNGZiNzc3MGY3Mzc1MGNmNzQyNmYxMzEyNDBkNmRmNzEx",
   "tracks": [
     {
       "added_at": "2023-02-28 03:47:10",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        }
-      ],
-      "duration_ms": 222366,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -235,6 +215,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        }
+      ],
+      "duration_ms": 222366,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Pump up the Volume",
         "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
       },
@@ -251,30 +251,6 @@
       "duration_ms": 208780,
       "name": "Pump up the Volume",
       "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
-        }
-      ],
-      "duration_ms": 161378,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -303,26 +279,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         },
         {
-          "name": "ML3NNON",
-          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
         },
         {
-          "name": "GeeKan",
-          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
         }
       ],
-      "duration_ms": 154687,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
+      "duration_ms": 161378,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -343,6 +319,30 @@
       "duration_ms": 137829,
       "name": "Trago a Trago",
       "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "ML3NNON",
+          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
+        },
+        {
+          "name": "GeeKan",
+          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -377,20 +377,20 @@
       "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
     },
     {
-      "added_at": "2022-12-16 01:54:16",
+      "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Amanece",
-        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
       "artists": [
         {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 332560,
-      "name": "Amanece",
-      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2023-04-14 01:23:44",
@@ -413,20 +413,36 @@
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
-      "added_at": "2022-08-02 18:48:01",
+      "added_at": "2023-02-21 03:03:01",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+        "name": "Sexy Velocity",
+        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
         }
       ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+      "duration_ms": 212280,
+      "name": "Sexy Velocity",
+      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
+    },
+    {
+      "added_at": "2022-12-16 01:54:16",
+      "album": {
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -451,6 +467,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Empty Words",
         "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
       },
@@ -467,38 +499,6 @@
       "duration_ms": 167500,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
-      },
-      "artists": [
-        {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
-    },
-    {
-      "added_at": "2023-02-21 03:03:01",
-      "album": {
-        "name": "Sexy Velocity",
-        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Sexy Velocity",
-      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Playa",
-        "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "Iskander",
-          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "This Generation",
         "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
       },
@@ -855,6 +835,30 @@
       "duration_ms": 165250,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/0dWg2HiCEYeufMGvJOapX6"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Scare",
+        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "Gerard Butler",
+          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Scare",
+      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
     },
     {
       "added_at": "2023-02-28 03:47:10",
@@ -895,6 +899,26 @@
       "duration_ms": 209267,
       "name": "Give Me Your Heart (Somos Uno)",
       "url": "https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Playa",
+        "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Iskander",
+          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -945,28 +969,20 @@
       "url": "https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr"
     },
     {
-      "added_at": "2022-08-02 18:48:01",
+      "added_at": "2023-01-07 03:40:04",
       "album": {
-        "name": "Scare",
-        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "Gerard Butler",
-          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Scare",
-      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
+      "duration_ms": 121937,
+      "name": "FUEL",
+      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1003,22 +1019,6 @@
       "duration_ms": 181726,
       "name": "No Vas A Volver",
       "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
-    },
-    {
-      "added_at": "2023-01-07 03:40:04",
-      "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
-      },
-      "artists": [
-        {
-          "name": "SANTO BEATS",
-          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
-        }
-      ],
-      "duration_ms": 121937,
-      "name": "FUEL",
-      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
-      },
-      "artists": [
-        {
-          "name": "N\u00d8RBY",
-          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
-        },
-        {
-          "name": "Taylor Diaz",
-          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Agua Pa Beber",
         "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 150966,
       "name": "Agua Pa Beber",
       "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
+      },
+      "artists": [
+        {
+          "name": "N\u00d8RBY",
+          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
+        },
+        {
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "I Saw You",
+        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
+      },
+      "artists": [
+        {
+          "name": "Fortu & Mendoza",
+          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
+        },
+        {
+          "name": "A-Dyad",
+          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 250775,
       "name": "Galactic Feelings",
       "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "I Saw You",
-        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
-      },
-      "artists": [
-        {
-          "name": "Fortu & Mendoza",
-          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
-        },
-        {
-          "name": "A-Dyad",
-          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "I Saw You",
-      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "killed love",
-        "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 232288,
-      "name": "killed love",
-      "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 162482,
       "name": "Take It",
       "url": "https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "killed love",
+        "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 232288,
+      "name": "killed love",
+      "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
     },
     {
       "added_at": "2022-08-02 18:48:01",

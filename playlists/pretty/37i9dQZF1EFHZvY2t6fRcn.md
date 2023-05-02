@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 103 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 103 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 20 | [Bones](https://open.spotify.com/track/39qWzdNJSioJzfemhwXtDw) | [Equinox](https://open.spotify.com/artist/6Q7UV9Oa87GypGTKiuOh6f) | [Bones](https://open.spotify.com/album/23R15MF9YuwmRBjIMk9Khk) | 2:59 |
 | 21 | [Godless](https://open.spotify.com/track/1eTL8yocTmire9gpOn2H2g) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:10 |
 | 22 | [warmer](https://open.spotify.com/track/5j1sD9Y23NBdidWUKx22Ss) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:14 |
-| 23 | [Sadness](https://open.spotify.com/track/6R4fwYApPpBROATC6gLl10) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Good Cry](https://open.spotify.com/album/4X3qM37B4hEZIHIq5nGsMv) | 2:41 |
-| 24 | [By The End Of The Night](https://open.spotify.com/track/41dA1g5HMbWO89XFj0Y6aR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:08 |
+| 23 | [By The End Of The Night](https://open.spotify.com/track/41dA1g5HMbWO89XFj0Y6aR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:08 |
+| 24 | [Sadness](https://open.spotify.com/track/6R4fwYApPpBROATC6gLl10) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Good Cry](https://open.spotify.com/album/4X3qM37B4hEZIHIq5nGsMv) | 2:41 |
 | 25 | [TOXIC PARADISE](https://open.spotify.com/track/336xpOy7PR8gF0zzAXh2mQ) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [TOXIC PARADISE](https://open.spotify.com/album/0r2ZftNO3ZRsZuwquvPP7P) | 3:01 |
 | 26 | [Therapy](https://open.spotify.com/track/0Nw0Z2VXKuiFSikzWvgqR6) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Therapy](https://open.spotify.com/album/472JU7mEYpwNTNTdqyYVFU) | 3:27 |
 | 27 | [Donuts \(feat\. Yung Bae\)](https://open.spotify.com/track/2xubfBD4QUOmcMUq1EZz6h) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Donuts \(feat\. Yung Bae\)](https://open.spotify.com/album/10GQ2AlvNYtpJ6yI577GFn) | 3:35 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 102 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 103 | [Back By The Weekend](https://open.spotify.com/track/5mt5VkHrCC1Za06vGFKrLK) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Back By The Weekend](https://open.spotify.com/album/6NWaFNsDGbS8YRxm6lkaDM) | 2:55 |
 
-Snapshot ID: `MjgwNDgzMjksMDAwMDAwMDA3MWY1NzE3Yzk4NGM0MTIyMTg3ZDRkNjVmNzllMzgwMg==`
+Snapshot ID: `MjgwNDk3NjksMDAwMDAwMDBiZDUxYjYzYzZlYjFhYmIyZjA0Nzg2ZTU4NjY2OGQ3ZQ==`

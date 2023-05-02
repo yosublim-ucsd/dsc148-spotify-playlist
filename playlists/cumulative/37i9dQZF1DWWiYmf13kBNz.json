@@ -1189,6 +1189,28 @@
     },
     {
       "album": {
+        "name": "Pure Ella",
+        "url": "https://open.spotify.com/album/1sVP1k1tw1hd95xkgiMj72"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279426,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/5mu20eMSv8zJU3IGWGhaau"
+    },
+    {
+      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/1rP6GkPbp6DvIW59005PnR"
       },
@@ -1428,7 +1450,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"

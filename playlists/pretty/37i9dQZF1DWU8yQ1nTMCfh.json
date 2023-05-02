@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Rodrigo y Gabriela",
-  "num_followers": 280090,
+  "num_followers": 280095,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTk2MDg2YTQ2MjcxMDAzZTdiYzYxNGUyMGVkYzVjZjcxMjNjMTRj",
+  "snapshot_id": "MCw0ZGFlYzY0YTgwOTUxYjhlMTE1NGQxZGE4MjIyMTIxZGVlMmFiOWRh",
   "tracks": [
     {
       "added_at": "2023-04-28 16:33:38",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "novio del a\u00f1o",
-        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 154719,
-      "name": "novio del a\u00f1o",
-      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 173499,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "novio del a\u00f1o",
+        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 154719,
+      "name": "novio del a\u00f1o",
+      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -243,6 +243,22 @@
       "duration_ms": 258573,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -303,22 +319,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
@@ -351,6 +351,42 @@
       "duration_ms": 166717,
       "name": "Cuenta conmigo",
       "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Invulnerables",
+        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Invulnerables",
+      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -399,22 +435,6 @@
       "duration_ms": 180428,
       "name": "La Tormenta",
       "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Invulnerables",
-        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Invulnerables",
-      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -471,26 +491,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Al menos ahora",
-        "url": "https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 183342,
-      "name": "Al menos ahora",
-      "url": "https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Ramona Flowers",
         "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 181240,
       "name": "Ramona Flowers",
       "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Al menos ahora",
+        "url": "https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 183342,
+      "name": "Al menos ahora",
+      "url": "https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "S\u00f3lo D\u2019Lira",
+        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -711,26 +731,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "S\u00f3lo D\u2019Lira",
-        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "Money In The Bank",
-      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "San Saltar\u00edn",
         "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 258765,
       "name": "San Saltar\u00edn",
       "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Todo cambi\u00f3",
-        "url": "https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao"
-      },
-      "artists": [
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 188951,
-      "name": "Todo cambi\u00f3",
-      "url": "https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -791,6 +775,22 @@
       "duration_ms": 158478,
       "name": "Se\u00f1orita Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Todo cambi\u00f3",
+        "url": "https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 188951,
+      "name": "Todo cambi\u00f3",
+      "url": "https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 193567,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "Con los Pies en el Techo",
         "url": "https://open.spotify.com/album/72aS3wri62UToYS68QLUn4"
       },
@@ -895,6 +911,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "Bajo Los \u00c1rboles",
+        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 247947,
+      "name": "Bajo Los \u00c1rboles",
+      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54"
       },
@@ -907,6 +939,22 @@
       "duration_ms": 184838,
       "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Desp\u00eddete Bien",
+        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Desp\u00eddete Bien",
+      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -959,22 +1007,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Desp\u00eddete Bien",
-        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Desp\u00eddete Bien",
-      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Multiverso",
         "url": "https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X"
       },
@@ -987,22 +1019,6 @@
       "duration_ms": 181340,
       "name": "Multiverso",
       "url": "https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Bajo Los \u00c1rboles",
-        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 247947,
-      "name": "Bajo Los \u00c1rboles",
-      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -1035,22 +1051,6 @@
       "duration_ms": 182780,
       "name": "Soy Un Guapo",
       "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 193567,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "CABI",
-        "url": "https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 121968,
-      "name": "CABI",
-      "url": "https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Ha Sido",
         "url": "https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 251177,
       "name": "Ha Sido",
       "url": "https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "CABI",
+        "url": "https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 121968,
+      "name": "CABI",
+      "url": "https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK"
     },
     {
       "added_at": "2023-04-28 16:33:38",

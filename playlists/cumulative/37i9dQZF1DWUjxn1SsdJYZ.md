@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: The 046
 
-442 songs - 20 hr 52 min
+443 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [PUSSYLOVEMONEY](https://open.spotify.com/track/2bCRG2uVKz4MD5uB8Iyovd) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [PUSSYLOVEMONEY](https://open.spotify.com/album/1yU74LGWOEWvvHbv184dUh) | 2:49 | 2022-10-06 | 2022-11-11 |
 | [Quarantine](https://open.spotify.com/track/6JekNdh8yb0jig33CgUnxN) | [Double S Dons](https://open.spotify.com/artist/1oLymuSNo4PajYWdp9LmxR) | [Quarantine](https://open.spotify.com/album/3HNqt782tj0CEoDnCvuYCc) | 3:27 | 2022-03-21 | 2022-03-25 |
 | [Question Mark](https://open.spotify.com/track/3PxCtJpgauXfrVh3iCwf4o) | [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [Question Mark](https://open.spotify.com/album/68gwLJUCRoYXU0UajxnZ7c) | 2:58 | 2022-06-09 | 2022-09-16 |
+| [QUICKSAND](https://open.spotify.com/track/4AuDuSGTAGuW22mabb78fq) | [Skem](https://open.spotify.com/artist/0sqLxZdqjtvunfSqUZVuTx) | [QUICKSAND](https://open.spotify.com/album/4Dg7ymW7ktz15BqVQFTPCF) | 2:38 | 2023-05-01 |  |
 | [Ready To Ride](https://open.spotify.com/track/2UwIUkE4rQk7dup2dOWgSY) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [Ready To Ride](https://open.spotify.com/album/20tq1b7LGyKv0ZdvkqOyyn) | 3:05 | 2022-05-12 | 2022-10-28 |
 | [Real One](https://open.spotify.com/track/4O5tiJAYOJMg4g0oLrYcBO) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [Real One](https://open.spotify.com/album/47FGpzgxSsq4rCjKgaaF2z) | 2:47 | 2022-11-03 |  |
 | [Red Flags](https://open.spotify.com/track/30SeStbN8prR0nVaI3gY9C) | [Mwayz](https://open.spotify.com/artist/2EYr0y2iynxHcbb6fQ4Emg) | [Red Flags](https://open.spotify.com/album/4mZl5HnuvcEaPiA7mTqzLZ) | 2:46 | 2022-11-10 |  |

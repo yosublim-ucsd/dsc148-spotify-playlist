@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 86515,
+  "num_followers": 86511,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmU0NzVkZDY5YzAwOTVmOWRhMWRlNmE5MjhlODY0NzI0NzEyNGVi",
+  "snapshot_id": "MCwxZjZmYzBiNWZmZmNjYmIwYzU5NDIxYTUzMTJhODY5NmI5ZTQzYWI1",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 238831,
-      "name": "Heart on Fire",
-      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 164466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 238831,
+      "name": "Heart on Fire",
+      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "pretty kids",
-        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 159417,
-      "name": "pretty kids",
-      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Trouble With This Bed",
         "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 226884,
       "name": "Trouble With This Bed",
       "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
     },
     {
       "added_at": "2023-01-13 05:00:00",

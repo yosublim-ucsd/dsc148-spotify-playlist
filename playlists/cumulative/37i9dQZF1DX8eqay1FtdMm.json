@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the vocalists representing Korea! (Cover:\bSOLE & Sung Si Kyung(\uc3e0 & \uc131\uc2dc\uacbd)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the vocalists representing Korea! (Cover:\bLena Park(\ubc15\uc815\ud604)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -4498,7 +4498,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 247986,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
@@ -6738,6 +6738,24 @@
       "duration_ms": 271999,
       "name": "You",
       "url": "https://open.spotify.com/track/3ihvNxwcqjcmoZjoMn84ri"
+    },
+    {
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/0CGBkyLZW3izWrGZDcMz7u"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215653,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb"
     },
     {
       "album": {

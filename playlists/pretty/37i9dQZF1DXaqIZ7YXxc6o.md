@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Zia Jade
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,448 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,458 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [ctrl alt delete](https://open.spotify.com/track/1jRi3WhVIz8W1PCUkLkP1V) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [ctrl alt delete](https://open.spotify.com/album/5kkcH9I0e0vxRH1za848fX) | 3:25 |
 | 101 | [Hollywood](https://open.spotify.com/track/6BSm5agl8YBZIbtYHconLX) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7) | [Hollywood](https://open.spotify.com/album/0Xb5A3SSvc17t8kTz9JhXh) | 3:21 |
 
-Snapshot ID: `MCw1NTU0ZDQ2YTYyNGE0ZDEyOWE1Nzc5MGEzY2JjMzdlNDRjMGU2Nzli`
+Snapshot ID: `MCxmNzIyNzJhN2IzZDQwYmQwNjU3NGYyODMyY2QwMjIyMDc4OGQwNThm`

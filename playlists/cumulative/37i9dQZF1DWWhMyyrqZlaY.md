@@ -2,9 +2,9 @@
 
 ### [Corridos Tumbados](https://open.spotify.com/playlist/37i9dQZF1DWWhMyyrqZlaY)
 
-> Los corridos más placosos que suenan en las calles\. Natanael Cano y Dan Sanchez en portada.
+> Los corridos más placosos que suenan en las calles\. Natanael Cano en portada.
 
-107 songs - 5 hr 25 min
+108 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 | 2022-02-04 |  |
 | [En La Silverado](https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [En La Silverado](https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi) | 2:50 | 2023-02-24 | 2023-04-15 |
 | [Estilo Call Of Duty](https://open.spotify.com/track/65zc43qPQdyWJdxjL0e39m) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Estilo Call Of Duty](https://open.spotify.com/album/5rs3LSRCXx44C3f8vYsGYu) | 3:10 | 2022-12-30 |  |
-| [Falso](https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Falso](https://open.spotify.com/album/1QATRuRMTlIEzQi9VvRm5m) | 3:54 | 2023-02-03 |  |
+| [Falso](https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Falso](https://open.spotify.com/album/1QATRuRMTlIEzQi9VvRm5m) | 3:54 | 2023-02-03 | 2023-05-02 |
 | [Francotirador](https://open.spotify.com/track/4qRvs07nw5rtozM0AfIvZM) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Francotirador](https://open.spotify.com/album/1L7lVRdCQFIxC3IbRMCEVK) | 3:11 | 2022-12-30 | 2023-02-04 |
 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 | 2022-02-04 |  |
 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 | 2023-02-03 |  |
@@ -88,6 +88,7 @@
 | [Ojos De Maniaco](https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:38 | 2022-02-04 |  |
 | [Ojos Tumbados](https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ojos Tumbados](https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU) | 3:38 | 2022-10-14 | 2022-12-10 |
 | [Pa Que Aprendan](https://open.spotify.com/track/3MTS8GCWu71UhJgxSJBRyV) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [Pa Que Aprendan](https://open.spotify.com/album/1LrIc9CJLpC17yqIc4M6Ku) | 3:06 | 2022-06-24 | 2022-08-13 |
+| [Pacas De Billetes](https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pacas De Billetes](https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG) | 3:08 | 2023-05-01 |  |
 | [Padre Nuestro](https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Padre Nuestro](https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9) | 3:28 | 2022-06-24 | 2022-12-17 |
 | [Periquito](https://open.spotify.com/track/1rf9ED0kgnSWMpUxQj9XVX) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:20 | 2022-04-08 | 2022-10-15 |
 | [Plush](https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Plush](https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1) | 2:57 | 2022-02-04 |  |

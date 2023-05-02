@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Check your vibe with Epic Records.
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,856 likes - 60 songs - 3 hr 4 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,860 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 | 59 | [Hot Mess](https://open.spotify.com/track/1lHPNdcjlgNFfuc9pYvwGi) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Hot Mess](https://open.spotify.com/album/4v85yfAxKBBY9xjOLnJocg) | 2:09 |
 | 60 | [Drag Me Out](https://open.spotify.com/track/55b6Z85Gr14LgKeBlnJuiz) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/0m9nmes7RVgKaNm0WrjzDF) | 2:19 |
 
-Snapshot ID: `MjEwNyxhYTBmZTE1MGEyYzNlZWZjZmU1ZmZlNzIyODNjMzA2MGExNjk1NjVm`
+Snapshot ID: `MjEwOSw4YTRhZWExM2JiZTMyMmU5NmE0YmI3NjViNTVlMDhlNjUyZjQyNmE5`

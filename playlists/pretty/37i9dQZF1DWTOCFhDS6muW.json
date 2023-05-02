@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 19107,
+  "num_followers": 19122,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWQzNmU0M2JjOGVmMDA2NmU3NWE0NjgwY2E5NjFkMWQyOWUxNmFh",
+  "snapshot_id": "MCxjZGNlN2U0MDE0YmUwMmU0Y2U4ZWVhNzgyZGI4NDZkYWU3N2RlODdi",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -111,22 +111,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 299400,
-      "name": "El Pato y la Gallina",
-      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 449400,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/0DekuxPNx9ImAWQHXldJ9P"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 299400,
+      "name": "El Pato y la Gallina",
+      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -231,22 +231,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
-      },
-      "artists": [
-        {
-          "name": "Los Roland's",
-          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
-        }
-      ],
-      "duration_ms": 325250,
-      "name": "Tickita Tickita",
-      "url": "https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Batalla de las Puntas, Vol. 4",
         "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
       },
@@ -263,6 +247,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
+      },
+      "artists": [
+        {
+          "name": "Los Roland's",
+          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
+        }
+      ],
+      "duration_ms": 325250,
+      "name": "Tickita Tickita",
+      "url": "https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -275,6 +275,22 @@
       "duration_ms": 401600,
       "name": "Banana",
       "url": "https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/0QBeVEOHHD8170pvyCfqB3"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/5zRGEPFG9SEv9dGRjjxjwz"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -327,6 +343,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "duration_ms": 240536,
+      "name": "Pedazo De Mujer",
+      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Batalla de Puntas 3: Power Mix",
         "url": "https://open.spotify.com/album/61cxt6Q8r6STi4zsGVsKZT"
       },
@@ -359,34 +391,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Banana",
-        "url": "https://open.spotify.com/album/0QBeVEOHHD8170pvyCfqB3"
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/05bmKOrqr3sL0fDM3pOXQW"
       },
       "artists": [
         {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
         }
       ],
-      "duration_ms": 196613,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/5zRGEPFG9SEv9dGRjjxjwz"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 240536,
-      "name": "Pedazo De Mujer",
-      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
+      "duration_ms": 309240,
+      "name": "Oye Este Canto Aka Levantando las Manos",
+      "url": "https://open.spotify.com/track/6VHH8EZHnvE2QcL0pipwhY"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -403,6 +419,22 @@
       "duration_ms": 396303,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 2",
+        "url": "https://open.spotify.com/album/7CjRtzPIxKg3a9ZwogMaal"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Si Pudiera Yo",
+      "url": "https://open.spotify.com/track/03qejDacPNFwCdVNg4HVSG"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -435,54 +467,6 @@
       "duration_ms": 179108,
       "name": "Nando",
       "url": "https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 2",
-        "url": "https://open.spotify.com/album/7CjRtzPIxKg3a9ZwogMaal"
-      },
-      "artists": [
-        {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Si Pudiera Yo",
-      "url": "https://open.spotify.com/track/03qejDacPNFwCdVNg4HVSG"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/05bmKOrqr3sL0fDM3pOXQW"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 309240,
-      "name": "Oye Este Canto Aka Levantando las Manos",
-      "url": "https://open.spotify.com/track/6VHH8EZHnvE2QcL0pipwhY"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Hablo Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -539,18 +523,38 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Conexi\u00f3n Garifuna",
-        "url": "https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689"
+        "name": "Mete Y Saca",
+        "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
       },
       "artists": [
         {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+          "name": "Punta Cartel",
+          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
+        },
+        {
+          "name": "Nuru Ellis",
+          "url": "https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN"
         }
       ],
-      "duration_ms": 159474,
-      "name": "Balabaa",
-      "url": "https://open.spotify.com/track/05dtKZaWgQmxspDPqDKbfA"
+      "duration_ms": 323436,
+      "name": "Mete Y Saca",
+      "url": "https://open.spotify.com/track/7tez2Argy2je4NUQM9eK3y"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -567,6 +571,54 @@
       "duration_ms": 204133,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/2oq5vkmOpiR0ykdmfyuFNj"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Conexi\u00f3n Garifuna",
+        "url": "https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "duration_ms": 159474,
+      "name": "Balabaa",
+      "url": "https://open.spotify.com/track/05dtKZaWgQmxspDPqDKbfA"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+      },
+      "artists": [
+        {
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+        }
+      ],
+      "duration_ms": 205072,
+      "name": "Nafagua",
+      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "La Ametralladora",
+        "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+        }
+      ],
+      "duration_ms": 154476,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -600,25 +652,9 @@
           "url": "https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN"
         }
       ],
-      "duration_ms": 323436,
-      "name": "Mete Y Saca",
-      "url": "https://open.spotify.com/track/7tez2Argy2je4NUQM9eK3y"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "L\u00e1ndini",
-        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
-      },
-      "artists": [
-        {
-          "name": "Aurelio",
-          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
-        }
-      ],
-      "duration_ms": 205072,
-      "name": "Nafagua",
-      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+      "duration_ms": 371135,
+      "name": "Cartel Mix",
+      "url": "https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -635,38 +671,6 @@
       "duration_ms": 166557,
       "name": "Mira Honduras",
       "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "La Ametralladora",
-        "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Rolands",
-          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
-        }
-      ],
-      "duration_ms": 154476,
-      "name": "La Ametralladora",
-      "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Pobre Marinero",
-        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "En Mi Pais",
-      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     }
   ],
   "unique_name": "Punta",

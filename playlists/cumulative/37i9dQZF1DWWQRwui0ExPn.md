@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-5,541 songs - 8 day 18 hr 18 min
+5,543 songs - 8 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,7 +908,7 @@
 | [chạy trốn](https://open.spotify.com/track/0ytT0BAsapL17sylQKwCUN) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [chạy trốn](https://open.spotify.com/album/1lWx3rPdvhE7QO8kP1G8nD) | 2:23 | 2022-12-02 | 2023-02-15 |
 | [CI Vediamo](https://open.spotify.com/track/30y4RC3iEEt6n2YLoej0K7) | [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [CI Vediamo](https://open.spotify.com/album/1ls4CeoNvOzbUz8k1aOIUY) | 2:46 | 2023-01-13 |  |
 | [cielo](https://open.spotify.com/track/708BmbNyEFsWl0PQXWHknO) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [cielo](https://open.spotify.com/album/11Q6QvFtKFU2CQpfUMSzMH) | 2:30 | 2019-05-26\* | 2020-10-21 |
-| [cielo blanco](https://open.spotify.com/track/4W1rLMJOwF99VSOq8QppSm) | [daysgetbetter](https://open.spotify.com/artist/4vbKLDLpqQ9DcimSBqvk5c) | [cielo blanco](https://open.spotify.com/album/7DE2fysCprE0XMKr6UM0fM) | 1:38 | 2022-12-09 |  |
+| [cielo blanco](https://open.spotify.com/track/4W1rLMJOwF99VSOq8QppSm) | [daysgetbetter](https://open.spotify.com/artist/4vbKLDLpqQ9DcimSBqvk5c) | [cielo blanco](https://open.spotify.com/album/7DE2fysCprE0XMKr6UM0fM) | 1:38 | 2022-12-09 | 2023-05-02 |
 | [Cihuacoatl](https://open.spotify.com/track/7rSW4kzcuWL6y50oer4Qfp) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Cihuacoatl](https://open.spotify.com/album/7rG0iSMdlTDqaNHq3XKoww) | 1:50 | 2022-12-09 | 2023-02-14 |
 | [cinderella sundaze](https://open.spotify.com/track/2r4yN8Soj4jiYdDax5d9Ea) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [cinderella sundaze](https://open.spotify.com/album/1bErxDJqGM12UP4vJhA8eD) | 1:59 | 2022-06-24 | 2022-10-28 |
 | [Cinnamon Haze](https://open.spotify.com/track/4RhgjR7AJvGe8QrJPJPClJ) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Cinnamon Haze](https://open.spotify.com/album/1MaqILq6cYoGQxXf8bXt0s) | 2:22 | 2022-12-16 | 2023-04-28 |
@@ -1482,7 +1482,7 @@
 | [Empty Stare](https://open.spotify.com/track/0cb6OArrioSWhB9pcSbbcG) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Empty Stare](https://open.spotify.com/album/3JWEKgJxnEZIASWVu1CCDU) | 2:04 | 2021-07-04 | 2022-03-12 |
 | [En Baja Lowkey](https://open.spotify.com/track/4YxuqUAgELC32gjYFv8ln7) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 1:43 | 2021-09-03 | 2022-04-08 |
 | [En mis sueños te veo](https://open.spotify.com/track/4bBmv53UzlTGTqBFxWJwkv) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [Lost Name](https://open.spotify.com/artist/1HSPc1HNJLIMsNBFBtIpUa) | [En mis sueños te veo](https://open.spotify.com/album/1KPhhkB8nuQCISaxZDGlsA) | 2:46 | 2022-12-16 |  |
-| [En Route](https://open.spotify.com/track/0nUFD6i20AB1yzCxB3zGA5) | [NXWA](https://open.spotify.com/artist/1sHBsHEfGEQIuSbvyMB8jn) | [En Route](https://open.spotify.com/album/1f5mdPp41Z5XSyK6NFJYyF) | 2:14 | 2023-01-13 |  |
+| [En Route](https://open.spotify.com/track/0nUFD6i20AB1yzCxB3zGA5) | [NXWA](https://open.spotify.com/artist/1sHBsHEfGEQIuSbvyMB8jn) | [En Route](https://open.spotify.com/album/1f5mdPp41Z5XSyK6NFJYyF) | 2:14 | 2023-01-13 | 2023-05-02 |
 | [Enchanted](https://open.spotify.com/track/1inhsOmdJMXWnNEbEGVOZ2) | [Moetown](https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS) | [Into the Unknown](https://open.spotify.com/album/2w8d5M1kvblFrAcc23XTNh) | 2:25 | 2022-10-28 | 2023-04-13 |
 | [Enchu](https://open.spotify.com/track/610CBAPv4YqfNC3gXQBUoP) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Enchu](https://open.spotify.com/album/7hoDAUdsceuoLtLSm5oAQY) | 2:22 | 2021-07-29 | 2022-03-12 |
 | [End Credits](https://open.spotify.com/track/0IQGNx2y8xUec752lNCUQk) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [End Credits](https://open.spotify.com/album/2COxCYzeNwCOcAQSGu80Fg) | 2:52 | 2019-06-01 | 2020-04-12 |
@@ -3158,6 +3158,7 @@
 | [Moonshine](https://open.spotify.com/track/7vGvapVSzHd9JAVQpWrVr0) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [Moonshine](https://open.spotify.com/album/2dLDylI3cinzFN1Xlfxjxx) | 2:51 | 2021-08-29 | 2022-03-21 |
 | [Moonshine Plaza](https://open.spotify.com/track/0eV0GhobQSqR4K0DQQQ3mH) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2022-06-10 | 2022-09-30 |
 | [Moonwake](https://open.spotify.com/track/4L9Mh0etZXTjvS3YdZW0Ka) | [Cherry Vans](https://open.spotify.com/artist/1TAqi3mSEZKy6tE4phpnJo) | [Moonwake](https://open.spotify.com/album/0BqlxyjuQpMrAijorHIolB) | 2:54 | 2023-02-21 | 2023-03-18 |
+| [More Love](https://open.spotify.com/track/5OQn5iK9axhAhxx4tDkChX) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [Letters From The Heart](https://open.spotify.com/album/2wGJNm55yZvms7WUGDaOzG) | 2:18 | 2023-04-27 |  |
 | [More Than This](https://open.spotify.com/track/44jMRNYa2UvNX327NHQguc) | [Mike Gusavo](https://open.spotify.com/artist/60qzkDytnh2qZYqMC890qv) | [More Than This](https://open.spotify.com/album/50DX1IxwzOZyCmoBgWYbfN) | 2:38 | 2022-09-16 | 2023-02-28 |
 | [More Time](https://open.spotify.com/track/2Tgv0ulhEINEmtJ1Blh0lO) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [No Time](https://open.spotify.com/album/63T6Lnrl85HcUHjC9OP8u3) | 3:47 | 2020-10-24 | 2021-10-20 |
 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2022-08-05 | 2022-11-18 |
@@ -3656,6 +3657,7 @@
 | [Passion Fruit Panther](https://open.spotify.com/track/4RWJEwKnfPPXxaOzHtKTPx) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Passion Fruit Panther](https://open.spotify.com/album/61GybzKXzhpDjPsUWUOO7f) | 1:57 | 2022-01-21 | 2022-07-16 |
 | [Passionflower](https://open.spotify.com/track/2hsElBczGGW8n9WrG8W1OK) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [FLOWERS](https://open.spotify.com/album/2A75rTBkNUKBBeHJQtSmbN) | 1:59 | 2020-04-07 | 2021-09-04 |
 | [Past Midnight](https://open.spotify.com/track/2XrxEdsGEB1S6igoZ0oZlV) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Past Midnight](https://open.spotify.com/album/6kXkkeT5hZaPXGVqqckxWd) | 2:17 | 2023-04-05 | 2023-04-12 |
+| [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 | 2023-04-27 |  |
 | [pathless](https://open.spotify.com/track/2twCuhMf8cmQGMMC1Wlbde) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [pathless](https://open.spotify.com/album/2B3BIn4tvmPClpXWxczkwh) | 1:44 | 2020-08-30 | 2021-10-02 |
 | [Patience](https://open.spotify.com/track/0AVSwVpQbGNpKyJexA8Rp4) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Patience](https://open.spotify.com/album/7FI6gU3CuWU3I9gXA9gENu) | 1:30 | 2021-11-05 | 2022-06-03 |
 | [Patient Stabilized](https://open.spotify.com/track/0CK0jsUUNtHeQDJBiAzU70) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Patient Stabilized](https://open.spotify.com/album/76wOv3egSEYkYHDitky9JA) | 2:49 | 2023-01-13 | 2023-04-06 |

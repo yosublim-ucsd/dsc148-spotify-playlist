@@ -1594,10 +1594,32 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 162380,
       "name": "Koffie Of Thee",
       "url": "https://open.spotify.com/track/14kD5P9OI8PRa4mhaCh0vL"
+    },
+    {
+      "album": {
+        "name": "De Kibbelingsound",
+        "url": "https://open.spotify.com/album/50v6QLrNbW3NZdbvKSLkDM"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162380,
+      "name": "Koffie Of Thee",
+      "url": "https://open.spotify.com/track/3toCB81vU1BzlsVm4Rsen5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 47902,
+  "num_followers": 47962,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjFjNzliN2Y1YmUyMThkNWM5ZTEwZTViZTgxZGFhOTMxYjdmZmE0",
+  "snapshot_id": "MCxiNTU5NmY2NmJhYjJiNDAzMjdjZTM0YmE0YzZiNWViNzZmM2UyOWQw",
   "tracks": [
     {
       "added_at": "2023-03-31 15:48:58",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 262309,
       "name": "AMOR DE CINE",
       "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
+        "name": "pa quererte",
+        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "pa quererte",
+      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
         "name": "FLORES",
         "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "pa quererte",
-        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "pa quererte",
-      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Permanente",
-        "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 235044,
-      "name": "Permanente",
-      "url": "https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
         "name": "Los D\u00edas en la Sala",
         "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 163411,
       "name": "Siempre Te Voy a Querer",
       "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "Permanente",
+        "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 235044,
+      "name": "Permanente",
+      "url": "https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
+        "name": "Tu Pirata Soy Yo",
+        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Tu Pirata Soy Yo",
+      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
         "name": "Inmensamente Fr\u00e1gil",
         "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "Tu Pirata Soy Yo",
-        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Tu Pirata Soy Yo",
-      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 190006,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
         "name": "Ir por un Caf\u00e9",
         "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 200000,
       "name": "Ir por un Caf\u00e9",
       "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "Autom\u00e1tico",
-        "url": "https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI"
-      },
-      "artists": [
-        {
-          "name": "Juan Solo",
-          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Autom\u00e1tico",
-      "url": "https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl"
     }
   ],
   "unique_name": "cursi",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XdqmB6xlX2.md) - [plain]
 
 > El hogar de tu nueva canción favorita\. Foto: Tame Impala, Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,487 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,562 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XdqmB6xlX2.md) - [plain]
 | 69 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
 | 70 | [Running Away \- Vocal Remix](https://open.spotify.com/track/09SQixfCZZ9rUDoY1MZB2d) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR) | 1:51 |
 
-Snapshot ID: `MCw4ZDk3YmY1MWE3MDIxOWNkMGVlMDc2N2M4NDRlNjZjY2ViNmQwM2Y0`
+Snapshot ID: `MCxjZDRmNzQwMGI2YTAxNjQ0ZGJiYzU1YTFjZGQwYjczMzVhNzBhMTdm`

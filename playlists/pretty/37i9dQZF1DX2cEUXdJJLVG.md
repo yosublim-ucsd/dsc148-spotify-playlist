@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,501 likes - 177 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,525 likes - 177 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 176 | [Stranger](https://open.spotify.com/track/5FoT7QLoywPzLv4ZGyHpOC) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Stranger](https://open.spotify.com/album/5wrVHUkEIpUhAuls9A6KR1) | 3:15 |
 | 177 | [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 |
 
-Snapshot ID: `MCw5MmQ3YWMyOWYyZGY0N2EwODE4YzVkMjEwOWFhOTNkODUyMmNmYTI5`
+Snapshot ID: `MCxhOTI2OGU4ODk1MTUwYzM3MmRlYWQ1N2IzNDZmNjk3MmM4YTI5N2Ez`

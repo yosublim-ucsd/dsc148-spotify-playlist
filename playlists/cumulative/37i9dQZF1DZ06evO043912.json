@@ -965,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227985,
+      "name": "Mo L'Oluwa, Ohun To Mu Bale Ile",
+      "url": "https://open.spotify.com/track/4dGeiTEKIXjAWUZIAHJgv2"
+    },
+    {
+      "album": {
         "name": "Classics, Vol. 1: Let Them Say & Edide",
         "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
       },

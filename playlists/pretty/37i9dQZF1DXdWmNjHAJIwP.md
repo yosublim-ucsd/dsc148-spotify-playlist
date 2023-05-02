@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. Check back in June for Verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,658 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,684 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 | 24 | [Golden Choice](https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:48 |
 | 25 | [Mi Querer](https://open.spotify.com/track/0lRdpv1I5Q46I1pzFtQYId) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Mi Querer](https://open.spotify.com/album/4AaQMesVSvVW66XjSiFDE4) | 4:54 |
 
-Snapshot ID: `MCxlNTFlNDg5MjZiMjM2YmQ2OGU0MjkwNTNlZjJhZGYyYTI1OGZmNjY2`
+Snapshot ID: `MCw1ZWRlN2ZhYjJmY2ZiZGMzOGNkMmM4ZGVkMjZmNjgzNmFmZDM1YzJl`

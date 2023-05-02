@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Alo Aleky",
+        "url": "https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178885,
+      "name": "Alo Aleky",
+      "url": "https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp"
+    },
+    {
+      "album": {
         "name": "Ana Ma Eli Bel Hob",
         "url": "https://open.spotify.com/album/6xJlefnJuMfbJ22uIKvvvT"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 228570,
       "name": "Beehom Kolohom",
       "url": "https://open.spotify.com/track/4yDzT37LAYRLnOgVDsZPCV"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 251769,
       "name": "Ma Bzon",
       "url": "https://open.spotify.com/track/7A1l0IlP9h7ZaE1NVp1Ags"
@@ -1538,6 +1556,28 @@
       "duration_ms": 203072,
       "name": "Ouloulou",
       "url": "https://open.spotify.com/track/40zTo5mvJkAcuJwbXnOk2L"
+    },
+    {
+      "album": {
+        "name": "Ountha",
+        "url": "https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        },
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Ountha",
+      "url": "https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1"
     },
     {
       "album": {
@@ -1916,7 +1956,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 231036,
       "name": "\u062d\u0628\u064a\u0628\u064a",
       "url": "https://open.spotify.com/track/3Yptsq9Cjwju63hG5g3gXj"
@@ -1992,6 +2032,24 @@
       "duration_ms": 213652,
       "name": "\u0642\u0635\u0629 \u062d\u0628 - \u0646\u0633\u062e\u0629 \u0634\u0631\u0642\u064a",
       "url": "https://open.spotify.com/track/6ojYumgu8f7i15xshyg6Bj"
+    },
+    {
+      "album": {
+        "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+        "url": "https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221379,
+      "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+      "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
     },
     {
       "album": {

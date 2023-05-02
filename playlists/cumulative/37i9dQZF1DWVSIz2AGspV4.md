@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف : فيصل عبدالكريم
 
-210 songs - 12 hr 17 min
+211 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 | 2021-12-23 | 2022-05-14 |
 | [Heya Ghalta](https://open.spotify.com/track/66OSm9VA64mWnW5y4TtxKa) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Sawaha](https://open.spotify.com/album/4SuZtMvNjMHag9xGnzbTrP) | 3:57 | 2021-12-23 | 2022-03-12 |
 | [Heyya Ala Allah](https://open.spotify.com/track/2TW62JI3FoBG6NUrMH83cg) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Heyya Ala Allah](https://open.spotify.com/album/1Soc8OCAxYycuELmaLibGV) | 3:16 | 2022-01-20 | 2022-06-07 |
+| [Hobbak Dar](https://open.spotify.com/track/2AIUJ9QAtwzP6wfLP9L1Ye) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Hobbak Dar](https://open.spotify.com/album/22d8IxsrkUVBSmBCtbapCQ) | 3:09 | 2023-05-01 |  |
 | [Hobk Tarak Ather](https://open.spotify.com/track/3087i1xlpg2i1g77CSosnE) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Hobk Tarak Ather](https://open.spotify.com/album/7ttYNCLKQnEcTQOuSr4hhF) | 4:37 | 2022-11-01 |  |
 | [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 | 2022-05-31 | 2023-03-01 |
 | [Iraq Cypher \(feat\. Kira The Blurryface, Armando Rap, Odd Khalid, Disser, KC Hamada, Alrong, Genesis, Nayomi & EL SEEN\)](https://open.spotify.com/track/1WMQlJFH3UIuwAKkoatUo5) | [Big Hass](https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv), [Kira The Blurryface](https://open.spotify.com/artist/4R7pxLuB67BtKVX0BQRIyO), [Armando Rap](https://open.spotify.com/artist/2mFgrI1DeYCb5BMO4TzPkX), [Odd Khalid](https://open.spotify.com/artist/59Ie9C5y5W6M1gBj0FUvkk), [Disser](https://open.spotify.com/artist/1ckKDZAAYGqSHi8quAW7PZ), [KC Hamada](https://open.spotify.com/artist/3blZFhMJ3PjJSnOcoHg8bO), [Alrong](https://open.spotify.com/artist/0A82D7QijLeWDlwIWP2Xrx), [Genesis](https://open.spotify.com/artist/06C9hjoLs86MsWSZysR4hj), [Nayomi](https://open.spotify.com/artist/63pexOL4YuXMRprBVl8wXh), [El SEEN](https://open.spotify.com/artist/13TSKN9KQtsYPmkA5zJwua) | [Iraq Cypher \(feat\. Kira The Blurryface, Armando Rap, Odd Khalid, Disser, KC Hamada, Alrong, Genesis, Nayomi & EL SEEN\)](https://open.spotify.com/album/0v99Q4aIsmzSf0UzYRGg2z) | 5:33 | 2022-05-13 | 2022-10-14 |
@@ -132,7 +133,7 @@
 | [Kursi AlMalk](https://open.spotify.com/track/4wAujWCFWU2sP8zXnIALRa) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Aya Alqaisi](https://open.spotify.com/artist/012QJkuaDN2iAgnTAGoMXS) | [Kursi AlMalk](https://open.spotify.com/album/3iVeuoQc68GSfAMQoeff57) | 3:20 | 2021-12-23 | 2022-04-06 |
 | [La Ta3lik \- لا تعليق](https://open.spotify.com/track/2idrLeovShKhSEgxpbXJPZ) | [Humam Ibrahim](https://open.spotify.com/artist/5G8jeOHN04AHRt5Ln3kbX4) | [La Ta3lik \(لا تعليق\)](https://open.spotify.com/album/21527GyQ0xj6EHB5SqDAv8) | 3:02 | 2022-10-11 | 2022-11-13 |
 | [La Yalbukht](https://open.spotify.com/track/3q6f7xBrpHwt8PvmWCMuXZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [La Yalbukht](https://open.spotify.com/album/4hWmhWJk8VZeoIfl8nesys) | 3:23 | 2022-02-03 | 2022-06-07 |
-| [Lef Elkon](https://open.spotify.com/track/5Rzq5P1v9xDfPc5jTOieAM) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Lef Elkon](https://open.spotify.com/album/1y0OCBu84DwxC6Ba3toGRA) | 3:20 | 2022-07-10 |  |
+| [Lef Elkon](https://open.spotify.com/track/5Rzq5P1v9xDfPc5jTOieAM) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Lef Elkon](https://open.spotify.com/album/1y0OCBu84DwxC6Ba3toGRA) | 3:20 | 2022-07-10 | 2023-05-02 |
 | [Lo Bdali](https://open.spotify.com/track/5gz4UWI9X5NGHL5ZWQz1SK) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Lo Bdali](https://open.spotify.com/album/6ZVzhlLAa79Og3pvyihTXm) | 3:38 | 2021-12-23 | 2022-03-12 |
 | [Low Tehbny](https://open.spotify.com/track/1Qv14GgwC8DOg3w5IlXz2V) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Yousif Basim](https://open.spotify.com/artist/48gGrQgctA3maCIN6xRNTd) | [Low Tehbny](https://open.spotify.com/album/26QmCBzT5VngDgCFEmuAb1) | 3:07 | 2023-02-06 |  |
 | [Lyom Miladah](https://open.spotify.com/track/5e1VvU8X3MSt5iscjfM68p) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Lyom Miladah](https://open.spotify.com/album/51ejcp69a3cb5vFLhgrDMz) | 3:27 | 2023-03-16 |  |

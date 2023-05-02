@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 44904,
+  "num_followers": 44934,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGViZmQxYjkyZTNiMmEyNTQwOTZkNTUyZmFiYTI5OWViNDY2ZWYw",
+  "snapshot_id": "MCxjZTUyNWIxMTQ3YTc3MmM5NWExMGFiM2FhOWYxZjMwZWMyYjMyMjg2",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Cl\u00e9 : LEVANTER",
+        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 222284,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "vacation",
         "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 194999,
       "name": "Feel Like Falling In Love",
       "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Cl\u00e9 : LEVANTER",
-        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 222284,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "INNER CHILD",
-        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Sipping My life (Bonus Track)",
-      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "INNER CHILD",
+        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Sipping My life (Bonus Track)",
+      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
-      "added_at": "2023-05-01 01:01:57",
+      "added_at": "2023-05-02 00:57:19",
       "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Darling You",
+      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Tailor",
         "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 267051,
       "name": "We are all Muse (Feat. Yerin Baek)",
       "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
-      },
-      "artists": [
-        {
-          "name": "Bernard Park",
-          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Darling You",
-      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "\ud558\uc9c0 \ub9d0\ub77c\uba74 \ub354 \ud558\uace0 19 Part.2",
+        "url": "https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc694\ud55c",
+          "url": "https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD"
+        }
+      ],
+      "duration_ms": 260624,
+      "name": "\uc5b4\ub5a1\ud574 (Feat. \uc2a4\ud154\ub77c\uc7a5)",
+      "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Candy Pianist",
         "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
       },
@@ -957,23 +973,7 @@
       "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
     },
     {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "\ud558\uc9c0 \ub9d0\ub77c\uba74 \ub354 \ud558\uace0 19 Part.2",
-        "url": "https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc694\ud55c",
-          "url": "https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD"
-        }
-      ],
-      "duration_ms": 260624,
-      "name": "\uc5b4\ub5a1\ud574 (Feat. \uc2a4\ud154\ub77c\uc7a5)",
-      "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
-    },
-    {
-      "added_at": "2023-05-01 01:01:57",
+      "added_at": "2023-05-02 00:57:19",
       "album": {
         "name": "Candy For You",
         "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Honey jar No.01",
-        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
-      },
-      "artists": [
-        {
-          "name": "HolyBear",
-          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
-        }
-      ],
-      "duration_ms": 219205,
-      "name": "Butterfly on my mind",
-      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "\uc232 Forest",
         "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 244363,
       "name": "Maudie",
       "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Honey jar No.01",
+        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
+      },
+      "artists": [
+        {
+          "name": "HolyBear",
+          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
+        }
+      ],
+      "duration_ms": 219205,
+      "name": "Butterfly on my mind",
+      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
     },
     {
       "added_at": "2023-02-24 10:35:29",

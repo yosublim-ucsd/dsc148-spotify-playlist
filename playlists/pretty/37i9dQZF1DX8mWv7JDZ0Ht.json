@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Nando Reis, Anavit\u00f3ria",
-  "num_followers": 421283,
+  "num_followers": 421403,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmNkM2Q5YTUxNDdkNDE4MWNkNjFhMjE2MzVkNmM3MzVmMTc2YWEy",
+  "snapshot_id": "MCw4MzYwMDgzMzBjZTEyMTAxYmE0MzNiNjE0MDY5ZTMyNTIzMjJhM2E0",
   "tracks": [
     {
       "added_at": "2023-04-28 18:32:58",
@@ -255,26 +255,6 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
-        "name": "CAIXA POSTAL",
-        "url": "https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 185372,
-      "name": "CAIXA POSTAL",
-      "url": "https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl"
-    },
-    {
-      "added_at": "2023-04-28 18:32:58",
-      "album": {
         "name": "Tudo Pah (Casa Filtr)",
         "url": "https://open.spotify.com/album/4UKtzqwGYpn2miqMvpDfhO"
       },
@@ -311,6 +291,26 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
+        "name": "CAIXA POSTAL",
+        "url": "https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 185372,
+      "name": "CAIXA POSTAL",
+      "url": "https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl"
+    },
+    {
+      "added_at": "2023-04-28 18:32:58",
+      "album": {
         "name": "Live Sessions",
         "url": "https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 225479,
       "name": "SE EU TE PEDIR PRA FICAR?",
       "url": "https://open.spotify.com/track/1gw8hh1Pm2uVpqKnbunRcq"
-    },
-    {
-      "added_at": "2023-04-28 18:32:58",
-      "album": {
-        "name": "FIM",
-        "url": "https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 182181,
-      "name": "Ponto De Vista",
-      "url": "https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5"
     },
     {
       "added_at": "2023-04-28 18:32:58",
@@ -395,6 +379,22 @@
       "duration_ms": 177014,
       "name": "Mais Que Ontem",
       "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
+    },
+    {
+      "added_at": "2023-04-28 18:32:58",
+      "album": {
+        "name": "FIM",
+        "url": "https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 182181,
+      "name": "Ponto De Vista",
+      "url": "https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5"
     },
     {
       "added_at": "2023-04-28 18:32:58",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
+        "name": "cedo pra dizer",
+        "url": "https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 186809,
+      "name": "cedo pra dizer",
+      "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
+    },
+    {
+      "added_at": "2023-04-28 18:32:58",
+      "album": {
         "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
         "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 142000,
       "name": "Terezinha",
       "url": "https://open.spotify.com/track/6jZq2kwbo4pLsoREwTveq3"
-    },
-    {
-      "added_at": "2023-04-28 18:32:58",
-      "album": {
-        "name": "cedo pra dizer",
-        "url": "https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 186809,
-      "name": "cedo pra dizer",
-      "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
     },
     {
       "added_at": "2023-04-28 18:32:58",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
+        "name": "Del\u00edrio",
+        "url": "https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 162563,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R"
+    },
+    {
+      "added_at": "2023-04-28 18:32:58",
+      "album": {
         "name": "L\u00e1 Vem A Noite",
         "url": "https://open.spotify.com/album/7jC67OLg5vFyeHfQgbSAQd"
       },
@@ -687,22 +707,6 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
-        "name": "Meus Boletos",
-        "url": "https://open.spotify.com/album/4EdCXFrVKFoxk8twoHJUUc"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Meus Boletos",
-      "url": "https://open.spotify.com/track/2PIm3q14YWBuD08IZqgJ56"
-    },
-    {
-      "added_at": "2023-04-28 18:32:58",
-      "album": {
         "name": "Ato 1: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7"
       },
@@ -719,22 +723,18 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
-        "name": "Del\u00edrio",
-        "url": "https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN"
+        "name": "Meus Boletos",
+        "url": "https://open.spotify.com/album/4EdCXFrVKFoxk8twoHJUUc"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
         }
       ],
-      "duration_ms": 162563,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R"
+      "duration_ms": 215160,
+      "name": "Meus Boletos",
+      "url": "https://open.spotify.com/track/2PIm3q14YWBuD08IZqgJ56"
     },
     {
       "added_at": "2023-04-28 18:32:58",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
+        "name": "Terminei",
+        "url": "https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 167687,
+      "name": "Terminei",
+      "url": "https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys"
+    },
+    {
+      "added_at": "2023-04-28 18:32:58",
+      "album": {
         "name": "Resolvi Seguir",
         "url": "https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 181209,
       "name": "Tudo Certo",
       "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
-    },
-    {
-      "added_at": "2023-04-28 18:32:58",
-      "album": {
-        "name": "Terminei",
-        "url": "https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 167687,
-      "name": "Terminei",
-      "url": "https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys"
     },
     {
       "added_at": "2023-04-28 18:32:58",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 197802,
-      "name": "Coisas De Voc\u00ea",
-      "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
-    },
-    {
-      "added_at": "2023-04-28 18:32:58",
-      "album": {
         "name": "A Voz",
         "url": "https://open.spotify.com/album/31mLvafOzdttDLFdgbLliq"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 242696,
       "name": "A Voz",
       "url": "https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem"
+    },
+    {
+      "added_at": "2023-04-28 18:32:58",
+      "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Coisas De Voc\u00ea",
+      "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
     },
     {
       "added_at": "2023-04-28 18:32:58",
@@ -1187,18 +1187,22 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
-        "name": "MENINA",
-        "url": "https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP"
+        "name": "Mulher de f\u00e9",
+        "url": "https://open.spotify.com/album/0NIimQLXAHitFTYmKSQ4Oi"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
         }
       ],
-      "duration_ms": 191208,
-      "name": "MENINA",
-      "url": "https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm"
+      "duration_ms": 154269,
+      "name": "Mulher de f\u00e9",
+      "url": "https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu"
     },
     {
       "added_at": "2023-04-28 18:32:58",
@@ -1215,6 +1219,22 @@
       "duration_ms": 209411,
       "name": "Depois do Fim",
       "url": "https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb"
+    },
+    {
+      "added_at": "2023-04-28 18:32:58",
+      "album": {
+        "name": "MENINA",
+        "url": "https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "MENINA",
+      "url": "https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm"
     },
     {
       "added_at": "2023-04-28 18:32:58",
@@ -1275,22 +1295,6 @@
     {
       "added_at": "2023-04-28 18:32:58",
       "album": {
-        "name": "Olhar Sereno",
-        "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Olhar Sereno",
-      "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
-    },
-    {
-      "added_at": "2023-04-28 18:32:58",
-      "album": {
         "name": "Se S\u00easse",
         "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
       },
@@ -1303,26 +1307,6 @@
       "duration_ms": 171752,
       "name": "Se S\u00easse",
       "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
-    },
-    {
-      "added_at": "2023-04-28 18:32:58",
-      "album": {
-        "name": "Mulher de f\u00e9",
-        "url": "https://open.spotify.com/album/0NIimQLXAHitFTYmKSQ4Oi"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        },
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 154269,
-      "name": "Mulher de f\u00e9",
-      "url": "https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu"
     },
     {
       "added_at": "2023-04-28 18:32:58",
@@ -1355,6 +1339,22 @@
       "duration_ms": 119706,
       "name": "Sanidade Mental",
       "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
+    },
+    {
+      "added_at": "2023-04-28 18:32:58",
+      "album": {
+        "name": "Olhar Sereno",
+        "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Olhar Sereno",
+      "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
     },
     {
       "added_at": "2023-04-28 18:32:58",

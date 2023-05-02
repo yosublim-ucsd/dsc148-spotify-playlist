@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 425266,
+  "num_followers": 425490,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2I5ZWQwZmEwNTk5YjQ3MjRlMmRmZTZjMjFjNjgzOTcxYTVjMDY2",
+  "snapshot_id": "MCxjYmU2YTUxNjYxMTExMjI1YjBhM2M3M2I2ZjEzMzRiMjdhMzJhMzUx",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -107,26 +107,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 153312,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Triplbt Theme",
         "url": "https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 194733,
       "name": "Blondie",
       "url": "https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -467,38 +467,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Luxury Beverage",
-        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
-      },
-      "artists": [
-        {
-          "name": "Fox Academy",
-          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "lavender blood",
-      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Big Day",
         "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 277142,
       "name": "concussion",
       "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Luxury Beverage",
+        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
+      },
+      "artists": [
+        {
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+        }
+      ],
+      "duration_ms": 158785,
+      "name": "lavender blood",
+      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "3:45/buslane",
-        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 128530,
-      "name": "3:45/buslane",
-      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "3:45/buslane",
+        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 128530,
+      "name": "3:45/buslane",
+      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "There's Nothing But Pleasure",
         "url": "https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 204564,
       "name": "Darcy",
       "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Year Of The Rat",
-        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191684,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "home:so long",
         "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 85956,
       "name": "home:so long",
       "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Year Of The Rat",
+        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Maybe the Problem Is Me",
         "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 133090,
       "name": "Maybe the Problem Is Me",
       "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "heat waves - lofi version",
-        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
       },
       "artists": [
         {
-          "name": "omgkirby",
-          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 96363,
-      "name": "heat waves - lofi version",
-      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "i want to die in your arms",
-        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+        "name": "heat waves - lofi version",
+        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
         }
       ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
+      "duration_ms": 96363,
+      "name": "heat waves - lofi version",
+      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        },
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 215580,
-      "name": "Good For You",
-      "url": "https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 219205,
       "name": "Reality",
       "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        },
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 215580,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1523,22 +1523,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Warning Sign (Alt Version)",
-        "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3"
       },
       "artists": [
         {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+          "name": "rainbow frog biscuits",
+          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
         }
       ],
-      "duration_ms": 179669,
-      "name": "Warning Sign - Alt Version",
-      "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+      "duration_ms": 166200,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/4TKAE15440weMFqZeuzprE"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1555,22 +1551,6 @@
       "duration_ms": 243102,
       "name": "sugar ray",
       "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3"
-      },
-      "artists": [
-        {
-          "name": "rainbow frog biscuits",
-          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/4TKAE15440weMFqZeuzprE"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1607,6 +1587,26 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Warning Sign (Alt Version)",
+        "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 179669,
+      "name": "Warning Sign - Alt Version",
+      "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L"
       },
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "What We Left Behind",
-        "url": "https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv"
+        "name": "i don't need to understand",
+        "url": "https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3"
       },
       "artists": [
         {
-          "name": "Hydromag",
-          "url": "https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa"
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
         }
       ],
-      "duration_ms": 235462,
-      "name": "What We Left Behind",
-      "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"
+      "duration_ms": 146594,
+      "name": "i don't need to understand",
+      "url": "https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm"
     }
   ],
   "unique_name": "Lo-fi Indie",

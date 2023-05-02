@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9J6gykuP8Cf.md) - [plain]
 
 > The official playlist for Metal Lords\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,288 likes - 18 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,590 likes - 18 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9J6gykuP8Cf.md) - [plain]
 | 17 | [Whiplash \(Remastered\)](https://open.spotify.com/track/4k1IS2uF2dGcU3GzOOZqqb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 4:08 |
 | 18 | [I'm Broken](https://open.spotify.com/track/46VBfb29ibhXoLYm76cwFW) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Metal Legends](https://open.spotify.com/album/5UiYJPB3sQ0Ry3mZ8OXX8M) | 4:25 |
 
-Snapshot ID: `MCxiOTdlMmJhYzA4ZjUxOTQyZjU4Y2RkNmNhOTg3YzZkMWYyMWYyOWRh`
+Snapshot ID: `MCw5YWFhNGZhMGE0MzRhMjI3ZDA0MmE2OWE3MzYyOGFjY2E0YmUzNzM5`

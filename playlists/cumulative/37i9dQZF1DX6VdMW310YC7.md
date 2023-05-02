@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,475 songs - 4 day 5 hr 50 min
+1,476 songs - 4 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [I / Y](https://open.spotify.com/track/1L5VP9PWCU5dRzl1bvlFkJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [I / Y](https://open.spotify.com/album/6GVcEJeCqKapHt55s3aju9) | 5:54 | 2020-02-29\* | 2020-03-16 |
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-12-04 |  |
 | [I Care \- Intro](https://open.spotify.com/track/5NMa4Z4rtWqyt6VN7h2bpo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 0:33 | 2020-05-18 | 2020-07-03 |
+| [I Do](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [I Do](https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1) | 2:25 | 2023-04-28 |  |
 | [I feel alive](https://open.spotify.com/track/7qn6DBMuuU3W6MH7IqT4k5) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [In Retrospect](https://open.spotify.com/album/33mhWPOgig7dfb0P5yFDjU) | 2:15 | 2020-03-16 | 2021-01-11 |
 | [I Get You](https://open.spotify.com/track/6ClgdWhFNpAGAMFAjAbor1) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Get You](https://open.spotify.com/album/6C4LwRgUfaPVnbYgDHfsEC) | 3:57 | 2020-03-17 | 2020-10-09 |
 | [I Got New Feelings](https://open.spotify.com/track/6sl6ONNu7w47hIT8KqU2Vl) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [I Got New Feelings](https://open.spotify.com/album/0muMwij4795EX2nEp8jw9V) | 3:25 | 2020-05-22 | 2020-07-03 |
@@ -897,7 +898,7 @@
 | [Never Enough](https://open.spotify.com/track/7ySh518m4iC0CbOevgSwiq) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Never Enough](https://open.spotify.com/album/2xpTmjcxbEXMbYihh8gW3J) | 4:32 | 2020-07-18 | 2022-07-31 |
 | [Never Enough \- Nils Hoffmann Remix](https://open.spotify.com/track/2lYzqfomy4FMguY7Fau75F) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Never Enough \(Nils Hoffmann Remix\)](https://open.spotify.com/album/672AwGvFURHyltrgpHhaNG) | 3:43 | 2020-11-13 | 2021-08-28 |
 | [Never Give Up](https://open.spotify.com/track/2p0FewtVb0Y9davyTsUWOz) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/61tLxNTbuKTr7W6LpWUHWa) | 3:51 | 2022-07-01 | 2022-10-13 |
-| [Never Give Up](https://open.spotify.com/track/5Akfx0bwY4my2qBOU5I21r) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/4GiBecmDgFgo39XRndhbsB) | 3:51 | 2022-09-09 |  |
+| [Never Give Up](https://open.spotify.com/track/5Akfx0bwY4my2qBOU5I21r) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/4GiBecmDgFgo39XRndhbsB) | 3:51 | 2022-09-09 | 2023-05-02 |
 | [Never Give Up](https://open.spotify.com/track/6WxcciullH40H7bbGbDXlq) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/1eXLLaCD8XeZhgH42izzJW) | 3:51 | 2020-08-20 | 2022-07-29 |
 | [Never Give Up \- Lost Frequencies Remix](https://open.spotify.com/track/6CNRmI90TbN9KVYx3S8h7x) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Never Give Up \(Lost Frequencies Remix\)](https://open.spotify.com/album/7ilTXcTbf4Uh3VKUhla0AJ) | 4:28 | 2020-07-18 | 2020-10-09 |
 | [Never Saw You](https://open.spotify.com/track/5ZlIJOIrTc4alt9D5n1RXM) | [Bitless](https://open.spotify.com/artist/56uoTzC17WL6oiqGBAnH6h), [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:37 | 2020-03-17 | 2020-10-09 |

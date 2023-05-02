@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-579 songs - 2 day 3 hr 7 min
+581 songs - 2 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Losing Too Is Still Ours](https://open.spotify.com/track/4zZYAcXi89kdtUsqtIuUeu) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ), [YATTA](https://open.spotify.com/artist/111QPtbpDlO2bvIFI51bVD) | [Losing Too Is Still Ours](https://open.spotify.com/album/0ncryeoGcIJtYx5xyrjRwi) | 6:58 | 2021-10-20 | 2022-07-28 |
 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 | 2021-10-20 |  |
 | [Lost Map / The Hawk](https://open.spotify.com/track/3wBkDs9bRmlVapJuwBsdB6) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08pEXTrrE2pbbmCMlFP1ZL) | 3:48 | 2021-10-20 | 2022-04-21 |
-| [Lost Map / The Hawk](https://open.spotify.com/track/6NdyROBkv44qzVCOjhci0s) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5u01KhbXPKdwXKDkjyl7Am) | 3:48 | 2021-10-20 |  |
+| [Lost Map / The Hawk](https://open.spotify.com/track/6NdyROBkv44qzVCOjhci0s) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5u01KhbXPKdwXKDkjyl7Am) | 3:48 | 2021-10-20 | 2023-05-02 |
 | [LSD Superhero](https://open.spotify.com/track/68rF8EIqQhXAZUnT2z3vnF) | [Piezo](https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM) | [LSD Superhero](https://open.spotify.com/album/0UIe5wti37P33mVU499vL6) | 5:06 | 2022-04-06 | 2022-05-18 |
 | [Magnetic Ghosts](https://open.spotify.com/track/2ojJsoPrYKwLsZEPjxOk8E) | [Mars89](https://open.spotify.com/artist/5RtVtFkrk7Teybt7WGZDGK) | [New Dawn](https://open.spotify.com/album/0kqdpr9PmvVLEdGuv0gQql) | 4:11 | 2021-10-20 | 2022-07-26 |
 | [Mammatus](https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Mammatus](https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5) | 3:54 | 2022-02-18 | 2022-08-17 |
@@ -323,6 +323,7 @@
 | [Memory Training Gamma](https://open.spotify.com/track/7FqzKYClGACfIYBRvm3zWS) | [Isotopic Dreams](https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8) | [Binaural Brainwaves Gamma](https://open.spotify.com/album/590xwIqVQdmbaiH59TDI9N) | 3:18 | 2021-10-20 |  |
 | [Meridian](https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb) | [Joanne Forman](https://open.spotify.com/artist/1KpISDZpqZArxpPqDxGR4S) | [Cave Vaults of the Moon](https://open.spotify.com/album/1VLJuqs7iwhsPvGZOyvB49) | 2:58 | 2021-10-20 | 2023-03-21 |
 | [Mexico \(una pirámide al revés\)](https://open.spotify.com/track/63J4sJXJ3FZAH6I5wlZVv8) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 2:57 | 2021-10-20 | 2022-06-20 |
+| [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2022-03-18 |  |
 | [Microtronics 20](https://open.spotify.com/track/7wj3TuI2wAzwHDWkp0bCVr) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/5P4pg6W3wwI04pstGDQJ8O) | 1:35 | 2022-03-18 | 2023-02-03 |
 | [Milliseconds](https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Milliseconds](https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0) | 2:57 | 2021-10-20 |  |
 | [Mira](https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS) | [Eternell](https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9) | [Mira](https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC) | 18:08 | 2022-02-18 | 2023-01-04 |
@@ -378,6 +379,7 @@
 | [Parlama](https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec) | [Konduku](https://open.spotify.com/artist/64v9ctTSV0oUJeZTFBoosp) | [Parlama](https://open.spotify.com/album/0jPL6TkST7UH2Zu9hobEpp) | 8:35 | 2021-10-20 | 2022-07-17 |
 | [Path 5 \(delta\)](https://open.spotify.com/track/3izYqkzqnPu8SctUNeyne2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [From Sleep](https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT) | 11:14 | 2021-10-20 |  |
 | [Peace II](https://open.spotify.com/track/0GwPEYRVUiMAhm6mbz0reM) | [Dallas Acid](https://open.spotify.com/artist/1xAG4AeOmO97QdYhoW01EA), [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Dallas Acid's Bubble Club, Vol\. I](https://open.spotify.com/album/0Gja3Ui5XLocjvdi5g8Xn9) | 5:22 | 2021-10-20 | 2022-07-29 |
+| [People On Sunday](https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 | 2021-10-20 |  |
 | [People On Sunday](https://open.spotify.com/track/6gsHs8YnmYgj14Seft55PN) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People on Sunday](https://open.spotify.com/album/5ia6LeaizcrUEwWs9koCcL) | 3:45 | 2021-10-20 | 2023-04-30 |
 | [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4e2kZbzHiRIVqkgCrhRacI) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3) | 11:18 | 2021-10-20 |  |
 | [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s) | 11:18 | 2021-10-20 | 2023-02-02 |
@@ -560,7 +562,7 @@
 | [Uqugella](https://open.spotify.com/track/1GC9GHrhIOKCnPDaSA4a8E) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:18 | 2021-10-20 |  |
 | [V10](https://open.spotify.com/track/5YdRmDSQuVYLYM7UI7t2yT) | [ADAM TK](https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1) | [V10](https://open.spotify.com/album/5lCsk2PbLJc0H2VfDuDODU) | 3:01 | 2021-10-20 | 2022-05-23 |
 | [V4.3 pt\. 2](https://open.spotify.com/track/315NEEn9ZZupYATwDKb88G) | [Luca Yupanqui](https://open.spotify.com/artist/3b6IYA5Lih1o84q7gt6KR3) | [V4.3 pt\. 2](https://open.spotify.com/album/2ATPMcZ2PVf5dGTGKtg4mA) | 4:29 | 2021-10-20 | 2022-07-28 |
-| [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 | 2021-10-20 |  |
+| [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 | 2021-10-20 | 2023-05-02 |
 | [Variables \- 1976](https://open.spotify.com/track/0aBe5X0U7ZqNh01Hd4SHbB) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Variables \- 1976](https://open.spotify.com/album/3ievgMpSPFMO5uoohGRkP2) | 2:47 | 2021-10-20 | 2022-04-18 |
 | [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 | 2022-09-26 | 2023-04-29 |
 | [Vespera](https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:01 | 2021-10-20 |  |

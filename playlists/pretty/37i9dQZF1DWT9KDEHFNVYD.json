@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 9380,
+  "num_followers": 9406,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWMxMTc0OWI5ZWE1ZjRkZTE0ZGEzN2FjZjVkMTFhMzgyOTc4OTQ2",
+  "snapshot_id": "MCxkZDkxODczOTU4YTQwYjhiYzJhNGVjYzIwNjE5NWE2MjFlN2E4NzM2",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Mars Audiac Quintet",
-        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Wow And Flutter",
-      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Inform - Educate - Entertain",
         "url": "https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 236746,
       "name": "Blankenship",
       "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Mars Audiac Quintet",
+        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Wow And Flutter",
+      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Flying Microtonal Banana",
+        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 468093,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 202260,
       "name": "You Look Certain (I\u2019m Not So Sure)",
       "url": "https://open.spotify.com/track/4ZW7w36xfKuH5KndE37s5C"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Flying Microtonal Banana",
-        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 468093,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Knickerbocker",
-      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 272840,
       "name": "\u30ad\u30e5\u30fc",
       "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Knickerbocker",
+      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
     },
     {
       "added_at": "2022-08-09 01:36:21",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Love Builds Up",
+      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
         "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 334979,
       "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
       "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Love Builds Up",
-      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
     },
     {
       "added_at": "2023-01-25 02:05:47",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 266120,
-      "name": "No Spell",
-      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -807,34 +791,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+        "name": "Floating Coffin",
+        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Primary Colours",
-        "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
-      },
-      "artists": [
-        {
-          "name": "The Horrors",
-          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
-        }
-      ],
-      "duration_ms": 478493,
-      "name": "Sea Within a Sea",
-      "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
+      "duration_ms": 266120,
+      "name": "No Spell",
+      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -855,18 +823,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Primary Colours",
+        "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
+      "duration_ms": 478493,
+      "name": "Sea Within a Sea",
+      "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -883,6 +867,22 @@
       "duration_ms": 225440,
       "name": "Red Sails - 2017 Remaster",
       "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Codes and Keys",
+        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 337346,
+      "name": "Doors Unlocked and Open",
+      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
     },
     {
       "added_at": "2022-03-29 02:06:14",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Codes and Keys",
-        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 337346,
-      "name": "Doors Unlocked and Open",
-      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 220238,
       "name": "Fluffy Kosmisch",
       "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 346883,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Zuckerzeit",
         "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 141160,
       "name": "Hei\u00dfe Lippen",
       "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 346883,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
-        }
-      ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Ege Bamyasi (Remastered Version)",
         "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 335199,
       "name": "One More Night - 2004 Remastered Version",
       "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
     },
     {
       "added_at": "2022-01-20 20:59:43",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Sandtrommel",
-      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Creatures of an Hour",
         "url": "https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 247453,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/46mHT32vVGfPDqvzb38YBR"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "duration_ms": 386173,
+      "name": "Sandtrommel",
+      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/1LzKdWtzTpcmed7BnCR1id"
     },
     {
-      "added_at": "2021-12-07 05:18:52",
-      "album": {
-        "name": "Ookii Gekkou",
-        "url": "https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 172893,
-      "name": "Tub Erupt",
-      "url": "https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Anthology (Remastered Version)",
@@ -1535,6 +1519,22 @@
       "duration_ms": 396306,
       "name": "Mother Sky (from Deep End)",
       "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
+    },
+    {
+      "added_at": "2021-12-07 05:18:52",
+      "album": {
+        "name": "Ookii Gekkou",
+        "url": "https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "Tub Erupt",
+      "url": "https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1567,6 +1567,22 @@
       "duration_ms": 232146,
       "name": "Kraut",
       "url": "https://open.spotify.com/track/5ByCDTluMI9sZhwFAyj0Oc"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "NEU!",
+        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "duration_ms": 607426,
+      "name": "Hallogallo",
+      "url": "https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1631,22 +1647,6 @@
       "duration_ms": 319853,
       "name": "Yatton",
       "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Can't Get There EP",
-        "url": "https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 437250,
-      "name": "Can't Get There",
-      "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
     }
   ],
   "unique_name": "Krautrock Highway",

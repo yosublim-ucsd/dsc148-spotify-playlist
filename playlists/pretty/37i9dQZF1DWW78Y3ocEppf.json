@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Sy Ari Da Kid",
-  "num_followers": 41032,
+  "num_followers": 41073,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWZhMzA5MTYzYjhkNWEyNjU1NTk0MGQzYjcwNmZhNTNmNTFmZjYy",
+  "snapshot_id": "MCw1N2FjNmU5MTIxNWYxYzEzNWY4ZTE0OWJkMjYzNTkwMDRiZTcwOTky",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "How Does It Feel",
@@ -357,22 +341,6 @@
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 158420,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
-    },
-    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "Spotify Singles",
@@ -389,20 +357,36 @@
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 158420,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -419,6 +403,22 @@
       "duration_ms": 181830,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -521,20 +521,20 @@
       "url": "https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
       },
       "artists": [
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 172131,
-      "name": "Make Me Stay",
-      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+      "duration_ms": 201621,
+      "name": "Feature Me",
+      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 172131,
+      "name": "Make Me Stay",
+      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Since I Have A Lover",
@@ -567,22 +583,6 @@
       "duration_ms": 184200,
       "name": "Talkback",
       "url": "https://open.spotify.com/track/616rALOBxvc3bbp38iiud5"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Feature Me",
-      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
     },
     {
+      "added_at": "2022-10-14 05:33:57",
+      "album": {
+        "name": "Figures",
+        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 152590,
+      "name": "Figures",
+      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
+    },
+    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Working On My Karma",
@@ -799,22 +815,6 @@
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
-    },
-    {
-      "added_at": "2022-10-14 05:33:57",
-      "album": {
-        "name": "Figures",
-        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 152590,
-      "name": "Figures",
-      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
       "added_at": "2022-08-26 04:41:34",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Archives & Lullabies",
-        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 211384,
-      "name": "Nurture",
-      "url": "https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Kissing On Your Tattoos",
@@ -1005,6 +989,22 @@
       "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Archives & Lullabies",
+        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 211384,
+      "name": "Nurture",
+      "url": "https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu"
+    },
+    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Bout Mine",
@@ -1019,6 +1019,22 @@
       "duration_ms": 147613,
       "name": "Bout Mine",
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Songs for Women, Free Game for Niggas - EP",
+        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 168000,
       "name": "Sum 2 See",
       "url": "https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Songs for Women, Free Game for Niggas - EP",
-        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
-      },
-      "artists": [
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 181911,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1129,26 +1129,6 @@
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Lost In Melody (Deluxe)",
-        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 144869,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
-    },
-    {
       "added_at": "2022-09-23 04:09:12",
       "album": {
         "name": "Public Displays Of Affection: The Album",
@@ -1183,6 +1163,26 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Lost In Melody (Deluxe)",
+        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 144869,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 166472,
-      "name": "Put You On",
-      "url": "https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "$weet n $our",
@@ -1339,6 +1323,22 @@
       "duration_ms": 183588,
       "name": "$weet n $our",
       "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 166472,
+      "name": "Put You On",
+      "url": "https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "DOWN BAD",
+      "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Life",
@@ -1453,20 +1469,20 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+        "name": "uni",
+        "url": "https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
         }
       ],
-      "duration_ms": 141428,
-      "name": "DOWN BAD",
-      "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
+      "duration_ms": 168000,
+      "name": "uni",
+      "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1487,22 +1503,6 @@
       "duration_ms": 136813,
       "name": "The One",
       "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "uni",
-        "url": "https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "uni",
-      "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Forgotten Flowers",
-        "url": "https://open.spotify.com/album/1fqJVOKRj2A4nBmVAoDFLK"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 190188,
-      "name": "Worked Up",
-      "url": "https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "flora + fana",
@@ -1639,6 +1623,22 @@
       "duration_ms": 164163,
       "name": "pieces",
       "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Forgotten Flowers",
+        "url": "https://open.spotify.com/album/1fqJVOKRj2A4nBmVAoDFLK"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 190188,
+      "name": "Worked Up",
+      "url": "https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1677,6 +1677,22 @@
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Cold Toronto",
+        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Fell Asleep",
+      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Standards",
@@ -1693,20 +1709,20 @@
       "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-11-04 06:34:53",
       "album": {
-        "name": "Cold Toronto",
-        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
       },
       "artists": [
         {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
         }
       ],
-      "duration_ms": 157808,
-      "name": "Fell Asleep",
-      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
+      "duration_ms": 158661,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1727,22 +1743,6 @@
       "duration_ms": 180013,
       "name": "Pressure - Remix",
       "url": "https://open.spotify.com/track/36TzL54XxuCR91U5wBSR6h"
-    },
-    {
-      "added_at": "2022-11-04 06:34:53",
-      "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
-      },
-      "artists": [
-        {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
-        }
-      ],
-      "duration_ms": 158661,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     }
   ],
   "unique_name": "Some Kinda Way",

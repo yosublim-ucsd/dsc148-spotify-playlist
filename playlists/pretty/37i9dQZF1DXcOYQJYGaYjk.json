@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 224228,
+  "num_followers": 224222,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjcyMjdmNjE1M2VkYWNhMzZiNzhmYWY0M2MwNGNhNDg3YzY3Y2E4",
+  "snapshot_id": "MCw2MzU3M2I1MWI0MGI5NGFiZDhiYjJlNDM4MThiY2U1MDU1ZmZjNTQ1",
   "tracks": [
     {
       "added_at": "2022-12-15 16:14:29",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Sad But True (Remastered)",
-      "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Sad But True (Remastered)",
+      "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 281332,
-      "name": "The Black",
-      "url": "https://open.spotify.com/track/6GoHTm0vZGTcs7I87HUIdX"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 299106,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 281332,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/6GoHTm0vZGTcs7I87HUIdX"
     },
     {
       "added_at": "2022-12-15 16:14:29",

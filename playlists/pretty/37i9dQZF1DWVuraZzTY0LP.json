@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 317281,
+  "num_followers": 317348,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGI0NmQ4MTNhYmEwZGYzMDE1NjVjNjFhNTlmNTIyMTRiOGY3MmJh",
+  "snapshot_id": "MCwxODIyYzIxNTY0YTc3ZDk3NThiYTVlMjU0YzBhYmVlZGI1ZmQ3Yzkx",
   "tracks": [
     {
       "added_at": "2023-03-31 20:17:41",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2023-03-31 20:17:41",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 244146,
+      "name": "Cosmic Girl - Remastered",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 204920,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Cosmic Girl - Remastered",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
       "added_at": "2023-03-31 20:17:41",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
       },
@@ -771,22 +755,6 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
-        "name": "Br\u00fajula",
-        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 252661,
-      "name": "Br\u00fajula",
-      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
         "name": "Eucalyptus",
         "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 264960,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
+        "name": "Br\u00fajula",
+        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 252661,
+      "name": "Br\u00fajula",
+      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
     },
     {
       "added_at": "2023-03-31 20:17:41",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
-        "name": "Paranoia Pop",
-        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 219386,
-      "name": "Sin Se\u00f1al",
-      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/0j0djiGxLnBiW7meVc2PER"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 252800,
       "name": "Because I\u2019m Me",
       "url": "https://open.spotify.com/track/3f3HHRPF5vAo90GwdpDMaQ"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 219386,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
     },
     {
       "added_at": "2023-03-31 20:17:41",

@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-302 songs - 19 hr 1 min
+303 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Joy! He Shall Reign](https://open.spotify.com/track/5sSYPQhy2vUqEyUpabt9QP) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Joy! He Shall Reign](https://open.spotify.com/album/2hpGum3ctcqVd7IdKQS1ul) | 3:24 | 2021-12-24 | 2023-03-21 |
 | [Joyful, Joyful](https://open.spotify.com/track/1lu6ScmSxrsI0J2FzjohGw) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Away In A Manger](https://open.spotify.com/album/4ZENQNgVwl7qkgHIhmDOk6) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [Just A Breath Away \(Noel\) \- Radio Version](https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Just A Breath Away \(Noel\) \[Radio Version\]](https://open.spotify.com/album/2BIt2v8Y5YJ3o1gzZy8i7B) | 3:10 | 2021-12-24 | 2022-11-27 |
-| [Just a Girl](https://open.spotify.com/track/0grZxMpNFzHwF8nJ0HG9QU) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Christmas is Here](https://open.spotify.com/album/4SguiqcjQJJgPx9Hxyo5Se) | 4:24 | 2021-12-24 |  |
+| [Just a Girl](https://open.spotify.com/track/0grZxMpNFzHwF8nJ0HG9QU) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Christmas is Here](https://open.spotify.com/album/4SguiqcjQJJgPx9Hxyo5Se) | 4:24 | 2021-12-24 | 2023-05-02 |
 | [King Of Heaven \- Live Rehearsal Demo](https://open.spotify.com/track/0o1a9ZzvvlFQBfGiDw16Xs) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [King Of Heaven \(Live Rehearsal Demo\)](https://open.spotify.com/album/2N0bmSOL15oq6vaHdls8q0) | 4:21 | 2021-12-24 | 2022-07-26 |
 | [Last Christmas With You](https://open.spotify.com/track/4EIsjsmCaoEK0MNSjfTCBq) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Last Christmas With You](https://open.spotify.com/album/0PWwUOsXl9ahnZabFIXtjL) | 3:29 | 2021-12-24 | 2022-07-29 |
 | [Let It Snow](https://open.spotify.com/track/2gDaavv4tjpA26YqLQegPR) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 2:52 | 2021-12-24 | 2022-07-26 |
@@ -282,6 +282,7 @@
 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 | 2022-11-26 |  |
 | [Virgin Mary Had One Son](https://open.spotify.com/track/718r6aSGVq5NXy2lP7JS6l) | [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Virgin Mary Had One Son](https://open.spotify.com/album/3dt28d9gqa65F8letCwdBF) | 2:44 | 2021-12-24 | 2022-07-28 |
 | [Waiting For The Dawn](https://open.spotify.com/track/7yia78B3ZYKjXqObGTdSfS) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 3:44 | 2021-12-24 | 2022-07-24 |
+| [We Bow](https://open.spotify.com/track/49pJVkJhuISvkHBY65K6RG) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif), [Isa Ma](https://open.spotify.com/artist/0pWvGTyszb31m9wq2cLlJ0), [Astyn Turr](https://open.spotify.com/artist/2By37PSkMs1WNuiTY0CbQl) | [We Bow / Christmas Is Here](https://open.spotify.com/album/5XDAp6GrTOpatrrFuz30HB) | 3:48 | 2022-12-11 |  |
 | [We Need Christmas](https://open.spotify.com/track/6FmtDq0oN2cHJqvS0VWBRU) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [We Need Christmas](https://open.spotify.com/album/0zs3lYAdLSFv6wXkzEfqAx) | 3:54 | 2021-12-24 |  |
 | [We Need Emmanuel](https://open.spotify.com/track/7ugp3qjriKzWj1Kluj0Awc) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [We Need Emmanuel](https://open.spotify.com/album/1iagly9M3C91gzkNAJSWZz) | 3:48 | 2021-12-24 | 2022-12-02 |
 | [We the Three \(feat\. the Ambassador, G.O.D\. Sent & Ad3\)](https://open.spotify.com/track/3cBjMpGwfxrJuLPSKM1HPO) | [God's Servant](https://open.spotify.com/artist/1wWqAErHj6qWBueakRoMWz), [The Ambassador ](https://open.spotify.com/artist/7CsXxTT7EPJbBT0FaIDVWJ), [God Sent](https://open.spotify.com/artist/4DPlSm8XoLpuEx9630gZVJ), [AD3](https://open.spotify.com/artist/4UfOr0WKTGClsUCMCPICqx) | [The Christ of Christmas](https://open.spotify.com/album/3C3ULfKYlsC809t6QOCGEf) | 5:22 | 2021-12-24 | 2022-07-21 |

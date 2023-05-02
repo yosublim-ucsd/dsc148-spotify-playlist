@@ -4,11 +4,12 @@
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-104 songs - 5 hr 36 min
+105 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 | 2022-06-27 |  |
+| [1990](https://open.spotify.com/track/12vuqOqhkajHyhQgRQEG4h) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 3:27 | 2022-12-22 |  |
+| [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 | 2022-06-27 | 2023-05-02 |
 | [1990](https://open.spotify.com/track/7CTCnEu2LljIX5pUyY1MLq) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/2gqPdcjJINsjtfs74t5OYg) | 3:27 | 2021-11-11 | 2022-07-29 |
 | [Agua](https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Agua](https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V) | 3:48 | 2021-11-11 |  |
 | [AMAME](https://open.spotify.com/track/3ynkDyWXMgspdVxrp022vu) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 3:39 | 2022-06-01 |  |

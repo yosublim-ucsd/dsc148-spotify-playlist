@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lost x Loud
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,167 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,182 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 |
 | 75 | [NHN](https://open.spotify.com/track/0DfrSA7A8vdk8rDCUlBNac) | [Kay Bandz](https://open.spotify.com/artist/0NhcQOX46LVhK8aUc4vmMd), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [NHN](https://open.spotify.com/album/7s2LzVU7OEMJbKW4DUYsBJ) | 3:44 |
 
-Snapshot ID: `MCwxYTU4ZDk1YWJjZTRjY2FhY2M1ZDMxM2RkM2QyNGY2MTY1OTY0YmM1`
+Snapshot ID: `MCwzMzNiMzYxMmY3YjUzODE1ZTMzZDBlN2ZmMzUxYTUwMWI1NDI0MzI2`

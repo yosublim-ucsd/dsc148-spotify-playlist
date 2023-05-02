@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 5136,
+  "num_followers": 5153,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQzMjhmMjM4ZjJiMzdmMTNlZDVmZGZjYjc1MjI4NWVlN2MwYWE4",
+  "snapshot_id": "MCw3NjFhM2U0MDMwOWQyMjUzMzhlMjNhYzY3ZDI2ZGRkZTg3OGUzMDM0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -215,26 +215,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 218072,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Touch Me (feat. Kehlani) [Remix]",
         "url": "https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 187951,
       "name": "Touch Me (feat. Kehlani) - Remix",
       "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 218072,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "NEON PEACH feat. Tyler, The Creator",
-      "url": "https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Back At Sixes And Sevens",
         "url": "https://open.spotify.com/album/3QX0G9KLHXd84busDSiJxq"
       },
@@ -347,22 +327,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Pick Up Your Feelings",
-      "url": "https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Out The Way",
         "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
       },
@@ -375,6 +339,26 @@
       "duration_ms": 155414,
       "name": "Out The Way",
       "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "NEON PEACH feat. Tyler, The Creator",
+      "url": "https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -415,22 +399,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 191453,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Call Your Name",
         "url": "https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K"
       },
@@ -443,6 +411,38 @@
       "duration_ms": 196082,
       "name": "Call Your Name",
       "url": "https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Pick Up Your Feelings",
+      "url": "https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 191453,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Serial",
+        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 227535,
+      "name": "Serial",
+      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Under Twenty Five",
         "url": "https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 251831,
       "name": "Nah It Ain't The Same",
       "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Serial",
-        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 227535,
-      "name": "Serial",
-      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105?si=DwxKMXoLT8WWzxBhWNLNyA">Darque</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,551 likes - 49 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,573 likes - 49 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 48 | [Down To Earth](https://open.spotify.com/track/1qylaDunQs1eEcDN5m1ZpE) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [Down To Earth](https://open.spotify.com/album/7sGpOYniLG9vzBH898x5kj) | 3:37 |
 | 49 | [When I'm Alone](https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [When I'm Alone](https://open.spotify.com/album/4UMsTVhkLkDmUj02ttuAva) | 3:20 |
 
-Snapshot ID: `MCw3ZGZjYjVjNDA1OGQyYTUwYTQ4OTg4Zjc1YWI5NjY5NDYxZDYwOGI4`
+Snapshot ID: `MCxjNzg0ZjZkYjE2M2YwODJmOTdhYTEwNzQ4MWNjYTUxMWRkODgwZTdk`

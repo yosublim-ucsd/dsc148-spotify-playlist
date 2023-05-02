@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8?si=vP0eIU3oQ5yoPz8e\_DOM\_g">Samuel Troc</a> y <a href="https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l?si=e159b1f6c7bd4718">Pedro Pablo Quintero</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,208 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,262 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Ven Avívanos](https://open.spotify.com/track/5MZUbhVPuW6Jr5dd34ypj1) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Ven Avívanos](https://open.spotify.com/album/0y5ql9mxvvTP26KTflh18d) | 5:19 |
 | 100 | [Nadie Más Que Cristo](https://open.spotify.com/track/4UN2rWfJNWe2fhBzpaNusm) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Nadie Más Que Cristo](https://open.spotify.com/album/2r0xGUzehk4JId9ldrZVws) | 6:11 |
 
-Snapshot ID: `MCw0NzU0ZTBjYjNlNzllMDU4MzVmYzg4OGE1ZmNkYzY4MDUyZmU4N2Rl`
+Snapshot ID: `MCw5MjdhMzNiYjVlN2FjZDdhZGMyN2NlZGU0NmIyOGIzY2M1ZTM2YjIy`

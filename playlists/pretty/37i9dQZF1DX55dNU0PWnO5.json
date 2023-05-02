@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 551103,
+  "num_followers": 551205,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTc1OTVjOTBiYTI4MzdhZGFkZjgwYmZkMTY3ZjNjMTk2N2ZmOTEy",
+  "snapshot_id": "MCwyMGUxMjQyZDgzZTM3Mjk3YjEyOTQ2Y2ExZTBlYmQzMDY5YzQwNDA1",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Flowers, a snail & insects",
-        "url": "https://open.spotify.com/album/5sb5ksvhXh2qGwvFQdAYs4"
-      },
-      "artists": [
-        {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Flowers, a snail & insects",
-      "url": "https://open.spotify.com/track/7DULILmYwre0P5BvZRU9uy"
-    },
-    {
       "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Clap Clap",
@@ -355,6 +339,22 @@
       "duration_ms": 159145,
       "name": "Clap Clap",
       "url": "https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Flowers, a snail & insects",
+        "url": "https://open.spotify.com/album/5sb5ksvhXh2qGwvFQdAYs4"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Flowers, a snail & insects",
+      "url": "https://open.spotify.com/track/7DULILmYwre0P5BvZRU9uy"
     },
     {
       "added_at": "2021-03-12 05:00:00",
@@ -661,10 +661,10 @@
       "url": "https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2022-02-11 18:57:20",
       "album": {
-        "name": "Above Us",
-        "url": "https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa"
+        "name": "4 Rooms",
+        "url": "https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Above Us",
-      "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
+      "duration_ms": 164000,
+      "name": "Can We? Take A Break",
+      "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Above Us",
+        "url": "https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Above Us",
+      "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
+    },
+    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Andromeda Style Fuunk",
@@ -787,22 +803,6 @@
       "duration_ms": 131006,
       "name": "Lift Off For AJ",
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
-    },
-    {
-      "added_at": "2022-02-11 18:57:20",
-      "album": {
-        "name": "4 Rooms",
-        "url": "https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Can We? Take A Break",
-      "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
     },
     {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Moonlight Love Affair",
+        "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Dirty Mariposa",
+      "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
+    },
+    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Phoenix & Panther",
@@ -915,22 +931,6 @@
       "duration_ms": 239373,
       "name": "Phoenix & Panther",
       "url": "https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Moonlight Love Affair",
-        "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Dirty Mariposa",
-      "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -989,38 +989,6 @@
       "url": "https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "CRNGGLS.MMBL",
-        "url": "https://open.spotify.com/album/5MhXEMFIHl9n9so6jTQr17"
-      },
-      "artists": [
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Damon the Soulful Samurai",
-          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
-        },
-        {
-          "name": "Nicholas Frank",
-          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
-        },
-        {
-          "name": "Zach Connolly",
-          "url": "https://open.spotify.com/artist/3YZtQ3UMdy3J93vmfZcrFO"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "CRNGGLS.MMBL",
-      "url": "https://open.spotify.com/track/1SKjqHcwSnSEPZDKXxDtLa"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Between Days",
@@ -1053,6 +1021,38 @@
       "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "CRNGGLS.MMBL",
+        "url": "https://open.spotify.com/album/5MhXEMFIHl9n9so6jTQr17"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Damon the Soulful Samurai",
+          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
+        },
+        {
+          "name": "Nicholas Frank",
+          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
+        },
+        {
+          "name": "Zach Connolly",
+          "url": "https://open.spotify.com/artist/3YZtQ3UMdy3J93vmfZcrFO"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "CRNGGLS.MMBL",
+      "url": "https://open.spotify.com/track/1SKjqHcwSnSEPZDKXxDtLa"
+    },
+    {
       "added_at": "2021-07-09 04:02:00",
       "album": {
         "name": "Northbound",
@@ -1071,6 +1071,22 @@
       "duration_ms": 135999,
       "name": "Northbound",
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Deep in the Pocket",
+        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
+      },
+      "artists": [
+        {
+          "name": "Pablo Queu",
+          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
+        }
+      ],
+      "duration_ms": 224971,
+      "name": "Kountdown",
+      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 197677,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
-    },
-    {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Deep in the Pocket",
-        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
-      },
-      "artists": [
-        {
-          "name": "Pablo Queu",
-          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
-        }
-      ],
-      "duration_ms": 224971,
-      "name": "Kountdown",
-      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1181,26 +1181,6 @@
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Sunday Kitchen",
-        "url": "https://open.spotify.com/album/3NAy0t6DbSOe87qphwWo9x"
-      },
-      "artists": [
-        {
-          "name": "U-zhaan",
-          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
-        },
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Sunday Kitchen",
-      "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
-    },
-    {
       "added_at": "2022-11-11 05:01:00",
       "album": {
         "name": "Childhood Memories (Remix)",
@@ -1219,6 +1199,26 @@
       "duration_ms": 278226,
       "name": "Childhood Memories - Remix",
       "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Sunday Kitchen",
+        "url": "https://open.spotify.com/album/3NAy0t6DbSOe87qphwWo9x"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        },
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Sunday Kitchen",
+      "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1251,42 +1251,6 @@
       "duration_ms": 347368,
       "name": "Carlyle Clyde",
       "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Tin Tin Deo (NerdStar Remix)",
-        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "NerdStar",
-          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
-        }
-      ],
-      "duration_ms": 202900,
-      "name": "Tin Tin Deo - NerdStar Remix",
-      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "lamplighting",
-        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
-      },
-      "artists": [
-        {
-          "name": "Wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
-        }
-      ],
-      "duration_ms": 139419,
-      "name": "lamplighting",
-      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1327,6 +1291,42 @@
       "duration_ms": 184545,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Tin Tin Deo (NerdStar Remix)",
+        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "NerdStar",
+          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
+        }
+      ],
+      "duration_ms": 202900,
+      "name": "Tin Tin Deo - NerdStar Remix",
+      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "lamplighting",
+        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
+      },
+      "artists": [
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "duration_ms": 139419,
+      "name": "lamplighting",
+      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
     },
     {
       "added_at": "2021-02-26 00:47:37",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Night Lands",
-        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
-      },
-      "artists": [
-        {
-          "name": "Sunda Arc",
-          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
-        }
-      ],
-      "duration_ms": 308313,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
-    },
-    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Cloud Bounce",
@@ -1459,6 +1443,22 @@
       "duration_ms": 130000,
       "name": "Cloud Bounce",
       "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Night Lands",
+        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
+      },
+      "artists": [
+        {
+          "name": "Sunda Arc",
+          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
+        }
+      ],
+      "duration_ms": 308313,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Tiger's Den (Radio Edit)",
+        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 271375,
+      "name": "Tiger's Den - Radio Edit",
+      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Angels",
@@ -1511,38 +1527,6 @@
       "duration_ms": 128173,
       "name": "Angels",
       "url": "https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Tiger's Den (Radio Edit)",
-        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 271375,
-      "name": "Tiger's Den - Radio Edit",
-      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
-    },
-    {
-      "added_at": "2022-02-11 19:25:22",
-      "album": {
-        "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
-      },
-      "artists": [
-        {
-          "name": "delay_ok",
-          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
-        }
-      ],
-      "duration_ms": 361602,
-      "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 168393,
       "name": "2 FUNKY",
       "url": "https://open.spotify.com/track/5YC5hyGD9Mp7GY1Exqufp7"
+    },
+    {
+      "added_at": "2022-02-11 19:25:22",
+      "album": {
+        "name": "Modern Uganda",
+        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
+      },
+      "artists": [
+        {
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
+        }
+      ],
+      "duration_ms": 361602,
+      "name": "Yanavy Obaki",
+      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
     },
     {
       "added_at": "2021-05-14 04:01:00",

@@ -592,10 +592,28 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 204133,
       "name": "I Thank You",
       "url": "https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2"
+    },
+    {
+      "album": {
+        "name": "Chrome Smoke & BBQ: The ZZ Top Box",
+        "url": "https://open.spotify.com/album/3FZ3Hbn9rKDVn66EbpKypM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "I Thank You - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0GBxieUHB1YUPG0P6BnDzu"
     },
     {
       "album": {

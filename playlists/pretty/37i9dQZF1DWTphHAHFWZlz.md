@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,667 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,673 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 49 | [Vuelvo a Caer en un Túnel de Algodón](https://open.spotify.com/track/3DIc5vKYOGk2NuRt38RW9L) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Vuelvo a Caer en un Túnel de Algodón](https://open.spotify.com/album/5hhS5mk04GItOMqPvrhV23) | 3:19 |
 | 50 | [Cara\-Cola](https://open.spotify.com/track/7vWuIocPwLv0UYTREZwIFo) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [¿Qué Hacemos Con Todo Este Dinero?](https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX) | 3:01 |
 | 51 | [Mil Ballenas](https://open.spotify.com/track/6DOb9eIimGleR1Wrxn1X7h) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Mil Ballenas](https://open.spotify.com/album/4toKKyzfK5GAfwzRZopdDI) | 3:53 |
-| 52 | [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 |
+| 52 | [1990](https://open.spotify.com/track/12vuqOqhkajHyhQgRQEG4h) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 3:27 |
 | 53 | [Desde El Aire](https://open.spotify.com/track/33aREui72FtjhZjNYI0LrL) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2) | [Desde El Aire](https://open.spotify.com/album/2ZOgFqnfkHo7M8QFusU276) | 2:38 |
 | 54 | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/track/0pIsxvDSRvF3FLhWLALMgv) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [La Ciudad Nos Ilumina las Caras](https://open.spotify.com/album/6g3jnQwT91lVUzOydlZjqD) | 4:22 |
 | 55 | [Contale al Mundo](https://open.spotify.com/track/4O7e6tCSxIDQlX3I1Qe2en) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [Días Nuestros](https://open.spotify.com/album/2ZL8Em4DCh1zvSKb06zxHx) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 99 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:15 |
 | 100 | [Armagedón](https://open.spotify.com/track/1YAkwbM8f7yFRyu5OyG2xy) | [Camila López](https://open.spotify.com/artist/6VHcngSiHE3Y9Lzip0Dta2), [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Armagedón](https://open.spotify.com/album/0ubs2oQKjr2uLaSifiIapF) | 3:01 |
 
-Snapshot ID: `MCwwN2JhNjc1YWU1NTU0ODMzNWQyMjJhZTk0ZjkyNzQzMzdlNmJhNDg2`
+Snapshot ID: `MCxlMTU4MTU4YjYzYmRkYmM0MGNkNzEwYTZmZDE2YTUwNTRhYTEyOTIy`

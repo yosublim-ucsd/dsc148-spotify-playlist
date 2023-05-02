@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,073 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,134 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 24 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
 | 25 | [What You Do To Me](https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [What You Do To Me](https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR) | 2:34 |
 | 26 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY) | 2:30 |
-| 27 | [Run Till Dark \(with Now United\) \(Arcando Remix\)](https://open.spotify.com/track/6D9sUOLZ8BW9HVQoiKh3Pb) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [Run Till Dark \(with Now United\) \(Arcando Remix\)](https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG) | 3:06 |
-| 28 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
+| 27 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
+| 28 | [Run Till Dark \(with Now United\) \(Arcando Remix\)](https://open.spotify.com/track/6D9sUOLZ8BW9HVQoiKh3Pb) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [Run Till Dark \(with Now United\) \(Arcando Remix\)](https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG) | 3:06 |
 | 29 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
 | 30 | [Paperplanes](https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Paperplanes](https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V) | 3:30 |
 | 31 | [There's Another Life 4 U](https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:33 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 40 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 |
 | 41 | [Beautiful Morning](https://open.spotify.com/track/7hETh8TWWZ5u2oI0OhieCL) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 3:07 |
 | 42 | [Save a Soul](https://open.spotify.com/track/7bDDYji600PxR0F921ctVN) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Woods](https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F) | 4:22 |
-| 43 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 |
-| 44 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 |
-| 45 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
+| 43 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
+| 44 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 |
+| 45 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 |
 | 46 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 |
 | 47 | [Rosa](https://open.spotify.com/track/6K3TfsDV3CPDnVmsv1dkqb) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Rosa](https://open.spotify.com/album/01f7LtCEJXug2iAI1wkmTf) | 3:52 |
 | 48 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 |
 | 49 | [Better When You're Here](https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Better When You're Here](https://open.spotify.com/album/6iaLrXWXvl0yFGhN6xR5z5) | 3:20 |
 | 50 | [Her](https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Her](https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95) | 3:31 |
 
-Snapshot ID: `MCwzZjhiY2Y5MGM0ZTZiZThkZGI5N2RjZGQ5NmY0OWZiNzFjOWUzNTk4`
+Snapshot ID: `MCxjZWM5NzFmNzEzZTQwODM4NGIyOWRhODkyMzUxYWM4YjlmZDBhZjIx`

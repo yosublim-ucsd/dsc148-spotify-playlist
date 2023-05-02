@@ -2499,6 +2499,40 @@
     },
     {
       "album": {
+        "name": "MBAPP\u00c9 (Restricted & Sunset Bros Remix) [feat. JAY1 & KAHUKX]",
+        "url": "https://open.spotify.com/album/4FHgGUbR5QZxu31GYYqS3V"
+      },
+      "artists": [
+        {
+          "name": "Day1",
+          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
+        },
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Sunset Bros",
+          "url": "https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ"
+        },
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        },
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132004,
+      "name": "MBAPP\u00c9 (Restricted & Sunset Bros Remix) [feat. JAY1 & KAHUKX]",
+      "url": "https://open.spotify.com/track/63VejDiw2j8qvNIHWcAVwN"
+    },
+    {
+      "album": {
         "name": "MDMA (Caps Should Be A Human Right)",
         "url": "https://open.spotify.com/album/4FnI8i77dSwbkXiDes7rhr"
       },

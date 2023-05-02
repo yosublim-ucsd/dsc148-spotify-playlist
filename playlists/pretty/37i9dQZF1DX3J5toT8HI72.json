@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.",
-  "num_followers": 767887,
+  "num_followers": 767989,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2I4YmJkMDNlNGM5Njc2YjdiM2FjMWNhOWFiYjUwZGJjNTFiZDlj",
+  "snapshot_id": "MCxmNmVhYmI2OGU1ZWYzOGMyYWNiNTJhZmFmZWI5MGI4Y2NkOWE2Y2M2",
   "tracks": [
     {
       "added_at": "2021-09-03 03:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Esmeraldas (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "A noite",
-      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 210889,
       "name": "Ouvi Dizer",
       "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Esmeraldas (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A noite",
+      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 254520,
-      "name": "Voc\u00ea me faz t\u00e3o bem",
-      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Troco Likes",
         "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 257847,
       "name": "Amei Te Ver",
       "url": "https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 254520,
+      "name": "Voc\u00ea me faz t\u00e3o bem",
+      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Totalmente Seu",
+      "url": "https://open.spotify.com/track/2WxFuSpORAwJ1XNDeBMSg9"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
         "name": "J\u00fapiter",
         "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
       },
@@ -551,18 +567,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+        "name": "Ofert\u00f3rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
         }
       ],
-      "duration_ms": 132306,
-      "name": "Totalmente Seu",
-      "url": "https://open.spotify.com/track/2WxFuSpORAwJ1XNDeBMSg9"
+      "duration_ms": 176562,
+      "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
+      "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -595,26 +615,6 @@
       "duration_ms": 264257,
       "name": "Solu\u00e7\u00e3o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2iO6rLYnDiMJqioCefh395"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
-        "name": "Ofert\u00f3rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        }
-      ],
-      "duration_ms": 176562,
-      "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
-      "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Juliette",
         "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 197979,
       "name": "Entrela\u00e7os",
       "url": "https://open.spotify.com/track/7G8g5eNiXRtM96YAQ09Nsl"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Melhores Momentos",
-        "url": "https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Mariana Nolasco",
         "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 225498,
       "name": "Eu Te Amo",
       "url": "https://open.spotify.com/track/5oXihYXwoWrwJJyPrQF2k1"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Melhores Momentos",
+        "url": "https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI"
     },
     {
       "added_at": "2021-09-03 03:00:00",

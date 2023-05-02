@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Labrinth, Kesha, Jack Harlow, Coi Leray, Niall Horan, Bebe Rexha and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,118,342 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,119,065 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 87 | [Positive Charge](https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Positive Charge](https://open.spotify.com/album/65tqECce0kcEihRHm8QDmR) | 4:05 |
 | 88 | [Widows](https://open.spotify.com/track/7uekrO5T87CllybcQdhRVd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Driving Just To Drive](https://open.spotify.com/album/28DLjjQKZ9qRvKFSu5Y7QM) | 3:48 |
 | 89 | [Forever In A Song](https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 3:36 |
-| 90 | [Yessir](https://open.spotify.com/track/4QvE6PJfBwV3kZqqgT4Vyy) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MEAN](https://open.spotify.com/album/0caskFxobzTYLHt6vgiYLO) | 2:20 |
+| 90 | [Yessir \(feat\. Quavo\)](https://open.spotify.com/track/4QvE6PJfBwV3kZqqgT4Vyy) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MEAN](https://open.spotify.com/album/0caskFxobzTYLHt6vgiYLO) | 2:20 |
 | 91 | [5!RE](https://open.spotify.com/track/5dpguvEDjvEljrnIScoXpV) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snot or Not](https://open.spotify.com/album/4PtaK9Se4jUaKwyeTMqnRN) | 2:38 |
 | 92 | [Don't Doubt It](https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN) | 3:02 |
 | 93 | [Whatever It Takes](https://open.spotify.com/track/2Bv3pU74afHFWdCAZ8irlT) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Whatever It Takes](https://open.spotify.com/album/0cgPswcsgn7OSiqsrk71TO) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Almighty](https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Almighty](https://open.spotify.com/album/4D2yVILnAA47VroVLFcB8B) | 4:05 |
 | 100 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 
-Snapshot ID: `MCwyNTJmNjkxNWVlMGJlYjQwOWM0OGFhMWQyNTI5OTBmMzljNDhjMjBh`
+Snapshot ID: `MCxlMWM2MWU2NDBhMzNhNDExZGYwNDQ4YTU5NzY0YmI1ODA0YTc2NWJi`

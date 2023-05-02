@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Miley Cyrus.
 
-286 songs - 17 hr 11 min
+287 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Kär i din kärlek \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/track/0jy5qTrMlMXXZEx9MLiETy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/album/5oUkd4bOmKOmH6Hkr0FoUq) | 3:23 | 2021-09-14 | 2023-01-12 |
 | [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 | 2021-09-14 |  |
 | [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU) | 3:54 | 2022-03-08 | 2023-04-29 |
+| [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 3:54 | 2023-03-21 |  |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-09-14 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/0ZxSPvOEDHlwUvjfKxLdZr) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Single Sessions](https://open.spotify.com/album/5CQZHRx66NBFLheNYh1XGM) | 3:53 | 2021-09-14 | 2022-07-29 |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2022-03-08 |  |
@@ -155,7 +156,7 @@
 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4rv4xuViNAAR7VeD14lACp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/7jrYTY6bfhAVzmHfNiQ9ko) | 3:54 | 2021-09-14 | 2022-07-29 |
 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5wjdouk5wQxXkmTeyOC12M) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn) | 3:54 | 2022-03-08 |  |
 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 | 2021-09-14 |  |
-| [LOVE IN THE DARK \- Recorded at East West Studios, LA](https://open.spotify.com/track/1qBT1qIyGu3jFTjF6dEqIb) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/2ceL7dMRViacYhqhPGQRLM) | 3:34 | 2021-09-14 |  |
+| [LOVE IN THE DARK \- Recorded at East West Studios, LA](https://open.spotify.com/track/1qBT1qIyGu3jFTjF6dEqIb) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/2ceL7dMRViacYhqhPGQRLM) | 3:34 | 2021-09-14 | 2023-05-02 |
 | [Love So Soft \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6rz4aPhhNM6PFh3Ar2n07X) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 2:54 | 2021-09-14 |  |
 | [lovely \- Spotify Singles](https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:18 | 2023-01-11 |  |
 | [Loyal \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:44 | 2021-09-14 | 2022-12-08 |

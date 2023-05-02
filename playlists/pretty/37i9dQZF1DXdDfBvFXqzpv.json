@@ -1,12 +1,12 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 91111,
+  "num_followers": 91149,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWFiZDVlYzkwN2I4OWM3Zjc3YWI4YTA1NjY5YjA2MzE1YzgyNzg3",
+  "snapshot_id": "MCw1ODlhZjJiMDc4ZjY5MjVhZGEyYzFjZmZlNjU3M2QwZTk0ZmI5NGMy",
   "tracks": [
     {
       "added_at": "2022-11-02 14:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 239266,
       "name": "Is It True",
       "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 255360,
       "name": "Untouched",
       "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 195190,
+      "name": "I Don't Wanna Talk (I Just Wanna Dance)",
+      "url": "https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "(II)",
         "url": "https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Kasabian",
-        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "L.S.F.",
-      "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Dimension (feat. Skepta & Rema)",
         "url": "https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE"
+        "name": "Kasabian",
+        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 195190,
-      "name": "I Don't Wanna Talk (I Just Wanna Dance)",
-      "url": "https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt"
+      "duration_ms": 197600,
+      "name": "L.S.F.",
+      "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Lift Off",
-        "url": "https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 184933,
-      "name": "Lift Off",
-      "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Two Vines",
         "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 184933,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Wrong Time",
-        "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
-      },
-      "artists": [
-        {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
-        }
-      ],
-      "duration_ms": 170387,
-      "name": "Wrong Time",
-      "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 352003,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Wrong Time",
+        "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
+      },
+      "artists": [
+        {
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        }
+      ],
+      "duration_ms": 170387,
+      "name": "Wrong Time",
+      "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
     },
     {
       "added_at": "2022-11-02 14:00:00",

@@ -4,7 +4,7 @@
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-132 songs - 7 hr 27 min
+133 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Super Heroe](https://open.spotify.com/track/1JG96INBN360PdDZnWztog) | [David Lee Garza Y Los Musicales](https://open.spotify.com/artist/6BeHKwIrRR7n4U3QDKpxvR) | [Solamente Tu](https://open.spotify.com/album/1siVRqGXvQK3vQY1Ps3rD2) | 3:26 | 2023-03-10 |  |
 | [Te Quiero Mas](https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5) | [Rita Capuchina](https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k) | [Te Quiero Mas](https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK) | 3:08 | 2023-03-10 |  |
 | [Te Quise Olvidar](https://open.spotify.com/track/2VNxymCFckL4FxsJ0VEn1q) | [Siggno](https://open.spotify.com/artist/6RTlv2UCWtRggV0rIo5TrN) | [Te Quise Olvidar](https://open.spotify.com/album/7DwEZWWBh00kkpUaFukdyE) | 4:04 | 2022-03-07 | 2023-03-11 |
-| [Tengo Ganas de Ti](https://open.spotify.com/track/4JD6C4Atg92awORLru91DD) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente](https://open.spotify.com/album/5c8UjxL0gg4jbkFXz1fvCe) | 3:30 | 2023-03-10 |  |
+| [Tengo Ganas de Ti](https://open.spotify.com/track/4JD6C4Atg92awORLru91DD) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente](https://open.spotify.com/album/5c8UjxL0gg4jbkFXz1fvCe) | 3:30 | 2023-03-10 | 2023-05-02 |
+| [Tengo Ganas De Ti](https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente](https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4) | 3:30 | 2023-03-10 |  |
 | [That’s All I’ve Got to Say](https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [That’s All I’ve Got to Say](https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u) | 3:31 | 2022-03-07 | 2023-02-11 |
 | [Tiempo Sin Mi](https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M) | [Cynthia Bustamante](https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g) | [Renacer](https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX) | 3:12 | 2023-03-10 |  |
 | [Toda Una Vida](https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV) | [Andie Bustamante](https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK) | [Toda Una Vida](https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf) | 3:00 | 2023-03-10 |  |

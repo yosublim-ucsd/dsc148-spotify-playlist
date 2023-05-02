@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Diplo
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 116,894 likes - 144 songs - 7 hr 41 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 116,890 likes - 144 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 15 | [Superstar](https://open.spotify.com/track/79DFRI318iJU1hvZnPzA4K) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Andrea Zelletta](https://open.spotify.com/artist/2sSVegHvvHIOT1gVsqw8EW) | [Superstar](https://open.spotify.com/album/2VmclQK1Fsr8uhrtcrL7pl) | 2:52 |
 | 16 | [Lose My Mind](https://open.spotify.com/track/62PUsRLMQjhyXqijBxSw5B) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind](https://open.spotify.com/album/30scvKWaYn7ypfpJcn9iP4) | 2:26 |
 | 17 | [Whitney \(feat\. MISS DRE\)](https://open.spotify.com/track/3ogCJU9dPks2jk10NqaTSs) | [Kormak](https://open.spotify.com/artist/2bPjd3e5EW7GfP6shz0Py5), [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Whitney \(feat\. MISS DRE\)](https://open.spotify.com/album/1DfqlTsC6tZuNyPKMqG9af) | 2:56 |
-| 18 | [Feel The Same \(feat\. The Melody Men\)](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same \(feat\. The Melody Men\)](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 |
+| 18 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 |
 | 19 | [No Sleep \- Drop G Remix](https://open.spotify.com/track/30CUeJ3Yg99jwPtHluNouh) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Drop \- G](https://open.spotify.com/artist/3c655cBO0W2SlWOKLu2sqD) | [No Sleep \(Drop G Remix\)](https://open.spotify.com/album/7cftkTm1F6q3heuheJ8g9i) | 2:38 |
 | 20 | [White Rabbit \- Kaz James & Nick Morgan Remix](https://open.spotify.com/track/2u3gfilgSQ4Ui8MM4894rw) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF), [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA), [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [White Rabbit \(Kaz James & Nick Morgan Remix\)](https://open.spotify.com/album/4ZtK1AZNUHfP6nnkTY30US) | 3:32 |
 | 21 | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT) | 2:55 |

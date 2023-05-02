@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 31334,
+  "num_followers": 31384,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTY1MWE5OWM2MTE4NzQzYWNiNmMwZjdiMDkyYTJmNWE4ZTZmZmIz",
+  "snapshot_id": "MCwxMGNlZmEzNzM2YjRhOWM3YzE0MWYyYWEzZmQxYjJlN2E5OGExMzVl",
   "tracks": [
     {
       "added_at": "2022-09-22 18:15:34",
@@ -227,18 +227,18 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Antonio Aguilar Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 188395,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -263,22 +263,18 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
       },
       "artists": [
-        {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
-        },
         {
           "name": "Antonio Aguilar",
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 240906,
-      "name": "El Mala Estrella",
-      "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
+      "duration_ms": 188395,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -295,6 +291,42 @@
       "duration_ms": 173816,
       "name": "El Comienzo del Final",
       "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 244642,
+      "name": "Ahi\u0301 Donde Me Ven",
+      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "El Mala Estrella",
+      "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -335,18 +367,22 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "MORVN",
+          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
         }
       ],
-      "duration_ms": 244642,
-      "name": "Ahi\u0301 Donde Me Ven",
-      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
+      "duration_ms": 220000,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -375,42 +411,6 @@
       "duration_ms": 261133,
       "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Amiga M\u00eda",
-        "url": "https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "MORVN",
-          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
+        "name": "Pepe Aguilar te Acompa\u00f1a en Navidad",
+        "url": "https://open.spotify.com/album/5ecA4SaKr8pKR1tPHw2j3S"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/4AH5SY6g1lITqkLwntQV75"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
         "name": "Que No Se Apague La M\u00fasica",
         "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 173033,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Pepe Aguilar te Acompa\u00f1a en Navidad",
-        "url": "https://open.spotify.com/album/5ecA4SaKr8pKR1tPHw2j3S"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Ni Contigo, Ni Sin Ti",
-      "url": "https://open.spotify.com/track/4AH5SY6g1lITqkLwntQV75"
     },
     {
       "added_at": "2022-09-22 18:15:34",

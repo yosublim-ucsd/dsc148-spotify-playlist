@@ -4,7 +4,7 @@
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-81 songs - 5 hr 7 min
+82 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,12 +82,13 @@
 | [Weź nie pytaj](https://open.spotify.com/track/5jakU1mpB03Dkl1ao0XlyK) | [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [1984](https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga) | 4:22 | 2023-02-03 |  |
 | [Wkręceni nie ufaj mi](https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Wkręceni nie ufaj mi](https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU) | 2:58 | 2023-02-03 |  |
 | [Wszystko](https://open.spotify.com/track/2ANM8tbPDekzhNOhJ55bV6) | [Kamil Holden Kryszak](https://open.spotify.com/artist/7pQ9JOUN2x6CCUhAEtCpdj), [Justyna Święs](https://open.spotify.com/artist/3jWejUYPufnWdb1eMRxIUQ) | [Piosenki o miłości \(Muzyka z filmu\)](https://open.spotify.com/album/7qZdfKzSm1AnFHVUJxoJOJ) | 4:32 | 2023-02-03 |  |
+| [Wystarczę ja](https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke) | [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [1984](https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga) | 3:25 | 2023-04-03 |  |
 | [Z Tobą Nie Umiem Wygrać](https://open.spotify.com/track/4SDTgdnpGs2CH27ECddcAu) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Z Tobą Nie Umiem Wygrać](https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0) | 4:03 | 2023-02-03 |  |
 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 | 2023-02-03 |  |
 | [Zanim pójdę](https://open.spotify.com/track/6LuOCaMHFBfaR1MLKNHhMA) | [Happysad](https://open.spotify.com/artist/4NkE5k5xSRm6eVE7vMhqD6) | [Wszystko jedno](https://open.spotify.com/album/6TOdt5yYuI7ympn1TmYiZr) | 4:13 | 2023-02-03 |  |
 | [Zawsze tam gdzie Ty](https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [Zawsze tam gdzie Ty](https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu) | 4:18 | 2023-02-03 |  |
 | [Zawsze Z Toba Chcialbym Byc..\. \(Przez Miesiac :\) \)](https://open.spotify.com/track/1ruDMWJJSz1sceqdY6zsIX) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [Ad.4](https://open.spotify.com/album/1OgrUM009v8ZgKtO9Jjwoh) | 3:42 | 2023-02-03 |  |
 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 | 2023-02-03 |  |
-| [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 | 2023-02-03 |  |
+| [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 | 2023-02-03 | 2023-05-02 |
 
 \*This playlist was first scraped on 2023-02-14. Prior content cannot be recovered.

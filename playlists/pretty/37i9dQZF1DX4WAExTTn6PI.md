@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Lauren Morrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,564 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,584 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Generation Blues](https://open.spotify.com/track/11kRrvtqJYtjReYMTrJuod) | [Graham Sharp](https://open.spotify.com/artist/2VgjLUdJQfjmjy4qFSeftQ) | [Truer Picture](https://open.spotify.com/album/0AtGI45G4cbiVYwc7DNE8P) | 2:57 |
 | 100 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 |
 
-Snapshot ID: `MCxmMzRmZWVmMTViODE0MzFmOTM0ODQ3MTYwNWU2MmE5NmU2N2EwYTVj`
+Snapshot ID: `MCxmOTdlMzRhMDFmY2Q0OWQ0NTYxZGY4MDM2ZmUyYzBhYjZkOGNlNDQw`

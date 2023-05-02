@@ -1533,6 +1533,42 @@
     },
     {
       "album": {
+        "name": "Part of Your World (From \"The Little Mermaid\")",
+        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Part of Your World - From \"The Little Mermaid\"",
+      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
+    },
+    {
+      "album": {
+        "name": "Part of Your World (From \"The Little Mermaid\"/Soundtrack Version)",
+        "url": "https://open.spotify.com/album/3OEBqbReTKlhG7fS4zQIc5"
+      },
+      "artists": [
+        {
+          "name": "Erika Toyohara",
+          "url": "https://open.spotify.com/artist/0E8DxHuFZ0f9WJDKfUpHZj"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Part of Your World - From \"The Little Mermaid\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/4C7ufs8hOYTkIk7hdyeu7J"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Japanese Dubbed Version)",
         "url": "https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO"
       },

@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Jards Macal\u00e9",
-  "num_followers": 338640,
+  "num_followers": 338681,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTQyMDExNWJjZDQzYTRmNDAzYTRiYzY5MWY0Y2JkODIxYmM3ODQx",
+  "snapshot_id": "MCw5ZjgwZjgyNTEwYjhiMzMwYzVjYmI0YWE2M2MzMmZhNTc1YmIxNDdj",
   "tracks": [
     {
       "added_at": "2023-04-28 21:18:18",
@@ -195,18 +195,22 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+      "duration_ms": 302706,
+      "name": "Soprou",
+      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -259,22 +263,18 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "Cinco",
-        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 302706,
-      "name": "Soprou",
-      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -291,30 +291,6 @@
       "duration_ms": 172554,
       "name": "Nada ser\u00e1 de outra maneira",
       "url": "https://open.spotify.com/track/2DfiblFd1BQOnn1nQOGR3K"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
-        "name": "Pra Melhorar",
-        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Flor",
-          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Pra Melhorar",
-      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -351,6 +327,22 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
         "name": "Som de Alceu",
         "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
       },
@@ -383,6 +375,30 @@
       "duration_ms": 157557,
       "name": "Ostra",
       "url": "https://open.spotify.com/track/7wPsf5UmULjt2ECJq5U1Ku"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
+        "name": "Pra Melhorar",
+        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Flor",
+          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Pra Melhorar",
+      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -443,22 +459,6 @@
       "duration_ms": 268617,
       "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
       "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -575,6 +575,26 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
+        "name": "Bloco Do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
@@ -631,26 +651,6 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "Bloco Do Silva #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Sozinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
         "name": "Vem Doce",
         "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 226720,
       "name": "Vem Doce",
       "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -683,22 +699,6 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/0clvvZC3a6He6kwuAmJNpD"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "Boca de A\u00e7a\u00ed",
-        "url": "https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "Boca de A\u00e7a\u00ed",
-      "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 255800,
       "name": "Vento Sardo",
       "url": "https://open.spotify.com/track/6zqqCZA5EOvMXj5nRKuTy7"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
+        "name": "Boca de A\u00e7a\u00ed",
+        "url": "https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Boca de A\u00e7a\u00ed",
+      "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "T\u00e3o Distra\u00eddos",
-        "url": "https://open.spotify.com/album/4FnViUD7mk5sA4mI3D3xoh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 155530,
-      "name": "T\u00e3o Distra\u00eddos",
-      "url": "https://open.spotify.com/track/3te1vlFf5mYLXhOWdcadRJ"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
         "name": "Tocando Em Frente",
         "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
       },
@@ -947,34 +927,22 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "Errante",
-        "url": "https://open.spotify.com/album/4CHLG06nQwBQjLuoBPsqMr"
+        "name": "T\u00e3o Distra\u00eddos",
+        "url": "https://open.spotify.com/album/4FnViUD7mk5sA4mI3D3xoh"
       },
       "artists": [
         {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 170632,
-      "name": "Larga Tudo",
-      "url": "https://open.spotify.com/track/1CQIFlw9S6pz02XaP7eeJB"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
-        "name": "Ana Ca\u00f1as Canta Belchior",
-        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
-      },
-      "artists": [
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
         {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 322543,
-      "name": "Cora\u00e7\u00e3o Selvagem",
-      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
+      "duration_ms": 155530,
+      "name": "T\u00e3o Distra\u00eddos",
+      "url": "https://open.spotify.com/track/3te1vlFf5mYLXhOWdcadRJ"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -999,22 +967,34 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "Tarde Em Itapu\u00e3",
-        "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
+        "name": "Ana Ca\u00f1as Canta Belchior",
+        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
         }
       ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
+      "duration_ms": 322543,
+      "name": "Cora\u00e7\u00e3o Selvagem",
+      "url": "https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
+        "name": "Errante",
+        "url": "https://open.spotify.com/album/4CHLG06nQwBQjLuoBPsqMr"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 170632,
+      "name": "Larga Tudo",
+      "url": "https://open.spotify.com/track/1CQIFlw9S6pz02XaP7eeJB"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -1035,6 +1015,26 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
+        "name": "Tarde Em Itapu\u00e3",
+        "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
+        "name": "Tenho Sede",
+        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 190468,
+      "name": "Tenho Sede",
+      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 210030,
       "name": "Rota\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
-        "name": "Tenho Sede",
-        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 190468,
-      "name": "Tenho Sede",
-      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
+        "name": "Nando Hits",
+        "url": "https://open.spotify.com/album/2hF9CX0bPs5BFzPpcG0bVT"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 200023,
+      "name": "Na Estrada",
+      "url": "https://open.spotify.com/track/6L9Cb6B1jOcpbYebtWYRYb"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
         "name": "desculpe o au\u00ea",
         "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "Nando Hits",
-        "url": "https://open.spotify.com/album/2hF9CX0bPs5BFzPpcG0bVT"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 200023,
-      "name": "Na Estrada",
-      "url": "https://open.spotify.com/track/6L9Cb6B1jOcpbYebtWYRYb"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
         "name": "Diga Sim",
         "url": "https://open.spotify.com/album/3wKE9miqxtaM7yiPpSB8qy"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 234514,
       "name": "Diga Sim",
       "url": "https://open.spotify.com/track/1OmhahcoJT6q3ItiNloID7"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
-        "name": "A Arte de N\u00e3o Morrer",
-        "url": "https://open.spotify.com/album/6b6EFmzBxSfWfrvCW6lJxs"
-      },
-      "artists": [
-        {
-          "name": "Jards Macal\u00e9",
-          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "A arte de n\u00e3o morrer",
-      "url": "https://open.spotify.com/track/491TwNe5sWUi1fSXmRAJIw"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -1687,6 +1671,22 @@
       "duration_ms": 211696,
       "name": "Na Hora do Almo\u00e7o",
       "url": "https://open.spotify.com/track/2vJQXW2tPjYr011ePpRS4r"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
+        "name": "A Arte de N\u00e3o Morrer",
+        "url": "https://open.spotify.com/album/6b6EFmzBxSfWfrvCW6lJxs"
+      },
+      "artists": [
+        {
+          "name": "Jards Macal\u00e9",
+          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "A arte de n\u00e3o morrer",
+      "url": "https://open.spotify.com/track/491TwNe5sWUi1fSXmRAJIw"
     },
     {
       "added_at": "2023-04-28 21:18:18",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2023-04-28 21:18:18",
       "album": {
-        "name": "Doce Carnaval",
-        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
-      },
-      "artists": [
-        {
-          "name": "Alexia Bomtempo",
-          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Mal Acostumada",
-      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-04-28 21:18:18",
-      "album": {
         "name": "Manh\u00e3 de Sol",
         "url": "https://open.spotify.com/album/717jK1sdU8xmPAfwHda3lL"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 184645,
       "name": "L\u00e1 Fora",
       "url": "https://open.spotify.com/track/7K1e8UVOC1oq4aRgGIgQOx"
+    },
+    {
+      "added_at": "2023-04-28 21:18:18",
+      "album": {
+        "name": "Doce Carnaval",
+        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
     },
     {
       "added_at": "2023-04-28 21:18:18",

@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
+    },
+    {
+      "album": {
         "name": "wonder years pt. 1",
         "url": "https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM"
       },
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 222165,
       "name": "do my own thing",
       "url": "https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG"

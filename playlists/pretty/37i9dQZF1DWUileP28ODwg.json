@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 285583,
+  "num_followers": 285803,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWMzMDQ2Zjk2NjBmY2ZiMDllOTBmNGRjNDBjY2RmMmQxZWE3ODI5",
+  "snapshot_id": "MCw4OWZlOGEyN2ZiMWI1YTk2N2MwYzMxZWVlZTNkNjMzODQyZWUwNDYy",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -207,26 +207,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Build a Boat (feat. Gabby Barrett)",
-        "url": "https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        },
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 170549,
-      "name": "Build a Boat (feat. Gabby Barrett)",
-      "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Joy In The Morning",
         "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 200440,
       "name": "Sunday Sermons",
       "url": "https://open.spotify.com/track/3l9iNZD6J3nDZMlAhH48Q1"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Build a Boat (feat. Gabby Barrett)",
+        "url": "https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        },
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 170549,
+      "name": "Build a Boat (feat. Gabby Barrett)",
+      "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 299453,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Love Me Like I Am (with Jordin Sparks)",
         "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 187306,
       "name": "Love Me Like I Am (with Jordin Sparks)",
       "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 299453,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 208691,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "God Is Good",
         "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 197800,
       "name": "God Is Good",
       "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 208691,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "I Cry Jesus",
-        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 218765,
-      "name": "I Cry Jesus",
-      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "The Goodness",
         "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Sound Mind (Studio Version)",
-        "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
+        "name": "I Cry Jesus",
+        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
       },
       "artists": [
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
         }
       ],
-      "duration_ms": 222655,
-      "name": "Sound Mind - Studio Version",
-      "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
+      "duration_ms": 218765,
+      "name": "I Cry Jesus",
+      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -535,6 +519,22 @@
       "duration_ms": 198333,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Sound Mind (Studio Version)",
+        "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 222655,
+      "name": "Sound Mind - Studio Version",
+      "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 172327,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Things That I'm Afraid Of",
         "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 166988,
       "name": "Things That I'm Afraid Of",
       "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 172327,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -867,6 +867,30 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Jesus Is Coming Back (feat. Mandisa & Jonathan Traylor)",
+        "url": "https://open.spotify.com/album/0zGeEmwuASGbKeKnPdRiWA"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 213746,
+      "name": "Jesus Is Coming Back (feat. Mandisa & Jonathan Traylor)",
+      "url": "https://open.spotify.com/track/3nDaOQU9hOkwf1onF3rSuZ"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Take It To Jesus",
         "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 239431,
       "name": "Me on Your Mind",
       "url": "https://open.spotify.com/track/28WYdGMY9SGNfJ0SarLbxB"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Jesus Is Coming Back (feat. Mandisa & Jonathan Traylor)",
-        "url": "https://open.spotify.com/album/0zGeEmwuASGbKeKnPdRiWA"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        },
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 213746,
-      "name": "Jesus Is Coming Back (feat. Mandisa & Jonathan Traylor)",
-      "url": "https://open.spotify.com/track/3nDaOQU9hOkwf1onF3rSuZ"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Jordan St. Cyr",
+        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "For All My Life",
         "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Jordan St. Cyr",
-        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
+        "name": "If The Lord Builds The House",
+        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
       },
       "artists": [
         {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
         }
       ],
-      "duration_ms": 188426,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
+      "duration_ms": 235640,
+      "name": "If The Lord Builds The House",
+      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1095,22 +1111,6 @@
       "duration_ms": 221084,
       "name": "Morning By Morning (I Will Trust) - Radio Version",
       "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "If The Lord Builds The House",
-        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "If The Lord Builds The House",
-      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "duration_ms": 121459,
+      "name": "Goodbye Ole Me",
+      "url": "https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc"
+        "name": "Phenomena (DA DA) [Remixes]",
+        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
       },
       "artists": [
         {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 121459,
-      "name": "Goodbye Ole Me",
-      "url": "https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU"
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1423,22 +1439,6 @@
       "duration_ms": 219444,
       "name": "Getting Started - Radio Version",
       "url": "https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Phenomena (DA DA) [Remixes]",
-        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 154385,
-      "name": "Freedom Is Coming - Reimagined",
-      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Yeshua (Friend Of Sinners)",
-        "url": "https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O"
-      },
-      "artists": [
-        {
-          "name": "Mike Donehey",
-          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Yeshua (Friend Of Sinners)",
-      "url": "https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Holy Forever",
         "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/03UkgWNWGbM50qfR77lBaj"
+        "name": "Yeshua (Friend Of Sinners)",
+        "url": "https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
         }
       ],
-      "duration_ms": 162903,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/2qgYWwsLHakKwgR6CLArfy"
+      "duration_ms": 215573,
+      "name": "Yeshua (Friend Of Sinners)",
+      "url": "https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1559,6 +1543,22 @@
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/03UkgWNWGbM50qfR77lBaj"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 162903,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/2qgYWwsLHakKwgR6CLArfy"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 240073,
-      "name": "Leave A Light On",
-      "url": "https://open.spotify.com/track/6Tqm0Fo4yLKec09auSBTFC"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "The Church I Grew Up in (Live)",
         "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
       },
@@ -1671,18 +1655,34 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/4kYXvyGX55u96HFpkpCMI1"
+        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
         }
       ],
-      "duration_ms": 191295,
-      "name": "Empty Room",
-      "url": "https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2"
+      "duration_ms": 240073,
+      "name": "Leave A Light On",
+      "url": "https://open.spotify.com/track/6Tqm0Fo4yLKec09auSBTFC"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "a thousand shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "a thousand shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
     },
     {
       "added_at": "2023-03-10 08:53:36",

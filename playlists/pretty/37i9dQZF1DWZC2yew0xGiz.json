@@ -1,12 +1,12 @@
 {
   "description": "This month: songs from an iconic era of Black film soundtracks.",
-  "num_followers": 1136135,
+  "num_followers": 1136161,
   "original_name": "Film & TV Favorites: 90s Black Cinema",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDlmMTk3NTY2NTBlM2ZmODYyNWVjNTNlZjZhNTRkNTllMWFkNTZi",
+  "snapshot_id": "MCwwNTM3NDEwZjFhOGZmYTMwYTA1MjRjMTAwMzI2MzJhMWE0MzJiNzMy",
   "tracks": [
     {
       "added_at": "2021-02-02 15:31:39",
@@ -95,6 +95,22 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 285106,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
         "name": "Boyz N The Hood",
         "url": "https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 316200,
       "name": "There U Go",
       "url": "https://open.spotify.com/track/7oF2WD5RByyNQQmmI5a283"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 285106,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -291,6 +291,22 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
+        "name": "Waiting To Exhale",
+        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
       },
@@ -356,22 +372,6 @@
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
-        "name": "Waiting To Exhale",
-        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
-      },
-      "artists": [
-        {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
@@ -395,26 +395,6 @@
       "duration_ms": 224200,
       "name": "Why You Get Funky On Me - From \"House Party\" Soundtrack",
       "url": "https://open.spotify.com/track/4EmdSvY5pvzu9COEtPOiR0"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
-        "name": "HAV PLENTY Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -479,6 +459,26 @@
       "duration_ms": 263893,
       "name": "Get It Up - From The Columbia Motion Picture \"Poetic Justice\"",
       "url": "https://open.spotify.com/track/1zzmsLdx09eAIsB51QGkeJ"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "HAV PLENTY Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
     },
     {
       "added_at": "2021-02-02 15:31:39",

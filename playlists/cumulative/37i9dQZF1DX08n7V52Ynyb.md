@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-169 songs - 12 hr 37 min
+170 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All My Life](https://open.spotify.com/track/0AxWzSG8MUj5CMH8XGnwHz) | [Georgia Mancio](https://open.spotify.com/artist/7dZ9DyEqGCUqf50Lk7Eriw), [Alan Broadbent](https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1) | [Quiet Is the Star](https://open.spotify.com/album/10HR7jExTsb576nxpmR1xO) | 2:46 | 2022-04-13 | 2022-11-27 |
 | [Angel Eyes](https://open.spotify.com/track/7pYHNfu7TnBOnkKi7YZW9N) | [Melissa Errico](https://open.spotify.com/artist/1FgbndX43rDxGvserrIb1l) | [Out Of The Dark – The Film Noir Project](https://open.spotify.com/album/2WWgLX6vhqS1yA04GCeK6G) | 5:49 | 2022-04-13 | 2022-10-12 |
 | [Anita's Blues](https://open.spotify.com/track/1Gc34PgPMoYIlRzi28BPsq) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:27 | 2022-04-13 | 2022-10-06 |
+| [April Fooled Me](https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [April Fooled Me](https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid) | 3:51 | 2023-04-27 |  |
 | [As Long as He Needs Me](https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:55 | 2022-04-13 | 2023-02-20 |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2022-04-13 | 2022-06-15 |
 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 | 2022-04-13 |  |
@@ -114,7 +115,7 @@
 | [My Ship](https://open.spotify.com/track/0rxCbuvEGu9Bk7t1UOO2iu) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places](https://open.spotify.com/album/7lIpEhDFt06b3HdY1oGhIP) | 4:09 | 2022-04-13 | 2022-07-29 |
 | [My Ship](https://open.spotify.com/track/2CW9ojLmE3GM7h7xdfCXXb) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:09 | 2023-01-19 |  |
 | [My Ship \- Special Edition](https://open.spotify.com/track/4CAfKmZlIn6TPczUUhv2CM) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:09 | 2022-07-21 | 2023-01-13 |
-| [Nature Boy](https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Nature Boy](https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555) | 4:35 | 2023-04-14 |  |
+| [Nature Boy](https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Nature Boy](https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555) | 4:35 | 2023-04-14 | 2023-05-02 |
 | [Nice Work If You Can Get It](https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM) | [Kristina Ray](https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU) | 3:25 | 2022-04-13 |  |
 | [Night and Day](https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Daniel Karlsson](https://open.spotify.com/artist/133ujfci80J2umYb3Oas89) | [The Night and the Music](https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k) | 4:09 | 2022-04-13 |  |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/0r36MHOZz9hrzGQF6m6Ylr) | 4:47 | 2022-04-13 | 2022-07-29 |

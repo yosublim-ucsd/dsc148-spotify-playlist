@@ -4,7 +4,7 @@
 
 > Écoute en boucle les hits tunisiens du moment.
 
-155 songs - 9 hr 38 min
+156 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Ech Mazel \- Khrafa](https://open.spotify.com/track/1XiL9Lp1p9WfIAzuNR1uWD) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Ech Mazel \(Khrafa\)](https://open.spotify.com/album/33phU9MxhOINJYSGYHyEpK) | 4:41 | 2021-12-10 | 2023-03-31 |
 | [Ech Sayer](https://open.spotify.com/track/7zmjWzVeM3boUMAXvIeHgS) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Souhail Al Hafi](https://open.spotify.com/artist/7HSoEJ0ShMhA62LkjDiI5S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 4:18 | 2023-03-09 |  |
 | [Echkek](https://open.spotify.com/track/3diqgJlL2lIJyopupiWSy8) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Echkek](https://open.spotify.com/album/6LmpxuN1ZqwGvoWrhNuaTd) | 2:53 | 2022-01-03 | 2022-07-29 |
+| [EL Barra \- البرّا](https://open.spotify.com/track/6IYi94UJsMphrh9dm88LA3) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [EL Barra \(البرّا\)](https://open.spotify.com/album/0yFDbPZaNQGaxrklitEBdo) | 3:24 | 2023-05-01 |  |
 | [Elli Tchelou](https://open.spotify.com/track/0FGu0SbwOOyHrSRzhSA34m) | [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba) | [PRELUDE](https://open.spotify.com/album/1F9rHP1TBv73QVgvxqfF9R) | 5:26 | 2022-09-12 | 2022-10-22 |
 | [Ena](https://open.spotify.com/track/2ALQWCgk5wq7qJco8XCng0) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/306Ofv0B37wDNlgX354JtR) | 5:12 | 2023-03-30 |  |
 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 | 2021-12-10 | 2023-04-01 |
@@ -91,7 +92,7 @@
 | [Ma3lebeli](https://open.spotify.com/track/6KnxFw2AetemRnBKgN26B8) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ma3lebeli](https://open.spotify.com/album/5qw02s0C0OQmlom0DEc31T) | 4:07 | 2023-02-01 |  |
 | [Ma3lich](https://open.spotify.com/track/5alqglkGs6BMV7WGUvjyVv) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Ma3lich](https://open.spotify.com/album/6Mgz9dw5CWYFHK936bMH07) | 3:16 | 2023-02-01 |  |
 | [Ma3lich](https://open.spotify.com/track/7rmqhAZGOeVNPW8gA1vU1T) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ma3lich](https://open.spotify.com/album/5Sh5EZ5VJoJufLgXZgxfRa) | 4:09 | 2021-12-10 | 2022-07-12 |
-| [Ma3Likesh Elloum](https://open.spotify.com/track/2BDStFDyWmfAKYw1Vz0LTA) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:12 | 2022-11-26 |  |
+| [Ma3Likesh Elloum](https://open.spotify.com/track/2BDStFDyWmfAKYw1Vz0LTA) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:12 | 2022-11-26 | 2023-05-02 |
 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 | 2023-01-06 |  |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |
 | [Mani Nassi \- مانى ناسى](https://open.spotify.com/track/3GdU3rvO5odP2AIGSmm24z) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Mani Nassi \(مانى ناسى\)](https://open.spotify.com/album/6k0QEgsFV320r0Sr16RJVM) | 3:29 | 2023-03-22 | 2023-04-21 |

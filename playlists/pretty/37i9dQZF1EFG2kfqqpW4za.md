@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 58 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 426 likes - 58 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 8 | [O Que Eu Vejo](https://open.spotify.com/track/50XJtud3nYzfPcXblqtvXo) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:16 |
 | 9 | [Estar Com Você \- Ao Vivo](https://open.spotify.com/track/0CjxAXmWH4xvBD8lDoVYjE) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 4:17 |
 | 10 | [Rastafará](https://open.spotify.com/track/48bFWkHuuedYpZVdYHNQjd) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 6:51 |
-| 11 | [Resistência Cultural](https://open.spotify.com/track/5f05BJ7pVnjPkKgl3ScmB6) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Siba](https://open.spotify.com/artist/3pSjX0aHM20q9I5OGUGcGZ) | [Resistência Cultural](https://open.spotify.com/album/4YnzwmMZE8Pcd9U5kTMu3J) | 3:44 |
-| 12 | [Hero](https://open.spotify.com/track/2Tzk7V1dSVQB3qmOa0WMmg) | [Groundation](https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [The Next Generation](https://open.spotify.com/album/5BBPScdAMExDroIsn0q2Y6) | 5:42 |
+| 11 | [Hero](https://open.spotify.com/track/2Tzk7V1dSVQB3qmOa0WMmg) | [Groundation](https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [The Next Generation](https://open.spotify.com/album/5BBPScdAMExDroIsn0q2Y6) | 5:42 |
+| 12 | [Resistência Cultural](https://open.spotify.com/track/5f05BJ7pVnjPkKgl3ScmB6) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Siba](https://open.spotify.com/artist/3pSjX0aHM20q9I5OGUGcGZ) | [Resistência Cultural](https://open.spotify.com/album/4YnzwmMZE8Pcd9U5kTMu3J) | 3:44 |
 | 13 | [Soy Latino](https://open.spotify.com/track/08W016xoCPlcEFCfcbZg1n) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Soy Latino](https://open.spotify.com/album/4vpU0mnMhhUpi4crJhWiFN) | 3:53 |
 | 14 | [Ditadura da Televisão](https://open.spotify.com/track/3TXDNilo3IU4gCoIy2ER56) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 5:17 |
 | 15 | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Dimme Roots](https://open.spotify.com/artist/4TNnhByA0EyFuJojfULhkz), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/album/5I9kknvTmA4mxOlA4hTtxJ) | 5:27 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 57 | [Sensei \(feat\. Helio Bentes\)](https://open.spotify.com/track/4kjoUxNNSVcCUYOQk0we84) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Insolente](https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB) | 4:09 |
 | 58 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `MjgwNDgzMjMsMDAwMDAwMDBlYWU0OWIxZjQ4ZjcxNTA2MDM5MmQzZWI4MDE3NWI4Yw==`
+Snapshot ID: `MjgwNDk3NjMsMDAwMDAwMDA0NjVhOGI1YTI0MTc0MWIyMzE5MGNmZWNmYzc4ZGI0Yg==`

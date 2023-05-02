@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Zoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,626 likes - 26 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,649 likes - 26 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 4 | [January 3rd](https://open.spotify.com/track/7kTHKSAiK6QTgpbJqXplaF) | [Status/Non\-Status](https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK) | [January 3rd](https://open.spotify.com/album/3uy4S0unphQffbj6rDvYKx) | 3:43 |
 | 5 | [Visions](https://open.spotify.com/track/38CEvCQnSpfQY2YVJIlLQR) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Communion](https://open.spotify.com/album/2hOmwGT0EmeHFHJrGS2ACL) | 3:33 |
 | 6 | [three visits](https://open.spotify.com/track/6ptBpgooy6IkHq4uAJUURR) | [Matthew Cardinal](https://open.spotify.com/artist/2sQcQc1C5ns0yPsDHGo2Sp) | [three visits](https://open.spotify.com/album/1oqsZbbsM7bIO5dBs7UCWC) | 6:09 |
-| 7 | [A Language Dissapears \- Single Edit](https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Language Disappears](https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD) | 3:07 |
+| 7 | [A Language Disappears](https://open.spotify.com/track/3vaxNf7d4i8o8sxZrA5Nv5) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bekka Ma'iingan](https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD) | 3:08 |
 | 8 | [Living Proof](https://open.spotify.com/track/3326oudm1Xm57Nv0GtWQfe) | [Wares](https://open.spotify.com/artist/4IJfEp4CKdYvIGGm6Y8xf6) | [Survival](https://open.spotify.com/album/2YNi2N3nIZ4K3YhvCVvvSd) | 3:22 |
 | 9 | [Nomads](https://open.spotify.com/track/0pGjVEbs8ZvFXhDmvj1ika) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Watin](https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN) | 4:03 |
 | 10 | [Cherry Coke](https://open.spotify.com/track/0IJrtDPknuRyaiEhF6xDlC) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG), [Status/Non\-Status](https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK), [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Sewn Back Together](https://open.spotify.com/album/08YlFLF1PnZw9k7l2nU5Zs) | 3:01 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 25 | [Igluvut](https://open.spotify.com/track/79Fx3uz2u3Cp8KQZvqtcEz) | [Quantum Tangle](https://open.spotify.com/artist/0cSZE2fT3uEf8MH8Pb1I7S) | [Shelter as We Go...](https://open.spotify.com/album/6u9ng5eID9cYKnzqEAevg9) | 4:08 |
 | 26 | [Back At Me](https://open.spotify.com/track/5rHXVsKyKvdq0UIC7LMo9G) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG), [Peter Dreimanis](https://open.spotify.com/artist/29u2tzGMcS5hFxH4IV1iOU) | [Back At Me](https://open.spotify.com/album/3cdsDMTEL9FbA8l6PASlG9) | 3:32 |
 
-Snapshot ID: `MCw5NzMwMTljOGNmNTk0NTMxYmY3NTEyMTQ4NjI4MWM2N2VhODE5ODhj`
+Snapshot ID: `MCxlNWVjNWQyYzRlNzdiNmE1M2FmNTA0NjY1ZjA5YjE4YzA5NDY1MmUz`

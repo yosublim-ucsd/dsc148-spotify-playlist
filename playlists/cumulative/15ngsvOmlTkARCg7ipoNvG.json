@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/3tbQGMTiTKWr24aemv07Uh"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61228,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/1TzeN9UeIfkw26sn0U88EQ"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c"
       },

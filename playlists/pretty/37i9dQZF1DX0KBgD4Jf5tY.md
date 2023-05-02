@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:2dco5qMuxiVnHMK2ROrD91">Johana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,829 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,827 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [ANNI LUCE](https://open.spotify.com/track/6NBlUZSme5N3MDQxCFEeIR) | [GIOVA](https://open.spotify.com/artist/6S4vwXmexGnQ5SrroqpLCd) | [ANNI LUCE](https://open.spotify.com/album/4LpvUZkYIW2LFMPr3dDJzB) | 4:06 |
 | 50 | [6SLP](https://open.spotify.com/track/1eepdyZFtM8b64yyJ6oIcv) | [Cieli](https://open.spotify.com/artist/32xdzL3g4ww59VRXexFxl9), [Luca Leo](https://open.spotify.com/artist/7jikyheHC2XFgajv0IiAgd) | [6SLP](https://open.spotify.com/album/0xRIFUrji9Dkm6sFmzVfHR) | 3:08 |
 
-Snapshot ID: `MCw5NDVhM2JjZWYyZDNlMjkxOGMwOGE5NWNiYzM4ODYxNzFhMDlkZTQ2`
+Snapshot ID: `MCw5ZDAzNGU3OTE0MzFmNWFkMjhjMmY5MWY5NjZmNjJjNDY4NjkyYTI5`

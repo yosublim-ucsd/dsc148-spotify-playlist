@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,742 likes - 78 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,822 likes - 78 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 77 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 |
 | 78 | [Thankful](https://open.spotify.com/track/3S0H62Wg9uTe1QRZsUL4H7) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 5:09 |
 
-Snapshot ID: `MCwwMjVjNmQzMTFjZjkyYjMxYzVlODJmZTdiY2UxYTRjOWU1ZGI4NTI5`
+Snapshot ID: `MCw5M2E4ODAzMTM1ODJlNDMyODY2MjU3ZTE5MTcxMWI3MWMxOGVhODVk`

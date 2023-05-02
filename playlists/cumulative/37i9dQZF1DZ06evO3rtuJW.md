@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 10 min
+85 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 | 2022-10-28 |  |
 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 | 2022-11-11 | 2022-12-08 |
 | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/track/63CppbO1NyPUpnMHJ5lYDo) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/album/0jhDS6QHDbWLapC8gifh9n) | 2:49 | 2022-12-26 | 2023-02-27 |
-| [All That \(with Kodak Black\)](https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 1:49 | 2022-10-28 |  |
+| [All That \(with Kodak Black\)](https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 1:49 | 2022-10-28 | 2023-05-02 |
+| [Any Other Way](https://open.spotify.com/track/2tCtzpukuW4P20KmAcQ2P6) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:46 | 2023-05-01 |  |
 | [Aye \(feat\. Offset\)](https://open.spotify.com/track/3O0W0PorDwqsEuZRl7A9Pi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:11 | 2022-10-28 | 2023-04-23 |
 | [Becoming](https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Blanco 6](https://open.spotify.com/album/2yRwXVqJ8Bz1jYUEghIsTk) | 2:51 | 2023-04-11 |  |
 | [Been A While](https://open.spotify.com/track/0B0uobFNRxL0yr1zFZ0Fgw) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 3:25 | 2023-04-03 |  |

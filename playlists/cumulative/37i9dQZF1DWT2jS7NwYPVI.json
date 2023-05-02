@@ -10725,6 +10725,24 @@
     },
     {
       "album": {
+        "name": "OTHERBODY",
+        "url": "https://open.spotify.com/album/1FrxEEIn0BIIffAaf2Njfs"
+      },
+      "artists": [
+        {
+          "name": "Dazy",
+          "url": "https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153176,
+      "name": "I Know Nothing At All",
+      "url": "https://open.spotify.com/track/00lb13Y2ROaiMi3u5NPRFQ"
+    },
+    {
+      "album": {
         "name": "I Love This Part",
         "url": "https://open.spotify.com/album/4dwxRRxH7No8fqNlMG3qMF"
       },

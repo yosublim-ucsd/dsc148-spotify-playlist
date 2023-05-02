@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-347 songs - 21 hr 38 min
+348 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Shot Down](https://open.spotify.com/track/5ELe3K5aE86anTNKGngYwY) | [Nine Black Alps](https://open.spotify.com/artist/5fLbJGzlYux3GBwTifMMvR) | [Everything Is](https://open.spotify.com/album/0fIPMihZtknbVQThrPrMJz) | 2:55 | 2021-12-15 | 2022-07-29 |
 | [Silverspoon](https://open.spotify.com/track/16hoFpn4UinRTtqCD0iSIt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:42 | 2023-03-14 |  |
 | [Simple Sincerity](https://open.spotify.com/track/6hxtlRK14Vq1xTjjOPiTQw) | [Radish](https://open.spotify.com/artist/6cLlK80e14zGQyq84eENDv) | [Restraining Bolt](https://open.spotify.com/album/6MDLDlxinN9NpI4t4eudsX) | 2:45 | 2021-12-15 | 2022-07-22 |
-| [Smiles All Round](https://open.spotify.com/track/7vDjXdMBqRFlVlG56jtT5T) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round](https://open.spotify.com/album/0WNSf4eDakhxOWXO9LlV0y) | 2:47 | 2023-03-14 |  |
+| [Smiles All Round](https://open.spotify.com/track/7vDjXdMBqRFlVlG56jtT5T) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round](https://open.spotify.com/album/0WNSf4eDakhxOWXO9LlV0y) | 2:47 | 2023-03-14 | 2023-05-02 |
 | [Smiles All Round \- Single](https://open.spotify.com/track/4gzgTuZBM2kJPsBUwAopRE) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round \- Single](https://open.spotify.com/album/7bbe8uw300uJdVznrKZGPq) | 2:47 | 2022-11-02 | 2023-01-26 |
 | [Smiling at Strangers on Trains](https://open.spotify.com/track/0F54dvs9C0v0snW9m6dSE1) | [Million Dead](https://open.spotify.com/artist/7mAKZuvKKiNRokFE46Sy8l) | [A Song to Ruin](https://open.spotify.com/album/7xF7HQIu6FriHp6yPkE2Kv) | 2:55 | 2021-12-15 | 2023-01-26 |
 | [Smiling Shame](https://open.spotify.com/track/4UW6rF7Pyr7JzsGybnCzxc) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Smiling Shame](https://open.spotify.com/album/4IfIzaH9SZMoZ6PuUH9zv2) | 3:36 | 2021-12-15 | 2022-07-29 |
@@ -351,6 +351,7 @@
 | [You Know Better](https://open.spotify.com/track/70qEtopkR96BvM5ek1Kt1r) | [Sad Heroes](https://open.spotify.com/artist/6wcGzkZa4zwU3cJxRs6seS) | [You Know Better](https://open.spotify.com/album/3dDS2DJ16DAjAB7TUVlZYx) | 3:13 | 2022-06-23 | 2022-07-25 |
 | [You Said](https://open.spotify.com/track/7d7eDR4LzeYwfJegcS2Zg0) | [False Advertising](https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp) | [Brainfreeze](https://open.spotify.com/album/521ZryTNfahC4vzpUBGLkh) | 3:42 | 2021-12-15 | 2022-07-23 |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2023-03-07 |  |
+| [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 | 2023-03-14 |  |
 | [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 | 2022-06-23 | 2023-04-30 |
 | [Your Deep Rest](https://open.spotify.com/track/651zgpohmcHZUPLnhHGS7a) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like NoPlace Is There](https://open.spotify.com/album/5jfqj3O8WU3755J2OK19rd) | 3:47 | 2021-12-15 | 2022-07-29 |
 | [Your Way](https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [2 Songs](https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ) | 3:20 | 2021-12-15 |  |

@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-225 songs - 16 hr 21 min
+226 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Golden Apples of the Sun](https://open.spotify.com/track/4iaRi2pR8OUgJ2sXndxDQy) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [The Invisible World of Beautify Junkyards](https://open.spotify.com/album/4UQQCmqDrhwHWaTUewl3cj) | 4:03 | 2021-10-27 | 2022-07-26 |
 | [Hamburger Lady \- Remastered](https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv) | [Throbbing Gristle](https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k) | [D.O.A\. The Third and Final Report of Throbbing Gristle \(Remastered\)](https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi) | 4:09 | 2021-10-27 |  |
 | [Hearts And Flowers](https://open.spotify.com/track/6DPtZ1yxZPmWGfoBoq4q9E) | [Phew](https://open.spotify.com/artist/7mTJBVGJmkgbjwvbzc0Bqb) | [Vertigo KO](https://open.spotify.com/album/77QcWD2Bpp8nnZawUgu9Nc) | 1:05 | 2021-10-27 | 2023-02-03 |
+| [Hi Red](https://open.spotify.com/track/0LW0DztDkH57tsHdrl1IOH) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun](https://open.spotify.com/album/5VtrkG2Vs7GE1ufQpqqUug) | 1:27 | 2021-10-27 |  |
 | [Hi Red](https://open.spotify.com/track/3h5ItXLVH0xOmly8g9bj75) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun](https://open.spotify.com/album/39OlksvQLqQOOOctXERwmK) | 1:27 | 2021-10-27 | 2022-07-28 |
 | [High Street Spasm](https://open.spotify.com/track/0fcg1PjDAWyi7Ro24XC34E) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/17kJIlUTdZBateK6SysxZ1) | 1:46 | 2021-10-27 | 2023-02-02 |
 | [High Street Spasm](https://open.spotify.com/track/1mrUQ4GZo03bWOlEIQELO3) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a) | 1:46 | 2021-10-27 |  |
@@ -197,7 +198,7 @@
 | [The Silver Threshold](https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA) | [hackedepicciotto](https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s) | [The Silver Threshold](https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv) | 4:16 | 2022-03-11 | 2022-07-29 |
 | [The Song Before](https://open.spotify.com/track/6X1sd1kEaSRdJRQ9wYrbZr) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU), [The Focus Group](https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU) | [Study Series 04: Familiar Shapes and Noises](https://open.spotify.com/album/6YS3JSCsOxPNNVmXEDRMHv) | 2:39 | 2021-10-27 | 2022-07-25 |
 | [The Stranger's House](https://open.spotify.com/track/2OM8TfeXCJHtpBEDHl2hFE) | [The Radiophonic Workshop](https://open.spotify.com/artist/27k3UaPcNVomZ2WjkaEIS1) | [Burials In Several Earths](https://open.spotify.com/album/23JC7fsMtFwA2HtaccrgjD) | 11:23 | 2021-10-27 | 2023-02-03 |
-| [The Stranger's House](https://open.spotify.com/track/3exdzBiyPOxYcYnQ3CRcKX) | [The Radiophonic Workshop](https://open.spotify.com/artist/27k3UaPcNVomZ2WjkaEIS1) | [Burials In Several Earths](https://open.spotify.com/album/3wEyGlUwaK3EdCLBqBzLvi) | 11:23 | 2021-10-27 |  |
+| [The Stranger's House](https://open.spotify.com/track/3exdzBiyPOxYcYnQ3CRcKX) | [The Radiophonic Workshop](https://open.spotify.com/artist/27k3UaPcNVomZ2WjkaEIS1) | [Burials In Several Earths](https://open.spotify.com/album/3wEyGlUwaK3EdCLBqBzLvi) | 11:23 | 2021-10-27 | 2023-05-02 |
 | [The Twins](https://open.spotify.com/track/629Y3dMVXGAddQ2cZiCaqs) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [I Know This Much Is True \(Music From The HBO Series\)](https://open.spotify.com/album/5zUIfnk7UErS1YbxdH3gw3) | 3:22 | 2021-10-27 | 2022-07-26 |
 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 | 2021-10-27 |  |
 | [Theme Number Five](https://open.spotify.com/track/0AIYeASx8QPxKyQXsoCJRt) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Black Mill Tapes \(10th Anniversary Box\)](https://open.spotify.com/album/3GWTJtbuaUpSPK9IQSUMSw) | 4:11 | 2021-10-27 |  |

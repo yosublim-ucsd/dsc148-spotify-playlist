@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=5kcYUJToRKKCA6nuJ2XUuw"> ODUMODUBLVCK </a>
 
-163 songs - 8 hr 37 min
+164 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [AMAPIANO](https://open.spotify.com/track/2M1wKgqxbloFNr8WjVi9OM) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [AMAPIANO](https://open.spotify.com/album/2B4Y7IGYppG4Z6jovbuZK8) | 2:29 | 2022-03-24 | 2022-10-29 |
 | [Amigo](https://open.spotify.com/track/6UEW9NiyPzXxbhkjEiEHPe) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Amigo](https://open.spotify.com/album/6iysreppwtVyUjTK8VTgJe) | 2:35 | 2021-10-14 | 2022-03-04 |
 | [AMMO](https://open.spotify.com/track/5HW3uYRMzmlLNHlnJZXD9U) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [AMMO](https://open.spotify.com/album/1j7tTQQ39XfjhJd97xiO26) | 3:50 | 2021-10-14 | 2022-03-17 |
-| [Animalistic](https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Animalistic](https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds) | 2:46 | 2021-10-14 |  |
+| [Animalistic](https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Animalistic](https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds) | 2:46 | 2021-10-14 | 2023-05-02 |
 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 | 2023-04-27 |
 | [ASTRONAUTE](https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [ASTRONAUTE](https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT) | 3:27 | 2021-10-14 | 2022-11-04 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 |  |
@@ -130,6 +130,7 @@
 | [Royaume Kunga \(Kingdom\)](https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 3:01 | 2022-03-24 |  |
 | [Rude](https://open.spotify.com/track/7f83o6VIhOcIcHxzr7Cj4a) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Savage Bitch Juice](https://open.spotify.com/album/5la6d2QxYKs6N2KWDCNmhr) | 2:32 | 2021-11-04 | 2022-05-13 |
 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 | 2021-10-22 |  |
+| [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR) | [Immaculate Taste](https://open.spotify.com/artist/7EqcUzt8S9Gh3nKcCZDXlE), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR) | 3:29 | 2023-04-27 |  |
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 |  |
 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 | 2021-10-14 |  |
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2021-12-09 |  |

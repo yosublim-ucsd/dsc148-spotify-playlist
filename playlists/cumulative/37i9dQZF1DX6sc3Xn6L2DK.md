@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-142 songs - 9 hr 2 min
+143 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 | 2021-12-15 |  |
 | [Angels Among Us](https://open.spotify.com/track/5RfGLT4G5YeY5niIYc5GnI) | [Jenna Rae](https://open.spotify.com/artist/6osWFsdfO9F5O82CoyUYE5) | [Workin' Woman](https://open.spotify.com/album/7bBq1QuARjBme4nclMsr5T) | 4:51 | 2021-12-15 | 2022-07-28 |
 | [Anyway](https://open.spotify.com/track/1OTB8tW3bEPoJ4LzYtOyG2) | [Jimmy Carter and Dallas County Green](https://open.spotify.com/artist/2RWgO3s8UmCP8tG1kTFFzF) | [Summer Brings the Sunshine](https://open.spotify.com/album/6QDNz5r99z7iJpkHjnldW7) | 4:13 | 2021-12-15 | 2022-07-29 |
-| [Anyway](https://open.spotify.com/track/2iUSOATtt6Y0Mm9zpJrq5G) | [Jimmy Carter and Dallas County Green](https://open.spotify.com/artist/2RWgO3s8UmCP8tG1kTFFzF) | [Summer Brings the Sunshine](https://open.spotify.com/album/6yligzKEGqNHxMWUF6zPiA) | 4:13 | 2021-12-15 |  |
+| [Anyway](https://open.spotify.com/track/2iUSOATtt6Y0Mm9zpJrq5G) | [Jimmy Carter and Dallas County Green](https://open.spotify.com/artist/2RWgO3s8UmCP8tG1kTFFzF) | [Summer Brings the Sunshine](https://open.spotify.com/album/6yligzKEGqNHxMWUF6zPiA) | 4:13 | 2021-12-15 | 2023-05-02 |
 | [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 | 2021-12-15 |  |
 | [Aw Heck](https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 2:20 | 2021-12-15 |  |
 | [Before That Final Bell](https://open.spotify.com/track/0LtjFdoO1QDNBWBGVmun8l) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Before That Final Bell](https://open.spotify.com/album/7ulqwLvVfi1LF3NfXddkQO) | 3:42 | 2021-12-15 | 2022-07-29 |
@@ -38,6 +38,7 @@
 | [Forever Whatever](https://open.spotify.com/track/214Xr7LA7fbT9VN74raGLA) | [Jonny Fritz](https://open.spotify.com/artist/0dfNZ0xBHU3UipMv5gn9Se) | [Sweet Creep](https://open.spotify.com/album/2XtqHGtAAQemfTUyUOJx7M) | 3:25 | 2021-12-15 | 2022-07-19 |
 | [From Outer Space](https://open.spotify.com/track/0H8BIUe4qnJ7c6ptFIjLPa) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Felony Blues](https://open.spotify.com/album/1cxSSVhkqQ2vVH8OK2XFL8) | 4:13 | 2021-12-15 | 2022-07-22 |
 | [Fruits Of My Labour](https://open.spotify.com/track/1I82ICxLwXvTWHR09ReWC2) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Cuntry Covers Vol\. 1](https://open.spotify.com/album/6z56QWKJpMuTMPF3eLA3hu) | 4:44 | 2021-12-15 | 2022-07-29 |
+| [Go Outside](https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO) | 2:49 | 2023-03-28 |  |
 | [Go Outside](https://open.spotify.com/track/732dEpPH51goNx2ZPoxL4P) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Go Outside](https://open.spotify.com/album/3W5tSRICU2loEbYx0Cpv8u) | 2:49 | 2021-12-15 | 2022-07-29 |
 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 | 2021-12-15 |  |
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2021-12-15 |  |

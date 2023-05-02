@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 143446,
+  "num_followers": 143551,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjJiN2ZkOGNlMWFmM2Q3NDQ5ODM5ZDY1ZDE4ODEyOGEwNTFiMTY1",
+  "snapshot_id": "MCwwMTc3NjhiZGZkNTk3NmRlY2FlYWJhNzA5ZTIyYjBmOWJmZjg1N2Rl",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -451,6 +451,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Passion: Let The Future Begin",
         "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 339493,
       "name": "In Christ Alone - Live",
       "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -655,38 +655,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3"
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
       "artists": [
         {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 222546,
-      "name": "I Need A Miracle",
-      "url": "https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+      "duration_ms": 217655,
+      "name": "Hope in Front of Me",
+      "url": "https://open.spotify.com/track/2t8NsMho4AegF1wMGxvgj5"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -707,18 +687,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
         }
       ],
-      "duration_ms": 217655,
-      "name": "Hope in Front of Me",
-      "url": "https://open.spotify.com/track/2t8NsMho4AegF1wMGxvgj5"
+      "duration_ms": 222546,
+      "name": "I Need A Miracle",
+      "url": "https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -755,6 +735,26 @@
       "duration_ms": 218106,
       "name": "Fight On, Fighter",
       "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -847,6 +847,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "The Comeback",
+      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Unspoken",
         "url": "https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 208480,
       "name": "He Knows",
       "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "The Comeback",
-      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -931,6 +931,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Stars Go Dim",
+        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 206648,
+      "name": "You Are Loved",
+      "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "All My Hope",
         "url": "https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 232760,
       "name": "All My Hope",
       "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Stars Go Dim",
-        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 206648,
-      "name": "You Are Loved",
-      "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "We Won't Be Shaken",
-        "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 236546,
-      "name": "We Won't Be Shaken",
-      "url": "https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "What If We Were Real",
         "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 213886,
       "name": "Stronger - With Cold Ending",
       "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "We Won't Be Shaken",
+        "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 236546,
+      "name": "We Won't Be Shaken",
+      "url": "https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Lead Us Back: Songs of Worship",
-        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
       "artists": [
         {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        },
-        {
-          "name": "Harvest",
-          "url": "https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Your Words (feat. Harvest) (feat. Harvest)",
-      "url": "https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8"
+      "duration_ms": 423376,
+      "name": "Hallelujah Here Below",
+      "url": "https://open.spotify.com/track/5PY5NbWxkAUkVQuvIuTHkz"
     }
   ],
   "unique_name": "Hold Hope",

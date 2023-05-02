@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -6534,7 +6534,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 228293,
       "name": "\u05d0\u05d4\u05d1\u05d4 \u05e7\u05e6\u05e8\u05d4",
       "url": "https://open.spotify.com/track/2JgH4aj4Afie8gZa4T6vmG"
@@ -8070,6 +8070,24 @@
     {
       "album": {
         "name": "\u05d2\u05e0\u05d6\u05d1",
+        "url": "https://open.spotify.com/album/2eCDM7Y3XlIxxHF2HErwam"
+      },
+      "artists": [
+        {
+          "name": "Balishag",
+          "url": "https://open.spotify.com/artist/1zZ8q7ULCRLJDqRN2kMxC2"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198787,
+      "name": "\u05d2\u05e0\u05d6\u05d1",
+      "url": "https://open.spotify.com/track/0TNpCF1hyufMCwuJUyfyzd"
+    },
+    {
+      "album": {
+        "name": "\u05d2\u05e0\u05d6\u05d1",
         "url": "https://open.spotify.com/album/6Hk5tOX8lYZ74aIP56iUbq"
       },
       "artists": [
@@ -8080,7 +8098,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 198787,
       "name": "\u05d2\u05e0\u05d6\u05d1",
       "url": "https://open.spotify.com/track/6JaYJTrZMTlITIKWaGGY6h"
@@ -10488,7 +10506,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 153969,
       "name": "\u05de\u05d4 \u05e2\u05d5\u05d1\u05e8 \u05dc\u05da \u05d1\u05e8\u05d0\u05e9",
       "url": "https://open.spotify.com/track/6d8ZHsSyTg6ABLkWNCZdSy"
@@ -10752,7 +10770,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 166947,
       "name": "\u05de\u05d8\u05e4\u05e1\u05d9\u05dd \u05e2\u05dc \u05d4\u05e7\u05d9\u05e8\u05d5\u05ea",
       "url": "https://open.spotify.com/track/3hpaRxH73ciJCuH6QcNWXO"
@@ -11108,7 +11126,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 159780,
       "name": "\u05de\u05e8\u05d5\u05e7\u05d5",
       "url": "https://open.spotify.com/track/7deF5LnlabZ7YohrHriZfl"
@@ -11426,7 +11444,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 244939,
       "name": "\u05e1\u05d4\u05e8\u05d4",
       "url": "https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH"
@@ -12016,7 +12034,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 250878,
       "name": "\u05e2\u05d9\u05e8 \u05e0\u05de\u05dc",
       "url": "https://open.spotify.com/track/6NUzJGlQORUv6NjUwcefr8"
@@ -13285,6 +13303,28 @@
     },
     {
       "album": {
+        "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
+        "url": "https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f"
+      },
+      "artists": [
+        {
+          "name": "Ness",
+          "url": "https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe"
+        },
+        {
+          "name": "\u05e1\u05d8\u05d9\u05dc\u05d4",
+          "url": "https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
+      "url": "https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg"
+    },
+    {
+      "album": {
         "name": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05d6\u05d4 \u05d0\u05e0\u05d9 \u05d5\u05d0\u05ea",
         "url": "https://open.spotify.com/album/6lJ9pg55PjM6yYcX4a78JA"
       },
@@ -13536,7 +13576,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-02",
       "duration_ms": 275738,
       "name": "\u200f\u05e9\u05dc\u05d5\u05d5\u05d4 \u05d1\u05d0\u05e8\u05de\u05d5\u05e0\u05d5\u05ea\u05d9\u05d9\u05da",
       "url": "https://open.spotify.com/track/0PfvEnfj3hHl7zlc0WcfGY"

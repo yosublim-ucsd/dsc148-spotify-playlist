@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 57046,
+  "num_followers": 57059,
   "original_name": "Harp Lullabies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWUzODA2ZDNjOTU2MTAyODE2NWVmMTQ4MGI3ZTFkNzExM2VhZWUw",
+  "snapshot_id": "MCxjZDY4MjQwOTc4YzU2OGZlN2IwZTA5Mzg3NDgxNjIyOTJkMzY1MzUx",
   "tracks": [
     {
       "added_at": "2023-04-21 01:00:00",
@@ -2887,70 +2887,6 @@
       "duration_ms": 97124,
       "name": "Being With You",
       "url": "https://open.spotify.com/track/64PUHLXvSJNiNIhKW1WzJ2"
-    },
-    {
-      "added_at": "2023-04-21 01:00:00",
-      "album": {
-        "name": "As You Fall Asleep",
-        "url": "https://open.spotify.com/album/3Wh3lssmmWfvlTC3xouIXP"
-      },
-      "artists": [
-        {
-          "name": "Kim Wayne",
-          "url": "https://open.spotify.com/artist/61rwfAiRHfG3L9DEvzUQoW"
-        }
-      ],
-      "duration_ms": 88783,
-      "name": "As You Fall Asleep",
-      "url": "https://open.spotify.com/track/3e02zZNzCZ0i9WVMqhD0Xz"
-    },
-    {
-      "added_at": "2023-04-21 01:00:00",
-      "album": {
-        "name": "Morning Ditty",
-        "url": "https://open.spotify.com/album/0SzAm5sUnmYn8IBh06Ku0L"
-      },
-      "artists": [
-        {
-          "name": "Lovell Caldwell",
-          "url": "https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82"
-        }
-      ],
-      "duration_ms": 97500,
-      "name": "Morning Ditty",
-      "url": "https://open.spotify.com/track/6PiwFv0GoSJbUeXF57YtJv"
-    },
-    {
-      "added_at": "2023-04-21 01:00:00",
-      "album": {
-        "name": "Song Of The Small Bear",
-        "url": "https://open.spotify.com/album/7v3O7qxke2x91cxQDmUv8G"
-      },
-      "artists": [
-        {
-          "name": "Jacob Radcliff",
-          "url": "https://open.spotify.com/artist/48yYO2xrZxzM3xEjDujE0d"
-        }
-      ],
-      "duration_ms": 104347,
-      "name": "Song Of The Small Bear",
-      "url": "https://open.spotify.com/track/40mHbIVXHZwZiUFomKa3aP"
-    },
-    {
-      "added_at": "2023-04-21 01:00:00",
-      "album": {
-        "name": "Frances Flamingo",
-        "url": "https://open.spotify.com/album/5stM92omwSJQVBvf4jmOZN"
-      },
-      "artists": [
-        {
-          "name": "Layla Malley",
-          "url": "https://open.spotify.com/artist/2APHMT2p7Cp8GbJvaOfvk1"
-        }
-      ],
-      "duration_ms": 91750,
-      "name": "Frances Flamingo",
-      "url": "https://open.spotify.com/track/3qIALRjdK35omz1lCcMllw"
     }
   ],
   "unique_name": "Harp Lullabies",

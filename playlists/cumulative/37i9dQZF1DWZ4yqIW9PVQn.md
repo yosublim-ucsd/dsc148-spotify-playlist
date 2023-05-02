@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-116 songs - 7 hr 7 min
+117 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Endless dream, good night](https://open.spotify.com/track/1Tn3BfNkoQio5yL0ZbO2z8) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 3:00 | 2022-11-01 |  |
 | [Even if a memorable day comes](https://open.spotify.com/track/4qf2fNRdDoNszKfQ6weq4P) | [NC.A](https://open.spotify.com/artist/1uzIyOg5F7ULZ3kWvRfivh) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/6ew14GyXhYrAkEMQbPgFh7) | 3:46 | 2022-11-01 |  |
 | [Everything](https://open.spotify.com/track/4mJVcd0bSD4BOaXPjkP13V) | [Han Seung Ju](https://open.spotify.com/artist/7tB1cmoKNKTRIOtDbjn9Om) | [Everything](https://open.spotify.com/album/0oS7hbD9Hbqnz7SkxCd1Ud) | 4:00 | 2022-07-04 |  |
-| [Evoked](https://open.spotify.com/track/5bkstH3fzFHvDnvVPs7KRZ) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Poom](https://open.spotify.com/album/7pbDDSvoSkldVRyLZ27gGH) | 3:58 | 2022-07-04 |  |
+| [Evoked](https://open.spotify.com/track/16n6MHZ3CVhFq3DPehaVbi) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Poom](https://open.spotify.com/album/2dBvhsZXWUEX2Q2Nw4zNC7) | 3:58 | 2022-11-03 |  |
+| [Evoked](https://open.spotify.com/track/5bkstH3fzFHvDnvVPs7KRZ) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Poom](https://open.spotify.com/album/7pbDDSvoSkldVRyLZ27gGH) | 3:58 | 2022-07-04 | 2023-05-02 |
 | [Fade Away](https://open.spotify.com/track/6D24uCuTJOhirnmRDtyB0m) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:51 | 2022-07-04 |  |
 | [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 | 2022-07-04 |  |
 | [Falling](https://open.spotify.com/track/6qk7gfVgnuiKPaJ5b9SYvn) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 4:25 | 2022-07-04 |  |

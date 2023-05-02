@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-281 songs - 1 day 2 hr 9 min
+282 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,13 +103,14 @@
 | [Final Stand](https://open.spotify.com/track/799AJ4e4RigpK4Jf3qSGZ8) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [The Secret of Our Time](https://open.spotify.com/album/6vg6E4ajaXNPkJuZnobnUy) | 6:09 | 2021-11-30 | 2022-02-15 |
 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 | 2021-11-30 | 2022-07-29 |
 | [Freya](https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/3s4TEYpm0Nl7csTO3NCQ1I) | 4:34 | 2022-04-28 | 2023-04-30 |
+| [Freya](https://open.spotify.com/track/6WGAMXLrez7idFa5DLeWrM) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/1GyHRxKZ2DUsOrXSKuJUtC) | 4:34 | 2023-03-10 |  |
 | [Funeralopolis](https://open.spotify.com/track/6DU1WKdUnR7OZkw7BZl9P0) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 8:43 | 2022-04-28 | 2023-03-23 |
 | [Funeralopolis](https://open.spotify.com/track/6rQG8QH1rGoCOeGHdrnYhb) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone \(Remaster\)](https://open.spotify.com/album/2ntG8GB5e2RuOYkSmBo1ij) | 8:43 | 2021-11-30 | 2022-07-29 |
 | [Garden](https://open.spotify.com/track/1JwGFayDoV1jQorQcz9d8o) | [Asteroid](https://open.spotify.com/artist/7xpOvrTzp3BeaBJQ3LPp1n) | [II](https://open.spotify.com/album/01X5bu239EGtb6DNgC86aM) | 4:26 | 2021-11-30 | 2022-02-13 |
 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 | 2021-11-30 |  |
 | [Get It](https://open.spotify.com/track/1yhiJxnv6BryMp1zVEQ9dQ) | [Buffalo Killers](https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV) | [Dig\. Sow\. Love\. Grow.](https://open.spotify.com/album/1C8b4npg6yWnF41z7z85jB) | 3:10 | 2021-11-30 | 2022-07-25 |
 | [Get It](https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee) | [Buffalo Killers](https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV) | [Dig\. Sow\. Love\. Grow.](https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2) | 3:10 | 2022-04-28 | 2023-03-23 |
-| [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 | 2023-02-10 |  |
+| [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 | 2023-02-10 | 2023-05-02 |
 | [Ghost In My Speaker](https://open.spotify.com/track/4iv6rGqTTY9OPo3gO9kImr) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Love, Sex, Volume](https://open.spotify.com/album/5c8n4VqsS8iUCCSJtBBsWQ) | 4:17 | 2021-11-30 | 2022-07-24 |
 | [Gimme the Keys](https://open.spotify.com/track/2spBFZ0QX3dr0litwWfsmC) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Book of Bad Decisions](https://open.spotify.com/album/4NhNjAi8FbwJQBsYf7BSfS) | 3:32 | 2021-11-30 | 2022-07-29 |
 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 | 2021-11-30 |  |

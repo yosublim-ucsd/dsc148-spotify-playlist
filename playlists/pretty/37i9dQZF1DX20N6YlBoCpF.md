@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die nuutste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=08iIfRLmQOut8RcVcUBeHw">Prop</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,752 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,777 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 |
 | 50 | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/album/1qwFb54zWa4KS1W0swu093) | 3:19 |
 
-Snapshot ID: `MCxmYWM3NTk5MzQ1MWM1YWQ2MGRkMmQyOGRiY2Y4Yjc1OGQ5OTVlNWEz`
+Snapshot ID: `MCw5MjdjMTcwZTlkNjA4N2QyYTdlMDllZjJhYmZlMWQ2MTRkOTQ2YmMy`

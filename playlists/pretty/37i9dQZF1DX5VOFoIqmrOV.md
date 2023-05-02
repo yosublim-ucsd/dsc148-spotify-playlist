@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,771 likes - 69 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,303 likes - 69 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 68 | [Baitikochi Chuste](https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 3:26 |
 | 69 | [Undiporaadhey](https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hushaaru](https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5) | 2:53 |
 
-Snapshot ID: `MCxkZDFkYzc0Zjc0NGIwZGE5ODQ1OThmODE4M2MwOGM0ZTE0MWNmZjg2`
+Snapshot ID: `MCxkMjEzYjFkNDY2OTM5NDJjY2EyMWRjNDBiZmRjMTgxOTIxNzVjNmU4`
