@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Luz Pinos",
-  "num_followers": 53996,
+  "num_followers": 54010,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDQzNDQyZTM4MzdmZjc1ZGYwNWNiOTQxOWQxODQzYTA2MjRjYTAx",
+  "snapshot_id": "MCw0ZDU2ODAyODIxYzg0MTc5ZWJiZjNkNzZhMzk2NDg5Yzg1Mjk5NjBl",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 165808,
       "name": "Particular",
       "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 212444,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 193750,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Mi lugar en el mundo",
-        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
-      },
-      "artists": [
-        {
-          "name": "Agustina Pampin",
-          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Mi lugar en el mundo",
-      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Sigue Avanzando",
         "url": "https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 214010,
       "name": "Sigue Avanzando",
       "url": "https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Mi lugar en el mundo",
+        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
+      },
+      "artists": [
+        {
+          "name": "Agustina Pampin",
+          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Mi lugar en el mundo",
+      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Un Caf\u00e9",
+        "url": "https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG"
+      },
+      "artists": [
+        {
+          "name": "Mila Magal",
+          "url": "https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV"
+        }
+      ],
+      "duration_ms": 215690,
+      "name": "Un Caf\u00e9",
+      "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Simona a Guitarra y Voz (Lado A)",
         "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 178067,
       "name": "Empate",
       "url": "https://open.spotify.com/track/1ltnHwKy5jFgnJGtW056F0"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Un Caf\u00e9",
-        "url": "https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG"
-      },
-      "artists": [
-        {
-          "name": "Mila Magal",
-          "url": "https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV"
-        }
-      ],
-      "duration_ms": 215690,
-      "name": "Un Caf\u00e9",
-      "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "La Guarida",
+        "url": "https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV"
+      },
+      "artists": [
+        {
+          "name": "Julian Mourin",
+          "url": "https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "La Guarida",
+      "url": "https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Disfon\u00eda",
         "url": "https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "La Guarida",
-        "url": "https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV"
-      },
-      "artists": [
-        {
-          "name": "Julian Mourin",
-          "url": "https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "La Guarida",
-      "url": "https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Me Fui",
         "url": "https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Canciones de Mal Gusto para Gente Depresiva",
-        "url": "https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx"
-      },
-      "artists": [
-        {
-          "name": "Aerobot",
-          "url": "https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ"
-        }
-      ],
-      "duration_ms": 192687,
-      "name": "Interludio en el Ata\u00fad",
-      "url": "https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Canci\u00f3n de oto\u00f1o",
         "url": "https://open.spotify.com/album/0sqxQms2M4ouTa1y0KOhFN"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 261808,
       "name": "Canci\u00f3n de oto\u00f1o",
       "url": "https://open.spotify.com/track/5mxCXwFixheHBlsW8nEmVF"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Canciones de Mal Gusto para Gente Depresiva",
+        "url": "https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx"
+      },
+      "artists": [
+        {
+          "name": "Aerobot",
+          "url": "https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ"
+        }
+      ],
+      "duration_ms": 192687,
+      "name": "Interludio en el Ata\u00fad",
+      "url": "https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn"
     },
     {
       "added_at": "2023-04-21 03:00:00",

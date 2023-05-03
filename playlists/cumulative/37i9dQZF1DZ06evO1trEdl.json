@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 251120,
       "name": "Another Heartache",
       "url": "https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 404080,
       "name": "MacArthur Park",
       "url": "https://open.spotify.com/track/5ORCXq29lxskGi0V082NBl"
@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Standing Up For Love",
+      "url": "https://open.spotify.com/track/6v4WVyvDlAvpTBuQe9RL8B"
+    },
+    {
+      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -1153,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "The Best Of The Three Degrees: When Will I See You Again",
+        "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203933,
+      "name": "Take Good Care of Yourself",
+      "url": "https://open.spotify.com/track/5atFgDE8TM07EhCKkBIPlq"
+    },
+    {
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
       },
@@ -1164,7 +1200,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 205133,
       "name": "Take Good Care of Yourself",
       "url": "https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u"

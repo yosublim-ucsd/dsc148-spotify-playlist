@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 67770,
+  "num_followers": 67773,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM2MzAzODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM2MzkwMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -185,7 +185,27 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Slzy",
+        "url": "https://open.spotify.com/album/3GYATvHPq0inFsTEVlxZkZ"
+      },
+      "artists": [
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        },
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "duration_ms": 150926,
+      "name": "Slzy",
+      "url": "https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "\u010cernob\u00edlej sv\u011bt",
         "url": "https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx"
@@ -213,95 +233,7 @@
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "ROADTRIP",
-        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Benz",
-      "url": "https://open.spotify.com/track/1iOXr3xZSuF62boF7ygB6L"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Sant\u00e9",
-        "url": "https://open.spotify.com/album/3pYgvRN1KdLBR9GLUcB4iB"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Sant\u00e9",
-      "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "OneRepublic (Japan Paradise Tour Edition)",
-        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Barvy",
-        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "Rozd\u011blen\u00fd sv\u011bty",
-      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Slzy",
-        "url": "https://open.spotify.com/album/3GYATvHPq0inFsTEVlxZkZ"
-      },
-      "artists": [
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
-        },
-        {
-          "name": "Ben Cristovao",
-          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
-        }
-      ],
-      "duration_ms": 150926,
-      "name": "Slzy",
-      "url": "https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Secret Eyes",
         "url": "https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ"
@@ -325,7 +257,163 @@
       "url": "https://open.spotify.com/track/592mMetMyxrHCM9jJaNZjX"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Sant\u00e9",
+        "url": "https://open.spotify.com/album/3pYgvRN1KdLBR9GLUcB4iB"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Sant\u00e9",
+      "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Barvy",
+        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 211891,
+      "name": "Rozd\u011blen\u00fd sv\u011bty",
+      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Benz",
+      "url": "https://open.spotify.com/track/1iOXr3xZSuF62boF7ygB6L"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Secret Eyes",
+        "url": "https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "Secret eyes",
+      "url": "https://open.spotify.com/track/7EdsMzXFu88F4inlWr4ElJ"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/7E5hostt4jAy1dfvAdiIza"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "kv\u00edtek",
+          "url": "https://open.spotify.com/artist/5LGUSyhIOX9WSVCG6Ron2C"
+        }
+      ],
+      "duration_ms": 134328,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/597xR7zSTBE6aZ3Qbs1YeM"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "NSD",
+        "url": "https://open.spotify.com/album/55ZG26h2u7eSkBVxCNachx"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 215171,
+      "name": "Ibalgin",
+      "url": "https://open.spotify.com/track/4UZ91aYQisCeUTyaw0YxZ2"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
@@ -349,127 +437,7 @@
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Sliby & L\u017ei",
-        "url": "https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl"
-      },
-      "artists": [
-        {
-          "name": "\u0160KWOR",
-          "url": "https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "S\u00edla Starejch V\u00edn",
-      "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Corrida",
-        "url": "https://open.spotify.com/album/5cvX4JgEXsk11U4g90bvrh"
-      },
-      "artists": [
-        {
-          "name": "Kab\u00e1t",
-          "url": "https://open.spotify.com/artist/2f1Czzz5n4BX80U6cksGr9"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mal\u00e1 d\u00e1ma",
-      "url": "https://open.spotify.com/track/0nVCQoIiDjnZWXHMRCD2Ko"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Pretty Boy",
-        "url": "https://open.spotify.com/album/7E5hostt4jAy1dfvAdiIza"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "kv\u00edtek",
-          "url": "https://open.spotify.com/artist/5LGUSyhIOX9WSVCG6Ron2C"
-        }
-      ],
-      "duration_ms": 134328,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/597xR7zSTBE6aZ3Qbs1YeM"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Secret Eyes",
-        "url": "https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        },
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "Secret eyes",
-      "url": "https://open.spotify.com/track/7EdsMzXFu88F4inlWr4ElJ"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "NSD",
-        "url": "https://open.spotify.com/album/55ZG26h2u7eSkBVxCNachx"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 215171,
-      "name": "Ibalgin",
-      "url": "https://open.spotify.com/track/4UZ91aYQisCeUTyaw0YxZ2"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -489,23 +457,7 @@
       "url": "https://open.spotify.com/track/7E8LK4R9gAkSG4CD1kqvsX"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "TIMBERLAKETRAPPED 2",
-        "url": "https://open.spotify.com/album/19O2oO9bmWV7z3O6X5WV3j"
-      },
-      "artists": [
-        {
-          "name": "CA$HANOVA BULHAR",
-          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Praha den a noc",
-      "url": "https://open.spotify.com/track/7xWbvfPrSjTWdsBNHOqdJJ"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -521,23 +473,7 @@
       "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Kruhy & Vlny (217 Twins Edition)",
         "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
@@ -569,35 +505,23 @@
       "url": "https://open.spotify.com/track/1cPOqwSk4Fn3w9KO3HkO46"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
-        "name": "The Heist",
-        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
       "artists": [
         {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 258431,
-      "name": "Can't Hold Us (feat. Ray Dalton)",
-      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -613,23 +537,23 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
-        "name": "Nikdy Nic Nebylo",
-        "url": "https://open.spotify.com/album/68gmC2ApdLfyDv43MeHsIL"
+        "name": "TIMBERLAKETRAPPED 2",
+        "url": "https://open.spotify.com/album/19O2oO9bmWV7z3O6X5WV3j"
       },
       "artists": [
         {
-          "name": "Sto zv\u00ed\u0159at",
-          "url": "https://open.spotify.com/artist/4fLCFZWbgAALL8veJBj8lX"
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
         }
       ],
-      "duration_ms": 130520,
-      "name": "Nikdy Nic Nebylo",
-      "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
+      "duration_ms": 120000,
+      "name": "Praha den a noc",
+      "url": "https://open.spotify.com/track/7xWbvfPrSjTWdsBNHOqdJJ"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Sv\u011bdom\u00ed",
         "url": "https://open.spotify.com/album/671IMix7dK4HR0b2XDZqOk"
@@ -649,7 +573,39 @@
       "url": "https://open.spotify.com/track/54H0xbH1zRSpIooA56rHva"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Corrida",
+        "url": "https://open.spotify.com/album/5cvX4JgEXsk11U4g90bvrh"
+      },
+      "artists": [
+        {
+          "name": "Kab\u00e1t",
+          "url": "https://open.spotify.com/artist/2f1Czzz5n4BX80U6cksGr9"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mal\u00e1 d\u00e1ma",
+      "url": "https://open.spotify.com/track/0nVCQoIiDjnZWXHMRCD2Ko"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Sliby & L\u017ei",
+        "url": "https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl"
+      },
+      "artists": [
+        {
+          "name": "\u0160KWOR",
+          "url": "https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "S\u00edla Starejch V\u00edn",
+      "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Detektor III",
         "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
@@ -665,23 +621,7 @@
       "url": "https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Na\u0161im klient\u016fm",
-        "url": "https://open.spotify.com/album/51cRAfvSPuvSkNwZvrpxfb"
-      },
-      "artists": [
-        {
-          "name": "Wohnout",
-          "url": "https://open.spotify.com/artist/0ZDbrXYXNaO94VjgXjdFh7"
-        }
-      ],
-      "duration_ms": 256720,
-      "name": "Svaz \u010desk\u00fdch boh\u00e9m\u016f",
-      "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -701,7 +641,7 @@
       "url": "https://open.spotify.com/track/1mDgpMsz6fDE7DDZIV9kW3"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Secret Eyes",
         "url": "https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ"
@@ -717,31 +657,39 @@
       "url": "https://open.spotify.com/track/2EQ3fUf1zjUXmGAg5pnaWK"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
-        "name": "Kruhy & Vlny (217 Twins Edition)",
-        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+        "name": "Nikdy Nic Nebylo",
+        "url": "https://open.spotify.com/album/68gmC2ApdLfyDv43MeHsIL"
       },
       "artists": [
         {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        },
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+          "name": "Sto zv\u00ed\u0159at",
+          "url": "https://open.spotify.com/artist/4fLCFZWbgAALL8veJBj8lX"
         }
       ],
-      "duration_ms": 201540,
-      "name": "Novej Sv\u011bt",
-      "url": "https://open.spotify.com/track/5kw5hKBwIUgjAu97QAt0hS"
+      "duration_ms": 130520,
+      "name": "Nikdy Nic Nebylo",
+      "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Secret Eyes",
+        "url": "https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 118208,
+      "name": "Zm\u011bnil se mi \u017eivot",
+      "url": "https://open.spotify.com/track/4w477HiP8cRWOYDqjd4Bxl"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -757,43 +705,23 @@
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
-        "name": "TRAPPIN LONELY",
-        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
+        "name": "Secret Eyes",
+        "url": "https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ"
       },
       "artists": [
         {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Baby a Benzo",
-      "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
+      "duration_ms": 140000,
+      "name": "Go hard",
+      "url": "https://open.spotify.com/track/5xyA2Dc21QB67RVUtCVZh9"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
-      "album": {
-        "name": "Propustka do pekel",
-        "url": "https://open.spotify.com/album/1g3CDuUwQSEcoaMN0Qpr2H"
-      },
-      "artists": [
-        {
-          "name": "DIVOKEJ BILL",
-          "url": "https://open.spotify.com/artist/2e3fdJ9ezTUu9Yj9f7XU08"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "Plakala",
-      "url": "https://open.spotify.com/track/3h9EMra1EG4oncHLPiEJce"
-    },
-    {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
@@ -821,7 +749,7 @@
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -841,7 +769,79 @@
       "url": "https://open.spotify.com/track/6FAQzRCF0unjLA8DBurmKp"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "Kruhy & Vlny (217 Twins Edition)",
+        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 201540,
+      "name": "Novej Sv\u011bt",
+      "url": "https://open.spotify.com/track/5kw5hKBwIUgjAu97QAt0hS"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
+      },
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 258431,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
+      "album": {
+        "name": "TRAPPIN LONELY",
+        "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Baby a Benzo",
+      "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
+    },
+    {
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/5roPFnz41lhHqBL0l0kEQ4"
@@ -885,47 +885,47 @@
       "url": "https://open.spotify.com/track/0fThlG4YBkCsRVSJkGpWAX"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+        "name": "Secret Eyes",
+        "url": "https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+      "duration_ms": 184864,
+      "name": "Nonstop biznis",
+      "url": "https://open.spotify.com/track/1dTqZ2BUGwV0w0s4U6EZur"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
-        "name": "Kruhy & Vlny",
-        "url": "https://open.spotify.com/album/5oBkt45ptHRcJOp8xPpw1L"
+        "name": "Secret Eyes",
+        "url": "https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ"
       },
       "artists": [
         {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
         },
         {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
         }
       ],
-      "duration_ms": 204373,
-      "name": "FREE KARLO",
-      "url": "https://open.spotify.com/track/1GvNhTv4p4pyunXvVCZAjb"
+      "duration_ms": 186496,
+      "name": "Vitamin L",
+      "url": "https://open.spotify.com/track/6oRpdTm0ja5d9q3EKHuRBt"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -945,20 +945,20 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2023-05-01 09:46:11",
+      "added_at": "2023-05-02 12:31:39",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     }
   ],
   "unique_name": "Top 50 - Czech Republic",

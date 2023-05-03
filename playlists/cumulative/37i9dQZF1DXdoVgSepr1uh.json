@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "CHOKA CHOKA",
+        "url": "https://open.spotify.com/album/3uj4YB1j4R5r4Hkol6pbVI"
+      },
+      "artists": [
+        {
+          "name": "Anto Bosman",
+          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "CHOKA CHOKA",
+      "url": "https://open.spotify.com/track/1IqRotJFTJdprbNtm7Ja0j"
+    },
+    {
+      "album": {
         "name": "CLASS #02: DT.Bilardo",
         "url": "https://open.spotify.com/album/35Gj65krTFwrrU5ZgNQFZo"
       },
@@ -2598,6 +2616,28 @@
       "duration_ms": 148716,
       "name": "Prende la C\u00e1mara",
       "url": "https://open.spotify.com/track/2UcWAHN6TRQtkZovAuwySo"
+    },
+    {
+      "album": {
+        "name": "PRESI\u00d3N",
+        "url": "https://open.spotify.com/album/0pTere7czaMnyRpVs7i6fP"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187481,
+      "name": "PRESI\u00d3N",
+      "url": "https://open.spotify.com/track/4zCyJr1apBS2791oMtea5f"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Timeless & classic Arabic songs",
+  "description": "Timeless & classic Arabic songs. Cover: Warda",
   "name": "Arabic Classics",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 219599,
       "name": "Awel Mara",
       "url": "https://open.spotify.com/track/6TbxWXPwXo8hclWtsP3eWP"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 541297,
       "name": "Bahlam Bek",
       "url": "https://open.spotify.com/track/4aiGuFZXJUKJZYvc19g7M7"
@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Aghany Film Maabodet El Gamaheer",
+        "url": "https://open.spotify.com/album/4Uso13tX7qhkdyH3O8kVUc"
+      },
+      "artists": [
+        {
+          "name": "Abdel Halim Hafez",
+          "url": "https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1248014,
+      "name": "Gabar",
+      "url": "https://open.spotify.com/track/0fq53r3URq2W2Oyioi4WwP"
+    },
+    {
+      "album": {
         "name": "Shta'na Aa Lebnan",
         "url": "https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 420872,
       "name": "Khosara",
       "url": "https://open.spotify.com/track/2sM3SQwxMsIkAtftW7Fl4w"
@@ -686,6 +704,24 @@
       "duration_ms": 580272,
       "name": "La Mosh Ana Ely Abky",
       "url": "https://open.spotify.com/track/0uJDPlP8M8GX3rtkN42zmw"
+    },
+    {
+      "album": {
+        "name": "Abtal El Ghad",
+        "url": "https://open.spotify.com/album/6eKJZSFMeYoB8CqNa6GLft"
+      },
+      "artists": [
+        {
+          "name": "Karem Mahmoud",
+          "url": "https://open.spotify.com/artist/5553HL7hQzLU5cH2xWe0jR"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375640,
+      "name": "Machroul Alik Machroul",
+      "url": "https://open.spotify.com/track/3cwqnP80jyybhbb8n1kIfW"
     },
     {
       "album": {
@@ -862,7 +898,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 353026,
       "name": "Toba",
       "url": "https://open.spotify.com/track/463xNIeV700zPD76R2wXQq"

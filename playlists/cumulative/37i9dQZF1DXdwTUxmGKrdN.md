@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-211 songs - 15 hr 33 min
+212 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Get Up, Stand Up](https://open.spotify.com/track/6pojpuQZ2BdoMtUjJJveia) | [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu), [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/13irGIRyXzvK9b39Zqcljs) | 4:57 | 2022-04-11 | 2022-04-21 |
 | [Get Up, Stand Up](https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq), [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi) | 4:57 | 2022-07-18 |  |
 | [Golden](https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Rite of Passage](https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A) | 3:46 | 2022-04-11 | 2022-10-01 |
-| [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 | 2021-12-27 |  |
+| [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 | 2021-12-27 | 2023-05-03 |
 | [Gypsy Soul](https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Gypsy Soul](https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld) | 3:42 | 2022-04-11 | 2023-04-15 |
 | [Happy Go Lucky](https://open.spotify.com/track/1vr8HYGVMK0lQn7DgLPewS) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Hardcastle 8](https://open.spotify.com/album/1HAH0iyAYIFMOmD6AqGmDP) | 4:13 | 2023-03-09 | 2023-04-09 |
 | [Happy Go Lucky](https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Paul Hardcastle 8](https://open.spotify.com/album/2s9Zd05UpwRAoTQnwAmCIU) | 4:14 | 2021-12-27 | 2022-07-24 |
@@ -216,6 +216,7 @@
 | [What You Do To Me](https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do to Me](https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1) | 4:57 | 2022-05-23 | 2022-07-29 |
 | [When We Dance](https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Into the Light](https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR) | 4:24 | 2021-12-27 |  |
 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 | 2021-12-27 |  |
+| [Workin'](https://open.spotify.com/track/1XggkknnMxiR3X3WJSD8ha) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/7ixjw73GQAtsHWOm62sBF7) | 4:06 | 2023-04-25 |  |
 | [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 | 2022-11-14 | 2023-03-29 |
 | [Zephyr](https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Coevolve](https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT) | 4:53 | 2021-12-27 | 2022-07-24 |
 | [Zephyr](https://open.spotify.com/track/2vtLNu4chmFJA4PDRXHLti) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Coevolve](https://open.spotify.com/album/5mqQN2T1lFJJVl0JkUXI5E) | 4:53 | 2022-10-03 |  |

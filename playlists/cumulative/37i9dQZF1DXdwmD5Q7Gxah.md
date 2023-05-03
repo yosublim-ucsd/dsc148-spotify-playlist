@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: glaive
 
-2,204 songs - 4 day 22 hr 37 min
+2,205 songs - 4 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1667,6 +1667,7 @@
 | [Serotonin](https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Serotonin](https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO) | 3:02 | 2021-03-06 | 2022-01-08 |
 | [Set The Table \(feat\. Claud\)](https://open.spotify.com/track/4KKfz33BvPygaynUJyeyC2) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Set The Table](https://open.spotify.com/album/293J6DF0p1SvXtIt9xFilZ) | 3:15 | 2021-04-10 | 2021-08-14 |
 | [Seven Nights](https://open.spotify.com/track/0OCcQORDDBDAJOXLMcaJuo) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Seven Nights](https://open.spotify.com/album/3AI6Z6CpWrC2f3P9O9OMeR) | 2:50 | 2021-06-09 | 2021-08-14 |
+| [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 | 2023-05-02 |  |
 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 | 2022-04-08 | 2022-05-21 |
 | [Sexy Villain](https://open.spotify.com/track/5UQZGDJ4l2A4JhDhuE9Edc) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 3:08 | 2021-09-25 | 2021-12-02 |
 | [SG Lou](https://open.spotify.com/track/2fkWyHBfRt87VD2Iilb6AM) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [SG Lou](https://open.spotify.com/album/1jBjIutXhOUYpAWrveficC) | 3:52 | 2020-06-29 | 2020-11-27 |

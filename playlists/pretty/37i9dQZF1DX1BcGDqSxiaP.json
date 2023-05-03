@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 18050,
+  "num_followers": 18059,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzAxM2VhYTI0N2ZhNjNiOWVhNDY1MjEwZTUyOGI0NzU3ZjUzYTQ3",
+  "snapshot_id": "MCw3ZjU1YWMzYjcyNDhhZThmYTQwYTQ1ZDEyOTI4NTcwMzEyYzBjMDE5",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -211,18 +211,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Winning Hand",
-        "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
       },
       "artists": [
         {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Sound Of A Broken Man",
-      "url": "https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT"
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -243,18 +243,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+        "name": "Winning Hand",
+        "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
       },
       "artists": [
         {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
         }
       ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+      "duration_ms": 291840,
+      "name": "Sound Of A Broken Man",
+      "url": "https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT"
     },
     {
       "added_at": "2020-09-21 10:42:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,088 likes - 477 songs - 1 day 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,089 likes - 477 songs - 1 day 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 194 | [Whispers](https://open.spotify.com/track/3LT82gwyObsF1vpOVpJcMR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:26 |
 | 195 | [Dream \# 1](https://open.spotify.com/track/4zGOAR0zFJf4IEKOlbqvJA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:39 |
 | 196 | [All The Nasties](https://open.spotify.com/track/4K5yyo3KxyLisOXDuTV7mn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 5:09 |
-| 197 | [Tinderbox](https://open.spotify.com/track/3mNIFeQhmtyZHCxjGNc2IL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:25 |
-| 198 | [Writing](https://open.spotify.com/track/4W2cHubtlOdF2BGCeWjw1r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 3:40 |
+| 197 | [Writing](https://open.spotify.com/track/4W2cHubtlOdF2BGCeWjw1r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 3:40 |
+| 198 | [Tinderbox](https://open.spotify.com/track/3mNIFeQhmtyZHCxjGNc2IL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:25 |
 | 199 | [Open Einde](https://open.spotify.com/track/2NyyzkqlrnpPSqlxBVlH1k) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Vrije Val \(Expanded Edition\)](https://open.spotify.com/album/5BMc77Rg90zCXXmNuuJJu9) | 4:50 |
 | 200 | [The Diving Board](https://open.spotify.com/track/0QRKs4JhXJR7BG4E0Zc3Ka) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 5:59 |
 | 201 | [Tambourine](https://open.spotify.com/track/3Y6uVmU5ndnKlbGdyuwP4t) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:17 |
@@ -214,8 +214,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 204 | [Dream \# 3](https://open.spotify.com/track/7cnCGtAN2cNPanepvsfW0G) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 1:36 |
 | 205 | [Blues For Baby And Me](https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:38 |
 | 206 | [Once We Were Kings](https://open.spotify.com/track/4oxUtmvokfpIqg1HJ9g4pf) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:14 |
-| 207 | [Son Of Your Father](https://open.spotify.com/track/0LiczY4DOe2qDlTw6KgcJg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:48 |
-| 208 | [Kann es wirklich Liebe sein](https://open.spotify.com/track/0758USGXMKnV7zxOqSed5y) | [Magdalena Turba](https://open.spotify.com/artist/1nvfvxzqAFadd4w0SeMRx5), [Pat Lawson](https://open.spotify.com/artist/3vgMnGRwgc3WxbKwvJhD4G), [Marius Claren](https://open.spotify.com/artist/0vXW2Fi2LQhE3lal9GS18s), [Daniel Zillmann](https://open.spotify.com/artist/37kqV9ZD4aSq86OtU5nNsc) | [Der König der Löwen \(Deutscher Original Film\-Soundtrack\)](https://open.spotify.com/album/65Pc4bvmswcUqyslXK17vm) | 3:02 |
+| 207 | [Kann es wirklich Liebe sein](https://open.spotify.com/track/0758USGXMKnV7zxOqSed5y) | [Magdalena Turba](https://open.spotify.com/artist/1nvfvxzqAFadd4w0SeMRx5), [Pat Lawson](https://open.spotify.com/artist/3vgMnGRwgc3WxbKwvJhD4G), [Marius Claren](https://open.spotify.com/artist/0vXW2Fi2LQhE3lal9GS18s), [Daniel Zillmann](https://open.spotify.com/artist/37kqV9ZD4aSq86OtU5nNsc) | [Der König der Löwen \(Deutscher Original Film\-Soundtrack\)](https://open.spotify.com/album/65Pc4bvmswcUqyslXK17vm) | 3:02 |
+| 208 | [Son Of Your Father](https://open.spotify.com/track/0LiczY4DOe2qDlTw6KgcJg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:48 |
 | 209 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
 | 210 | [Hey Ahab](https://open.spotify.com/track/3x8Cv7Mf7zufMptbs1s09o) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 5:39 |
 | 211 | [Street Kids](https://open.spotify.com/track/20FnYowQOrLxU92iyA94ed) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 6:25 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Gnomeo and Juliet](https://open.spotify.com/track/7GpjK6c4S7ihN8fGX3y9lK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:22 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `MjgwNDk3NzksMDAwMDAwMDAyMjJiOWZlY2M5NmZjYjM0NWMyNDg1NTY1ZjA4M2I1YQ==`
+Snapshot ID: `MjgwNTEyMTksMDAwMDAwMDA0ZjgwZmNiN2E4MzNjZDNkNjk0MDk4NDZiNGIyN2FkYQ==`

@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 228253,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 185546,
       "name": "Oh Pueblecito De Belen",
       "url": "https://open.spotify.com/track/4lKI5ZRZ1bDp0F1GcYD58J"
@@ -2937,6 +2937,28 @@
     },
     {
       "album": {
+        "name": "La Navidad es Jes\u00fas",
+        "url": "https://open.spotify.com/album/6XqJivuGFhVC9DYXdFq6JP"
+      },
+      "artists": [
+        {
+          "name": "In Christ Kids",
+          "url": "https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp"
+        },
+        {
+          "name": "In Christ",
+          "url": "https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99632,
+      "name": "Venid Adoremos",
+      "url": "https://open.spotify.com/track/2iOTC85KkWjQG6HwEr7fCh"
+    },
+    {
+      "album": {
         "name": "Welcome Home (Este Es Tu Hogar)",
         "url": "https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB"
       },
@@ -3218,7 +3240,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 192171,
       "name": "Ya Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY"

@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209883,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp"
+    },
+    {
+      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 194611,
       "name": "HEY RAIN",
       "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"

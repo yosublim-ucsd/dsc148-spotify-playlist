@@ -260,7 +260,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 243840,
       "name": "Captain Nemo - Edit",
       "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 478080,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 402259,
       "name": "Ego Rave B",
       "url": "https://open.spotify.com/track/1PhMiQKoYQr0jX0XZbh3sb"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 383535,
       "name": "Kolm",
       "url": "https://open.spotify.com/track/2dakWeynruxsUyeSFvFaaP"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 415542,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/3vRA3f2BSYJLlXhWEkxrMK"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 415542,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL"
@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470400,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
+    },
+    {
+      "album": {
         "name": "LFO",
         "url": "https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 319000,
       "name": "LFO - Leeds Warehouse Mix",
       "url": "https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi"
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 183649,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 221337,
       "name": "One Blood",
       "url": "https://open.spotify.com/track/3UfzdRtfe7NbnIJogNH2Gv"
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 495946,
       "name": "Philly",
       "url": "https://open.spotify.com/track/1yjHf4kssDAt3AsJVzIx1w"
@@ -1861,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Repulsion",
+        "url": "https://open.spotify.com/album/1yIRKNnDElaoWnk0bIDPiK"
+      },
+      "artists": [
+        {
+          "name": "concious",
+          "url": "https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422400,
+      "name": "Repulsion",
+      "url": "https://open.spotify.com/track/3hl0dNGAOK99HqJJKBLsnV"
+    },
+    {
+      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/1VO0UZdtY2nPzF47zYzcmU"
       },
@@ -1898,6 +1934,24 @@
       "duration_ms": 389781,
       "name": "Revolt - Extended Mix",
       "url": "https://open.spotify.com/track/5UAjSVD66PU0VJVDjf0wzj"
+    },
+    {
+      "album": {
+        "name": "Sentio",
+        "url": "https://open.spotify.com/album/5RTxWbp8cl9sBXZBQrBAPi"
+      },
+      "artists": [
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257278,
+      "name": "Sentio",
+      "url": "https://open.spotify.com/track/2M1b6XYvu63jK7JYNg9hHm"
     },
     {
       "album": {
@@ -2500,6 +2554,24 @@
       "duration_ms": 349090,
       "name": "Woow One",
       "url": "https://open.spotify.com/track/2zQJxkF4ikrCpUIVAMDgsu"
+    },
+    {
+      "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462720,
+      "name": "Wormhole",
+      "url": "https://open.spotify.com/track/6uWONZ4EV0NcH59BMiMGYx"
     },
     {
       "album": {

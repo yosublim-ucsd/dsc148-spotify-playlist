@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Aguila Aguile",
+        "url": "https://open.spotify.com/album/5IKcp0vWWZOMj5PROi3BOi"
+      },
+      "artists": [
+        {
+          "name": "Orka",
+          "url": "https://open.spotify.com/artist/694axYJ7pjeqqmZOl6NALd"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266894,
+      "name": "Aguila Aguile",
+      "url": "https://open.spotify.com/track/0Bc6XFlP3YBzz4H0MSBGMl"
+    },
+    {
+      "album": {
         "name": "Been a Long Time",
         "url": "https://open.spotify.com/album/0VLeRZC4agTKBMryZPgPYr"
       },
@@ -132,6 +150,24 @@
       "duration_ms": 224483,
       "name": "Burning Fire",
       "url": "https://open.spotify.com/track/24bupXCofjyC7BreGcApcb"
+    },
+    {
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/345maRI75nH0ptXb6pVBXQ"
+      },
+      "artists": [
+        {
+          "name": "Lola K",
+          "url": "https://open.spotify.com/artist/05GZduB2GIskihU978qeMW"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214233,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/6He7vKNtiWjkj5Di4c5tKf"
     },
     {
       "album": {
@@ -855,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Mascara Run",
+        "url": "https://open.spotify.com/album/6w36DmHgU9ZH4ZDvRBZYuh"
+      },
+      "artists": [
+        {
+          "name": "Sheer Haimov",
+          "url": "https://open.spotify.com/artist/4iwsoEswW7lHcsgIHsO3pd"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173795,
+      "name": "Mascara Run",
+      "url": "https://open.spotify.com/track/5MJehtbPXBbaxFnGaEP0pK"
+    },
+    {
+      "album": {
         "name": "Maybe You'll Arrive",
         "url": "https://open.spotify.com/album/3PzSdnlAAWzlJ77r2HcFbY"
       },
@@ -891,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Mood (Live at Analog Sessions)",
+        "url": "https://open.spotify.com/album/0mhl4vFRK1RdIGwE2b66Ze"
+      },
+      "artists": [
+        {
+          "name": "Roni Bar Hadas",
+          "url": "https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Mood - Live at Analog Sessions",
+      "url": "https://open.spotify.com/track/2y8dvHkNmsprvwWfmbNqIF"
+    },
+    {
+      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/71r3rcjimNXtdfKZoRl7Gg"
       },
@@ -902,7 +974,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 215472,
       "name": "Moving",
       "url": "https://open.spotify.com/track/3Iyrbc2D7t0JSIrsgDMo9G"
@@ -968,6 +1040,24 @@
       "duration_ms": 240983,
       "name": "Never Ever - Radio Edit",
       "url": "https://open.spotify.com/track/4IJargf2Qc5v7vmZOOWwxj"
+    },
+    {
+      "album": {
+        "name": "ON MY WAY",
+        "url": "https://open.spotify.com/album/4vuD3eA8e1R7gLCAcXC4Ut"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212275,
+      "name": "ON MY WAY",
+      "url": "https://open.spotify.com/track/4ROX1uuhzvVlVAb1JD4QLt"
     },
     {
       "album": {
@@ -1994,7 +2084,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 175259,
       "name": "\u05d0\u05de\u05d0",
       "url": "https://open.spotify.com/track/3wYF5MudhMnKi7ewkE9JJJ"
@@ -2016,6 +2106,36 @@
       "duration_ms": 210769,
       "name": "\u05d0\u05de\u05d9 \u05db\u05d5\u05d0\u05d1\u05ea \u05dc\u05d9",
       "url": "https://open.spotify.com/track/6yuG5qDr6mp5DdOtLTPqjU"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05e0\u05d7\u05e0\u05d5 \u05d4\u05d3\u05d5\u05e8 \u05d4\u05d1\u05d0",
+        "url": "https://open.spotify.com/album/5XOGafHC4OFx8LHGy9D0wl"
+      },
+      "artists": [
+        {
+          "name": "\u05d4\u05dc\u05d4\u05e7\u05d5\u05ea \u05d4\u05e6\u05d1\u05d0\u05d9\u05d5\u05ea",
+          "url": "https://open.spotify.com/artist/4rSGpKNO4s1iBN4yPMaVj9"
+        },
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        },
+        {
+          "name": "Ella Lee",
+          "url": "https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo"
+        },
+        {
+          "name": "Orr Amrami Brockman",
+          "url": "https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "\u05d0\u05e0\u05d7\u05e0\u05d5 \u05d4\u05d3\u05d5\u05e8 \u05d4\u05d1\u05d0",
+      "url": "https://open.spotify.com/track/3RNuHh32RfvbWPTeEZu1vu"
     },
     {
       "album": {
@@ -2102,7 +2222,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 159018,
       "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05e7\u05e6\u05ea \u05e9\u05ea\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/6qq949cEFVrEbKuYFDRIbb"
@@ -2556,7 +2676,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 173918,
       "name": "\u05d1\u05de\u05e6\u05d9\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05ea",
       "url": "https://open.spotify.com/track/29ptgDCRhesqi8HothlQc2"
@@ -2809,6 +2929,28 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d0\u05de\u05ea (\u05de\u05e0\u05d5\u05e8\u05d4 LIVE)",
+        "url": "https://open.spotify.com/album/4hBQQnDayIZSrAjtPbIFLp"
+      },
+      "artists": [
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        },
+        {
+          "name": "Roei Adam",
+          "url": "https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198799,
+      "name": "\u05d4\u05d0\u05de\u05ea",
+      "url": "https://open.spotify.com/track/0TaslWcaNmVorkHjhUitMI"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d0\u05e8\u05e5 \u05d4\u05de\u05d5\u05d1\u05d8\u05d7\u05ea",
         "url": "https://open.spotify.com/album/4dfrLoP4ewNRQPLbpyGpZo"
       },
@@ -2950,7 +3092,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 226079,
       "name": "\u05d4\u05d7\u05dc\u05d9\u05e4\u05d4 \u05d4\u05d0\u05e4\u05d5\u05e8\u05d4",
       "url": "https://open.spotify.com/track/7xuJe7GeVrVvDxRGze1u9M"
@@ -3112,7 +3254,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 186900,
       "name": "\u05d4\u05de\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d0 \u05e0\u05d2\u05de\u05e8\u05d4",
       "url": "https://open.spotify.com/track/61CWsw4LnfMTR4MoXiZKlU"
@@ -3384,7 +3526,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 182000,
       "name": "\u05d7\u05dc\u05e7 \u05de\u05e2\u05e6\u05de\u05d9",
       "url": "https://open.spotify.com/track/4GraasFTiB9Cp6FfuapkNg"
@@ -3406,6 +3548,24 @@
       "duration_ms": 152263,
       "name": "\u05d9\u05d0\u05dc\u05dc\u05d4 \u05d1\u05d9\u05d9",
       "url": "https://open.spotify.com/track/1XO1AePYpXpLxtRWpcaJiJ"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05d3\u05e2\u05ea\u05d9 \u05e9\u05d1\u05e1\u05d5\u05e3 \u05ea\u05d1\u05e8\u05d7",
+        "url": "https://open.spotify.com/album/3pmkrdURRSTZSExX2NrRgD"
+      },
+      "artists": [
+        {
+          "name": "Shira Margalit",
+          "url": "https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "\u05d9\u05d3\u05e2\u05ea\u05d9 \u05e9\u05d1\u05e1\u05d5\u05e3 \u05ea\u05d1\u05e8\u05d7",
+      "url": "https://open.spotify.com/track/638BcGDZKDAjZItfKU2izC"
     },
     {
       "album": {
@@ -3514,6 +3674,24 @@
       "duration_ms": 196480,
       "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6PD3hsprAGIgmJK3ydAF41"
+      },
+      "artists": [
+        {
+          "name": "Shay Hamber",
+          "url": "https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252409,
+      "name": "\u05d9\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/5LZgjFe4cAcbaXWegbL4dh"
     },
     {
       "album": {
@@ -3690,7 +3868,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 122272,
       "name": "\u05db\u05dc\u05d5\u05dd \u05dc\u05d0 \u05e7\u05e8\u05d4",
       "url": "https://open.spotify.com/track/2f4gjt5FMykDEqMVaOBq9h"
@@ -4162,7 +4340,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 211000,
       "name": "\u05dc\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/5Qf4b60SY158CFsXJLlyXl"
@@ -5402,7 +5580,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 171350,
       "name": "\u05e2\u05e5 \u05d0\u05d5 \u05e4\u05dc\u05d9",
       "url": "https://open.spotify.com/track/3yaRKYX25U4bltbiHZpmDP"
@@ -5586,7 +5764,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 165500,
       "name": "\u05e4\u05e8\u05e4\u05e8\u05d9\u05dd \u05e9\u05d7\u05d5\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/0jVXkBHNflfBZLSul58xbx"
@@ -6019,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "\u05e9\u05d7\u05e8 \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+        "url": "https://open.spotify.com/album/0gIKZRjTndpzangn6PB0iS"
+      },
+      "artists": [
+        {
+          "name": "Ifat Bar Sela",
+          "url": "https://open.spotify.com/artist/4tKVsDeR6BMU0niiAcqF9l"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200241,
+      "name": "\u05e9\u05d7\u05e8 \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/3RLz7SapUJNpMfPvo7jUA8"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05d9\u05d0\u05d4\u05d1\u05d5 \u05d0\u05d5\u05ea\u05d9 \u05db\u05db\u05d4",
         "url": "https://open.spotify.com/album/5MPY98aHq9IJ0d7ji613Pr"
       },
@@ -6132,6 +6328,24 @@
       "duration_ms": 175000,
       "name": "\u05e9\u05de\u05e9 \u05d1\u05d7\u05dc\u05d5\u05df (By Offir Malol)",
       "url": "https://open.spotify.com/track/73kQliWg9IPpt6oxAdecWr"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05e2\u05e8 \u05d4\u05e8\u05d7\u05de\u05d9\u05dd (\u05d1\u05d9\u05e6\u05d5\u05e2 \u05de\u05d9\u05d5\u05d7\u05d3 \u05dc\u05d9\u05d5\u05dd \u05d4\u05e9\u05d5\u05d0\u05d4)",
+        "url": "https://open.spotify.com/album/6BJLlVBky4y4SHf5sidx8t"
+      },
+      "artists": [
+        {
+          "name": "Yuval Dayan",
+          "url": "https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236308,
+      "name": "\u05e9\u05e2\u05e8 \u05d4\u05e8\u05d7\u05de\u05d9\u05dd - \u05d1\u05d9\u05e6\u05d5\u05e2 \u05de\u05d9\u05d5\u05d7\u05d3 \u05dc\u05d9\u05d5\u05dd \u05d4\u05e9\u05d5\u05d0\u05d4",
+      "url": "https://open.spotify.com/track/6nzvw7EbtQmDeusbpMmodc"
     },
     {
       "album": {

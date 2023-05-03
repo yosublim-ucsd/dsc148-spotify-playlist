@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 132755,
+  "num_followers": 133012,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmNjNzdhMzA1ZGU4MThiMGZmYTc5YTZmNzQ4OGU4NDgzOGY2YzMx",
+  "snapshot_id": "MCw0ZTA4ZTQ4MDM4MTU5NDlkY2VjYTU1MDUzYWQ0MGY1NjlhYjZhNWIy",
   "tracks": [
     {
       "added_at": "2023-03-07 08:01:20",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Break Ya Neck",
-      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Miss E... So Addictive",
         "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 211120,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
-      },
-      "artists": [
-        {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "Oh Boy",
-      "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "19NaughtyIII",
         "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
       },
@@ -995,6 +975,26 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "Tha Carter III (MTV Bonus Version)",
+        "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Tha Carter III (MTV Bonus Version)",
-        "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -1063,6 +1043,22 @@
       "duration_ms": 196640,
       "name": "If I Can't",
       "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "E.I.",
+      "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1083,22 +1079,6 @@
       "duration_ms": 267933,
       "name": "The Seed (2.0)",
       "url": "https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 285906,
-      "name": "E.I.",
-      "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1211,6 +1191,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "God's Son",
+        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "I Can",
+      "url": "https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "The Best of 2Pac",
         "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
       },
@@ -1231,22 +1227,6 @@
       "duration_ms": 284480,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "God's Son",
-        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "I Can",
-      "url": "https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1679,6 +1659,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "B2K Presents \"You Got Served\" Soundtrack",
+        "url": "https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT"
+      },
+      "artists": [
+        {
+          "name": "M.O.P.",
+          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Ante Up (Robbin Hoodz Theory)",
+      "url": "https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "Under Construction, Part II",
         "url": "https://open.spotify.com/album/0jfrooQp2CEzzX0kwwcnM9"
       },
@@ -1707,22 +1703,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "B2K Presents \"You Got Served\" Soundtrack",
-        "url": "https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT"
-      },
-      "artists": [
-        {
-          "name": "M.O.P.",
-          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Ante Up (Robbin Hoodz Theory)",
-      "url": "https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "The Saga Continues...",
         "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 234773,
       "name": "Diddy (feat. The Neptunes)",
       "url": "https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 304560,
+      "name": "Work It (feat. 50 Cent) - Remix",
+      "url": "https://open.spotify.com/track/7Ml5yFM5H8gCQ4U4NSe4Bc"
     }
   ],
   "unique_name": "Hip-Hop Classics Party",

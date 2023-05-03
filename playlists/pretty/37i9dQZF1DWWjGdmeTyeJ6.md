@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: ODUMODUBLVCK\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,133 likes - 140 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,160 likes - 140 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 139 | [Sunlight](https://open.spotify.com/track/5dUw33Ixf3sX87VqrPi2dK) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Sunlight](https://open.spotify.com/album/3xLqAl2ZClpvrszEepB4dI) | 2:24 |
 | 140 | [Man Eater](https://open.spotify.com/track/4wPOB6Knwc9fYJFPXkf0Zh) | [Paluma](https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4), [Tyson O'brien](https://open.spotify.com/artist/0ipSB6Z9hk2SLLh07tLYNL) | [Man Eater](https://open.spotify.com/album/20TpoQ1kam53Adupaagwgk) | 3:03 |
 
-Snapshot ID: `MCxlOGJlNzk1ZWNjNmZjN2NlN2FmY2NmNWNkZWQ5MGU5Y2IyN2NjMWQw`
+Snapshot ID: `MCxiY2E1ZGM2ZTMwNjlmN2E3NjI3M2IwMTBkYzI0OGVjMjliOGZmZWMx`

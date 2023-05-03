@@ -2,7 +2,7 @@
 
 ### [Indipop Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DX0Uo5pVktwNd)
 
-> Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
+> Throwback to the golden age of Indian pop\. Cover \- Piya Basanti
 
 81 songs - 6 hr 46 min
 

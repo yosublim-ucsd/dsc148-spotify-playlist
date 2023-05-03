@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-84 songs - 5 hr 45 min
+85 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [Hold Your Ground \(feat\. Ethan Holt\)](https://open.spotify.com/track/1hUTI1FVsGJ10SptsuxXkt) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Ethan Holt](https://open.spotify.com/artist/6oXVsRBjoHgCew4S8GZDkl) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:24 | 2022-08-05 |  |
 | [Hometown Glory \- High Contrast Remix](https://open.spotify.com/track/1ESvthpg6hWmjlNJdpTrbH) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Hometown Glory](https://open.spotify.com/album/1uT2pOgyFOXic7AyGCRCwx) | 6:36 | 2022-08-05 |  |
 | [I Refuse](https://open.spotify.com/track/1OBi4IRkuVOCegnDHG3xhj) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [I Refuse / Midnight Express](https://open.spotify.com/album/6Bi0LU2EWGrSRybRuYsScL) | 5:55 | 2022-08-05 | 2023-05-01 |
+| [If We Ever](https://open.spotify.com/track/33LQ2hkSecs8ax6Bz2t9D8) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Tough Guys Don't Dance](https://open.spotify.com/album/4TGg8UNwHYZszTjM24hJSo) | 5:20 | 2023-01-13 |  |
 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 | 2022-08-05 |  |
-| [Journey Inwards](https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Journey Inwards](https://open.spotify.com/album/5wZngiW5puuoM0QGajqBoY) | 5:14 | 2022-08-05 |  |
+| [Journey Inwards](https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Journey Inwards](https://open.spotify.com/album/5wZngiW5puuoM0QGajqBoY) | 5:14 | 2022-08-05 | 2023-05-03 |
 | [Just One Second \- Apex Remix](https://open.spotify.com/track/11IS9sbmnAqSdLQaEvZGbb) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal) | [Sick Music](https://open.spotify.com/album/5m7RGCRrbEhHCrCkNsRPN5) | 6:17 | 2022-08-05 |  |
 | [Let Me Hold You](https://open.spotify.com/track/13rtgTDK9w1clbgXpGuW3y) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Second Nature](https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks) | 3:22 | 2022-08-05 |  |
 | [LK Feat\. Stamina MC \(Carol Carolina Bela\)](https://open.spotify.com/track/2EiazSYyCSlBEKED2EvysD) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Stamina MC](https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o), [XRS](https://open.spotify.com/artist/5ygGHl3fcjSnPYYJE9x1P0), [Stamina MC Carol Carolina Bela](https://open.spotify.com/artist/3LwsDbqIT1UpVagPimtEsF) | [In Rotation](https://open.spotify.com/album/7mbsNDCjwQgI6l36S4ydjt) | 5:29 | 2022-08-05 |  |

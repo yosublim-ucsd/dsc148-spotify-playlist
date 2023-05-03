@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 424014,
+  "num_followers": 424141,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWM5ZDFmNzJhNjRmMjg0ZjA5YTUxZGRmMzQzNzQ0ZjY2OGIzY2Nh",
+  "snapshot_id": "MCxkNDg2NjgzN2JiZmYyN2VjZjdhZmY1M2FlOTU1ZTM5NWFiYThiMjYz",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Late Night Basix Vol. 2",
-        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 359793,
-      "name": "Deep -N- Dirty",
-      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "10Min JAM_V2",
         "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "14 Joints in a Spaceship",
-        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
+        "name": "Late Night Basix Vol. 2",
+        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
       },
       "artists": [
         {
-          "name": "_tillus",
-          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
         }
       ],
-      "duration_ms": 340645,
-      "name": "14 Joints in a Spaceship",
-      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
+      "duration_ms": 359793,
+      "name": "Deep -N- Dirty",
+      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -755,6 +739,22 @@
       "duration_ms": 153345,
       "name": "Obscure",
       "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "14 Joints in a Spaceship",
+        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
+      },
+      "artists": [
+        {
+          "name": "_tillus",
+          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
+        }
+      ],
+      "duration_ms": 340645,
+      "name": "14 Joints in a Spaceship",
+      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Piano FM",
-        "url": "https://open.spotify.com/album/0wuj9pH3qJKJUNJdZhUxte"
-      },
-      "artists": [
-        {
-          "name": "Steve Bug",
-          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
-        }
-      ],
-      "duration_ms": 199084,
-      "name": "The Moment - Radio Edit",
-      "url": "https://open.spotify.com/track/3MgpEmy2bdafbuJaVEWHiv"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "The Sinner \u2014 Time Traveller",
         "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Piano FM",
+        "url": "https://open.spotify.com/album/0wuj9pH3qJKJUNJdZhUxte"
+      },
+      "artists": [
+        {
+          "name": "Steve Bug",
+          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
+        }
+      ],
+      "duration_ms": 199084,
+      "name": "The Moment - Radio Edit",
+      "url": "https://open.spotify.com/track/3MgpEmy2bdafbuJaVEWHiv"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Invisible Man",
         "url": "https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq"
       },
@@ -867,6 +867,38 @@
       "duration_ms": 176482,
       "name": "YOU CAN DO IT",
       "url": "https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Kindzmarauli",
+        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 256695,
+      "name": "Random Places",
+      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Milkyway",
+        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Milkyway",
+      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -891,34 +923,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Milkyway",
-        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
       "artists": [
         {
-          "name": "Worldtraveller",
-          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Milkyway",
-      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Kindzmarauli",
-        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 256695,
-      "name": "Random Places",
-      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -939,18 +955,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+        "name": "Sloh Remixes",
+        "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
       },
       "artists": [
         {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        },
+        {
+          "name": "Edamame",
+          "url": "https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn"
         }
       ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
+      "duration_ms": 225493,
+      "name": "Cami - Edamame Remix",
+      "url": "https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -983,26 +1003,6 @@
       "duration_ms": 271349,
       "name": "Diving into Minds",
       "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Sloh Remixes",
-        "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        },
-        {
-          "name": "Edamame",
-          "url": "https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Cami - Edamame Remix",
-      "url": "https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU"
     }
   ],
   "unique_name": "Lo-Fi House",

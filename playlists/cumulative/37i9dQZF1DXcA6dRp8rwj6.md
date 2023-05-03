@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: CHANMINA\)
 
-1,214 songs - 2 day 13 hr 58 min
+1,216 songs - 2 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/track/4suhf2w4OqkuuwVAeRhk4I) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/album/19fnNOXXg6bPm8TzgQyLwn) | 3:01 | 2022-06-23 | 2022-07-29 |
 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DEAR MISS HOLLOWAY](https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU) | 3:29 | 2022-05-26 | 2022-07-15 |
 | [Dearly Beloved \(feat\. Flee Lord\)](https://open.spotify.com/track/1e7aHgTmshZUnFqiqogWiP) | [Real Bad Man](https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flee Lord](https://open.spotify.com/artist/3I6neO2jiyMa8arh6JBe7e) | [Mood Swings](https://open.spotify.com/album/5cAiCEZjRwxjdoeu8oZaT3) | 2:44 | 2022-02-03 | 2022-03-04 |
+| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-05-02 |  |
 | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/track/0Ls2AaWYmU2LRzWAmFdlkc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/album/3E8eOi78N03MllCrjGGcVz) | 2:11 | 2022-07-14 | 2022-08-26 |
 | [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2023-01-19 | 2023-02-10 |
 | [Demon Time](https://open.spotify.com/track/7sFrPi2J3DCBXS2gTwwf8j) | [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Big Woods Season](https://open.spotify.com/album/601UMIwUTemCXxX6vzTzVa) | 2:51 | 2022-03-18 | 2022-04-01 |
@@ -811,6 +812,7 @@
 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 | 2022-03-10 | 2022-04-08 |
 | [Pew Pew](https://open.spotify.com/track/7b4LMdMrjPLNUNwxO46sQR) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Pew Pew](https://open.spotify.com/album/2dxkkuVraqcsCIbsVgK86h) | 2:40 | 2023-01-06 | 2023-02-17 |
 | [PHASES](https://open.spotify.com/track/1pbPndrjrHw113nlkuKVdp) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [PHASES](https://open.spotify.com/album/1FnUpzg5NHXldkenmBZIv7) | 2:24 | 2022-07-07 | 2022-08-19 |
+| [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 | 2023-05-02 |  |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-19 | 2022-07-01 |
 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 | 2022-07-28 | 2022-09-16 |
 | [PIONEERS](https://open.spotify.com/track/4DtcWvEl0wQT6DhzwYIi0q) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7) | [PIONEERS](https://open.spotify.com/album/5zHk3SxUxWZEfYmI6WzNF4) | 3:08 | 2022-03-24 | 2022-04-15 |

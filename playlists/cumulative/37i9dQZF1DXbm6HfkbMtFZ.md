@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-496 songs - 1 day 6 hr 1 min
+497 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Anthony Kiedis](https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 2:51 | 2021-12-16 |  |
 | [Aphrodite](https://open.spotify.com/track/60q1qCrbsMcz1Dj0mBTjhH) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Nostalgia](https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS) | 3:54 | 2021-12-16 | 2023-03-25 |
 | [Asc\. Scorpio](https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/2Nsk6k3DXUFJ5sZifoM2fk) | 2:46 | 2021-12-16 | 2022-12-24 |
+| [Asc\. Scorpio](https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ) | 2:46 | 2023-04-25 |  |
 | [Asc\. Scorpio](https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/7JU9R2cwpftETvz94nhUfR) | 2:46 | 2022-12-28 | 2023-04-30 |
 | [Atomic Suzie](https://open.spotify.com/track/7KqV9IuvQDZQmQTcUGMjZn) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Atomic Suzie](https://open.spotify.com/album/0pT5vm5rl6XCXmKvKnwZpp) | 3:07 | 2021-12-16 | 2022-07-29 |
 | [Ayonha](https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:39 | 2022-12-05 |  |
@@ -181,7 +182,7 @@
 | [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1bTzErckylA7bBIrBfOgRI) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Hold On \(I Was Wrong\)](https://open.spotify.com/album/1sGQGH1CSRn0888zYxz8EB) | 3:43 | 2022-03-30 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 | 2021-12-16 | 2022-07-29 |
 | [honey thighs](https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [honey thighs](https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC) | 4:44 | 2022-03-30 |  |
-| [Hospital](https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:33 | 2023-04-25 |  |
+| [Hospital](https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:33 | 2023-04-25 | 2023-05-03 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2021-12-16 | 2023-04-30 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2023-04-25 |  |
 | [Hypnosis](https://open.spotify.com/track/3BnKPpfYjejXbZ3Glx0gEp) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/5c1UTJgzQTOAZ2at2cI7Aw) | 3:51 | 2021-12-16 | 2022-07-29 |

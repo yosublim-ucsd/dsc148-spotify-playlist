@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "Bit by Bit, Slowly, To You",
+        "url": "https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Bit by Bit, Slowly, To You",
+      "url": "https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
       },
@@ -1516,7 +1538,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 205306,
       "name": "OceanooM\u2218\u263d",
       "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
@@ -1642,7 +1664,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 205756,
       "name": "People",
       "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
@@ -2228,6 +2250,24 @@
       "duration_ms": 276185,
       "name": "The Elephant",
       "url": "https://open.spotify.com/track/6WbNIhdOsC0rngXTXm2cXv"
+    },
+    {
+      "album": {
+        "name": "The Film",
+        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196386,
+      "name": "The Film",
+      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
     },
     {
       "album": {

@@ -176,10 +176,32 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 181664,
       "name": "Bad Day To Be A Beer",
       "url": "https://open.spotify.com/track/1l2x572l1wPcxxiL2wVAO7"
+    },
+    {
+      "album": {
+        "name": "Bad Day To Be A Beer",
+        "url": "https://open.spotify.com/album/1vEGRtGVSiD0dZabC06f2l"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        },
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181664,
+      "name": "Bad Day To Be A Beer",
+      "url": "https://open.spotify.com/track/43LrMetIAvDF3pvqgEuiub"
     },
     {
       "album": {

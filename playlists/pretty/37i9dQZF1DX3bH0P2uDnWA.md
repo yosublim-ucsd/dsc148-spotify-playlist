@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,821 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,971 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/track/0FilMYb2ATvOOmJPtEH0t3) | [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/album/1a3Ce15aKCM4me0RqMLIUZ) | 4:10 |
 | 120 | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu) | [Player2](https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy), [A\_A\_RonHD](https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS) | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g) | 3:53 |
 
-Snapshot ID: `MCw0MmM4NDI3MTVhYjQ3ZTFlOGNlOGZhM2UxZjI4ZjA0OTYxODYyZTI3`
+Snapshot ID: `MCw0NTkzZTRhNjk0M2JjMjFmOTFlMWIwOGI0N2IzM2NlYTdlYmVmOTQ3`

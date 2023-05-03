@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Codiciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,388 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,646 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 75 | [El Nasa](https://open.spotify.com/track/1PShbghBopSm8zL8uA7PnW) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Nasa](https://open.spotify.com/album/7alGJhllK26YhAFPEuvou6) | 3:11 |
 
-Snapshot ID: `MCxlNWJhNjVkOGE0Yzg2M2Y3MzBiMDk0YjRlYjM5ZjY5OGViYzc3Yjkw`
+Snapshot ID: `MCxkNzc5YmUyM2Y2MjM0MWQ4OWM5NjdjZmExZjI2NGQxNWE5NjM5ZjZi`

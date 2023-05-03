@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Paul Sinha op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,562 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,593 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [GOAT](https://open.spotify.com/track/1TJ9GtbZEJC2Ze5J3PAVH7) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [GOAT](https://open.spotify.com/album/0DsFrYd1H4YaginnzMkUkP) | 2:19 |
 | 90 | [Stilte](https://open.spotify.com/track/1DbUqQsA59SdJ2bJbreuLN) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Stilte](https://open.spotify.com/album/05UIOGNkytQHWK8uznXwld) | 2:54 |
 
-Snapshot ID: `MCw1NzlhOWJjMzA4NDRmYjY3NDk0MWZiZjYzZDFmYWM0Y2EzODIzOWM5`
+Snapshot ID: `MCxkOTU5NjA2MGZkNjRmMDYyZWQxOTY1YWJkNzYyMjVkZDZiMDNhOWRm`

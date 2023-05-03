@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Ikki
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,920 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,951 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Pode Me Esperar \(feat\. Tasdan & Agatha\)](https://open.spotify.com/track/62FCtdHru9nNAJOGbzObi4) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Tasdan](https://open.spotify.com/artist/65qqCVZrZgynhVrsFka5HM), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [Pode Me Esperar \(feat\. Tasdan & Agatha\)](https://open.spotify.com/album/00rcJMuYMSrKDj1oKpzTCM) | 3:30 |
 | 75 | [Foda Que Ela É Linda](https://open.spotify.com/track/4saoLEiUcHah8wjObocRDq) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(AO VIVO\)](https://open.spotify.com/album/2yDb9A4k58djFPcENLbHxP) | 3:03 |
 
-Snapshot ID: `MCwwYTRiY2E0Y2ZiYzgxYzRmNWVlYTQwZjdjMjIzZjczMjZlYWE5ZTdh`
+Snapshot ID: `MCxiY2FkNDMwOGJhYjdkZWY5MTJmOTVhYWZjYWM5ZTliMmIyODkxOGZh`

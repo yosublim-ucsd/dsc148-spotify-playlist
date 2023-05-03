@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 489326,
+  "num_followers": 489359,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDVjM2I3MjZjODc5NDZlOTZmNDg4ZDNhNWNhODI5OTFiMWM5YmYy",
+  "snapshot_id": "MCxiNmMxNjAyYmNjNWE2YWUwYmVkNWJhM2U5ZDUzNDQ2M2M2NDAyYTI2",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "What Is There",
-        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "It Ain\u2019t Easy",
-      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Take Good Care",
         "url": "https://open.spotify.com/album/10cYvuRfY8IpASva845zgF"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 218333,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2WgbFkQQswVVEWnyKnFo2q"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "What Is There",
+        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "It Ain\u2019t Easy",
+      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Particle Kid",
+          "url": "https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli"
+        }
+      ],
+      "duration_ms": 257117,
+      "name": "Hands On The Wheel (Feat. Particle Kid) (Recorded at Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "The Pet Parade",
         "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
       },
@@ -1079,22 +1099,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "Dog Has Its Day",
-      "url": "https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1127,38 +1131,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Absolute Loser",
-      "url": "https://open.spotify.com/track/45wGhAr9756RWGrSs35r56"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Particle Kid",
-          "url": "https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli"
-        }
-      ],
-      "duration_ms": 257117,
-      "name": "Hands On The Wheel (Feat. Particle Kid) (Recorded at Luck Reunion) - Spotify Singles",
-      "url": "https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx"
+      "duration_ms": 190955,
+      "name": "Dog Has Its Day",
+      "url": "https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 221706,
       "name": "Seven Hours",
       "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Absolute Loser",
+      "url": "https://open.spotify.com/track/45wGhAr9756RWGrSs35r56"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "My Entire Life",
+        "url": "https://open.spotify.com/album/5iKXNvSOGKgbaaGkiPNl2e"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "My Entire Life",
+      "url": "https://open.spotify.com/track/5xfU0gNPSUqHkD6LkrHpAH"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "How Low",
-        "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
-      },
-      "artists": [
-        {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "How Low",
-      "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
       },
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "My Entire Life",
-        "url": "https://open.spotify.com/album/5iKXNvSOGKgbaaGkiPNl2e"
+        "name": "How Low",
+        "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
       },
       "artists": [
         {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
         }
       ],
-      "duration_ms": 166080,
-      "name": "My Entire Life",
-      "url": "https://open.spotify.com/track/5xfU0gNPSUqHkD6LkrHpAH"
+      "duration_ms": 244160,
+      "name": "How Low",
+      "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1419,6 +1419,22 @@
       "duration_ms": 222093,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/7uHLE0CpfsRl6Cil3965jn"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "I'm Not There",
+        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
+      },
+      "artists": [
+        {
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "I'm Not There",
+      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "I'm Not There",
-        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
-      },
-      "artists": [
-        {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "I'm Not There",
-      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 197305,
       "name": "Hardlytown",
       "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Ever Since I Lost My Mind",
+        "url": "https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 266053,
+      "name": "If I Was",
+      "url": "https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1547,22 +1563,6 @@
       "duration_ms": 292307,
       "name": "Didn't He Ramble",
       "url": "https://open.spotify.com/track/0PcyGgEAKYaVpND2efXlar"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Ever Since I Lost My Mind",
-        "url": "https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 266053,
-      "name": "If I Was",
-      "url": "https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK"
     },
     {
       "added_at": "2023-04-28 04:00:00",

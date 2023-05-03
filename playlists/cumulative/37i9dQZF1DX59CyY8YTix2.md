@@ -2,9 +2,9 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: 羊文学 \(hitsujibungaku\)
+> Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: Chilldspot
 
-901 songs - 2 day 9 hr 8 min
+902 songs - 2 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Crybaby](https://open.spotify.com/track/3oWGtFaGDoixE3JVmUjhMB) | [さとうもかとDENIMS](https://open.spotify.com/artist/7toM2gDRoemt5UYdZi4yEm), [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg), [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [Crybaby](https://open.spotify.com/album/2gFbOHCgQGwkx3nS4wAbmR) | 3:12 | 2022-06-02 | 2022-07-18 |
 | [Damn it!](https://open.spotify.com/track/17PParOdsrKYTIN6znBZwK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [WHOOPEE](https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK) | 3:03 | 2023-01-17 | 2023-02-22 |
 | [dawn](https://open.spotify.com/track/08VicdA5GcOHHrizr77pA5) | [IN THE POOL](https://open.spotify.com/artist/10DhiyiwQ9FcZxmPO1vESW) | [S.O.O.M](https://open.spotify.com/album/7xceq6o7W4p8MN7xUgDbkY) | 5:34 | 2022-06-14 | 2022-06-22 |
+| [dawn](https://open.spotify.com/track/43w5CjBykSk8K07M1GHZyg) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [dawn](https://open.spotify.com/album/2ES2tljkU27Bg8EbNWbPxZ) | 3:54 | 2023-05-02 |  |
 | [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 | 2022-12-02 |  |
 | [debbie](https://open.spotify.com/track/1L3KhykfkDwn8e0thZQCl1) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [debbie](https://open.spotify.com/album/3hbyV1y0FBu458IiNEu7o8) | 3:44 | 2022-05-31 | 2022-07-28 |
 | [Depression \- No Joy Remix](https://open.spotify.com/track/4Mv4PAsS2Q2bv8CJsTM9se) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Depression \(No Joy Remix\)](https://open.spotify.com/album/5akrcqcTzwHEJoB3OFGY9R) | 2:57 | 2023-02-28 | 2023-04-05 |
@@ -608,7 +609,7 @@
 | [ハルノイデア](https://open.spotify.com/track/5taXM8Qw7JsuRGEHrYqadB) | [the blue hour](https://open.spotify.com/artist/7n1YSR5QaTKJ1kOQZuWCpP) | [annulus](https://open.spotify.com/album/1MGtkzzZQy6RDyjJkjAYAS) | 4:07 | 2022-06-07 | 2022-06-13 |
 | [ハートにティーン](https://open.spotify.com/track/06pArvncZpFTtja75xD8pG) | [Lady Flash](https://open.spotify.com/artist/0qCQsJMletua7H8PGqrZbR) | [どこにもいけないドア](https://open.spotify.com/album/7zzjaKRuiTXhlLKS1miIz9) | 3:06 | 2023-01-10 | 2023-01-25 |
 | [ハートのSEASON](https://open.spotify.com/track/4ECsu2hg43OGpgafFRuIhe) | [太田貴子](https://open.spotify.com/artist/36OGxNSKeYNF8epyYkiF4T) | [Voice of Angel](https://open.spotify.com/album/4bxxHa7fJ7HWKbNFcUPgZK) | 3:34 | 2022-06-16 | 2022-06-24 |
-| [バッドリピートエンド](https://open.spotify.com/track/0647L6JfnQWufikSR6AabW) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [バッドリピートエンド](https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq) | 3:17 | 2023-04-20 |  |
+| [バッドリピートエンド](https://open.spotify.com/track/0647L6JfnQWufikSR6AabW) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [バッドリピートエンド](https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq) | 3:17 | 2023-04-20 | 2023-05-03 |
 | [バトルカメ](https://open.spotify.com/track/3VUs83asTlXKRp8Q1T1bmi) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [バトルカメ](https://open.spotify.com/album/2hpvAXCw3KkAk16HvjMnOZ) | 3:34 | 2022-06-07 | 2022-06-15 |
 | [バニラスカイ](https://open.spotify.com/track/0G9WOJLLelRF0LKCCSlhNl) | [HYLUL](https://open.spotify.com/artist/6OkxL4eH0SW3pwtXWp6ikX) | [バニラスカイ](https://open.spotify.com/album/7p6la6qa9NvYoMSw0AMTy9) | 3:47 | 2022-07-05 | 2022-07-07 |
 | [バニラビーンズ](https://open.spotify.com/track/5EGp0BlpEHdbcbYjNRCDpG) | [紺野メイ](https://open.spotify.com/artist/2k2RWLOvlAhvXtakjRlIWt) | [バニラビーンズ](https://open.spotify.com/album/0QpijT4MHcD7x0vsR784pa) | 3:43 | 2022-06-21 | 2022-07-18 |

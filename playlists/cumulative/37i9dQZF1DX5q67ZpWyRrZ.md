@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> Best of the Indian Indie scene\. Cover \- The Yellow Diary
+> Best of the Indian Indie scene\. Cover \- Prateek Kuhad
 
 195 songs - 11 hr 15 min
 

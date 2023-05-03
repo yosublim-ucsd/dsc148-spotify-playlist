@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-325 songs - 22 hr 56 min
+326 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,8 @@
 | [Tried and True](https://open.spotify.com/track/2eQO1G2jfHGNgGxqkLZUX9) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Tried and True](https://open.spotify.com/album/7wW56huPgJM6uMla5gEOgW) | 3:42 | 2020-10-30 | 2022-03-18 |
 | [Trust and Faith](https://open.spotify.com/track/2fooyGgpvP6IfAmueqdEBP) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/3B0Tscyvv4uOmn7HpB3XiL) | 4:18 | 2020-10-30 | 2022-02-28 |
 | [U Don't Have to Call](https://open.spotify.com/track/7LFTV9YBKxfsWqouuNEZaO) | [Ashton Blaak](https://open.spotify.com/artist/0aRgfhwMDvZE1pU7Z9RaRU) | [U Don't Have to Call](https://open.spotify.com/album/7v0DsbaCNpHuK3T9FW1T5z) | 2:50 | 2021-05-28 | 2022-02-26 |
-| [Ubuntu](https://open.spotify.com/track/2zUN9GrY3kNkt1WNk0wtPZ) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [Ubuntu](https://open.spotify.com/album/6Sf8VRKfBDk2h5CYwLUgTY) | 5:04 | 2023-04-07 |  |
+| [Ubuntu](https://open.spotify.com/track/0jehP0aRhFBpjSZCXxfm2v) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [Ubuntu](https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz) | 5:04 | 2023-04-07 |  |
+| [Ubuntu](https://open.spotify.com/track/2zUN9GrY3kNkt1WNk0wtPZ) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [Ubuntu](https://open.spotify.com/album/6Sf8VRKfBDk2h5CYwLUgTY) | 5:04 | 2023-04-07 | 2023-05-03 |
 | [Uluwatu](https://open.spotify.com/track/3qZWEsYLCRTR5YCArqIdra) | [KASSEO](https://open.spotify.com/artist/76UKhIGvZtS7jjb1muDTUM) | [Uluwatu](https://open.spotify.com/album/1U7cmXBfgy4XnThYtvSXJY) | 4:02 | 2023-02-10 |  |
 | [Unified](https://open.spotify.com/track/522WY3LU3tn0apaPw7QMht) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/40s7Kk9SJ8Vv0eN1uSBd6s) | 3:58 | 2020-10-30 | 2022-03-17 |
 | [Unspeakable](https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA) | [Sam Rucker](https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE) | [Unspeakable](https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U) | 3:46 | 2022-10-17 |  |

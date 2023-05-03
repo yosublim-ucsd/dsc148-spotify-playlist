@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Vale Pain, Shiva, Medy, MV Killa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,354 likes - 87 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,377 likes - 87 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 17 | [Non passa l’aria](https://open.spotify.com/track/3RnjkVaMG2n72ZzHwuzuDY) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Non passa l’aria](https://open.spotify.com/album/5KSnm4ibO84on8sxwzW8JT) | 2:43 |
 | 18 | [ICONA](https://open.spotify.com/track/2vQ8dEpflFAaId0eEsc9Sb) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [ICONA](https://open.spotify.com/album/367kpffZMeabLhcrbtotOq) | 2:45 |
 | 19 | [No Cap](https://open.spotify.com/track/3QMdGom3feMKSAvWkcKsfN) | [LINDA](https://open.spotify.com/artist/6LEGlkLDLkEXHrZ0Jxk7ZZ), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1) | [No Cap](https://open.spotify.com/album/1YScLo2quLk6LXTLXRmX3L) | 2:10 |
-| 20 | [I Run Bo \(feat\. DrefGold\)](https://open.spotify.com/track/5DFdCW20I8fUA9H1D1ZVlW) | [Brenno Itani](https://open.spotify.com/artist/5wuoVcFaBcrTa4UiaBGRPz), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [Fino A Prova Contraria](https://open.spotify.com/album/2Xiqt3mRitin17cTkT1GuG) | 3:02 |
+| 20 | [I Run Bo \(feat\. DrefGold\)](https://open.spotify.com/track/5DFdCW20I8fUA9H1D1ZVlW) | [Brenno Itani](https://open.spotify.com/artist/5wuoVcFaBcrTa4UiaBGRPz), [DrefGold](https://open.spotify.com/artist/4snhqiDSgdTF6wQFTNBrX3) | [Fino A Prova Contraria](https://open.spotify.com/album/2Xiqt3mRitin17cTkT1GuG) | 3:02 |
 | 21 | [KE LO KE](https://open.spotify.com/track/4JdhVkNG56DntDvarFUorf) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [KE LO KE](https://open.spotify.com/album/5KpePKTCCMGkehcOvyfsWS) | 2:31 |
 | 22 | [Dahmer](https://open.spotify.com/track/0gfbR7L5IfFNmVK5b0OpqK) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Dahmer](https://open.spotify.com/album/5dC6fpDZGiLrgGVM2ovFff) | 1:27 |
 | 23 | [Castello Di Sabbia](https://open.spotify.com/track/4Dv0v3n3wWs7mzRxsg9rOH) | [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ), [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8), [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [IL DOLCE SILENZIO](https://open.spotify.com/album/6DwHiI57uiYMkybDRJ8bfh) | 2:16 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 61 | [VICE CITY](https://open.spotify.com/track/5kbFiVFw6CKL4pqvHUX4PX) | [Lobbuten](https://open.spotify.com/artist/047IO82bFPi1unHOJ5PnWR) | [VICE CITY](https://open.spotify.com/album/6jXnldJZPaYPyYtad8BP71) | 2:39 |
 | 62 | [Non ritorneranno mai](https://open.spotify.com/track/4ywLncnEl5lFiYQVUSw3EM) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Non ritorneranno mai](https://open.spotify.com/album/3bnt2flUrBeiQaYQxe3Knp) | 2:48 |
 | 63 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
-| 64 | [Napoli](https://open.spotify.com/track/0SpKakIQBYWByKa5hrFyBO) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl), [Gridan](https://open.spotify.com/artist/0eW7u9WWsUmmlKD1vRKj69) | [Napoli](https://open.spotify.com/album/6s24dXZ11002N10fOngjpz) | 2:30 |
+| 64 | [Napoli](https://open.spotify.com/track/0SpKakIQBYWByKa5hrFyBO) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Gridan](https://open.spotify.com/artist/0eW7u9WWsUmmlKD1vRKj69) | [Napoli](https://open.spotify.com/album/6s24dXZ11002N10fOngjpz) | 2:30 |
 | 65 | [Montagne Russe](https://open.spotify.com/track/6OlZI8xmdjytSeOqzU2Qqn) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [Näthaniel](https://open.spotify.com/artist/5W3ZpbTC2fyFGujra4uVTF) | [Montagne Russe](https://open.spotify.com/album/1Kng6xEAB6C51rzxFIiAQ7) | 1:56 |
 | 66 | [IN CIELO](https://open.spotify.com/track/4Ylo9t0ExRKFBWfQDhynI5) | [BIANCOMARMO](https://open.spotify.com/artist/4C3zbFkBgltRh40f62Cd49) | [IN CIELO](https://open.spotify.com/album/51PqkrtjY100IMHDXOgEwA) | 2:13 |
 | 67 | [Sonic](https://open.spotify.com/track/4Ecdkfodl4RuLmY5YllMQ1) | [Tommy Toxxic](https://open.spotify.com/artist/6K9Uwn6aqWqDEYrbOIu6RO), [NIKENINJA](https://open.spotify.com/artist/1KoV9yk84kwbSefb2zr1Ty) | [Sonic](https://open.spotify.com/album/7eAUnztE8ZT9EjYRiGxxdj) | 3:30 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 86 | [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 |
 | 87 | [Affari](https://open.spotify.com/track/20lkVupovafdaIZEJMM20s) | [Faith](https://open.spotify.com/artist/6Dy0TeCFQtJgA3RaC0EBrw) | [Affari](https://open.spotify.com/album/6EM7DUS1bpMYORVrTjszLp) | 2:43 |
 
-Snapshot ID: `MCw3NzllNjliYWU5MTg1MjFiZTc2YWI4ZWQwNDg3OTk4M2YwY2QyZTk3`
+Snapshot ID: `MCw4MjkzZDIxMjhiYzc1Yzc2N2QzNTM0Y2NjYmE5NTkzMmQwMzkyYTNi`

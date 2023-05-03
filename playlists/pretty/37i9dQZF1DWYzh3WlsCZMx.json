@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 15418,
+  "num_followers": 15494,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTcxZGJhODNlOTNiY2M1N2RhNmM2YTA2YTE1Mjc5NWE3MjZmYTMy",
+  "snapshot_id": "MCxhNTNiYzIwMjY2NzczYzJhYmYzYjQzMDdhMWFiYTQ0YWU4M2RiZDJm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Shape Up",
-        "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
-      },
-      "artists": [
-        {
-          "name": "Leikeli47",
-          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
-        }
-      ],
-      "duration_ms": 213613,
-      "name": "Carry Anne",
-      "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Cross Country Trappin",
         "url": "https://open.spotify.com/album/4R64QNV35UNIjVeWjDSIJS"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 206413,
       "name": "Preach",
       "url": "https://open.spotify.com/track/6FzjhVjXDoBGfq1sSdNq7S"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Shape Up",
+        "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 213613,
+      "name": "Carry Anne",
+      "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Wat U Need",
-        "url": "https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b"
-      },
-      "artists": [
-        {
-          "name": "E Chapo",
-          "url": "https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6"
-        }
-      ],
-      "duration_ms": 121927,
-      "name": "Wat U Need",
-      "url": "https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Thug Misses (Digitally Remastered)",
         "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 311466,
       "name": "The K-Wang",
       "url": "https://open.spotify.com/track/08a5tq3SGdgj45GCnFDvlA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Wat U Need",
+        "url": "https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b"
+      },
+      "artists": [
+        {
+          "name": "E Chapo",
+          "url": "https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6"
+        }
+      ],
+      "duration_ms": 121927,
+      "name": "Wat U Need",
+      "url": "https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn"
     },
     {
       "added_at": "2022-10-01 16:00:00",

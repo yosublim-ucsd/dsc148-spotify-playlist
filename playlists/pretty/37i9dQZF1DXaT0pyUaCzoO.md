@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 
 > Songs of pride and empowerment to enjoy with little listeners\. Cover: That Girl Lay Lay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,669 likes - 72 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,679 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 71 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 |
 | 72 | [Strength Courage & Wisdom](https://open.spotify.com/track/2kIZPLtqtmDh3dX6HuAfD0) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:57 |
 
-Snapshot ID: `MCxiMDlmZjc2YTNhMTNhZjYyY2UyMWQwM2RkZGRjMTM3NDM0OTk0ZmEx`
+Snapshot ID: `MCxiMzRjNzJlYzY3YmE2ODllYWMxMWYzZDI3NDY2ZTNiMWNhOWNmY2Fl`

@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72716,
+  "num_followers": 72713,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzAyYjMyYWZlZTk3ZGQ1OWZkOTZlZGRmOGE0MWQ4ZGFiNzc5NGZk",
+  "snapshot_id": "MCxmM2E3YjhlNGNmZWQxMzMwZDU1MzQ4MzE2NmQwMmQ5MmVjMDM4OTJl",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 294063,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
-      },
-      "artists": [
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/75yWoDsXCy1Im9m4kGs42C"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 222520,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
     },
     {
-      "added_at": "2023-05-02 01:17:06",
-      "album": {
-        "name": "Higher Now",
-        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
-      },
-      "artists": [
-        {
-          "name": "Seph Cove",
-          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
-        }
-      ],
-      "duration_ms": 258532,
-      "name": "Higher Now",
-      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
-    },
-    {
       "added_at": "2023-01-12 13:00:00",
       "album": {
         "name": "Half Awake, Half Asleep",
@@ -883,6 +867,22 @@
       "duration_ms": 190546,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm"
+    },
+    {
+      "added_at": "2023-05-03 01:39:19",
+      "album": {
+        "name": "Higher Now",
+        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
+      },
+      "artists": [
+        {
+          "name": "Seph Cove",
+          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
+        }
+      ],
+      "duration_ms": 258532,
+      "name": "Higher Now",
+      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
     },
     {
       "added_at": "2023-01-12 13:00:00",

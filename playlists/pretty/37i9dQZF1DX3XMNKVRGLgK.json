@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 6407,
+  "num_followers": 6473,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjdhM2FjNWY2YmVkMTYyZWMyOWViZTE3YWM1MGQxNWQxMzIyZjM2",
+  "snapshot_id": "MCw3N2U0MWQwNjM4NGY1OGFhODM2M2RhNzEzY2RiZWFjZDcxZmM1NWVk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -515,46 +515,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
-      },
-      "artists": [
-        {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Memphis Bleek",
-          "url": "https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn"
-        },
-        {
-          "name": "Beanie Sigel",
-          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
-        }
-      ],
-      "duration_ms": 264866,
-      "name": "The Roc (Just Fire)",
-      "url": "https://open.spotify.com/track/0SYGpsMlXdLve9bMNFLnAf"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 261742,
-      "name": "Championships",
-      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "All Money Is Legal",
         "url": "https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS"
       },
@@ -583,6 +543,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 261742,
+      "name": "Championships",
+      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "champ hoody music. ep.1",
         "url": "https://open.spotify.com/album/16wn93pdT8x632qceupGXI"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 82000,
       "name": "queens shit.",
       "url": "https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Memphis Bleek",
+          "url": "https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn"
+        },
+        {
+          "name": "Beanie Sigel",
+          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+        }
+      ],
+      "duration_ms": 264866,
+      "name": "The Roc (Just Fire)",
+      "url": "https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK"
     }
   ],
   "unique_name": "Nigel Sylvester's Taste",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 ### [Hip\-Hop Haryana](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Pranjal Dahiya & KHATRI
+> Yo Hai Haryanvi Hip\-Hop! Cover: Kaka WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,348 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,404 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 49 | [Small Towns](https://open.spotify.com/track/4If3KpzvKF4ua9eabqGDFM) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX), [Y2A](https://open.spotify.com/artist/6N1Gax5MyNXDO3vxg3N7y7), [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa) | [Small Towns](https://open.spotify.com/album/3hh9T0laD4bpieYXkc3OHb) | 4:03 |
 | 50 | [Dad](https://open.spotify.com/track/1Ehci8oBSgx7n0fJ9R5dEl) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dad](https://open.spotify.com/album/1a4MJT6IU0NeZkv6znNTM3) | 3:06 |
 
-Snapshot ID: `MCxhNWYwOTI4NWVkNWE2NzQ4ZDI3ZDBiZDQ1ZjZjNzc3NmZlODQ4ODZk`
+Snapshot ID: `MCxhMWFiZWM0M2MwODA3MWU4YzhmMmM3NjZkYTQwYTAwZDEzOGFjMmJh`

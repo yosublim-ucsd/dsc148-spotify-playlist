@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 179509,
+  "num_followers": 179590,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzNhY2E4ZTczMTMwOTFlNjJmOWE4OWE2MmNiMTIwYzcwOWNkYjJm",
+  "snapshot_id": "MCxkNGY4N2YzMzg0NTM4Zjc0MzhmYjRlMjE0MWJmMjIxNDg1MzE0YmM5",
   "tracks": [
     {
       "added_at": "2023-04-27 22:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 128280,
-      "name": "Lou Lou",
-      "url": "https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
       },
@@ -487,6 +471,38 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 128280,
+      "name": "Lou Lou",
+      "url": "https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "Magic Chairs",
         "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
       },
@@ -499,6 +515,22 @@
       "duration_ms": 293760,
       "name": "Modern Drift",
       "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 299840,
+      "name": "bl\u00f3mi",
+      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -531,38 +563,6 @@
       "duration_ms": 200613,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "bl\u00f3mi",
-      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Br\u00e5tebrann (Vinyl Edition)",
-        "url": "https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F"
+        "name": "I Saw Her from Here / I Saw Here",
+        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
       },
       "artists": [
         {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
         }
       ],
-      "duration_ms": 288973,
-      "name": "Spor i sand",
-      "url": "https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE"
+      "duration_ms": 224560,
+      "name": "When the Mourning Comes",
+      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "I Saw Her from Here / I Saw Here",
-        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
+        "name": "Br\u00e5tebrann (Vinyl Edition)",
+        "url": "https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F"
       },
       "artists": [
         {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 224560,
-      "name": "When the Mourning Comes",
-      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
+      "duration_ms": 288973,
+      "name": "Spor i sand",
+      "url": "https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -815,6 +815,22 @@
       "duration_ms": 168583,
       "name": "Time of Waiting",
       "url": "https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
+      },
+      "artists": [
+        {
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Look At The Light",
+      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
-      },
-      "artists": [
-        {
-          "name": "Sin Fang",
-          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Look At The Light",
-      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "N\u00e6rmere",
         "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 288678,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -951,22 +935,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Buffy",
-        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Buffy",
-      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Sumie",
         "url": "https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg"
       },
@@ -979,6 +947,22 @@
       "duration_ms": 195741,
       "name": "Hunting Sky",
       "url": "https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -999,22 +983,34 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Be Here Soon",
-        "url": "https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW"
+        "name": "Buffy",
+        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
       },
       "artists": [
         {
-          "name": "iamamiwhoami",
-          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
-        },
-        {
-          "name": "ionnalee",
-          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
         }
       ],
-      "duration_ms": 216328,
-      "name": "Zeven",
-      "url": "https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP"
+      "duration_ms": 182626,
+      "name": "Buffy",
+      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Vinyl and a Heartache",
+        "url": "https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "The Sweetest Tune",
+      "url": "https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x"
     }
   ],
   "unique_name": "Nordic Folk",

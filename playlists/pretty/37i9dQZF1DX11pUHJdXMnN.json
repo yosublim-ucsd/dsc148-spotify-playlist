@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 57643,
+  "num_followers": 57664,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDZhYTU5NjRjMTlmNGJhZmQxMDRkYmZkNDI2Y2U0YzFkZWE3ZTU3",
+  "snapshot_id": "MCxiY2RmZjJlMjE2OGUwZjlkZTFiOThmMDY1MmM0YjY5NmRlZGZhYTdm",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -231,6 +231,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Mixmag Presents Teddy Pendergrass: The Remixes - EP",
         "url": "https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 527986,
       "name": "Life Is A Song Worth Singing - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -407,26 +407,34 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Nefertiti (Red Axes Remix)",
-        "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
       },
       "artists": [
         {
-          "name": "Futuro Pelo",
-          "url": "https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN"
-        },
-        {
-          "name": "Neysa May",
-          "url": "https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ"
-        },
-        {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Nefertiti - Red Axes Remix",
-      "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -447,6 +455,30 @@
       "duration_ms": 195483,
       "name": "Lemonade - The Magician Italo '85' remix",
       "url": "https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Nefertiti (Red Axes Remix)",
+        "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
+      },
+      "artists": [
+        {
+          "name": "Futuro Pelo",
+          "url": "https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN"
+        },
+        {
+          "name": "Neysa May",
+          "url": "https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ"
+        },
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Nefertiti - Red Axes Remix",
+      "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -487,38 +519,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
-      },
-      "artists": [
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Enter Castillo",
         "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 316097,
       "name": "Curb Dog '88",
       "url": "https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Ardore (feat. Tobias Bernstrup)",
-        "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        },
-        {
-          "name": "Tobias Bernstrup",
-          "url": "https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ardore",
-      "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -571,6 +551,26 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Ardore (feat. Tobias Bernstrup)",
+        "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        },
+        {
+          "name": "Tobias Bernstrup",
+          "url": "https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ardore",
+      "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
     },
     {
       "added_at": "2021-08-27 15:45:01",

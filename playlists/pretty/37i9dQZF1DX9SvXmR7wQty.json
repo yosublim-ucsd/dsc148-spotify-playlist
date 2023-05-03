@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clodelle",
-  "num_followers": 36541,
+  "num_followers": 36547,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzU5YzkzYjE0NDMxYTAyZTMyYmM0NzBlMDkyNTBlZTQyYWI5Yjlh",
+  "snapshot_id": "MCxkZDVkM2M1OWM2MzU2OTFkYTk5MWM0ZTQxMmJlZGNjOGE3ODRlNjQ5",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Mauvais r\u00eave",
-        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
+        "name": "ROUGE N\u00c9ON",
+        "url": "https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj"
       },
       "artists": [
         {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Mauvais r\u00eave",
-      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
+      "duration_ms": 161906,
+      "name": "92i MAYBACH",
+      "url": "https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "ROUGE N\u00c9ON",
-        "url": "https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj"
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
       },
       "artists": [
         {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
         }
       ],
-      "duration_ms": 161906,
-      "name": "92i MAYBACH",
-      "url": "https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS"
+      "duration_ms": 239546,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Enchant\u00e9",
-        "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
-      },
-      "artists": [
-        {
-          "name": "Bramsito",
-          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
-        },
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "CV (feat. RK)",
-      "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "La grande d\u00e9sillusion",
         "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 173253,
       "name": "Joli c\u0153ur",
       "url": "https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "CV (feat. RK)",
+      "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Chaud",
-        "url": "https://open.spotify.com/album/7kurbkEohIvF2q4LGOd5w8"
+        "name": "C\u00e9l\u00e8bre",
+        "url": "https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS"
       },
       "artists": [
         {
-          "name": "KIK",
-          "url": "https://open.spotify.com/artist/1qb9nCDBGHKMaw48eAtW84"
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Frenetik",
+          "url": "https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21"
         }
       ],
-      "duration_ms": 128720,
-      "name": "Chaud",
-      "url": "https://open.spotify.com/track/0vjRWn9TkzH3P8iRqkiHNS"
+      "duration_ms": 176089,
+      "name": "C\u00e9l\u00e8bre",
+      "url": "https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "C'est mon ann\u00e9e",
-        "url": "https://open.spotify.com/album/5latsb8ARw44uhumB0rLwT"
+        "name": "Chaud",
+        "url": "https://open.spotify.com/album/7kurbkEohIvF2q4LGOd5w8"
       },
       "artists": [
         {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        },
-        {
-          "name": "Ghetto Ph\u00e9nom\u00e8ne",
-          "url": "https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf"
+          "name": "KIK",
+          "url": "https://open.spotify.com/artist/1qb9nCDBGHKMaw48eAtW84"
         }
       ],
-      "duration_ms": 225882,
-      "name": "C'est mon ann\u00e9e",
-      "url": "https://open.spotify.com/track/0FdjDIwGRs7vQLUOk4XLE7"
+      "duration_ms": 128720,
+      "name": "Chaud",
+      "url": "https://open.spotify.com/track/0vjRWn9TkzH3P8iRqkiHNS"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -587,22 +587,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Junior",
-        "url": "https://open.spotify.com/album/4Q8mmF3BDRqpCz3vLITcgh"
+        "name": "C'est mon ann\u00e9e",
+        "url": "https://open.spotify.com/album/5latsb8ARw44uhumB0rLwT"
       },
       "artists": [
         {
-          "name": "Jnr Slice",
-          "url": "https://open.spotify.com/artist/1h9TsJVZdaubBn1BZHaAhk"
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
         },
         {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+          "name": "Ghetto Ph\u00e9nom\u00e8ne",
+          "url": "https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf"
         }
       ],
-      "duration_ms": 185613,
-      "name": "RECETTE",
-      "url": "https://open.spotify.com/track/0Yh28SkiYPRoVGQs73aTfb"
+      "duration_ms": 225882,
+      "name": "C'est mon ann\u00e9e",
+      "url": "https://open.spotify.com/track/0FdjDIwGRs7vQLUOk4XLE7"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "C\u00e9l\u00e8bre",
-        "url": "https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS"
-      },
-      "artists": [
-        {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
-        },
-        {
-          "name": "Frenetik",
-          "url": "https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21"
-        }
-      ],
-      "duration_ms": 176089,
-      "name": "C\u00e9l\u00e8bre",
-      "url": "https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Le vide",
         "url": "https://open.spotify.com/album/2Q9WJzb12fy5MJYdJMS8sk"
       },
@@ -655,6 +635,46 @@
       "duration_ms": 229973,
       "name": "Le vide",
       "url": "https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/4Q8mmF3BDRqpCz3vLITcgh"
+      },
+      "artists": [
+        {
+          "name": "Jnr Slice",
+          "url": "https://open.spotify.com/artist/1h9TsJVZdaubBn1BZHaAhk"
+        },
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        }
+      ],
+      "duration_ms": 185613,
+      "name": "RECETTE",
+      "url": "https://open.spotify.com/track/0Yh28SkiYPRoVGQs73aTfb"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Dans La Chambre / Money",
+        "url": "https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 197017,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -695,6 +715,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Un peu de moi",
+        "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "C\u00e2lin (feat. Soolking)",
+      "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Prends \u00e7a",
         "url": "https://open.spotify.com/album/5mbn5HLQFzfnluNW4f5GUh"
       },
@@ -731,26 +771,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Dans La Chambre / Money",
-        "url": "https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 197017,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Deuxi\u00e8me chance",
         "url": "https://open.spotify.com/album/246UD1XVJ3lqusv4ynOQIj"
       },
@@ -767,22 +787,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Un peu de moi",
-        "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
+        "name": "Les brais\u00e9s",
+        "url": "https://open.spotify.com/album/3XJVVUPFnEJxb1bhe1nSQA"
       },
       "artists": [
         {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Elams",
+          "url": "https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN"
         }
       ],
-      "duration_ms": 166906,
-      "name": "C\u00e2lin (feat. Soolking)",
-      "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
+      "duration_ms": 172373,
+      "name": "Les brais\u00e9s",
+      "url": "https://open.spotify.com/track/3Gjvu9dgeOooeEUhPtPIg5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 140629,
       "name": "BOO",
       "url": "https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Les brais\u00e9s",
-        "url": "https://open.spotify.com/album/3XJVVUPFnEJxb1bhe1nSQA"
-      },
-      "artists": [
-        {
-          "name": "Elams",
-          "url": "https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "Les brais\u00e9s",
-      "url": "https://open.spotify.com/track/3Gjvu9dgeOooeEUhPtPIg5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "SKRRT Vol.1",
+        "url": "https://open.spotify.com/album/2fNF8tBMkZftgaZ32zxO7Q"
+      },
+      "artists": [
+        {
+          "name": "Skefre",
+          "url": "https://open.spotify.com/artist/23jImQO2IKgMUgt4eLYF4y"
+        },
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "duration_ms": 197498,
+      "name": "COMME MOI",
+      "url": "https://open.spotify.com/track/6RPqZSIXlEsYqDArWUdly7"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "J'ai besoin d'un break",
         "url": "https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX"
       },
@@ -867,30 +887,6 @@
       "duration_ms": 188840,
       "name": "J'ai besoin d'un break",
       "url": "https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Clay Scott",
-        "url": "https://open.spotify.com/album/6MmCYro1YtIJEbzbdiF7QP"
-      },
-      "artists": [
-        {
-          "name": "Clay Scott",
-          "url": "https://open.spotify.com/artist/4751jD6ITmr9aYnauAfTwA"
-        },
-        {
-          "name": "Mike Clay",
-          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
-        },
-        {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
-        }
-      ],
-      "duration_ms": 175255,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/0au6ZQtQNZf6sKl7rK1BoN"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

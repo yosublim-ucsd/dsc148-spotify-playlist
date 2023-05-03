@@ -1381,6 +1381,32 @@
     },
     {
       "album": {
+        "name": "Dasara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203052,
+      "name": "Mainaru Vetti Katti",
+      "url": "https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk"
+    },
+    {
+      "album": {
         "name": "Mainaru Vetti Katti (From \"Dasara\") (Tamil)",
         "url": "https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV"
       },
@@ -1430,7 +1456,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 203052,
       "name": "Mainaru Vetti Katti (From \"Dasara\")",
       "url": "https://open.spotify.com/track/2bNnF0kKGMHFSaxXiitbFr"
@@ -1688,7 +1714,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 243570,
       "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r"
@@ -1786,7 +1812,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 235666,
       "name": "Neethanadi",
       "url": "https://open.spotify.com/track/0zeN1wmbeITrxoPNrcOjHL"

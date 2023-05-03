@@ -964,6 +964,24 @@
     {
       "album": {
         "name": "Krymplings",
+        "url": "https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj"
+      },
+      "artists": [
+        {
+          "name": "Krymplings",
+          "url": "https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239893,
+      "name": "Dunken",
+      "url": "https://open.spotify.com/track/7InzmgtRkwsheHlrUz0VLK"
+    },
+    {
+      "album": {
+        "name": "Krymplings",
         "url": "https://open.spotify.com/album/2l3gu0JPCyey6ztaXsdwvc"
       },
       "artists": [
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 214592,
       "name": "Grabbarna p\u00e5 stan",
       "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
@@ -1618,6 +1636,24 @@
       "duration_ms": 207866,
       "name": "Jag G\u00e5r Upp Och H\u00e5ller K\u00e4ften",
       "url": "https://open.spotify.com/track/0CyGNDM8ulsItXRJyi0iPI"
+    },
+    {
+      "album": {
+        "name": "Feber",
+        "url": "https://open.spotify.com/album/0zgmxxpsQDiLBcWLKTZMld"
+      },
+      "artists": [
+        {
+          "name": "Coca Carola",
+          "url": "https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "Jag G\u00e5r Upp Och H\u00e5ller K\u00e4ften",
+      "url": "https://open.spotify.com/track/0aozr0Hc6LefOhDj818RDI"
     },
     {
       "album": {
@@ -2318,7 +2354,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 136068,
       "name": "Martin I Skitlandet",
       "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
@@ -2336,7 +2372,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 156656,
       "name": "Masspsykos",
       "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
@@ -4068,6 +4104,24 @@
       "duration_ms": 185933,
       "name": "\u00c4lska Mig",
       "url": "https://open.spotify.com/track/3iSt8hTzeb5SKdHLVwTFcc"
+    },
+    {
+      "album": {
+        "name": "Sanningens Morgon",
+        "url": "https://open.spotify.com/album/1B6iEAikOQLI4PmePPzL9A"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6ttgrottorna",
+          "url": "https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "\u00c4lska Mig",
+      "url": "https://open.spotify.com/track/6t7INXbHQUZiubnZ232MoE"
     },
     {
       "album": {

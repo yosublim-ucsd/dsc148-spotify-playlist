@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 42344,
+  "num_followers": 42475,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWFjY2UwODliNzE1MjQ2ODg1ZTYzODI0YTU1OTVmYzA1NmM0YWY2",
+  "snapshot_id": "MCxkNTRjNmI2M2VjODQ1ODYyNDI1MTEzZmI2M2U1ZGQyMzhmZWZlOGIz",
   "tracks": [
     {
       "added_at": "2023-04-28 07:44:00",
@@ -587,6 +587,26 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Dope Sh!t",
+      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
         "name": "Dead Limit (Evil Activities Remix)",
         "url": "https://open.spotify.com/album/37IiaHO3iZ8k6v2b2Aiiv4"
       },
@@ -611,38 +631,18 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+        "name": "Dirty Thoughts",
+        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        },
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
         }
       ],
-      "duration_ms": 221368,
-      "name": "Dope Sh!t",
-      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
-        "name": "M.D.E.",
-        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "M.D.E.",
-      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
+      "duration_ms": 158421,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Dirty Thoughts",
-        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
+        "name": "M.D.E.",
+        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
       },
       "artists": [
         {
-          "name": "Unproven",
-          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
         }
       ],
-      "duration_ms": 158421,
-      "name": "Dirty Thoughts",
-      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
+      "duration_ms": 152253,
+      "name": "M.D.E.",
+      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Ring The Alarm",
-        "url": "https://open.spotify.com/album/6ooGzNXXaCcdUoCVix1ciT"
-      },
-      "artists": [
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 207553,
-      "name": "Ring The Alarm",
-      "url": "https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 237714,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Ring The Alarm",
+        "url": "https://open.spotify.com/album/6ooGzNXXaCcdUoCVix1ciT"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 207553,
+      "name": "Ring The Alarm",
+      "url": "https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "Hell Boy",
         "url": "https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 224001,
       "name": "Hell Boy",
       "url": "https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Paganos",
-        "url": "https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Paganos",
-      "url": "https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "The Sound Flow",
         "url": "https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 265945,
       "name": "The Sound Flow",
       "url": "https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Paganos",
+        "url": "https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Paganos",
+      "url": "https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 200960,
       "name": "One Way",
       "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
+        "name": "Demolition Hardcore",
+        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Demolition Hardcore",
+      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
         "name": "Halleluya - The F*cked Up Remixes",
         "url": "https://open.spotify.com/album/6IkBZ3mhWBNlkI5V0m1mYC"
       },
@@ -1823,26 +1843,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Demolition Hardcore",
-        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Demolition Hardcore",
-      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "Die For This",
         "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
       },
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Never Write",
-        "url": "https://open.spotify.com/album/5IkpgGQIiKIiasq06enuLo"
-      },
-      "artists": [
-        {
-          "name": "Basspunkz",
-          "url": "https://open.spotify.com/artist/2Bu4MuM7Ub40rthUcfWxdQ"
-        },
-        {
-          "name": "Darkside Unleashed",
-          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
-        }
-      ],
-      "duration_ms": 186875,
-      "name": "Never Write",
-      "url": "https://open.spotify.com/track/6CMKhTF91JWU1FckJ1pinn"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 213890,
       "name": "Loco",
       "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Mythology of Hardcore (Official Masters of Hardcore Russia 2022 Anthem)",
+        "url": "https://open.spotify.com/album/6cHbfD9YozJvYcUIDF1J9J"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 295187,
+      "name": "Mythology of Hardcore - Official Masters of Hardcore Russia 2022 Anthem",
+      "url": "https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

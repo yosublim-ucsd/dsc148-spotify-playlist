@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=Lswdxkn9S76SA0dR0aUUTA">Joyous Celebration</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,573 likes - 60 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,663 likes - 60 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 59 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 |
 | 60 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 |
 
-Snapshot ID: `MCxmMjU0MzkxY2Y2MjhkNzdhMGMxOTYyZTVjOTNjZGQzZTY4ZWY3Njg5`
+Snapshot ID: `MCwzZjY2NGMxNWU1OGYzZmI3ZjUzNWQ2MzUwM2ZmNjM1ZWY1MDViZGJh`

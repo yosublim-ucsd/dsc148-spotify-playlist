@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,372 likes - 350 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,475 likes - 350 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 8 | [Take Me Home, Country Roads](https://open.spotify.com/track/3EpPHoe7GTQoN4Y38DNFye) | [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Take Me Home, Country Roads](https://open.spotify.com/album/5RRIWNimOoLgv0gPgRMfZv) | 3:55 |
 | 9 | [Save Tonight](https://open.spotify.com/track/5bdIYjZy0ea7UtdDA2t4U7) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [Dani Vidi](https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc) | [Save Tonight](https://open.spotify.com/album/3qOEBeqsyBXlgpU5dcDw7e) | 2:28 |
 | 10 | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D) | [Revival](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA) | 2:57 |
-| 11 | [Beggin'](https://open.spotify.com/track/7zKaYgEl0ywPF3zUOw2BKg) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [Giana](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Beggin'](https://open.spotify.com/album/6EVl8VLlaaOq3MmXCSzZww) | 3:27 |
+| 11 | [Beggin](https://open.spotify.com/track/5ZPVLg5KCkKVoY2C2tWBBx) | [Ventry](https://open.spotify.com/artist/5A5wDKiwJqgj50V9DtJKzo) | [Beggin](https://open.spotify.com/album/4Mo1cJzBGUb7r8l95cNzwX) | 3:28 |
 | 12 | [Conga](https://open.spotify.com/track/4uYQIfG7I2a2215Xdlf4iT) | [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [Mastik Lickers](https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN), [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Audiosonik](https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Conga](https://open.spotify.com/album/39DG1QAm3KtNkQMAZDzrm5) | 2:20 |
 | 13 | [I Wanna Dance With Somebody \- UK Edit](https://open.spotify.com/track/4NxxwRPkNOgwRk6ACKrGs9) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Wanna Dance With Somebody](https://open.spotify.com/album/4VKYCdBi64IdV1rLck9mLS) | 2:14 |
 | 14 | [Thriller](https://open.spotify.com/track/71iQ4j3A9xKvo84CerWoC4) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ), [Say So City](https://open.spotify.com/artist/5mUUQC9Jv8EOsqJSG7vWhM) | [Thriller](https://open.spotify.com/album/6mQ1zti9t393eVPtQFNcLj) | 3:03 |
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 349 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 350 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCw5NDdhNDlhODRmY2EyMGI2ZmUxZWQxOTJhNWMzYmVjMGZmMjU4NWYw`
+Snapshot ID: `MCxjZTZmMjhhYzNjMDdkN2QwNDMwNTdmOGU1ZWNmYzNhMjRkNjY0YTUx`

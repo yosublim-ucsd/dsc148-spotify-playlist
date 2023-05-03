@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-215 songs - 15 hr 39 min
+216 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Flying In The Sky](https://open.spotify.com/track/3LMR3dGhjrbqP3hi1C4t5g) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Jugement \(Remaster Deluxe Edition\)](https://open.spotify.com/album/0heLGeVcuKn2rG7zIF50K0) | 3:44 | 2022-07-27 |  |
 | [Flying In The Sky](https://open.spotify.com/track/60GYIAdO2ySJJyncOTTyHu) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Judgement \(Remaster Deluxe Edition\)](https://open.spotify.com/album/3Lnyc6QiJX7G2aD48Trjea) | 3:44 | 2022-07-27 | 2022-07-29 |
 | [G](https://open.spotify.com/track/2SgMvyJn1D0ambp2Vm4Ts0) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [G](https://open.spotify.com/album/1X8FdKEQlPqdCMsDxxiSf8) | 4:45 | 2022-07-27 |  |
-| [Gの閃光](https://open.spotify.com/track/29ODTLXlIpmNT7rZFmV4gH) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [TVアニメ『ガンダム Gのレコンギスタ』オリジナルサウンドトラック 3](https://open.spotify.com/album/3WFW8EMq7eQyd4PO12HYgH) | 3:37 | 2022-07-27 |  |
+| [Gの閃光](https://open.spotify.com/track/1qfpMdHoqhpRssLkw253ht) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [Gの閃光](https://open.spotify.com/album/0btQbNsSjSXqUplvgbOKec) | 3:37 | 2023-04-21 |  |
+| [Gの閃光](https://open.spotify.com/track/29ODTLXlIpmNT7rZFmV4gH) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [TVアニメ『ガンダム Gのレコンギスタ』オリジナルサウンドトラック 3](https://open.spotify.com/album/3WFW8EMq7eQyd4PO12HYgH) | 3:37 | 2022-07-27 | 2023-05-03 |
 | [Hasen no Namida](https://open.spotify.com/track/2G6cLZijcvKMEcRxThTBtm) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [MOBILE SUIT GUNDAM THE ORIGIN \- Chronicle of the Loum Battlefield \- \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7c0Xs5C1nmkw7rVDVpuCZ8) | 4:51 | 2022-12-06 |  |
 | [HATENA](https://open.spotify.com/track/5UbPHARFFiDdkRgfsJ03Rt) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [HATENA](https://open.spotify.com/album/4hWdLdkGzwMstowEcJoGQw) | 3:29 | 2022-07-27 |  |
 | [HATENA](https://open.spotify.com/track/5ZmCWqYmT9Lpa5qM2gSCBF) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [HATENA](https://open.spotify.com/album/0g7ikkSqZYYjLTA9t9mJUr) | 3:29 | 2022-07-27 | 2022-07-29 |

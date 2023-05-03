@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 
 > The soundtrack to your weekend in the desert, curated by the ultimate Coastal Cowgirl: <a href="https://www.instagram.com/paigelorenze/"> Paige Lorenze</a>\. Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,304 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,399 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 | 99 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
 | 100 | [Leaning On You](https://open.spotify.com/track/1BsEKaermhlrzSQpouxlmM) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 |
 
-Snapshot ID: `MCxjOWM2YTVkMGJiYzM1ZTRkYWI5OWEzYzNiOWUxYWRhNWYzMjQwYTA5`
+Snapshot ID: `MCwxMmYyNzcwNTdiYzQzYWViZTI1NDFlMDRiYTliYmQwNGQ5ZWUzZmQy`

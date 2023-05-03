@@ -1,12 +1,12 @@
 {
   "description": "The hardest songs, loud. Very loud. Cover: Beartooth",
-  "num_followers": 905808,
+  "num_followers": 905987,
   "original_name": "Rock Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mjk1NmEwNzAyYmU4MmY5ZjhmMDhhMDFiZDNiMWViZjJjN2VkOTJj",
+  "snapshot_id": "MCxkMmJkNDU5MWUzZTc3ZGQ3NGI3NjEzODk2YzUxNWU5NjU1Zjc3Mzdj",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -551,6 +551,26 @@
       "duration_ms": 197480,
       "name": "Psycho In My Head",
       "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
+    },
+    {
+      "added_at": "2023-05-02 17:14:27",
+      "album": {
+        "name": "Hotel Kalifornia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/08mukWlu8RaDICE3GvqO3l"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 205779,
+      "name": "House Of Mirrors (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/25LxbyfZpZW6P58X2MYO4A"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1153,6 +1173,26 @@
       "url": "https://open.spotify.com/track/29ffs4yVqnGEzwCazHzJrd"
     },
     {
+      "added_at": "2023-05-02 02:33:19",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/1b5qDiFucQLKT88L4B8BYV"
+      },
+      "artists": [
+        {
+          "name": "Dropout Kings",
+          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+        },
+        {
+          "name": "DED",
+          "url": "https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa"
+        }
+      ],
+      "duration_ms": 201761,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/6Z0N5rVTz9paeOJbrDERyA"
+    },
+    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Miracle",
@@ -1331,22 +1371,6 @@
       "duration_ms": 205078,
       "name": "Stupid Human",
       "url": "https://open.spotify.com/track/4OO3HzU2dgsmAIuZ6RVj5Z"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Salvation",
-        "url": "https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 215643,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1971,22 +1995,6 @@
       "duration_ms": 213000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6UhTcphGFjBnbkfMD4u8db"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Evil",
-        "url": "https://open.spotify.com/album/5EdJlD6ASMACKDLhczcwhb"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 163279,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/2huOPxihus7AAslKHs3mGc"
     },
     {
       "added_at": "2023-04-28 04:00:00",

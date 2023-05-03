@@ -288,7 +288,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 543976,
       "name": "Al Sourah (The Photo)",
       "url": "https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX"
@@ -1062,6 +1062,24 @@
       "duration_ms": 198368,
       "name": "Habibi Taal",
       "url": "https://open.spotify.com/track/2bmyNjROIwUSHSzBzjzX1l"
+    },
+    {
+      "album": {
+        "name": "Silt",
+        "url": "https://open.spotify.com/album/6V4ed5KMWm6F5lYNhQxH9W"
+      },
+      "artists": [
+        {
+          "name": "Alsarah & The Nubatones",
+          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198368,
+      "name": "Habibi Taal",
+      "url": "https://open.spotify.com/track/4YNoMqHMhY4HYFVNbDKfUU"
     },
     {
       "album": {

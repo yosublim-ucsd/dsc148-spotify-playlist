@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 265560,
       "name": "Guaracha: Convidando est\u00e1 la noche",
       "url": "https://open.spotify.com/track/7yWtDrGRJIoOhiwlo8hwyG"
@@ -2884,6 +2884,40 @@
       "duration_ms": 244226,
       "name": "La Muerte Chiquita",
       "url": "https://open.spotify.com/track/0MqwW5p5nyF5N7SKL5WN9o"
+    },
+    {
+      "album": {
+        "name": "Golijov: La Pasi\u00f3n seg\u00fan San Marcos",
+        "url": "https://open.spotify.com/album/6M9p1htxWs2vCUZu1OQSGv"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Golijov",
+          "url": "https://open.spotify.com/artist/4MFSQmb7Y47xW7JJmJboCv"
+        },
+        {
+          "name": "Jessica Rivera",
+          "url": "https://open.spotify.com/artist/6sVDWBjob9Qtauu62oz8hG"
+        },
+        {
+          "name": "Members of the Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/5Jiq0apSUeflgRwXOUvmDv"
+        },
+        {
+          "name": "Mar\u00eda Guinand",
+          "url": "https://open.spotify.com/artist/1UGkyn1ev2gK0MQzXL09HG"
+        },
+        {
+          "name": "Orquesta La Pasi\u00f3n",
+          "url": "https://open.spotify.com/artist/1IAGTvTNkXFcI6pm6YBbVW"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344120,
+      "name": "La Pasi\u00f3n seg\u00fan San Marcos: 26. L\u00faa descolorida (Aria de las l\u00e1grimas de Pedro)",
+      "url": "https://open.spotify.com/track/0RpnZ9FpAkAL9aCm9QU4xF"
     },
     {
       "album": {

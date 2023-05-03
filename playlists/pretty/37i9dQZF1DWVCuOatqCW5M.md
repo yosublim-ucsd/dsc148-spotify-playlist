@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Armaan Malik, Mithoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,348 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,495 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 |
 | 50 | [Choo Liya](https://open.spotify.com/track/3CCKZEmtnCCbq2jrEihxgr) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [MEER](https://open.spotify.com/artist/4Qtx4aI2TxoK7IDTDZgvti), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Choo Liya](https://open.spotify.com/album/0bm7EwOK7BLJUrrx0J9Sm6) | 3:03 |
 
-Snapshot ID: `MCw4NzgzNTljOTNhM2NkY2NmNjM5ODM4MWIzNDZlNTg3Njg5MjE3NmE5`
+Snapshot ID: `MCw4NGJlZGUwMThmMDAzNzg5Y2M3ZmIyYzVlYjM1MDcxMWRkZjJiMTdm`

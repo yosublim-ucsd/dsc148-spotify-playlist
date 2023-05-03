@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 64284,
+  "num_followers": 64314,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzIwZWQyOTcyMmIxNTc3YTkxMjEzMjIyN2ZiNmJkOThmYjUwMDhm",
+  "snapshot_id": "MCw0ZDE2NjU2NjcyZWRkZjFhNDdiMzcyMTZiMzVlNzEyNzBhMGY0MjFk",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Esencial Ana y Victor",
-        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "La Mentira",
-      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 175418,
       "name": "La C\u00e1rcel de Sing Sing",
       "url": "https://open.spotify.com/track/4IntMZwE9POyG4jfH2fczJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Esencial Ana y Victor",
+        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Inolvidable (Boleros)",
-        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
-      },
-      "artists": [
-        {
-          "name": "Betty Missiego",
-          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Ma\u00f1anas de Carnaval",
-      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+        "name": "Inolvidable (Boleros)",
+        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
       },
       "artists": [
         {
-          "name": "Dino",
-          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
+          "name": "Betty Missiego",
+          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Mil A\u00f1os",
-      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
+      "duration_ms": 215000,
+      "name": "Ma\u00f1anas de Carnaval",
+      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -483,6 +467,22 @@
       "duration_ms": 132426,
       "name": "Amor De Pobre",
       "url": "https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+      },
+      "artists": [
+        {
+          "name": "Dino",
+          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Mil A\u00f1os",
+      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Colecci\u00f3n Diamante",
-        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
       },
       "artists": [
         {
-          "name": "Maria Luisa Landin",
-          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
+          "name": "Bobby Capo",
+          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
+      "duration_ms": 166800,
+      "name": "Lo Que Quiera Lola",
+      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
+        "name": "Colecci\u00f3n Diamante",
+        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
       },
       "artists": [
         {
-          "name": "Bobby Capo",
-          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
+          "name": "Maria Luisa Landin",
+          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Lo Que Quiera Lola",
-      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
+      "duration_ms": 194346,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "\u00c9poca de Oro",
-        "url": "https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00edo Los Brillantes",
-          "url": "https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S"
-        }
-      ],
-      "duration_ms": 194351,
-      "name": "Sendas Distintas",
-      "url": "https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 168829,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "\u00c9poca de Oro",
+        "url": "https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00edo Los Brillantes",
+          "url": "https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S"
+        }
+      ],
+      "duration_ms": 194351,
+      "name": "Sendas Distintas",
+      "url": "https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv"
     },
     {
       "added_at": "2021-12-17 05:01:00",

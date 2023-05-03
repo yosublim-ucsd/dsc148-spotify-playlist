@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-409 songs - 18 hr 7 min
+410 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Be My Lover](https://open.spotify.com/track/0mQNFiamtlZF5i6DGYckTv) | [Owen Norton](https://open.spotify.com/artist/4ZjJmxiWDURUeXl9erCsE5), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Be My Lover](https://open.spotify.com/album/5xgCcYdOayE3o51kFNrEo5) | 2:30 | 2022-02-24 |  |
 | [Because The Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Because The Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 | 2022-05-26 |  |
 | [Because the Night](https://open.spotify.com/track/2W6U50n6jNXgWihU2Ayg0h) | [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9) | [Because the Night](https://open.spotify.com/album/1ZQIN2O7BgysARQZrodYxU) | 2:37 | 2022-01-13 |  |
+| [Beggin](https://open.spotify.com/track/5ZPVLg5KCkKVoY2C2tWBBx) | [Ventry](https://open.spotify.com/artist/5A5wDKiwJqgj50V9DtJKzo) | [Beggin](https://open.spotify.com/album/4Mo1cJzBGUb7r8l95cNzwX) | 3:28 | 2022-10-27 |  |
 | [Beggin'](https://open.spotify.com/track/7lysE3iheU4lE6FdTZdZAa) | [Dame Dame](https://open.spotify.com/artist/12Jp4jInGELGsN5jydIbx5), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Beggin'](https://open.spotify.com/album/2S4Xb7sAjBNUuSvJWPszUT) | 2:28 | 2022-01-13 |  |
-| [Beggin'](https://open.spotify.com/track/7zKaYgEl0ywPF3zUOw2BKg) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [Giana](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Beggin'](https://open.spotify.com/album/6EVl8VLlaaOq3MmXCSzZww) | 3:27 | 2022-01-13 |  |
+| [Beggin'](https://open.spotify.com/track/7zKaYgEl0ywPF3zUOw2BKg) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [Giana](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Beggin'](https://open.spotify.com/album/6EVl8VLlaaOq3MmXCSzZww) | 3:27 | 2022-01-13 | 2023-05-03 |
 | [Behind Blue Eyes](https://open.spotify.com/track/20KFNGwMD8uBi1dLnBrwBu) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Behind Blue Eyes](https://open.spotify.com/album/700g5u6KFe0ILh9JkcTElh) | 2:05 | 2022-01-13 |  |
 | [Believe](https://open.spotify.com/track/1CGr5aoBFeJWDt5LuSciOx) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1), [BASTL](https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB), [ONYX](https://open.spotify.com/artist/6nIIDzmxCGV3QAzFxdkAXs) | [Believe](https://open.spotify.com/album/2iwOVGjYjMqDqHZDnRSZc7) | 2:24 | 2022-02-17 |  |
 | [Believe](https://open.spotify.com/track/43MfyFsCcuf6ibRUZZ0FWc) | [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [Believe](https://open.spotify.com/album/6KayHOIxtGv1w23Vg2TGRF) | 2:39 | 2022-01-13 |  |

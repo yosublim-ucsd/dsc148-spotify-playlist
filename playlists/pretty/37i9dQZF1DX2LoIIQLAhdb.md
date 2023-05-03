@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lynda & Soolking
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,451 likes - 39 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,530 likes - 39 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 38 | [NDENGE NINI](https://open.spotify.com/track/3gOZ4SiL6sfrdU2CDm7A74) | [Kenyon](https://open.spotify.com/artist/3ef02ttcTCxK0cQ68glIQ6) | [NDENGE NINI](https://open.spotify.com/album/5Z5Ws3kl6PTc7jF03H9haF) | 2:56 |
 | 39 | [Sexy Chuchu](https://open.spotify.com/track/1kEAnO1Mqg1uw8XajyMAO8) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn) | [Sexy Chuchu](https://open.spotify.com/album/6E0qbXofLb9FPZB8h4LxZx) | 2:15 |
 
-Snapshot ID: `MCxlYzI0Mjc2OTYyNWQ3ZjczZGEyOTBiZTI5NTkwMjQxNzRlMjdjODZj`
+Snapshot ID: `MCxiYjZkNjE3ZjczZTMyMDc2NDc5YTI0OGFjNjE1NWU4ODA4YTFlNzZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Swollen Teeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,658 likes - 65 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,753 likes - 65 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 32 | [The Level Beneath](https://open.spotify.com/track/7uzvL4MKvBCI3dDqswmXfC) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [The Level Beneath](https://open.spotify.com/album/53OgFqqJoJF640m9ISNBtI) | 3:27 |
 | 33 | [Corpse Grinder \- Live](https://open.spotify.com/track/0wmwflQJxqFsUBBaw9BwWZ) | [Massacre](https://open.spotify.com/artist/10tKMKG6F95zDrJOxqtjhA) | [Submergence: Live Beyond 2019](https://open.spotify.com/album/1t5i4sIwRePHIjqCDnIbaJ) | 3:40 |
 | 34 | [Feuer](https://open.spotify.com/track/0QQCWuBbRC1YiVgPMHVJEb) | [Eizbrand](https://open.spotify.com/artist/3ii8GYThfVbXooN5zoCgvt) | [Feuer](https://open.spotify.com/album/4CQAaZJvd3tCZBGv7njUXb) | 3:26 |
-| 35 | [Mistakes](https://open.spotify.com/track/47YfH5WOHZSfX2fNlmg6yi) | [Ikonik](https://open.spotify.com/artist/5rdDHxqM0ttrFpASCxnmIO), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Mistakes](https://open.spotify.com/album/4ZuCbQ05p1T76YO7T2HtO3) | 3:50 |
+| 35 | [Mistakes](https://open.spotify.com/track/47YfH5WOHZSfX2fNlmg6yi) | [IKONIK](https://open.spotify.com/artist/5rdDHxqM0ttrFpASCxnmIO), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Mistakes](https://open.spotify.com/album/4ZuCbQ05p1T76YO7T2HtO3) | 3:50 |
 | 36 | [Making Monsters](https://open.spotify.com/track/0K161bLN0sD0NuIBUs8Uir) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [Making Monsters](https://open.spotify.com/album/6T8mKUbptB0T4jkJD4dozN) | 5:29 |
 | 37 | [Taken before Given](https://open.spotify.com/track/4XEx6vQCbgO7DWvAy6gI7f) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Taken before Given](https://open.spotify.com/album/6CucaBaSyHO7ZQSwVvTu2T) | 3:54 |
 | 38 | [Nine Ships by Night](https://open.spotify.com/track/1vmvdTi3SFi0JkBWvDHf3n) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Nautic Force](https://open.spotify.com/album/2CwqYSDACuBtnVrg86hklg) | 2:59 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 64 | [Inquisition](https://open.spotify.com/track/6KgYfhfzzWK910JPf5pGXV) | [Defiled](https://open.spotify.com/artist/6KDc0SB4ero6zAgrafjVrt) | [The Highest Level](https://open.spotify.com/album/6SxXtudRnAH2ZqpEgvcJGe) | 3:39 |
 | 65 | [War Vessel](https://open.spotify.com/track/5l8Q5Cx41rBPy400hBMNL3) | [Astralborne](https://open.spotify.com/artist/45l3HSYbJXF1odSKY3UbTO) | [War Vessel](https://open.spotify.com/album/3jJx8sJEP9B5i7D8FygUHP) | 4:55 |
 
-Snapshot ID: `MCw4OGZmOGVlZjAxNjRiNTNjM2M0MGUzOWM1YTRmNzNjNjMzYWY1MmIx`
+Snapshot ID: `MCw2OWMyYzI4MzUyMDg4NWJmZmJiZTkwNWNkODhlOTFkMzJmZDI1Nzk4`

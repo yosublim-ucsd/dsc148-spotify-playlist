@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-240 songs - 1 day 1 hr 45 min
+241 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Happy Children \- Extended Version](https://open.spotify.com/track/1zyk28SazqJNp8aHAzHOWX) | [P\. Lion](https://open.spotify.com/artist/3C4Ma6ujXcpDtisnx6RASG) | [Pure 80](https://open.spotify.com/album/35EDVyk8NyvTchR3z7f4Ao) | 5:37 | 2022-06-10 | 2022-11-13 |
 | [Happy Station \- Original 12''](https://open.spotify.com/track/52IqKAPRF1R5EvwHucCrU7) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [The Best of](https://open.spotify.com/album/46yIgCncZnDixOKtdvFs8J) | 7:14 | 2020-08-07 | 2022-07-29 |
 | [Heart Of Glass \- 12" Version](https://open.spotify.com/track/1ZhyS4b9gLOEpJ9pUIncva) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie Singles Collection: 1977\-1982](https://open.spotify.com/album/6hDo5Rj0Rc564d0duAaXP8) | 5:50 | 2020-08-07 | 2022-07-29 |
+| [Heart Of Glass \- 12" Version](https://open.spotify.com/track/449G2rWpLD93IEhoaVE3QA) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Heart Of Glass](https://open.spotify.com/album/0p2ETkPfqNn7pUyDJHBjlO) | 5:50 | 2022-12-23 |  |
 | [Heart Of Glass \- Remix](https://open.spotify.com/track/5Q8SPijJts3lV4fcmCrZXp) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Once More Into The Bleach](https://open.spotify.com/album/3KqhlIxtnXfWJfi445kI8X) | 5:51 | 2022-06-10 | 2023-04-25 |
 | [Heaven Is A Place On Earth \- Heavenly Version](https://open.spotify.com/track/1Ik8ddEsKnVmBkS3ofkHf2) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [...A Place On Earth \- The Greatest Hits](https://open.spotify.com/album/104HsGxU6x5pZiAxFv43ov) | 5:59 | 2021-12-22 | 2022-07-24 |
 | [High Energy \(Extended Version\)](https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ) | [Evelyn Thomas](https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh) | [High Energy](https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn) | 7:51 | 2021-12-22 | 2022-07-25 |
@@ -211,7 +212,7 @@
 | [The Message \(feat\. Melle Mel & Duke Bootee\)](https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Duke Bootee](https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 | 2022-06-10 |  |
 | [The Reflex \- Dance Mix](https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 6:34 | 2021-12-22 | 2022-07-26 |
 | [The Safety Dance \- Extended Dance Version](https://open.spotify.com/track/2IqPRjJAcLvPqAEbnB2VJz) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rhythm Of Youth \(Expanded Edition\)](https://open.spotify.com/album/7EpYnc9mbn4dwQE7B9nnfz) | 4:38 | 2022-06-10 |  |
-| [The Sun Always Shines on T.V\. \- Extended Version](https://open.spotify.com/track/1naErYuUEfrmNcwn2EQWBU) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low \(Deluxe Edition\)](https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj) | 8:25 | 2020-08-07 |  |
+| [The Sun Always Shines on T.V\. \- Extended Version](https://open.spotify.com/track/1naErYuUEfrmNcwn2EQWBU) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low \(Deluxe Edition\)](https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj) | 8:25 | 2020-08-07 | 2023-05-03 |
 | [The Wild Boys \- Wilder Than Wild Boys Extended Mix](https://open.spotify.com/track/1W7lwP8OaRKq19yki8hrjR) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [so80s \(So Eighties\) \- Pres\. By Blank & Jones](https://open.spotify.com/album/1jLj9PKgewe9nDTQDF4AL5) | 7:59 | 2021-12-22 | 2022-07-26 |
 | [The Wild Boys \- Wilder Than Wild Boys Extended Mix](https://open.spotify.com/track/4CyF8v809RSBcSIYJV4QsV) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 8:00 | 2022-06-10 | 2022-11-13 |
 | [Theme from S'Express \- 12" Version](https://open.spotify.com/track/6ccIWKEpKvp7YYWLbD3ckK) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 5:59 | 2022-06-10 | 2022-11-13 |

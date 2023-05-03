@@ -4266,10 +4266,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 232615,
       "name": "Please Come Home",
       "url": "https://open.spotify.com/track/1RiuDvXUH1rBwqeFL5BsZi"
+    },
+    {
+      "album": {
+        "name": "Muzique, Vol. 01",
+        "url": "https://open.spotify.com/album/43VpirC4MMe2q15WRbz66a"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Jead",
+          "url": "https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Please Come Home",
+      "url": "https://open.spotify.com/track/2JOxQUCJ24EpytRxkFrrdG"
     },
     {
       "album": {

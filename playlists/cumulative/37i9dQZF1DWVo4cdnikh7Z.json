@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "ADDICTIVE Reprise",
+        "url": "https://open.spotify.com/album/6TjMGYwPwp7Lk3kZENtWjK"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "ADDICTIVE Reprise",
+      "url": "https://open.spotify.com/track/2hNpgGdyH9qtzne9wQ3nqm"
+    },
+    {
+      "album": {
         "name": "Cobra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3"
       },
@@ -2628,6 +2646,36 @@
       "duration_ms": 242019,
       "name": "Dhoom Dhaam",
       "url": "https://open.spotify.com/track/03CC6SSI9i2E8BG3f1MvEs"
+    },
+    {
+      "album": {
+        "name": "Dasara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Santhosh Hariharan",
+          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
+        },
+        {
+          "name": "Meenakshi Elayaraja",
+          "url": "https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242019,
+      "name": "Dhoom Dhaam",
+      "url": "https://open.spotify.com/track/30cug1bVfYWtWl1oDFZFoJ"
     },
     {
       "album": {
@@ -5012,7 +5060,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 212500,
       "name": "Kanaana Kanmani",
       "url": "https://open.spotify.com/track/1etDTeTdBw6phYuXtxXMxw"
@@ -6595,6 +6643,32 @@
     },
     {
       "album": {
+        "name": "Dasara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203052,
+      "name": "Mainaru Vetti Katti",
+      "url": "https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk"
+    },
+    {
+      "album": {
         "name": "Mainaru Vetti Katti (From \"Dasara\") (Tamil)",
         "url": "https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV"
       },
@@ -6644,7 +6718,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 203052,
       "name": "Mainaru Vetti Katti (From \"Dasara\")",
       "url": "https://open.spotify.com/track/2bNnF0kKGMHFSaxXiitbFr"
@@ -7177,6 +7251,28 @@
     },
     {
       "album": {
+        "name": "Vindhya Victim Verdict (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0AKuKBCrjH19F7F0Z0bGLV"
+      },
+      "artists": [
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Allen Sebastian",
+          "url": "https://open.spotify.com/artist/4pEiP3Hm8QhdSTEBhbQXat"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209449,
+      "name": "Megham",
+      "url": "https://open.spotify.com/track/2GVzulbmUb2sIFZbLwZ8SX"
+    },
+    {
+      "album": {
         "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
         "url": "https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y"
       },
@@ -7680,6 +7776,28 @@
       "duration_ms": 227692,
       "name": "Mudhala",
       "url": "https://open.spotify.com/track/4zywnVmS2ecmQNlmpzf8Cj"
+    },
+    {
+      "album": {
+        "name": "Multiverse of Adiye (From \"Adiye\")",
+        "url": "https://open.spotify.com/album/3VFOBelqaIo9RJmkjzS8VN"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "MC Vickey",
+          "url": "https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84125,
+      "name": "Multiverse of Adiye - From \"Adiye\"",
+      "url": "https://open.spotify.com/track/3oj8ZBSKYUteYODRy02FbM"
     },
     {
       "album": {
@@ -12333,6 +12451,28 @@
     },
     {
       "album": {
+        "name": "Dasara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Theekari",
+      "url": "https://open.spotify.com/track/5CjhkgeWu4rYmHrfWg9y6V"
+    },
+    {
+      "album": {
         "name": "Theekari (From \"Dasara\") - Single",
         "url": "https://open.spotify.com/album/3X1YtIXOQayUxLgDKDyMuI"
       },
@@ -13466,7 +13606,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 306506,
       "name": "Uyira Udala",
       "url": "https://open.spotify.com/track/6TQHcdtkHojnP5yNqFASAz"
@@ -14000,7 +14140,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 104000,
       "name": "Vantaa Kolavuda Poraada - From \"Soppana Sundari\"",
       "url": "https://open.spotify.com/track/2gM4otqJY6a8OrKNbHmClJ"
@@ -14834,6 +14974,32 @@
       "duration_ms": 208186,
       "name": "Yele Ilanchingamey",
       "url": "https://open.spotify.com/track/6r9x5kACUag7BUjE7VjOq8"
+    },
+    {
+      "album": {
+        "name": "Vimanam (Tamil)",
+        "url": "https://open.spotify.com/album/4J3LukDojShsVcQ8WVBWAj"
+      },
+      "artists": [
+        {
+          "name": "Charan Arjun",
+          "url": "https://open.spotify.com/artist/75yCfkTG0b56BdrEhoNreg"
+        },
+        {
+          "name": "Vaikom Vijayalakshmi",
+          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
+        },
+        {
+          "name": "Snehan",
+          "url": "https://open.spotify.com/artist/659048BXkqDjolFPtY1iA0"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269369,
+      "name": "Yele Yele",
+      "url": "https://open.spotify.com/track/4T4TpaDw2tCeeUTMTd67IX"
     },
     {
       "album": {

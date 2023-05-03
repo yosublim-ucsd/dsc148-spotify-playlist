@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 801 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 806 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 36 | [Madame ohh](https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:41 |
 | 37 | [Fiesta Ravanna](https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Fiesta Ravanna](https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ) | 4:25 |
 | 38 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
-| 39 | [Eliza](https://open.spotify.com/track/15fYq0hQa3jljdJpYKm1X3) | [Christopher Warren Permal](https://open.spotify.com/artist/1Pg7v37Gg31eCaI93ym1ry) | [Eliza](https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp) | 5:08 |
-| 40 | [Kitole](https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ) | [Clarel Armelle](https://open.spotify.com/artist/41OTWU0wQbtHwPDYCChtq2) | [A nou santt Cassya](https://open.spotify.com/album/241lyCwOGhmRLROixQD046) | 4:46 |
+| 39 | [Kitole](https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ) | [Clarel Armelle](https://open.spotify.com/artist/41OTWU0wQbtHwPDYCChtq2) | [A nou santt Cassya](https://open.spotify.com/album/241lyCwOGhmRLROixQD046) | 4:46 |
+| 40 | [Eliza](https://open.spotify.com/track/15fYq0hQa3jljdJpYKm1X3) | [Christopher Warren Permal](https://open.spotify.com/artist/1Pg7v37Gg31eCaI93ym1ry) | [Eliza](https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp) | 5:08 |
 | 41 | [Séga Li Lao](https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo) | [Valo](https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o) | [Séga Li Lao](https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX) | 4:39 |
 | 42 | [Mo ti poule](https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P) | [B.I.G](https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu) | [Coulèr Mélanzé](https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB) | 4:22 |
 | 43 | [Vandredi Sen](https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB) | [Jean\-Marc Volcy](https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot), [Jany Letourdi](https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3) | [The Best of Jean\-Marc Volcy](https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 50 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 
-Snapshot ID: `MCwzYmQ4YzljY2JlYWEyZWNjN2UyZDM4MzM1NzIwYTY0YTM1YTRlYzg1`
+Snapshot ID: `MCxiZmEwNjQ4YmE1ZWZiNjQwMWQ3ODFlOTViMzg0NDFkOTMxZjVlZjJj`

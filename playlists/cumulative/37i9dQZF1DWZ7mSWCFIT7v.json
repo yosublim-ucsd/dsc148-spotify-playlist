@@ -1444,6 +1444,24 @@
     {
       "album": {
         "name": "Erratics & Unconformities",
+        "url": "https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI"
+      },
+      "artists": [
+        {
+          "name": "Craven Faults",
+          "url": "https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475379,
+      "name": "Deipkier",
+      "url": "https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ"
+    },
+    {
+      "album": {
+        "name": "Erratics & Unconformities",
         "url": "https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V"
       },
       "artists": [
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 145774,
       "name": "I Can't Die as Well",
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"

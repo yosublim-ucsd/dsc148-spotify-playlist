@@ -1,12 +1,12 @@
 {
   "description": "Ultimate mix of songs from the 1990s to insure a good time while on the road.",
-  "num_followers": 489516,
+  "num_followers": 490380,
   "original_name": "90s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTEyNTRiNmY1YmJjNDkxNjk1MzAzZGNmZjY5YmU3NzBkMzBlMzRj",
+  "snapshot_id": "MCxkNTU4ZGE3YTViYWJjN2YxNDFmODA0NzQ1MGNiNzRjZThiN2QwYjQz",
   "tracks": [
     {
       "added_at": "2023-01-03 14:44:23",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Sixpence None the Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Music Sounds Better With You",
-        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
-      },
-      "artists": [
-        {
-          "name": "Stardust",
-          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
-        }
-      ],
-      "duration_ms": 260906,
-      "name": "Music Sounds Better With You - Radio Edit",
-      "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Stunt (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+        "name": "Music Sounds Better With You",
+        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
       "artists": [
         {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+          "name": "Stardust",
+          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
         }
       ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
+      "duration_ms": 260906,
+      "name": "Music Sounds Better With You - Radio Edit",
+      "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1199,6 +1183,22 @@
       "duration_ms": 294986,
       "name": "Smooth (feat. Rob Thomas)",
       "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "America's Least Wanted",
-        "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
-      },
-      "artists": [
-        {
-          "name": "Ugly Kid Joe",
-          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "Cats In The Cradle",
-      "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Desireless",
         "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 239226,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "America's Least Wanted",
+        "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
+      },
+      "artists": [
+        {
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "Cats In The Cradle",
+      "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Glorious: The Singles 97-07",
-        "url": "https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 227266,
       "name": "Men In Black - From \"Men In Black\" Soundtrack",
       "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Glorious: The Singles 97-07",
+        "url": "https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Gran Turismo (Remastered)",
         "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 240706,
       "name": "Who Do You Think You Are",
       "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 317080,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Great Expectations",
         "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
       },
@@ -2127,18 +2111,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Buddy's Song",
-        "url": "https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz"
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
       "artists": [
         {
-          "name": "Chesney Hawkes",
-          "url": "https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 223666,
-      "name": "The One and Only",
-      "url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y"
+      "duration_ms": 317080,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2171,6 +2155,22 @@
       "duration_ms": 372813,
       "name": "Enjoy the Silence - 2006 Remaster",
       "url": "https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Buddy's Song",
+        "url": "https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz"
+      },
+      "artists": [
+        {
+          "name": "Chesney Hawkes",
+          "url": "https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "The One and Only",
+      "url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "The Great Escape (Special Edition)",
-        "url": "https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Country House - 2012 Remaster",
-      "url": "https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Violator (2006 Remaster)",
         "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 294040,
       "name": "Policy of Truth - 2006 Remaster",
       "url": "https://open.spotify.com/track/0C6EIiQu8CS4eYtOCMEiAd"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "The Great Escape (Special Edition)",
+        "url": "https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Country House - 2012 Remaster",
+      "url": "https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Something Happened on the Way to Heaven - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4ziqqoW1o3P5EhNqK6CPb1"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Human Touch",
         "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
       },
@@ -2399,18 +2383,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Ballbreaker",
-        "url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX"
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Hard as a Rock",
-      "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
+      "duration_ms": 291586,
+      "name": "Something Happened on the Way to Heaven - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4ziqqoW1o3P5EhNqK6CPb1"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2431,22 +2415,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Inner Child",
-        "url": "https://open.spotify.com/album/3O1AUjaFcoauFoI10ZZJxi"
-      },
-      "artists": [
-        {
-          "name": "Shanice",
-          "url": "https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6"
-        }
-      ],
-      "duration_ms": 257973,
-      "name": "I Love Your Smile",
-      "url": "https://open.spotify.com/track/69mFxANpGyq9s69LqH3d9G"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Come On Over (Internationl Version / Special Edition)",
         "url": "https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop"
       },
@@ -2459,6 +2427,38 @@
       "duration_ms": 238641,
       "name": "That Don't Impress Me Much - International Mix",
       "url": "https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Ballbreaker",
+        "url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Hard as a Rock",
+      "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Inner Child",
+        "url": "https://open.spotify.com/album/3O1AUjaFcoauFoI10ZZJxi"
+      },
+      "artists": [
+        {
+          "name": "Shanice",
+          "url": "https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6"
+        }
+      ],
+      "duration_ms": 257973,
+      "name": "I Love Your Smile",
+      "url": "https://open.spotify.com/track/69mFxANpGyq9s69LqH3d9G"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Robyn Is Here",
-        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Show Me Love - Radio Version",
-      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "The Commitments",
         "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
       },
@@ -2655,6 +2639,22 @@
       "duration_ms": 241866,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Robyn Is Here",
+        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Show Me Love - Radio Version",
+      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "fear",
-        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
-      },
-      "artists": [
-        {
-          "name": "Toad The Wet Sprocket",
-          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Walk On the Ocean",
-      "url": "https://open.spotify.com/track/2JAECj9kBYQHb8AqJ2rsxt"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "3 Years, 5 Months And 2 Days In The Life Of...",
         "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 247506,
       "name": "Mr. Wendal",
       "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "fear",
+        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
+      },
+      "artists": [
+        {
+          "name": "Toad The Wet Sprocket",
+          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Walk On the Ocean",
+      "url": "https://open.spotify.com/track/2JAECj9kBYQHb8AqJ2rsxt"
     },
     {
       "added_at": "2023-01-03 14:44:23",

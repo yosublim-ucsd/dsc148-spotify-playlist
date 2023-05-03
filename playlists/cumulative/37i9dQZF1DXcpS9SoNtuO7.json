@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "2023/1/27\u30fb28\u30fb29\u306b\u65e5\u672c\u6b66\u9053\u9928\u306b\u3066\u958b\u50ac\u3055\u308c\u308b\u30a2\u30cb\u30bd\u30f3\u30d5\u30a7\u30b9\u201c\u30ea\u30b9\u30a2\u30cb\uff01LIVE 2023\u201d\u51fa\u6f14\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u697d\u66f2\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 The official playlist of \"LisAni! LIVE 2023\"",
-  "name": "\u30ea\u30b9\u30a2\u30cb\uff01LIVE 2023",
+  "description": "The hottest Japanese anime song playlist curated by<a href=\"https://www.lisani.jp/\"> LisAni</a>\uff01 \u30a2\u30cb\u30e1\u97f3\u697d\u30e1\u30c7\u30a3\u30a2\u300c<a href=\"https://www.lisani.jp/\">\u30ea\u30b9\u30a2\u30cb\uff01</a>\u300d\u304c\u8d08\u308b\u6700\u5f37\u306e\u30a2\u30cb\u30bd\u30f3\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3059\u3002\u65b0\u65e7\u306e\u540d\u66f2\u3092\u968f\u6642\u66f4\u65b0\uff01",
+  "name": "\u30ea\u30b9\u30a2\u30cb\uff01\u6700\u5f37\u30a2\u30cb\u30bd\u30f3\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "tracks": [
     {
       "album": {
@@ -1443,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "Iden Teitei Meltdown",
+        "url": "https://open.spotify.com/album/2tCVHP4OBLBnz3bT7fz0G7"
+      },
+      "artists": [
+        {
+          "name": "Enako",
+          "url": "https://open.spotify.com/artist/23Sh4LxrCSK3Or7uEjZ9Vy"
+        },
+        {
+          "name": "Pmarusama",
+          "url": "https://open.spotify.com/artist/7G6CzEvibsxpjfOIktMQEO"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Iden Teitei Meltdown",
+      "url": "https://open.spotify.com/track/3ChPJQvs0HvyNy7j3AbBzK"
+    },
+    {
+      "album": {
         "name": "IDOLY PRIDE",
         "url": "https://open.spotify.com/album/4Lj5yWUNByFyBmcd2GlbE8"
       },
@@ -2554,6 +2576,24 @@
       "duration_ms": 227573,
       "name": "RESISTER",
       "url": "https://open.spotify.com/track/4L2A9Sgn15oYBVy64mfvqj"
+    },
+    {
+      "album": {
+        "name": "FLCL Season 1 Vol. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5qRZrLQSAnZkhdvQtR8MpT"
+      },
+      "artists": [
+        {
+          "name": "the pillows",
+          "url": "https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142733,
+      "name": "RIDE ON SHOOTING STAR",
+      "url": "https://open.spotify.com/track/6O4t5H68WJNd8RQjZcu2Oj"
     },
     {
       "album": {
@@ -4782,7 +4822,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 269173,
       "name": "\u30e1\u30cb\u30e1\u30cb\u30de\u30cb\u30de\u30cb",
       "url": "https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 
 > Essential Alesso originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,781 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,829 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 | 50 | [TIME \- Alesso & Deniz Koyu Remix](https://open.spotify.com/track/6EHfy60U5dH5QJcQKdbNPQ) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [TIME \(Alesso & Deniz Koyu Remix\)](https://open.spotify.com/album/75FRR5VgQfUAGYw8nazMrI) | 3:54 |
 | 51 | [Going Dumb \(with Stray Kids\) \[Mike Williams Remix\]](https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb \(with Stray Kids\) \[Mike Williams Remix\]](https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr) | 2:46 |
 
-Snapshot ID: `MCxhMTBlNTJiY2Q3MjI2NzAyYmE3NjNmYTI3ODg5ZmUxNjY4MTRjMGI0`
+Snapshot ID: `MCw5YjllMmIwMzViNzkwMTQ2ZDRlNDgzNzlmN2ZmYTU1OTJhZjNkYWMz`

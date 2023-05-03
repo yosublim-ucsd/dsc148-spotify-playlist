@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-273 songs - 16 hr 28 min
+274 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Out Of Touch \- Edit](https://open.spotify.com/track/3Q7cF0uvDhoorWDWpsg024) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Out Of Touch](https://open.spotify.com/album/0lzKzx043JEPXSe3ht4LK3) | 3:32 | 2021-12-03 | 2022-05-07 |
 | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/track/2WCInR4Z5mlpuk6qbYooQE) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/album/2LVHnGD0b6KrJvyGmOuG8Q) | 2:53 | 2021-12-03 |  |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-07 | 2022-05-14 |
-| [Please Come Home](https://open.spotify.com/track/1RiuDvXUH1rBwqeFL5BsZi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Muzique, Vol\. 01](https://open.spotify.com/album/5N7LpR0MjS0lroJ0lKiGbq) | 3:52 | 2022-07-15 |  |
+| [Please Come Home](https://open.spotify.com/track/1RiuDvXUH1rBwqeFL5BsZi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Muzique, Vol\. 01](https://open.spotify.com/album/5N7LpR0MjS0lroJ0lKiGbq) | 3:52 | 2022-07-15 | 2023-05-03 |
+| [Please Come Home](https://open.spotify.com/track/2JOxQUCJ24EpytRxkFrrdG) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Muzique, Vol\. 01](https://open.spotify.com/album/43VpirC4MMe2q15WRbz66a) | 3:52 | 2023-03-31 |  |
 | [Please Come Home](https://open.spotify.com/track/5EOUYFfFbyPXtZOiuRKTpU) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Please Come Home](https://open.spotify.com/album/1JmOtdJu3CZKowtgdNIOX8) | 3:52 | 2021-12-03 | 2022-08-13 |
 | [Poison For Lovers](https://open.spotify.com/track/7HerYPWrex5mg6w9FiK0wk) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 5:00 | 2021-12-03 |  |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2022-12-17 |  |

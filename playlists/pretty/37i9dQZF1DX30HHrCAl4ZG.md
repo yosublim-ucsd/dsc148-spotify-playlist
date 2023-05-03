@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Indigo De Souza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,637 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,653 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Daily News](https://open.spotify.com/track/1yhY41ETiHG3g8SulQMCaL) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Daily News](https://open.spotify.com/album/1zvGUFwtupod7nYJ9oziqO) | 4:15 |
 | 100 | [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 |
 
-Snapshot ID: `MCxjMzcxZmFiOGIxNzc4NzdiZWExMTJmYzY3NjdkNTJiOTljOTc3MTdi`
+Snapshot ID: `MCw2NWFjODhjNTdmNTExNGEzYjZiYzNjNDhiOWM0MTQwYzI1MmRlYTQ0`

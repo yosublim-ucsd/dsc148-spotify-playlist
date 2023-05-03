@@ -16,10 +16,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 238013,
       "name": "A Fond Farewell",
       "url": "https://open.spotify.com/track/2f0KFqF9B2oKOx0NBVTaXv"
+    },
+    {
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238013,
+      "name": "A Fond Farewell",
+      "url": "https://open.spotify.com/track/4R5su0RMFPUeReN0xkWalx"
     },
     {
       "album": {
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 251786,
       "name": "Alphabet Town",
       "url": "https://open.spotify.com/track/7txWpzNPNQmIEakeGkqZWo"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 158360,
       "name": "Angel In The Snow",
       "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
@@ -488,7 +506,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 230573,
       "name": "Half Right",
       "url": "https://open.spotify.com/track/5KqUAChw7ZFJpc4knm4jka"
@@ -794,10 +812,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 193240,
       "name": "No Name #3",
       "url": "https://open.spotify.com/track/5xmqzcBqw4c0c5gcDHthDO"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193506,
+      "name": "No Name #3",
+      "url": "https://open.spotify.com/track/2AqFIGyQtszt9poExltU59"
     },
     {
       "album": {
@@ -942,6 +978,24 @@
       "duration_ms": 140626,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
+    },
+    {
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146120,
+      "name": "Single File",
+      "url": "https://open.spotify.com/track/6Nnw0AgZezRsAlnXmRrUGI"
     },
     {
       "album": {

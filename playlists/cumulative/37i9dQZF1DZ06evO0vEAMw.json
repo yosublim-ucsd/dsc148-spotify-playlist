@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 210693,
       "name": "2AM (feat. Tory Lanez & Davido)",
       "url": "https://open.spotify.com/track/6OIJcRL2yycLyIbzrwOUty"
@@ -304,6 +304,28 @@
       "duration_ms": 133589,
       "name": "BADI",
       "url": "https://open.spotify.com/track/5LhpeOCo5Pb3sj2237XlK1"
+    },
+    {
+      "album": {
+        "name": "Betty Butter",
+        "url": "https://open.spotify.com/album/3EOaOT5E1TOzXt1LtkLykd"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129802,
+      "name": "Betty Butter",
+      "url": "https://open.spotify.com/track/4cCo1QTHuuJCZQDnAUahQI"
     },
     {
       "album": {

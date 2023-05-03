@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 51854,
+  "num_followers": 51933,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTk3YzM1NmEyZWU4MGEzNWM2NGE2OTE5MDFkMzhkZjY1ODgxMmI4",
+  "snapshot_id": "MCwyZTEzNTRlZGJmZTgzNmNhNzRhODEzMTM3Y2QzMTBjZTBlMDljMTU1",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:51",
@@ -231,26 +231,18 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "Sisters & Brothers",
-        "url": "https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz"
+        "name": "Carolina Confessions",
+        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
       },
       "artists": [
         {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        },
-        {
-          "name": "Rory Block",
-          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
-        },
-        {
-          "name": "Maria Muldaur",
-          "url": "https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT"
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
         }
       ],
-      "duration_ms": 204960,
-      "name": "Don't Ever Let Nobody Drag Your Spirit Down",
-      "url": "https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe"
+      "duration_ms": 384373,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -275,18 +267,26 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "Carolina Confessions",
-        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
+        "name": "Sisters & Brothers",
+        "url": "https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz"
       },
       "artists": [
         {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        },
+        {
+          "name": "Rory Block",
+          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
+        },
+        {
+          "name": "Maria Muldaur",
+          "url": "https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT"
         }
       ],
-      "duration_ms": 384373,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
+      "duration_ms": 204960,
+      "name": "Don't Ever Let Nobody Drag Your Spirit Down",
+      "url": "https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "Taking Me Higher",
-        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 243314,
-      "name": "Taking Me Higher",
-      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 208167,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/68hRjnbmGNKjGObSdmB5ZL"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
+        "name": "Taking Me Higher",
+        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "Taking Me Higher",
+      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
         "name": "London Bridge",
         "url": "https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 327469,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
         "name": "Other Side of Goodbye",
         "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 154226,
       "name": "Other Side of Goodbye",
       "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
         "name": "Sunny Side Up",
         "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 265640,
       "name": "No Other Way",
       "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "Real Contender",
-        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Real Contender",
-      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 295346,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
+        "name": "Real Contender",
+        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Real Contender",
+      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
+      },
+      "artists": [
+        {
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 308893,
       "name": "Third Degree",
       "url": "https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
-      },
-      "artists": [
-        {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "Strange Time To Be Alive",
-        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "If Heaven Is A Hotel",
-      "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
         "name": "How Many Times?",
         "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 285701,
       "name": "How Many Times?",
       "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "If Heaven Is A Hotel",
+      "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 227274,
-      "name": "Nibbadip",
-      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
         "name": "Better Days (feat. Dave Fenley)",
         "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 227274,
+      "name": "Nibbadip",
+      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
         "name": "What Happens Next",
         "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "Got Me a Party",
-        "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
-      },
-      "artists": [
-        {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
-        }
-      ],
-      "duration_ms": 140600,
-      "name": "Got Me a Party",
-      "url": "https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
         "name": "Dinah Washington Sings Bessie Smith",
         "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 218866,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
+        "name": "Got Me a Party",
+        "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
+      },
+      "artists": [
+        {
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+        }
+      ],
+      "duration_ms": 140600,
+      "name": "Got Me a Party",
+      "url": "https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L"
     },
     {
       "added_at": "2023-04-28 16:37:51",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-04-28 16:37:51",
       "album": {
-        "name": "I Shouldn\u2019t Care (Bonus Track)",
-        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "I Shouldn't Care - Bonus Track",
-      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
-    },
-    {
-      "added_at": "2023-04-28 16:37:51",
-      "album": {
         "name": "Bringing It Back Home",
         "url": "https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 337413,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
+    },
+    {
+      "added_at": "2023-04-28 16:37:51",
+      "album": {
+        "name": "I Shouldn\u2019t Care (Bonus Track)",
+        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "I Shouldn't Care - Bonus Track",
+      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
     },
     {
       "added_at": "2023-04-28 16:37:51",

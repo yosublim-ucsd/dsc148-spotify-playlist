@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 419517,
+  "num_followers": 419681,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGFjY2JlZDkwODMyNGM1YzRjNjBlMDVhNmJlN2I1MzNiNjRiZmQ4",
+  "snapshot_id": "MCxmZTUxNWM0Mjk2NDJiMTY5OTQ4MGEzMDM3OGUzM2FmMTkxNjMzYjgz",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "In My Eyes",
+        "url": "https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di"
+      },
+      "artists": [
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "In My Eyes",
+      "url": "https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 168974,
       "name": "Think About U (feat. Joji)",
       "url": "https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "In My Eyes",
-        "url": "https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di"
-      },
-      "artists": [
-        {
-          "name": "Beow\u00fclf",
-          "url": "https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg"
-        }
-      ],
-      "duration_ms": 101198,
-      "name": "In My Eyes",
-      "url": "https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah"
     },
     {
       "added_at": "2023-02-16 22:50:07",

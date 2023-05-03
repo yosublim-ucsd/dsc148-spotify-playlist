@@ -3248,7 +3248,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -5372,6 +5372,28 @@
       "duration_ms": 148188,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/26W3t5wyq40iJYrpddWPbY"
+    },
+    {
+      "album": {
+        "name": "ELGHIRA",
+        "url": "https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm"
+      },
+      "artists": [
+        {
+          "name": "Mc Artisan",
+          "url": "https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "ELGHIRA",
+      "url": "https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X"
     },
     {
       "album": {

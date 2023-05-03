@@ -1042,6 +1042,24 @@
     {
       "album": {
         "name": "Aura",
+        "url": "https://open.spotify.com/album/17gGAZnkI6zWKMWFCIDoPV"
+      },
+      "artists": [
+        {
+          "name": "Cafe Disko",
+          "url": "https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4nmEa4jNa9DcykYJHkmtrV"
+    },
+    {
+      "album": {
+        "name": "Aura",
         "url": "https://open.spotify.com/album/6pnA3ABPGoK5UAV0NdURSQ"
       },
       "artists": [
@@ -5555,6 +5573,24 @@
     },
     {
       "album": {
+        "name": "Had Some Drinks",
+        "url": "https://open.spotify.com/album/44kEIUk7bv5Wu6xrs7QJvm"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140973,
+      "name": "Had Some Drinks",
+      "url": "https://open.spotify.com/track/2ap1x3VLFXzeVRDl14PYsM"
+    },
+    {
+      "album": {
         "name": "Hall Of Fame",
         "url": "https://open.spotify.com/album/3o4lZPeJvIYm8TdyNZPB8l"
       },
@@ -6422,6 +6458,24 @@
       "duration_ms": 166400,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/6TwqoMt1hWWBZ06YNqQU3n"
+    },
+    {
+      "album": {
+        "name": "A 20 Something Fuck",
+        "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "I Feel Like I'm Drowning",
+      "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
     },
     {
       "album": {
@@ -9755,6 +9809,28 @@
     },
     {
       "album": {
+        "name": "obsessed",
+        "url": "https://open.spotify.com/album/0bbp2pnr07VBdkjMkAMtN3"
+      },
+      "artists": [
+        {
+          "name": "zandros",
+          "url": "https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q"
+        },
+        {
+          "name": "Limi",
+          "url": "https://open.spotify.com/artist/2SPIThivWqjfsjlYPNxYX9"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180110,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/3TKakBgJaTH5INk0WhU4xP"
+    },
+    {
+      "album": {
         "name": "Occult",
         "url": "https://open.spotify.com/album/4OyoBkTNFCL6TCNjFdhTqQ"
       },
@@ -10934,6 +11010,24 @@
       "duration_ms": 216500,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6vE6GD6TFiVxvYMf8gnsVO"
+    },
+    {
+      "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Quick Musical Doodles",
+      "url": "https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem"
     },
     {
       "album": {
@@ -12858,6 +12952,28 @@
       "duration_ms": 220273,
       "name": "Stay - Afinity Remix",
       "url": "https://open.spotify.com/track/1BTc2Jtvi0xXbuew9QsQXs"
+    },
+    {
+      "album": {
+        "name": "Spring Break Essentials",
+        "url": "https://open.spotify.com/album/1cG3G3xYzf6deXeAulQw5v"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258385,
+      "name": "Stay High - Habits Remix",
+      "url": "https://open.spotify.com/track/1a3bby8QWg5R2MQMPejXRJ"
     },
     {
       "album": {
@@ -15348,7 +15464,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 175448,
       "name": "Why",
       "url": "https://open.spotify.com/track/2woXOL3Lh25Bs3HwHJDC8Q"

@@ -1,12 +1,12 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 77354,
+  "num_followers": 77410,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTlmZTFkNzZhN2NkZTYxMGEyOTQzYjQxZTY5Y2E4OWM1N2YyNThh",
+  "snapshot_id": "MCw2M2Y1MThhYjdjMjI4OTZhZTkyMTJkZGJkYWI2NDhkYmFiYTAyODgz",
   "tracks": [
     {
       "added_at": "2021-04-23 23:14:33",
@@ -251,26 +251,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Siren Song",
-        "url": "https://open.spotify.com/album/5dKK3CIn47wK0EOfFil0Yx"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Eden",
-          "url": "https://open.spotify.com/artist/6N2Ia8zUwFniMNuziWgRw0"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "Siren Song - Radio Edit",
-      "url": "https://open.spotify.com/track/5Av1pSoOroARH50X3V80nL"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Playa Grande",
         "url": "https://open.spotify.com/album/1CNYk7pMA94naeh4XyTrlf"
       },
@@ -291,34 +271,42 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Lose Control (The Remixes, Pt. 2)",
-        "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/5dKK3CIn47wK0EOfFil0Yx"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "ChildsPlay",
-          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
-        },
-        {
-          "name": "Badd Dimes",
-          "url": "https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB"
+          "name": "Eden",
+          "url": "https://open.spotify.com/artist/6N2Ia8zUwFniMNuziWgRw0"
         }
       ],
-      "duration_ms": 207021,
-      "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
-      "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
+      "duration_ms": 207296,
+      "name": "Siren Song - Radio Edit",
+      "url": "https://open.spotify.com/track/5Av1pSoOroARH50X3V80nL"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -351,22 +339,34 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK"
+        "name": "Lose Control (The Remixes, Pt. 2)",
+        "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Badd Dimes",
+          "url": "https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo"
+      "duration_ms": 207021,
+      "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
+      "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
     },
     {
       "added_at": "2021-04-23 23:14:33",

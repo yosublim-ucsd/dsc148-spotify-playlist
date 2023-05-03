@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 142894,
       "name": "Moving Mad",
       "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
@@ -3050,6 +3050,28 @@
       "duration_ms": 154285,
       "name": "SKI",
       "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
+    },
+    {
+      "album": {
+        "name": "Smackdown",
+        "url": "https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn"
+      },
+      "artists": [
+        {
+          "name": "AttiFaya",
+          "url": "https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0"
+        },
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Smackdown",
+      "url": "https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Wax Motif
 
-1,043 songs - 2 day 13 hr 24 min
+1,044 songs - 2 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Bounce Back \- Radio Edit](https://open.spotify.com/track/618yUf41DzP0qLVH4b76PR) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bounce Back](https://open.spotify.com/album/3FVsYixksaFuLlWxRrKF9C) | 4:40 | 2021-11-26 | 2022-01-06 |
 | [Bouncer](https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4) | [Bouncer](https://open.spotify.com/album/6JPQh64ynH13iEoRDdSMqK) | 4:01 | 2022-05-13 | 2022-07-09 |
 | [Boyz N Da Club](https://open.spotify.com/track/6UnIzJce5oPkbZNLtOrQpR) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club](https://open.spotify.com/album/6KasM8IauF480u29Vmfww8) | 6:17 | 2021-11-26 | 2022-01-06 |
-| [Bracadu](https://open.spotify.com/track/2jt1PRnEe1E96lGJoRBT8L) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Bracadu](https://open.spotify.com/album/6SDzysgIusIkIfK0xkBfqt) | 2:36 | 2023-04-21 |  |
+| [Bracadu](https://open.spotify.com/track/2jt1PRnEe1E96lGJoRBT8L) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Bracadu](https://open.spotify.com/album/6SDzysgIusIkIfK0xkBfqt) | 2:36 | 2023-04-21 | 2023-05-03 |
 | [BRAZIL](https://open.spotify.com/track/1ORp1yoMlfMqlRn83VTB2O) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [BRAZIL](https://open.spotify.com/album/1XpQBTKoUEImwzvgolPS0K) | 3:32 | 2023-04-28 |  |
 | [Brighter Days \- Marco Lys Remix](https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Brighter Days \(30 Year Anniversary Remixes\)](https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB) | 6:22 | 2022-12-28 | 2023-01-06 |
 | [Bring A Friend](https://open.spotify.com/track/5qvE6RC6vV9Y3bmVL535v6) | [Hood Rich](https://open.spotify.com/artist/6VsCebtxRP7GhBxmOnb2oA) | [Bring A Friend](https://open.spotify.com/album/1ftcMSE9C1ce2wH1O0AUFV) | 3:13 | 2021-11-26 | 2022-01-06 |
@@ -145,6 +145,7 @@
 | [Case Of The Ex \(feat\. Mya Francis\)](https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mya Francis](https://open.spotify.com/artist/0kfbyRaQxHrJavbstTdvrU) | [Case Of The Ex \(feat\. Mya Francis\)](https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM) | 2:07 | 2023-02-24 |  |
 | [Chase The Ace](https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Chase The Ace EP](https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi) | 2:59 | 2022-03-11 | 2022-06-04 |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2021-11-26 | 2022-04-23 |
+| [Cherry Pop](https://open.spotify.com/track/1ChclGQktTSCb8KM6hY1CR) | [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Cherry Pop](https://open.spotify.com/album/6bP0HBYULtzWMS0Z4EURUa) | 2:02 | 2023-04-28 |  |
 | [Chicago Gangsta](https://open.spotify.com/track/5RjWYXb8eJgaswm9GXTSQK) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6) | [Chicago Gangsta](https://open.spotify.com/album/46TOKEQIER2uMqWliTkY0g) | 5:22 | 2022-04-22 | 2022-05-07 |
 | [Chill Like That \(Odd Mob Remix\)](https://open.spotify.com/track/4bh0wx2X8EayDLOu0iTVKL) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Chill Like That \(Odd Mob Remix\)](https://open.spotify.com/album/4T6CPJTotclaAMvrGL8LzD) | 3:25 | 2023-01-20 | 2023-04-22 |
 | [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 | 2022-06-21 | 2022-10-15 |

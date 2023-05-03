@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 15 | [Es Amor \(What Is Love\) \(feat\. Nicky Jam & Emy Perez\)](https://open.spotify.com/track/568HkRjcNnuFYjtfH1rqMo) | [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Es Amor \(What Is Love\) \(feat\. Nicky Jam & Emy Perez\)](https://open.spotify.com/album/6VNA1VvqRbL9qfqhsWEYWT) | 3:05 |
 | 16 | [Nice & Slow \(feat\. Emy Perez\)](https://open.spotify.com/track/3o5iWAwwnXFJQJyKL8vdpK) | [Johnny 500](https://open.spotify.com/artist/53phw2rwTqJEtpZ1LgsPgj), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Nice & Slow \(feat\. Emy Perez\)](https://open.spotify.com/album/1xIzM2CPJzj56zJliMLxK0) | 2:10 |
 | 17 | [Solo Tu](https://open.spotify.com/track/2etmwQR7SFXqZRteCNkxgQ) | [Rouge](https://open.spotify.com/artist/7oCPozHYsiILeiQlma8EEj) | [Les 5inq](https://open.spotify.com/album/1UliRcbHEglMIQmsRnlspu) | 3:05 |
-| 18 | [Ibiza](https://open.spotify.com/track/5YAVXFERnWkGlRRF6d39wo) | [Marco Carpentieri](https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Ibiza](https://open.spotify.com/album/4rCFMkYoK4vDEkpONtcdZO) | 3:26 |
-| 19 | [El Mundo Baila](https://open.spotify.com/track/7ec664OOg6lMzOLz8aztZ8) | [B'Elle](https://open.spotify.com/artist/3Bp4EXpyHUtJn0HNOk7RVz) | [El Mundo Baila](https://open.spotify.com/album/6gfawBHQ4lX5d1G7stPJkt) | 2:36 |
+| 18 | [El Mundo Baila](https://open.spotify.com/track/7ec664OOg6lMzOLz8aztZ8) | [B'Elle](https://open.spotify.com/artist/3Bp4EXpyHUtJn0HNOk7RVz) | [El Mundo Baila](https://open.spotify.com/album/6gfawBHQ4lX5d1G7stPJkt) | 2:36 |
+| 19 | [Ibiza](https://open.spotify.com/track/5YAVXFERnWkGlRRF6d39wo) | [Marco Carpentieri](https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Ibiza](https://open.spotify.com/album/4rCFMkYoK4vDEkpONtcdZO) | 3:26 |
 | 20 | [Smoke Up \(feat\. Emy Perez\)](https://open.spotify.com/track/3HC344e1WcJIdIVKXsMsgV) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Smoke Up \(feat\. Emy Perez\)](https://open.spotify.com/album/4SW9pEnVgQBBEeAnUBW8kV) | 2:30 |
 | 21 | [Ain't Seen Before](https://open.spotify.com/track/4AzRdtKnhVq57y6GrWPTSV) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Club Files \#1](https://open.spotify.com/album/65ZVStUk2ISiu5LO0jtu6d) | 4:19 |
 | 22 | [Firestarter](https://open.spotify.com/track/0QFq6Cgos9qVMGcPgC9fcs) | [Lennert Wolfs](https://open.spotify.com/artist/0T4Qr97ftW9NtSvoyqBvAt), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Firestarter](https://open.spotify.com/album/1qisOburOSHmodwNMGltzp) | 2:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 50 | [Till The Sun Comes Down](https://open.spotify.com/track/0lXHqJQ08GGhJMQN0WQEgd) | [SOLR](https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh), [The Trixx](https://open.spotify.com/artist/3E3y0s1aMZIQYD9ExbitIT), [Emy](https://open.spotify.com/artist/1VFBjda5d9AXc2QUweoi85) | [Till The Sun Comes Down](https://open.spotify.com/album/6dElwID4F5wWBRGxXQJXP0) | 3:54 |
 | 51 | [Honest](https://open.spotify.com/track/1zfLmKG6W76HcNwfT8yI3G) | [Matt Florgan](https://open.spotify.com/artist/1hyFVrYjtDUnLJVzjMprlZ), [Davis Mallory](https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV) | [Honest](https://open.spotify.com/album/2d1PTvc0fyrS9wDLGKyF6r) | 2:24 |
 
-Snapshot ID: `MjgwNDk3NjYsMDAwMDAwMDAzZjRkMTYwYTNlYjQxY2Q3ZGZkYWI5ZTlmMmVjODg1NQ==`
+Snapshot ID: `MjgwNTEyMDYsMDAwMDAwMDBmOWRiMDUwMjgwMjE3NTA5N2Y2ZGZhYzM2MGU1ZmQ5Mg==`

@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 62759,
+  "num_followers": 62801,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGZkOGY2ZDRhNDkzOGRmNTRlZjgxZGMxMzg2MjJiYTk5MTk1OTU4",
+  "snapshot_id": "MCwwYTM1N2NjY2MyZjkxMjVmNmRiNTQ2MjJlM2NmYWQ2OTQ1Yjk5Yzhl",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "LOVE AND COMPROMISE",
-        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "What You Did (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "What You Did (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 208395,
+      "name": "Jet Black (feat. Brandy)",
+      "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 208395,
-      "name": "Jet Black (feat. Brandy)",
-      "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "killer",
+        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 176876,
+      "name": "killer",
+      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 266812,
       "name": "Come Home (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "killer",
-        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "killer",
-      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Avenue",
-        "url": "https://open.spotify.com/album/3xCkKt8x3YWLpEMOVLX7vx"
-      },
-      "artists": [
-        {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/7b7vlu6R3ww0Hzvz50GQDh"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Seasons (with Khalid)",
         "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 250001,
       "name": "Seasons (with Khalid)",
       "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/3xCkKt8x3YWLpEMOVLX7vx"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/7b7vlu6R3ww0Hzvz50GQDh"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
-      },
-      "artists": [
-        {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
-        }
-      ],
-      "duration_ms": 159267,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Orbit (Live from Air Studios)",
         "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 234313,
       "name": "Orbit - Live from Air Studios",
       "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "And Then Life Was Beautiful",
+        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Who Do You Pray To?",
         "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
       },
@@ -1615,26 +1631,6 @@
       "duration_ms": 189092,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "TyrTape (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Natnael",
-          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
-        }
-      ],
-      "duration_ms": 200168,
-      "name": "I Blodet (feat. Natnael)",
-      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Sympati For Djevelen",
-        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
+        "name": "TyrTape (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
       },
       "artists": [
         {
-          "name": "L.U:N.A",
-          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Natnael",
+          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
         }
       ],
-      "duration_ms": 183692,
-      "name": "Sympati For Djevelen",
-      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
+      "duration_ms": 200168,
+      "name": "I Blodet (feat. Natnael)",
+      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "And Then Life Was Beautiful",
-        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
+        "name": "Sympati For Djevelen",
+        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
       },
       "artists": [
         {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+          "name": "L.U:N.A",
+          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
+      "duration_ms": 183692,
+      "name": "Sympati For Djevelen",
+      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
     },
     {
       "added_at": "2023-01-12 23:00:00",

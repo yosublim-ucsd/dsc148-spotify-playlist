@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Shuman , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,155 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,186 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Just Another Phase](https://open.spotify.com/track/7DRQfwqmmZurnjiuOh1bV2) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Just Another Phase](https://open.spotify.com/album/4EfFfT8sTjCgpZs5Rd53LZ) | 2:23 |
 | 100 | [Udd Re](https://open.spotify.com/track/1VRXOd1EtibAlmAV5CEWHT) | [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Udd Re](https://open.spotify.com/album/6V7xG8jWVHgk29H1eneQYz) | 3:24 |
 
-Snapshot ID: `MCw4MTE0OGMxZGVlODBlMjBhNmI5NTk2OTYzOGU4MDY5MmNkNjMxOTYx`
+Snapshot ID: `MCxmNGNlNjYxNWFlOThiNzcyNDYzZWQ1NzQ4MDVhODU0ZTBkMmE4MmM1`

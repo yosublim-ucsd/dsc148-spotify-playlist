@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70549,
+  "num_followers": 70567,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWNlMTc0YTljMzM4MDcyN2Y5OGYzYTUzOTBmNmFjZTljODdjNTk0",
+  "snapshot_id": "MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "The Centennial Collection",
+        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "They're Red Hot - SA.2627-1",
+      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 184000,
       "name": "Better Day",
       "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "The Centennial Collection",
-        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
-      },
-      "artists": [
-        {
-          "name": "Robert Johnson",
-          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "They're Red Hot - SA.2627-1",
-      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
-      "added_at": "2023-05-02 01:01:49",
+      "added_at": "2023-05-03 01:41:32",
       "album": {
         "name": "Blues Jumped a Rabbit",
         "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Brother Johnny",
-        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
+        "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
       "artists": [
         {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Doyle Bramhall II",
-          "url": "https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV"
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
         }
       ],
-      "duration_ms": 232426,
-      "name": "When You Got a Good Friend",
-      "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
+      "duration_ms": 186591,
+      "name": "The Man From Nowhere",
+      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
+        "name": "Brother Johnny",
+        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
       "artists": [
         {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        },
+        {
+          "name": "Doyle Bramhall II",
+          "url": "https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV"
         }
       ],
-      "duration_ms": 186591,
-      "name": "The Man From Nowhere",
-      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
+      "duration_ms": 232426,
+      "name": "When You Got a Good Friend",
+      "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
     },
     {
       "added_at": "2023-04-07 00:01:00",

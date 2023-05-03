@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-255 songs - 14 hr 14 min
+256 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 | 2021-10-19 |  |
 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 | 2021-10-19 |  |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2021-10-19 | 2023-04-30 |
+| [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2021-10-19 |  |
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/16ZNz0wXDJERo4zquNPw7x) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [20th Century Masters: The Millennium Collection: Best of Jr\. Walker & The All Stars](https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y) | 2:59 | 2021-10-19 | 2022-07-29 |
 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 | 2021-10-19 |  |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 | 2021-10-19 |  |
@@ -155,7 +156,7 @@
 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 | 2021-10-19 | 2022-11-13 |
 | [Love Again](https://open.spotify.com/track/4oP1iFJ5GSxeMMHofCg4ae) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters Of The Heart](https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK) | 3:30 | 2021-10-19 | 2022-06-07 |
 | [Love Child](https://open.spotify.com/track/0Usw6bbxjqROH3OCDYkMFi) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Great Songs And Performances That Inspired The Motown 25th Anniversary T.V\. Special](https://open.spotify.com/album/6vnYOGfz9BjjXEpUzWURWi) | 2:56 | 2021-10-19 | 2022-04-21 |
-| [Love Child](https://open.spotify.com/track/69EILuL34ggLWQsa626bes) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [The Ultimate Collection: Diana Ross & The Supremes](https://open.spotify.com/album/3kBcXeEHgrdFc99iDeWStA) | 3:01 | 2021-10-19 |  |
+| [Love Child](https://open.spotify.com/track/69EILuL34ggLWQsa626bes) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [The Ultimate Collection: Diana Ross & The Supremes](https://open.spotify.com/album/3kBcXeEHgrdFc99iDeWStA) | 3:01 | 2021-10-19 | 2023-05-03 |
 | [Love That Girl](https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 3:04 | 2021-10-19 |  |
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2021-10-19 |  |
 | [Lovely Day](https://open.spotify.com/track/6Pi1WqBTTSjtl6BWHQSccH) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Discover Bill Withers](https://open.spotify.com/album/0PuHBmxh6nKG8TTjuVZghY) | 4:11 | 2021-10-19 | 2022-07-29 |

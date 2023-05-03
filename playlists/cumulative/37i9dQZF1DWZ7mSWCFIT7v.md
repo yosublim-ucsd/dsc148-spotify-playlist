@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-318 songs - 1 day 1 hr 48 min
+319 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Creatura](https://open.spotify.com/track/3HwM404FecueIoHgUGl6b1) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/1ZCpJ8e52gDDTWL5UMr5Dm) | 4:12 | 2022-04-09 | 2022-08-05 |
 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 | 2022-01-11 | 2023-04-01 |
 | [Cup Noodle](https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fragments](https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV) | 3:30 | 2021-10-06 |  |
+| [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-06 |  |
 | [Deipkier](https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V) | 7:55 | 2021-10-06 | 2023-04-30 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 | 2023-02-20 |
 | [Divine Interference](https://open.spotify.com/track/6fmx1B2AdJi1Nu7m6cVRnN) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Singulacra](https://open.spotify.com/album/1SyVmG5FoRitDCJKzxIssB) | 5:33 | 2021-10-06 | 2022-07-22 |
@@ -130,7 +131,7 @@
 | [Greetings From Dave](https://open.spotify.com/track/2esi96DLJFBgjjtUxyH2GI) | [Kreidler](https://open.spotify.com/artist/6YuaNIJm6LAKBvRdb8PGIt) | [Spells and Daubs](https://open.spotify.com/album/0iFbTMV6YQsccp8bKWvLfh) | 3:34 | 2022-02-12 | 2022-07-27 |
 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 | 2021-11-25 |  |
 | [Hoshikuzu Tenboudai](https://open.spotify.com/track/4AnwTVc8llyJ2ekSmAzIFu) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Yasuragi Land](https://open.spotify.com/album/11saLOyIsjX1NsXHIVcpFc) | 2:35 | 2021-10-06 | 2022-07-20 |
-| [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 | 2023-02-16 |  |
+| [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 | 2023-02-16 | 2023-05-03 |
 | [I Don't Know If That's Just Dreaming](https://open.spotify.com/track/01pY3jX6Sqc4iEBgdHXXH1) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 5:16 | 2021-10-06 | 2022-07-23 |
 | [In My Heart](https://open.spotify.com/track/0pRxvCua1jbNhUq1Q9PG7l) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [MP Productions \- EP 1](https://open.spotify.com/album/33HZlIyVavCfhDn2dUGIvK) | 4:44 | 2021-10-06 | 2022-07-27 |
 | [In The Dust Of This Planet](https://open.spotify.com/track/0EmAGiqo2X3fqeum0C09kb) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [In The Dust EP](https://open.spotify.com/album/7KwYM7xRAcmOA3yJ6Oo2qn) | 4:43 | 2021-10-06 | 2022-07-29 |

@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "My Maya I",
+        "url": "https://open.spotify.com/album/3MTvNPfeRGJl2QBevmUuXe"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "Aywa",
+      "url": "https://open.spotify.com/track/7zvJlh2aBSiWeQ6sTHSecc"
+    },
+    {
+      "album": {
         "name": "B3edt",
         "url": "https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR"
       },
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 236574,
       "name": "El Tofah w El Farawla",
       "url": "https://open.spotify.com/track/5vU5TfXFf3cUFBSHzBiyqt"
@@ -5382,7 +5400,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 225000,
       "name": "Waga\u2019a elfora\u2019a",
       "url": "https://open.spotify.com/track/24uwCUmYxGToC09ID18gKu"

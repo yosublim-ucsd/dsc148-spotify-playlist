@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-278 songs - 16 hr 38 min
+279 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/track/7bZjpW7r2Bf2QLXyeUFaen) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf) | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/album/7zDsEOFLq0SJ3CmNadx2ps) | 2:44 | 2022-06-06 | 2022-07-27 |
 | [Fall in Love](https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Fall in Love](https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7) | 3:21 | 2022-06-06 |  |
 | [Fool in Love](https://open.spotify.com/track/4Eet6LqgbOk1IKfbW8y5iL) | [TWMusik](https://open.spotify.com/artist/5MRpe7NPAmjAGuAJLD6ti6), [Sandra Wang](https://open.spotify.com/artist/649cdqqkKbSVLoxlOd8euJ) | [Fool in Love](https://open.spotify.com/album/0c0ulCCkO1s4aCfS2ftdcN) | 3:13 | 2022-06-20 | 2022-06-22 |
+| [For Ya](https://open.spotify.com/track/0Uvd67blVYyKn7NR8IhdQQ) | [蒋小呢](https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9) | [For Ya](https://open.spotify.com/album/4mKfHC0bE72mCvjUCGqYx5) | 2:33 | 2023-05-01 |  |
 | [For Ya](https://open.spotify.com/track/2dRiZHYpS1gSg10ScvY1XW) | [蒋小呢](https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9) | [For Ya](https://open.spotify.com/album/6N65mxGDi8Ly1xfcCWVXan) | 2:33 | 2022-10-31 | 2023-04-29 |
 | [for ya](https://open.spotify.com/track/6D9uQpS7Bnk9VsuTD0F3vn) | [蒋小呢](https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9) | [for ya](https://open.spotify.com/album/14n2UbeEsxw6J3Jxo3QWeo) | 2:33 | 2022-07-25 | 2023-02-03 |
 | [for ya](https://open.spotify.com/track/0wfgC4PipatRkF9VMRtYuF) | [蔣小呢](https://open.spotify.com/artist/42OCObJjjSOy82DSvyvUkQ) | [for ya](https://open.spotify.com/album/0FbAWYnsKhPeAZ26mm2RZ8) | 2:33 | 2022-06-06 | 2022-07-28 |
@@ -64,7 +65,7 @@
 | [⼀直在⼀起好嗎](https://open.spotify.com/track/70cB4HoaERBIDIzIZcIOg5) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [⼀直在⼀起好嗎](https://open.spotify.com/album/4KnTEJL7azTJwzgS5XCGVd) | 2:59 | 2022-09-05 | 2022-09-20 |
 | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 | 2022-06-06 |  |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2022-06-06 | 2022-07-25 |
-| [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0yuyPYhkkHYlBKwrPi6MZk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Gentle Bones](https://open.spotify.com/album/4BEjRqKkO7zvPO6GXCDcIM) | 2:24 | 2022-06-13 |  |
+| [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0yuyPYhkkHYlBKwrPi6MZk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Gentle Bones](https://open.spotify.com/album/4BEjRqKkO7zvPO6GXCDcIM) | 2:24 | 2022-06-13 | 2023-05-03 |
 | [一整个爱住你](https://open.spotify.com/track/0yyYSJBeXYNGa7TSgB8TJ7) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/6cuddwe4icENbr7R6NvtIt) | 3:27 | 2022-07-25 |  |
 | [一整个爱住你](https://open.spotify.com/track/3t0MbCCcXncdtWeaK9tNdN) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/3EbZCDAJrE0owIaNoAMxKG) | 3:27 | 2022-06-20 | 2022-07-27 |
 | [一點一點](https://open.spotify.com/track/3RqKpwr0EukUJlD22mIlVP) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [采子](https://open.spotify.com/artist/448XOK57P1RpvGyLuMUwep) | [一點一點](https://open.spotify.com/album/5ZL3SvFjWVJGzoSxK8qzqh) | 3:15 | 2022-06-06 | 2022-07-17 |

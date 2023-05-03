@@ -1,12 +1,12 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Darkthrone",
-  "num_followers": 430748,
+  "num_followers": 430921,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTc1MjU0ZmYzNWQyNTI4Y2FlZDMzZGY1OThjODk5NWE4ODkyZDk2",
+  "snapshot_id": "MCxkNWNiMjM2NmEwY2UwN2YzYjQwNDU5MjExZmUyN2YxNTIwNzI1ODk1",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "War Against All",
-        "url": "https://open.spotify.com/album/42itntO9qiIkUewMznm08m"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 206678,
-      "name": "War Against All",
-      "url": "https://open.spotify.com/track/2WTI5fDM2KJJAt6f8bOtcD"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Panzerfaust",
         "url": "https://open.spotify.com/album/1WVwSy7kIQ5AmkVa1tPppg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 456906,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/0h2KyPkIISeMMkA2X0eXU5"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "War Against All",
+        "url": "https://open.spotify.com/album/42itntO9qiIkUewMznm08m"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 206678,
+      "name": "War Against All",
+      "url": "https://open.spotify.com/track/2WTI5fDM2KJJAt6f8bOtcD"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "War Remains",
+        "url": "https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN"
+      },
+      "artists": [
+        {
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+        }
+      ],
+      "duration_ms": 251573,
+      "name": "War Remains",
+      "url": "https://open.spotify.com/track/01OftO0NuZARcIbsSPF5MC"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "The Past is Alive (The Early Misschief)",
         "url": "https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Heimdal",
-        "url": "https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG"
-      },
-      "artists": [
-        {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
-        }
-      ],
-      "duration_ms": 445106,
-      "name": "The Eternal Sea",
-      "url": "https://open.spotify.com/track/7G06HILoIIRiDDRXFo77f0"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "The Ravening",
         "url": "https://open.spotify.com/album/6lKXbIQC11I56j86FZMo5y"
       },
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Heimdal",
+        "url": "https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "duration_ms": 445106,
+      "name": "The Eternal Sea",
+      "url": "https://open.spotify.com/track/7G06HILoIIRiDDRXFo77f0"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Arsenal of War",
         "url": "https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07"
       },
@@ -1003,6 +1019,38 @@
       "duration_ms": 245400,
       "name": "Arsenal of War",
       "url": "https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Those of the Unlight",
+        "url": "https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA"
+      },
+      "artists": [
+        {
+          "name": "Marduk",
+          "url": "https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH"
+        }
+      ],
+      "duration_ms": 350053,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Taken before Given",
+        "url": "https://open.spotify.com/album/6CucaBaSyHO7ZQSwVvTu2T"
+      },
+      "artists": [
+        {
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+        }
+      ],
+      "duration_ms": 234965,
+      "name": "Taken before Given",
+      "url": "https://open.spotify.com/track/4XEx6vQCbgO7DWvAy6gI7f"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1027,22 +1075,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Those of the Unlight",
-        "url": "https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA"
-      },
-      "artists": [
-        {
-          "name": "Marduk",
-          "url": "https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH"
-        }
-      ],
-      "duration_ms": 350053,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "MARIA",
         "url": "https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz"
       },
@@ -1059,18 +1091,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "War Remains",
-        "url": "https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN"
+        "name": "Abbath",
+        "url": "https://open.spotify.com/album/4eX4b9aQf2uzygScqcVE8Q"
       },
       "artists": [
         {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+          "name": "Abbath",
+          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
         }
       ],
-      "duration_ms": 251573,
-      "name": "War Remains",
-      "url": "https://open.spotify.com/track/01OftO0NuZARcIbsSPF5MC"
+      "duration_ms": 409840,
+      "name": "Winter Bane",
+      "url": "https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1087,22 +1119,6 @@
       "duration_ms": 290146,
       "name": "Coming Storm",
       "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Abbath",
-        "url": "https://open.spotify.com/album/4eX4b9aQf2uzygScqcVE8Q"
-      },
-      "artists": [
-        {
-          "name": "Abbath",
-          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
-        }
-      ],
-      "duration_ms": 409840,
-      "name": "Winter Bane",
-      "url": "https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 240880,
       "name": "Ecstasies in night infinite",
       "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Taken before Given",
-        "url": "https://open.spotify.com/album/6CucaBaSyHO7ZQSwVvTu2T"
-      },
-      "artists": [
-        {
-          "name": "Kalmah",
-          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
-        }
-      ],
-      "duration_ms": 234965,
-      "name": "Taken before Given",
-      "url": "https://open.spotify.com/track/4XEx6vQCbgO7DWvAy6gI7f"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Gnavh\u00f2l",
-        "url": "https://open.spotify.com/album/29tEXGPKxJiVyiXIVspBgb"
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
       },
       "artists": [
         {
-          "name": "Nordjevel",
-          "url": "https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r"
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
         }
       ],
-      "duration_ms": 229498,
-      "name": "Within the Eyes",
-      "url": "https://open.spotify.com/track/5XlrveQ8VNb4ZjAByD7Ktj"
+      "duration_ms": 288173,
+      "name": "Black Dragon",
+      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+        "name": "Gnavh\u00f2l",
+        "url": "https://open.spotify.com/album/29tEXGPKxJiVyiXIVspBgb"
       },
       "artists": [
         {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+          "name": "Nordjevel",
+          "url": "https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r"
         }
       ],
-      "duration_ms": 288173,
-      "name": "Black Dragon",
-      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
+      "duration_ms": 229498,
+      "name": "Within the Eyes",
+      "url": "https://open.spotify.com/track/5XlrveQ8VNb4ZjAByD7Ktj"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Outstrider",
-        "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
+        "name": "Strategies of Manipulation - EP",
+        "url": "https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP"
       },
       "artists": [
         {
-          "name": "Abbath",
-          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
+          "name": "Misery Index",
+          "url": "https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA"
         }
       ],
-      "duration_ms": 252066,
-      "name": "Harvest Pyre",
-      "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
+      "duration_ms": 124346,
+      "name": "Strategies of Manipulation",
+      "url": "https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1543,18 +1543,34 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Strategies of Manipulation - EP",
-        "url": "https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP"
+        "name": "Outstrider",
+        "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
       },
       "artists": [
         {
-          "name": "Misery Index",
-          "url": "https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA"
+          "name": "Abbath",
+          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
         }
       ],
-      "duration_ms": 124346,
-      "name": "Strategies of Manipulation",
-      "url": "https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu"
+      "duration_ms": 252066,
+      "name": "Harvest Pyre",
+      "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "A csend hegyei",
+        "url": "https://open.spotify.com/album/5MX3Rtz5e4kCopEkYfuRHp"
+      },
+      "artists": [
+        {
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "A csend hegyei",
+      "url": "https://open.spotify.com/track/14YaVGzQho0X6zqI5Rfx5T"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 456750,
       "name": "Moribunda",
       "url": "https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "A csend hegyei",
-        "url": "https://open.spotify.com/album/5MX3Rtz5e4kCopEkYfuRHp"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "A csend hegyei",
-      "url": "https://open.spotify.com/track/14YaVGzQho0X6zqI5Rfx5T"
     },
     {
       "added_at": "2023-04-28 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1990s.",
-  "num_followers": 64710,
+  "num_followers": 64746,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mzc0ODc5ZjY0MWYxOGY3Y2Y4ZGZlYjExOWFkMWU2ZWRiNTU3MzBi",
+  "snapshot_id": "MCwxYzNlOWFmOWEwNjY1ZDkxOGZiNjg4Njc4ZGRlMmM3NTgwMTNlOTM1",
   "tracks": [
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
+        "name": "Throwing Copper",
+        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Selling The Drama",
+      "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
         "name": "Doubt",
         "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 184000,
       "name": "Scooby Snacks",
       "url": "https://open.spotify.com/track/7I8KtOFPNmC2ZsiNPCwoS8"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
-        "name": "Throwing Copper",
-        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
-      },
-      "artists": [
-        {
-          "name": "Live",
-          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Selling The Drama",
-      "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
     },
     {
       "added_at": "2022-11-17 16:12:41",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,303 likes - 69 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,816 likes - 69 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Naatu Naatu](https://open.spotify.com/track/4BHYJiAqyqGtN267ypm1ke) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [RRR](https://open.spotify.com/album/3kBrgReuEedduqXf27qgn9) | 3:34 |
-| 2 | [Gundellonaa \(From "Ori Devuda"\)](https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Gundellonaa \(From "Ori Devuda"\) \- Single](https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO) | 3:20 |
-| 3 | [Pulsar Bike](https://open.spotify.com/track/60KvZb0FonIUUC9uYjYFQF) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Dhamaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Qz9VVoDjqs1KwD6mgOFti) | 2:10 |
-| 4 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
-| 5 | [Buttabomma](https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:18 |
+| 2 | [Buttabomma](https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:18 |
+| 3 | [Gundellonaa \(From "Ori Devuda"\)](https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Gundellonaa \(From "Ori Devuda"\) \- Single](https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO) | 3:20 |
+| 4 | [Pulsar Bike](https://open.spotify.com/track/60KvZb0FonIUUC9uYjYFQF) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Dhamaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Qz9VVoDjqs1KwD6mgOFti) | 2:10 |
+| 5 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
 | 6 | [Srivalli](https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Pushpa \- The Rise](https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL) | 3:41 |
 | 7 | [Boss Party](https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Boss Party \(From "Waltair Veerayya"\)](https://open.spotify.com/album/0JB0Brs2tTPzy9Su8TKLGl) | 3:20 |
 | 8 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 68 | [Baitikochi Chuste](https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 3:26 |
 | 69 | [Undiporaadhey](https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hushaaru](https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5) | 2:53 |
 
-Snapshot ID: `MCxkMjEzYjFkNDY2OTM5NDJjY2EyMWRjNDBiZmRjMTgxOTIxNzVjNmU4`
+Snapshot ID: `MCw5ZmE2YWIyYjgwZjlmZWU5YjQzN2Y0MjAxODIyZDQ0MGIxZTBjNjJh`

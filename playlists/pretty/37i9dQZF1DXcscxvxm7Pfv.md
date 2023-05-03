@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,226 likes - 188 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,374 likes - 188 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 187 | [Noise by the Ocean](https://open.spotify.com/track/5wQKahjsqUz3FiKQ0qZxUP) | [The Noise Nannies](https://open.spotify.com/artist/48aOQA9ncCbyJEekpVMT1l) | [Good Night](https://open.spotify.com/album/6a4HHyJwk1irUwo4X8Uxx4) | 4:08 |
 | 188 | [High Altitudes](https://open.spotify.com/track/2aeYy4OvCZWqZWVrbKeh6m) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 |
 
-Snapshot ID: `MCxhODliNThkOGE1NGIwN2RlZmFlZjIwODFmYjFmMDQ4ZjI5MGQ4ODU0`
+Snapshot ID: `MCw2Y2RkYTUzODBlYjNiMTJhMmNhZmI0YzZkOTVkYjc3NmNiMmMxYzhl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,230 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,288 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 49 | [Venus \(Sunshine People\) \[DJ Gregory Remix\]](https://open.spotify.com/track/3xUHVU3Cfqfs5I7tECQt2g) | [Cheek](https://open.spotify.com/artist/5QIYgDc1bwHkXS00viPLyC) | [Venus \(sunshine people\)](https://open.spotify.com/album/415kVuJ4SOCGDaLrE73yuQ) | 4:56 |
 | 50 | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8) | [Bel Amour](https://open.spotify.com/artist/7eFsGtN5h45mGFpi75IjKo) | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/album/6TnjDo2gzEmY0KCMsyJWrA) | 5:24 |
 
-Snapshot ID: `MCw5ZmE0NDFlOTg3NzkwOTFhNmIyZDMyMjc5ZDFmNjY5ZTkzMGU3Mjcw`
+Snapshot ID: `MCw0NWI2NWNiZjlkNmY5NjgwYzM1ODAxYWE3MjYzMDU1NjU1NDk3YjRl`

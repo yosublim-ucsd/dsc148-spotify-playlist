@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-465 songs - 1 day 3 hr 8 min
+466 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 | 2022-07-27 |
 | [Dead Man Walking](https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Dead Man Walking](https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA) | 2:46 | 2022-07-21 | 2022-10-01 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
-| [destination heartbreak](https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 2](https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8) | 3:47 | 2023-02-10 |  |
+| [destination heartbreak](https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 2](https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8) | 3:47 | 2023-02-10 | 2023-05-03 |
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 | 2023-01-11 |
 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-17 | 2022-12-17 |
 | [Ding Dong](https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Ding Dong](https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp) | 2:57 | 2022-06-23 | 2022-09-07 |
@@ -454,6 +454,7 @@
 | [Water Resistant](https://open.spotify.com/track/6LvU1xQJaAXxdVhJXviRJq) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Water Resistant](https://open.spotify.com/album/2WLfJXC56KZzaTl4JQ0odn) | 3:17 | 2021-11-19 | 2022-02-23 |
 | [Waterloo](https://open.spotify.com/track/2m4CoBXFU89fVREZQeq8CW) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Waterloo](https://open.spotify.com/album/2IP4Jtybqn9yhijp7edZik) | 3:51 | 2022-04-15 | 2022-06-25 |
 | [Way Back](https://open.spotify.com/track/0TEiOUYQYGeDsoBqVSZYIQ) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Way Back](https://open.spotify.com/album/7MPJECu20Fx8ZNVpYUBFoJ) | 3:19 | 2022-08-05 | 2022-10-19 |
+| [We Are All Equal](https://open.spotify.com/track/5B1NXRJoU4Bs1D74Qdsokg) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS) | [We Are All Equal](https://open.spotify.com/album/5PdRSh9BkRFPyGDsy9j3mu) | 2:59 | 2023-05-02 |  |
 | [We Could Have It All](https://open.spotify.com/track/2exlWmUXIoMGpo5SvWXwN5) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [We Could Have It All](https://open.spotify.com/album/6Nm8yTBRXvqYY6LuGsvXHu) | 3:30 | 2022-04-08 | 2022-06-18 |
 | [We Made It](https://open.spotify.com/track/5GRM663KWRMOo3OOcGsSlP) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [We Made It](https://open.spotify.com/album/3AOoItOGEvBVpqtWGHTjtZ) | 2:37 | 2022-11-08 | 2023-02-01 |
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2021-11-19 | 2022-02-18 |

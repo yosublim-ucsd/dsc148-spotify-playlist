@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2850,
+  "num_followers": 2857,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDVmZTliNzMxZjA2YmExYzAyNzYzNDNjNzQ5OTg1MDA5ODZiMTZi",
+  "snapshot_id": "MCxmOTA0MGIwMDg3MWY1ZDRlNDcyMmQwY2I5NTE4YTExMWIwMzk5NzNh",
   "tracks": [
     {
       "added_at": "2023-04-27 22:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Know Your Demons",
-        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Know Your Demons",
-      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 183413,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Know Your Demons",
+        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Know Your Demons",
+      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Buck",
+        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 124986,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Things Happen That Way",
         "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Buck",
-        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "Whatever Turns You On",
-      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 294945,
       "name": "Babe I'm Gonna Leave You - Extended Version",
       "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -603,18 +619,18 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+        "name": "Big Thing",
+        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
       "artists": [
         {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
         }
       ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
+      "duration_ms": 215440,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -639,38 +655,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Maybe, Maybe Not",
-        "url": "https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf"
-      },
-      "artists": [
-        {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
-        }
-      ],
-      "duration_ms": 200157,
-      "name": "Maybe, Maybe Not",
-      "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Big Thing",
-        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
-      },
-      "artists": [
-        {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Lightyears Better",
         "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
       },
@@ -687,6 +671,26 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Down Every Road",
+        "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        },
+        {
+          "name": "Sabine McCalla",
+          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
+        }
+      ],
+      "duration_ms": 156021,
+      "name": "Today I Started Loving You Again",
+      "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Burlesque Desert Window",
         "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
       },
@@ -699,6 +703,22 @@
       "duration_ms": 179573,
       "name": "Burlesque Desert Window",
       "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Maybe, Maybe Not",
+        "url": "https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf"
+      },
+      "artists": [
+        {
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
+        }
+      ],
+      "duration_ms": 200157,
+      "name": "Maybe, Maybe Not",
+      "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -763,26 +783,6 @@
       "duration_ms": 232725,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Down Every Road",
-        "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
-      },
-      "artists": [
-        {
-          "name": "Eli \"Paperboy\" Reed",
-          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
-        },
-        {
-          "name": "Sabine McCalla",
-          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
-        }
-      ],
-      "duration_ms": 156021,
-      "name": "Today I Started Loving You Again",
-      "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
     },
     {
       "added_at": "2023-04-27 22:01:00",

@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-553 songs - 1 day 13 hr 25 min
+555 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Certain Smile](https://open.spotify.com/track/4ln4s0kVCZyH0lK6MioPYk) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [A Certain Smile](https://open.spotify.com/album/40ynWeqMktudTHSlnMBmsS) | 3:50 | 2023-04-14 |  |
 | [A Clean Record](https://open.spotify.com/track/0wyvsAqerhZ4Xoz7mUn49j) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Clean Record](https://open.spotify.com/album/1ayvuzsFIo0Momz5T2OGpA) | 3:16 | 2022-12-08 |  |
 | [A double\-take](https://open.spotify.com/track/1ocFV6uNLORlfIHW5FNneZ) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [A double\-take](https://open.spotify.com/album/5eeTfQ921Zzt9JW1csZgX5) | 2:54 | 2023-03-23 |  |
-| [A Fine Romance](https://open.spotify.com/track/191Pkd7ZYqI2zgQ3QbCbfM) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 3:41 | 2021-12-03 |  |
+| [A Fine Romance](https://open.spotify.com/track/191Pkd7ZYqI2zgQ3QbCbfM) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 3:41 | 2021-12-03 | 2023-05-03 |
 | [A Foggy Day](https://open.spotify.com/track/1TIBoZ9EokVBNMJxetdfO0) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/4qNuS2VIZZozT0RcI8c5tJ) | 6:33 | 2021-12-03 | 2022-07-29 |
 | [A Foggy Day](https://open.spotify.com/track/7b579YfrUOFI8jwCd8ZeZm) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/5fR9R5HWZcyhdBXdpGsZiu) | 6:33 | 2022-06-30 | 2023-04-09 |
 | [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-11-10 |  |
@@ -405,7 +405,7 @@
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-02 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-10 |  |
 | [Say It Over And Over Again](https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 3:20 | 2023-02-09 |  |
-| [Search for Peace](https://open.spotify.com/track/1gFQNjgYF48dWTP2S067r3) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Search for Peace](https://open.spotify.com/album/3MPQi7p3q7d2m2dPLMWBcN) | 6:36 | 2023-03-16 |  |
+| [Search for Peace](https://open.spotify.com/track/1gFQNjgYF48dWTP2S067r3) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Search for Peace](https://open.spotify.com/album/3MPQi7p3q7d2m2dPLMWBcN) | 6:36 | 2023-03-16 | 2023-05-03 |
 | [Search for Peace](https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Far Far Away](https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy) | 4:45 | 2023-02-09 | 2023-04-14 |
 | [Self\-Portrait In Three Colours](https://open.spotify.com/track/1dLb36wK59q5QgGCZE9YyK) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/4Z8nWz3dGybOP7lhMZpcOo) | 3:06 | 2021-12-03 | 2023-03-29 |
 | [Shadows](https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Shadows](https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ) | 3:36 | 2023-01-19 |  |
@@ -451,6 +451,7 @@
 | [Strangest Sea](https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Strangest Sea](https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9) | 3:34 | 2023-02-16 |  |
 | [Stream](https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Stream](https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde) | 7:03 | 2022-03-10 |  |
 | [Summer In Central Park](https://open.spotify.com/track/74NmDsFZbbS0T7Zc2z74Cd) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Summer In Central Park](https://open.spotify.com/album/1Dkw2HPM80wLbSGJkDmh8h) | 3:28 | 2023-02-16 |  |
+| [Summer Romance](https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Summer Romance](https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2) | 2:32 | 2023-04-27 |  |
 | [Summertime](https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Jazz \(Expanded Edition\)](https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y) | 6:08 | 2021-12-03 | 2023-04-29 |
 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 | 2023-02-02 |  |
 | [Sunday](https://open.spotify.com/track/6LkPWM2a6mHTjhw2ejgIYs) | [Lee Konitz Quartet](https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj) | [Tranquility](https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F) | 3:25 | 2021-12-03 | 2022-10-26 |
@@ -518,6 +519,7 @@
 | [We kiss In A Shadow](https://open.spotify.com/track/3HXe31FkbH5MHNyNoUI222) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Rojo](https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl) | 6:47 | 2021-12-03 | 2022-07-29 |
 | [We'll Be Together Again](https://open.spotify.com/track/61AfCvc8HNqukDiqgLs1yF) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [We'll Be Together Again](https://open.spotify.com/album/3lWvifGDuUhFsCyxg8ixPn) | 4:29 | 2022-11-10 |  |
 | [We've Been Through This Before](https://open.spotify.com/track/5lk6Ro1xDJJyKAqjWd78JG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [We've Been Through This Before](https://open.spotify.com/album/74QY0bWf3DRBrHPujvE2IT) | 2:25 | 2023-01-19 |  |
+| [Wear And Tear](https://open.spotify.com/track/5VWl5Jf2djqDX0itk48U97) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Wear And Tear](https://open.spotify.com/album/5jpuAoOi6pGfCtyieb3o9V) | 3:32 | 2023-04-27 |  |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-11-10 |  |
 | [Went Another Way](https://open.spotify.com/track/6ytZNOW8k2wQ8kdFLZPzsC) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Went Another Way](https://open.spotify.com/album/7dEl9BJgn3IJ5TSfwuxA0l) | 2:43 | 2023-03-30 |  |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-11-10 |  |

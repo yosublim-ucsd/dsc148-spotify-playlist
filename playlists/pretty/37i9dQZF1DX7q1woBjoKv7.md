@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,500 likes - 58 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,541 likes - 58 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 57 | [It's Impossible! It's a Miracle!](https://open.spotify.com/track/0oQ5XTsSnSapzuahO5vE2i) | [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl) | [Junior Varsity Blues](https://open.spotify.com/album/1SIeFvO8So4ow0vcFosVQ6) | 3:53 |
 | 58 | [Stutter](https://open.spotify.com/track/2oMFMuDI3p05ncKqltBAgp) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Stutter](https://open.spotify.com/album/6bZg43jmUCts6gW2mi4AAm) | 2:37 |
 
-Snapshot ID: `MCw1NDAzZTE4YWFjOWUwNWZmZDdjMjM1NjNhODUxNzBjZDc5MGE4Mjll`
+Snapshot ID: `MCxkODRhNGUwOTMwODE0N2JmNjA3NmIwNWRlNzAyOWIxZmY2OWFiYjRh`

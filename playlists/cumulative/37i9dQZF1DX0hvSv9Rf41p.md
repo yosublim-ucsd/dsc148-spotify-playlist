@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-473 songs - 1 day 3 hr 29 min
+474 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ACHROMATIC \(YOI\)](https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 01](https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt) | 2:55 | 2022-11-11 |  |
 | [Affliction](https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Affliction](https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs) | 3:19 | 2022-06-17 |  |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-21 | 2022-08-06 |
+| [Alive](https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Alive](https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF) | 2:49 | 2023-04-28 |  |
 | [Alive \- 12th Planet Remix](https://open.spotify.com/track/70GVGpU0PCNX5op7l3qYTp) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Alive \(Remixes\)](https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo) | 2:40 | 2021-12-17 | 2022-07-16 |
 | [All Eyes On Me](https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [All Eyes On Me](https://open.spotify.com/album/0wgepIc4n4gKNgccZk0b0i) | 2:40 | 2022-11-11 |  |
 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 | 2022-11-18 |  |
@@ -39,7 +40,7 @@
 | [BACK ONLINE](https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [BACK ONLINE](https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j) | 3:37 | 2023-02-24 |  |
 | [Back Talk](https://open.spotify.com/track/3btt4vfOsIFPlW3HxcEf3R) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Back Talk](https://open.spotify.com/album/6Y4o40DOaXEAuqWpJWcHKk) | 3:42 | 2022-04-15 | 2022-08-06 |
 | [Back To Back](https://open.spotify.com/track/0hvKdjFlKowmHaAr6RJWBh) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [UBUR](https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6), [Armanni Reign](https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI) | [Back To Back](https://open.spotify.com/album/3Scp9GrDoeAKbNfvX8vVRM) | 2:53 | 2021-12-17 | 2022-02-19 |
-| [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 | 2022-05-27 |  |
+| [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 | 2022-05-27 | 2023-05-03 |
 | [Bad](https://open.spotify.com/track/3t7Zhr4y9osHilpdq6OHTQ) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Bad](https://open.spotify.com/album/5OEGVD1H1td8HGMBNS3EAW) | 3:31 | 2021-12-17 | 2022-03-12 |
 | [Badman](https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Badman](https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT) | 4:33 | 2022-06-03 |  |
 | [Bang Harder](https://open.spotify.com/track/3DrLjM8mwvw6YHDIO4cQJT) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Bang Harder](https://open.spotify.com/album/6XS7UbDpIqRIWNMxG5I8XV) | 2:44 | 2023-03-03 |  |

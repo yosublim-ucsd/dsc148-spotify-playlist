@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-1,550 songs - 3 day 9 hr 45 min
+1,551 songs - 3 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,7 +803,7 @@
 | [Last Week On A Friday](https://open.spotify.com/track/0UpdNPlHt0URGZzaU5aTxx) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Last Week On A Friday](https://open.spotify.com/album/0duCmbNg3WovtYaj09Zr61) | 3:20 | 2021-05-03 | 2021-10-12 |
 | [Last Year’s Model Club](https://open.spotify.com/track/0FpuPOz4BJbdapF0ExvffH) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Last Year’s Model Club](https://open.spotify.com/album/67HqD9ogSvBiB0rXRLJncY) | 3:00 | 2022-01-21 | 2022-04-21 |
 | [Late Bloomer](https://open.spotify.com/track/52aZ5tnhNOsYeQQskmDTqo) | [Zeke Finn](https://open.spotify.com/artist/6NN2RYVrasbgm0qtgGSWXg) | [Late Bloomer](https://open.spotify.com/album/03VhLwzCFAiNhnyWGahDHh) | 2:53 | 2022-02-25 | 2022-04-20 |
-| [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-10 |  |
+| [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-10 | 2023-05-03 |
 | [laurel](https://open.spotify.com/track/7rzkDmONjg7i8vkoATsW8f) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [laurel](https://open.spotify.com/album/554EELvFi0hyJGwv2tvZ54) | 2:09 | 2022-05-13 | 2022-06-29 |
 | [Lazy Love](https://open.spotify.com/track/7IrkGTwDPicWAnCflbeicD) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Lazy Love](https://open.spotify.com/album/2FMsm3iooQQOMJGIgNR2Op) | 3:02 | 2022-01-28 | 2022-04-17 |
 | [LEAVE ME](https://open.spotify.com/track/1ljQ8uKlwqJeyb007xeH8i) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [LEAVE ME](https://open.spotify.com/album/15hucP1bAk7CRRNtM2kzQH) | 2:14 | 2021-03-08 | 2022-04-16 |
@@ -1076,7 +1076,7 @@
 | [Perfect Timing](https://open.spotify.com/track/2OwLOjsJ7HTWQtnkInjHdL) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Perfect Timing](https://open.spotify.com/album/0xYhsSyXjDVBw2NtxkDYfu) | 2:13 | 2022-06-17 | 2022-07-29 |
 | [Perfume](https://open.spotify.com/track/3wJAk2rKEEoYlXSLpLVrkU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Perfume](https://open.spotify.com/album/1vDtewM5wjw6WzUHS3aZqz) | 3:52 | 2021-08-27 | 2022-07-23 |
 | [Perspective](https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Perspective](https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4) | 2:43 | 2023-03-03 |  |
-| [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 | 2023-02-17 |  |
+| [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 | 2023-02-17 | 2023-05-03 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 | 2023-04-01 |
 | [PFC](https://open.spotify.com/track/0UHe6dSc0GrbuB6BlNXZZF) | [CRITTER](https://open.spotify.com/artist/7arvE5qBEbW7UgwoaJhpOM) | [PFC](https://open.spotify.com/album/0ECVeURUW3ZFLSMLErSs1V) | 3:06 | 2021-02-28 | 2021-05-27 |
 | [Pick Me Up](https://open.spotify.com/track/77d7t7SYR0YAXgXePYo8t5) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [Pick Me Up](https://open.spotify.com/album/5V5x9zEi6XCVnn15qjpDRP) | 2:44 | 2020-11-13 | 2021-01-15 |
@@ -1248,6 +1248,7 @@
 | [Solar System](https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Boa Constrictors](https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 3:32 | 2022-07-22 | 2022-08-06 |
 | [Some Type of Way \(feat\. Savage Ga$p, Salina Killa & Valentine\)](https://open.spotify.com/track/2F1qP6hBiaBeHjwDtBdVPP) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Salina Killa](https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0), [Valentine](https://open.spotify.com/artist/4K3iYJtLjJcsfUlODo4bzS) | [BUFFET](https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV) | 2:26 | 2021-11-19 | 2022-04-15 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2021-02-25 | 2021-05-19 |
+| [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 |  |
 | [somebody to lose](https://open.spotify.com/track/4JAEU9F3KQyvGkgdIK6Vjs) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [somebody to lose](https://open.spotify.com/album/6tXEF52m2XHHI51Pv3qr7M) | 3:07 | 2022-06-24 | 2022-06-28 |
 | [Someday I'll Be Happy](https://open.spotify.com/track/36abeitRdTDdUxYahI6tMU) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Someday I'll Be Happy](https://open.spotify.com/album/06afLAH01L7XTw2VzK2uDS) | 2:45 | 2021-05-03 | 2021-09-11 |
 | [Someone Else’s Dream](https://open.spotify.com/track/0N7uBJVtUegyKXKegKgjHX) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr) | [Someone Else’s Dream](https://open.spotify.com/album/3DnnsbnubMRwgTADhTGR6f) | 3:20 | 2020-10-13\* | 2021-06-03 |

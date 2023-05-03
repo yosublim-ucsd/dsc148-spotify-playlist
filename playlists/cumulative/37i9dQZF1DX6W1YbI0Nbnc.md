@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 結集香港EQUAL女聲力量！\(cover: Mischa葉巧琳\)
+> 結集香港EQUAL女聲力量！\(cover: Kelly陳慧琳\)
 
-228 songs - 14 hr 39 min
+232 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [我心中尚未崩壞的部分](https://open.spotify.com/track/6BymbyJEEn85vcJnr5aAkR) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [九道痕跡](https://open.spotify.com/album/6QFTcrYF9rFdZ6uyXTWVPu) | 3:26 | 2022-04-05 |  |
 | [我想和你好好的](https://open.spotify.com/track/7CkJnz49JGUY76W7zl3vad) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Honesty](https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT) | 4:17 | 2021-12-07 |  |
 | [我本人](https://open.spotify.com/track/55z4ZnZNJEJBn9hPrekE4f) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [我本人](https://open.spotify.com/album/73eNXN2VJcoEasWmWp4IX8) | 4:17 | 2021-12-07 | 2022-01-05 |
+| [我的親人](https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [我的親人](https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a) | 4:42 | 2023-05-02 |  |
 | [我真的受傷了](https://open.spotify.com/track/5mNanSqILS25aPhiiN1fxy) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [國語情歌集](https://open.spotify.com/album/1t1Q05AtGJ7aOTjl9XerWx) | 3:33 | 2022-11-01 | 2022-12-01 |
 | [我真的受傷了](https://open.spotify.com/track/1s28J2sYq5opmDzanJHK1E) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | ["1" \(壹\)](https://open.spotify.com/album/4QpN1uUfHM5o23UZ2HULPc) | 3:35 | 2022-11-01 | 2022-11-13 |
 | [所有遺失的東西](https://open.spotify.com/track/02caGRpsw7IjGu99OZpJwf) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [Dark light of the soul](https://open.spotify.com/album/2M0U7cvfPl5cZ3YDsR3MuJ) | 3:36 | 2022-11-30 |  |
@@ -166,10 +167,12 @@
 | [明目張膽](https://open.spotify.com/track/0w8s03MKvuLmK8CozWJCQu) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [艷光四射](https://open.spotify.com/album/3z50Y8A5d5jz63vaYBnnU7) | 4:35 | 2021-12-07 | 2022-01-05 |
 | [時光樹](https://open.spotify.com/track/0Z0h1CfmtVIY4vx1krr6BU) | [Robynn Yip](https://open.spotify.com/artist/0FjCN42GXtXZktPmzmKWa2) | [時光樹](https://open.spotify.com/album/6RpL0YjbjhuNepNQfiv0h5) | 3:56 | 2022-03-07 | 2022-05-04 |
 | [曖昧](https://open.spotify.com/track/0r0bKPDsPqGvLZWBHaIoi7) | [Elly艾妮](https://open.spotify.com/artist/1Qr8KvDLnY4wY8ndgYOu9S) | [Closer](https://open.spotify.com/album/1gKpFTKKcpjvP1elSUvqAT) | 4:28 | 2022-02-02 | 2022-03-08 |
+| [最佳位置](https://open.spotify.com/track/4KoTu0UehUC7mdps76IOtx) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [Red 新曲+精選](https://open.spotify.com/album/0wTvTIchDQ7ueM5fwSEZ1x) | 3:47 | 2023-05-02 |  |
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2021-12-07 | 2022-01-05 |
 | [最難行的路](https://open.spotify.com/track/2VxhivipIOgAvnUw7KVha2) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 3:41 | 2022-03-07 | 2022-12-01 |
 | [月台上碰面](https://open.spotify.com/track/5GkhQFNnoERo2QUTElTo5m) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [月台上碰面](https://open.spotify.com/album/67mH8OlNRPECTDfMfqLaOS) | 4:16 | 2022-03-07 | 2022-08-03 |
 | [有效承諾](https://open.spotify.com/track/2sUGlTZO6Ptq0gDHZixhti) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [有效承諾](https://open.spotify.com/album/61VT2iErazRvdepgOuM3B3) | 4:18 | 2022-08-02 | 2022-11-02 |
+| [有福氣](https://open.spotify.com/track/1tcSTCEHS6VV6FqkZgA9mV) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [Red 新曲+精選](https://open.spotify.com/album/0wTvTIchDQ7ueM5fwSEZ1x) | 3:11 | 2023-05-02 |  |
 | [未境](https://open.spotify.com/track/5fu9mg9C2Mmq74WUDeiNhd) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [a room for](https://open.spotify.com/album/2U4W2veJdG34JS67moeC7N) | 3:06 | 2022-02-02 | 2022-03-08 |
 | [未見過世面的招積](https://open.spotify.com/track/6Eh74dmYzQtnMUy2LzSK59) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [未見過世面的招積](https://open.spotify.com/album/4zysPSvBmduEr2nnnVTBNK) | 3:12 | 2021-12-07 | 2022-01-05 |
 | [末日](https://open.spotify.com/track/1x591BetVMT2xOu0Oijxle) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Cinema of Love](https://open.spotify.com/album/1XXS5wwMFifcaYijzfRXiu) | 3:59 | 2022-11-30 |  |
@@ -233,6 +236,7 @@
 | [靜夜歌](https://open.spotify.com/track/7uVPQnJIh2x4J3UOZSELYN) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [靜夜歌](https://open.spotify.com/album/6GZ1SDblzNaLfcMerPxgRJ) | 4:48 | 2021-12-07 |  |
 | [願望之翼](https://open.spotify.com/track/21Kzm94SbTfBWfnAgcK02E) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [願望之翼](https://open.spotify.com/album/21OfoQE1oqFyCNaccSVAW8) | 3:44 | 2022-08-02 | 2022-10-06 |
 | [風的形狀](https://open.spotify.com/track/7iQdInUqIpVdatCooLZC3A) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [風的形狀](https://open.spotify.com/album/6izq53hfBehpRw4IlM9lT2) | 3:26 | 2022-11-30 |  |
+| [風眼](https://open.spotify.com/track/3GI7zpUAj0cccSnzIgihR6) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [風眼](https://open.spotify.com/album/0qu729S3OKKYkC9srPLTSE) | 3:15 | 2023-05-02 |  |
 | [風靡](https://open.spotify.com/track/5sEEhOScgED3KxkF9lzgEd) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [風靡](https://open.spotify.com/album/20KC0BCuXFmg7XFjkdpAW9) | 3:50 | 2022-05-03 | 2022-08-03 |
 | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/track/1Wste23dWh4oBK7MDV60EQ) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/album/7MA3Eu4JGjc9Ho1vee5xvg) | 4:01 | 2022-01-04 | 2022-02-03 |
 | [點點](https://open.spotify.com/track/5O34UglxtH9cKJj729BxlS) | [Yuki Lovey](https://open.spotify.com/artist/4o8jCavg8iCZ7lXJmJ6wGz) | [點點](https://open.spotify.com/album/4MBBUwcHZWBRXY0RGKBImX) | 3:19 | 2022-03-07 | 2022-08-03 |

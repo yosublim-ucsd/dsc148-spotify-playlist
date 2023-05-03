@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring La Cassandra\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,725 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,721 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 13 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
 | 14 | [La Perla](https://open.spotify.com/track/0TxgAddwzHCBAXe2ZKjz8W) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [No Apagues La Luna](https://open.spotify.com/album/5tqThs118a8zjn8QykcbSU) | 4:26 |
 | 15 | [Rebolu](https://open.spotify.com/track/0lKGotGhBuWKbazfSOElJT) | [Mccólogos](https://open.spotify.com/artist/2mRoRg3Uw97XdAbue90FKq), [JF](https://open.spotify.com/artist/00LUNzL3QcL7rp4lWnjKOQ) | [21 Gramos Zam](https://open.spotify.com/album/7qj1L8C0uoenR214ZchO5J) | 3:22 |
-| 16 | [Tentación](https://open.spotify.com/track/7wm6Lj6QKtwib7y4Wiki4I) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [Tentación](https://open.spotify.com/album/2MG3Q9gxAXbrTgk8jd6pkM) | 2:40 |
+| 16 | [Las Cenizas Son el Cielo](https://open.spotify.com/track/3oFUg8Q6XvwiBud5ucclKG) | [Santo Miletto](https://open.spotify.com/artist/5RvW8CSJeeQSayoAKpKM1d), [Pocket Tincho](https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387) | [Grasa & Panela](https://open.spotify.com/album/5aZhSPEcLsGo8HWra8RB3I) | 2:10 |
 | 17 | [El Tiempo](https://open.spotify.com/track/4kTTqGmrYcXJrKraYN9kQG) | [The Spanish Flies](https://open.spotify.com/artist/14YQALGWjiMXgxY7meViy9) | [El Tiempo](https://open.spotify.com/album/5E7gO9OukMsNjdc1VAmEne) | 3:32 |
-| 18 | [Las Cenizas Son el Cielo](https://open.spotify.com/track/3oFUg8Q6XvwiBud5ucclKG) | [Santo Miletto](https://open.spotify.com/artist/5RvW8CSJeeQSayoAKpKM1d), [Pocket Tincho](https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387) | [Grasa & Panela](https://open.spotify.com/album/5aZhSPEcLsGo8HWra8RB3I) | 2:10 |
+| 18 | [Tentación](https://open.spotify.com/track/7wm6Lj6QKtwib7y4Wiki4I) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [Tentación](https://open.spotify.com/album/2MG3Q9gxAXbrTgk8jd6pkM) | 2:40 |
 | 19 | [Vienen y Van](https://open.spotify.com/track/0wkPwoD6fV7WndMpIBWcQa) | [Eduardo Campa](https://open.spotify.com/artist/10lvIDZuD2JUF3Jo5XAGg4), [Jona](https://open.spotify.com/artist/72UNRKUxOypoMdIOsUgeA1) | [Vienen y Van](https://open.spotify.com/album/1973kia33gsHtB3LtuTaBh) | 3:01 |
 | 20 | [mi locura 🪐](https://open.spotify.com/track/2BwRgDsgxTgfi5AldbGATC) | [essecé](https://open.spotify.com/artist/3RTxYJMLEsSd4U1fXsVThL) | [mi locura 🪐](https://open.spotify.com/album/0GrNCZUTt6xTNki5H5dkLQ) | 2:32 |
 | 21 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/3mkaL7kfoWFrsnSnvSRMH3) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Chemistry](https://open.spotify.com/album/6wVUHdsG7M9g8vFq7yGmUa) | 3:54 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [Eterna Oscuridad](https://open.spotify.com/track/4T3uxIHNF2GbbCz0HJ5fzR) | [GENERATION 1989](https://open.spotify.com/artist/2x9GpueS6pN40eTEDbQ6Mi) | [Eterna Oscuridad](https://open.spotify.com/album/5AZASdryS8Epyn4rRyAZCd) | 3:16 |
 | 28 | [Go Do, Ep\. 6](https://open.spotify.com/track/4AxzfkoaGo8dhuuVyXOHDK) | [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns), [Tornall](https://open.spotify.com/artist/6oB4uKVmQfGqoZnra4tifG), [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY) | [Go Do, Ep\. 6](https://open.spotify.com/album/2D3KenVOxfTTtde0Aabhm3) | 3:17 |
 | 29 | [Veracruz \- en bolero](https://open.spotify.com/track/3hSCWAqHeF9PX2hZJD7t5B) | [jawli](https://open.spotify.com/artist/7lFZo33jgeKsrkfkT38vJ4) | [Veracruz \(en bolero\)](https://open.spotify.com/album/0oufEYk2YWA6bVPqI4CQCF) | 3:44 |
-| 30 | [Viajes](https://open.spotify.com/track/6XaQLfoH2ux5QUChQyYZrh) | [Sweet Honesty](https://open.spotify.com/artist/0u8uFvusH51hxqYVnRT3gl) | [Viajes](https://open.spotify.com/album/427VteQWWdzaPn0MvBT4kc) | 2:24 |
-| 31 | [Tuya](https://open.spotify.com/track/4QzQALrqr9cLdmT75FThbW) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Tuya](https://open.spotify.com/album/0xoaHBfzWupVVsW1mG6nqu) | 3:36 |
-| 32 | [Luces de tu Voz](https://open.spotify.com/track/5eGM1tVC9KclMgnD7rcb1v) | [Shortlive](https://open.spotify.com/artist/4UlEI2cgS3UVJwAdh3ZBPf) | [Luces de tu Voz](https://open.spotify.com/album/0wKl12XUUrs635EfzQRm7O) | 3:22 |
-| 33 | [Mirarte Fue Alguna Vez Real](https://open.spotify.com/track/2AGt1b9gL3jODtOz9ZCNNH) | [Luz No Muere Al Caer](https://open.spotify.com/artist/5tIFh0aY3zXrZKjLOjNJnj) | [Mirarte Fue Alguna Vez Real](https://open.spotify.com/album/3AJvCkaXjoOPPQt1mtvtO3) | 2:43 |
-| 34 | [romance 2009](https://open.spotify.com/track/2dlzU9pSpChjyIshfuNwet) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [romance 2009](https://open.spotify.com/album/0cpxbk2ltX5vNZnQ4UIt5v) | 3:25 |
+| 30 | [Luces de tu Voz](https://open.spotify.com/track/5eGM1tVC9KclMgnD7rcb1v) | [Shortlive](https://open.spotify.com/artist/4UlEI2cgS3UVJwAdh3ZBPf) | [Luces de tu Voz](https://open.spotify.com/album/0wKl12XUUrs635EfzQRm7O) | 3:22 |
+| 31 | [Viajes](https://open.spotify.com/track/6XaQLfoH2ux5QUChQyYZrh) | [Sweet Honesty](https://open.spotify.com/artist/0u8uFvusH51hxqYVnRT3gl) | [Viajes](https://open.spotify.com/album/427VteQWWdzaPn0MvBT4kc) | 2:24 |
+| 32 | [Tuya](https://open.spotify.com/track/4QzQALrqr9cLdmT75FThbW) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Tuya](https://open.spotify.com/album/0xoaHBfzWupVVsW1mG6nqu) | 3:36 |
+| 33 | [romance 2009](https://open.spotify.com/track/2dlzU9pSpChjyIshfuNwet) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [romance 2009](https://open.spotify.com/album/0cpxbk2ltX5vNZnQ4UIt5v) | 3:25 |
+| 34 | [Mirarte Fue Alguna Vez Real](https://open.spotify.com/track/2AGt1b9gL3jODtOz9ZCNNH) | [Luz No Muere Al Caer](https://open.spotify.com/artist/5tIFh0aY3zXrZKjLOjNJnj) | [Mirarte Fue Alguna Vez Real](https://open.spotify.com/album/3AJvCkaXjoOPPQt1mtvtO3) | 2:43 |
 | 35 | [Voy a Hablar](https://open.spotify.com/track/3Varozf2erBRJ2R7EyoAro) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [La Intuición](https://open.spotify.com/album/2PevUkukOU1xgc2asoE7VA) | 3:07 |
 | 36 | [Viento y Caña](https://open.spotify.com/track/6sZPj5Xzks9OwZ8MozysnQ) | [Duo Mapas](https://open.spotify.com/artist/77qVx4P15HWAFG6xOBVFlg), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Viento y Caña](https://open.spotify.com/album/6VMATLjR636LgOQHxODs7O) | 4:21 |
 | 37 | [El Ruido](https://open.spotify.com/track/1LOTIjL9i9kXhcMhJDNUCQ) | [Humano En Tránsito](https://open.spotify.com/artist/5NEHbkbEfjsmzdpXDKXIxb) | [El Ruido](https://open.spotify.com/album/65t3KHlWmwMMBvmOiMMai8) | 5:08 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 39 | [Rebeldía](https://open.spotify.com/track/5fFZ7c5BuJMXdQxP2XzYwl) | [Fatua Trío](https://open.spotify.com/artist/7HEChEUsc2wEPVgOeQn3pl), [Plu Con Pla](https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH) | [Rebeldía](https://open.spotify.com/album/7mIVZbm9bS7aGIRR8pNGYb) | 5:16 |
 | 40 | [MICROFRACTURAS](https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE) | [Vicu Villanueva](https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy) | [Victoria y las Máquinas](https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog) | 6:09 |
 | 41 | [Nada para Mí](https://open.spotify.com/track/1LxixKqXcYzSBbdRiJFohR) | [Sobrevolar](https://open.spotify.com/artist/5vSohLPNNnzuplxYoyMyK3) | [Nada para Mí](https://open.spotify.com/album/4zmPYoXcgB2WGImgaifLfP) | 3:42 |
-| 42 | [Broken](https://open.spotify.com/track/3jK2YFWNGYLxhftEc8cir5) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Broken](https://open.spotify.com/album/1KtghRkKmOebcAlzxsnzE4) | 2:43 |
-| 43 | [Noche de Ronda](https://open.spotify.com/track/74XndrGyo2DYbDwaWjmZo7) | [Thony Neal](https://open.spotify.com/artist/01WRnfupxbgWvuWI56UebR) | [Noche de Ronda](https://open.spotify.com/album/2W4eAl6o6AQ7MilPDHnXYf) | 3:29 |
-| 44 | [Me Dejaste Caer](https://open.spotify.com/track/3ve4mXOfZHOJlsvUgigUIl) | [TEARS](https://open.spotify.com/artist/6H7wBKn1bVAZDw5XycoxRk) | [Me Dejaste Caer](https://open.spotify.com/album/5PY9S5lu4jcFZBkP3TEBrT) | 2:20 |
+| 42 | [Me Dejaste Caer](https://open.spotify.com/track/3ve4mXOfZHOJlsvUgigUIl) | [TEARS](https://open.spotify.com/artist/6H7wBKn1bVAZDw5XycoxRk) | [Me Dejaste Caer](https://open.spotify.com/album/5PY9S5lu4jcFZBkP3TEBrT) | 2:20 |
+| 43 | [Broken](https://open.spotify.com/track/3jK2YFWNGYLxhftEc8cir5) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Broken](https://open.spotify.com/album/1KtghRkKmOebcAlzxsnzE4) | 2:43 |
+| 44 | [Noche de Ronda](https://open.spotify.com/track/74XndrGyo2DYbDwaWjmZo7) | [Thony Neal](https://open.spotify.com/artist/01WRnfupxbgWvuWI56UebR) | [Noche de Ronda](https://open.spotify.com/album/2W4eAl6o6AQ7MilPDHnXYf) | 3:29 |
 | 45 | [Habano](https://open.spotify.com/track/3V8hP8tJmJHOq63kHdI9UK) | [Viterbo](https://open.spotify.com/artist/7A7b7VjgwnXdxSNCBAUvvw), [PaulSaxPower](https://open.spotify.com/artist/1IbkCVol8NoMBbdMYQIZ8k) | [Habano](https://open.spotify.com/album/7FjG2fmRJmVQus40q41CrC) | 4:21 |
 | 46 | [Cien años](https://open.spotify.com/track/7KLhPz5CZC2XSXuNT5NHiV) | [daniel srz](https://open.spotify.com/artist/5jBGih882ShpfBCyxehUG5) | [Cien años](https://open.spotify.com/album/2FVT3Zdy3bWnKlcbFF9Y9S) | 3:27 |
 | 47 | [DIME](https://open.spotify.com/track/2jo5MSuiZw7Y3VJtQzuVmt) | [Un Man Muy X](https://open.spotify.com/artist/0Nvvmd5ZJ9oZtkGVrCRzvD) | [DIME](https://open.spotify.com/album/5jWJXMG6sWr4Z1tUl2ZTYI) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Nina Flowers](https://open.spotify.com/track/3uzfNVfGwWnLUwv5bE71et) | [Ladrones de Bicicletas](https://open.spotify.com/artist/6nNkhgWX9xu8T3s9h1Bu65) | [Nina Flowers](https://open.spotify.com/album/0C3x6sgrHvN8VUlhgitnUC) | 3:35 |
 | 50 | [So Bad](https://open.spotify.com/track/0Bv41AllBqvKGzyOAOS4PH) | [Pezk](https://open.spotify.com/artist/5c7D1CAnaECx5upe6kjfAW) | [So Bad](https://open.spotify.com/album/03GJmaxCoDhr1Lyli3F4vr) | 3:58 |
 
-Snapshot ID: `MCwwOGE1MDViZTRmODY5NjE4N2QwZmU5NGMzZDVhMmJhMmFhMTgzOWM2`
+Snapshot ID: `MCxhOGY0MmVkMjhjOGYzMzRiMmM4OWYxMzVhM2ZlZWM3MzlmNDFiN2I1`

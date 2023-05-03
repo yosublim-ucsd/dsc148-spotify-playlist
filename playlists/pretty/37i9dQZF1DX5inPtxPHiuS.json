@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 82928,
+  "num_followers": 82937,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2JlNGFkMDFkMjdiMTVkYTAxMzQxZTk5NThlMTAwM2QyNTVhMTA2",
+  "snapshot_id": "MCxhYzhlY2MzNjNmYThmM2RkOGQwYjk3YjdkNzI3MWViNGM4MzY3ZWE1",
   "tracks": [
     {
       "added_at": "2023-04-14 06:55:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "Productos Desaparecidos",
+        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+      },
+      "artists": [
+        {
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ahora Me Cuesta",
+      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Productos Desaparecidos",
-        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
       "artists": [
         {
-          "name": "La Pestilencia",
-          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
         }
       ],
-      "duration_ms": 225693,
-      "name": "Ahora Me Cuesta",
-      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
+      "duration_ms": 187093,
+      "name": "Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Doce Vientos",
-        "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 222185,
-      "name": "Somos Coyotes",
-      "url": "https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Barco de Papel",
         "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
       },
@@ -503,18 +503,34 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
+        "name": "Doce Vientos",
+        "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
       },
       "artists": [
         {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 187093,
-      "name": "Una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
+      "duration_ms": 222185,
+      "name": "Somos Coyotes",
+      "url": "https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/6XTYDLahRhEf98TOPk0y96"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/6XTYDLahRhEf98TOPk0y96"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Yumbotop\u00eda",
         "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 173621,
       "name": "El Tema de Amor Que Esperabas",
       "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Anaranjado",
+        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Planetas",
+      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Nada que hablar (feat. Aterciopelados)",
         "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
       },
@@ -679,18 +679,34 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Anaranjado",
-        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
       },
       "artists": [
         {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
         }
       ],
-      "duration_ms": 196826,
-      "name": "Planetas",
-      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bRJW0QvMRMdNNEh5tSwnx"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Todo Va a Arder",
+      "url": "https://open.spotify.com/track/1sJSicDEBfPEo4nAW60WxJ"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -739,22 +755,6 @@
       "duration_ms": 203592,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Hacia la Noche",
-      "url": "https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "Pnmt Corrosion",
+        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
+      },
+      "artists": [
+        {
+          "name": "Pornomotora",
+          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Izquierdo",
+      "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 162000,
       "name": "Cangrejo",
       "url": "https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "Pnmt Corrosion",
-        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
-      },
-      "artists": [
-        {
-          "name": "Pornomotora",
-          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Izquierdo",
-      "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Ave Nocturna",
-        "url": "https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH"
+        "name": "Recorrer el Mundo",
+        "url": "https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw"
       },
       "artists": [
         {
-          "name": "Bajo Tierra",
-          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
+          "name": "Bonus Trak",
+          "url": "https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP"
         }
       ],
-      "duration_ms": 217903,
-      "name": "Ave Nocturna",
-      "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
+      "duration_ms": 178133,
+      "name": "Recorrer el Mundo",
+      "url": "https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Recorrer el Mundo",
-        "url": "https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw"
+        "name": "Ave Nocturna",
+        "url": "https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH"
       },
       "artists": [
         {
-          "name": "Bonus Trak",
-          "url": "https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP"
+          "name": "Bajo Tierra",
+          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
         }
       ],
-      "duration_ms": 178133,
-      "name": "Recorrer el Mundo",
-      "url": "https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK"
+      "duration_ms": 217903,
+      "name": "Ave Nocturna",
+      "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
     },
     {
       "added_at": "2023-04-14 06:55:00",

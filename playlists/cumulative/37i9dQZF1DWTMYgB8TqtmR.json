@@ -588,7 +588,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
+      "name": "Baby Don't Hurt Me (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 147876,
       "name": "Cocktails (feat. Asme)",
       "url": "https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq"
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 195200,
       "name": "Ella mai",
       "url": "https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 182769,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
@@ -2642,6 +2642,24 @@
       "duration_ms": 159483,
       "name": "FREE SMOKE",
       "url": "https://open.spotify.com/track/3KSegg0APyp082vo9peW7e"
+    },
+    {
+      "album": {
+        "name": "Frero",
+        "url": "https://open.spotify.com/album/5MiAugswi2g5TCP8RbK2YD"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176109,
+      "name": "Frero",
+      "url": "https://open.spotify.com/track/0hV8s6veVWGJiOaN1XYyF0"
     },
     {
       "album": {
@@ -8208,6 +8226,24 @@
       "duration_ms": 158644,
       "name": "V\u00e5gar",
       "url": "https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166216,
+      "name": "WAKA WAKA",
+      "url": "https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bLena Park(\ubc15\uc815\ud604)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 318881,
+  "num_followers": 318903,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjViZDJlMjY1MTY5MDAwNjc2YjA2MDM4Mzk4YmZlMWZkOWIxMmI0",
+  "snapshot_id": "MCwyOTkyMjhmMmJiYTYzOWRkMjM1NGRkMDJjMjVlOGQxM2YzMGIzNTE3",
   "tracks": [
     {
       "added_at": "2023-05-01 09:09:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-01 09:09:53",
       "album": {
-        "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Aching",
-      "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
-    },
-    {
-      "added_at": "2023-05-01 09:09:53",
-      "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 248835,
       "name": "Only Then",
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
+    },
+    {
+      "added_at": "2023-05-01 09:09:53",
+      "album": {
+        "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Aching",
+      "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
     },
     {
       "added_at": "2023-05-01 09:09:53",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-01 09:09:53",
       "album": {
-        "name": "Chocolate, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Just Look for you",
-      "url": "https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl"
-    },
-    {
-      "added_at": "2023-05-01 09:09:53",
-      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+    },
+    {
+      "added_at": "2023-05-01 09:09:53",
+      "album": {
+        "name": "Chocolate, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Just Look for you",
+      "url": "https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl"
     },
     {
       "added_at": "2023-05-01 09:09:53",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-05-01 09:09:53",
       "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 264678,
+      "name": "Will Last Forever",
+      "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
+    },
+    {
+      "added_at": "2023-05-01 09:09:53",
+      "album": {
         "name": "Love, Yerin",
         "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 221080,
       "name": "IF I",
       "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
-    },
-    {
-      "added_at": "2023-05-01 09:09:53",
-      "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 264678,
-      "name": "Will Last Forever",
-      "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
     },
     {
       "added_at": "2023-05-01 09:09:53",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-05-01 09:09:53",
       "album": {
+        "name": "My Liberation Notes OST Part 1",
+        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "duration_ms": 218621,
+      "name": "Deeply",
+      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+    },
+    {
+      "added_at": "2023-05-01 09:09:53",
+      "album": {
         "name": "To You",
         "url": "https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2023-05-01 09:09:53",
-      "album": {
-        "name": "My Liberation Notes OST Part 1",
-        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
-      },
-      "artists": [
-        {
-          "name": "HEN",
-          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
-        }
-      ],
-      "duration_ms": 218621,
-      "name": "Deeply",
-      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
     },
     {
       "added_at": "2023-05-01 09:09:53",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-01 09:09:53",
       "album": {
-        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Far away",
-      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
-    },
-    {
-      "added_at": "2023-05-01 09:09:53",
-      "album": {
         "name": "Faith OST",
         "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 267937,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+    },
+    {
+      "added_at": "2023-05-01 09:09:53",
+      "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Far away",
+      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
     },
     {
       "added_at": "2023-05-01 09:09:53",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-01 09:09:53",
       "album": {
-        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Lie to me",
-      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
-    },
-    {
-      "added_at": "2023-05-01 09:09:53",
-      "album": {
         "name": "If You Wish Upon Me OST Part.3",
         "url": "https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2023-05-01 09:09:53",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+      "duration_ms": 202858,
+      "name": "Lie to me",
+      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
     },
     {
       "added_at": "2023-05-01 09:09:53",
@@ -1475,6 +1459,22 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2023-05-01 09:09:53",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2023-05-01 09:09:53",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-05-01 09:09:53",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
-      },
-      "artists": [
-        {
-          "name": "Jang Jane",
-          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
-    },
-    {
-      "added_at": "2023-05-01 09:09:53",
-      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+    },
+    {
+      "added_at": "2023-05-01 09:09:53",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
     },
     {
       "added_at": "2023-05-01 09:09:53",

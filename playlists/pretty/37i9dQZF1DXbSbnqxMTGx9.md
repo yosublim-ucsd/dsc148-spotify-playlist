@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,781,192 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,781,717 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 78 | [Samfie Man](https://open.spotify.com/track/7lg50PPjR4ae8VaSXWp46z) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [The Best of The Pioneers](https://open.spotify.com/album/59qX9UWoEoXW5wpuv8FMks) | 2:57 |
 | 79 | [Is It Because I'm Black?](https://open.spotify.com/track/3FEEfb772gpjK2J7GUsEb8) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Ken Boothe Collection: Eighteen Classic Songs](https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99) | 3:42 |
 | 80 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |
-| 81 | [Cock Mouth Kill Cock](https://open.spotify.com/track/2pkdn2EnKnjzpoK5YPvlbt) | [Justin Hinds](https://open.spotify.com/artist/485PbpVEwbo7jAYs8Z3v9J), [Dominoes](https://open.spotify.com/artist/5K3iwzHUg6sgwA2ZkoOCWt) | [Carry Go Bring Come: Anthology '64\-'74](https://open.spotify.com/album/4KuPYLGk6zACKi6QQIyprp) | 2:54 |
+| 81 | [Cock Mouth Kill Cock](https://open.spotify.com/track/2pkdn2EnKnjzpoK5YPvlbt) | [Justin Hinds](https://open.spotify.com/artist/485PbpVEwbo7jAYs8Z3v9J), [The Dominoes](https://open.spotify.com/artist/3zdYjbgCIa2XJWb6Yc325v) | [Carry Go Bring Come: Anthology '64\-'74](https://open.spotify.com/album/4KuPYLGk6zACKi6QQIyprp) | 2:54 |
 | 82 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/3psNhzVGVWbCu1tpS5ITEP) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:07 |
 | 83 | [Don't Break Your Promise](https://open.spotify.com/track/0GaBEO2qlE1ONCfQI1jI7q) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [The Best of Dandy Livingstone](https://open.spotify.com/album/2cmmWbDzKQGQRp8bGGfhua) | 2:52 |
 | 84 | [Black Pearl](https://open.spotify.com/track/1D9puj0iQTCtCSq7tmgWyu) | [Horace Faith](https://open.spotify.com/artist/34vpOP9tbu2SyS8E7caLsa) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:35 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:46 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MCwzZDgzMjU1MjZjZTllMjVmNjFkMWM5MWIwMDhkMDhiMzhlMGRhMTE2`
+Snapshot ID: `MCxkYTI5ZDI1ODFhNGExOTc5YmZlNjkxNDNjMzg3ZTJmMTUyYzBkMjky`

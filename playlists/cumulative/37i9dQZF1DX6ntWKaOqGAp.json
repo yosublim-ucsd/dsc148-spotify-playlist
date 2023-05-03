@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Official\u9aed\u7537dism",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u795e\u69d8\u306f\u30b5\u30a4\u30b3\u30ed\u3092\u632f\u3089\u306a\u3044",
   "name": "J-Rock Now",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 255506,
       "name": "60W",
       "url": "https://open.spotify.com/track/1xRACXqo2UiX6Ci4oa5vKw"
+    },
+    {
+      "album": {
+        "name": "DANCEHALL MAGIC",
+        "url": "https://open.spotify.com/album/1FPcu8UL0LfZYnzV0diafu"
+      },
+      "artists": [
+        {
+          "name": "BRADIO",
+          "url": "https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203444,
+      "name": "69 Party",
+      "url": "https://open.spotify.com/track/1Rd1IWQNTjlep5kcsyZsiq"
     },
     {
       "album": {
@@ -320,7 +338,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 322429,
       "name": "BAN BAN TONIGHT",
       "url": "https://open.spotify.com/track/5aREMg9DtUfZq2tEQly7Bs"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 329653,
       "name": "DESTINY",
       "url": "https://open.spotify.com/track/2vhnYCh0JSAMKirkdPTPJ0"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 217541,
       "name": "Drama",
       "url": "https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk"
@@ -2410,6 +2428,24 @@
       "duration_ms": 221040,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z"
+    },
+    {
+      "album": {
+        "name": "pulse",
+        "url": "https://open.spotify.com/album/1TcVcuOe7AIniUNFGgaaeF"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157303,
+      "name": "pulse",
+      "url": "https://open.spotify.com/track/3MyQlDySBZwPyYYmho1gHy"
     },
     {
       "album": {
@@ -4511,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "\u30b8\u30b0\u30bd\u30fc\u30d1\u30ba\u30eb",
+        "url": "https://open.spotify.com/album/7FTzWfDbbD32UJMtpAkAGz"
+      },
+      "artists": [
+        {
+          "name": "wacci",
+          "url": "https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "\u30b8\u30b0\u30bd\u30fc\u30d1\u30ba\u30eb",
+      "url": "https://open.spotify.com/track/2Heixjkl8vzAOaLlu2KwpF"
+    },
+    {
+      "album": {
         "name": "HEART",
         "url": "https://open.spotify.com/album/0u1S82PGHIoNsvHTLuy0Nz"
       },
@@ -6260,6 +6314,24 @@
       "duration_ms": 197837,
       "name": "\u6708\u591c\u306e\u9053\u3092\u4ffa\u304c\u884c\u304f",
       "url": "https://open.spotify.com/track/7CzvL2K8cT0Assin7SNXIK"
+    },
+    {
+      "album": {
+        "name": "\u6709\u7f6a\u5e03\u544a",
+        "url": "https://open.spotify.com/album/7jjlM6VmqeKKhEaO0nKNp3"
+      },
+      "artists": [
+        {
+          "name": "BLUE ENCOUNT",
+          "url": "https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "\u6709\u7f6a\u5e03\u544a",
+      "url": "https://open.spotify.com/track/1jrbIWuksnU9wTfRcbsgJD"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Joy x Ha Dong Qn\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: SOLE, Sung Si Kyung\)
 
-213 songs - 12 hr 45 min
+214 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 | 2022-03-24 | 2022-08-10 |
 | [MYSELF \(feat\. george\) \(prod\. APRO\)](https://open.spotify.com/track/0NsOzFVBBphYwa0Qb5pLYu) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 7](https://open.spotify.com/album/1eG8TAlZ1cpGjsWfwFdq0K) | 4:09 | 2022-04-21 | 2022-07-29 |
 | [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 | 2022-08-25 |  |
+| [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-05-02 |  |
 | [NO ONE](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:14 | 2022-07-25 |  |
 | [No Question](https://open.spotify.com/track/2roeoO9KuLK4mX34tCMkhd) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [No Question](https://open.spotify.com/album/1ice0eth8FWop85p3ymmzA) | 3:10 | 2022-03-24 | 2022-07-29 |
 | [NO WAY](https://open.spotify.com/track/4WxeDb9YZABqk3QaH9CCu1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 4:16 | 2022-03-24 | 2022-07-26 |
@@ -192,7 +193,7 @@
 | [Vacance in September](https://open.spotify.com/track/3SZit36toAsecvUWqMrit4) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Pocket List 8/12](https://open.spotify.com/album/5Ib1hk6lyDWr3OR3JNHBTi) | 3:27 | 2022-05-03 | 2022-07-04 |
 | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g) | 3:05 | 2022-03-24 |  |
 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 | 2022-07-25 |  |
-| [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2022-03-24 |  |
+| [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2022-03-24 | 2023-05-03 |
 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 | 2022-11-06 |  |
 | [Weekends without you \(Duet with KIM JAE HWAN\)](https://open.spotify.com/track/6pzpYTvJfLFgRPF4SpYrlk) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Weekends without you \(Duet with Kim Jae Hwan\)](https://open.spotify.com/album/3N86NYqgyZZgWJHLLup9eV) | 4:12 | 2022-05-11 | 2022-07-14 |
 | [What if \(feat\. Suyoung Kim\)](https://open.spotify.com/track/2CBn3eqbkXq1rIF7owLQrb) | [Clazziquai](https://open.spotify.com/artist/0akZcna6MlOPRo0reVTaPr), [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [What if \(feat\. Suyoung Kim\)](https://open.spotify.com/album/1yPfdty2ujfCa49TV77oLQ) | 3:30 | 2022-03-24 | 2022-04-20 |

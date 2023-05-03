@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Hong Ja\(홍자\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-791 songs - 1 day 21 hr 15 min
+792 songs - 1 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Finger Heart](https://open.spotify.com/track/6aN8AOfNkNQQ8isY9vrmyo) | [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw) | [Finger Heart](https://open.spotify.com/album/536AwbTSsZRzotWrQ8zPUq) | 3:05 | 2022-07-22 |  |
 | [Finger Heart](https://open.spotify.com/track/6kEKWQCHxTIuPijoJwomLi) | [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw) | [손가락하트](https://open.spotify.com/album/29MfGwNte1KzA1zTTUimfR) | 3:05 | 2022-04-07 | 2022-07-29 |
 | [First train](https://open.spotify.com/track/3NgHq3wx9imTBWAtLd5EGS) | [Shin Yu](https://open.spotify.com/artist/4aLSOIhA1dueSblihS8Zk9), [Park Guyun](https://open.spotify.com/artist/7E1F9Pns5Wc6vM4KtmPW2b), [Shin Seong](https://open.spotify.com/artist/4ZrBMJ9pZMbLfqPN3nP1XU), [Choi Hyeonsang](https://open.spotify.com/artist/6ALjJAXxqk08xe0ziGT1zT), [소유찬](https://open.spotify.com/artist/1pX4UK3NQUgV4w7SKRifh4), [Park Seojin](https://open.spotify.com/artist/3w0VFCrEheuGM57WugJCM4), [Jang Songho](https://open.spotify.com/artist/29PyAp9uwBC7JIm4WO2km8) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 2:29 | 2022-05-03 | 2022-06-09 |
+| [Flower of love](https://open.spotify.com/track/63YAKF8nP1kfYzmAFlWKie) | [Oh YooJin](https://open.spotify.com/artist/0r95i21g0cV4u5OVzzksZx) | [Flower of love](https://open.spotify.com/album/0SY2JG8lS4cOaJ2iD33W5d) | 3:43 | 2023-05-02 |  |
 | [Flower wind](https://open.spotify.com/track/58kOpvfdBQzCTK6TAkwR5g) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Hwang Yunseong](https://open.spotify.com/artist/1FOvM67AluX3CFyuqtaaZ0) | [Love call center PART23](https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1) | 2:43 | 2022-04-21 | 2022-05-31 |
 | [Flower wind woman](https://open.spotify.com/track/0zdCTaa7PVJ6EJt46UlP9w) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART2](https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O) | 3:13 | 2022-04-07 | 2022-07-23 |
 | [Flutteringly](https://open.spotify.com/track/07M6bpsMDN74kT8NwGn3sN) | [Da Hyun Kim](https://open.spotify.com/artist/2bq9xwaiwirI0rMNQ9MKgX) | [MISS TROT2 Legendary Mission Best Semi\-Final 1](https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA) | 3:26 | 2022-04-07 | 2022-07-27 |
@@ -746,7 +747,7 @@
 | [빨리오오](https://open.spotify.com/track/2dv2MWzqKnvJ7J4zT0FpZ1) | [정혜린](https://open.spotify.com/artist/5TTLhkJ0HUwErxIWEdJs2K) | [빨리오오](https://open.spotify.com/album/288pnmDm0jXphWFORpgA5Z) | 2:48 | 2022-04-22 | 2022-07-27 |
 | [사랑껌](https://open.spotify.com/track/6s9igzxODWxRN63d2Jeze9) | [Kum Jan Di](https://open.spotify.com/artist/4sxm6i0Tbb3Pt5sF58KIMI) | [오라버니/사랑껌](https://open.spotify.com/album/1Dwrhjc1pHDa1Gb36xyOtl) | 3:44 | 2022-04-21 | 2022-07-28 |
 | [사랑의 트위스트](https://open.spotify.com/track/0qshHbEOX6YI1IMp33Dy1L) | [MSG\(알파벳](https://open.spotify.com/artist/2hkrP5MtgzdFoc4fZ7Jk2i), [박예슬\)](https://open.spotify.com/artist/7allxqrA4H7TSgY2YPP0LW) | [Korean Trot Contest PART.5](https://open.spotify.com/album/73AYOATUIFhqWlhWCAR3eF) | 4:19 | 2022-04-22 | 2022-07-29 |
-| [살았소](https://open.spotify.com/track/61cxkZbxONWDilpqDQlAZq) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [살았소](https://open.spotify.com/album/12oUHngv38tTjgGhEXWJgc) | 3:52 | 2022-12-05 |  |
+| [살았소](https://open.spotify.com/track/61cxkZbxONWDilpqDQlAZq) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [살았소](https://open.spotify.com/album/12oUHngv38tTjgGhEXWJgc) | 3:52 | 2022-12-05 | 2023-05-03 |
 | [삼각관계](https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD) | [김용임](https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV) | [김용임 스페셜 베스트 76](https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh) | 2:49 | 2022-04-22 |  |
 | [샤방샤방](https://open.spotify.com/track/0aRhZNpYBCclTh4C63EtAV) | [Park Hyun\-Bin](https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj) | [샤방샤방](https://open.spotify.com/album/6YLnaecP5lttARu5dlYewv) | 3:24 | 2022-07-22 | 2022-11-06 |
 | [샤방샤방](https://open.spotify.com/track/3JYoX8OO1wLm3ZoCGHNEGK) | [Park Hyun\-Bin](https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj) | [모래시계](https://open.spotify.com/album/4zXn09bT9oBHHyBdRhGe9Q) | 3:24 | 2022-04-07 | 2022-07-23 |

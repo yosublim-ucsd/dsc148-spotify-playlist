@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Rodrigo y Gabriela",
-  "num_followers": 280095,
+  "num_followers": 280103,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGFlYzY0YTgwOTUxYjhlMTE1NGQxZGE4MjIyMTIxZGVlMmFiOWRh",
+  "snapshot_id": "MCw4ZmJkNzgxN2ZiYjM1ZGExNWQyMzYxMWM0MGYxZjg0OWI5NzBkY2E1",
   "tracks": [
     {
       "added_at": "2023-04-28 16:33:38",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "La \u00daltima Canci\u00f3n",
         "url": "https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 157144,
       "name": "La \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -315,6 +315,26 @@
       "duration_ms": 173259,
       "name": "mejores amigos",
       "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -367,26 +387,6 @@
       "duration_ms": 242600,
       "name": "Invulnerables",
       "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "No Te Imagin\u00e1s",
+      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 177826,
       "name": "Nublado (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 211204,
-      "name": "No Te Imagin\u00e1s",
-      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "S\u00f3lo D\u2019Lira",
+        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "Ramona Flowers",
         "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
       },
@@ -555,6 +575,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "No me preguntes por qu\u00e9",
         "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
       },
@@ -571,22 +607,6 @@
       "duration_ms": 173436,
       "name": "No me preguntes por qu\u00e9",
       "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Llama Gemela",
-        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 207089,
-      "name": "Llama Gemela",
-      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -639,26 +659,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "S\u00f3lo D\u2019Lira",
-        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "Money In The Bank",
-      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "San Saltar\u00edn",
+        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 258765,
+      "name": "San Saltar\u00edn",
+      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "M\u00e1s Tuyo",
         "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 212810,
       "name": "Sentimientos Encontrados",
       "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "San Saltar\u00edn",
-        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 258765,
-      "name": "San Saltar\u00edn",
-      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -811,6 +811,38 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 193567,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Bajo Los \u00c1rboles",
+        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 247947,
+      "name": "Bajo Los \u00c1rboles",
+      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "Dos",
         "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
       },
@@ -847,18 +879,18 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+        "name": "S\u00f3lo Eres T\u00fa",
+        "url": "https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 193567,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
+      "duration_ms": 233885,
+      "name": "S\u00f3lo Eres T\u00fa",
+      "url": "https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -879,22 +911,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "S\u00f3lo Eres T\u00fa",
-        "url": "https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 233885,
-      "name": "S\u00f3lo Eres T\u00fa",
-      "url": "https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 247375,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Bajo Los \u00c1rboles",
-        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 247947,
-      "name": "Bajo Los \u00c1rboles",
-      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "Carlangas",
+        "url": "https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Regalao",
+      "url": "https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/1bmBBthA6UzKtGn8TGm6yx"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 168977,
       "name": "Zero",
       "url": "https://open.spotify.com/track/3zOHI5gwoN5juUNhnVpuwP"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Carlangas",
-        "url": "https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC"
-      },
-      "artists": [
-        {
-          "name": "CARLANGAS",
-          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Regalao",
-      "url": "https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf"
     },
     {
       "added_at": "2023-04-28 16:33:38",

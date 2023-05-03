@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,673 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,679 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 99 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:15 |
 | 100 | [Armagedón](https://open.spotify.com/track/1YAkwbM8f7yFRyu5OyG2xy) | [Camila López](https://open.spotify.com/artist/6VHcngSiHE3Y9Lzip0Dta2), [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Armagedón](https://open.spotify.com/album/0ubs2oQKjr2uLaSifiIapF) | 3:01 |
 
-Snapshot ID: `MCxlMTU4MTU4YjYzYmRkYmM0MGNkNzEwYTZmZDE2YTUwNTRhYTEyOTIy`
+Snapshot ID: `MCxhYjc3MDE0MTQ2MzU0MmU3M2JiMTdjMGMzMmUzMWNhMzQyZmQ2ZmIz`

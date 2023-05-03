@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Friko \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,148 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,173 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [We Can Start Over](https://open.spotify.com/track/6DT2cBHPFHcu7XSil5WB9m) | [Johnny Lloyd](https://open.spotify.com/artist/2e3MqeCoPC7BSElTEf0y89), [Clif Norrell](https://open.spotify.com/artist/764aj7OJ6vswtZn1C4tLxD) | [Reanimate](https://open.spotify.com/album/227KS6xrpjU61XKwQraxDx) | 3:11 |
 | 100 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 
-Snapshot ID: `MCxhZTc2YmVmYmYyZDNjZWMwMzJiZGIxOTY1NjYxMzFlYjAxYzEwYmFk`
+Snapshot ID: `MCxmYzBhNDE4NTIyNDYzOWE5Y2VlYzJlNmVlZTg5ZWRhM2NmNTlmOGVh`

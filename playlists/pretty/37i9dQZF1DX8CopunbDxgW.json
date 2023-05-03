@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Goth Babe",
-  "num_followers": 847527,
+  "num_followers": 847776,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWMxZjhhZGE2M2UzMjUxMTY0NmQyNjJlNmZlNmRhYzUyNmU5ZDlk",
+  "snapshot_id": "MCw1ODcyODc3Yzg4MjAwZjhmNzA0NjA0NGQ1MTYzZDk5NWI0ZDkzMTYx",
   "tracks": [
     {
       "added_at": "2023-04-18 16:41:50",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Ripple",
         "url": "https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "U Neva",
-        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 142250,
-      "name": "U Neva",
-      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Tighten It Up",
@@ -903,6 +887,22 @@
       "duration_ms": 174896,
       "name": "Tighten It Up",
       "url": "https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "U Neva",
+        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "U Neva",
+      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Beautiful Morning",
-        "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Beautiful Morning",
-      "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
-    },
-    {
       "added_at": "2023-04-14 03:54:18",
       "album": {
         "name": "Nymph_o",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Beautiful Morning",
+        "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Beautiful Morning",
+      "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
       },
@@ -1207,38 +1207,6 @@
       "duration_ms": 263418,
       "name": "Tunnel of You",
       "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1261,6 +1229,54 @@
       "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "You",
@@ -1279,22 +1295,6 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 239846,
-      "name": "Never Gonna Stop",
-      "url": "https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc"
-    },
-    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "Gabo's Last Resort / Hyakutake",
@@ -1455,22 +1439,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Tunnel",
-        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 310573,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
+      "duration_ms": 239846,
+      "name": "Never Gonna Stop",
+      "url": "https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1491,6 +1471,26 @@
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310573,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
     },
     {
       "added_at": "2023-03-10 15:28:12",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Love Brand New",
-        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "Love Brand New",
-      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "WASTED ON ME",
@@ -1559,6 +1543,22 @@
       "duration_ms": 182479,
       "name": "WASTED ON ME",
       "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Love Brand New",
+        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "Love Brand New",
+      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1693,22 +1693,6 @@
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 282225,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
-    },
-    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "You Are Everywhere",
@@ -1729,6 +1713,22 @@
       "url": "https://open.spotify.com/track/4Wk3Z6fgpLepeL7LyPe1VI"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 282225,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
+    },
+    {
       "added_at": "2023-03-03 21:59:48",
       "album": {
         "name": "Good Time",
@@ -1743,6 +1743,22 @@
       "duration_ms": 133037,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ"
+    },
+    {
+      "added_at": "2023-04-21 17:35:52",
+      "album": {
+        "name": "The Lowdown",
+        "url": "https://open.spotify.com/album/6Dw27aR49vN78UE9C5pPlf"
+      },
+      "artists": [
+        {
+          "name": "Girlhood",
+          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
+        }
+      ],
+      "duration_ms": 241573,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/0Is2tnxZ7c7tnsrXCdBZZO"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1761,6 +1777,26 @@
       "url": "https://open.spotify.com/track/2nVxL1B523h70Gign7W2Le"
     },
     {
+      "added_at": "2023-04-21 17:35:52",
+      "album": {
+        "name": "RISE (Darius Remix)",
+        "url": "https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL"
+      },
+      "artists": [
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 451034,
+      "name": "RISE - Darius Remix",
+      "url": "https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew"
+    },
+    {
       "added_at": "2023-03-03 18:38:08",
       "album": {
         "name": "Star Song",
@@ -1775,38 +1811,6 @@
       "duration_ms": 210490,
       "name": "Star Song",
       "url": "https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Caution To The Wind",
-        "url": "https://open.spotify.com/album/2oIbVI3dL2BIXVFxfqNpKR"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Caution To The Wind",
-      "url": "https://open.spotify.com/track/1nTp6IaQyU2FCbe1KZipRI"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "In My Arms - Edit",
-      "url": "https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs"
     }
   ],
   "unique_name": "metropolis",

@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 549,
+  "num_followers": 554,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTIyMjM5OWFkMDhjNGM2MWE1MDgzYjI0ODYxMjFkZTc1OTNlZGIz",
+  "snapshot_id": "MCxlYzE5NjRjNmIwNDJhNTk2OWJhZWY1ZmU2Y2M0MTlmOTBlOGQ5YmUz",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -65,22 +65,6 @@
       "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Tupaate",
-        "url": "https://open.spotify.com/album/3NlSPmx0BeXeUUxhmIQqjv"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "Wakikuba",
-      "url": "https://open.spotify.com/track/2eP5ehkZmHF9gSrt7vJHmw"
-    },
-    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
         "name": "Teacher",
@@ -99,6 +83,22 @@
       "duration_ms": 164400,
       "name": "Teacher",
       "url": "https://open.spotify.com/track/31onESW2T3d0A9KcITQeQK"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Tupaate",
+        "url": "https://open.spotify.com/album/3NlSPmx0BeXeUUxhmIQqjv"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "Wakikuba",
+      "url": "https://open.spotify.com/track/2eP5ehkZmHF9gSrt7vJHmw"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -149,22 +149,6 @@
       "url": "https://open.spotify.com/track/71qpPBgoPTecBX5Shqnv0F"
     },
     {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
-    },
-    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "King Kong",
@@ -185,6 +169,22 @@
       "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Bajooga",
+        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Bajooga",
+      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Tumbiza Sound",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu"
     },
     {
-      "added_at": "2022-08-19 12:56:03",
-      "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
-    },
-    {
       "added_at": "2022-07-01 04:18:21",
       "album": {
         "name": "Bango",
@@ -231,6 +215,22 @@
       "duration_ms": 208195,
       "name": "Bango",
       "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
+    },
+    {
+      "added_at": "2022-08-19 12:56:03",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -391,6 +391,26 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
+        "name": "Pull Up On Mi Bumpa",
+        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+        }
+      ],
+      "duration_ms": 227896,
+      "name": "Pull Up On Mi Bumpa",
+      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
         "name": "Go Down",
         "url": "https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 207229,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Pull Up On Mi Bumpa",
-        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
-        }
-      ],
-      "duration_ms": 227896,
-      "name": "Pull Up On Mi Bumpa",
-      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     },
     {
-      "added_at": "2022-06-28 08:35:51",
-      "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
-    },
-    {
       "added_at": "2022-05-27 05:48:37",
       "album": {
         "name": "I Need Your Love",
@@ -635,6 +619,22 @@
       "duration_ms": 169430,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
+    },
+    {
+      "added_at": "2022-06-28 08:35:51",
+      "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
     },
     {
       "added_at": "2022-07-29 06:06:22",

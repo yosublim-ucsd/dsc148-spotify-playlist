@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 203124,
       "name": "Em \u0110\u1ed3ng \u00dd (I Do)",
       "url": "https://open.spotify.com/track/5NC8EG2rmiMHk5wDt2HxmE"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 164266,
       "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
       "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
@@ -3076,6 +3076,32 @@
       "duration_ms": 261999,
       "name": "V\u00ec M\u1eb9 Anh B\u1eaft Chia Tay",
       "url": "https://open.spotify.com/track/5mG5cQE6SEYxnGCX3I09IC"
+    },
+    {
+      "album": {
+        "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
+        "url": "https://open.spotify.com/album/4AB7jTEqKQICkM5DV4f5ZX"
+      },
+      "artists": [
+        {
+          "name": "Phuong My Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        },
+        {
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
+        },
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222079,
+      "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
+      "url": "https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH"
     },
     {
       "album": {

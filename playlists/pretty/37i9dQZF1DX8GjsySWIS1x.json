@@ -1,12 +1,12 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1010561,
+  "num_followers": 1010647,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTlhYzVkNGZkNzU0MjNmNWMyNGU3ZGMyNjM3NjM4Zjk2ZmE3ZTJj",
+  "snapshot_id": "MCw1ZDU5MjE4YzM5ZTk1MzBkZWFjNjYwZTdiZDJhOWNjN2Y2OGU4OGUz",
   "tracks": [
     {
       "added_at": "2023-04-13 17:55:58",
@@ -45,24 +45,20 @@
       "url": "https://open.spotify.com/track/27xLRjNOZM0vrLkiwMtAsA"
     },
     {
-      "added_at": "2023-03-06 16:40:13",
+      "added_at": "2023-05-02 17:24:49",
       "album": {
-        "name": ">one (greater than one)",
-        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+        "name": "Dragon Slayer",
+        "url": "https://open.spotify.com/album/00qOCzVYbnem6uVcHqVktz"
       },
       "artists": [
         {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "Pigeon John",
+          "url": "https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj"
         }
       ],
-      "duration_ms": 130666,
-      "name": ">one - greater than one",
-      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
+      "duration_ms": 203666,
+      "name": "The Bomb",
+      "url": "https://open.spotify.com/track/4eYmH4Sh0ibdU9nmnbu7aM"
     },
     {
       "added_at": "2022-12-16 06:01:00",
@@ -83,6 +79,26 @@
       "duration_ms": 99804,
       "name": "Demon (featuring $NOT)",
       "url": "https://open.spotify.com/track/4OGkTQRmsTjodBox6nMzFU"
+    },
+    {
+      "added_at": "2023-03-06 16:40:13",
+      "album": {
+        "name": ">one (greater than one)",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": ">one - greater than one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
       "added_at": "2023-01-19 17:48:37",
@@ -177,6 +193,22 @@
       "url": "https://open.spotify.com/track/435BEnoOXQWHrgqSoMTxB3"
     },
     {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS"
+      },
+      "artists": [
+        {
+          "name": "Stellar",
+          "url": "https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10"
+        }
+      ],
+      "duration_ms": 166355,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp"
+    },
+    {
       "added_at": "2022-12-06 15:41:24",
       "album": {
         "name": "Shittin' Me",
@@ -209,22 +241,6 @@
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS"
-      },
-      "artists": [
-        {
-          "name": "Stellar",
-          "url": "https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10"
-        }
-      ],
-      "duration_ms": 166355,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp"
-    },
-    {
       "added_at": "2023-04-06 20:13:08",
       "album": {
         "name": "THE GREATEST LIVING SHOW",
@@ -243,6 +259,22 @@
       "duration_ms": 275798,
       "name": "THE GREATEST LIVING SHOW",
       "url": "https://open.spotify.com/track/6e9MycX711QO2gGN0EIhpq"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "duration_ms": 230894,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2022-11-23 15:37:37",
@@ -379,22 +411,6 @@
       "duration_ms": 165831,
       "name": "Five Nights at Freddy's",
       "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "My Ordinary Life",
-        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 230894,
-      "name": "My Ordinary Life",
-      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2022-11-29 15:10:32",

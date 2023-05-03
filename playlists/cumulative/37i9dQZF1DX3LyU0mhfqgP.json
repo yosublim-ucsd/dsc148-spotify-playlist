@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest songs from LGBTQIA+ artists. Cover: LIE NING",
+  "description": "The hottest songs from LGBTQIA+ artists. Cover: Kimmese",
   "name": "GLOW",
   "tracks": [
     {
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 170603,
       "name": "Ch\u0142opaki z BMW",
       "url": "https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw"
@@ -3270,7 +3270,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 126965,
       "name": "DONTLEAVEMYSIDE",
       "url": "https://open.spotify.com/track/5dx52a9oh4Vm7XbkqCn7Dq"
@@ -7804,7 +7804,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 144306,
       "name": "Maric\u00f3n Zara",
       "url": "https://open.spotify.com/track/3hgXPv3oQlgLC0TH7RNpli"
@@ -9755,6 +9755,24 @@
     },
     {
       "album": {
+        "name": "Rhythm Of My Show",
+        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "Rhythm Of My Show",
+      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
+    },
+    {
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
@@ -9950,6 +9968,32 @@
       "duration_ms": 182475,
       "name": "Semi Pro",
       "url": "https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt"
+    },
+    {
+      "album": {
+        "name": "VIL\u00c3",
+        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Topo La Maskara",
+          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156125,
+      "name": "Senta e Levanta",
+      "url": "https://open.spotify.com/track/1PzKowy7pVNpxWnP3K0aEO"
     },
     {
       "album": {
@@ -10698,7 +10742,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 216106,
       "name": "Soy Un Bomb\u00f3n",
       "url": "https://open.spotify.com/track/2tAL1SKeBWQfc4ttSDe8Zn"
@@ -12653,6 +12697,24 @@
     },
     {
       "album": {
+        "name": "You ain't got my soul",
+        "url": "https://open.spotify.com/album/4Z1uIbGBRBUTVINUtcS1h7"
+      },
+      "artists": [
+        {
+          "name": "Kimmese",
+          "url": "https://open.spotify.com/artist/4w5vfLTFKwpd16ZzmYwcXA"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301310,
+      "name": "You ain't got my soul",
+      "url": "https://open.spotify.com/track/7molkIv012zfZDsJJW7I1W"
+    },
+    {
+      "album": {
         "name": "Prioritise Pleasure",
         "url": "https://open.spotify.com/album/6Q4b8zTe5hFiDaUxNOiBih"
       },
@@ -12942,6 +13004,28 @@
       "duration_ms": 134590,
       "name": "\u05dc\u05d4 \u05e7\u05d5\u05e7\u05e8\u05e6'\u05d4",
       "url": "https://open.spotify.com/track/4NM9QIGs9sjfvKELPUocwQ"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05de\u05d4 \u05de\u05d4 (Prod. By Triangle)",
+        "url": "https://open.spotify.com/album/3CdDXZWNpS0qsDOweysllE"
+      },
+      "artists": [
+        {
+          "name": "\u05d8\u05d5\u05dd \u05d1\u05d0\u05d5\u05dd",
+          "url": "https://open.spotify.com/artist/5nvSfnVX5gYHVChrIXBwza"
+        },
+        {
+          "name": "Maya Dadon",
+          "url": "https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "\u05dc\u05de\u05d4 \u05de\u05d4 (Prod. By Triangle)",
+      "url": "https://open.spotify.com/track/5U1SF3uuktsDtUikhWK9Ad"
     },
     {
       "album": {

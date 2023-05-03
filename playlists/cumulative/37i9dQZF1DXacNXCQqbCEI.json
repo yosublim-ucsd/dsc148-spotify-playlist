@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 162765,
       "name": "A Short Story of the Mahale Mountains",
       "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
@@ -548,6 +548,24 @@
       "duration_ms": 165593,
       "name": "Black Catbird",
       "url": "https://open.spotify.com/track/4gK1g4edhTvgFoMauswyE1"
+    },
+    {
+      "album": {
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
+      },
+      "artists": [
+        {
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
     },
     {
       "album": {
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 233739,
       "name": "Kalimba Nara",
       "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
@@ -4194,6 +4212,28 @@
       "duration_ms": 239417,
       "name": "Sueno en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
+    },
+    {
+      "album": {
+        "name": "Amansara Remixed",
+        "url": "https://open.spotify.com/album/1QKIcCF0KmiDmRbGMnZvDZ"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241338,
+      "name": "Sueno en Paraguay - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/7xh6JEfbdCF25vDPFCv2hW"
     },
     {
       "album": {

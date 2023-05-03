@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: BENEE & Gus Dapperton
 
-1,626 songs - 3 day 10 hr 44 min
+1,627 songs - 3 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Enjoy The Weather](https://open.spotify.com/track/2txs7OQeD9qOOhlmhcCO6J) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Enjoy The Weather](https://open.spotify.com/album/2y82EbzL8FRX92BUT3Ehq1) | 2:30 | 2022-02-25 | 2022-03-26 |
 | [Enough](https://open.spotify.com/track/7fuuoc674qrUMZeF7xnWd6) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Enough](https://open.spotify.com/album/7y2kwuXOjteuyzRq3MqZY2) | 4:03 | 2021-07-16 | 2022-07-16 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-01-27 |  |
+| [Even If It Hurts](https://open.spotify.com/track/3UY7tO9FTrWHBejzcJFr83) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Even If It Hurts](https://open.spotify.com/album/2pXholEHhkVPKaj2jyM4RY) | 2:49 | 2023-04-28 |  |
 | [Evening Buffalo](https://open.spotify.com/track/6w40GgWhGts8g6779DPXR3) | [Felix Snow](https://open.spotify.com/artist/1qskAseW7apRxJBpYAO9Yk) | [Evening Buffalo](https://open.spotify.com/album/0F5sTi9lCzlAoZN7IQvqFs) | 2:36 | 2019-05-26\* | 2019-06-15 |
 | [ever fallen?](https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [ever fallen?](https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo) | 2:48 | 2022-12-16 | 2023-03-19 |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-06-17 | 2022-07-11 |
@@ -1047,7 +1048,7 @@
 | [Off Season](https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE) | 3:10 | 2022-11-04 | 2022-12-03 |
 | [Oh Please \- APRE Remix](https://open.spotify.com/track/0KAMo9j8CwDz4sLSkFeFF3) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Oh Please \(APRE Remix\)](https://open.spotify.com/album/5CNgptw1SOnGoNjc7JCeW9) | 3:36 | 2020-06-29 | 2021-05-27 |
 | [OH WELL](https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [OH WELL](https://open.spotify.com/album/2AGtYibeIFAnUVQadCVr16) | 2:54 | 2021-11-12 | 2022-07-02 |
-| [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 |  |
+| [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 | 2023-05-03 |
 | [Old Movies](https://open.spotify.com/track/3GuZKF9sG9DtI6aIsYCkgK) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Old Movies](https://open.spotify.com/album/2PkOrJql49WiBYdmnVxsiI) | 2:47 | 2023-02-03 | 2023-02-20 |
 | [Olivia](https://open.spotify.com/track/5B9RzNWxGMtSi5ippoDmSY) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Olivia](https://open.spotify.com/album/549bnGNWELv0hpPC1aydth) | 2:51 | 2022-02-11 | 2022-03-26 |
 | [On My Mind \(Eastern Bloc Remix\)](https://open.spotify.com/track/5bJ85yWElOJ1Oswqn2pbUU) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Eastern Bloc](https://open.spotify.com/artist/08QUxi3UpepdGtIbqf7GMv) | [On My Mind \(Eastern Bloc Remix\)](https://open.spotify.com/album/65kpdPtuxe1ThNz8us1JwF) | 3:14 | 2019-09-06 | 2020-04-24 |

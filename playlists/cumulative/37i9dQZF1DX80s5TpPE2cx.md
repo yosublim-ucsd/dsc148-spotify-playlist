@@ -4,7 +4,7 @@
 
 > The songs that defined Nigeria's Alté era
 
-91 songs - 4 hr 58 min
+92 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [MONICA](https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:51 | 2022-07-27 |  |
 | [Murderer](https://open.spotify.com/track/0QedrnntNcVcRUsTwcU8PH) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [H.E.R\. \[His\. Emotions\. Recorded.\]](https://open.spotify.com/album/77frrowJvPTakX18mA46KP) | 3:26 | 2022-07-27 |  |
 | [My Wave](https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sona](https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 4:19 | 2022-07-27 |  |
-| [Not my Bae](https://open.spotify.com/track/3lBTbzfg1kooHibufzkj5x) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [Not my Bae](https://open.spotify.com/album/7M1PYdkEj0VasRUM5JMXmO) | 3:40 | 2022-07-27 |  |
+| [Not my Bae](https://open.spotify.com/track/3lBTbzfg1kooHibufzkj5x) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [Not my Bae](https://open.spotify.com/album/7M1PYdkEj0VasRUM5JMXmO) | 3:40 | 2022-07-27 | 2023-05-03 |
 | [Optimum Esse](https://open.spotify.com/track/20EbpUHGtvuluX2AQSLYkZ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Renascentia](https://open.spotify.com/album/5R7cUADCzBIPUfq0hrSv2N) | 3:11 | 2022-07-27 |  |
 | [Pew](https://open.spotify.com/track/3N3CiAy8C7p4rtQewcgEcY) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [KwakuBs](https://open.spotify.com/artist/4WIDKbsLcrvVVwUrzihgxo), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:00 | 2022-07-27 |  |
 | [Play for Keeps](https://open.spotify.com/track/57eoDpCIH3hQmmy6NbuBxQ) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Play for Keeps](https://open.spotify.com/album/2IrUKNMogEptODtx7b9aBU) | 3:17 | 2022-07-27 |  |
@@ -90,6 +90,7 @@
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2022-07-27 |  |
 | [Up](https://open.spotify.com/track/78fUOYqXOsIFo6kBjEFfws) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Bri's Lounge](https://open.spotify.com/album/5RZYdZDTZdvlVl11IXCPU4) | 3:25 | 2022-07-27 |  |
 | [Up To You \- Ikon Mix](https://open.spotify.com/track/3I3tClYQhS7kh9qf0L2IKr) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [Palmwine Music](https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW) | 4:24 | 2022-07-27 |  |
+| [Wetin Dey](https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 2:26 | 2023-05-02 |  |
 | [What You Like](https://open.spotify.com/track/3nW0Lor0OZW7muepNnkUI9) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Virtuoso](https://open.spotify.com/album/44q2jWpjess1qVcWm1jqoW) | 3:08 | 2022-07-27 |  |
 | [Whoa!](https://open.spotify.com/track/23j9rRRZ04w0Do8maFAkyf) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Amaa Rae](https://open.spotify.com/artist/5FRud7eNBSrwf10dezE0hq) | [Insert Project Name](https://open.spotify.com/album/6wcG6DtDwc6N7K0Vh5ZoMt) | 3:25 | 2022-07-27 | 2023-03-03 |
 | [Whoa!](https://open.spotify.com/track/2aD4svJPOUvmHtu9SQ1fdW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Amaa Rae](https://open.spotify.com/artist/5FRud7eNBSrwf10dezE0hq) | [Insert Project Name](https://open.spotify.com/album/6o3eb5765RiCOQ0kNYXR3Y) | 3:25 | 2023-02-16 |  |

@@ -4,7 +4,7 @@
 
 > ☀️
 
-297 songs - 15 hr 3 min
+299 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [DUE](https://open.spotify.com/track/5iOC3bVfByUxvfUIYBy9Mg) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Le tasche bucate di felicità](https://open.spotify.com/album/3ZgnE2pYJIDpG6iSMJqNCT) | 2:31 | 2022-05-06 | 2022-07-29 |
 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-17 |  |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-10-21 |  |
-| [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2022-05-06 |  |
+| [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2022-05-06 | 2023-05-03 |
 | [Effe](https://open.spotify.com/track/56nvQibJaC1V84wVMqA3Ck) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:31 | 2022-05-06 | 2022-06-10 |
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2022-05-23 | 2022-09-24 |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-03-31 |  |
@@ -118,6 +118,7 @@
 | [Fuck It I Love You](https://open.spotify.com/track/7eU1oQcE89ZS7T8oVuMn4G) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Fuck It I Love You](https://open.spotify.com/album/52Ey7PJjy1ct2Qoygs7h8W) | 3:23 | 2022-05-13 | 2022-07-19 |
 | [Giornata di merda](https://open.spotify.com/track/5h8kl7fVkld19y3fOwDxII) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [Giornata di merda](https://open.spotify.com/album/1GFiV4wEQwWTpYhM7UamfX) | 3:18 | 2022-05-06 | 2022-07-29 |
 | [Giorni stupidi](https://open.spotify.com/track/0WMVBRCXcwTacKLxq0pJox) | [Rokas](https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7), [Granato](https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy), [Baci Ovunque](https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS) | [Mostri contro fantasmi](https://open.spotify.com/album/0cr87mLCHcZ8KTDmjbwDvd) | 3:00 | 2022-05-06 | 2022-07-29 |
+| [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 | 2023-05-02 |  |
 | [GIRASOLE](https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:17 | 2022-05-06 | 2022-07-29 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 | 2022-07-23 |
 | [Giuseppe Verdi](https://open.spotify.com/track/0zxzqUBWsyw9ndvyoGxPG7) | [filospada](https://open.spotify.com/artist/4xI4s9KJykpEAXSoWpP5zZ) | [Giuseppe Verdi](https://open.spotify.com/album/4LkBqj8UwPsKGtOUDdQPUd) | 1:26 | 2022-05-13 | 2022-06-24 |
@@ -154,7 +155,7 @@
 | [I don’t care about the rain](https://open.spotify.com/track/5eFgij1V0OUWTbxXucgTmM) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [See what’s on my mind \- the EP](https://open.spotify.com/album/1CEkoc1TH9tUzAj8fQ79NZ) | 3:34 | 2022-11-30 | 2023-04-13 |
 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 | 2022-05-06 | 2022-11-13 |
 | [I Feel It Coming](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:29 | 2022-07-26 |  |
-| [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 | 2023-03-01 |  |
+| [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 | 2023-03-01 | 2023-05-03 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-03 |  |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2022-05-06 | 2022-08-30 |
 | [I'm Not Angry Anymore](https://open.spotify.com/track/1W2ScQrCGp5Ew9lnljMA3G) | [Cummrs](https://open.spotify.com/artist/6hZcFBnQjDX9OYBCXr4h4e) | [I'm Not Angry Anymore](https://open.spotify.com/album/1qYvYb5ffqNsI9FHoUUe7Q) | 1:04 | 2022-12-02 | 2023-01-28 |
@@ -256,6 +257,7 @@
 | [SnOWfLAkE](https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [KIDNAP ME PLS](https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs) | 2:42 | 2022-10-28 |  |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-31 |  |
 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 | 2023-01-31 |  |
+| [SoloSolo](https://open.spotify.com/track/531qu9jNWEe6HQ0MdCgnir) | [Spacehippiez](https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh) | [SoloSolo](https://open.spotify.com/album/4stvuFXsmromH5azNgFZAy) | 2:13 | 2023-05-02 |  |
 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 | 2022-07-15 |  |
 | [Spaccotutto](https://open.spotify.com/track/7Dy78PT6RTpAgklGB3sjmI) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy) | [Spaccotutto](https://open.spotify.com/album/6B7NJoVQrWdSdiyKfgaCNm) | 2:54 | 2022-05-06 | 2022-07-29 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-11-13 |

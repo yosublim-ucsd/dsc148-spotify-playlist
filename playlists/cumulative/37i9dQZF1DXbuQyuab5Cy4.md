@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-107 songs - 6 hr 27 min
+108 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,8 +111,9 @@
 | [Welcome to the Zombie Disco](https://open.spotify.com/track/3sWYJawOFRDom4ghfmmdgK) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Trick or Treat](https://open.spotify.com/album/26Fb4hs1Hadb6XXkH5bzYj) | 4:54 | 2021-10-28 |  |
 | [Wicked Witch](https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [String Theory](https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121) | 3:12 | 2021-10-28 | 2022-07-29 |
 | [Wicked Witch \- Original Mix](https://open.spotify.com/track/3rolMdFNBd85KXMawmAazE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [String Theory EP](https://open.spotify.com/album/0LN2Wji8Ln7g2daCcHkeaI) | 3:12 | 2021-10-28 |  |
+| [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/0oIuyHFFWzaST9UpKGDqPD) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Neon Jungle Remixes](https://open.spotify.com/album/5AI6x0gSgltmlev2f6yec7) | 3:26 | 2022-10-28 |  |
 | [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/0rfuJq6P2Albwy2dykCD75) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Winter Is Coming \(Rome in Silver Remix\)](https://open.spotify.com/album/2hQI3kzX2UdSF765BX5jvJ) | 3:26 | 2021-10-28 | 2022-08-13 |
-| [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/5HVt7dT8UY2BOlPZmOjpAO) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 3:26 | 2021-10-28 |  |
+| [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/5HVt7dT8UY2BOlPZmOjpAO) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 3:26 | 2021-10-28 | 2023-05-03 |
 | [Witch](https://open.spotify.com/track/3xLrmOAz2nCTlWLt2cutMu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [I Killed The Orchestra EP](https://open.spotify.com/album/6aWB16Ri58NuFoUZZQAr9v) | 3:32 | 2021-10-28 |  |
 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 | 2021-10-28 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Pii
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,721 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,792 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Kikoete](https://open.spotify.com/track/1GE3OCGfvfZEQJPpzaqGTm) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Kikoete](https://open.spotify.com/album/3UbvHiy7dzyDNS8XdNtfQj) | 2:57 |
 | 80 | [asA](https://open.spotify.com/track/3oP4Kjn3A9zXg3cilXFSRO) | [project \-asA\-](https://open.spotify.com/artist/5UjE2zSd2RjAVfFVfGlAGS) | [asA \(vol.1\)](https://open.spotify.com/album/0L5zE30Wzyv8hJvDujnoCJ) | 3:40 |
 
-Snapshot ID: `MCxiNzJlZWMxZjFjNDg1OWJlZDZjMDBmMDNiOTkxZTVmOGIzYTI4ZDU0`
+Snapshot ID: `MCxiMjZlYjEzNDAyODk2MGE1OTMzZjJlM2ZhMWNhZWMyYjZhODIyM2Y1`

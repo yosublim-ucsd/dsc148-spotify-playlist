@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-220 songs - 12 hr 10 min
+221 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 | 2022-08-20 |  |
 | [Another Song About Tequila](https://open.spotify.com/track/7pcT6U7j3J4b2q68gH7ilO) | [Tequila Mockingbrd](https://open.spotify.com/artist/1Fjwun3NqhzH0wuorC38SO), [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q), [Hudson Thames](https://open.spotify.com/artist/3AoNmoBJyEsBxlAjhrdxtw) | [Another Song About Tequila](https://open.spotify.com/album/0AS8yu5OBhKB5gikZU4vld) | 2:49 | 2021-09-03 | 2022-03-18 |
 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 | 2021-06-18 | 2022-04-09 |
-| [Bad Day To Be A Beer](https://open.spotify.com/track/1l2x572l1wPcxxiL2wVAO7) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Bad Day To Be A Beer](https://open.spotify.com/album/50JKRfkmUelooaPmg5p1v1) | 3:01 | 2022-08-20 |  |
+| [Bad Day To Be A Beer](https://open.spotify.com/track/1l2x572l1wPcxxiL2wVAO7) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Bad Day To Be A Beer](https://open.spotify.com/album/50JKRfkmUelooaPmg5p1v1) | 3:01 | 2022-08-20 | 2023-05-03 |
+| [Bad Day To Be A Beer](https://open.spotify.com/track/43LrMetIAvDF3pvqgEuiub) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Bad Day To Be A Beer](https://open.spotify.com/album/1vEGRtGVSiD0dZabC06f2l) | 3:01 | 2023-03-15 |  |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:47 | 2022-07-22 |  |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/6ab2Yl58S0KjL1smfrIk4D) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Summer Country](https://open.spotify.com/album/2OdHiKjB1za9UrIaarQWEi) | 2:47 | 2022-09-23 | 2022-11-14 |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/1enjzQYx2hiQY75SBG1ZRA) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/2qBgcC78cFhIr90ZxJyVmw) | 2:48 | 2021-06-18 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 55481,
+  "num_followers": 55490,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzQwODMwN2IwMGMyMzQ0ODBkNTk0YWIyYmQ4OGU0NDMwNGFjYjA2",
+  "snapshot_id": "MCwxNjJhYzgyNzJiN2Y4NTNiMmRjYmViNDdlNTI2YzYwZjlkZjBlNjI4",
   "tracks": [
     {
       "added_at": "2023-04-17 04:40:47",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-04-17 04:40:47",
       "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "You're Mine, You!",
+      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
+    },
+    {
+      "added_at": "2023-04-17 04:40:47",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2023-04-17 04:40:47",
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 198426,
-      "name": "You're Mine, You!",
-      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2023-04-17 04:40:47",
@@ -539,22 +555,6 @@
       "duration_ms": 330677,
       "name": "It Was You",
       "url": "https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP"
-    },
-    {
-      "added_at": "2023-04-17 04:40:47",
-      "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2023-04-17 04:40:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-17 04:40:47",
       "album": {
-        "name": "Bossa Lounge en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A"
-      },
-      "artists": [
-        {
-          "name": "Valeria",
-          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
-        }
-      ],
-      "duration_ms": 209492,
-      "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl"
-    },
-    {
-      "added_at": "2023-04-17 04:40:47",
-      "album": {
         "name": "I Fall in Love Too Easily",
         "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 235866,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
+    },
+    {
+      "added_at": "2023-04-17 04:40:47",
+      "album": {
+        "name": "Bossa Lounge en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A"
+      },
+      "artists": [
+        {
+          "name": "Valeria",
+          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
+        }
+      ],
+      "duration_ms": 209492,
+      "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl"
     },
     {
       "added_at": "2023-04-17 04:40:47",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-17 04:40:47",
       "album": {
-        "name": "Memories of You: A Tribute to Benny Goodman",
-        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 290653,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
-    },
-    {
-      "added_at": "2023-04-17 04:40:47",
-      "album": {
         "name": "Michael Bubl\u00e9",
         "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
@@ -811,22 +795,18 @@
     {
       "added_at": "2023-04-17 04:40:47",
       "album": {
-        "name": "All the Way (feat. Jordan Officer)",
-        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
+        "name": "Memories of You: A Tribute to Benny Goodman",
+        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
       },
       "artists": [
         {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        },
-        {
-          "name": "Jordan Officer",
-          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 187280,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/5y31Qh5BW8csQMtdQY6Tob"
+      "duration_ms": 290653,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2023-04-17 04:40:47",
@@ -851,6 +831,26 @@
       "duration_ms": 161426,
       "name": "Carta Ao Tom 74",
       "url": "https://open.spotify.com/track/3pemsJqLI0GXY9tlQDn8yS"
+    },
+    {
+      "added_at": "2023-04-17 04:40:47",
+      "album": {
+        "name": "All the Way (feat. Jordan Officer)",
+        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        },
+        {
+          "name": "Jordan Officer",
+          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/5y31Qh5BW8csQMtdQY6Tob"
     },
     {
       "added_at": "2023-04-17 04:40:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-17 04:40:47",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 357013,
-      "name": "What Are You Doing The Rest Of Your Life",
-      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
-    },
-    {
-      "added_at": "2023-04-17 04:40:47",
-      "album": {
         "name": "My Funny Valentine: The Chet Baker Songbook",
         "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-04-17 04:40:47",
       "album": {
-        "name": "In the Air",
-        "url": "https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k"
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
       "artists": [
         {
-          "name": "James Farrelli",
-          "url": "https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg"
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
         }
       ],
-      "duration_ms": 285400,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ"
+      "duration_ms": 357013,
+      "name": "What Are You Doing The Rest Of Your Life",
+      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
     },
     {
       "added_at": "2023-04-17 04:40:47",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2023-04-17 04:40:47",
       "album": {
+        "name": "In the Air",
+        "url": "https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k"
+      },
+      "artists": [
+        {
+          "name": "James Farrelli",
+          "url": "https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg"
+        }
+      ],
+      "duration_ms": 285400,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ"
+    },
+    {
+      "added_at": "2023-04-17 04:40:47",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-17 04:40:47",
       "album": {
-        "name": "Aqui, Ali, Em Qualquer Lugar",
-        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 158160,
-      "name": "She Loves You",
-      "url": "https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw"
-    },
-    {
-      "added_at": "2023-04-17 04:40:47",
-      "album": {
         "name": "Homefree",
         "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 361253,
       "name": "The Very Thought of You",
       "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
+    },
+    {
+      "added_at": "2023-04-17 04:40:47",
+      "album": {
+        "name": "Aqui, Ali, Em Qualquer Lugar",
+        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 158160,
+      "name": "She Loves You",
+      "url": "https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw"
     },
     {
       "added_at": "2023-04-17 04:40:47",

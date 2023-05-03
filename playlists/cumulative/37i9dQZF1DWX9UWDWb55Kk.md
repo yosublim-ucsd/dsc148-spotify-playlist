@@ -4,13 +4,14 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-360 songs - 23 hr 1 min
+361 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Happens\) Sometimes](https://open.spotify.com/track/4cWafPsRizm6woL5j4HNTD) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [\(It Happens\) Sometimes](https://open.spotify.com/album/23NV5QnY8URqUo0CxX5bfK) | 3:22 | 2021-09-01 |  |
 | [0594 Help](https://open.spotify.com/track/0PAzo1j8xHJTGGLulS9Tus) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [0594 Help](https://open.spotify.com/album/7grAKSZRAEyc9P7N0osrl8) | 3:46 | 2022-11-24 |  |
-| [05:00AM JUNGLE CHASE](https://open.spotify.com/track/2YG8An3j5Nj4jFaiU2Po7T) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [LOVE REVOLUTION](https://open.spotify.com/album/3Tq2KqnwNUJtlbEz26bcx5) | 3:35 | 2021-09-01 |  |
+| [05:00AM JUNGLE CHASE](https://open.spotify.com/track/24Khki7bV2D9aqHqJt1Wzt) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [Love Revolution](https://open.spotify.com/album/1TnfqP8TNRa2FtCNBXJHnl) | 3:35 | 2021-09-01 |  |
+| [05:00AM JUNGLE CHASE](https://open.spotify.com/track/2YG8An3j5Nj4jFaiU2Po7T) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [LOVE REVOLUTION](https://open.spotify.com/album/3Tq2KqnwNUJtlbEz26bcx5) | 3:35 | 2021-09-01 | 2023-05-03 |
 | [1982](https://open.spotify.com/track/7KwWxaYacPDQpbGoMGLE4L) | [Vimala](https://open.spotify.com/artist/6Jx5WE8A0eq0ByRqipIliK) | [1982 / Cost](https://open.spotify.com/album/4FjfRAg1jBGSoqe5AdXd40) | 4:00 | 2022-11-24 |  |
 | [1987](https://open.spotify.com/track/3MVNjBeejT21nOXQuLkkYN) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [2AM](https://open.spotify.com/album/1BV9NiFeRP50Dmt6JBqsWz) | 8:27 | 2022-11-29 |  |
 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 | 2022-11-24 |  |

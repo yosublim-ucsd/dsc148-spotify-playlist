@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 231387,
+  "num_followers": 231446,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzgyMDg4YzdhOTJkZTY4YmI1YjY3OGE3OWRmNjViZjlhOGYwNzcx",
+  "snapshot_id": "MCw4OTc0YTc1YTg2MjM2OWRlZjVmNjllYTZjNzg0YmZjMzNhMWEyYzY2",
   "tracks": [
     {
       "added_at": "2022-11-22 19:37:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL"
-      },
-      "artists": [
-        {
-          "name": "kyu",
-          "url": "https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW"
-        }
-      ],
-      "duration_ms": 133437,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "Dandelion's Lullaby",
         "url": "https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 123870,
       "name": "Dandelion's Lullaby",
       "url": "https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL"
+      },
+      "artists": [
+        {
+          "name": "kyu",
+          "url": "https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW"
+        }
+      ],
+      "duration_ms": 133437,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
+        "name": "Hyper Light Drifter",
+        "url": "https://open.spotify.com/album/0uYATlPpnvkSvsjxWg8ZB3"
+      },
+      "artists": [
+        {
+          "name": "Disasterpeace",
+          "url": "https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq"
+        }
+      ],
+      "duration_ms": 364273,
+      "name": "Panacea",
+      "url": "https://open.spotify.com/track/7KBoQnlle2lUerygFSk0iJ"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
         "name": "My Own World",
         "url": "https://open.spotify.com/album/5r8j34q0RT3nYnZzd01Iz3"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 115500,
       "name": "My Own World",
       "url": "https://open.spotify.com/track/12pqAvuELTFoNj8kQ6vKDH"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
-        "name": "Hyper Light Drifter",
-        "url": "https://open.spotify.com/album/0uYATlPpnvkSvsjxWg8ZB3"
-      },
-      "artists": [
-        {
-          "name": "Disasterpeace",
-          "url": "https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq"
-        }
-      ],
-      "duration_ms": 364273,
-      "name": "Panacea",
-      "url": "https://open.spotify.com/track/7KBoQnlle2lUerygFSk0iJ"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Preferences",
-        "url": "https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA"
-      },
-      "artists": [
-        {
-          "name": "Blue Noodles",
-          "url": "https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq"
-        }
-      ],
-      "duration_ms": 139767,
-      "name": "Preferences",
-      "url": "https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "Redwood Colonnade",
         "url": "https://open.spotify.com/album/4Lbcu9kjXEMs3jPpovk9mL"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 144033,
       "name": "tears",
       "url": "https://open.spotify.com/track/0lR6qQ72JIxSm2c1NWIyHt"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Preferences",
+        "url": "https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA"
+      },
+      "artists": [
+        {
+          "name": "Blue Noodles",
+          "url": "https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq"
+        }
+      ],
+      "duration_ms": 139767,
+      "name": "Preferences",
+      "url": "https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -839,26 +839,22 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "playa",
-        "url": "https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on"
+        "name": "heart cocktail",
+        "url": "https://open.spotify.com/album/53XOdPgOyVUx1HDvwzb1Uz"
       },
       "artists": [
         {
-          "name": "ev\u00e4n",
-          "url": "https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G"
+          "name": "deadman \u6b7b\u4eba",
+          "url": "https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9"
         },
         {
-          "name": "Electricsheep42",
-          "url": "https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0"
-        },
-        {
-          "name": "Linearwave",
-          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
+          "name": "Alice333",
+          "url": "https://open.spotify.com/artist/4RleTopZn6FPgixOm9Xkl3"
         }
       ],
-      "duration_ms": 116061,
-      "name": "playa",
-      "url": "https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8"
+      "duration_ms": 176202,
+      "name": "heart cocktail",
+      "url": "https://open.spotify.com/track/6cer5UGwSk3DT6774RxEXT"
     }
   ],
   "unique_name": "Chill Gaming",

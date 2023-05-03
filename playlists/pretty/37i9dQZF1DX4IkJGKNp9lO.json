@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 28251,
+  "num_followers": 28259,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODFhZDJhMDc1MTE2ZDRhMzdiYjk5ODEzZGUzZWJhMmE1ZmYyZmQw",
+  "snapshot_id": "MCwxM2IwODAwMjc0Y2RkOTI4ZWUzMDRkMDRhNTE0MThkZGNkNjZlNmJh",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Noppriga Tights Och Moonboots",
-        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
-      },
-      "artists": [
-        {
-          "name": "R\u00e4serbajs",
-          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
-        }
-      ],
-      "duration_ms": 144266,
-      "name": "Fina Flickor",
-      "url": "https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Det \u00e4r ni som e dom konstiga, det \u00e4r jag som e normal",
         "url": "https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 193253,
       "name": "En vacker d\u00f6d stad",
       "url": "https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Noppriga Tights Och Moonboots",
+        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4serbajs",
+          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "Fina Flickor",
+      "url": "https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY"
-      },
-      "artists": [
-        {
-          "name": "Barbaras Grannar",
-          "url": "https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u"
-        }
-      ],
-      "duration_ms": 251353,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
         "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 196840,
       "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
       "url": "https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY"
+      },
+      "artists": [
+        {
+          "name": "Barbaras Grannar",
+          "url": "https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u"
+        }
+      ],
+      "duration_ms": 251353,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Pengarna eller livet",
-        "url": "https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Leva loppan",
-      "url": "https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Ebba Gr\u00f6n 1978 - 1982",
         "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 177426,
       "name": "Mamma pappa barn",
       "url": "https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Pengarna eller livet",
+        "url": "https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Leva loppan",
+      "url": "https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -831,22 +831,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "F\u00f6r Sverige",
-        "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
+        "name": "Finito",
+        "url": "https://open.spotify.com/album/2SlVOhQ6AwhzB2fDOTrl4f"
       },
       "artists": [
         {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        },
-        {
-          "name": "Loke Nyberg",
-          "url": "https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA"
+          "name": "Radioaktiva R\u00e4ker",
+          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Hela hatet stormar",
-      "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
+      "duration_ms": 172133,
+      "name": "Bakom Spegeln",
+      "url": "https://open.spotify.com/track/6TYwqGXwwgBbkocgdvJvzL"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -863,6 +859,26 @@
       "duration_ms": 180573,
       "name": "Kom och dansa lite",
       "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "F\u00f6r Sverige",
+        "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        },
+        {
+          "name": "Loke Nyberg",
+          "url": "https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Hela hatet stormar",
+      "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Finito",
-        "url": "https://open.spotify.com/album/2SlVOhQ6AwhzB2fDOTrl4f"
-      },
-      "artists": [
-        {
-          "name": "Radioaktiva R\u00e4ker",
-          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Bakom Spegeln",
-      "url": "https://open.spotify.com/track/6TYwqGXwwgBbkocgdvJvzL"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "I All Hast",
         "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
       },
@@ -979,6 +979,54 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Sanningens Morgon",
+        "url": "https://open.spotify.com/album/1B6iEAikOQLI4PmePPzL9A"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6ttgrottorna",
+          "url": "https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "\u00c4lska Mig",
+      "url": "https://open.spotify.com/track/6t7INXbHQUZiubnZ232MoE"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Krymplings",
+        "url": "https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj"
+      },
+      "artists": [
+        {
+          "name": "Krymplings",
+          "url": "https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "Dunken",
+      "url": "https://open.spotify.com/track/7InzmgtRkwsheHlrUz0VLK"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Feber",
+        "url": "https://open.spotify.com/album/0zgmxxpsQDiLBcWLKTZMld"
+      },
+      "artists": [
+        {
+          "name": "Coca Carola",
+          "url": "https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Jag G\u00e5r Upp Och H\u00e5ller K\u00e4ften",
+      "url": "https://open.spotify.com/track/0aozr0Hc6LefOhDj818RDI"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Crash Nomada",
         "url": "https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG"
       },
@@ -1007,58 +1055,6 @@
       "duration_ms": 243680,
       "name": "Meningsl\u00f6sa M\u00e5ndag",
       "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Urs\u00e4kta r\u00f6ran - vi river allt",
-        "url": "https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW"
-      },
-      "artists": [
-        {
-          "name": "Psykbryt",
-          "url": "https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e"
-        }
-      ],
-      "duration_ms": 156656,
-      "name": "Masspsykos",
-      "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Grabbarna p\u00e5 Stan",
-        "url": "https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D"
-      },
-      "artists": [
-        {
-          "name": "Danny Cooltmoore",
-          "url": "https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF"
-        },
-        {
-          "name": "Grabbarna p\u00e5 Stan",
-          "url": "https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Grabbarna p\u00e5 stan",
-      "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
-      },
-      "artists": [
-        {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
-        }
-      ],
-      "duration_ms": 136068,
-      "name": "Martin I Skitlandet",
-      "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
     }
   ],
   "unique_name": "Svensk Punk",

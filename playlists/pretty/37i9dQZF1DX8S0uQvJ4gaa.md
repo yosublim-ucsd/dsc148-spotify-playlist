@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Colbie Caillat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,455 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,086,261 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [For My Dawgs \(feat\. Willie Jones & Blanco Brown\)](https://open.spotify.com/track/40jq22x0xSlHJ81KWZ1Hhm) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For My Dawgs \(feat\. Willie Jones & Blanco Brown\)](https://open.spotify.com/album/2gbGuVrSjTMmPZ30HpPAC7) | 3:11 |
 | 100 | [All Or Nothing](https://open.spotify.com/track/1CzZ7gS07Hmy7S0267w6VZ) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [All Or Nothing](https://open.spotify.com/album/37mY0fYspcp3GMzYeFwL1s) | 3:13 |
 
-Snapshot ID: `MCxkOTc2OTM0N2Y3NzJjNTIzMDlkNjAwNTE3NzkxNDRhM2QwMzk5MDNk`
+Snapshot ID: `MCw1Mjc0YWVlOTE3ZTBlY2I3NjA4YzRkZmMzYzFiZmQxMDVlMjMxNGEw`

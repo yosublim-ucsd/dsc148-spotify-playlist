@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > B bole toh biggest blockbusters, right here! Koi Shaq? 😎 Cover \- Jugjugg Jeeyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,628 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,647 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 49 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 |
 | 50 | [Tera Yaar Hoon Main](https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 4:24 |
 
-Snapshot ID: `MCwwNTZkZTZjMGRkNjdjY2RkOGNmNDRhOWU2YzZkYmZhMmM2Mzk1OTg3`
+Snapshot ID: `MCw5NjQzYjkxNzAzOGU3ODQ4MDg2ODczMmFlOGQxZTcyMjYwNDNmZmYz`

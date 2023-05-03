@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=5kcYUJToRKKCA6nuJ2XUuw\"> ODUMODUBLVCK </a>",
-  "num_followers": 116692,
+  "num_followers": 116763,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTVlMjUxNjZlYTZjOWU4NTIyZWMzZjFkMGIxZWEyMjI5YmY2OWNh",
+  "snapshot_id": "MCwyMjUxYzk2MjI0OTAxNmRmNzEyMDIzYzA1NTNmM2ViZDYxNDEzYmUx",
   "tracks": [
     {
       "added_at": "2023-04-27 23:00:00",
@@ -415,22 +415,30 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+        "name": "Oh Ma Linda",
+        "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
         },
         {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         }
       ],
-      "duration_ms": 208163,
-      "name": "Culture",
-      "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
+      "duration_ms": 176770,
+      "name": "Oh Ma Linda",
+      "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -491,30 +499,38 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Oh Ma Linda",
-        "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
       "artists": [
         {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 176770,
-      "name": "Oh Ma Linda",
-      "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
+      "duration_ms": 208163,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Kpos Lifestyle, Vol. 1",
+        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -535,22 +551,6 @@
       "duration_ms": 234480,
       "name": "Let Me Be Great [Feat. Ang\u00e9lique Kidjo]",
       "url": "https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Khuli Chana",
-          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
-        }
-      ],
-      "duration_ms": 175428,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Providence",
         "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 186923,
       "name": "Afro Jigga",
       "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Khuli Chana",
+          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+        }
+      ],
+      "duration_ms": 175428,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Headliner",
-        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 207057,
-      "name": "Headliner",
-      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "DEADLINES: FREE P2",
         "url": "https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 92347,
       "name": "BAD GUY",
       "url": "https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "duration_ms": 207057,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -835,6 +835,26 @@
       "duration_ms": 202886,
       "name": "Bigger (feat. Olamide & Nas)",
       "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
+      },
+      "artists": [
+        {
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 201897,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -931,26 +951,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Ye x4",
-        "url": "https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 165451,
-      "name": "Ye x4",
-      "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Ivyson Army Tour Mixtape",
         "url": "https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA"
       },
@@ -971,22 +971,22 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
+        "name": "Ye x4",
+        "url": "https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a"
       },
       "artists": [
         {
-          "name": "A-Q",
-          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         },
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 201897,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+      "duration_ms": 165451,
+      "name": "Ye x4",
+      "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Khuphuka",
-        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Khuphuka",
-      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
       },
@@ -1119,22 +1103,6 @@
       "duration_ms": 197538,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "Best I Ever Had",
-        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1155,6 +1123,38 @@
       "duration_ms": 122958,
       "name": "Next Up",
       "url": "https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Best I Ever Had",
+        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 158139,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Khuphuka",
+        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Khuphuka",
+      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1223,26 +1223,6 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "THE4MULA",
-        "url": "https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Mench",
-          "url": "https://open.spotify.com/artist/7zSLmuJsSUxBN1QS9Mz93L"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "werrkk",
-      "url": "https://open.spotify.com/track/7e9JRNhecXg0DMkjmk3Vlp"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1327,26 +1307,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Love is War",
-        "url": "https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq"
-      },
-      "artists": [
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 121750,
-      "name": "Lord Protect My Steppings",
-      "url": "https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
         "url": "https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR"
       },
@@ -1375,6 +1335,46 @@
       "duration_ms": 209148,
       "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
       "url": "https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Love is War",
+        "url": "https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 121750,
+      "name": "Lord Protect My Steppings",
+      "url": "https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "THE4MULA",
+        "url": "https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Mench",
+          "url": "https://open.spotify.com/artist/7zSLmuJsSUxBN1QS9Mz93L"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "werrkk",
+      "url": "https://open.spotify.com/track/7e9JRNhecXg0DMkjmk3Vlp"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Quarantunes",
-        "url": "https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV"
+        "name": "Animalistic",
+        "url": "https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds"
       },
       "artists": [
         {
-          "name": "Ycee",
-          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
         }
       ],
-      "duration_ms": 220434,
-      "name": "Midf (Money I Dey Find)",
-      "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
+      "duration_ms": 166812,
+      "name": "Animalistic",
+      "url": "https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np"
     }
   ],
   "unique_name": "No Wahala",

@@ -1068,6 +1068,24 @@
     {
       "album": {
         "name": "Gravity X",
+        "url": "https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV"
+      },
+      "artists": [
+        {
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449946,
+      "name": "Desert Cruiser",
+      "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
+    },
+    {
+      "album": {
+        "name": "Gravity X",
         "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
       },
       "artists": [
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 275066,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"

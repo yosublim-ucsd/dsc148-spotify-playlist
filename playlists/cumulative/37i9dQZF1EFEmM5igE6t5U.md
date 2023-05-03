@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pQsRlWDNRHgPuNgb8hmgF">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-181 songs - 11 hr 37 min
+182 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Nat King Cole \(Originals\)](https://open.spotify.com/track/1DO2DASHJl61O13YFMTZLf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:39 | 2023-03-09 |  |
 | [Nat King Cole \(Unlocked\) \(feat\. Lil Wayne\)](https://open.spotify.com/track/7c6RtH1KwiYh3GnUEDOpqb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:05 | 2023-03-09 |  |
 | [New Day](https://open.spotify.com/track/2swCZgyEIdacDpUNcSQMQI) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [New Day](https://open.spotify.com/album/78AmK9QXm2kenrr8G3MBD2) | 4:24 | 2023-03-09 |  |
+| [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/track/52HkYMgslCfQjNuQ8zjE4P) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/album/4Vppt72lQJuwdBaK9HCh5E) | 4:06 | 2023-05-02 |  |
 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 | 2023-03-09 | 2023-03-27 |
 | [No One](https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [No One \(Remixes\)](https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6) | 4:14 | 2023-03-26 |  |
 | [No One](https://open.spotify.com/track/1kyFtEEz6rhiJXDBX4K8cr) | [Kevin Flournoy](https://open.spotify.com/artist/7mO7OxtXwcBfXBpRpNGVz0), [Rebecca Jade](https://open.spotify.com/artist/2z0lncVHaaFPSYyrLQ9NKF) | [No One](https://open.spotify.com/album/2Vfq180GLglCAZCAHwMdDC) | 6:05 | 2023-03-09 |  |

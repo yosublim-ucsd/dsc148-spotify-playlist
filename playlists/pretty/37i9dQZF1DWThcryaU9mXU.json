@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 39541,
+  "num_followers": 39606,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTcyMTcyMmE0N2IwMWFhNDFjYjhmZjRhYjE1ZDdlZTE5Yjk3NDIz",
+  "snapshot_id": "MCwxNTkwODRhZGE2MzNhNzVjNjI3NmE3NTNhMzhmNjExYTY0ODgxZDU5",
   "tracks": [
     {
       "added_at": "2023-04-21 10:26:47",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 318840,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Good Luck Man",
-        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 428266,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 412893,
       "name": "Too Many Dirty Dishes - Remastered",
       "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Good Luck Man",
+        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 428266,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "All Blues",
-        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 339466,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton Band",
+          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "The Chicago Way",
-        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
-      },
-      "artists": [
-        {
-          "name": "Toronzo Cannon",
-          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "When Will You Tell Him About Me?",
-      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Live At The Regal",
         "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 140960,
       "name": "Sufferin' With The Blues",
       "url": "https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "The Chicago Way",
+        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "When Will You Tell Him About Me?",
+      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "I Need Love So Bad",
-      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 180384,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "I Need Love So Bad",
+      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "So Far so Good",
-        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
-      },
-      "artists": [
-        {
-          "name": "Peter Veteska & Blues Train",
-          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "Low Down Dirty Blues",
-      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "I'm A Mad Man",
         "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 359133,
       "name": "35 Long Years",
       "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "So Far so Good",
+        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
+      },
+      "artists": [
+        {
+          "name": "Peter Veteska & Blues Train",
+          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "Low Down Dirty Blues",
+      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Just The Big Three Trio",
-        "url": "https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED"
-      },
-      "artists": [
-        {
-          "name": "The Big Three Trio",
-          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Since My Baby Gone",
-      "url": "https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Love & Gravity",
         "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 228746,
       "name": "Love & Gravity",
       "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Just The Big Three Trio",
+        "url": "https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED"
+      },
+      "artists": [
+        {
+          "name": "The Big Three Trio",
+          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Since My Baby Gone",
+      "url": "https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Motel Mississippi",
-        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Motel Mississippi",
+        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
     },
     {
       "added_at": "2023-04-21 10:26:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,817 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,998 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 88 | [Between Me & You](https://open.spotify.com/track/4xwRtK6tfMp4yZwcDvY0gT) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Rule 3:36](https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH) | 4:10 |
 | 89 | [\#1 Stunna](https://open.spotify.com/track/4ONUK5KjdBBNIyzEVCMPOe) | [Big Tymers](https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Cash Money Records Platinum Hits \(Vol\. 1\)](https://open.spotify.com/album/4By1wfgOxWYviXNnjMngHi) | 4:43 |
 | 90 | [Indian Flute \(feat\. Sebastian & Raje Shwari\)](https://open.spotify.com/track/2Y28AeUQPTx6UqWJImdPTf) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/1PqyGzj6IhtEQSyn4IowKw), [Sebastian](https://open.spotify.com/artist/6XVMtRHN03nQXr3dshNGsf), [Rajé Shwari](https://open.spotify.com/artist/5NDCWHHPCWPJi27puQSJpL) | [Under Construction, Part II](https://open.spotify.com/album/0jfrooQp2CEzzX0kwwcnM9) | 3:21 |
-| 91 | [Oh Boy](https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 3:24 |
+| 91 | [Oh Boy](https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:24 |
 | 92 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 |
 | 93 | [Still Fly](https://open.spotify.com/track/563vSy3HB5NHxel1VGQCW6) | [Big Tymers](https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR) | [Hood Rich](https://open.spotify.com/album/3qcWuKB3pGWcB07FWksnWr) | 5:35 |
 | 94 | [Never Scared \(feat\. Killer Mike & T.I.\) \- Club Mix](https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC) | [Bone Crusher](https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [AttenCHUN!](https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi) | 5:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 99 | [You Owe Me \(feat\. Ginuwine\)](https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Nastradamus](https://open.spotify.com/album/0yv3K62ndWgrZ0bbAEMzj5) | 4:47 |
 | 100 | [React \(feat\. Redman\)](https://open.spotify.com/track/4psCG36I4hy1h3qgG6o03m) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [React](https://open.spotify.com/album/0dIb0kj24rJGq7NWr9G6Zj) | 3:37 |
 
-Snapshot ID: `MCxmZDQ3OWVkMDk1YzdmZWZlMWZmZTA2ZDY4NDllMWE0NzViNDgyZTVl`
+Snapshot ID: `MCxiZjRhMmJmM2E5NjUyYTcxYjM2Nzg3OTFiMjMzMDIzYWViNWFiNTUw`

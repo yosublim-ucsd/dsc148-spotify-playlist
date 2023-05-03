@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,906 likes - 340 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,585 likes - 340 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -349,4 +349,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 339 | [glass on rain](https://open.spotify.com/track/2lCqEGGvby2mwEhl06HSjX) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [glass on rain](https://open.spotify.com/album/0RVXB95fOx5ZgbnfKEJTXd) | 1:50 |
 | 340 | [hopscotch](https://open.spotify.com/track/2B1dl95kTHNdwyZkaZsVFX) | [ratio 11](https://open.spotify.com/artist/0ecn09hphRWavIB0uGYNxl) | [hopscotch](https://open.spotify.com/album/3HQQ8v9tvLUtiuACaGUBS5) | 2:30 |
 
-Snapshot ID: `MCw3OTY2ZTE2MGE5MjNkNjNmOTZjZTA2ZjM2ODZkNGJiYWQ3MGZhZWM5`
+Snapshot ID: `MCwzMDMzZGNjOWYzY2EwMjI3ZTdlNzRjOGUyNzRhODM0MTQ1N2Q3ODc1`

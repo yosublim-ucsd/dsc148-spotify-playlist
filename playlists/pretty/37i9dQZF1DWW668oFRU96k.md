@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: R3HAB x INNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,783 likes - 86 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,803 likes - 86 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 37 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
 | 38 | [Can’t Forget You \(feat\. James Blunt\)](https://open.spotify.com/track/7amfTemBf8YlQr96FsOzgj) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Can’t Forget You \(feat\. James Blunt\)](https://open.spotify.com/album/4rSNyCFSf1b7EQjTD9kLiA) | 2:29 |
 | 39 | [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 |
-| 40 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
+| 40 | [Baby Don't Hurt Me \(feat\. Coi Leray\)](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 41 | [Yi Er San Si](https://open.spotify.com/track/3ZyjHVaTC6BAGMnaFAz7OD) | [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T) | [Yi Er San Si](https://open.spotify.com/album/6yfzkmIQjpXw6uYx8QHB6v) | 3:28 |
 | 42 | [Never Let You Down](https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Never Let You Down](https://open.spotify.com/album/6fQJLkZUzXXynBgMXKoA8n) | 3:13 |
 | 43 | [Hold On](https://open.spotify.com/track/5gSsEgOMT5yb7EkcK3szup) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Hold On](https://open.spotify.com/album/4RaukH9AWEZgYPpNNMFeRc) | 2:54 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 85 | [Daily Treasure Hunt](https://open.spotify.com/track/5Jge72ivXnRfDg08XO8Vve) | [Softable](https://open.spotify.com/artist/4fJY3cnLPbA2FvPrZqbvcS), [Moon Jelly](https://open.spotify.com/artist/3GJmCA9g41Xb2fwnfK6Oc1) | [Daily Treasure Hunt](https://open.spotify.com/album/1htubbNqbRcQS4zlIMWP97) | 4:36 |
 | 86 | [nudis](https://open.spotify.com/track/6nPWtU2DiWOyuqCB2WGtgB) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [nudis](https://open.spotify.com/album/3vQyTGxevul9xkDz3MNrIt) | 2:50 |
 
-Snapshot ID: `MCwwY2VmZGUwMmUzNzhkODUwYzUzMWU0YTdkY2RmNzYxODZkYzk1ODg3`
+Snapshot ID: `MCw5OTJmOGQ3NTQ3NGRlMGRhMTVmMmFlNmQxZTdhZDk4NDY1MGM1MWEx`

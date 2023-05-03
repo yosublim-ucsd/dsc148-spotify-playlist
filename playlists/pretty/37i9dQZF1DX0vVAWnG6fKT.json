@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 147248,
+  "num_followers": 147612,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjBiNDZiZGYyMzA0NGM1NmQxMTIwYmY5MGI0MTAxYTcxODZkYmVh",
+  "snapshot_id": "MCwyNjg5Y2I4YjE0Y2Y3YjU5MTkyMmM4MjdkMjY5ZWVkOTZjM2U4MWI2",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Hank Snow",
         "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
       "artists": [
         {
-          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
-          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 140280,
-      "name": "Ida Red",
-      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
+      "duration_ms": 148733,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -527,6 +511,22 @@
       "duration_ms": 168160,
       "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
       "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+        }
+      ],
+      "duration_ms": 140280,
+      "name": "Ida Red",
+      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Rhythm & Booze",
-        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
-      },
-      "artists": [
-        {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "Beer Drinking Blues",
-      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 135933,
       "name": "Divorce Me C.O.D.",
       "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Rhythm & Booze",
+        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
+      },
+      "artists": [
+        {
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+        }
+      ],
+      "duration_ms": 164506,
+      "name": "Beer Drinking Blues",
+      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
-        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
       },
       "artists": [
         {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Invisible Stripes",
-      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
+      "duration_ms": 174053,
+      "name": "My Poncho Pony",
+      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Presenting Patsy Montana",
-        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
+        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
       },
       "artists": [
         {
-          "name": "Patsy Montana",
-          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
         }
       ],
-      "duration_ms": 174053,
-      "name": "My Poncho Pony",
-      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
+      "duration_ms": 140426,
+      "name": "Invisible Stripes",
+      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
     },
     {
       "added_at": "2023-01-02 21:50:32",

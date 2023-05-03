@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 237737,
       "name": "Atmosf\u00e9rica",
       "url": "https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz"
@@ -900,6 +900,24 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
+    },
+    {
+      "album": {
+        "name": "dolio",
+        "url": "https://open.spotify.com/album/6ZxZsbhtPNX9ZXg0HcqFgS"
+      },
+      "artists": [
+        {
+          "name": "Rafa",
+          "url": "https://open.spotify.com/artist/1lR1G0ROsMGhaJ9wBQqwsh"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "dolio",
+      "url": "https://open.spotify.com/track/31ozev5Kvj9aryUULvVeIB"
     },
     {
       "album": {

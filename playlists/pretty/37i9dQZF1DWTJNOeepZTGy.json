@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 252976,
+  "num_followers": 253010,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjA2NTRkODExNGE0MzE3MjdjNWU4MzA0MDkzMGM0M2RiN2FjMzAw",
+  "snapshot_id": "MCw5NWY1MTA4Yzc5MjdjZjhkMmU5NmRhYzg5YmE3MjY0YTYxMGY5MjBk",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "The Wild Card",
-        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 257013,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "Instant Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 323986,
       "name": "If This World Were Mine (with Luther Vandross)",
       "url": "https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "The Wild Card",
+        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 257013,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "True to Myself",
-        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN"
       },
       "artists": [
         {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+          "name": "Chrisette Michele",
+          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
         }
       ],
-      "duration_ms": 286973,
-      "name": "Let's Stay Together - Midnight Mix",
-      "url": "https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH"
+      "duration_ms": 220826,
+      "name": "All I Ever Think About",
+      "url": "https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN"
+        "name": "True to Myself",
+        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
       "artists": [
         {
-          "name": "Chrisette Michele",
-          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
         }
       ],
-      "duration_ms": 220826,
-      "name": "All I Ever Think About",
-      "url": "https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi"
+      "duration_ms": 286973,
+      "name": "Let's Stay Together - Midnight Mix",
+      "url": "https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH"
     },
     {
       "added_at": "2022-05-24 13:35:26",

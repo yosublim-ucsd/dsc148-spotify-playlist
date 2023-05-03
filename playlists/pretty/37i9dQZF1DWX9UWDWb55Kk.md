@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,301 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,408 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 93 | [Kith](https://open.spotify.com/track/7aHdqt74mSDldMC6pbQcNv) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [Colt](https://open.spotify.com/album/29JeAsTyeysxFx6v21v8N8) | 5:36 |
 | 94 | [More](https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Elena Pitoulis](https://open.spotify.com/artist/0Zw91yH74OemLqD4rHn96K) | [More](https://open.spotify.com/album/7DAyAlObwl5f8mcrqFCeWm) | 3:36 |
 | 95 | [Who We Are](https://open.spotify.com/track/56cqmGid7J5wMyfXJzOEOd) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Spectrum of Love](https://open.spotify.com/album/50rgN4NAnnRqFzl7TTtnQv) | 2:55 |
-| 96 | [05:00AM JUNGLE CHASE](https://open.spotify.com/track/2YG8An3j5Nj4jFaiU2Po7T) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [LOVE REVOLUTION](https://open.spotify.com/album/3Tq2KqnwNUJtlbEz26bcx5) | 3:35 |
+| 96 | [05:00AM JUNGLE CHASE](https://open.spotify.com/track/24Khki7bV2D9aqHqJt1Wzt) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [Love Revolution](https://open.spotify.com/album/1TnfqP8TNRa2FtCNBXJHnl) | 3:35 |
 | 97 | [Daylight](https://open.spotify.com/track/79Ei5D8itIHqbATIYWoQmD) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [darkDark](https://open.spotify.com/artist/11GGe7fWhCxU6C8iWoX34E) | [Daylight \(feat\. DarkDark\)](https://open.spotify.com/album/6FS2mwrcBk3fNGyrQBHY73) | 3:35 |
 | 98 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 |
 | 99 | [Vapor](https://open.spotify.com/track/6tn3fIfyGXs1CZFv9zPdc8) | [Da Octopusss](https://open.spotify.com/artist/5ZVaaZrPK9OKNjH3D6SnDC) | [The Rise \- EP](https://open.spotify.com/album/2BQcvFYf6lfHTLTUTHxe3N) | 3:54 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxiM2E1NzA2M2I5YmY2Y2YwMDliZDkxYjBkYjRhNjUyNjY1OWRhYWJk`
+Snapshot ID: `MCwxNTVjODljYWJkMzE1MGY3NjI4MTYzZDRmNzYzYzgzODJjMDg3MzE0`

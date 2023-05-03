@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,367 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,456 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Fools Fall N Love \(feat.YoungBoy Never Broke Again\)](https://open.spotify.com/track/0SflkMqNJi87xQnbfOcZ36) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fools Fall N Love \(feat.YoungBoy Never Broke Again\)](https://open.spotify.com/album/0ltJlAUpxDZunfWQmFFrMp) | 3:22 |
 | 100 | [RED LIGHT](https://open.spotify.com/track/5BXG1rCIsVSCzTUkI01LM9) | [Neek Bucks](https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc) | [BLESSED TO THE MAX](https://open.spotify.com/album/6PZYnisiLnhBKxW7TxMauM) | 2:04 |
 
-Snapshot ID: `MCwzZmU2MTRhNzFlZGE4NDRmYmJkNmM2OTlhZTRjMDViMDNkZmFmNTRm`
+Snapshot ID: `MCxhNzFiZTY3MmJkYzYwYjJmZjNiMTgzMjNmNTY3MDljOTg0YmY0YTg1`

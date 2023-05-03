@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel?si=e3jjRqncRZ6se2uZ1rfzKA"> E.L</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,086 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,101 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 12 | [Chop Life](https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Chop Life](https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh) | 3:00 |
 | 13 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 |
 | 14 | [22](https://open.spotify.com/track/3N2JLPxI5vhf0exDEFEO7D) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [22](https://open.spotify.com/album/0lFUyfjC5cqcXgrpxrJXHZ) | 3:30 |
-| 15 | [Cinderella](https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Cityboy](https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw), [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [O’Kenneth](https://open.spotify.com/artist/2IlZ9ELZSszoF3eDvj0uKe) | [Cinderella](https://open.spotify.com/album/1XUuE6jXikxH60jgtQPLt1) | 3:52 |
+| 15 | [Cinderella](https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Cityboy](https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw), [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [O’Kenneth](https://open.spotify.com/artist/2IlZ9ELZSszoF3eDvj0uKe) | [Cinderella](https://open.spotify.com/album/1XUuE6jXikxH60jgtQPLt1) | 3:52 |
 | 16 | [Digits \- Remix](https://open.spotify.com/track/5Bnp61rdlcjT26aQ7fCBsG) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Digits \(Remix\)](https://open.spotify.com/album/1lAUxhieMI4j2gjhOAq1OT) | 3:26 |
 | 17 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 |
 | 18 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [First in Class](https://open.spotify.com/track/6NmwEiA27SB5k66nA2VBXp) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Paedae Drop a Flow](https://open.spotify.com/album/604se8iMB1MPJW9VGpSYkk) | 3:52 |
 | 80 | [Scorpio Flow](https://open.spotify.com/track/7DHnchdhSiTSPSfbO26qZb) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Scorpio Flow](https://open.spotify.com/album/6V67KpnN7CD192CcMMBRqz) | 2:43 |
 
-Snapshot ID: `MCwwMzI4ODBhMzU0ZGRmNmY4YjdhMzIyN2E1NTZjZmZiMTk2NjllOGU0`
+Snapshot ID: `MCxlYzk4NjU1ZDY5YzE4MjRlNGEwMDU1MDQ4YzI3NmY5NWI0NGFkZTM3`

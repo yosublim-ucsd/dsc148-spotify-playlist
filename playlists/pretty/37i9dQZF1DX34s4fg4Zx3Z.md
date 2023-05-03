@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Ronboogz; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,585 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,591 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Mây của trời phải để gió cuốn](https://open.spotify.com/track/37lTnoIEd3kPMal1WqICgq) | [Havan Trần](https://open.spotify.com/artist/7rrc53g4jINHsKxnisNniH) | [Mây của trời phải để gió cuốn](https://open.spotify.com/album/6poXW1dNN56g7QYHYxjBPL) | 4:03 |
 | 100 | [Deep Down](https://open.spotify.com/track/03kIWG1vlvODIlCZ2IKxOv) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa), [Gobby](https://open.spotify.com/artist/31IYMlu0SEzTN0lqhdOR5a), [Tony D.](https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK) | [Deep Down](https://open.spotify.com/album/50glZnNhveNXJsOgPg5HQp) | 5:15 |
 
-Snapshot ID: `MCxiNjBlODJhNDk4YzQ0MzNhNDE4NWU1NjU0ZGE2ZDM3MWU1ZWNlM2Vh`
+Snapshot ID: `MCwyNTliZjNhNjA0ZDk0NWEyYTk5MDczMmJkOWUxM2MzOTY0YzQ3ZWQ5`

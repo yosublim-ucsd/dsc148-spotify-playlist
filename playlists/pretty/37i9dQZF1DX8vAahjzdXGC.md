@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Anggi Marito, Mario G Klau
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,257 likes - 96 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,274 likes - 96 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 74 | [Harmony](https://open.spotify.com/track/7kAaFc4e9S2EmyKqzw2aXB) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 1st Repackage Album ′HARMONY′](https://open.spotify.com/album/6fSKnBLop9Uf9E2pJTYTdf) | 3:30 |
 | 75 | [Atmosphere](https://open.spotify.com/track/5RLXorPT049PXrZhVUS7RK) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Atmosphere](https://open.spotify.com/album/03fvTmdZAQc5UO9ddnLf82) | 3:14 |
 | 76 | [everland](https://open.spotify.com/track/1oiNwd37s9QV4uEuGSidUw) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB), [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [everland](https://open.spotify.com/album/0uGosuhf5YYCh3TFvLWgRb) | 3:12 |
-| 77 | [4Runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4Runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 |
+| 77 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 |
 | 78 | [GOODSEX](https://open.spotify.com/track/6zRlpxpNBRIqqDb6HqRbhS) | [Kid Culture](https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU) | [GOODSEX](https://open.spotify.com/album/7vy0aVfHqIRjtbTwk93z7d) | 2:44 |
 | 79 | [k](https://open.spotify.com/track/5WtdLOSLk1tuAifMaqQjX7) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [k](https://open.spotify.com/album/2IoAmQn8rBf4YNpGyJarxM) | 2:46 |
 | 80 | [Push It Down](https://open.spotify.com/track/77IcomUbuyMqn52R5CbhrM) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Push It Down](https://open.spotify.com/album/05lq41261H9CLH9viIgTUG) | 2:57 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 95 | [Kongo Rikishi Statues](https://open.spotify.com/track/5riTEMLGYZl1NAyJ6VDNTz) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [RABBIT STAR ★](https://open.spotify.com/album/2BRgQmmR9jovRrDgkZbtDx) | 3:28 |
 | 96 | [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 |
 
-Snapshot ID: `MCxkYjczNjdkMGZiZWI3OTc4ODgzYTFkMzI2Yzk3OTIwZTliNWU0OTBj`
+Snapshot ID: `MCw5NWRlMTdhZDdjZmI1ZDIwZjE5NWM2Yjc4YzA4NjZkODIxMTJhM2M0`

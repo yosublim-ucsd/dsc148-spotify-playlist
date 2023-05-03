@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 263280,
       "name": "(En) El S\u00e9ptimo D\u00eda - Remasterizado 2007",
       "url": "https://open.spotify.com/track/4xVZmLJtBTedcXbDB3qYdX"
@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "Costumbres Argentinas",
+        "url": "https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185486,
+      "name": "Costumbres Argentinas",
+      "url": "https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ"
+    },
+    {
+      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
@@ -1252,7 +1274,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 267440,
       "name": "En Redondel",
       "url": "https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K"
@@ -1314,7 +1336,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 213681,
       "name": "Encuentro Con un \u00c1ngel Amateur - En Vivo",
       "url": "https://open.spotify.com/track/0tyUt9J9teuyBsuZqaeKWh"

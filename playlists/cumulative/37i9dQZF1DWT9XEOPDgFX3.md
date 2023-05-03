@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Jana Horn
 
-328 songs - 20 hr 41 min
+329 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [My Day \(feat\. Alenni\) \(Cordova Session\)](https://open.spotify.com/track/1zxHV6rvRYw8TOO7DequN7) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q), [Alenni](https://open.spotify.com/artist/4H9dYNlHz7Qz20rAh4UscB) | [My Day / What the Hell is Going On? \(Cordova Sessions\)](https://open.spotify.com/album/2v4porMNwSQodSEYmiopZE) | 3:06 | 2022-04-13 | 2022-07-29 |
 | [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 | 2022-04-13 | 2022-11-13 |
 | [Nature's Way](https://open.spotify.com/track/4r05BDLjV65C9vWTWGspVf) | [Johanna Samuels](https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa) | [Excelsior!](https://open.spotify.com/album/73WPvTgw83Mcwy05plFvTs) | 3:26 | 2022-01-21 | 2022-07-27 |
-| [needy](https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB) | 3:52 | 2022-04-29 |  |
+| [needy](https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB) | 3:52 | 2022-04-29 | 2023-05-03 |
 | [needy](https://open.spotify.com/track/7sGF4Lmw4ON0NGpXi947zR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/25ybQpE54EavBau3PajDTj) | 3:52 | 2022-01-21 | 2022-07-29 |
 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 | 2023-04-14 |  |
 | [No Summer](https://open.spotify.com/track/3DeRxZx9NeymcEKzDqY79r) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [No Summer](https://open.spotify.com/album/5lGTDW0jIkmQio3Kozn9fl) | 3:51 | 2022-04-13 | 2022-07-29 |
@@ -234,6 +234,7 @@
 | [Rare to Wake](https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 4:38 | 2022-04-29 | 2023-03-04 |
 | [Rare to Wake](https://open.spotify.com/track/77xwqK3T1aPiuyhUUYubVs) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Rare to Wake](https://open.spotify.com/album/3WG1IzGLsFRejWfefknJtu) | 4:38 | 2022-04-13 | 2022-07-29 |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/23W60m1igNcv0DUov523DO) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45) | 5:26 | 2022-04-13 | 2023-03-04 |
+| [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 5:26 | 2023-04-28 |  |
 | [Reliable Feelings](https://open.spotify.com/track/30LBzS7eykKBOpFbwlE4nX) | [Adeline Hotel](https://open.spotify.com/artist/3BOfygYBFwHTBFyCbsQVMv) | [Good Timing](https://open.spotify.com/album/095LNfAEI2EPWtL3Z3xVsX) | 2:46 | 2022-04-13 | 2022-07-28 |
 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 | 2022-04-29 |  |
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2022-04-13 | 2022-07-29 |

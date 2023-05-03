@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 114256,
+  "num_followers": 114538,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWY2YTQ2NzQ2MGY2NTdlN2ZjMzZjOWQ0MDAzOTg2MTAyYjlkYWQ5",
+  "snapshot_id": "MCxkMjZmMzc2ZmQxNmQxNTk4Y2Y2ZGRmYzg3M2Q3NzIxY2U0YjkyZDYw",
   "tracks": [
     {
       "added_at": "2023-04-19 09:49:41",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
         "name": "The Singles 83/87",
         "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
-        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
       },
       "artists": [
         {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+          "name": "Gino Soccio",
+          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
         }
       ],
-      "duration_ms": 359333,
-      "name": "Il veliero",
-      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
+      "duration_ms": 508120,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Outline",
-        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
+        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
+        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
       },
       "artists": [
         {
-          "name": "Gino Soccio",
-          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
         }
       ],
-      "duration_ms": 508120,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
+      "duration_ms": 359333,
+      "name": "Il veliero",
+      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
-        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
-      },
-      "artists": [
-        {
-          "name": "Freddy The Flying Dutchman",
-          "url": "https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb"
-        },
-        {
-          "name": "The Sistina Band",
-          "url": "https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Wojtila 5. Disco Dance",
-      "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
         "name": "Caf\u00e8",
         "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
+        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
+        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
+      },
+      "artists": [
+        {
+          "name": "Freddy The Flying Dutchman",
+          "url": "https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb"
+        },
+        {
+          "name": "The Sistina Band",
+          "url": "https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Wojtila 5. Disco Dance",
+      "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
         "name": "When I Let You Down / Boogie Tonight",
         "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 366076,
       "name": "When I Let You Down - Extended Mix",
       "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
+        "name": "Destiny (Original) - Single",
+        "url": "https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8"
+      },
+      "artists": [
+        {
+          "name": "Vivien Vee",
+          "url": "https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d"
+        }
+      ],
+      "duration_ms": 279746,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -1231,22 +1247,6 @@
       "duration_ms": 515999,
       "name": "I'm Going to Go - Instrumental Plant Mix",
       "url": "https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
-        "name": "Destiny (Original) - Single",
-        "url": "https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8"
-      },
-      "artists": [
-        {
-          "name": "Vivien Vee",
-          "url": "https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d"
-        }
-      ],
-      "duration_ms": 279746,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO"
     },
     {
       "added_at": "2023-04-19 09:49:41",

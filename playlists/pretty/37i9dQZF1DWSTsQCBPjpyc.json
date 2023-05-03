@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 22470,
+  "num_followers": 22502,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmI4ODljNWM5Y2I5MDg5ZjgyMDg2ZWNmNWJlMzAzMTJkOWIzOTgw",
+  "snapshot_id": "MCw1ODBkZDgzYTk1N2Q1ZTNlYmNhMzA3MTA1YTIxMTA3NWQ1NmFlODMy",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I'm a Bluesman",
-        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "What Are You Doin' to Me",
-      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 288360,
       "name": "Come To Mama",
       "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I'm a Bluesman",
+        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "What Are You Doin' to Me",
+      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 228667,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "That's What I Heard",
         "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 205586,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 228667,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "On Tap",
-        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Samuel Ashton",
+          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
         }
       ],
-      "duration_ms": 245826,
-      "name": "Watch Me Move",
-      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
+      "duration_ms": 199960,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -655,34 +655,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+        "name": "On Tap",
+        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
       },
       "artists": [
         {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 244623,
-      "name": "Same Ole Feeling",
-      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Witch Doctor",
-        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
-      },
-      "artists": [
-        {
-          "name": "Samuel Ashton",
-          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
+      "duration_ms": 245826,
+      "name": "Watch Me Move",
+      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -699,6 +683,22 @@
       "duration_ms": 225666,
       "name": "Meet Me in Chicago",
       "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 244623,
+      "name": "Same Ole Feeling",
+      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
     },
     {
       "added_at": "2020-12-01 05:01:00",

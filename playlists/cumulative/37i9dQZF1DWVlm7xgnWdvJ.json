@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "Love Songs: Part Two",
+        "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294211,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
+    },
+    {
+      "album": {
         "name": "Amore Profondo",
         "url": "https://open.spotify.com/album/6hSGThzzS1GW6N55CUBCw8"
       },
@@ -719,6 +737,28 @@
     },
     {
       "album": {
+        "name": "Gnawa EP",
+        "url": "https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG"
+      },
+      "artists": [
+        {
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+        },
+        {
+          "name": "The Atlas Collective",
+          "url": "https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "Gnawa (feat. The Atlas Collective)",
+      "url": "https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv"
+    },
+    {
+      "album": {
         "name": "GOOD TIMES (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
       },
@@ -1057,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "Love Love Love",
+        "url": "https://open.spotify.com/album/18Na0ZWzx7nIErz2rhjOwO"
+      },
+      "artists": [
+        {
+          "name": "Low Motion Disco",
+          "url": "https://open.spotify.com/artist/0jSIcdNjvPBgxYy7r9LCOw"
+        },
+        {
+          "name": "Soft Rocks",
+          "url": "https://open.spotify.com/artist/29Ord7DT8GltikFWvOytTa"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410466,
+      "name": "Love Love Love - Soft rocks remix",
+      "url": "https://open.spotify.com/track/7LAbTarTvsS21Q0aKNchuq"
+    },
+    {
+      "album": {
         "name": "Lovefool",
         "url": "https://open.spotify.com/album/0DeLusvmxOjBZqBjSU15yN"
       },
@@ -1244,6 +1306,24 @@
       "duration_ms": 312000,
       "name": "On the Rock - Synapson Remix",
       "url": "https://open.spotify.com/track/57CAYbMGp1yJEvGcKcsTqh"
+    },
+    {
+      "album": {
+        "name": "Only Everything",
+        "url": "https://open.spotify.com/album/0seqSi4nVkOXx8FBqAIJQJ"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387169,
+      "name": "Only Everything",
+      "url": "https://open.spotify.com/track/4J1giN8Rlt0YDpGDU4Vsjc"
     },
     {
       "album": {

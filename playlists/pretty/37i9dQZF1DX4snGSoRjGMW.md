@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,614 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,672 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,30 +43,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 33 | [Baby I Will](https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 4:29 |
 | 34 | [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 |
 | 35 | [Bone It Like You Own It](https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [Wanted](https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ) | 4:47 |
-| 36 | [Stronger Than You Need To Be](https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:05 |
-| 37 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 |
-| 38 | [Girl Your Best Friend Done Took Your Place](https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:55 |
+| 36 | [Girl Your Best Friend Done Took Your Place](https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:55 |
+| 37 | [Stronger Than You Need To Be](https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:05 |
+| 38 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 |
 | 39 | [Landslide](https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [Doin' The Funky Thing](https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v) | 5:13 |
 | 40 | [Bring Me Some Water](https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Royal Blue](https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ) | 5:21 |
 | 41 | [All The Way Down](https://open.spotify.com/track/353BumIgA33r4FzY84JCaF) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 4:02 |
 | 42 | [One Monkey Don't Stop No Show](https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [Blues Keep Knockin'](https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz) | 3:14 |
 | 43 | [Who's Still in Love](https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Bridge to a Legacy](https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H) | 3:09 |
-| 44 | [Whisper Away](https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 7:17 |
+| 44 | [Black Cat Roun' My Do'](https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM) | [Jackie Payne Steve Edmonson Band](https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3) | [Master of the Game](https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX) | 3:56 |
 | 45 | [Blues All Over You](https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [The Ghosts of Mississippi Meet the Gods of Africa](https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ) | 3:41 |
-| 46 | [Black Cat Roun' My Do'](https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM) | [Jackie Payne Steve Edmonson Band](https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3) | [Master of the Game](https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX) | 3:56 |
+| 46 | [Whisper Away](https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 7:17 |
 | 47 | [Betcha Didn't Know](https://open.spotify.com/track/4TZu49CcAiDfYiQqxGBOoR) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/5tAKD9toNUPBnDi7DJJ8c3) | 4:17 |
 | 48 | [Going To The Juke Joint](https://open.spotify.com/track/0sS0CzdobQFGPbMevoEdZx) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 5:25 |
 | 49 | [In Your Arms Again](https://open.spotify.com/track/669EMLj2E0nvm68Y95XBbr) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 5:08 |
 | 50 | [You're Only Good For One Thang Baby](https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 3:28 |
 | 51 | [Sweet Dynamite!](https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Talkin' About Chicago](https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj) | 4:31 |
-| 52 | [The Real Deal](https://open.spotify.com/track/71r6AKMlWO7PdAmywO5zoQ) | [Jackie Payne Steve Edmonson Band](https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3) | [Master of the Game](https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX) | 3:28 |
-| 53 | [On The Drift](https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 5:20 |
+| 52 | [On The Drift](https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 5:20 |
+| 53 | [The Real Deal](https://open.spotify.com/track/71r6AKMlWO7PdAmywO5zoQ) | [Jackie Payne Steve Edmonson Band](https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3) | [Master of the Game](https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX) | 3:28 |
 | 54 | [On The Surface](https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [I've Got My Own Hell To Raise](https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC) | 3:26 |
 | 55 | [Standing In The Wings](https://open.spotify.com/track/0GPkIcpZbx8c79jUA72UfG) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Sweet Dreams](https://open.spotify.com/album/3W8UBKrVDYpY9sXhDB7cDi) | 4:50 |
 | 56 | [The Streets Will Love You To Death](https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 3:55 |
-| 57 | [Chockin' Kind](https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk) | [Buddy Ace](https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK) | [Don't Hurt No More](https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F) | 3:27 |
-| 58 | [Giving My Love \(To the Other Women\)](https://open.spotify.com/track/63Jhy5sNIWPepLyM7E0N86) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 5:18 |
-| 59 | [Living](https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 6:29 |
+| 57 | [Giving My Love \(To the Other Women\)](https://open.spotify.com/track/63Jhy5sNIWPepLyM7E0N86) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 5:18 |
+| 58 | [Honey It's Your Fault](https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 5:32 |
+| 59 | [Chockin' Kind](https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk) | [Buddy Ace](https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK) | [Don't Hurt No More](https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F) | 3:27 |
 | 60 | [Hold On](https://open.spotify.com/track/6hvJliJvOMHiKSXjPyUoZf) | [Carl Weathersby](https://open.spotify.com/artist/2Qs4vDt8kbXB2sZUDisXPw) | [Hold On](https://open.spotify.com/album/0JBRVO8stjOO9JF4UnrWSv) | 4:24 |
 
-Snapshot ID: `MCxkYjJjN2Y1ZTNkOWJhNjA1ZTZjMDIzNWY4NzdkY2JhZWQ3YTNlMDQ1`
+Snapshot ID: `MCxkZGY5Y2FlOGJmMDE3ZTVjNmFiYWNmMTI2M2IxYWU1N2UwNTRlZDBk`

@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 56574,
+  "num_followers": 56609,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzM5NGIxZTY2YmRlOGQ1NjNiMmZhY2FjNzFlZjkyMDRjM2U2NTg2",
+  "snapshot_id": "MCxmOTNkY2E4NjVjMzZjZWY2NTVjNjdiMTdiY2U0YjM3NjkyN2JhZGRi",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
+      },
+      "artists": [
+        {
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Kryzysowa narzeczona",
+      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Ostatni (Rojst '97 | Netflix)",
         "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 219546,
       "name": "Ostatni (Rojst '97 | Netflix)",
       "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "Lady Pank",
-        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
-      },
-      "artists": [
-        {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Kryzysowa narzeczona",
-      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Miales Byc",
-      "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Z\u0142oto",
         "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 225666,
       "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "Miales Byc",
+      "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Zakryj (Deluxe)",
-        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
-      },
-      "artists": [
-        {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u0119skno Mi",
-      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Komponuj\u0105c siebie",
         "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 184514,
       "name": "Ksi\u0119\u017cniczka",
       "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Zakryj (Deluxe)",
+        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u0119skno Mi",
+      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Helena",
+        "url": "https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 231932,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Ludzie prosci",
         "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 186666,
       "name": "Boj\u0119 Si\u0119 Kocha\u0107",
       "url": "https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "Helena",
-        "url": "https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 231932,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
-      },
-      "artists": [
-        {
-          "name": "Perfect",
-          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Niewiele Ci Mog\u0119 Da\u0107",
-      "url": "https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Bu\u0142garskie centrum",
         "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 374093,
       "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
+      },
+      "artists": [
+        {
+          "name": "Perfect",
+          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Niewiele Ci Mog\u0119 Da\u0107",
+      "url": "https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ"
+      },
+      "artists": [
+        {
+          "name": "Sorry Boys",
+          "url": "https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU"
+        }
+      ],
+      "duration_ms": 239680,
+      "name": "Absolutnie, absolutnie",
+      "url": "https://open.spotify.com/track/1iB862flnPp3q65orvSfkK"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Prawda o nas",
         "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107",
-        "url": "https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ"
-      },
-      "artists": [
-        {
-          "name": "Sorry Boys",
-          "url": "https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU"
-        }
-      ],
-      "duration_ms": 239680,
-      "name": "Absolutnie, absolutnie",
-      "url": "https://open.spotify.com/track/1iB862flnPp3q65orvSfkK"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Wielki Odlot 2 - Najlepsze 80-te",
         "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 326706,
       "name": "Dmuchawce, Latawce, Wiatr",
       "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Poganie! Kochaj i Obra\u017caj",
+        "url": "https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3ze Europy",
+          "url": "https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l"
+        }
+      ],
+      "duration_ms": 369200,
+      "name": "Jedwab",
+      "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Poganie! Kochaj i Obra\u017caj",
-        "url": "https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L"
+        "name": "1984",
+        "url": "https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga"
       },
       "artists": [
         {
-          "name": "R\u00f3ze Europy",
-          "url": "https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l"
+          "name": "Pawe\u0142 Domaga\u0142a",
+          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
         }
       ],
-      "duration_ms": 369200,
-      "name": "Jedwab",
-      "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
+      "duration_ms": 205925,
+      "name": "Wystarcz\u0119 ja",
+      "url": "https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1203,22 +1219,6 @@
       "duration_ms": 205400,
       "name": "W Glowie",
       "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "1984",
-        "url": "https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga"
-      },
-      "artists": [
-        {
-          "name": "Pawe\u0142 Domaga\u0142a",
-          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
-        }
-      ],
-      "duration_ms": 205925,
-      "name": "Wystarcz\u0119 ja",
-      "url": "https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke"
     },
     {
       "added_at": "2023-04-03 09:53:55",

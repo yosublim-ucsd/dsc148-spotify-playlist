@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Groove to the rhythm of OPM's R&B tunes. Cover: KINDRED",
+  "description": "Groove to the rhythm of OPM's R&B tunes. Cover: Denise Julia",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 194043,
       "name": "3 am",
       "url": "https://open.spotify.com/track/23gFlhoLbhFSZ7mFa3vGLI"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 242230,
       "name": "Alam Mo Na",
       "url": "https://open.spotify.com/track/774A5MOLetP7l96uR0ZHZn"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 246276,
       "name": "Before You Leave My Heart",
       "url": "https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849"
@@ -216,6 +216,24 @@
       "duration_ms": 290875,
       "name": "BETTERMAN",
       "url": "https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq"
+    },
+    {
+      "album": {
+        "name": "bum 2 me",
+        "url": "https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "bum 2 me",
+      "url": "https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD"
     },
     {
       "album": {
@@ -612,7 +630,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 258496,
       "name": "Haven",
       "url": "https://open.spotify.com/track/3DROR9gNWqRicj73IQ2fpe"
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 121991,
       "name": "self talk",
       "url": "https://open.spotify.com/track/3h83G3DtJTNxYZrnvrEK2z"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 266328,
       "name": "Staying On My Phone Tonight",
       "url": "https://open.spotify.com/track/3Ok8zKZ039wgZkXzwagnmP"

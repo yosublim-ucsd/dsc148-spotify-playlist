@@ -722,7 +722,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 174286,
       "name": "An Th\u1ea7n",
       "url": "https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 256663,
       "name": "Ch\u1ebft Trong Em",
       "url": "https://open.spotify.com/track/1dUmmBh2nw8XzEI3au0uFs"
@@ -11550,7 +11550,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 200386,
       "name": "Super",
       "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
@@ -12388,7 +12388,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -13567,6 +13567,24 @@
     },
     {
       "album": {
+        "name": "C\u00e1i \u0110\u1ea7u Ti\u00ean",
+        "url": "https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5"
+      },
+      "artists": [
+        {
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127114,
+      "name": "Xin L\u1ed7i",
+      "url": "https://open.spotify.com/track/1K3CXUYKhLYN7koLW5WQjX"
+    },
+    {
+      "album": {
         "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
         "url": "https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8"
       },
@@ -14006,7 +14024,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 293112,
       "name": "\u00c2m Th\u1ea7m B\u00ean Em",
       "url": "https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P"

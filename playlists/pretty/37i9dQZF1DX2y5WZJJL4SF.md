@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y5WZJJL4SF.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,059 likes - 180 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,063 likes - 184 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,5 +188,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y5WZJJL4SF.md) - [plain]
 | 178 | [Süße Träume](https://open.spotify.com/track/0K6U4UeGHbYO2lgIvHeHkt) | [Beatrice Werner](https://open.spotify.com/artist/3RODO8LRNzu7ShXh3PMU3Z) | [Süße Träume](https://open.spotify.com/album/6XOMGeISXAGPrAN4BrvSqJ) | 1:35 |
 | 179 | [Idas sommarvisa](https://open.spotify.com/track/6EtjH6yR0XIHAY0PXRd65U) | [Josefine Wennman](https://open.spotify.com/artist/4Iz7MgZBYGsZzFr3gVamSc) | [Idas sommarvisa](https://open.spotify.com/album/6QTrbS5qBgNVXmfXdllD2O) | 2:29 |
 | 180 | [Being With You](https://open.spotify.com/track/64PUHLXvSJNiNIhKW1WzJ2) | [Eliza Adam](https://open.spotify.com/artist/3pvPDX0ZInj5bKXW5vLEms) | [Being With You](https://open.spotify.com/album/2Yvhmu2QKWQ7AWiO9jYH1S) | 1:37 |
+| 181 | [As You Fall Asleep](https://open.spotify.com/track/3e02zZNzCZ0i9WVMqhD0Xz) | [Kim Wayne](https://open.spotify.com/artist/61rwfAiRHfG3L9DEvzUQoW) | [As You Fall Asleep](https://open.spotify.com/album/3Wh3lssmmWfvlTC3xouIXP) | 1:28 |
+| 182 | [Morning Ditty](https://open.spotify.com/track/6PiwFv0GoSJbUeXF57YtJv) | [Lovell Caldwell](https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82) | [Morning Ditty](https://open.spotify.com/album/0SzAm5sUnmYn8IBh06Ku0L) | 1:37 |
+| 183 | [Song Of The Small Bear](https://open.spotify.com/track/40mHbIVXHZwZiUFomKa3aP) | [Jacob Radcliff](https://open.spotify.com/artist/48yYO2xrZxzM3xEjDujE0d) | [Song Of The Small Bear](https://open.spotify.com/album/7v3O7qxke2x91cxQDmUv8G) | 1:44 |
+| 184 | [Frances Flamingo](https://open.spotify.com/track/3qIALRjdK35omz1lCcMllw) | [Layla Malley](https://open.spotify.com/artist/2APHMT2p7Cp8GbJvaOfvk1) | [Frances Flamingo](https://open.spotify.com/album/5stM92omwSJQVBvf4jmOZN) | 1:31 |
 
-Snapshot ID: `MCxjZDY4MjQwOTc4YzU2OGZlN2IwZTA5Mzg3NDgxNjIyOTJkMzY1MzUx`
+Snapshot ID: `MCw3MjFmYThkM2Y1NGFjOGM3ZDhmOWYyMDk5NTU5NzY2YTI0NDIyMjM4`

@@ -1,12 +1,12 @@
 {
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
-  "num_followers": 380559,
+  "num_followers": 380693,
   "original_name": "Chilled Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWIyZDg0ODYxODIwODU3MDU0MzA1MzhkOTUxYjQ5YjMyNjEwMmFj",
+  "snapshot_id": "MCw2YTlhZTA5MjNmYThlYTc3YWE3YTk3NjUyYWYxNWIwZjM5OWU4NDUx",
   "tracks": [
     {
       "added_at": "2022-10-13 21:44:36",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-10-13 21:44:36",
       "album": {
-        "name": "Hope (LOCK-IN)",
-        "url": "https://open.spotify.com/album/7Gtf3fYDUAmgpj4X5Bw0xN"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        },
-        {
-          "name": "Lisa Tomlins",
-          "url": "https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR"
-        }
-      ],
-      "duration_ms": 542383,
-      "name": "Hope - LOCK-IN",
-      "url": "https://open.spotify.com/track/6j2DK9VA478EJySZ4oaxeb"
-    },
-    {
-      "added_at": "2022-10-13 21:44:36",
-      "album": {
         "name": "Reggae Gold 2019",
         "url": "https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 224535,
       "name": "Made To Fall In Love",
       "url": "https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq"
+    },
+    {
+      "added_at": "2022-10-13 21:44:36",
+      "album": {
+        "name": "Hope (LOCK-IN)",
+        "url": "https://open.spotify.com/album/7Gtf3fYDUAmgpj4X5Bw0xN"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "Lisa Tomlins",
+          "url": "https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR"
+        }
+      ],
+      "duration_ms": 542383,
+      "name": "Hope - LOCK-IN",
+      "url": "https://open.spotify.com/track/6j2DK9VA478EJySZ4oaxeb"
     },
     {
       "added_at": "2022-10-13 21:44:36",

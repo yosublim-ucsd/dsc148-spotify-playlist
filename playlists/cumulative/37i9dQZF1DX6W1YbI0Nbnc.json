@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u7d50\u96c6\u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: Mischa\u8449\u5de7\u7433)",
+  "description": "\u7d50\u96c6\u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: Kelly\u9673\u6167\u7433)",
   "name": "EQUAL Hong Kong",
   "tracks": [
     {
@@ -2605,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u7684\u89aa\u4eba",
+        "url": "https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a"
+      },
+      "artists": [
+        {
+          "name": "Kelly Chen",
+          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282021,
+      "name": "\u6211\u7684\u89aa\u4eba",
+      "url": "https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q"
+    },
+    {
+      "album": {
         "name": "\u570b\u8a9e\u60c5\u6b4c\u96c6",
         "url": "https://open.spotify.com/album/1t1Q05AtGJ7aOTjl9XerWx"
       },
@@ -2893,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Red \u65b0\u66f2+\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/0wTvTIchDQ7ueM5fwSEZ1x"
+      },
+      "artists": [
+        {
+          "name": "Kelly Chen",
+          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "\u6700\u4f73\u4f4d\u7f6e",
+      "url": "https://open.spotify.com/track/4KoTu0UehUC7mdps76IOtx"
+    },
+    {
+      "album": {
         "name": "\u6700\u96e3\u884c\u7684\u8def",
         "url": "https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ"
       },
@@ -2962,6 +2998,24 @@
       "duration_ms": 258987,
       "name": "\u6709\u6548\u627f\u8afe",
       "url": "https://open.spotify.com/track/2sUGlTZO6Ptq0gDHZixhti"
+    },
+    {
+      "album": {
+        "name": "Red \u65b0\u66f2+\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/0wTvTIchDQ7ueM5fwSEZ1x"
+      },
+      "artists": [
+        {
+          "name": "Kelly Chen",
+          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "\u6709\u798f\u6c23",
+      "url": "https://open.spotify.com/track/1tcSTCEHS6VV6FqkZgA9mV"
     },
     {
       "album": {
@@ -4100,6 +4154,24 @@
       "duration_ms": 206722,
       "name": "\u98a8\u7684\u5f62\u72c0",
       "url": "https://open.spotify.com/track/7iQdInUqIpVdatCooLZC3A"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u773c",
+        "url": "https://open.spotify.com/album/0qu729S3OKKYkC9srPLTSE"
+      },
+      "artists": [
+        {
+          "name": "Kelly Chen",
+          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "\u98a8\u773c",
+      "url": "https://open.spotify.com/track/3GI7zpUAj0cccSnzIgihR6"
     },
     {
       "album": {

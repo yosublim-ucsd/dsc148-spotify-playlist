@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 11614,
+  "num_followers": 11672,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjJjN2Y1ZTNkOWJhNjA1ZTZjMDIzNWY4NzdkY2JhZWQ3YTNlMDQ1",
+  "snapshot_id": "MCxkZGY5Y2FlOGJmMDE3ZTVjNmFiYWNmMTI2M2IxYWU1N2UwNTRlZDBk",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Eccentric Soul: The Saadia Label",
+        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Girl Your Best Friend Done Took Your Place",
+      "url": "https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Deep In The Heart",
         "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 282026,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Eccentric Soul: The Saadia Label",
-        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
-      },
-      "artists": [
-        {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Girl Your Best Friend Done Took Your Place",
-      "url": "https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hit That Thing",
-        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
+        "name": "Master of the Game",
+        "url": "https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX"
       },
       "artists": [
         {
-          "name": "Bobby Wayne",
-          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
+          "name": "Jackie Payne Steve Edmonson Band",
+          "url": "https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3"
         }
       ],
-      "duration_ms": 437360,
-      "name": "Whisper Away",
-      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
+      "duration_ms": 236146,
+      "name": "Black Cat Roun' My Do'",
+      "url": "https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Master of the Game",
-        "url": "https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX"
+        "name": "Hit That Thing",
+        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
       "artists": [
         {
-          "name": "Jackie Payne Steve Edmonson Band",
-          "url": "https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3"
+          "name": "Bobby Wayne",
+          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
         }
       ],
-      "duration_ms": 236146,
-      "name": "Black Cat Roun' My Do'",
-      "url": "https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM"
+      "duration_ms": 437360,
+      "name": "Whisper Away",
+      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Master of the Game",
-        "url": "https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX"
-      },
-      "artists": [
-        {
-          "name": "Jackie Payne Steve Edmonson Band",
-          "url": "https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "The Real Deal",
-      "url": "https://open.spotify.com/track/71r6AKMlWO7PdAmywO5zoQ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hit That Thing",
         "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 320666,
       "name": "On The Drift",
       "url": "https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Master of the Game",
+        "url": "https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX"
+      },
+      "artists": [
+        {
+          "name": "Jackie Payne Steve Edmonson Band",
+          "url": "https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "The Real Deal",
+      "url": "https://open.spotify.com/track/71r6AKMlWO7PdAmywO5zoQ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Don't Hurt No More",
-        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
-      },
-      "artists": [
-        {
-          "name": "Buddy Ace",
-          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Chockin' Kind",
-      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Today I Sing The Blues",
         "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
       },
@@ -943,18 +927,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Jump the Joint",
-        "url": "https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ"
+        "name": "People Love The Blues",
+        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
       },
       "artists": [
         {
-          "name": "Eugene Bridges",
-          "url": "https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR"
+          "name": "Sista Monica",
+          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
         }
       ],
-      "duration_ms": 389373,
-      "name": "Living",
-      "url": "https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu"
+      "duration_ms": 332826,
+      "name": "Honey It's Your Fault",
+      "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Don't Hurt No More",
+        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
+      },
+      "artists": [
+        {
+          "name": "Buddy Ace",
+          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Chockin' Kind",
+      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
     },
     {
       "added_at": "2020-12-01 05:01:00",

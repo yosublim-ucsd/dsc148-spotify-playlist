@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: NEONE the Wonderer Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,053 likes - 75 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,099 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Brown Study](https://open.spotify.com/track/3QnsWVTSUo20erLVx4L2sS) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Shoemaker](https://open.spotify.com/artist/51HB3L9TveHiqJkU9dNs6L) | [Brown Study](https://open.spotify.com/album/5UDarzJrpJkWJ5RqYDruDw) | 5:03 |
 | 75 | [Medina Montoya](https://open.spotify.com/track/4bJKcfWS69uxgQEkILEpdv) | [Juan Medina](https://open.spotify.com/artist/4SxeQk7Wi9CFotIgg0cxYO), [Juanma Montoya](https://open.spotify.com/artist/2rOyqzZaAF6mzygluomSl1), [Gal Maestro](https://open.spotify.com/artist/6GcfPR8Nsb3MAESECRCP3f) | [Medina Montoya](https://open.spotify.com/album/0NJeZntEuORYlk7napRSXN) | 4:29 |
 
-Snapshot ID: `MCxhYzZhZWZmYmZmMzRkZDc1OWU4YzY0MzM5YTRkNDFjZTRkMjY5M2Q4`
+Snapshot ID: `MCw3NzU4MGRjYTM0MjAxM2MzYzg1NmZhY2YwM2NiMDk2OGQxZThjNGMx`

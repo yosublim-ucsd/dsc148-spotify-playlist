@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Yung Yury
 
-867 songs - 1 day 17 hr 47 min
+868 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 | 2023-03-02 |  |
 | [Alle Raver](https://open.spotify.com/track/7IWB3ck1yQHtMz8II3obbl) | [Whitey en vogue](https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [Alle Raver](https://open.spotify.com/album/2mafpuM5gvOXWJMAP9JoRd) | 2:27 | 2023-01-26 | 2023-02-17 |
 | [ALLEINE \- SW43 L33 D1DO REMIX](https://open.spotify.com/track/7dq9QIXx5eIz6w2MNzTan4) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx), [SW43 L33 D1DO](https://open.spotify.com/artist/6Lmd2o8n2pZUkFb8RnGzhb) | [ALLEINE \(SW43 L33 D1DO REMIX\)](https://open.spotify.com/album/0ozheCbpwPZOCFFzkz1msF) | 2:24 | 2022-09-15 | 2022-12-16 |
+| [alles verloren](https://open.spotify.com/track/5mjlXpzwGp0iCZKQWU2lqL) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [alles verloren](https://open.spotify.com/album/3FROfOrBHUsEPAD5pyS2UL) | 2:07 | 2023-05-02 |  |
 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 | 2023-04-20 |  |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2023-04-13 | 2023-04-28 |
 | [Am I Wrong \- Drill Remix](https://open.spotify.com/track/3eAMVkEZHK3rGBJqL4trvQ) | [RedHead Beats](https://open.spotify.com/artist/2zmIsdUFVh0cwvAiEZIMgO) | [Am I Wrong \(Drill Remix\)](https://open.spotify.com/album/5WTnzokVAK3mDSHCd9JWEy) | 3:38 | 2022-06-16 | 2022-07-27 |
@@ -572,7 +573,7 @@
 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 | 2022-09-29 | 2022-10-21 |
 | [On My Own](https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [On My Own](https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL) | 2:51 | 2023-01-09 | 2023-03-03 |
 | [on my way](https://open.spotify.com/track/0DH7ZmouflLanUgjYaUP0e) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [on my way](https://open.spotify.com/album/53QtBl3qgJHO18Qim2o1YF) | 3:35 | 2023-01-12 | 2023-01-20 |
-| [One Call away <3](https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:18 | 2023-03-02 |  |
+| [One Call away <3](https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:18 | 2023-03-02 | 2023-05-03 |
 | [Online](https://open.spotify.com/track/78wjnEVBXmhtw4oKLNWop1) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [Online](https://open.spotify.com/album/6RpufZBem7BoATpC63WO6b) | 2:41 | 2022-09-15 | 2022-10-07 |
 | [ONLY 4 LIFE](https://open.spotify.com/track/3cSnRerT5ZRmPLMmGwRJLb) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [ONLY 4 LIFE](https://open.spotify.com/album/0nUeigcz2YIFDMWrZmnZLU) | 2:25 | 2022-10-27 | 2022-11-04 |
 | [Only Fans](https://open.spotify.com/track/0leFOfqRs3rC8GHFSysAET) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Only Fans](https://open.spotify.com/album/1hUCrAa6N9Gr9aZHhi2N1C) | 1:36 | 2022-08-11 | 2022-09-02 |

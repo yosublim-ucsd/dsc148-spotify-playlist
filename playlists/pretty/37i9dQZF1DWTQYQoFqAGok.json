@@ -1,29 +1,13 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 55557,
+  "num_followers": 55567,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTBkMzZlZmIyM2FhNGNhZDc3YzNmYzQ5ODEzM2ZlYzNhZTQ0OTAz",
+  "snapshot_id": "MCw5NTNmMmJiZTFhMDc3ZjdjNDU5YWZjZmJmY2RmODg5MTIxMjI1MzAw",
   "tracks": [
-    {
-      "added_at": "2023-01-07 01:43:47",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 262520,
       "name": "El Fantasma Enamorado",
       "url": "https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb"
+    },
+    {
+      "added_at": "2023-01-07 01:43:47",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 285880,
+      "name": "La Canci\u00f3n de Linyera",
+      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 327653,
       "name": "Voy a Apagar la Luz",
       "url": "https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8"
+    },
+    {
+      "added_at": "2023-03-16 20:51:30",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -155,38 +187,6 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
-      "added_at": "2023-03-16 20:51:30",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 285880,
-      "name": "La Canci\u00f3n de Linyera",
-      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Rodriguez Y Su Saxofon Magico",
+          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+        }
+      ],
+      "duration_ms": 113613,
+      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
+      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Orqu\u00eddeas Susurrantes",
         "url": "https://open.spotify.com/album/4wgY1NlxUvjbhXFbMPyTwz"
       },
@@ -381,20 +397,20 @@
       "url": "https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2022-09-02 03:31:02",
       "album": {
-        "name": "Grandes de la Musica Instrumental",
-        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+        "name": "Los Fuegos de San Telmo",
+        "url": "https://open.spotify.com/album/5xOVt7TdEJPinpWn0YksqL"
       },
       "artists": [
         {
-          "name": "Tommy Rodriguez Y Su Saxofon Magico",
-          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+          "name": "El 50 Elemento",
+          "url": "https://open.spotify.com/artist/0nau6lOENuCV5fyEcccmfz"
         }
       ],
-      "duration_ms": 113613,
-      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
-      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
+      "duration_ms": 404000,
+      "name": "Las luces de San Telmo",
+      "url": "https://open.spotify.com/track/3fyuUSTUaktT3oDWPaFsdW"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -415,22 +431,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz Vinil (Remastered 2018)",
-        "url": "https://open.spotify.com/album/5znSMHPjGTn0JtDtexRTzT"
-      },
-      "artists": [
-        {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
-        }
-      ],
-      "duration_ms": 249599,
-      "name": "F\u00edjate Que Suave - Remastered 2018",
-      "url": "https://open.spotify.com/track/1o597QjfCG2jZRVYUxXUpv"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Dream Maker (Guitar Smooth Jazz)",
         "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
       },
@@ -447,22 +447,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Raz\u00f3n de Vivir (Desde Casa)",
-        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
+        "name": "Jazz Vinil (Remastered 2018)",
+        "url": "https://open.spotify.com/album/5znSMHPjGTn0JtDtexRTzT"
       },
       "artists": [
         {
-          "name": "Magos Herrera",
-          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+          "name": "Troker",
+          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
         }
       ],
-      "duration_ms": 254269,
-      "name": "Raz\u00f3n de Vivir (Desde Casa)",
-      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
+      "duration_ms": 249599,
+      "name": "F\u00edjate Que Suave - Remastered 2018",
+      "url": "https://open.spotify.com/track/1o597QjfCG2jZRVYUxXUpv"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -547,6 +543,26 @@
       "duration_ms": 211026,
       "name": "Luna Taxque\u00f1a - Jazz Mariachi",
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Raz\u00f3n de Vivir (Desde Casa)",
+        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
+      },
+      "artists": [
+        {
+          "name": "Magos Herrera",
+          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "duration_ms": 254269,
+      "name": "Raz\u00f3n de Vivir (Desde Casa)",
+      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -659,6 +675,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Paisaje Gris",
+        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
+      },
+      "artists": [
+        {
+          "name": "Jenny Beaujean",
+          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
+        },
+        {
+          "name": "Benjam\u00edn Garc\u00eda",
+          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Paisaje Gris",
+      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Fulgor",
         "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
       },
@@ -683,26 +719,6 @@
       "duration_ms": 246539,
       "name": "Aquel Incendio",
       "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Paisaje Gris",
-        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
-      },
-      "artists": [
-        {
-          "name": "Jenny Beaujean",
-          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
-        },
-        {
-          "name": "Benjam\u00edn Garc\u00eda",
-          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Paisaje Gris",
-      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -859,22 +875,6 @@
       "duration_ms": 257004,
       "name": "Dana (Cha-Cha-Shag)",
       "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "So\u00f1e - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

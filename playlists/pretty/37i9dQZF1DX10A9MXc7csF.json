@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: ERRE",
-  "num_followers": 98636,
+  "num_followers": 98668,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmIwNWM3MzkzZGE1MTgxNmYxZGY2ZTNlMDM2MjViMTNjMTRkMWQw",
+  "snapshot_id": "MCw5NmIwNDMxOTM0NmQ0NDQ0OWI1MmU1MjQyZjZkNDc3OTk0ZTZlZjBh",
   "tracks": [
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "Firme Al Caminar (En Vivo)",
-        "url": "https://open.spotify.com/album/7ckyRqYTDQnNc89odO7XQH"
+        "name": "Que Pena",
+        "url": "https://open.spotify.com/album/4dyqstl7R9p5YiayGnFSEn"
       },
       "artists": [
         {
-          "name": "Everardo",
-          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
         }
       ],
-      "duration_ms": 205872,
-      "name": "Firme Al Caminar (En Vivo)",
-      "url": "https://open.spotify.com/track/4tlEHg1ClfKEGaHhNpvyHq"
+      "duration_ms": 156160,
+      "name": "Que Pena",
+      "url": "https://open.spotify.com/track/1v8CrHBlEAeDd5w2TnRItT"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "Que Pena",
-        "url": "https://open.spotify.com/album/4dyqstl7R9p5YiayGnFSEn"
+        "name": "Firme Al Caminar (En Vivo)",
+        "url": "https://open.spotify.com/album/7ckyRqYTDQnNc89odO7XQH"
       },
       "artists": [
         {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+          "name": "Everardo",
+          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
         }
       ],
-      "duration_ms": 156160,
-      "name": "Que Pena",
-      "url": "https://open.spotify.com/track/1v8CrHBlEAeDd5w2TnRItT"
+      "duration_ms": 205872,
+      "name": "Firme Al Caminar (En Vivo)",
+      "url": "https://open.spotify.com/track/4tlEHg1ClfKEGaHhNpvyHq"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "El Jamaico",
-        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 144340,
-      "name": "El Jamaico",
-      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "Envidiada",
         "url": "https://open.spotify.com/album/1heIfYvOpnyO6C6n2aOweE"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 165413,
       "name": "Envidiada",
       "url": "https://open.spotify.com/track/70YwTegvGKryJg2NZPFCf1"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "El Jamaico",
+        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 144340,
+      "name": "El Jamaico",
+      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
     },
     {
       "added_at": "2023-04-21 06:22:36",

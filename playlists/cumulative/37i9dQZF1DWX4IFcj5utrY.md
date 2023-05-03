@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105?si=DwxKMXoLT8WWzxBhWNLNyA">Darque</a>
 
-801 songs - 3 day 1 hr 46 min
+802 songs - 3 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Pick Me Up](https://open.spotify.com/track/3BFrpPrHG0jNvD7x5JjaJh) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Pick Me Up](https://open.spotify.com/album/3XnIqkiFZfVKH0D0nZnfcx) | 3:41 | 2022-04-07 | 2022-06-10 |
 | [Play Me](https://open.spotify.com/track/70mLvxrqMjzIjZYLIYFErg) | [Sabrina](https://open.spotify.com/artist/5xJfSowQoxaxY4DCVLTfr5), [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os) | [Play Me](https://open.spotify.com/album/2FnzVBrjHR7wconylpTIGh) | 5:22 | 2022-04-07 | 2022-04-15 |
 | [Polkadots \- Sven Fields & Chasner Remix](https://open.spotify.com/track/76dve3XjNXy9ITOcIyg7wz) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Chasner](https://open.spotify.com/artist/60bBAf1WFPnIwyBSfXj9xv), [Sven Fields](https://open.spotify.com/artist/6fE47lKKAEbIrbim4FQGS2) | [Polkadots \(Sven Fields & Chasner Remix\)](https://open.spotify.com/album/3CeJfeMicdcY8TkbAcIX22) | 3:23 | 2023-03-16 | 2023-03-25 |
+| [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-05-02 |  |
 | [Prayer For Wisdom](https://open.spotify.com/track/5RCpb0DCCzCd3A1A5unXDN) | [Ntate Tshego](https://open.spotify.com/artist/0tn4pSPaWpZBgTGRHr1UBB), [French August](https://open.spotify.com/artist/1lWYd9SnwI0QFb79ju7zoG) | [Prayer For Wisdom](https://open.spotify.com/album/7BqnsSfdYjwutf8qNJ5SS1) | 7:10 | 2022-02-25 | 2022-03-04 |
 | [Promised Land](https://open.spotify.com/track/00Px0XxDmlFEjP5m4ILeIv) | [Selector A](https://open.spotify.com/artist/28fzVbpRUkT8vNxlQKFJ5s), [MotiveSoul](https://open.spotify.com/artist/7vQ9Hj8uAGMPOaeIr8nUP2) | [Promised Land](https://open.spotify.com/album/0HQsif3guXHUdg5yr7bh8j) | 6:55 | 2022-03-10 | 2022-04-23 |
 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-06-23 | 2022-07-22 |

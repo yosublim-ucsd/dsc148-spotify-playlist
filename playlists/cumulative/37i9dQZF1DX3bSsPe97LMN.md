@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Franco Rey en portada.
 
-288 songs - 15 hr 2 min
+289 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [ASÍ ME ENAMORÉ](https://open.spotify.com/track/6MaBIBdKCf1Y4jPrNY7PcA) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:57 | 2023-04-14 |  |
 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 | 2022-07-08 | 2022-10-15 |
 | [Bajo la Lluvía](https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Cuadra FL](https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt) | [Bajo la Lluvía](https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c) | 2:34 | 2022-10-14 | 2023-04-15 |
+| [Bandera De Mi Apá](https://open.spotify.com/track/7mCttx5YbOEopPSEkdrpj8) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [Bandera De Mi Apá](https://open.spotify.com/album/5gvYcER7tV1RQJyINJa6vU) | 2:46 | 2023-04-28 |  |
 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 | 2022-09-30 | 2022-12-06 |
 | [Barba De Herencia](https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Barba De Herencia](https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE) | 3:24 | 2023-02-24 |  |
 | [Bayo 17](https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:41 | 2022-03-04 | 2022-10-15 |
@@ -203,7 +204,7 @@
 | [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 | 2023-01-27 |  |
 | [Nuestras Noches](https://open.spotify.com/track/05np5qqF0I9dukvYweal2A) | [Shia Aldair](https://open.spotify.com/artist/07Fa79I3tdHSTFwNQhi0uX) | [Desventura](https://open.spotify.com/album/1Fp1Oy7agN1VYfy4clJiDi) | 3:32 | 2022-10-07 | 2022-11-12 |
 | [nuestro amor](https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8) | [nuestro amor sacrificado](https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY) | 1:22 | 2022-09-23 | 2023-02-12 |
-| [Odio](https://open.spotify.com/track/05Mh0eLIDdkUwQDOTe8VYZ) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 2:33 | 2023-01-13 |  |
+| [Odio](https://open.spotify.com/track/05Mh0eLIDdkUwQDOTe8VYZ) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 2:33 | 2023-01-13 | 2023-05-03 |
 | [Otra Oportunidad](https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Otra Oportunidad](https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK) | 2:23 | 2022-09-23 | 2023-02-25 |
 | [Otra Ronda](https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Otra Ronda](https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu) | 3:45 | 2022-11-11 | 2022-12-24 |
 | [Pa Los Que Hoy](https://open.spotify.com/track/34zDAp4dTbCIt59a3Q4QBt) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Pa Los Que Hoy](https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU) | 3:38 | 2022-04-29 | 2022-08-06 |

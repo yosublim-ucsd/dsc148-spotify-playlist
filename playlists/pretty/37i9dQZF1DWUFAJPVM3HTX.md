@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: C.S\. Armstrong\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,380 likes - 193 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,481 likes - 193 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 192 | [OVER2U](https://open.spotify.com/track/4sc7jAI60N6X76lHEvzLcx) | [GODBLESSRODNEY](https://open.spotify.com/artist/3auMRV71rt0N49G3dXmXaX) | [OVER2U](https://open.spotify.com/album/35M2X07gE66HuGWqySS3tV) | 2:46 |
 | 193 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCwwNWM4OWU4NjA2N2U2YTM2OWY5OTFlNTJlNDI3MjAzZjIxNWFmYmE2`
+Snapshot ID: `MCw0M2E1MTY2ZjIxZWViZWQxNTI3NjkwYmE4MTA2ZDE1YjkyODc3MWJi`

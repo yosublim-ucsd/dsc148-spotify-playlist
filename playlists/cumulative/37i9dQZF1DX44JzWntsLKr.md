@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-132 songs - 7 hr 13 min
+133 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Stealer](https://open.spotify.com/track/79NmwJEiY9maHX8djC3FN7) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:28 | 2021-12-09 |  |
 | [Stuck](https://open.spotify.com/track/0BPLuVAnbqric4LMcBjGCc) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:45 | 2021-12-09 |  |
 | [Sweetheart](https://open.spotify.com/track/1PM3hV7cOPE3cbq34UXxbE) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:15 | 2021-12-09 |  |
+| [SWING](https://open.spotify.com/track/5WfMg2QraqveYpt5pNJD6z) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [SWING](https://open.spotify.com/album/4uNvdfYBW4VM4IZuVZKZuy) | 3:11 | 2023-05-02 |  |
 | [The Dreaming](https://open.spotify.com/track/2cua5TG4yhtmknb2L8RKDR) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:57 | 2021-12-09 |  |
 | [Thriller](https://open.spotify.com/track/3biqfRb3wRbU9Kqk1UxUFh) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:39 | 2021-12-09 |  |
 | [Tied to Your Body](https://open.spotify.com/track/0myekv84cuSeVRSboWQqpo) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:09 | 2021-12-09 |  |

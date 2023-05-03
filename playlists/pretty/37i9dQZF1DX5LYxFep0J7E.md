@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,770 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,777 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 40 | [Victory Dance](https://open.spotify.com/track/7y4FhiHBPKB6EqFQV66CDR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 4:55 |
 | 41 | [PRAYER](https://open.spotify.com/track/5tCCNYQmWxZtrA51eN7ZOF) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Parable Of The Poet](https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD) | 7:45 |
 | 42 | [Joy Road](https://open.spotify.com/track/0Bh4RCRlTcWUDNCu3CPgW6) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Strata Records \- the Sound of Detroit \- Reimagined by Jazzanova](https://open.spotify.com/album/4YLG5PwYbMJQeQe3NyVUP3) | 3:53 |
-| 43 | [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/track/7atmsefAJDBe9Sq3fzWGiz) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/album/3OjIvO3LxyUUSsq6JMHmBT) | 5:33 |
+| 43 | [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/track/0cc5stQwKk9CXIkYQhod8n) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Who Are You When No One is Watching?](https://open.spotify.com/album/3p2GVM0RupOOyqtEqyjXtl) | 5:33 |
 | 44 | [Auditorium](https://open.spotify.com/track/4JvovpjvPhVNOCwSzLxueY) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [View With A Room](https://open.spotify.com/album/0bxXAO9Vxpx20fidIJc4va) | 4:28 |
 | 45 | [Times](https://open.spotify.com/track/0YW0ZJEtFvmnbx8RWbYvTp) | [DoomCannon](https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Renaissance](https://open.spotify.com/album/0hYN0KbQdnB1zFzSHqWr8R) | 6:12 |
 | 46 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 74 | [Long Way From Home \(feat\. Eric Harland\)](https://open.spotify.com/track/4LvTgaYf1iMvkBPh9YMK54) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Far Star](https://open.spotify.com/album/1AIF7npFznwVA8tnlSNock) | 5:17 |
 | 75 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 |
 
-Snapshot ID: `MCxiNDI4OTBmNWM0MzU2ZDQyMTc5NjZiMjc2NzJiOTZmZmVjYjc1MjMy`
+Snapshot ID: `MCw0YjIwNjZlMmRhMWZmMWRiMjY5MDMzOWE0ODg2YzgzZjdlYTRmZTUz`

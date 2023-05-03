@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 3645,
+  "num_followers": 3652,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDEzZWVlZjI3ODgzYThhNDhmODIzNDdlMjNiMzY3YTJiZmYzZTIw",
+  "snapshot_id": "MCw0NDBiNDdiNWM0YjFkZWUyZWY0NjA1ZjhiMzA2YmRlOTlkMWZhN2Q1",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -783,18 +783,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Jungle New Style",
-        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
+        "name": "Baby V.O.X Special Album",
+        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
       "artists": [
         {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
         }
       ],
-      "duration_ms": 252493,
-      "name": "Eve's Warning",
-      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
+      "duration_ms": 132731,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Baby V.O.X Special Album",
-        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
+        "name": "Jungle New Style",
+        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
       },
       "artists": [
         {
-          "name": "Baby V.O.X",
-          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+          "name": "Park Mi Kyung",
+          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
         }
       ],
-      "duration_ms": 132731,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i"
+      "duration_ms": 252493,
+      "name": "Eve's Warning",
+      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 255741,
       "name": "GO",
       "url": "https://open.spotify.com/track/5NJ46GTkjkN7pc5soOyiMu"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "NEW SENSATION",
-        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 243095,
-      "name": "Twist king",
-      "url": "https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 238004,
       "name": "\uc6b0\uc5f0",
       "url": "https://open.spotify.com/track/5OBXA0nZ8ANfS8w2ZVWh6X"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "NEW SENSATION",
+        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 243095,
+      "name": "Twist king",
+      "url": "https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\ud130\ubcf4 HISTORY",
-        "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "\ud68c\uc0c1",
-      "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 99686,
       "name": "Killer",
       "url": "https://open.spotify.com/track/6FNzGOfb27z0xahzEHv9si"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\ud130\ubcf4 HISTORY",
+        "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "\ud68c\uc0c1",
+      "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/0vqRnu3TWGSCA5rmTu4pTw"
-      },
-      "artists": [
-        {
-          "name": "Kim Won Jun",
-          "url": "https://open.spotify.com/artist/0XojSZQ9oNETM8AtA9kJe8"
-        }
-      ],
-      "duration_ms": 227423,
-      "name": "Show",
-      "url": "https://open.spotify.com/track/2QFRLSOaX1jjV7nNoCQSKO"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 239560,
       "name": "Love is gone",
       "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/0vqRnu3TWGSCA5rmTu4pTw"
+      },
+      "artists": [
+        {
+          "name": "Kim Won Jun",
+          "url": "https://open.spotify.com/artist/0XojSZQ9oNETM8AtA9kJe8"
+        }
+      ],
+      "duration_ms": 227423,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/2QFRLSOaX1jjV7nNoCQSKO"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Exchange Kg. M4",
+        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Big 5",
         "url": "https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN"
       },
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Exchange Kg. M4",
-        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "The Best Of CLON 2002",
         "url": "https://open.spotify.com/album/0ioMNxyCTVsyaVYczSEMNp"
       },
@@ -1699,6 +1699,22 @@
       "duration_ms": 188080,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/03pEUw4hE9xzJAmhW0B0Gx"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Suprise Party Collection",
+        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
+      },
+      "artists": [
+        {
+          "name": "Click-B",
+          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
+        }
+      ],
+      "duration_ms": 251297,
+      "name": "To Be Continued",
+      "url": "https://open.spotify.com/track/6JaOpuYDNzxYo2lNOgssac"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Suprise Party Collection",
-        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
-      },
-      "artists": [
-        {
-          "name": "Click-B",
-          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
-        }
-      ],
-      "duration_ms": 251297,
-      "name": "To Be Continued",
-      "url": "https://open.spotify.com/track/6JaOpuYDNzxYo2lNOgssac"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\uc30d\ub465\uc774 \ud30c\uc6cc",
         "url": "https://open.spotify.com/album/2Rz5WSnrj1Bvw3j8H7AfLN"
       },
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uc090\uac71\uc090\uac71 Creak Creak",
-        "url": "https://open.spotify.com/album/0otiirwBgP7B4Yq7kOKcvy"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "\u1112\u1162\u1107\u1167\u11ab\u110b\u1173\u1105\u1169 \u1100\u1161\u110b\u116d Let's Go to the Beach Pt. 2",
-      "url": "https://open.spotify.com/track/02b8sHBlZleRRJhi37VPkP"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Coming of age ceremony",
         "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 245423,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\uc090\uac71\uc090\uac71 Creak Creak",
+        "url": "https://open.spotify.com/album/0otiirwBgP7B4Yq7kOKcvy"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "\u1112\u1162\u1107\u1167\u11ab\u110b\u1173\u1105\u1169 \u1100\u1161\u110b\u116d Let's Go to the Beach Pt. 2",
+      "url": "https://open.spotify.com/track/02b8sHBlZleRRJhi37VPkP"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Coming of age ceremony",
+        "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "duration_ms": 235366,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/07jKgIoj1GYsXSagjuLWiT"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "\ud1a0\uc7742\uc9d1-YOUHEEYEOL",
         "url": "https://open.spotify.com/album/6jOgaajTtTZM6zyjIkNd4u"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 262293,
       "name": "\uc120\uc0dd\ub2d8 \uc0ac\ub791\ud574\uc694",
       "url": "https://open.spotify.com/track/6EVwyBvdg5qGsgNzP957wu"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Coming of age ceremony",
-        "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
-      },
-      "artists": [
-        {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
-        }
-      ],
-      "duration_ms": 235366,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/07jKgIoj1GYsXSagjuLWiT"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2012,9 +2012,9 @@
           "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
         }
       ],
-      "duration_ms": 266893,
-      "name": "Same Old Story",
-      "url": "https://open.spotify.com/track/66yv1ZsM9nqkOtt0LotgCN"
+      "duration_ms": 256133,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/705uQTKwhztraXRflr1sl4"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2028,9 +2028,9 @@
           "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/705uQTKwhztraXRflr1sl4"
+      "duration_ms": 266893,
+      "name": "Same Old Story",
+      "url": "https://open.spotify.com/track/66yv1ZsM9nqkOtt0LotgCN"
     },
     {
       "added_at": "2021-02-01 12:18:54",

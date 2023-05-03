@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-403 songs - 1 day 2 hr 29 min
+404 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ain't Misbehavin'](https://open.spotify.com/track/4M0v6rs8BAmoGCzu6AahIr) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 2:50 | 2020-10-20\* | 2021-01-21 |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-04-01 |  |
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2020-10-20\* | 2021-01-21 |
+| [Alfie](https://open.spotify.com/track/2l0iO5UB8vLpgjjih8sUYD) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Black Nile](https://open.spotify.com/album/7raIWmCNYHhrBKc1CZNWI4) | 3:37 | 2023-04-27 |  |
 | [All Alone](https://open.spotify.com/track/3I5wdCgOJ0q3dBly0fyErW) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:26 | 2020-10-20\* | 2021-01-21 |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2021-12-14 |  |
 | [All The Things You Are](https://open.spotify.com/track/2VsKgS4OlZ7DvfRUqDGFhg) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 2:28 | 2020-10-20\* | 2021-01-21 |
@@ -176,7 +177,7 @@
 | [in a sentimental mood](https://open.spotify.com/track/202XN6CAnO0d2XzCbCtPvI) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [I left my heart in San Francisco](https://open.spotify.com/album/2MGGSNeNpJWgxqw48z0IV2) | 4:14 | 2020-10-20\* | 2021-01-21 |
 | [In a Sentimental Mood](https://open.spotify.com/track/7JNNtslGExM27L7sCMzQiS) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a Sentimental Mood](https://open.spotify.com/album/5rOOiUweJ8OZ7eDqlRHURS) | 4:34 | 2021-02-24 | 2022-10-08 |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-06-01 |  |
-| [In the Days of our Love](https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [In the Days of our Love](https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0) | 3:40 | 2021-06-20 |  |
+| [In the Days of our Love](https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [In the Days of our Love](https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0) | 3:40 | 2021-06-20 | 2023-05-03 |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/6GqdOl9kasXJdzfcUboF1a) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/7cxKG7mTCE6hmI3t1SsJvk) | 4:30 | 2020-10-20\* | 2022-07-27 |
 | [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2020-10-20\* | 2022-09-02 |
 | [Infant Eyes](https://open.spotify.com/track/4PEO2xAMctCKn1D7ocUR8S) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 4:33 | 2020-10-20\* | 2022-08-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HGyCQ2dcNx.md) - [plain]
 
 > The artist's latest and greatest hits\. Lo nuevo y lo esencial de Jose\. ¡Leggo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,967 likes - 108 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,060 likes - 108 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HGyCQ2dcNx.md) - [plain]
 | 107 | [Bajo Cero](https://open.spotify.com/track/1sghPHx2AsbFUhlyQzkWHI) | [Sky](https://open.spotify.com/artist/0JWemE0N1N3nwrtMNg2eMO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Bajo Cero](https://open.spotify.com/album/1vrGYhTYdFAtxbC5UeUDDb) | 4:47 |
 | 108 | [Caliente \(feat\. J Balvin\)](https://open.spotify.com/track/7zjxmI7AldHmhWfFozqv3t) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Mi Movimiento](https://open.spotify.com/album/52E77HSrg85k7NrRkKTGT1) | 3:26 |
 
-Snapshot ID: `MCwzYjA5MmUyZmM0ODljOGI5ZmZmMGM0ZjMyMDgyODIwNDg4YjI0NTU1`
+Snapshot ID: `MCxlZTk3Y2U1NDRkNzE1Y2RiZmI1ZmM4MDVjM2QzMDk3ZDRmNzI3MGUy`

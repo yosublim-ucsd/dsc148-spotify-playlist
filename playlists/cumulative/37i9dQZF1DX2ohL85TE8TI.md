@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Doctor Cha\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 닥터 차정숙\)
 
-602 songs - 1 day 12 hr 31 min
+603 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Happy For Love](https://open.spotify.com/track/56MoHxJvpi1XJUX4fDfOqF) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.25](https://open.spotify.com/album/1cHdaXL8j9CWm8gOpiGEIT) | 3:20 | 2022-12-26 | 2023-03-28 |
 | [Hard to Say I Love You](https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Red Balloon OST Part.3](https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS) | 4:05 | 2023-01-26 |  |
 | [Heigh\-ho](https://open.spotify.com/track/1NN2AltpOhdzxywllHYMrY) | [신우](https://open.spotify.com/artist/3qzGr8dVeIizPJKq6yR1xA) | [Claim Your Lottery Prize \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/7p0hfZANnTCSmbljFjgNzq) | 2:59 | 2022-06-20 | 2022-09-20 |
+| [Hello](https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Romantic Doctor 3 OST Part.1](https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE) | 3:50 | 2023-05-02 |  |
 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 | 2022-07-04 | 2022-11-04 |
 | [Hello](https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV) | 4:04 | 2023-01-26 |  |
 | [Hello baby](https://open.spotify.com/track/0t6szxqnYLaOWgHR4KLpDr) | [jang ui soo](https://open.spotify.com/artist/115o9N0bQNEob6B8zheqA8) | [마이 스윗 디어 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/3n5GS6f88lH6qjOrqv9bm4) | 3:30 | 2021-12-19 | 2022-02-17 |

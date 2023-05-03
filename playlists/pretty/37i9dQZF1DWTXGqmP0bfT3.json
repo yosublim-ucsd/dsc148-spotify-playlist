@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 254720,
+  "num_followers": 255084,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTk0Y2Y1ZGZkY2UxNzhhZTRlN2VkZTRmYmQ4NTczMGM1ODg0YmQy",
+  "snapshot_id": "MCxmNWFmYzIzOWViOTMzYjMwMzEzNmM0NmE3YmU2MmU3MGYwMzA4NTc0",
   "tracks": [
     {
       "added_at": "2023-03-17 15:31:59",
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
-      "added_at": "2023-05-02 00:38:45",
+      "added_at": "2023-05-03 00:33:30",
       "album": {
         "name": "Foregone",
         "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+        }
+      ],
+      "duration_ms": 246209,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
         "name": "Lux \u00c6terna",
         "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 256053,
       "name": "War Eternal",
       "url": "https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "Rob Halford",
-          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
-        }
-      ],
-      "duration_ms": 246209,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Bringer of Pain",
-        "url": "https://open.spotify.com/album/7kKRJsnK1SPmR6d0ZFEAbS"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 275439,
-      "name": "King for a Day",
-      "url": "https://open.spotify.com/track/6OcE7aXYmNEwF6H7Ei9Y3q"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "Sunset on the Golden Age",
         "url": "https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+        "name": "Bringer of Pain",
+        "url": "https://open.spotify.com/album/7kKRJsnK1SPmR6d0ZFEAbS"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
         }
       ],
-      "duration_ms": 321161,
-      "name": "Until the World Goes Cold",
-      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
+      "duration_ms": 275439,
+      "name": "King for a Day",
+      "url": "https://open.spotify.com/track/6OcE7aXYmNEwF6H7Ei9Y3q"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1067,6 +1051,22 @@
       "duration_ms": 191331,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 321161,
+      "name": "Until the World Goes Cold",
+      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "A Man with a Plan",
-        "url": "https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP"
-      },
-      "artists": [
-        {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        }
-      ],
-      "duration_ms": 179820,
-      "name": "A Man with a Plan",
-      "url": "https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "Somewhere in Time (2015 - Remaster)",
         "url": "https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 309640,
       "name": "Wasted Years - 2015 Remaster",
       "url": "https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "A Man with a Plan",
+        "url": "https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP"
+      },
+      "artists": [
+        {
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        }
+      ],
+      "duration_ms": 179820,
+      "name": "A Man with a Plan",
+      "url": "https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9"
     },
     {
-      "added_at": "2023-05-02 00:38:45",
+      "added_at": "2023-05-03 00:33:30",
       "album": {
         "name": "Winner Takes All (feat. Alice Cooper)",
         "url": "https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ"
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
+        "name": "Fear of the Dark (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 438120,
+      "name": "Fear of the Dark - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
         "name": "Resilience (Deluxe)",
         "url": "https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Fear of the Dark (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 438120,
-      "name": "Fear of the Dark - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 349869,
       "name": "The Sin and the Sentence",
       "url": "https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
-        "name": "Berserker",
-        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 269088,
-      "name": "Beast In Black",
-      "url": "https://open.spotify.com/track/0ngSk8aGEjWS6fsHIV9KKj"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Beyond Hell / Above Heaven",
-        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
         }
       ],
-      "duration_ms": 239946,
-      "name": "The Mirror And The Ripper",
-      "url": "https://open.spotify.com/track/13jk0QqK6PzfgK9qtkT8jm"
+      "duration_ms": 269088,
+      "name": "Beast In Black",
+      "url": "https://open.spotify.com/track/0ngSk8aGEjWS6fsHIV9KKj"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1399,6 +1383,22 @@
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "Beyond Hell / Above Heaven",
+        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 239946,
+      "name": "The Mirror And The Ripper",
+      "url": "https://open.spotify.com/track/13jk0QqK6PzfgK9qtkT8jm"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 477013,
+      "name": "All Nightmare Long",
+      "url": "https://open.spotify.com/track/5w3TTTAo6DIEjQYO3vKZq0"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 205666,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/2gYLeC5Ikd8DFSJfwGZJp3"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 477013,
-      "name": "All Nightmare Long",
-      "url": "https://open.spotify.com/track/5w3TTTAo6DIEjQYO3vKZq0"
     },
     {
       "added_at": "2023-03-17 15:31:59",

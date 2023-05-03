@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 551205,
+  "num_followers": 551295,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGUxMjQyZDgzZTM3Mjk3YjEyOTQ2Y2ExZTBlYmQzMDY5YzQwNDA1",
+  "snapshot_id": "MCw2NDVjMjI0NWE1NjQ4MDc1YmIzYWVjNTljOWUwNTQ4YmY5YTE4NTky",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -197,26 +197,6 @@
       "url": "https://open.spotify.com/track/6gYAzrvbcd9eoA5igOW8Qp"
     },
     {
-      "added_at": "2022-02-11 19:55:21",
-      "album": {
-        "name": "Imani",
-        "url": "https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB"
-      },
-      "artists": [
-        {
-          "name": "E-SWERVE",
-          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
-        },
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 117987,
-      "name": "Imani",
-      "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Nest Egg",
@@ -239,6 +219,26 @@
       "duration_ms": 145576,
       "name": "Nest Egg",
       "url": "https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG"
+    },
+    {
+      "added_at": "2022-02-11 19:55:21",
+      "album": {
+        "name": "Imani",
+        "url": "https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB"
+      },
+      "artists": [
+        {
+          "name": "E-SWERVE",
+          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 117987,
+      "name": "Imani",
+      "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
     },
     {
       "added_at": "2022-07-05 15:03:47",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
     },
     {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Half-Bloom",
+        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
+      },
+      "artists": [
+        {
+          "name": "Asta Hiroki",
+          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Half-Bloom",
+      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
+    },
+    {
       "added_at": "2022-04-25 13:59:49",
       "album": {
         "name": "Princess Meadow (Morning)",
@@ -527,22 +543,6 @@
       "duration_ms": 75000,
       "name": "Space 3",
       "url": "https://open.spotify.com/track/4TS1SMLEEhjKr6qeKjfq5z"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Half-Bloom",
-        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
-      },
-      "artists": [
-        {
-          "name": "Asta Hiroki",
-          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Half-Bloom",
-      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
     },
     {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
+    },
+    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "The Pilot",
@@ -735,22 +751,6 @@
       "duration_ms": 186414,
       "name": "The Pilot",
       "url": "https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2"
-    },
-    {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1005,6 +1005,26 @@
       "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
+      "added_at": "2021-07-09 04:02:00",
+      "album": {
+        "name": "Northbound",
+        "url": "https://open.spotify.com/album/6apB9H9CL3iL6L7qQw3Hrz"
+      },
+      "artists": [
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        }
+      ],
+      "duration_ms": 135999,
+      "name": "Northbound",
+      "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
+    },
+    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Quantum Blackness",
@@ -1053,24 +1073,24 @@
       "url": "https://open.spotify.com/track/1SKjqHcwSnSEPZDKXxDtLa"
     },
     {
-      "added_at": "2021-07-09 04:02:00",
+      "added_at": "2021-06-18 04:01:00",
       "album": {
-        "name": "Northbound",
-        "url": "https://open.spotify.com/album/6apB9H9CL3iL6L7qQw3Hrz"
+        "name": "The Whales",
+        "url": "https://open.spotify.com/album/0gNl31ArACtMFvw8aChFd4"
       },
       "artists": [
         {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+          "name": "Mahealane",
+          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
         },
         {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
         }
       ],
-      "duration_ms": 135999,
-      "name": "Northbound",
-      "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
+      "duration_ms": 148000,
+      "name": "The Whales",
+      "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -1113,26 +1133,6 @@
       "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "The Whales",
-        "url": "https://open.spotify.com/album/0gNl31ArACtMFvw8aChFd4"
-      },
-      "artists": [
-        {
-          "name": "Mahealane",
-          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
-        },
-        {
-          "name": "PRNDL",
-          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "The Whales",
-      "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
-    },
-    {
       "added_at": "2023-01-20 05:01:00",
       "album": {
         "name": "We Don't Need No Roads",
@@ -1147,22 +1147,6 @@
       "duration_ms": 258334,
       "name": "We Don't Need No Roads",
       "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1181,24 +1165,20 @@
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
+      "added_at": "2021-02-26 05:01:00",
       "album": {
-        "name": "Childhood Memories (Remix)",
-        "url": "https://open.spotify.com/album/5T9Gz6YwJ0UfMq4OuKDr1W"
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
       },
       "artists": [
         {
-          "name": "Gabriel Gosse",
-          "url": "https://open.spotify.com/artist/3ro5wLetn0VJAw5Nbt4bzY"
-        },
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 278226,
-      "name": "Childhood Memories - Remix",
-      "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1221,6 +1201,26 @@
       "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Childhood Memories (Remix)",
+        "url": "https://open.spotify.com/album/5T9Gz6YwJ0UfMq4OuKDr1W"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gosse",
+          "url": "https://open.spotify.com/artist/3ro5wLetn0VJAw5Nbt4bzY"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "Childhood Memories - Remix",
+      "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Thoughts Under Water",
@@ -1237,20 +1237,20 @@
       "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Mind Racing",
-        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
+        "name": "lamplighting",
+        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
       },
       "artists": [
         {
-          "name": "Noah Rosen",
-          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
         }
       ],
-      "duration_ms": 347368,
-      "name": "Carlyle Clyde",
-      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
+      "duration_ms": 139419,
+      "name": "lamplighting",
+      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1313,20 +1313,20 @@
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "lamplighting",
-        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
+        "name": "Mind Racing",
+        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
       },
       "artists": [
         {
-          "name": "Wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
         }
       ],
-      "duration_ms": 139419,
-      "name": "lamplighting",
-      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
+      "duration_ms": 347368,
+      "name": "Carlyle Clyde",
+      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
     },
     {
       "added_at": "2021-02-26 00:47:37",
@@ -1417,34 +1417,6 @@
       "url": "https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Cloud Bounce",
-        "url": "https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN"
-      },
-      "artists": [
-        {
-          "name": "9ICK",
-          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
-        },
-        {
-          "name": "Calvin Bennett",
-          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
-        },
-        {
-          "name": "Gustav Gustav",
-          "url": "https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8"
-        },
-        {
-          "name": "Bertram Kvist",
-          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Cloud Bounce",
-      "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
-    },
-    {
       "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Night Lands",
@@ -1459,38 +1431,6 @@
       "duration_ms": 308313,
       "name": "Beacons",
       "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
-    },
-    {
-      "added_at": "2021-09-24 04:02:00",
-      "album": {
-        "name": "Side Street",
-        "url": "https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Nicole McCabe",
-          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Tom Walsh",
-          "url": "https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "Side Street",
-      "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1527,6 +1467,66 @@
       "duration_ms": 128173,
       "name": "Angels",
       "url": "https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k"
+    },
+    {
+      "added_at": "2021-09-24 04:02:00",
+      "album": {
+        "name": "Side Street",
+        "url": "https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU"
+      },
+      "artists": [
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Tom Walsh",
+          "url": "https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB"
+        }
+      ],
+      "duration_ms": 217080,
+      "name": "Side Street",
+      "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Cloud Bounce",
+        "url": "https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN"
+      },
+      "artists": [
+        {
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        },
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        },
+        {
+          "name": "Gustav Gustav",
+          "url": "https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Cloud Bounce",
+      "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
     },
     {
+      "added_at": "2021-09-24 04:02:00",
+      "album": {
+        "name": "Excursions",
+        "url": "https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Life Of Leisure",
+      "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Golden",
@@ -1583,34 +1599,6 @@
       "duration_ms": 466627,
       "name": "Golden",
       "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
-      "added_at": "2022-05-16 15:07:06",
-      "album": {
-        "name": "Bootyscoot",
-        "url": "https://open.spotify.com/album/57Re4Gq4x1NvimVAytLmKT"
-      },
-      "artists": [
-        {
-          "name": "The Polish Ambassador",
-          "url": "https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU"
-        },
-        {
-          "name": "Jesse Klein",
-          "url": "https://open.spotify.com/artist/6EVgiuWVrdencro4gjLJKE"
-        },
-        {
-          "name": "Robin Jackson",
-          "url": "https://open.spotify.com/artist/7E3Dm7icYWJNSN8pK57Ufy"
-        },
-        {
-          "name": "Ananda Vaughan",
-          "url": "https://open.spotify.com/artist/5i1E5D2bW5VBtcIvi04S9V"
-        }
-      ],
-      "duration_ms": 397090,
-      "name": "Bootyscoot",
-      "url": "https://open.spotify.com/track/7nb8sYJDmnbEEEET8EZh59"
     }
   ],
   "unique_name": "Jazztronica",

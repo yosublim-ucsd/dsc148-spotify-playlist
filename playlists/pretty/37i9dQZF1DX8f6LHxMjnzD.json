@@ -1,12 +1,12 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Bebe Rexha",
-  "num_followers": 866337,
+  "num_followers": 866423,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTExMjlmZTRmYTMwMDJmNzg5NGM4NTAxZDIxMWU0N2EyODhmNTc3",
+  "snapshot_id": "MCxhOTdiOTA1ZmQzYzMzMzY4MGNkMmFlOGI2YzVlMmY2Y2M0NDE5Zjcy",
   "tracks": [
     {
       "added_at": "2023-05-01 21:29:52",
@@ -383,7 +383,7 @@
     {
       "added_at": "2023-05-01 21:29:52",
       "album": {
-        "name": "4Runner",
+        "name": "4runner",
         "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
       },
       "artists": [
@@ -393,7 +393,7 @@
         }
       ],
       "duration_ms": 265453,
-      "name": "4Runner",
+      "name": "4runner",
       "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
     },
     {

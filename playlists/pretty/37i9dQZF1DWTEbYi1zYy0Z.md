@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,785 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,835 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ubuntu](https://open.spotify.com/track/2zUN9GrY3kNkt1WNk0wtPZ) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [Ubuntu](https://open.spotify.com/album/6Sf8VRKfBDk2h5CYwLUgTY) | 5:04 |
+| 1 | [Ubuntu](https://open.spotify.com/track/0jehP0aRhFBpjSZCXxfm2v) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [Ubuntu](https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz) | 5:04 |
 | 2 | [Groove Factor](https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N) | 5:14 |
 | 3 | [Manhattan Nights \(Radio Edit\)](https://open.spotify.com/track/2XqxCo0Nx93z6e6dusrfcM) | [Stephen Duros](https://open.spotify.com/artist/6bMMVhovwIYA1yF1ZLHZwq), [Ken Freeman](https://open.spotify.com/artist/3Zkyc5Jp05iEeC73U1BNW7), [Larry Crowe](https://open.spotify.com/artist/0YMgRY0jbFVyTnA5vYvQe6), [Lenny Castro](https://open.spotify.com/artist/19raT6ODTtEVtTTSgB9T1Z) | [Manhattan Nights \(Radio Edit\)](https://open.spotify.com/album/0d8EvAtt2TYQ9F2JPwEy2i) | 3:54 |
 | 4 | [Reasons](https://open.spotify.com/track/3wo1wi09snMqZ9T3KQu3VT) | [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [Reasons](https://open.spotify.com/album/5VxTgmfCEn2I9YmuoCEuqt) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Lavish](https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib) | [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab), [Jordan Love](https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9) | [Lavish](https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p) | 4:17 |
 | 100 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
 
-Snapshot ID: `MCw1OTYzYzg4NGFjNTJmNWVlZDExYTYxNjY4Nzg4MzQzZjQ5NDNhN2Iy`
+Snapshot ID: `MCw1NzExY2FhZTgyMDMwM2FiN2QzZjdmYTk2ODljM2U3ZWFkMWU0ZjQ3`

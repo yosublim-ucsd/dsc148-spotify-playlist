@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-118 songs - 7 hr 4 min
+119 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ex](https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:37 | 2022-07-22 |  |
 | [F902](https://open.spotify.com/track/72Crnzf4RXJvssLigcC7om) | [JEONGMIN](https://open.spotify.com/artist/4qkZlOHXJtpMcND5FIlp03) | [\#02](https://open.spotify.com/album/7mJsJcbED93wlCutILesJi) | 2:59 | 2022-06-20 | 2022-07-26 |
 | [fallin \(feat\. Liss\)](https://open.spotify.com/track/0syedLlswRozp59jePqhIG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [fallin \(feat\. Liss\)](https://open.spotify.com/album/5bwuj0Iuze77jbfrymLEtp) | 2:47 | 2022-06-20 | 2022-07-28 |
+| [Fantasy](https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Fantasy](https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW) | 3:29 | 2023-05-02 |  |
 | [Feeling Good \- 2019 Ver](https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 2:42 | 2022-07-22 | 2023-02-17 |
 | [Feeling Good \- 2019 Version](https://open.spotify.com/track/2BV9fEymPBavD9QsC27AmY) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 2:42 | 2022-06-20 | 2022-07-25 |
 | [FLOWER ROAD](https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [FLOWER ROAD](https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx) | 3:48 | 2022-06-20 |  |
@@ -48,7 +49,7 @@
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-06-20 | 2022-12-27 |
 | [Have You Ever](https://open.spotify.com/track/4AjBFmioxIaW1QzH1FrPEI) | [Kim Yeo Myeong](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Have You Ever](https://open.spotify.com/album/0gW2S1J50ucDsXbClgMqPl) | 3:16 | 2022-06-20 | 2022-07-09 |
 | [hey my love](https://open.spotify.com/track/1fTsLda2k2PHbJulJmiBiv) | [greener](https://open.spotify.com/artist/6WRFiRBH2m7RdV63sKxlzq) | [hey my love](https://open.spotify.com/album/1iO9rBXyLhEbNvsyK9jDXU) | 4:11 | 2022-06-20 | 2022-07-28 |
-| [HEY RAIN](https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:14 | 2022-06-20 |  |
+| [HEY RAIN](https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:14 | 2022-06-20 | 2023-05-03 |
 | [Hide and Seek 숨바꼭질](https://open.spotify.com/track/4U32fbHxP7cob8enxammI6) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 3:57 | 2022-06-20 | 2022-07-24 |
 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 | 2022-06-20 |  |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-26 | 2023-04-11 |

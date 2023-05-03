@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Kevin Kaarl en portada.",
-  "num_followers": 96162,
+  "num_followers": 96181,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzRhZDQ2YzcxNmVlZmI2NjRjN2JkNGQ2Mzk5NTU0ZDgwNmU0Yjc2",
+  "snapshot_id": "MCwzMGQ4YzU5NTY1OTgwMzNhNzYwODc3NDQzYjMxNjNkZDMyM2U2NzQz",
   "tracks": [
     {
       "added_at": "2023-03-31 18:07:09",
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/0xJDZoUeyeOBlj9jtqhyum"
     },
     {
-      "added_at": "2023-05-02 00:32:17",
+      "added_at": "2023-05-03 01:19:07",
       "album": {
         "name": "Ya Casi Te Olvido",
         "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/57OmmVVcjJVBuWSMOI42Pn"
     },
     {
-      "added_at": "2023-05-02 00:32:17",
+      "added_at": "2023-05-03 01:19:07",
       "album": {
         "name": "No Sab\u00eda",
         "url": "https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL"
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "ojal\u00e1 </3",
         "url": "https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 171290,
       "name": "ojal\u00e1 </3",
       "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L"
     },
     {
-      "added_at": "2023-05-02 00:32:17",
+      "added_at": "2023-05-03 01:19:07",
       "album": {
         "name": "Loza",
         "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Caguamita Banquetera",
-        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
-      },
-      "artists": [
-        {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
-        }
-      ],
-      "duration_ms": 155651,
-      "name": "Caguamita Banquetera",
-      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "contigo va a estar bien",
         "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 185889,
       "name": "Contigo Va a Estar Bien",
       "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Caguamita Banquetera",
+        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
+      },
+      "artists": [
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "duration_ms": 155651,
+      "name": "Caguamita Banquetera",
+      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Pasado y Olvido",
-        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
-      },
-      "artists": [
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 255155,
-      "name": "Pasado y Olvido",
-      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Hierbas Para la Tristeza",
         "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
       },
@@ -785,7 +769,23 @@
       "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
     },
     {
-      "added_at": "2023-05-02 00:32:17",
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Pasado y Olvido",
+        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 255155,
+      "name": "Pasado y Olvido",
+      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
+    },
+    {
+      "added_at": "2023-05-03 01:19:07",
       "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Al Pie del Volc\u00e1n",
-        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
-      },
-      "artists": [
-        {
-          "name": "Yo y las Bestias",
-          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
-        }
-      ],
-      "duration_ms": 245422,
-      "name": "Al Pie del Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Te Rendiste en Mi",
         "url": "https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 148353,
       "name": "Te Rendiste en Mi",
       "url": "https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Al Pie del Volc\u00e1n",
+        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
+      },
+      "artists": [
+        {
+          "name": "Yo y las Bestias",
+          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
+        }
+      ],
+      "duration_ms": 245422,
+      "name": "Al Pie del Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
+        "name": "Antes de Partir - Cap.1",
+        "url": "https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm"
+      },
+      "artists": [
+        {
+          "name": "Erick Mendoza",
+          "url": "https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4"
+        }
+      ],
+      "duration_ms": 211456,
+      "name": "Antes de Partir - Cap.1",
+      "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
         "name": "Agendas Vencidas",
         "url": "https://open.spotify.com/album/1ItyNz7DTEfVqchGAFui8s"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 233370,
       "name": "Yaya",
       "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "Antes de Partir - Cap.1",
-        "url": "https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm"
-      },
-      "artists": [
-        {
-          "name": "Erick Mendoza",
-          "url": "https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4"
-        }
-      ],
-      "duration_ms": 211456,
-      "name": "Antes de Partir - Cap.1",
-      "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
     },
     {
       "added_at": "2023-03-31 18:07:09",

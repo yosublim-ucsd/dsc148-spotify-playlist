@@ -4,7 +4,7 @@
 
 > Recorriendo las carreteras con puras canciones de arranque 🚛
 
-155 songs - 8 hr 14 min
+156 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,8 +127,9 @@
 | [Monedas y Billetes](https://open.spotify.com/track/37VFOxHDkI1eozrMrA8D5P) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Monedas y Billetes](https://open.spotify.com/album/0MtYJPPHndmMkuU97lWacw) | 4:31 | 2022-03-02 | 2022-08-06 |
 | [Nadie Es Eterno](https://open.spotify.com/track/36FbSb3gmnWEXR9QjnsraQ) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Época Dorada \- 12 Éxitos Originales](https://open.spotify.com/album/5fkepTkkpKCjcGM5QCWVRM) | 3:14 | 2022-03-02 | 2022-11-13 |
 | [Nadie Es Eterno](https://open.spotify.com/track/6pUQom3MxQafk9yTQGtIK1) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lagrimas](https://open.spotify.com/album/0nAiRRJ4rBKWBHoXb9tpDF) | 3:16 | 2022-03-02 | 2022-07-29 |
-| [Nadie Es Eterno](https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p) | 3:16 | 2022-03-02 |  |
+| [Nadie Es Eterno](https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p) | 3:16 | 2022-03-02 | 2023-05-03 |
 | [Nadie Es Eterno](https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/5AINE3154WldReklifyueS) | 3:16 | 2022-03-02 | 2022-10-07 |
+| [Nadie Es Eterno](https://open.spotify.com/track/2KR6SMa5I9bgfUp1x7rLPk) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Mi Historia](https://open.spotify.com/album/4Y1KuLGtJzI5wQOrjgfaYK) | 3:18 | 2022-03-02 |  |
 | [Ni Con Labios Prestados](https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ni Con Labios Prestados](https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx) | 4:04 | 2022-08-05 |  |
 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2022-08-05 | 2022-10-07 |
 | [No Se Va \- En Vivo](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2022-08-05 |  |

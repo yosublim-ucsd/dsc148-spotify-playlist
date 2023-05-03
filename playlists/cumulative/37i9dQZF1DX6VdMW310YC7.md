@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,476 songs - 4 day 5 hr 52 min
+1,477 songs - 4 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,7 +1001,7 @@
 | [Paradise](https://open.spotify.com/track/3DO4r1LcdreYzoMR9gEKjq) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Paradise](https://open.spotify.com/album/0f5ddbtff3tuI0S9XMncQj) | 2:51 | 2020-03-16 | 2020-07-03 |
 | [Paradox](https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Paradox](https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy) | 3:30 | 2021-01-16 |  |
 | [Passing Trains](https://open.spotify.com/track/01oZjrRICAL5l0sSFqpb5D) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 3:13 | 2020-03-20 | 2021-12-21 |
-| [Pattern](https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Pattern](https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG) | 4:12 | 2022-04-01 |  |
+| [Pattern](https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Pattern](https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG) | 4:12 | 2022-04-01 | 2023-05-03 |
 | [PCH](https://open.spotify.com/track/3JsnAcVZxSzraNojV2rysg) | [Middle Child](https://open.spotify.com/artist/2hp8yAzOnYRUFMCdot9tzN) | [PCH](https://open.spotify.com/album/63vdqcftyz2avO5EdhH6JO) | 3:51 | 2020-07-03 | 2020-10-09 |
 | [Pearly](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Pearly](https://open.spotify.com/album/2NcfxAHWAIfCknd3OFPqNF) | 3:59 | 2021-09-17 | 2022-12-29 |
 | [Perfect Mistake](https://open.spotify.com/track/39xbjWMhqIpPZVT0V4uDSh) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Perfect Mistakes](https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp) | 4:13 | 2022-10-07 | 2022-10-25 |
@@ -1421,6 +1421,7 @@
 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 | 2021-02-06 | 2022-10-17 |
 | [When You’re Dreaming](https://open.spotify.com/track/4UQWvx7zTXxveHGK3ZRWdb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [When You’re Dreaming](https://open.spotify.com/album/4YkPkktGstfAWaaGvKTUuQ) | 2:53 | 2020-08-06 | 2022-04-20 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2020-03-16 | 2020-10-09 |
+| [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-04-28 |  |
 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-03-10 | 2023-04-30 |
 | [Where To Go](https://open.spotify.com/track/5EIPYlUGHcWXFV8DHINuBa) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/4PpRIBNZW0EW3gG3dwAuLX) | 4:11 | 2020-03-17 | 2021-01-11 |
 | [Where You Are](https://open.spotify.com/track/3vLKj3lijuDaomIoWPq09S) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Where You Are](https://open.spotify.com/album/4KIRj6RKkN6SqfCe0rOZEX) | 3:25 | 2021-07-30 | 2022-12-29 |

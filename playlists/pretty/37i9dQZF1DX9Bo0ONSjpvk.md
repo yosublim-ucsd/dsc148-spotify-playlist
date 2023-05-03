@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bo0ONSjpvk.md) - [plain]
 
 > Panama born producer <a href="spotify:artist:0vN342SOFAsCVGGZwLU9AF">Gian Varela</a> shares his take on Latin tech house with his upbeat DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362 likes - 18 songs - 59 min 51 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,365 likes - 18 songs - 59 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bo0ONSjpvk.md) - [plain]
 | 17 | [Party Sexo Alcohol \- Mixed](https://open.spotify.com/track/01sNMbpHDTIwJYD0Cq2th0) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Party Sexo Alcohol \(Mixed\)](https://open.spotify.com/album/3ndOMvaXSHxTDQTMSk1j85) | 3:38 |
 | 18 | [Faces \- Mixed](https://open.spotify.com/track/1C27AB8Nyp03R0N8ntDWDb) | [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Faces \(Mixed\)](https://open.spotify.com/album/4zfymGuxlg0uTLYKup90qD) | 3:57 |
 
-Snapshot ID: `MCwzYmUxODY0MjE1NTg3ZDRmMjBkYjg3NjU3NzIxMzgzNDE5NzQ2ZjM4`
+Snapshot ID: `MCw1OGU0YTEzY2Y2MWY4MjVhNmZlZWFiZmY0ODA4NWJkMjQzZDc5OTYy`

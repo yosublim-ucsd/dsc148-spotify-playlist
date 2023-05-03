@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,646 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,669 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [I Could Use A Miracle](https://open.spotify.com/track/4ZOLpF93H8Rhl1eI8gFELd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4OGaMVoEehxXtlBJ94bChD) | 4:08 |
 | 50 | [Emily](https://open.spotify.com/track/0gAvRZbaMrnUsH8bmo8eg8) | [State Cows](https://open.spotify.com/artist/5O1GkdCKBSYzioJb4Jysiv), [Fredrik Lundgren](https://open.spotify.com/artist/5yRJ7bDOd8MvTsM8kaaWNz) | [High and Dry](https://open.spotify.com/album/6msgsUb3ZihJbdWcaSc7fd) | 3:54 |
 
-Snapshot ID: `MCxiZDRmOWIzMWEwZTIzNjE1Y2VjNGZkOTdmYTVhMDI0ZDJlMDQ5MGQx`
+Snapshot ID: `MCw2MmE3YWNiNTZkNGJkNDUxZGQ4ODE0NmFkNjM5NTZmMTQ5OGM5OTVk`

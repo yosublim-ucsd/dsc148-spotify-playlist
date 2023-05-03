@@ -1955,6 +1955,28 @@
     },
     {
       "album": {
+        "name": "NEW YORK (CONCEPT DE PARIS) (feat. Gil Scott-Heron)",
+        "url": "https://open.spotify.com/album/4Vppt72lQJuwdBaK9HCh5E"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246011,
+      "name": "NEW YORK (CONCEPT DE PARIS) (feat. Gil Scott-Heron)",
+      "url": "https://open.spotify.com/track/52HkYMgslCfQjNuQ8zjE4P"
+    },
+    {
+      "album": {
         "name": "As I Am (Expanded Edition)",
         "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
       },

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-406 songs - 1 day 17 hr 15 min
+407 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Time To](https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Time To](https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83) | 3:51 | 2022-04-22 |  |
 | [A380](https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [A380](https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f) | 4:46 | 2022-05-27 |  |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-07-01 | 2022-12-17 |
-| [AfriKa2](https://open.spotify.com/track/5s7VoXTBBdrqaJdTQWGhRE) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [AfriKa2](https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi) | 6:07 | 2023-04-21 |  |
+| [AfriKa2](https://open.spotify.com/track/5s7VoXTBBdrqaJdTQWGhRE) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [AfriKa2](https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi) | 6:07 | 2023-04-21 | 2023-05-03 |
 | [After Glow](https://open.spotify.com/track/7EukyOmsxbTvdaCAxlaSF0) | [Clarian](https://open.spotify.com/artist/2polW59xyLfTDB4E5Ig7Xa) | [After Glow](https://open.spotify.com/album/5hVnONvAlyPC01bq90TvL8) | 8:41 | 2021-07-02 | 2022-07-27 |
 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 | 2022-07-01 |  |
 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 | 2022-01-21 | 2022-10-28 |
@@ -346,6 +346,7 @@
 | [Swing \- Solomun Remix](https://open.spotify.com/track/4uzb1HhlygWVTlH18TlUwM) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Swing \(Solomun Remix\)](https://open.spotify.com/album/6pMAtljFLCdqpVNVLY0iwB) | 4:06 | 2022-05-27 | 2022-07-29 |
 | [Symphonic Fantasy](https://open.spotify.com/track/0BZxv1E9EqjwWQneH7zFYQ) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [A Winter Sampler II](https://open.spotify.com/album/0m3OpCuqwyI3It73R2Gqwp) | 8:16 | 2021-04-21 | 2022-07-28 |
 | [Synthopia](https://open.spotify.com/track/71S7v0lVV56U2wYzBuhM0b) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Synthopia / Cicada](https://open.spotify.com/album/5GieeeiYau5SSbD0C5FI8N) | 8:39 | 2021-04-21 | 2022-04-21 |
+| [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 | 2023-04-21 |  |
 | [Tantale](https://open.spotify.com/track/011mlIOhqipYb0bttQZnuX) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Ra\*faelle](https://open.spotify.com/artist/1j3ssAVlxEXuW9zikS7gfO) | [Tantale](https://open.spotify.com/album/0KguNfeAVd9Jyv5p4m65ao) | 8:35 | 2022-07-08 | 2022-07-29 |
 | [Tarantism](https://open.spotify.com/track/5YWJDRdl0kh913dc17ZkxI) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Retza](https://open.spotify.com/artist/4DcuYkIAYuHiWl0AOiY9Vy) | [Euneirophrenia EP](https://open.spotify.com/album/25q2hciAYKUzf7ShqviLFd) | 6:57 | 2021-04-21 | 2022-04-21 |
 | [Tarlabasi \- Be Svendsen Remix](https://open.spotify.com/track/41JWvOS6vhn2uANnUsKVEG) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Indoor Voyager EP](https://open.spotify.com/album/3909IHgEbjaOHcmPDZwAPM) | 9:05 | 2021-04-21 | 2022-06-06 |

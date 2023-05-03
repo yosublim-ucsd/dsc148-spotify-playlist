@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-300 songs - 1 day 2 hr 7 min
+301 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,8 +134,9 @@
 | [Kalimba Heart](https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/2cJUkDSiyikvlTBtM3Dekx) | 3:11 | 2021-10-06 | 2022-07-29 |
 | [Kinematic Wave](https://open.spotify.com/track/5lhyA9mP2oegOJSvNIn49f) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Kinematic Wave](https://open.spotify.com/album/7JaCNcrLbGLioLmxmYGJIk) | 8:52 | 2021-10-06 | 2022-07-21 |
 | [Labyrinth \(Exit\)](https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Reflections](https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO) | 6:26 | 2021-10-06 |  |
-| [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-01-14 |  |
+| [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-01-14 | 2023-05-03 |
 | [Lament To The Open Air](https://open.spotify.com/track/4aqbV22jLGsZRle9QFGr4a) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Irrational Overcast](https://open.spotify.com/album/3mRYK8bya5UUM4JA695PJv) | 3:31 | 2021-10-06 | 2022-11-09 |
+| [Lament To The Open Air](https://open.spotify.com/track/7goDb5y8pMRhegRvPsa249) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Irrational Overcast](https://open.spotify.com/album/2hZ9RhdWKzLQozs3AMIbMf) | 3:31 | 2023-04-21 |  |
 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 | 2021-10-06 | 2022-08-03 |
 | [Landlocked](https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1) | [Capitol K](https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj) | [Goatherder](https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI) | 3:59 | 2021-10-06 |  |
 | [Licidana](https://open.spotify.com/track/5UP4NXyJJkTz7oyOx2CUii) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:15 | 2021-10-06 | 2022-07-28 |

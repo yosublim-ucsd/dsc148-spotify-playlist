@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the disco era with these superhits\. Cover \- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,171 likes - 48 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,184 likes - 48 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 32 | [Pyar Ka Imtihan](https://open.spotify.com/track/6KjJXIusbHTSsLVknmM0ju) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Vidhaata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UaPWSo0xzoG0X82x7TZdw) | 5:51 |
 | 33 | [Dekha Hai Maine Tumhe \- From 'Wardat' / Soundtrack Version](https://open.spotify.com/track/0JukplN9Z6vZjSG6xMY8eX) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Wardat](https://open.spotify.com/album/5o5yCKDGryoQCC3fjqFJTp) | 6:00 |
 | 34 | [Jooma Chumma De De, Pt\. 2](https://open.spotify.com/track/4TEjok6tCwRlY6RUXH6Bhg) | [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Hum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF) | 8:13 |
-| 35 | [Aa Dekhen Zara \- Rocky / Soundtrack Version](https://open.spotify.com/track/3Q3MZLhtL4CLCq93jjWNK8) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Rocky](https://open.spotify.com/album/78L9TjZw5IN7bI31lmonhT) | 8:33 |
+| 35 | [Aa Dekhen Zara \- From "Rocky"](https://open.spotify.com/track/3Q3MZLhtL4CLCq93jjWNK8) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Rocky](https://open.spotify.com/album/78L9TjZw5IN7bI31lmonhT) | 8:33 |
 | 36 | [Tum Jo Bhi Ho Dil Aaj Do](https://open.spotify.com/track/5ZFPhhC4tVf0KLeDlU9MzB) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Surakksha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y96C5codhCZcwTr8inaLU) | 7:09 |
 | 37 | [Jeena Bhi Kya Koi Jeena Hai, Pt\. 2](https://open.spotify.com/track/2gosEN0UYMhs4euV0IdXVr) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Kasam Paida Karnewale Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY) | 6:21 |
 | 38 | [Mere Jaesi Haseena](https://open.spotify.com/track/0nMXlGe5cXabBjrCA41qhx) | [Sharon Prabhakar](https://open.spotify.com/artist/1DZNWhh97RmSncbvjuRYgC), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Armaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1bAPmAnR6st4K2Jx2HIOhT) | 7:21 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 47 | [Bongo Bongo](https://open.spotify.com/track/3jZbbZ05FQ0Qo8h6xiaHcE) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Qaidi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI) | 5:05 |
 | 48 | [Y.O.G.A\. / Dialogue : Aurat Ke Khoobsurati \(Haadsaa\) \- Haadsaa / Soundtrack Version](https://open.spotify.com/track/6lcmNYpKOZTPOHoXh13V3Y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Haadsaa](https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B) | 6:04 |
 
-Snapshot ID: `MCxkMzhjNTIyYTE4Mjc4ZWU0NzE0OGZlYTJmMmE1NGNmYzYzOTc0YjNl`
+Snapshot ID: `MCxmNzhiYzQxNTc3NTZmMGIwYjQ1Yjg0OThiNjNlZDcwZWQxNTNmMmUx`

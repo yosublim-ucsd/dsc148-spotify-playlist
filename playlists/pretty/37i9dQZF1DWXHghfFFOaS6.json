@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 280409,
+  "num_followers": 280601,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2FmNTdmZWQ5NDZmZTZkODQxMjk5MGE5YzM3YzBiNzAxYWRjYTgy",
+  "snapshot_id": "MCwyNjdkMmVhNGY1YzkwMGFmZWYxNmYyMDNkNjdlYjljMDA5NGEyMjQ5",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -195,18 +195,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Go! Common Classics",
-        "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
       "artists": [
         {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        },
+        {
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
         }
       ],
-      "duration_ms": 243586,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk"
+      "duration_ms": 203680,
+      "name": "Astronomy (8th Light)",
+      "url": "https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -227,22 +231,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Mos Def & Talib Kweli Are Black Star",
-        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
+        "name": "Go! Common Classics",
+        "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
       },
       "artists": [
         {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        },
-        {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Astronomy (8th Light)",
-      "url": "https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF"
+      "duration_ms": 243586,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "To The Sky (Remastered)",
-        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
-      },
-      "artists": [
-        {
-          "name": "Black Mighty Orchestra",
-          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Ocean Beach",
-      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "To The Sky (Remastered)",
+        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
+      },
+      "artists": [
+        {
+          "name": "Black Mighty Orchestra",
+          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
+        }
+      ],
+      "duration_ms": 196682,
+      "name": "Ocean Beach",
+      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Southern Comfort",
         "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
       },
@@ -1227,26 +1227,6 @@
       "duration_ms": 348760,
       "name": "Stomp And Buck Dance",
       "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Rubberband EP",
-        "url": "https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 344986,
-      "name": "Rubberband of Life (feat. Ledisi)",
-      "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1267,6 +1247,26 @@
       "duration_ms": 228466,
       "name": "Block Episode",
       "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Rubberband EP",
+        "url": "https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 344986,
+      "name": "Rubberband of Life (feat. Ledisi)",
+      "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Sleazeball",
-        "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
-      },
-      "artists": [
-        {
-          "name": "Night Trains",
-          "url": "https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "YUNIK\u014dN",
         "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 205160,
       "name": "Tokisan",
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Sleazeball",
+        "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
+      },
+      "artists": [
+        {
+          "name": "Night Trains",
+          "url": "https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/0c9Ixyl94wsxMiW1k4Obh9"
-      },
-      "artists": [
-        {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5RnLNOSL1nkBzil8mVM10o"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Dad Man Cat",
         "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 265266,
       "name": "Long Cool & Bubbly",
       "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/0c9Ixyl94wsxMiW1k4Obh9"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5RnLNOSL1nkBzil8mVM10o"
     },
     {
       "added_at": "2022-07-18 17:17:22",

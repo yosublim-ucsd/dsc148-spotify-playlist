@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,700 likes - 127 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,800 likes - 127 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 103 | [Meguriai \(feat\. GLIM SPANKY\)](https://open.spotify.com/track/7wEHIR6mQUCJ3FeFnWevue) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 5:36 |
 | 104 | [ふたりのまほう](https://open.spotify.com/track/2sxba3dBEuKW6MSlOCJ1Tl) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [Futuristic](https://open.spotify.com/album/7c5cMkOoWDmlo5ptlYUs9f) | 3:19 |
 | 105 | [時代が泣いている](https://open.spotify.com/track/49bIMqj6DCSStfQuIB9Rwh) | [新井正人](https://open.spotify.com/artist/7hMxnHHsLMWePQQvmyFDjT) | [時代が泣いている](https://open.spotify.com/album/7uR7wD9vMsNsnVPCts3qAo) | 4:40 |
-| 106 | [Gの閃光](https://open.spotify.com/track/29ODTLXlIpmNT7rZFmV4gH) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [TVアニメ『ガンダム Gのレコンギスタ』オリジナルサウンドトラック 3](https://open.spotify.com/album/3WFW8EMq7eQyd4PO12HYgH) | 3:37 |
+| 106 | [Gの閃光](https://open.spotify.com/track/1qfpMdHoqhpRssLkw253ht) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [Gの閃光](https://open.spotify.com/album/0btQbNsSjSXqUplvgbOKec) | 3:37 |
 | 107 | [泪のムコウ](https://open.spotify.com/track/4UqCpvmOL8FiohnarAoRRx) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [A Hydrangea Blooms](https://open.spotify.com/album/33vrEaKrkBd3jOs7kpwaQu) | 3:30 |
 | 108 | [流星のナミダ](https://open.spotify.com/track/6ijZSjXxCvHnfWr2wMC7Iv) | [Chiaki Kuriyama](https://open.spotify.com/artist/5jPUEjgQTelKH4IV12KDIr) | [流星のナミダ](https://open.spotify.com/album/0775Tib7vuRC40mJKvHJos) | 4:58 |
 | 109 | [ココロオドル \-original version\-](https://open.spotify.com/track/424ekFg5fk3v0vmf9K85mU) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [Do You Know ?](https://open.spotify.com/album/1VwAzqa6biqAwybsDXsnm0) | 4:11 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 126 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 |
 | 127 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCwyY2QxYmU3MGY3ODUwMjVjNGNlZjQ2MzRjYWJmYjRlODJjYmNlOGYx`
+Snapshot ID: `MCw4NjE0OWNkMWIyMmRlNjdkMzUwMDhkZWJmZWQ5NmRmZGNiNGQ1MzU5`

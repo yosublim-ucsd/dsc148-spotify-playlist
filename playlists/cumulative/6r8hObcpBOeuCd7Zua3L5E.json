@@ -1943,6 +1943,32 @@
     },
     {
       "album": {
+        "name": "A Beautiful World (Sped Up)",
+        "url": "https://open.spotify.com/album/3flFNpjOD2zLeQZyYoZnPD"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221246,
+      "name": "Oh Shooter - Sped-Up",
+      "url": "https://open.spotify.com/track/6XabSQM86Cf7FJdHGtvGiZ"
+    },
+    {
+      "album": {
         "name": "Over (Sped Up)",
         "url": "https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy"
       },
@@ -2636,7 +2662,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 201667,
       "name": "Teenage Dirtbag - Sped Up",
       "url": "https://open.spotify.com/track/4fWaKRsV1WgIPVICeYgrp3"

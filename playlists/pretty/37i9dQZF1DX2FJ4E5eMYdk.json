@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 138399,
+  "num_followers": 138492,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGMzOTNlYmQ5NzJmNzRlMThhYzg0NmU1ZjQ0ODM1Y2U1NTk5YjRk",
+  "snapshot_id": "MCxiZDEyMmY4NzQ4MTk0ZmJmMTYwZjBkNTIzZjNiYmYwMDE3MTFjYmFi",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "The Alien Coast",
-        "url": "https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 204548,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 164245,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "The Alien Coast",
+        "url": "https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 204548,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Brain Cycles",
+        "url": "https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi"
+      },
+      "artists": [
+        {
+          "name": "Radio Moscow",
+          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "250 Miles",
+      "url": "https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Private Tales",
         "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Pearls to Swine",
-        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
-      },
-      "artists": [
-        {
-          "name": "Adam Torres",
-          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
-        }
-      ],
-      "duration_ms": 360946,
-      "name": "Juniper Arms",
-      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Strange to Explain",
         "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 351725,
       "name": "Where Do You Go When You Dream",
       "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Pearls to Swine",
+        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
+      },
+      "artists": [
+        {
+          "name": "Adam Torres",
+          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
+        }
+      ],
+      "duration_ms": 360946,
+      "name": "Juniper Arms",
+      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Habbie Doobie",
-        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
-      },
-      "artists": [
-        {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
-        }
-      ],
-      "duration_ms": 376618,
-      "name": "Habbie Doobie",
-      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Panther in the Dollhouse",
         "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
       },
@@ -891,18 +891,34 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Brain Cycles",
-        "url": "https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi"
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
       },
       "artists": [
         {
-          "name": "Radio Moscow",
-          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
         }
       ],
-      "duration_ms": 292000,
-      "name": "250 Miles",
-      "url": "https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg"
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
+      },
+      "artists": [
+        {
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "Apollo's Mood",
+      "url": "https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -983,26 +999,6 @@
       "duration_ms": 172440,
       "name": "The Light Of Day",
       "url": "https://open.spotify.com/track/4vev473dJkBpiChkglAscC"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Window Flowers",
-        "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        },
-        {
-          "name": "The Stampede",
-          "url": "https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "Hey Man",
-      "url": "https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD"
     }
   ],
   "unique_name": "Psych & Groove",

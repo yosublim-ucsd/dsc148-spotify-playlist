@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Diljit Dosanjh & Nimrat Khaira
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,362 likes - 69 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,470 likes - 69 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 68 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 |
 | 69 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
 
-Snapshot ID: `MCwzODExN2I2NjZkMjA1ZDJjYTJmOWY4MjEyYWEwMjhmNDRiNDhjZDg1`
+Snapshot ID: `MCwxNzAzYmE5MWExM2E0NTljODVmZDI0MDI0Nzk5NDRhZDYxOTU5YTFi`

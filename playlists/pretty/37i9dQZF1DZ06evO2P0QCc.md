@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,810 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,870 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [Qué Fue Lo Que Pasó](https://open.spotify.com/track/2h1ogFO6iO5ulR0gtbvYAC) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Bien Intenso](https://open.spotify.com/album/6UhtrUzlpNVrUXw5KA07fy) | 4:11 |
 | 50 | [Dolor en el Sur](https://open.spotify.com/track/26G3ejHXZlHm1o2GTaCqUr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:56 |
 
-Snapshot ID: `MjgwNDkwMTUsMDAwMDAwMDA0NDkzYTAxMDhjZjRmMzQ2ODhmMDEwM2FlZmExZjM5Nw==`
+Snapshot ID: `MjgwNTA1MDcsMDAwMDAwMDBjNjAwYTYzYzZlYzA2YjRjZjRiNTc0NmU0ZDcxNTgxMQ==`

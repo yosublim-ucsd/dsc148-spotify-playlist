@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Molotov en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,578 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,596 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Volverán](https://open.spotify.com/track/0CBJxlTeXc7GYhD4ajRf1C) | [MINIÑO](https://open.spotify.com/artist/34iawz1efpYTtZCNtO2jEr) | [Volverán](https://open.spotify.com/album/0EsQtVYTPbhLMRM8UMwqGY) | 2:29 |
 | 50 | [la ola](https://open.spotify.com/track/7lnU0F5jKzN6cjMeDYdVWx) | [After Tommy](https://open.spotify.com/artist/3HpKdarqsHASs1kRv1uENZ) | [el verano pasará](https://open.spotify.com/album/129Gtdrln4K2zkz0X64l8G) | 3:44 |
 
-Snapshot ID: `MCxmNmI4NmUwNDFkMTE1ZjdlN2E1M2Y1ZjdlNjA2MTI0MTJmYjJiNzcw`
+Snapshot ID: `MCw1MTZjNzZmMTk3OTA5YTkxNGI5Y2VjMWNiMDExM2U1YTQ4ODY3ZDE5`

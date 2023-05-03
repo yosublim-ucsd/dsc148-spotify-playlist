@@ -2,9 +2,9 @@
 
 ### [Arabic Classics](https://open.spotify.com/playlist/37i9dQZF1DWZyoKpr8bHNc)
 
-> Timeless & classic Arabic songs
+> Timeless & classic Arabic songs\. Cover: Warda
 
-61 songs - 11 hr 48 min
+63 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,10 +27,10 @@
 | [Ana Moush Kafer \- 2008 Remastered](https://open.spotify.com/track/6BE0jeBho94oFSeF3a3nmP) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:03 | 2020-10-13 |  |
 | [Asmar](https://open.spotify.com/track/2Fp144BJRrhBCVqPrvMiEL) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/5bBcBosPm1cZ97jBX0EcGw) | 5:33 | 2020-10-13 | 2022-07-29 |
 | [Asmar](https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/11g6WESfbVfC5wM14lb6L4) | 5:33 | 2020-10-13 |  |
-| [Awel Mara](https://open.spotify.com/track/6TbxWXPwXo8hclWtsP3eWP) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/6q0VqJM4FYiS4oscbgkVaw) | 3:39 | 2020-10-13 |  |
+| [Awel Mara](https://open.spotify.com/track/6TbxWXPwXo8hclWtsP3eWP) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/6q0VqJM4FYiS4oscbgkVaw) | 3:39 | 2020-10-13 | 2023-05-03 |
 | [Baddi Choufik Koul Yom](https://open.spotify.com/track/4f4Z7WfFepkjUV9tvMwWLT) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 2](https://open.spotify.com/album/2yEU2JDWvca5jux4iHTGHU) | 4:32 | 2020-10-13 |  |
 | [Baeed Annak](https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 38:22 | 2020-10-13 |  |
-| [Bahlam Bek](https://open.spotify.com/track/4aiGuFZXJUKJZYvc19g7M7) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh) | 9:01 | 2020-10-13 |  |
+| [Bahlam Bek](https://open.spotify.com/track/4aiGuFZXJUKJZYvc19g7M7) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh) | 9:01 | 2020-10-13 | 2023-05-03 |
 | [Bala Wala Chi](https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 3:27 | 2020-10-13 |  |
 | [Batwanes Beek](https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Batwanes Beek](https://open.spotify.com/album/3w6wliAjhJS16hZyimZpT7) | 13:24 | 2023-01-23 |  |
 | [Betlomoni Leh](https://open.spotify.com/track/2VwqTz304YseLtNW8RjoyG) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Aghany Film Hekayet Hob](https://open.spotify.com/album/1dAYSuj4f2djYrKHSlLpSS) | 8:29 | 2020-10-13 |  |
@@ -41,11 +41,13 @@
 | [E’tazalt El Gharam](https://open.spotify.com/track/0EHJC0aoO4nFAe3e78wmCR) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [E'tazalt El Gharam](https://open.spotify.com/album/2s0iZB9XjgR3ECqidQUX17) | 7:47 | 2020-10-13 | 2022-07-29 |
 | [Fakarouny](https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 59:37 | 2020-10-13 |  |
 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 | 2020-10-13 |  |
+| [Gabar](https://open.spotify.com/track/0fq53r3URq2W2Oyioi4WwP) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Aghany Film Maabodet El Gamaheer](https://open.spotify.com/album/4Uso13tX7qhkdyH3O8kVUc) | 20:48 | 2023-05-02 |  |
 | [Helwi W Ya Niyalha](https://open.spotify.com/track/0pK13fWr2YzS8UjHMq9vUY) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 3:43 | 2020-10-13 |  |
 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 | 2020-10-13 |  |
-| [Khosara](https://open.spotify.com/track/2sM3SQwxMsIkAtftW7Fl4w) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh) | 7:00 | 2020-10-13 |  |
+| [Khosara](https://open.spotify.com/track/2sM3SQwxMsIkAtftW7Fl4w) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh) | 7:00 | 2020-10-13 | 2023-05-03 |
 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 | 2020-10-13 |  |
 | [La Mosh Ana Ely Abky](https://open.spotify.com/track/0uJDPlP8M8GX3rtkN42zmw) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Agmal Oghneyat Mohamed Abd El Wahab](https://open.spotify.com/album/35GA4JraTNn23ovQjTWgcP) | 9:40 | 2020-10-13 |  |
+| [Machroul Alik Machroul](https://open.spotify.com/track/3cwqnP80jyybhbb8n1kIfW) | [Karem Mahmoud](https://open.spotify.com/artist/5553HL7hQzLU5cH2xWe0jR) | [Abtal El Ghad](https://open.spotify.com/album/6eKJZSFMeYoB8CqNa6GLft) | 6:15 | 2023-05-02 |  |
 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 | 2020-10-13 |  |
 | [Nassam Alayna El Hawa](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Bent El Hares](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 4:03 | 2020-10-13 |  |
 | [Nwina Al Jazi Nwina](https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 5:08 | 2020-10-13 |  |
@@ -55,7 +57,7 @@
 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 | 2020-10-13 |  |
 | [Seret El Hob](https://open.spotify.com/track/1PkyJNFqmxHhwGhphkcy5y) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 39:13 | 2020-10-13 |  |
 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayib](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 | 2020-10-13 |  |
-| [Toba](https://open.spotify.com/track/463xNIeV700zPD76R2wXQq) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Rawaeaa Abd El Halim 5](https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3) | 5:53 | 2020-10-13 |  |
+| [Toba](https://open.spotify.com/track/463xNIeV700zPD76R2wXQq) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Rawaeaa Abd El Halim 5](https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3) | 5:53 | 2020-10-13 | 2023-05-03 |
 | [Ya Aashikata El Wardi](https://open.spotify.com/track/0z6lBh5eWAPqfB2GOvnzCZ) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:33 | 2020-10-13 |  |
 | [Ya Ahl El Hawa](https://open.spotify.com/track/1CoN7VnsENHvbSD7TuiIjg) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 6:55 | 2020-10-13 |  |
 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 | 2020-10-13 |  |

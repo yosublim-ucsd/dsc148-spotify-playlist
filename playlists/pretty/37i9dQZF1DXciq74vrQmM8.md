@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. delilah bon
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,119 likes - 89 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,253 likes - 89 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 88 | [Toilet](https://open.spotify.com/track/1EwrRgBEsPpL5CWA7kMfr0) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Toilet](https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd) | 3:49 |
 | 89 | [NEW BOY](https://open.spotify.com/track/4XbW7CRBTy5jCQcN8XAcNS) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [NEW BOY](https://open.spotify.com/album/5BsSDGYksYm1ORLKvASAyJ) | 3:46 |
 
-Snapshot ID: `MCwwZjEyZTZiYjBlY2M0NzlhNTEyMjgwZGY1ODY4YzdiNjhlYjM5Nzc0`
+Snapshot ID: `MCwzNzkzZDc5ZjY4MDcyYmJlOWM4ODMwMmZiODMwNGViZDM0N2VjMTRh`

@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 349341,
+  "num_followers": 349534,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWE4ZjgxYjhlNmRlYzI5M2ViMTIxMzE2ZDY3YTRhMGY5MGIyM2Y1",
+  "snapshot_id": "MCxhNzViNzBhNTM1YzcxZGQ3NWQ0MGEzMzA2MTA5MDY5MTE2OTVmZjk3",
   "tracks": [
     {
       "added_at": "2023-04-25 13:35:29",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Through The Blue (Piano Version)",
+        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "duration_ms": 225494,
+      "name": "Through The Blue - Piano Version",
+      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Act Of Reconciling",
         "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 113986,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Through The Blue (Piano Version)",
-        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
-      },
-      "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        }
-      ],
-      "duration_ms": 225494,
-      "name": "Through The Blue - Piano Version",
-      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "The Old Oak Tree",
-        "url": "https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo"
-      },
-      "artists": [
-        {
-          "name": "Frederico Morales",
-          "url": "https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx"
-        }
-      ],
-      "duration_ms": 131951,
-      "name": "At The End Of The Day",
-      "url": "https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Benediction",
         "url": "https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Nowesind",
-        "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
+        "name": "The Old Oak Tree",
+        "url": "https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo"
       },
       "artists": [
         {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+          "name": "Frederico Morales",
+          "url": "https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx"
         }
       ],
-      "duration_ms": 119120,
-      "name": "Nowesind",
-      "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
+      "duration_ms": 131951,
+      "name": "At The End Of The Day",
+      "url": "https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -795,6 +779,22 @@
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Nowesind",
+        "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "Nowesind",
+      "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Cygne Noir",
         "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
+        "name": "Moondust",
+        "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
       },
       "artists": [
         {
-          "name": "G\u00c5EL",
-          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
+          "name": "Nina Fiadh",
+          "url": "https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ"
         }
       ],
-      "duration_ms": 147936,
-      "name": "Mid Air",
-      "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
+      "duration_ms": 115565,
+      "name": "Moondust",
+      "url": "https://open.spotify.com/track/3Kd4HLl20kMtG64MrdVJ86"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1099,6 +1115,22 @@
       "duration_ms": 113285,
       "name": "Before We Met",
       "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
+      },
+      "artists": [
+        {
+          "name": "G\u00c5EL",
+          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
+        }
+      ],
+      "duration_ms": 147936,
+      "name": "Mid Air",
+      "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1167,22 +1199,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Moondust",
-        "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
-      },
-      "artists": [
-        {
-          "name": "Nina Fiadh",
-          "url": "https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ"
-        }
-      ],
-      "duration_ms": 115565,
-      "name": "Moondust",
-      "url": "https://open.spotify.com/track/3Kd4HLl20kMtG64MrdVJ86"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Inside \u5185",
         "url": "https://open.spotify.com/album/4TDd4IzvZNsSanj4HxiAU6"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
-      },
-      "artists": [
-        {
-          "name": "Oscar Mallen",
-          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "for you",
         "url": "https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 174866,
       "name": "for you",
       "url": "https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Gently falling rain",
+        "url": "https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blois",
+          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Gently falling rain",
+      "url": "https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1295,38 +1311,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Gently falling rain",
-        "url": "https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c"
-      },
-      "artists": [
-        {
-          "name": "Ivan Blois",
-          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Gently falling rain",
-      "url": "https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Winterfall",
-        "url": "https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX"
-      },
-      "artists": [
-        {
-          "name": "Eric Ville de Soins",
-          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Winterfall",
-      "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 101825,
       "name": "Purity",
       "url": "https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Winterfall",
+        "url": "https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX"
+      },
+      "artists": [
+        {
+          "name": "Eric Ville de Soins",
+          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "Winterfall",
+      "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "For the Love of You",
+        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "duration_ms": 107730,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Winterwald",
         "url": "https://open.spotify.com/album/5l4elAOnQGnjKJc3sbHCrP"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 184583,
       "name": "As I Dream",
       "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "In Repose",
-        "url": "https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ"
-      },
-      "artists": [
-        {
-          "name": "Christopher Dicker",
-          "url": "https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3"
-        }
-      ],
-      "duration_ms": 142805,
-      "name": "In Repose",
-      "url": "https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc"
     }
   ],
   "unique_name": "Coffee and Piano",

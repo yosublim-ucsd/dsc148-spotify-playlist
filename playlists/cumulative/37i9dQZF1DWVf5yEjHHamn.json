@@ -405,6 +405,32 @@
     },
     {
       "album": {
+        "name": "Jubel",
+        "url": "https://open.spotify.com/album/6PPoHgOC4luShJIh0p7urJ"
+      },
+      "artists": [
+        {
+          "name": "roggie",
+          "url": "https://open.spotify.com/artist/61gmjPlX3uejvEetDY5OUm"
+        },
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "xSyborg",
+          "url": "https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201665,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/1cIIW3j6p4SxyAK4XmHqR9"
+    },
+    {
+      "album": {
         "name": "Jubel EP",
         "url": "https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R"
       },
@@ -416,7 +442,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 198920,
       "name": "Jubel - Radio Edit",
       "url": "https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR"

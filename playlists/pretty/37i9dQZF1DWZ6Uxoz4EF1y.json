@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 127682,
+  "num_followers": 127878,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDY2NTJmMTZlNTA5MGU3ZDk0OWNhZTY3Yzc4NDlhNjRiN2E1MzYx",
+  "snapshot_id": "MCxmNjhlYjRmOWM1MTZjMGFhYzZiMzZkNDU0OWNmNzkxMDlmYzFkZDgw",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "S\u00f3lo Tu Gracia",
-        "url": "https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 282106,
-      "name": "Jes\u00fas, Has Mi Car\u00e1cter",
-      "url": "https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Me rindo a ti",
         "url": "https://open.spotify.com/album/3slWjvvWZv9pqUgzkI0A22"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 291428,
       "name": "Me rindo a ti",
       "url": "https://open.spotify.com/track/1elgJB7cf8pf66fyIeQWzM"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "S\u00f3lo Tu Gracia",
+        "url": "https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 282106,
+      "name": "Jes\u00fas, Has Mi Car\u00e1cter",
+      "url": "https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -663,18 +663,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Colecci\u00f3n de Danilo Montero",
-        "url": "https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7"
+        "name": "Cielo En La Tierra",
+        "url": "https://open.spotify.com/album/62ZcFS2JhS73t3fhAZ6rZX"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Cantar\u00e9 de Tu Amor",
-      "url": "https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo"
+      "duration_ms": 386426,
+      "name": "Cielo En La Tierra",
+      "url": "https://open.spotify.com/track/4LTqkLILC2Vfrbg0C85i5b"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -695,22 +699,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Cielo En La Tierra",
-        "url": "https://open.spotify.com/album/62ZcFS2JhS73t3fhAZ6rZX"
+        "name": "Colecci\u00f3n de Danilo Montero",
+        "url": "https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 386426,
-      "name": "Cielo En La Tierra",
-      "url": "https://open.spotify.com/track/4LTqkLILC2Vfrbg0C85i5b"
+      "duration_ms": 360071,
+      "name": "Cantar\u00e9 de Tu Amor",
+      "url": "https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+        "name": "Unidos Permanecemos (Live)",
+        "url": "https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "Hunter G K Thompson",
-          "url": "https://open.spotify.com/artist/3GGJS8pn81Kc9HnJ6flXEo"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 465386,
-      "name": "S\u00e9 Entronado (Live)",
-      "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
+      "duration_ms": 329000,
+      "name": "Solo Cristo (None But Jesus) - Live",
+      "url": "https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1367,22 +1367,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Unidos Permanecemos (Live)",
-        "url": "https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm"
+        "name": "Bethel Music en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Hunter G K Thompson",
+          "url": "https://open.spotify.com/artist/3GGJS8pn81Kc9HnJ6flXEo"
         }
       ],
-      "duration_ms": 329000,
-      "name": "Solo Cristo (None But Jesus) - Live",
-      "url": "https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu"
+      "duration_ms": 465386,
+      "name": "S\u00e9 Entronado (Live)",
+      "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1435,42 +1435,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 393769,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Bethel Music en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 316920,
-      "name": "Jesus Te Amamos (Live)",
-      "url": "https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -1511,18 +1475,38 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 327146,
-      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
-      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
+      "duration_ms": 393769,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Bethel Music en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "duration_ms": 316920,
+      "name": "Jesus Te Amamos (Live)",
+      "url": "https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1539,6 +1523,22 @@
       "duration_ms": 372767,
       "name": "Eres Tu",
       "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 327146,
+      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
+      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
     },
     {
       "added_at": "2023-04-09 08:31:46",

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Saiko",
-  "num_followers": 63824,
+  "num_followers": 63833,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWEyMzY2ZTE0MmUwOTE3MTgwOWY4MDIwZDI0ZDVhY2Y5NWQ1Zjdi",
+  "snapshot_id": "MCwzZmI1MjVhYmJiOTUxNmExYTM3MGI4Mzg1Yzg0NTI0NGYwYjc2MWIw",
   "tracks": [
     {
       "added_at": "2023-04-28 00:01:00",
@@ -211,30 +211,22 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
-        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
-        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
       },
       "artists": [
         {
-          "name": "BANDIDO",
-          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 280274,
-      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
-      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+      "duration_ms": 166050,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
     },
     {
       "added_at": "2023-04-28 00:01:00",
@@ -263,22 +255,30 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
-        "name": "Un Poquito",
-        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
+        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
+        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
       "artists": [
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 166050,
-      "name": "Un Poquito",
-      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+      "duration_ms": 280274,
+      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
+      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
     },
     {
       "added_at": "2023-04-28 00:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2023-04-28 00:01:00",
+      "album": {
         "name": "Dimelo Ma",
         "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 173187,
       "name": "Dimelo Ma",
       "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
-    },
-    {
-      "added_at": "2023-04-28 00:01:00",
-      "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2023-04-28 00:01:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
-        "name": "Tussi Code Mari",
-        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
-      },
-      "artists": [
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Crismj",
-          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
-        }
-      ],
-      "duration_ms": 172390,
-      "name": "Tussi Code Mari",
-      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
-    },
-    {
-      "added_at": "2023-04-28 00:01:00",
-      "album": {
         "name": "Combi Nueva",
         "url": "https://open.spotify.com/album/3DbPnfLURW3fIHfnU2pyhI"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 192000,
       "name": "Combi Nueva",
       "url": "https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr"
+    },
+    {
+      "added_at": "2023-04-28 00:01:00",
+      "album": {
+        "name": "Tussi Code Mari",
+        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Crismj",
+          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
+        }
+      ],
+      "duration_ms": 172390,
+      "name": "Tussi Code Mari",
+      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
     },
     {
       "added_at": "2023-04-28 00:01:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
+        "name": "Me Juquie",
+        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Me Juquie",
+      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
+    },
+    {
+      "added_at": "2023-04-28 00:01:00",
+      "album": {
         "name": "HOR\u00d3SCOPO",
         "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 248659,
       "name": "HOR\u00d3SCOPO",
       "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
-    },
-    {
-      "added_at": "2023-04-28 00:01:00",
-      "album": {
-        "name": "Me Juquie",
-        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Me Juquie",
-      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
     },
     {
       "added_at": "2023-04-28 00:01:00",

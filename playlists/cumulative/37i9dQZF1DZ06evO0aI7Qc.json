@@ -148,7 +148,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 153500,
       "name": "Bien Alerta - En vivo",
       "url": "https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv"
@@ -1132,6 +1132,24 @@
       "duration_ms": 158093,
       "name": "JGL",
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
+    },
+    {
+      "album": {
+        "name": "La Tamalera",
+        "url": "https://open.spotify.com/album/6XBGCAXEeBcbxItgTV54YV"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153306,
+      "name": "La Tamalera",
+      "url": "https://open.spotify.com/track/3UNYe5t3IqkJq0m8OBZw82"
     },
     {
       "album": {

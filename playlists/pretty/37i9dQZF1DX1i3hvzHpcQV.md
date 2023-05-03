@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Vaathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,266 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,834 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vaa Vaathi](https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p) | 3:45 |
-| 2 | [Mainaru Vetti Katti \(From "Dasara"\)](https://open.spotify.com/track/2bNnF0kKGMHFSaxXiitbFr) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2) | [Mainaru Vetti Katti \(From "Dasara"\) \- Single](https://open.spotify.com/album/0rGcHqbQ7KLQNuEpSfcmf2) | 3:23 |
+| 2 | [Mainaru Vetti Katti](https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2) | [Dasara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr) | 3:23 |
 | 3 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 |
 | 4 | [Osarattum Pathu Thala \(From "Pathu Thala"\)](https://open.spotify.com/track/1IevAM0Sl5iUIxGWDOXIar) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Osarattum Pathu Thala \(From "Pathu Thala"\)](https://open.spotify.com/album/2iJ80LZlLGk7G8Fkc8gcW8) | 4:50 |
 | 5 | [Aga Naga \(From “Ponniyin Selvan Part\-2”\)](https://open.spotify.com/track/4oUn3DozNxFnjxegR1GlkZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Aga Naga \(From “Ponniyin Selvan Part\-2”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5A576slaUQhlCvNZtWynEX) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 | 49 | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Niranjana Ramanan](https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx) | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/album/2ftkMy4ttkkdjFsFReYdWg) | 1:03 |
 | 50 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 |
 
-Snapshot ID: `MCxkYzE1MjJlMjlmZGM1MjI5ZTM0ZTMxNjY2NWFhYTc5NjBmNTg3MGMz`
+Snapshot ID: `MCw5Y2UzNWU1NmJkZjk1ZWFkMTBlYTNkNWRmN2U4YzQwZjJhZjE2YzI2`

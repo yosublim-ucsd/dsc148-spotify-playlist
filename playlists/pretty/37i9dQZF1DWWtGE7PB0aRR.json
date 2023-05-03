@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 116061,
+  "num_followers": 116122,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTU5MmVlMDVkMGY5ZTdkOWUzZGRmZjIwZmFjOGNkMzhlYjkyZDRk",
+  "snapshot_id": "MCw4NDA4ZTE2ZmJmMGQ3MWI0NjcxNjQzNTc5MWY5MWIwNWQ1MjFkMTA2",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -283,18 +283,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Foghat (2016 Remaster)",
-        "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
+        "name": "Blues Breakers",
+        "url": "https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H"
       },
       "artists": [
         {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         }
       ],
-      "duration_ms": 260813,
-      "name": "I Just Want to Make Love to You - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt"
+      "duration_ms": 216200,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/0KaBfk7ax1IoCyA1aABCf9"
     },
     {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Foghat (2016 Remaster)",
+        "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "duration_ms": 260813,
+      "name": "I Just Want to Make Love to You - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Shining in the Half Light",
@@ -375,22 +391,6 @@
       "duration_ms": 323733,
       "name": "(I Know) I'm Losing You",
       "url": "https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Blues Breakers",
-        "url": "https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -457,20 +457,20 @@
       "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Who Do You Love - The Anthology",
-        "url": "https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb"
+        "name": "Diamonds In The Dirt",
+        "url": "https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT"
       },
       "artists": [
         {
-          "name": "Juicy Lucy",
-          "url": "https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 180146,
+      "duration_ms": 187245,
       "name": "Who Do You Love?",
-      "url": "https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP"
+      "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -489,20 +489,20 @@
       "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Diamonds In The Dirt",
-        "url": "https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT"
+        "name": "Who Do You Love - The Anthology",
+        "url": "https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Juicy Lucy",
+          "url": "https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY"
         }
       ],
-      "duration_ms": 187245,
+      "duration_ms": 180146,
       "name": "Who Do You Love?",
-      "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
+      "url": "https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -569,26 +569,6 @@
       "url": "https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Going Up, Going Down... The Anthology 1968-2001",
-        "url": "https://open.spotify.com/album/4YEypnQ1RQ9N3gifKKYIUM"
-      },
-      "artists": [
-        {
-          "name": "Stan Webb",
-          "url": "https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF"
-        },
-        {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
-        }
-      ],
-      "duration_ms": 309440,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/4jb8VQ2XbpXf8doWXUJU29"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Reckless Heart",
@@ -619,6 +599,26 @@
       "duration_ms": 321160,
       "name": "I Can't Wait Much Longer",
       "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Going Up, Going Down... The Anthology 1968-2001",
+        "url": "https://open.spotify.com/album/4YEypnQ1RQ9N3gifKKYIUM"
+      },
+      "artists": [
+        {
+          "name": "Stan Webb",
+          "url": "https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF"
+        },
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 309440,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/4jb8VQ2XbpXf8doWXUJU29"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -823,18 +823,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Thank Christ for the Bomb (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo"
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
       "artists": [
         {
-          "name": "The Groundhogs",
-          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
         }
       ],
-      "duration_ms": 304933,
-      "name": "Eccentric Man - 2003 Remastered Version",
-      "url": "https://open.spotify.com/track/002YdWxaenIUL4PHiv5EB5"
+      "duration_ms": 181720,
+      "name": "Don't Ask Me What I Say",
+      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+        "name": "Thank Christ for the Bomb (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "The Groundhogs",
+          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
         }
       ],
-      "duration_ms": 181720,
-      "name": "Don't Ask Me What I Say",
-      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
+      "duration_ms": 304933,
+      "name": "Eccentric Man - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/002YdWxaenIUL4PHiv5EB5"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "100 Ton Chicken",
-        "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
-      },
-      "artists": [
-        {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
-        }
-      ],
-      "duration_ms": 268920,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "02:10 The Early Years",
@@ -963,6 +947,38 @@
       "duration_ms": 495266,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/3mMtsmooHmJo6Ciiwo6oPv"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "100 Ton Chicken",
+        "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 268920,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+        "name": "Foghat (2016 Remaster)",
+        "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
         }
       ],
-      "duration_ms": 215453,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
+      "duration_ms": 230160,
+      "name": "Highway (Killing Me) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -1015,22 +1031,6 @@
       "duration_ms": 387640,
       "name": "Desperation (Stereo Version)",
       "url": "https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Foghat (2016 Remaster)",
-        "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
-      },
-      "artists": [
-        {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Highway (Killing Me) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL"
     },
     {
       "added_at": "2021-04-22 22:35:02",

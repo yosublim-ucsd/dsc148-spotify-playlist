@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002Cover: TENDOUJI",
+  "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002Cover: \u30a4\u30cf\u30e9\u30ab\u30f3\u30bf\u30ed\u30a6",
   "name": "Edge!",
   "tracks": [
     {
@@ -400,6 +400,24 @@
       "duration_ms": 185915,
       "name": "aTOZ / BATH",
       "url": "https://open.spotify.com/track/0LSag4LqqUxI43TLZ7Oo4O"
+    },
+    {
+      "album": {
+        "name": "Portray",
+        "url": "https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF"
+      },
+      "artists": [
+        {
+          "name": "Cantaro Ihara",
+          "url": "https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223469,
+      "name": "Baby So in Love",
+      "url": "https://open.spotify.com/track/1tLmk8MxJuLMXNv654c6A5"
     },
     {
       "album": {
@@ -947,6 +965,24 @@
     },
     {
       "album": {
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/2ES2tljkU27Bg8EbNWbPxZ"
+      },
+      "artists": [
+        {
+          "name": "LIGHTERS",
+          "url": "https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234445,
+      "name": "dawn",
+      "url": "https://open.spotify.com/track/43w5CjBykSk8K07M1GHZyg"
+    },
+    {
+      "album": {
         "name": "Beige",
         "url": "https://open.spotify.com/album/4T0Va4f8kimg1wqdpEIFaR"
       },
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 181500,
       "name": "EVERGREEN",
       "url": "https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS"
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 183072,
       "name": "I was...",
       "url": "https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er"
@@ -5679,6 +5715,28 @@
     },
     {
       "album": {
+        "name": "\u3068\u308a\u3042\u3048\u305a",
+        "url": "https://open.spotify.com/album/6Fg4RusObKTcshoLDWv05K"
+      },
+      "artists": [
+        {
+          "name": "Mikan Hayashi",
+          "url": "https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt"
+        },
+        {
+          "name": "\u591a\u591a x \u4ee5\u6377",
+          "url": "https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277493,
+      "name": "\u3068\u308a\u3042\u3048\u305a",
+      "url": "https://open.spotify.com/track/7k2kKPLzxIa4OmDeoiWfYD"
+    },
+    {
+      "album": {
         "name": "\u3069\u3053\u3078\u3082\u884c\u304b\u306a\u3044\u3067",
         "url": "https://open.spotify.com/album/5uzQHJQVfnPR9sZXxG6PlJ"
       },
@@ -6768,7 +6826,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 276750,
       "name": "\u591c\u306e\u6d41\u308c",
       "url": "https://open.spotify.com/track/4QL8gzhgrPMsEjnSO76Yfp"
@@ -7799,6 +7857,24 @@
     },
     {
       "album": {
+        "name": "\u8fd1\u3044\u591c\u660e\u3051",
+        "url": "https://open.spotify.com/album/5cmjQoKSSl3HdQphqKpLvo"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245316,
+      "name": "\u8fd1\u3044\u591c\u660e\u3051",
+      "url": "https://open.spotify.com/track/2a8183S8N1XtyHBbBOoFYy"
+    },
+    {
+      "album": {
         "name": "Mixed up",
         "url": "https://open.spotify.com/album/1MZlqLkh5VcVNdaUYxQ5zf"
       },
@@ -7886,7 +7962,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 381030,
       "name": "\u96e8 [feat. (sic)boy]",
       "url": "https://open.spotify.com/track/1kiDe0vgBTCTUy26X8bKDj"

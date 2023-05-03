@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 21 min
+103 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,12 +95,13 @@
 | [Qué Voy A Hacer Para Olvidarte](https://open.spotify.com/track/04GweOJ0hUSX3URVtx0G30) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Qué Voy A Hacer Para Olvidarte](https://open.spotify.com/album/22M3XTilMjDgmqciYJFk5w) | 2:57 | 2022-06-23 | 2023-02-09 |
 | [Reproches al Viento](https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu) | 3:41 | 2022-06-01 | 2022-09-26 |
 | [Reproches Al Viento](https://open.spotify.com/track/2yIgZNeQVWvQAriFDf4CsI) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Reproches Al Viento](https://open.spotify.com/album/6Ook6mOO6gY5In5TAYS6q3) | 3:41 | 2022-09-28 |  |
-| [Rifaré Mi Suerte](https://open.spotify.com/track/1SrYVzqCiKywmHYYsCJ0pI) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:06 | 2023-04-30 |  |
+| [Rifaré Mi Suerte](https://open.spotify.com/track/1SrYVzqCiKywmHYYsCJ0pI) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:06 | 2023-04-30 | 2023-05-03 |
 | [Sal de Mi Vida](https://open.spotify.com/track/2hConPP7C5qyOG069xQVKo) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Medio Siglo](https://open.spotify.com/album/5DWuNwCOHBE61d2owmCv1R) | 3:51 | 2022-06-01 |  |
 | [Se Me Hizo Vicio](https://open.spotify.com/track/5ojaAFtMvJuDzN2hCFy1aX) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Las Bandas Románticas](https://open.spotify.com/album/6aTyqTryxFbbFAfdOvZBOb) | 2:45 | 2022-06-06 | 2022-08-20 |
 | [Si por Casualidad](https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:39 | 2022-06-01 |  |
 | [Si Pudiera](https://open.spotify.com/track/6zwpRMJHf3DQupj1NFyxrD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Soy Tu Maestro](https://open.spotify.com/album/0GdHeCV6ThHAEhBUJIDlN9) | 3:30 | 2022-06-01 |  |
 | [Sin Pensar Yo Te Engañé](https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antigüedad](https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT) | 3:40 | 2022-06-01 |  |
+| [Te Aprovechas](https://open.spotify.com/track/2yZ2icFApg5sM4NG63a1RR) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Te Aprovechas](https://open.spotify.com/album/2UoPJJmTnHiMw1L1XM9bzL) | 3:02 | 2023-05-02 |  |
 | [Te Llegará Mi Olvido](https://open.spotify.com/track/1RFos4pteRCTVxd3jrqbLH) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:05 | 2022-09-30 |  |
 | [Te Llevaste Lo Mejor](https://open.spotify.com/track/1ghKTQnQ3eK4PCz1sCdNoa) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Te Llevaste Lo Mejor](https://open.spotify.com/album/113eqLjB58bCdPOBjTYVsh) | 3:48 | 2022-09-02 | 2022-11-22 |
 | [Te Sigo Amando](https://open.spotify.com/track/3JpCeYH4ecOATz52uaIKO4) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Mayor de Mis Antojos](https://open.spotify.com/album/1MMHNFKunsbtbGc0NLTxEN) | 2:41 | 2022-06-02 | 2022-10-13 |

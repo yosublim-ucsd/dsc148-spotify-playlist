@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV7y9rCVKvZ8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV7y9rCVKvZ8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV7y9rCVKvZ8)
 
-### [Be More Productive](https://open.spotify.com/playlist/37i9dQZF1DWV7y9rCVKvZ8)
+### [Lebih Produktif](https://open.spotify.com/playlist/37i9dQZF1DWV7y9rCVKvZ8)
 
-> Playlist to accompany your work
+> Jadi lebih produktif ditemani musik terkini hanya ada di Spotify.
 
 82 songs - 4 hr 57 min
 

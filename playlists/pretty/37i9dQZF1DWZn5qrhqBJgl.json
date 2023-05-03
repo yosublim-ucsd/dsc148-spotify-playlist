@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 95547,
+  "num_followers": 95622,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjI5YmU4NTA1ODQ2M2JlNTFjYTViYmUzNjAxY2MyZjMyZjJkMTBk",
+  "snapshot_id": "MCxjNTM3NDFhNDE2ZGU1Yjg0MGY3YTIzMTk3MGU2YjZhY2ZlOGYxYzRi",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -167,18 +167,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Heliolingus",
-        "url": "https://open.spotify.com/album/2lLzW831DY8i0fHoDeSAF0"
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/361cpEjJRfINouKxchrnOj"
       },
       "artists": [
         {
-          "name": "Ooyy",
-          "url": "https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq"
+          "name": "Nick AM",
+          "url": "https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe"
         }
       ],
-      "duration_ms": 172356,
-      "name": "Heliolingus",
-      "url": "https://open.spotify.com/track/27Z1479QzFOWOaSRbWpgEu"
+      "duration_ms": 244750,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/4SMzmquqMX6TEF6KIYWrBC"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -199,18 +199,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Take It Back",
-        "url": "https://open.spotify.com/album/361cpEjJRfINouKxchrnOj"
+        "name": "Heliolingus",
+        "url": "https://open.spotify.com/album/2lLzW831DY8i0fHoDeSAF0"
       },
       "artists": [
         {
-          "name": "Nick AM",
-          "url": "https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe"
+          "name": "Ooyy",
+          "url": "https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq"
         }
       ],
-      "duration_ms": 244750,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/4SMzmquqMX6TEF6KIYWrBC"
+      "duration_ms": 172356,
+      "name": "Heliolingus",
+      "url": "https://open.spotify.com/track/27Z1479QzFOWOaSRbWpgEu"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Targa",
-        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
-      },
-      "artists": [
-        {
-          "name": "Jewlz",
-          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Targa",
-      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Glazed",
         "url": "https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 159560,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
+      },
+      "artists": [
+        {
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
+        }
+      ],
+      "duration_ms": 172068,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Adults",
-        "url": "https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE"
-      },
-      "artists": [
-        {
-          "name": "Kray Stax",
-          "url": "https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS"
-        }
-      ],
-      "duration_ms": 217163,
-      "name": "Adults",
-      "url": "https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Backwood",
         "url": "https://open.spotify.com/album/1zxoOPYrefFbFXNEdQK92v"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 205766,
       "name": "Backwood",
       "url": "https://open.spotify.com/track/5JdZhHy9TWpXGwvVoXQJyF"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Adults",
+        "url": "https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE"
+      },
+      "artists": [
+        {
+          "name": "Kray Stax",
+          "url": "https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS"
+        }
+      ],
+      "duration_ms": 217163,
+      "name": "Adults",
+      "url": "https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -571,38 +571,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Skye",
-        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
-      },
-      "artists": [
-        {
-          "name": "Off / Side",
-          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Skye",
-      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Birdie_",
-        "url": "https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le"
-      },
-      "artists": [
-        {
-          "name": "Hazy Noir",
-          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Birdie_ - Instrumental",
-      "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Tank",
         "url": "https://open.spotify.com/album/2Q1wocAY05F8VaxnXqfVZM"
       },
@@ -639,6 +607,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Birdie_",
+        "url": "https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le"
+      },
+      "artists": [
+        {
+          "name": "Hazy Noir",
+          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Birdie_ - Instrumental",
+      "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
+        "name": "Skye",
+        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
       },
       "artists": [
         {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+          "name": "Off / Side",
+          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
         }
       ],
-      "duration_ms": 165957,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
+      "duration_ms": 190098,
+      "name": "Skye",
+      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "tv-guides . (mini-tape)",
         "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 79911,
       "name": "yoyogi park",
       "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Act Upon",
-        "url": "https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB"
-      },
-      "artists": [
-        {
-          "name": "Nadamondi",
-          "url": "https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Peepers",
-      "url": "https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -735,18 +719,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Eshkol",
-        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
+        "name": "Act Upon",
+        "url": "https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB"
       },
       "artists": [
         {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+          "name": "Nadamondi",
+          "url": "https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ"
         }
       ],
-      "duration_ms": 118588,
-      "name": "Eshkol",
-      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
+      "duration_ms": 131000,
+      "name": "Peepers",
+      "url": "https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -851,6 +835,22 @@
       "duration_ms": 180427,
       "name": "Farmingdale",
       "url": "https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Eshkol",
+        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Eshkol",
+      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0bil6MWGHYccY9YHiwiJgK"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Coco - Instrumental",
+      "url": "https://open.spotify.com/track/1xt1HCunOlnrI5UiPNAZaM"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Xvibe",
         "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 192000,
       "name": "Instant Knafeh",
       "url": "https://open.spotify.com/track/6rjwVNcnNnIuHJtDKksKec"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0bil6MWGHYccY9YHiwiJgK"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Coco - Instrumental",
-      "url": "https://open.spotify.com/track/1xt1HCunOlnrI5UiPNAZaM"
     }
   ],
   "unique_name": "Dope Beats",

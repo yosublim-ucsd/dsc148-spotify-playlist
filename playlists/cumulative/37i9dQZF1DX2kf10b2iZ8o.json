@@ -904,7 +904,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 277680,
       "name": "GOOD NEW MORNING",
       "url": "https://open.spotify.com/track/3iuy5pmjX5igfneqNeE305"
@@ -2618,6 +2618,28 @@
       "duration_ms": 245786,
       "name": "\u590f\u6642\u9593\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/2fFyk58FJRGKL40fAa9R1A"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM 2nd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3"
+      },
+      "artists": [
+        {
+          "name": "DRAMATIC STARS",
+          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
+        },
+        {
+          "name": "High Joker",
+          "url": "https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298600,
+      "name": "\u591c\u7a7a\u3092\u714c\u3081\u304f\u661f\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/5UKLEjFhNV3EeP7UjpL2nD"
     },
     {
       "album": {

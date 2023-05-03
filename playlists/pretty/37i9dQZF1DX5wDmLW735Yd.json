@@ -1,12 +1,12 @@
 {
   "description": "The world's biggest Drum 'n' Bass playlist! Cover: Luude, Bru-C",
-  "num_followers": 477257,
+  "num_followers": 477481,
   "original_name": "Massive Drum & Bass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWFkYmM4NGU1MGIxYjQ3NmIyZDgyY2EwOWU5ZmU5MDZjOWJlYzkw",
+  "snapshot_id": "MCw2MzRhMDdlMDk2MzdhN2YyZTMwYzg3MGZiNWU0NmQ2MThkNzcyMzBi",
   "tracks": [
     {
       "added_at": "2023-04-27 23:00:00",
@@ -505,6 +505,26 @@
       "url": "https://open.spotify.com/track/2t3iFlsIkaoV7GmVC2ptuM"
     },
     {
+      "added_at": "2023-05-02 15:10:56",
+      "album": {
+        "name": "MHITR (Semi-Automatic) [feat. Eksman]",
+        "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "duration_ms": 174917,
+      "name": "MHITR (Semi-Automatic) [feat. Eksman]",
+      "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
+    },
+    {
       "added_at": "2023-04-27 23:00:00",
       "album": {
         "name": "Stan Smith",
@@ -591,26 +611,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4IdRKmgd3lPeH5NuwDpi6i"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2gcgwomqMF4Z92EZAPv3Ic"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Off The Ground",
         "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
       },
@@ -643,22 +643,22 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Stars On The Roof (feat. MoMo)",
-        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4IdRKmgd3lPeH5NuwDpi6i"
       },
       "artists": [
         {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
         },
         {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
         }
       ],
-      "duration_ms": 242769,
-      "name": "Stars On The Roof (feat. MoMo)",
-      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
+      "duration_ms": 209482,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2gcgwomqMF4Z92EZAPv3Ic"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -691,6 +691,26 @@
       "duration_ms": 192000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Stars On The Roof (feat. MoMo)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
+        }
+      ],
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MoMo)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -759,26 +779,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "High Note",
-        "url": "https://open.spotify.com/album/0BKjTW49qxO6j8md9eW91g"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 225862,
-      "name": "High Note",
-      "url": "https://open.spotify.com/track/28f5cHOahtA3JhbIBt9q9Y"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Cognition",
         "url": "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
       },
@@ -811,6 +811,26 @@
       "duration_ms": 266400,
       "name": "Mesmerised",
       "url": "https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "High Note",
+        "url": "https://open.spotify.com/album/0BKjTW49qxO6j8md9eW91g"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "duration_ms": 225862,
+      "name": "High Note",
+      "url": "https://open.spotify.com/track/28f5cHOahtA3JhbIBt9q9Y"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -903,26 +923,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Buss The Red",
-        "url": "https://open.spotify.com/album/4CExA6NO7uMMvxX5H7eI2N"
-      },
-      "artists": [
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Whiney",
-          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
-        }
-      ],
-      "duration_ms": 205011,
-      "name": "Buss The Red",
-      "url": "https://open.spotify.com/track/67X5z4XFBbRxjbfbIGP3Ii"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0ehWcJaGgr9BpaeoLuVF0z"
       },
@@ -959,6 +959,26 @@
       "duration_ms": 226206,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Buss The Red",
+        "url": "https://open.spotify.com/album/4CExA6NO7uMMvxX5H7eI2N"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        }
+      ],
+      "duration_ms": 205011,
+      "name": "Buss The Red",
+      "url": "https://open.spotify.com/track/67X5z4XFBbRxjbfbIGP3Ii"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1023,22 +1043,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Conveniency",
-        "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 142720,
-      "name": "Conveniency",
-      "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Everything But You (feat. A7S) [Luude Remix]",
         "url": "https://open.spotify.com/album/1XyCLTDOttUiwgb9CXk4OM"
       },
@@ -1059,6 +1063,22 @@
       "duration_ms": 189793,
       "name": "Everything But You (feat. A7S) - Luude Remix",
       "url": "https://open.spotify.com/track/2dLU5EMUxumBWWdzDCL7Lc"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Conveniency",
+        "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 142720,
+      "name": "Conveniency",
+      "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1103,22 +1123,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Immortal",
-        "url": "https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv"
-      },
-      "artists": [
-        {
-          "name": "Metrik",
-          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
-        }
-      ],
-      "duration_ms": 248576,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Freefalling",
         "url": "https://open.spotify.com/album/3HS44i8Hn0L3Q7CTdk8JXl"
       },
@@ -1131,6 +1135,22 @@
       "duration_ms": 209655,
       "name": "Freefalling",
       "url": "https://open.spotify.com/track/7uBuBwDQJzcSVfR3rSvsSF"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "duration_ms": 248576,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1167,6 +1187,22 @@
       "duration_ms": 232568,
       "name": "Say No More",
       "url": "https://open.spotify.com/track/3FyrVjLHV3TbmhS6QEJPsJ"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/4PAjfxvQqUJvfC95Cy6dao"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "duration_ms": 223526,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/3q2uX1BAjCiKmhEQiqWZTD"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1223,22 +1259,6 @@
       "duration_ms": 227426,
       "name": "So Tell Me\u2026",
       "url": "https://open.spotify.com/track/3GJbXOYweOltxSiOsCNkMd"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/4PAjfxvQqUJvfC95Cy6dao"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        }
-      ],
-      "duration_ms": 223526,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/3q2uX1BAjCiKmhEQiqWZTD"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1355,6 +1375,42 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Bad To Me (feat. Grace Grundy)",
+        "url": "https://open.spotify.com/album/0sYcA8hhlj5cgbDtJ1kYxs"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "Bad To Me (feat. Grace Grundy)",
+      "url": "https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
       },
@@ -1395,22 +1451,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
       },
@@ -1447,26 +1487,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Bad To Me (feat. Grace Grundy)",
-        "url": "https://open.spotify.com/album/0sYcA8hhlj5cgbDtJ1kYxs"
-      },
-      "artists": [
-        {
-          "name": "Hybrid Minds",
-          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
-        }
-      ],
-      "duration_ms": 251034,
-      "name": "Bad To Me (feat. Grace Grundy)",
-      "url": "https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Chasing Highs (Slow Motion)",
         "url": "https://open.spotify.com/album/4Uw2ZLhaRbwkeTVr0hCMpc"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 146632,
       "name": "Chasing Highs (Slow Motion)",
       "url": "https://open.spotify.com/track/6XxH22AeVCpz1vhwOYi5Sh"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "What I Need",
-        "url": "https://open.spotify.com/album/1gua9GDPu75QZLy9bOUSuF"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "What I Need",
-      "url": "https://open.spotify.com/track/5asj11vQ6VWmTJP8kQ2Lig"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1519,6 +1519,26 @@
       "duration_ms": 222068,
       "name": "Silverlined",
       "url": "https://open.spotify.com/track/2Cg6f0J6nIK46GvOZSkQ8n"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/1gua9GDPu75QZLy9bOUSuF"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/5asj11vQ6VWmTJP8kQ2Lig"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1563,26 +1583,6 @@
       "duration_ms": 164898,
       "name": "Special Powers",
       "url": "https://open.spotify.com/track/3dIKsuKDHXRfiZ56lm8g7T"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "Estate Of Mind",
-        "url": "https://open.spotify.com/album/6AzMTTIxaJ9BGEIPY0rc9x"
-      },
-      "artists": [
-        {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Champion DI",
-          "url": "https://open.spotify.com/artist/7z80tMfeFXEzSpVWHCvVfJ"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Estate Of Mind",
-      "url": "https://open.spotify.com/track/4FyVz5AFtAxIBfrW3usIcQ"
     }
   ],
   "unique_name": "Massive Drum & Bass",

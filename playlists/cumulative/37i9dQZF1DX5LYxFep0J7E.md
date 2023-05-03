@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-152 songs - 12 hr 52 min
+153 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Lowlands of Sorrow](https://open.spotify.com/track/0TvUDHBbG3dQ8irtIT37XQ) | [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Jesup Wagon](https://open.spotify.com/album/1DOad8ZQBcRnPyUs66SkGJ) | 7:02 | 2021-12-01 | 2022-12-01 |
 | [Mama](https://open.spotify.com/track/32EOILWXWu3WGo56PmM9UG) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [In The Spirit Of Ntu](https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl) | 7:01 | 2022-11-30 |  |
 | [Mars Blues](https://open.spotify.com/track/3Vw6jxsmxkwMgYwNSyGO0v) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [The New Heritage](https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK) | 3:50 | 2021-12-01 | 2022-12-01 |
-| [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/track/7atmsefAJDBe9Sq3fzWGiz) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/album/3OjIvO3LxyUUSsq6JMHmBT) | 5:33 | 2022-11-30 |  |
+| [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/track/0cc5stQwKk9CXIkYQhod8n) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Who Are You When No One is Watching?](https://open.spotify.com/album/3p2GVM0RupOOyqtEqyjXtl) | 5:33 | 2022-11-30 |  |
+| [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/track/7atmsefAJDBe9Sq3fzWGiz) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/album/3OjIvO3LxyUUSsq6JMHmBT) | 5:33 | 2022-11-30 | 2023-05-03 |
 | [Midnight Crisp](https://open.spotify.com/track/44egUa8FkT17spwSFvQis6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG) | 5:26 | 2022-11-30 |  |
 | [Morning Light](https://open.spotify.com/track/39dsqpRTcjZQExrzeQAiJV) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq) | 5:27 | 2021-12-01 | 2022-12-01 |
 | [Morning Light](https://open.spotify.com/track/6mNsWIUeTuxOAlbVlNzam5) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/7dGOyxCI4QXNFxHEpgD4jt) | 5:27 | 2021-12-01 | 2022-07-29 |

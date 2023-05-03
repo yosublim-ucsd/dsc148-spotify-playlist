@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: WOODZ
 
-795 songs - 1 day 20 hr 5 min
+796 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [WHY Y \(Feat\. Tiger JK\)](https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [WHY Y](https://open.spotify.com/album/1ypeL7YGRCb4Byeh1i7OAU) | 3:06 | 2021-08-05 | 2021-09-18 |
 | [Will Make a Mistake](https://open.spotify.com/track/0jdT8lnzPWFKjI5iuIxDjQ) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [SEAT\-BELT](https://open.spotify.com/album/1Z1nMx8QglGa8tQFerndsg) | 3:18 | 2021-10-13 | 2021-11-19 |
 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-30 | 2023-02-15 |
+| [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 | 2023-05-02 |  |
 | [Wings](https://open.spotify.com/track/12jfNawkTUb40C0iQ46u3W) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Wings](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) | 3:33 | 2021-03-18 | 2021-06-09 |
 | [WINNER \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:54 | 2022-02-10 | 2022-04-09 |
 | [Without You](https://open.spotify.com/track/5Yxizu2LeHTpSHvf3zANWY) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 5th EP Album ‘OK’ Episode 1 : OK Not](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) | 3:01 | 2022-08-24 | 2022-12-10 |

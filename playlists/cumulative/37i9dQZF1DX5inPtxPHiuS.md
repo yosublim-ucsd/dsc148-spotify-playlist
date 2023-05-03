@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-205 songs - 12 hr 44 min
+206 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 | 2022-06-24 |  |
 | [Gemas](https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1) | 3:38 | 2022-03-11 | 2022-07-28 |
 | [Guadalupe \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [The Mills 10 Años \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm) | 5:06 | 2022-03-11 | 2022-09-27 |
-| [Hacia la Noche](https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:55 | 2023-04-14 |  |
+| [Hacia la Noche](https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:55 | 2023-04-14 | 2023-05-03 |
 | [Hacia la Noche](https://open.spotify.com/track/4WcRew9JOPLtM6TfOKABKg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1b7wcyINye4qF7MMNcYP7Y) | 3:55 | 2022-03-11 | 2022-07-29 |
 | [Hacia la Noche](https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL) | 3:55 | 2022-06-24 | 2023-03-11 |
 | [Himno a los Solitarios](https://open.spotify.com/track/7D4KfqQBGYPRbunFMdxHgZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer \(Deluxe Edition\)](https://open.spotify.com/album/5W9BId7OXCwbjLcOAbRo5T) | 3:52 | 2022-03-11 | 2023-04-21 |
@@ -196,6 +196,7 @@
 | [Todo Se Olvida](https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj) | [Todo Se Olvida](https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU) | 4:32 | 2022-03-11 | 2022-07-28 |
 | [Todo Se Quema](https://open.spotify.com/track/7DvKEQO2AdmDLkSEKg1WJq) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Todo Se Quema](https://open.spotify.com/album/1StEV6Mlk5FdG6gejBYyxg) | 3:42 | 2022-06-24 | 2022-07-19 |
 | [Todo Va a Arder](https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [B \(Deluxe Edition\)](https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY) | 3:21 | 2022-06-24 | 2023-04-20 |
+| [Todo Va a Arder](https://open.spotify.com/track/1sJSicDEBfPEo4nAW60WxJ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [B \(Deluxe Edition\)](https://open.spotify.com/album/5bRJW0QvMRMdNNEh5tSwnx) | 3:21 | 2023-04-14 |  |
 | [Todo Va A Arder](https://open.spotify.com/track/6u6rHdzhBvMfYIiDppguho) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [B](https://open.spotify.com/album/4sTwvIDx8JdYT7GL8IUok3) | 3:21 | 2022-03-11 | 2022-07-29 |
 | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/track/5kZxky7iciP3kEKn8nPlm9) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/album/2UZFC1cuAbXrc4HO8OKkY1) | 4:15 | 2022-03-11 | 2022-07-29 |
 | [Tom](https://open.spotify.com/track/5UszGR5RSDG6HLIpASiabs) | [Electric Mistakes](https://open.spotify.com/artist/0ldUZhQvtuQocn7G6eQuHf) | [Tom](https://open.spotify.com/album/3q40Ixs92gFjT1Hf9zbmfX) | 5:03 | 2022-03-11 | 2022-06-24 |

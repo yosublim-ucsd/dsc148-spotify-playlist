@@ -27108,7 +27108,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 118571,
       "name": "In Between",
       "url": "https://open.spotify.com/track/7D56BYZHOiHXNXBcVJI0Sl"
@@ -27408,7 +27408,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 111000,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/0WHE2eIQ0AvKdfRXakZIHc"
@@ -29394,6 +29394,24 @@
       "duration_ms": 168813,
       "name": "Ji-Eun's Sunset",
       "url": "https://open.spotify.com/track/0DvqAXyoA7zRB8wgH0DjRO"
+    },
+    {
+      "album": {
+        "name": "Jicaletas",
+        "url": "https://open.spotify.com/album/1vlrXuQimorkTexz3Q66AP"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114397,
+      "name": "Jicaletas",
+      "url": "https://open.spotify.com/track/5MWRFWaOxgVWATeQ8mboUf"
     },
     {
       "album": {
@@ -33980,6 +33998,28 @@
       "duration_ms": 174000,
       "name": "Lonely in a Crowd",
       "url": "https://open.spotify.com/track/1zsXasN6cbCerKSzZUfJHI"
+    },
+    {
+      "album": {
+        "name": "Lonesome George",
+        "url": "https://open.spotify.com/album/31XDyrywVaHeO25lPRTkG8"
+      },
+      "artists": [
+        {
+          "name": "Jazzy James",
+          "url": "https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR"
+        },
+        {
+          "name": "Frances The Mute",
+          "url": "https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Lonesome George",
+      "url": "https://open.spotify.com/track/0UBevjzBwYosYSgq2iISie"
     },
     {
       "album": {

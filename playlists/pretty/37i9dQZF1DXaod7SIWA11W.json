@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music. ",
-  "num_followers": 47515,
+  "num_followers": 47599,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGVhMjc4NDNmZWE3MGZlMDA0NDg3NzYwNWZkNGRhNmM5MWI0N2Qy",
+  "snapshot_id": "MCw4YmE2Mjg3OWNiMmQ0NDkxODMwNjEyYWU1OTNkYmM0NDM5M2RhODdl",
   "tracks": [
     {
       "added_at": "2023-02-17 08:47:35",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 188455,
-      "name": "Abba",
-      "url": "https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
         "url": "https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 565833,
       "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
       "url": "https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 188455,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Nights In Atlanta",
-        "url": "https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE"
-      },
-      "artists": [
-        {
-          "name": "Da' T.R.U.T.H.",
-          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Nights In Atlanta",
-      "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Nights In Atlanta",
+        "url": "https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE"
+      },
+      "artists": [
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Nights In Atlanta",
+      "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "WES",
-        "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 114155,
-      "name": "WES",
-      "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Breakthrough: The Exodus (Live)",
         "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 518057,
       "name": "All Of My Help - Live",
       "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "WES",
+        "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 114155,
+      "name": "WES",
+      "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
-      },
-      "artists": [
-        {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 168236,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "The Fallen Movie Soundtrack",
         "url": "https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 168236,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "One Of These Days",
-        "url": "https://open.spotify.com/album/3Md0ysEeu69XhqtvUfVAzN"
+        "name": "Look At You",
+        "url": "https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17"
       },
       "artists": [
         {
-          "name": "Rudy Currence",
-          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 219554,
-      "name": "One Of These Days",
-      "url": "https://open.spotify.com/track/1c6sqeNkZQbgt84ungTW1C"
+      "duration_ms": 384255,
+      "name": "Look At You",
+      "url": "https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Look At You",
-        "url": "https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17"
+        "name": "One Of These Days",
+        "url": "https://open.spotify.com/album/3Md0ysEeu69XhqtvUfVAzN"
       },
       "artists": [
         {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
         }
       ],
-      "duration_ms": 384255,
-      "name": "Look At You",
-      "url": "https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s"
+      "duration_ms": 219554,
+      "name": "One Of These Days",
+      "url": "https://open.spotify.com/track/1c6sqeNkZQbgt84ungTW1C"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "I Was Loved",
-        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
-      },
-      "artists": [
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "I Was Loved",
-      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Love, Evvie McKinney",
-        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
+        "name": "I Was Loved",
+        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
       },
       "artists": [
         {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
         }
       ],
-      "duration_ms": 230560,
-      "name": "But God",
-      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
+      "duration_ms": 281880,
+      "name": "I Was Loved",
+      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1467,6 +1451,22 @@
       "duration_ms": 232849,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Love, Evvie McKinney",
+        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "But God",
+      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
     }
   ],
   "unique_name": "Lifted Frequency",

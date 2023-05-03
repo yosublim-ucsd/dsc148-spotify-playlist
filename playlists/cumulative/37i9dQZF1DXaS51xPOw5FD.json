@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Tough Guys Don't Dance",
+        "url": "https://open.spotify.com/album/4TGg8UNwHYZszTjM24hJSo"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320271,
+      "name": "If We Ever",
+      "url": "https://open.spotify.com/track/33LQ2hkSecs8ax6Bz2t9D8"
+    },
+    {
+      "album": {
         "name": "Inner City Life",
         "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
       },
@@ -886,7 +904,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 314000,
       "name": "Journey Inwards",
       "url": "https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz"

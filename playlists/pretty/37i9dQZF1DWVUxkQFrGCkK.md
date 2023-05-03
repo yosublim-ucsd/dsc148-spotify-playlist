@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,914 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,066 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,20 +63,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 53 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 |
 | 54 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 |
 | 55 | [Sexy Black Timberlake](https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Moses](https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do) | 3:43 |
-| 56 | [Fragments](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:03 |
-| 57 | [hei](https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [hei](https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR) | 4:00 |
-| 58 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 |
-| 59 | [Better By Your Side](https://open.spotify.com/track/33lTQD1Pyh4AFlj7avgfWm) | [Aeble](https://open.spotify.com/artist/1IqFYT4c7jv5jTNSNKi3ig), [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Better By Your Side](https://open.spotify.com/album/75ElI0tETDWBJksIrZlFD0) | 5:19 |
+| 56 | [hei](https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [hei](https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR) | 4:00 |
+| 57 | [Fragments](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:03 |
+| 58 | [Better By Your Side](https://open.spotify.com/track/33lTQD1Pyh4AFlj7avgfWm) | [Aeble](https://open.spotify.com/artist/1IqFYT4c7jv5jTNSNKi3ig), [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Better By Your Side](https://open.spotify.com/album/75ElI0tETDWBJksIrZlFD0) | 5:19 |
+| 59 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 |
 | 60 | [IT WON’T DO \- MAFRO Remix](https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [IT WON’T DO \(MAFRO Remix\)](https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS) | 5:10 |
 | 61 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 |
 | 62 | [One of Those Nights](https://open.spotify.com/track/5bYSqdcyJ74rLL299UJAcC) | [Didier Armeni](https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka) | [One of Those Nights](https://open.spotify.com/album/3VrD88UOYjJ8HVSSDHurkq) | 3:43 |
 | 63 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
 | 64 | [Moonbeam, Midnight, Howl](https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:41 |
 | 65 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 |
-| 66 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
-| 67 | [Are U Down \- Remix](https://open.spotify.com/track/0GyPmdjs3YBPCfWccCBxPD) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:00 |
+| 66 | [Are U Down \- Remix](https://open.spotify.com/track/0GyPmdjs3YBPCfWccCBxPD) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:00 |
+| 67 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
 | 68 | [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 |
 | 69 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
 | 70 | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB) | 3:34 |
 
-Snapshot ID: `MCxhOGM4YmI2MWYxMzc2NWM1MjNiOWQ1ZmQzYTE5MjFkNmI4YjY5ZGFm`
+Snapshot ID: `MCw1YjAyODZlODIyMWQ2YjBkY2M5MGI0OTliZGRjOWMxYTM5NGZjMDUw`

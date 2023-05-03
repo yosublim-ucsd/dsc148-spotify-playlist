@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Gaston Pong\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,985 likes - 106 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,987 likes - 106 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 105 | [Escape](https://open.spotify.com/track/3n4JtlDjEzyLP25ji7rex3) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Escape](https://open.spotify.com/album/5bznDPL79W1kK6IOeYWjAr) | 3:41 |
 | 106 | [Too Many Times](https://open.spotify.com/track/2IwtpJlL47MrqPMgqiXUga) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf), [Virgo's Child](https://open.spotify.com/artist/2An9jABsB4sGREMIdIwHHp) | [Too Many Times](https://open.spotify.com/album/5WsyPULWLBoiepNu2hMgv8) | 2:57 |
 
-Snapshot ID: `MCwzYTZmMzY4Yzc0OGI2YWFjZTMzYWZhMmI3M2NlMjVjZWMxMDhjZGEx`
+Snapshot ID: `MCw4MTIxZjdlNmZjYmIwY2I2YjNhZmJjNmZjZmUxMjM1MDlmY2JhZTg4`

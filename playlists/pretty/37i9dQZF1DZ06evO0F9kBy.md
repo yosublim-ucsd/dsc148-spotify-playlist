@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,686 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,687 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [Common Ground \(feat\. Dee Wilson\) \- Live](https://open.spotify.com/track/3armidhEXA4Ky23Wj97pFQ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [Common Ground \- EP](https://open.spotify.com/album/7MJvVVKJZANsWfQfCz70r6) | 6:05 |
 | 50 | [Adoration \(Live\)](https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 5:59 |
 
-Snapshot ID: `MjgwNDkwMTUsMDAwMDAwMDAwOWIzMmI0ODhmMTZlNmEyOWE3YTM2OTM1MzI0NzU4Yw==`
+Snapshot ID: `MjgwNTA1MDYsMDAwMDAwMDA1M2ExNzhhYTJkNjIwMzY0M2JkN2MxYjg0ZTA5ZGU0Mw==`

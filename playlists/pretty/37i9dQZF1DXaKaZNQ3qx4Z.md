@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKaZNQ3qx4Z.md) - [plain]
 
 > Los grandes éxitos de Shakira y Alejandro Sanz en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,189 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,312 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKaZNQ3qx4Z.md) - [plain]
 | 49 | [Un Poco de Amor](https://open.spotify.com/track/6dwhYg12fOFw8aUrnCOOqC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:01 |
 | 50 | [Camino De Rosas](https://open.spotify.com/track/2b7w3IfuuP0y64tPlr4cb2) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [La Música No Se Toca \(Deluxe\)](https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk) | 4:20 |
 
-Snapshot ID: `MCwyZTE4ZWJiMjkzYjdlN2Q5ODgwMDM5ZjJkODBlMTg3MWFkN2NmNDE2`
+Snapshot ID: `MCwzMTNlNDA5NzhmMzlkN2Q0YWYwMGRmODkxZTUzMDliMWRjMDdmNzYx`

@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Baby Rose
 
-625 songs - 1 day 11 hr 36 min
+626 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Chocolate Love](https://open.spotify.com/track/50EwNNt7Xc3J7AVKLCcDiz) | [Sanura](https://open.spotify.com/artist/2KoEQq7EEpdOLErZi1K2eL), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Chocolate Love](https://open.spotify.com/album/2ugP6Pt70ut2Wq2OyzjWvq) | 3:10 | 2022-08-26 | 2022-11-12 |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-10 |  |
 | [Church](https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 2:40 | 2022-03-11 | 2022-07-09 |
-| [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/1fAgrabzFmIZLe9sOiVaC2) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q) | 3:30 | 2022-09-09 |  |
+| [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU) | 3:29 | 2022-09-09 |  |
+| [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/1fAgrabzFmIZLe9sOiVaC2) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q) | 3:30 | 2022-09-09 | 2023-05-03 |
 | [Coastin' \[Feat\. Lalah Hathaway\]](https://open.spotify.com/track/5vsi5OWrEj1J3MFzKD5GTJ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Coastin'](https://open.spotify.com/album/5yoCMolsZFuzsrWK8LAKin) | 3:40 | 2022-08-19 | 2023-03-18 |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-07 | 2022-04-09 |
 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 | 2019-10-11 | 2020-04-18 |

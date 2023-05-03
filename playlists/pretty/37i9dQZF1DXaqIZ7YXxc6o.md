@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Zia Jade
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,458 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,477 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 41 | [All I Need](https://open.spotify.com/track/3YXTc9txD7OwGdkVkaoj5F) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [Flux](https://open.spotify.com/album/3GtbQUvHi0aVVumCa6093z) | 3:23 |
 | 42 | [Not So Bad](https://open.spotify.com/track/6n66qIfpvMPEPsz4kBueNS) | [Buried By Dawg](https://open.spotify.com/artist/1rPRDHSp38pNjcnG5T7W4u) | [Not So Bad](https://open.spotify.com/album/2ryYLHYVqjIaFCxLIJ6bT6) | 2:36 |
 | 43 | [Up & Down](https://open.spotify.com/track/2R7xKsStJ9hNeZKoD9W5Nv) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Up & Down](https://open.spotify.com/album/6VMrXUabbY8cFWLougHU5F) | 2:34 |
-| 44 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
+| 44 | [Baby Don't Hurt Me \(feat\. Coi Leray\)](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 45 | [Today \- Phantoms Remix](https://open.spotify.com/track/3u6nM6uG5p4pW2gDi3LKYb) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [Today \(Phantoms Remix\)](https://open.spotify.com/album/34B13TTot0CAEQnmVcQ2pN) | 4:01 |
 | 46 | [Ride or Die \(ft\. Indy Skies\)](https://open.spotify.com/track/0xXaabBmxaTsxxNcf1a0Yn) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [Ride or Die](https://open.spotify.com/album/0AGE7tbV3lT8eWdSggbHkE) | 2:59 |
 | 47 | [Won’t Follow You Home](https://open.spotify.com/track/5OMXaLXkmgvuIm33c4UrhH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [Won’t Follow You Home](https://open.spotify.com/album/0Rcx8Mli2qiRYiSKNQWQ3m) | 3:41 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [ctrl alt delete](https://open.spotify.com/track/1jRi3WhVIz8W1PCUkLkP1V) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [ctrl alt delete](https://open.spotify.com/album/5kkcH9I0e0vxRH1za848fX) | 3:25 |
 | 101 | [Hollywood](https://open.spotify.com/track/6BSm5agl8YBZIbtYHconLX) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7) | [Hollywood](https://open.spotify.com/album/0Xb5A3SSvc17t8kTz9JhXh) | 3:21 |
 
-Snapshot ID: `MCxmNzIyNzJhN2IzZDQwYmQwNjU3NGYyODMyY2QwMjIyMDc4OGQwNThm`
+Snapshot ID: `MCwxN2UyZmQzNmVjZTYxYzZlODFiZmZkOTk0OTkxNjQ0NGQ1MWRkYjI4`

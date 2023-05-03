@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: ERRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,636 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,668 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,18 +74,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 64 | [Es Claro](https://open.spotify.com/track/6rmWdaLQjCFmwgjujWPnY9) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Es Claro](https://open.spotify.com/album/5bZbVxM7cTMdqUkoNcRr5y) | 2:41 |
 | 65 | [Te Voy a Extrañar](https://open.spotify.com/track/04vBxuAspmsQYLa1KprV8m) | [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Te Voy a Extrañar](https://open.spotify.com/album/1eYGKfBjoEEotKjRlqUTkG) | 2:55 |
 | 66 | [Ya No Eres Igual](https://open.spotify.com/track/56XRdqcXlIquG1BZuirDel) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [FASES](https://open.spotify.com/album/4cCKSr1kDU2hYecgmMmHBn) | 3:10 |
-| 67 | [Firme Al Caminar \(En Vivo\)](https://open.spotify.com/track/4tlEHg1ClfKEGaHhNpvyHq) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Firme Al Caminar \(En Vivo\)](https://open.spotify.com/album/7ckyRqYTDQnNc89odO7XQH) | 3:25 |
+| 67 | [Que Pena](https://open.spotify.com/track/1v8CrHBlEAeDd5w2TnRItT) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Que Pena](https://open.spotify.com/album/4dyqstl7R9p5YiayGnFSEn) | 2:36 |
 | 68 | [AJUA](https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [AJUA](https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27) | 2:29 |
-| 69 | [Que Pena](https://open.spotify.com/track/1v8CrHBlEAeDd5w2TnRItT) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Que Pena](https://open.spotify.com/album/4dyqstl7R9p5YiayGnFSEn) | 2:36 |
+| 69 | [Firme Al Caminar \(En Vivo\)](https://open.spotify.com/track/4tlEHg1ClfKEGaHhNpvyHq) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Firme Al Caminar \(En Vivo\)](https://open.spotify.com/album/7ckyRqYTDQnNc89odO7XQH) | 3:25 |
 | 70 | [El Greñas \(En Vivo\)](https://open.spotify.com/track/498M1LbXbA0ePdNGYtE8di) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [El Greñas \(En Vivo\)](https://open.spotify.com/album/2ZMkNiFE1guFx7ulP7AlOH) | 2:23 |
 | 71 | [DIFF](https://open.spotify.com/track/6XOn65GQp7L7Xg80RO3ZDb) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz) | [Tiempo Perdido](https://open.spotify.com/album/0G19We9KJd6Njy3xtlC2Ot) | 3:52 |
 | 72 | [Mi Corazón](https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz) | [Porto Fino](https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe) | [Mi Corazón](https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21) | 3:37 |
 | 73 | [Vivo el Peligro](https://open.spotify.com/track/1FOY245P3Pb7LFcMTfB9VC) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Vivo el Peligro](https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr) | 2:40 |
-| 74 | [El Jamaico](https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [El Jamaico](https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33) | 2:24 |
-| 75 | [Envidiada](https://open.spotify.com/track/70YwTegvGKryJg2NZPFCf1) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Envidiada](https://open.spotify.com/album/1heIfYvOpnyO6C6n2aOweE) | 2:45 |
+| 74 | [Envidiada](https://open.spotify.com/track/70YwTegvGKryJg2NZPFCf1) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Envidiada](https://open.spotify.com/album/1heIfYvOpnyO6C6n2aOweE) | 2:45 |
+| 75 | [El Jamaico](https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [El Jamaico](https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33) | 2:24 |
 | 76 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
 | 77 | [Muriendo Lento](https://open.spotify.com/track/2NkSZA9C8xRCZrrOQLqjfU) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Muriendo Lento](https://open.spotify.com/album/4xA8QCP8FhTfiVxfnDgotb) | 3:32 |
 | 78 | [Tus Fotos](https://open.spotify.com/track/4C4USvr4GemqacUhUZ3Km9) | [Ehlyan Chacon](https://open.spotify.com/artist/2D2fre4AIeXh7bw4oo2A5V) | [Tus Fotos](https://open.spotify.com/album/6pWbGCNM2ebZP0Ja7xWAhu) | 2:36 |
 | 79 | [Roll It](https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Roll It](https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4) | 2:56 |
 
-Snapshot ID: `MCxlYmIwNWM3MzkzZGE1MTgxNmYxZGY2ZTNlMDM2MjViMTNjMTRkMWQw`
+Snapshot ID: `MCw5NmIwNDMxOTM0NmQ0NDQ0OWI1MmU1MjQyZjZkNDc3OTk0ZTZlZjBh`

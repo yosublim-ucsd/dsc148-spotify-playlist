@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Haryana](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Pranjal Dahiya & KHATRI
+> Yo Hai Haryanvi Hip\-Hop! Cover: Kaka WRLD
 
 64 songs - 3 hr 39 min
 

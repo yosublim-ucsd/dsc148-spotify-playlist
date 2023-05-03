@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Tele\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc\n",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 189789,
       "name": "Baby,Don't Stop",
       "url": "https://open.spotify.com/track/3xK3nC2M3FqxLBJ4MnXITr"
@@ -4999,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "merry-go-round",
+        "url": "https://open.spotify.com/album/2fGBPXYiquxrRt3fYcRpyt"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "merry-go-round",
+      "url": "https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf"
+    },
+    {
+      "album": {
         "name": "Metro",
         "url": "https://open.spotify.com/album/5zMhYV7mGuSjeojqJHKfdm"
       },
@@ -5086,7 +5104,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 164106,
       "name": "Mocktails",
       "url": "https://open.spotify.com/track/41tnwHfjUpV63e0S797H7N"
@@ -8377,6 +8395,24 @@
     },
     {
       "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+    },
+    {
+      "album": {
         "name": "Twerk",
         "url": "https://open.spotify.com/album/79XEt2UODb6oAWgh9sGmnI"
       },
@@ -11185,6 +11221,28 @@
     },
     {
       "album": {
+        "name": "\u30d3\u30c3\u30b0\u30d0\u30f3\u306b\u4e57\u3063\u3066",
+        "url": "https://open.spotify.com/album/7KtbWQhDVgGFCxz8PbXMB2"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30f3\u30c0\u30b5\u30ab\u30ca\u30ce\u30e1",
+          "url": "https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh"
+        },
+        {
+          "name": "\u30d7\u30e9\u30f3\u30d7\u30e9\u30e0",
+          "url": "https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317333,
+      "name": "\u30d3\u30c3\u30b0\u30d0\u30f3\u306b\u4e57\u3063\u3066",
+      "url": "https://open.spotify.com/track/0UkTnIfrjY0Co11UHXc6Ad"
+    },
+    {
+      "album": {
         "name": "root you",
         "url": "https://open.spotify.com/album/4vScBHmc561zaVbdLY68bc"
       },
@@ -13734,7 +13792,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 256333,
       "name": "\u6c17\u6301\u3061\u306e\u7cf8",
       "url": "https://open.spotify.com/track/25tMiXWUNsH1IPfrUGQmCM"
@@ -14895,6 +14953,24 @@
     },
     {
       "album": {
+        "name": "\u8fd1\u3044\u591c\u660e\u3051",
+        "url": "https://open.spotify.com/album/5cmjQoKSSl3HdQphqKpLvo"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245316,
+      "name": "\u8fd1\u3044\u591c\u660e\u3051",
+      "url": "https://open.spotify.com/track/2a8183S8N1XtyHBbBOoFYy"
+    },
+    {
+      "album": {
         "name": "\u9006\u5149",
         "url": "https://open.spotify.com/album/2xi1cPT3wVznO0XPivoLLa"
       },
@@ -14906,7 +14982,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 245813,
       "name": "\u9006\u5149",
       "url": "https://open.spotify.com/track/2skO0TsEvWhvcyFZMecHiD"

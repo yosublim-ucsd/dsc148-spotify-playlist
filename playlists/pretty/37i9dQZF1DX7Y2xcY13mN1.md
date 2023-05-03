@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,407 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,461 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blue is the Eye](https://open.spotify.com/track/1SWTeoXgybbpFgga4YmQWq) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [Blue is the Eye](https://open.spotify.com/album/3nZLEOJJLGtCuXkQYGPxX8) | 6:02 |
 | 2 | [The Parting Glass \- Live from the Late Late Show](https://open.spotify.com/track/0WxxSbsSHMoUK1uvWuMEbT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Parting Glass \(Live from the Late Late Show\)](https://open.spotify.com/album/5ampDJAQaLxJnSWdQJtBpX) | 2:15 |
-| 3 | [My Lagan Love \- Deluxe Edition](https://open.spotify.com/track/2xIzwZ3R6gHGUQo5lBngG2) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Voice of Ages](https://open.spotify.com/album/6tjF20Xh7kOpkv3rvRU1mt) | 4:27 |
+| 3 | [My Lagan Love](https://open.spotify.com/track/2xIzwZ3R6gHGUQo5lBngG2) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Voice of Ages \(Deluxe Edition\)](https://open.spotify.com/album/6tjF20Xh7kOpkv3rvRU1mt) | 4:27 |
 | 4 | [The Wind That Shakes The Barley/The Reel With The Beryle](https://open.spotify.com/track/76Ux8146OjfnI05femAH4e) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Essential Chieftains](https://open.spotify.com/album/11lmhdLYmkVFr5oefCEmJL) | 2:49 |
 | 5 | [My Son Tim](https://open.spotify.com/track/7BAoMGubT32xTMrQ1R47eA) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [I Would Not Live Always](https://open.spotify.com/album/50BS4LBylim0iN6mlCVDkR) | 2:41 |
 | 6 | [The Women Of Ireland \(The Love Theme From Barry Lyndon\)/The Morning Dew](https://open.spotify.com/track/56Tf3VTy45dknVuFIpjjt9) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Essential Chieftains](https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G) | 5:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 49 | [The Town I Loved So Well](https://open.spotify.com/track/6HJ5tXU3bPGx0ONBeh9EYs) | [Phil Coulter](https://open.spotify.com/artist/3Hm9DJ7Xa8YgiCAa7MoSiP) | [Words & Music](https://open.spotify.com/album/5ZZJHQbMplpRvMgFF5HatY) | 6:25 |
 | 50 | [The Lass of Aughrim](https://open.spotify.com/track/2s1enAmUiPrslpVQcJpnLq) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Heard A Long Gone Song](https://open.spotify.com/album/6hGCF6U1vanh8KJZgAq66m) | 2:11 |
 
-Snapshot ID: `MCw5OWU0ZmY2NDA4N2RkZGYwMGJiYTNjYjZhYjVkMWM1MGZlYWQwY2M3`
+Snapshot ID: `MCw2N2M1MmZhNTFkMzlkZmQwYjFkM2E4OGQyMGQxZmQ0NDhmMDNlZDA5`

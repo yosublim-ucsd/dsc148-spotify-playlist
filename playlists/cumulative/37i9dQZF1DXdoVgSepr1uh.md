@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Rusherking, Yami Safdie & Micro TDH.
 
-177 songs - 8 hr 34 min
+179 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cartera Drxga y Maquillaje](https://open.spotify.com/track/1usHY94fx76ykpvlMD5dWk) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Cartera Drxga y Maquillaje](https://open.spotify.com/album/7idvjC1nomwslxVrZum7Rr) | 2:06 | 2023-01-05 |  |
 | [Chau, Bye](https://open.spotify.com/track/5sZkmuKztMmkohDtvqKTBQ) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL) | [Chau, Bye](https://open.spotify.com/album/4s43PBRjE1avz28bIeOLL0) | 2:24 | 2023-03-10 |  |
 | [CHIN CHIN](https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [CHIN CHIN](https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx) | 2:58 | 2022-11-18 |  |
+| [CHOKA CHOKA](https://open.spotify.com/track/1IqRotJFTJdprbNtm7Ja0j) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [CHOKA CHOKA](https://open.spotify.com/album/3uj4YB1j4R5r4Hkol6pbVI) | 2:24 | 2023-05-02 |  |
 | [CLASS \#02: DT.Bilardo](https://open.spotify.com/track/4HV2sYJyHhhm3ekf4EEewk) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [CLASS \#02: DT.Bilardo](https://open.spotify.com/album/35Gj65krTFwrrU5ZgNQFZo) | 2:31 | 2023-03-03 |  |
 | [Como Antes](https://open.spotify.com/track/42we2zjPoYkN2S79iRaLG6) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Géminis](https://open.spotify.com/album/2pBiSMw2ttPMNgqG6m9FFP) | 3:02 | 2022-05-24 |  |
 | [Copacabana](https://open.spotify.com/track/6TdKDyEmYreudp1NcvorV8) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Copacabana](https://open.spotify.com/album/0wALAHwLS2U83B4fKSKwFR) | 1:57 | 2022-05-24 | 2022-07-29 |
@@ -134,6 +135,7 @@
 | [Perreo Bendito](https://open.spotify.com/track/56uvG8rHQkvEtbRXK2R8rx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:39 | 2022-08-05 | 2022-11-19 |
 | [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-06-23 | 2022-08-09 |
 | [Prende la Cámara](https://open.spotify.com/track/2UcWAHN6TRQtkZovAuwySo) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Prende la Cámara](https://open.spotify.com/album/4IYIOVFW703lcHN7ZTHexe) | 2:28 | 2022-05-24 |  |
+| [PRESIÓN](https://open.spotify.com/track/4zCyJr1apBS2791oMtea5f) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PRESIÓN](https://open.spotify.com/album/0pTere7czaMnyRpVs7i6fP) | 3:07 | 2023-05-02 |  |
 | [Pretinha](https://open.spotify.com/track/0gokl2danyrRzlPh8OcOtN) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pretinha](https://open.spotify.com/album/7rAsMPibZeliLEAwohmqZz) | 2:29 | 2022-05-24 |  |
 | [QUIEN SI NO](https://open.spotify.com/track/1ozzc5mFL2UMOAcM14GBXp) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [QUIEN SI NO](https://open.spotify.com/album/4ezvxWVA1DiKXSKROoN93a) | 2:01 | 2022-11-18 | 2022-12-24 |
 | [Quiero](https://open.spotify.com/track/7MPxWi6W7VH5DNusjwNhbn) | [Alejo Park](https://open.spotify.com/artist/0u4eSD22YhmWJMg1A22GBw) | [Quiero](https://open.spotify.com/album/14Bt8cXWLWmEaqIUDtdCze) | 2:46 | 2022-05-24 | 2023-01-21 |

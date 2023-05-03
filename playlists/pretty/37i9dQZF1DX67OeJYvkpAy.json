@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 85646,
+  "num_followers": 85671,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDc1ODhiNWI2ZGM4MGViNzg3MjQwZThlNDcwZWRjN2Y2YzJmNGQx",
+  "snapshot_id": "MCxiYjkyNjg0MjkwMGMxMTNmZmNjNzA5MzQ5MGYyYjRjYjA5YTExYjE4",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 163723,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love & Attention",
         "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 157808,
       "name": "Love & Attention",
       "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 163723,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "In The Loop",
         "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 184320,
       "name": "One Pop",
       "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 110759,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Take The Risk",
         "url": "https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 200124,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 110759,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
     },
     {
       "added_at": "2022-08-02 15:42:28",

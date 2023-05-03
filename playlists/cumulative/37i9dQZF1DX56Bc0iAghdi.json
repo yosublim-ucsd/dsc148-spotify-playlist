@@ -448,7 +448,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 180000,
       "name": "From the Roof (feat. YB)",
       "url": "https://open.spotify.com/track/01RdXpTlzMDLakg6lDaC8j"
@@ -760,6 +760,24 @@
       "duration_ms": 144629,
       "name": "Joyboy",
       "url": "https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy"
+    },
+    {
+      "album": {
+        "name": "Caleb Crino",
+        "url": "https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa"
+      },
+      "artists": [
+        {
+          "name": "Caleb Crino",
+          "url": "https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195102,
+      "name": "Lead the Way",
+      "url": "https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz"
     },
     {
       "album": {

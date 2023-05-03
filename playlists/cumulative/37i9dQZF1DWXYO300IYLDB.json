@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 201933,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 248733,
       "name": "Complicated - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/6haitvVopWztG3zWFLNeVA"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 201958,
       "name": "emptyhouse",
       "url": "https://open.spotify.com/track/7wzxbP9Z9CEIYmEuMXjcHr"
@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Regrets of Love",
+        "url": "https://open.spotify.com/album/1tiNC8uVsIZufZnfviA2xZ"
+      },
+      "artists": [
+        {
+          "name": "Miho Fukuhara",
+          "url": "https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236080,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/3BPtB1Ov7UAjLGYgNwEm5c"
+    },
+    {
+      "album": {
         "name": "Foxglove Through The Clearcut (Acoustic)",
         "url": "https://open.spotify.com/album/1TUrfRrI0YybA6OKkZo6lB"
       },
@@ -972,7 +990,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
@@ -1030,6 +1048,24 @@
       "duration_ms": 232760,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+    },
+    {
+      "album": {
+        "name": "Guessing",
+        "url": "https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS"
+      },
+      "artists": [
+        {
+          "name": "Purr",
+          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303773,
+      "name": "Guessing",
+      "url": "https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq"
     },
     {
       "album": {
@@ -1192,7 +1228,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 194050,
       "name": "High On You",
       "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
@@ -1337,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ"
+      },
+      "artists": [
+        {
+          "name": "Branches",
+          "url": "https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "I Believe in a Thing Called Love",
+      "url": "https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv"
+    },
+    {
+      "album": {
         "name": "I Can't Give Everything Away",
         "url": "https://open.spotify.com/album/58NC5JxuV17ealBQ1lZ0tj"
       },
@@ -1384,7 +1438,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 238220,
       "name": "I Don't Care - Acoustic",
       "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
@@ -1420,7 +1474,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 195960,
       "name": "i heart the internet",
       "url": "https://open.spotify.com/track/5NzIkBzG0MFVjpzSsgUhY0"
@@ -1587,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "it's been a year",
+        "url": "https://open.spotify.com/album/0wsETlKs4fptjLrGDKY2U4"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216670,
+      "name": "it's been a year",
+      "url": "https://open.spotify.com/track/2untQJbPOaB1BjyZKIVuZv"
+    },
+    {
+      "album": {
         "name": "IT'S YOU (feat. keshi)",
         "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
       },
@@ -1710,7 +1782,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 260293,
       "name": "Karadano shinmade kimigasuki",
       "url": "https://open.spotify.com/track/06fGJXHIjgidZWDQrBRm1O"
@@ -1728,7 +1800,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 198220,
       "name": "Keep Your Head Up Princess",
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
@@ -1746,7 +1818,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 254426,
       "name": "King of a Land",
       "url": "https://open.spotify.com/track/7ccZ3toxjL7khuJWMKGEIx"
@@ -1772,6 +1844,24 @@
       "duration_ms": 243000,
       "name": "kiss me before u go.",
       "url": "https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw"
+    },
+    {
+      "album": {
+        "name": "Kiss The World Goodbye (Acoustic)",
+        "url": "https://open.spotify.com/album/6StEl9hi5K5G0D2FmQy2sx"
+      },
+      "artists": [
+        {
+          "name": "Jesse McCartney",
+          "url": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Kiss The World Goodbye - Acoustic",
+      "url": "https://open.spotify.com/track/7zKQmLyDO6ZbwClUz4GleR"
     },
     {
       "album": {
@@ -1808,7 +1898,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 223429,
       "name": "Latch - Acoustic",
       "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
@@ -2094,6 +2184,24 @@
       "duration_ms": 215758,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
+    },
+    {
+      "album": {
+        "name": "Jake Bugg (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1c8GuoEHTsL42Oj0zw13nu"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130866,
+      "name": "Mr. Minister",
+      "url": "https://open.spotify.com/track/0FXvXbGYZayVLwgmLZbE0K"
     },
     {
       "album": {
@@ -2408,7 +2516,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 224585,
       "name": "Put A Little Love On Me",
       "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
@@ -2590,6 +2698,28 @@
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "album": {
+        "name": "Secret Life (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "Secret Life (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"
     },
     {
       "album": {
@@ -2796,7 +2926,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 272666,
       "name": "Something Stupid",
       "url": "https://open.spotify.com/track/5M5QOn3KYbWOyo7BvbJaqD"
@@ -2980,7 +3110,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 210466,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
@@ -3046,6 +3176,24 @@
       "duration_ms": 189324,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/1KUPfNsRaZbZB3NUeXhUcm"
+    },
+    {
+      "album": {
+        "name": "Bitter Pill",
+        "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "The Book Of Love",
+      "url": "https://open.spotify.com/track/40gxMiWbTEZUa6c2bGlBJz"
     },
     {
       "album": {
@@ -3136,7 +3284,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 273362,
       "name": "The Ones We Once Loved",
       "url": "https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi"
@@ -3172,7 +3320,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 217463,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
@@ -3194,6 +3342,24 @@
       "duration_ms": 235881,
       "name": "This Song -Planxty Irwin-",
       "url": "https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER"
+    },
+    {
+      "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
     },
     {
       "album": {
@@ -3248,6 +3414,28 @@
       "duration_ms": 170216,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
+    },
+    {
+      "album": {
+        "name": "To Be Young (feat. Doja Cat) [Acoustic]",
+        "url": "https://open.spotify.com/album/55S3bs4sdQeFuHdTXiLQ9G"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193819,
+      "name": "To Be Young (feat. Doja Cat) - Acoustic",
+      "url": "https://open.spotify.com/track/3iSu8rkvERzl5iY5GEGE1h"
     },
     {
       "album": {
@@ -3334,10 +3522,32 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 268461,
       "name": "Unload the Gun",
       "url": "https://open.spotify.com/track/3P6c5Xx54qDFw8xniwrUMX"
+    },
+    {
+      "album": {
+        "name": "Until I'm Home",
+        "url": "https://open.spotify.com/album/1ibWnIPLdicsuk6aYewHVJ"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        },
+        {
+          "name": "Sammy Copley",
+          "url": "https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245197,
+      "name": "Until I'm Home",
+      "url": "https://open.spotify.com/track/0r2jtynP0VVDA6ihok4jdm"
     },
     {
       "album": {
@@ -3453,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+    },
+    {
+      "album": {
         "name": "WHAT I HAVE",
         "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
       },
@@ -3554,7 +3782,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 189146,
       "name": "Wild Love - Acoustic",
       "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
@@ -3598,6 +3826,24 @@
       "duration_ms": 161384,
       "name": "WITHOUT YOU (with Miley Cyrus)",
       "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
+    },
+    {
+      "album": {
+        "name": "Worldwide (Acoustic)",
+        "url": "https://open.spotify.com/album/5bi23LgJpGRLdjim0YNHMU"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230085,
+      "name": "Worldwide - Acoustic",
+      "url": "https://open.spotify.com/track/6TjF9FZf1AULiIq2QISLTA"
     },
     {
       "album": {
@@ -3648,7 +3894,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 242333,
       "name": "YD9000",
       "url": "https://open.spotify.com/track/3qDLobOOINoYaDocsMeIJR"
@@ -3720,7 +3966,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 222813,
       "name": "\u30ab\u30bf\u30aa\u30e2\u30a4 - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/3u5nJX5PF2qXQe2vyolnme"
@@ -3760,7 +4006,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 255462,
       "name": "\u30bb\u30e9\u30f4\u30a3 -c'est la vie-",
       "url": "https://open.spotify.com/track/1MDpjHl1plH4ZyQkVqIU4k"
@@ -3778,7 +4024,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 134015,
       "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
       "url": "https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF"
@@ -3868,7 +4114,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 277293,
       "name": "\u5bb6\u65cf\u306e\u98a8\u666f",
       "url": "https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE"

@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "777MOON",
+        "url": "https://open.spotify.com/album/31S0LHcMowyOLeZcHqAcDF"
+      },
+      "artists": [
+        {
+          "name": "DJ MIU",
+          "url": "https://open.spotify.com/artist/1LLEkxsHQUep2jjDmRBDyJ"
+        },
+        {
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "777MOON (Feat. D-Hack)",
+      "url": "https://open.spotify.com/track/0kW6m2qeol7QYoH9psIukp"
+    },
+    {
+      "album": {
         "name": "?!",
         "url": "https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc"
       },
@@ -520,7 +542,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 173686,
       "name": "Break it up",
       "url": "https://open.spotify.com/track/2iXTpqbFeiWhySXHW2HTSX"
@@ -936,7 +958,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 220000,
       "name": "cry on the dancefloor (Feat. Paloalto)",
       "url": "https://open.spotify.com/track/4j4qFc9zqvwfTP5fqQLgSb"
@@ -4719,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/7mvXcE4O6cXegKk52405G4"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218886,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6KLyguge9Zz70BXzXUDZGy"
+    },
+    {
+      "album": {
         "name": "SPACE MULAN",
         "url": "https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a"
       },
@@ -4987,6 +5027,24 @@
     },
     {
       "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/2VcxQehZxSPKzoPOjjNyUF"
+      },
+      "artists": [
+        {
+          "name": "off the menu",
+          "url": "https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238581,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/5oaFME5n57z56o30U6dSYZ"
+    },
+    {
+      "album": {
         "name": "theme park",
         "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
       },
@@ -5196,7 +5254,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 78106,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO"

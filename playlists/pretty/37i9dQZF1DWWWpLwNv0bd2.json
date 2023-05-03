@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Rudhran",
-  "num_followers": 54666,
+  "num_followers": 54716,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWE4NmJmNzgzYmJlZDYwYmFlNGFkZGM1NWQwODU5YTE1M2M4N2Qz",
+  "snapshot_id": "MCxmZDMxNzlmYzU1ZGVmZDI3MGQ1YzUzZTI1ZTgwZGI4YmM2YTA2Y2Y3",
   "tracks": [
     {
       "added_at": "2023-04-13 08:06:56",
@@ -87,8 +87,8 @@
     {
       "added_at": "2023-03-09 13:17:08",
       "album": {
-        "name": "Mainaru Vetti Katti (From \"Dasara\") - Single",
-        "url": "https://open.spotify.com/album/0rGcHqbQ7KLQNuEpSfcmf2"
+        "name": "Dasara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr"
       },
       "artists": [
         {
@@ -100,17 +100,13 @@
           "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
         },
         {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
           "name": "Muthamil",
           "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
         }
       ],
       "duration_ms": 203052,
-      "name": "Mainaru Vetti Katti (From \"Dasara\")",
-      "url": "https://open.spotify.com/track/2bNnF0kKGMHFSaxXiitbFr"
+      "name": "Mainaru Vetti Katti",
+      "url": "https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk"
     },
     {
       "added_at": "2023-03-07 16:26:31",
@@ -933,30 +929,6 @@
       "url": "https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb"
     },
     {
-      "added_at": "2022-01-03 13:10:22",
-      "album": {
-        "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
-        "url": "https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ravi G",
-          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
-        },
-        {
-          "name": "Shashaa Tirupati",
-          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
-        }
-      ],
-      "duration_ms": 243570,
-      "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
-      "url": "https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r"
-    },
-    {
       "added_at": "2022-06-20 06:15:57",
       "album": {
         "name": "Minnal Kannile (From \"Pizza 3\")",
@@ -1103,22 +1075,6 @@
       "duration_ms": 226584,
       "name": "Summa Surrunu",
       "url": "https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz"
-    },
-    {
-      "added_at": "2022-01-08 18:03:17",
-      "album": {
-        "name": "Neethanadi (From \"Enna Solla Pogirai\")",
-        "url": "https://open.spotify.com/album/0WtJQoUW14v8LbJNb4yIJg"
-      },
-      "artists": [
-        {
-          "name": "Mervin Solomon",
-          "url": "https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Neethanadi",
-      "url": "https://open.spotify.com/track/0zeN1wmbeITrxoPNrcOjHL"
     }
   ],
   "unique_name": "Latest Love Tamil",

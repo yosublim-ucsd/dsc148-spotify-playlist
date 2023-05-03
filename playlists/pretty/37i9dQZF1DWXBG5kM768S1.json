@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 68195,
+  "num_followers": 68218,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2MwYmU1MDhjZTViYTk3NThiOTRhYjA0MTFmYmFlNDExZTAyMmJh",
+  "snapshot_id": "MCxiNTZiMDVjZDJmNzQ1NGNiNjRjMGMzYmVkMmUzN2Q1OWY5YTMxMDI4",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -279,22 +279,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Bror",
-        "url": "https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI"
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
         }
       ],
-      "duration_ms": 194893,
-      "name": "Bror",
-      "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -323,18 +319,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+        "name": "Bror",
+        "url": "https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI"
       },
       "artists": [
         {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+      "duration_ms": 194893,
+      "name": "Bror",
+      "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
     },
     {
       "added_at": "2023-04-13 22:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : DJ Kawest
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,604 likes - 40 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,697 likes - 39 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 37 | [Regret \- Remix](https://open.spotify.com/track/1p3lY9s5YADOF7PQ3u32Ny) | [Magasco](https://open.spotify.com/artist/19MUAFeICSgiIHN7C452LD), [Mimie](https://open.spotify.com/artist/1KM5rEMK3l9VVXq3XEejqP) | [Regret \(Remix\)](https://open.spotify.com/album/3vsoBAgKjB5rIHBCZvJCfV) | 3:41 |
 | 38 | [Spaceship](https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [SMOOVE KILLA](https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK) | 2:45 |
 | 39 | [Solo](https://open.spotify.com/track/2PQy1avcccpE3H3ZuQREz4) | [Kosla](https://open.spotify.com/artist/0WEnusOFYWy1WdoyeSPC72), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Solo](https://open.spotify.com/album/5uCFqaijmT0xfaKt1smTqk) | 2:32 |
-| 40 | [Born Leader](https://open.spotify.com/track/6tgW4WT1IUnKKbUATVcZfm) | [Stig da Artist](https://open.spotify.com/artist/7sEmKnf9Wp6NPOpMniFYpD), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Davido](https://open.spotify.com/artist/1ALSdJg7rTlST5DIOjDO8b) | [Born Leader](https://open.spotify.com/album/6K8Gng28hRABEDohP2TkRw) | 4:07 |
 
-Snapshot ID: `MCw1MTkwMjgxYzY1NWEyZjk4MTFiZTcyZjAxOGM4MGYxNTQ5ODcwNjNi`
+Snapshot ID: `MCw5OGIzNjVlNTc1ZGMwN2U5ZjNhOWU4OTZiMjg2M2JhZjFjMGYyZDVh`

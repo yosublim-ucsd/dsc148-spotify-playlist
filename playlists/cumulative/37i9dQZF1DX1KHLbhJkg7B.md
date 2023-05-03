@@ -2,7 +2,7 @@
 
 ### [Country Covers](https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B)
 
-> Unique versions of hit songs by other artists\. Cover: Michael Ray
+> Unique versions of hit songs by other artists\. Cover: Austin Snell
 
 303 songs - 18 hr 55 min
 
@@ -281,7 +281,7 @@
 | [Vienna](https://open.spotify.com/track/2DP7FXMdejVk2sx6sFd2ne) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/0LRJCqgduJF7dmTdKcXbEK) | 3:09 | 2022-04-08 | 2022-08-10 |
 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 | 2021-12-10 |  |
 | [Wait For It](https://open.spotify.com/track/26YCF5XU80CJ93UJZBR6W6) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [Wait For It](https://open.spotify.com/album/66cPby9NYwxBI9qQacw8tU) | 3:26 | 2021-12-10 | 2022-07-27 |
-| [Walkaway Joe \- The Bootlegger Sessions](https://open.spotify.com/track/4Pg5xIAXIKrNKagZfvCnUV) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Walkaway Joe \(The Bootlegger Sessions\)](https://open.spotify.com/album/1dLhjR5af52TO7IVZeOqIw) | 3:24 | 2022-10-07 |  |
+| [Walkaway Joe \- The Bootlegger Sessions](https://open.spotify.com/track/4Pg5xIAXIKrNKagZfvCnUV) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Walkaway Joe \(The Bootlegger Sessions\)](https://open.spotify.com/album/1dLhjR5af52TO7IVZeOqIw) | 3:24 | 2022-10-07 | 2023-05-03 |
 | [Walking In Memphis](https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Simply The Hits](https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv) | 4:17 | 2021-12-10 |  |
 | [Wasting All These Tears](https://open.spotify.com/track/4flWHSLV6ut0sPu0nQ1lCE) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wasting All These Tears](https://open.spotify.com/album/3ZGKM41lZMynyRwVgGPmez) | 3:15 | 2023-02-17 |  |
 | [Wasting All These Tears](https://open.spotify.com/track/53F09zoZSMdnUex1VjnMPj) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wasting All These Tears](https://open.spotify.com/album/5Z2ubQ6PRRFJ3smuU2YTLe) | 3:15 | 2022-11-18 | 2023-02-19 |
@@ -310,6 +310,6 @@
 | [You're Still the One](https://open.spotify.com/track/0x5LOBSGVRXtZWeGeaMQFK) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Pickaxe](https://open.spotify.com/album/21veZBfGnyYnvn5LXWFkMS) | 3:29 | 2022-09-23 | 2023-03-02 |
 | [You're Still the One](https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:29 | 2023-03-10 |  |
 | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/track/0cBjARqDzROgtgo99Ppi5q) | [Matt Austin](https://open.spotify.com/artist/4x6n7QYlPdUoaf7gwaqNq5) | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/album/77rlszvmPmrGtt1DCWJYd6) | 3:07 | 2022-03-25 | 2022-04-21 |
-| [Your Body Is a Wonderland](https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [David Ryan](https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX) | [Your Body Is a Wonderland](https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM) | 3:37 | 2021-12-10 | 2023-04-30 |
+| [Your Body Is a Wonderland](https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [David Ryan](https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX) | [Your Body Is a Wonderland](https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM) | 3:37 | 2021-12-10 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

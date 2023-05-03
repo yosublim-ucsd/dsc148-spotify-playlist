@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 205823,
+  "num_followers": 206020,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmU0NmFhMDIyYmJjZWZkMDc5NmEzZjJhNjNkMzY5OWIyNjIzMmFl",
+  "snapshot_id": "MCwzNGVkZGI0YWVlOTY3YWU2N2QzYWU5NDc2MDQ4MTk0YTBlMmFmOTZi",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -63,22 +63,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Love Secrets",
-        "url": "https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 222880,
-      "name": "Abba",
-      "url": "https://open.spotify.com/track/6VoL4G7Tt9XQXMK6B8BCfg"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Saved",
         "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 174285,
       "name": "Saved",
       "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Love Secrets",
+        "url": "https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/6VoL4G7Tt9XQXMK6B8BCfg"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -159,22 +159,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Peace to All Who Enter Here",
-        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 184152,
-      "name": "Turn Your Eyes Upon Jesus",
-      "url": "https://open.spotify.com/track/34fdABH94cRd7iKoYWLwjS"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "On the Shores",
         "url": "https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 244520,
       "name": "Abba",
       "url": "https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Peace to All Who Enter Here",
+        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 184152,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/34fdABH94cRd7iKoYWLwjS"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 312266,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
         "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 280826,
       "name": "Haven't Seen It Yet - Acoustic",
       "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 312266,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -351,26 +351,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Now More Than Ever",
-        "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
-      },
-      "artists": [
-        {
-          "name": "Out of the Dust",
-          "url": "https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu"
-        },
-        {
-          "name": "Plumb",
-          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
-        }
-      ],
-      "duration_ms": 280413,
-      "name": "Take This",
-      "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "There Is More (Live)",
         "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 191920,
       "name": "Who You Say I Am - Live/Acoustic",
       "url": "https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Now More Than Ever",
+        "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
+      },
+      "artists": [
+        {
+          "name": "Out of the Dust",
+          "url": "https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu"
+        },
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "duration_ms": 280413,
+      "name": "Take This",
+      "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -443,22 +443,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 248299,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Love Secrets (B-Sides)",
         "url": "https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 213942,
       "name": "I Know Just What You Need",
       "url": "https://open.spotify.com/track/0CBxM0vs1cT1YIw0GNnpuO"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 248299,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -527,6 +527,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Not Finished Yet",
+      "url": "https://open.spotify.com/track/48LaNGUAT0JmYdqSGAN6Bi"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "TOGETHER (Acoustic Version)",
         "url": "https://open.spotify.com/album/2bxW2yfuNRzAYao44imd3E"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 216681,
       "name": "TOGETHER (Acoustic Version)",
       "url": "https://open.spotify.com/track/3TX44ZXlkDzGkk8QmlxuYr"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Not Finished Yet",
-      "url": "https://open.spotify.com/track/48LaNGUAT0JmYdqSGAN6Bi"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Footprints (Acoustic)",
-        "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
-      },
-      "artists": [
-        {
-          "name": "Matt Hammitt",
-          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
-        }
-      ],
-      "duration_ms": 247195,
-      "name": "Footprints - Acoustic",
-      "url": "https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Well Done (Acoustic)",
         "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 278906,
       "name": "Well Done - Acoustic",
       "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Footprints (Acoustic)",
+        "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "duration_ms": 247195,
+      "name": "Footprints - Acoustic",
+      "url": "https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "After All These Years: A Collection",
         "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "New York Sessions",
-        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
         }
       ],
-      "duration_ms": 272625,
-      "name": "Who Am I - New York Sessions",
-      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1283,6 +1267,22 @@
       "duration_ms": 244213,
       "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
       "url": "https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "New York Sessions",
+        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Who Am I - New York Sessions",
+      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "& Side A",
-        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
-      },
-      "artists": [
-        {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
-        }
-      ],
-      "duration_ms": 268970,
-      "name": "Light & Momentary",
-      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Worth The Wait",
         "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "& Side A",
+        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "duration_ms": 268970,
+      "name": "Light & Momentary",
+      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Magnified (Acoustic)",
         "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 211800,
       "name": "Magnified (Acoustic)",
       "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Praise You In This Storm (New York Sessions)",
+        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 354407,
+      "name": "Praise You In This Storm - New York Sessions",
+      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1419,22 +1435,6 @@
       "duration_ms": 280054,
       "name": "Worth Mine",
       "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Praise You In This Storm (New York Sessions)",
-        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 354407,
-      "name": "Praise You In This Storm - New York Sessions",
-      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 437188,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "You Never Break a Promise",
-        "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
-      },
-      "artists": [
-        {
-          "name": "Mountaintops",
-          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
-        }
-      ],
-      "duration_ms": 337760,
-      "name": "You Never Break a Promise",
-      "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 213453,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "You Never Break a Promise",
+        "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
+      },
+      "artists": [
+        {
+          "name": "Mountaintops",
+          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+        }
+      ],
+      "duration_ms": 337760,
+      "name": "You Never Break a Promise",
+      "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
     },
     {
       "added_at": "2020-08-31 15:19:19",

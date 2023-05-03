@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3583712,
+  "num_followers": 3583782,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGMzMmEwZWI2OTUxNzhjMTUzYWVmMDhiYWE4NWQ0NWFjODMyYWEy",
+  "snapshot_id": "MCwwNDdjOWE2MmEyM2FjYTZiMjEyYTQ4Mjg0MGM0YWRjZjI0MzFjMjJk",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "The Nightfly",
-        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
-      },
-      "artists": [
-        {
-          "name": "Donald Fagen",
-          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
-        }
-      ],
-      "duration_ms": 363413,
-      "name": "I.G.Y.",
-      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "I Robot (Expanded Edition)",
         "url": "https://open.spotify.com/album/44VunLimdsXo2C6figBmwj"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 201880,
       "name": "I Wouldn't Want to Be Like You",
       "url": "https://open.spotify.com/track/5dbcQ5D5EnBK4mO3Oygzeu"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "The Nightfly",
+        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
+      },
+      "artists": [
+        {
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+        }
+      ],
+      "duration_ms": 363413,
+      "name": "I.G.Y.",
+      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Takin' My Time",
-        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "You've Been in Love Too Long - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Andrew Gold",
         "url": "https://open.spotify.com/album/3sZTuB8dgXYcVPeLvwWfcJ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 190760,
       "name": "That's Why I Love You",
       "url": "https://open.spotify.com/track/5SY02PzNZUfrWUF4ujG4Mz"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "You've Been in Love Too Long - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
     },
     {
       "added_at": "2023-03-20 17:07:41",

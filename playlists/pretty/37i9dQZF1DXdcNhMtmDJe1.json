@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 78046,
+  "num_followers": 78064,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmNmOTcyYTgzNjcxZWZmMDdhNjI4MWUyMTQxNWFjYWE0OTdmYmQ5",
+  "snapshot_id": "MCxkYjU4MjI1YjkyZDRkNjAwZDE5NmI3OTZhZDFmY2YwOGVlNjNmMjcx",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
-      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
+      "duration_ms": 336000,
+      "name": "Shall We Dance: They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/5zbXdG74mRQ52rOIucyquY"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Shall We Dance: They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/5zbXdG74mRQ52rOIucyquY"
+      "duration_ms": 305000,
+      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
+      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -943,34 +943,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
-        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Steven Browen",
-          "url": "https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 412906,
-      "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
-      "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Fantasy",
         "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
@@ -995,6 +967,34 @@
       "duration_ms": 1224000,
       "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
       "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
+        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Steven Browen",
+          "url": "https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 412906,
+      "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
+      "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
     },
     {
       "added_at": "2022-08-05 04:02:00",

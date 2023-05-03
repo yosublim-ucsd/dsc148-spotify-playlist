@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
+    },
+    {
+      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
       },
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 282806,
       "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
       "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"

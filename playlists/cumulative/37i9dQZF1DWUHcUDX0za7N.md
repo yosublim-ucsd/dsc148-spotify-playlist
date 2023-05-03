@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=wdv\_pNx6QqO9cmAr0l4x4g"> Zlatan</a>
 
-193 songs - 9 hr 23 min
+194 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 | 2022-12-08 | 2023-03-18 |
 | [More More](https://open.spotify.com/track/1nHxwydpZWlsJ1DXPV99pD) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [More More](https://open.spotify.com/album/7qs6tf9OVxzdW8XQuTfD2z) | 2:24 | 2023-04-20 |  |
 | [Move](https://open.spotify.com/track/2yrZPZp445bFHivx2WZYEq) | [Obmrumi](https://open.spotify.com/artist/2tT51ZEbpFZ9ah71Ma9XEW) | [Move](https://open.spotify.com/album/3TMjXAxHbM7NTuo1mSNVDa) | 2:45 | 2023-02-10 | 2023-03-18 |
-| [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 | 2022-06-30 |  |
+| [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 | 2022-06-30 | 2023-05-03 |
 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 | 2023-01-27 |  |
 | [Naira to Pounds](https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1) | [Zoro](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Naira to Pounds](https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr) | 2:51 | 2022-12-02 | 2023-02-24 |
 | [Never stopping](https://open.spotify.com/track/7bsexASUxrALdLNClTjjvJ) | [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [World Citizens](https://open.spotify.com/album/7rQGIVZH1sptr2Hq3Lqcy4) | 3:06 | 2022-06-23 | 2023-03-25 |
@@ -152,6 +152,7 @@
 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2022-11-04 |  |
 | [Sinner](https://open.spotify.com/track/7vHlCu70F8GQyA9cBvCoNg) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:45 | 2022-11-04 | 2022-11-19 |
 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 | 2022-06-09 | 2022-11-16 |
+| [Smackdown](https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH) | [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0), [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Smackdown](https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn) | 2:42 | 2023-04-27 |  |
 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 | 2022-10-14 | 2022-10-29 |
 | [Sober](https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Sober](https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x) | 4:01 | 2023-03-25 |  |
 | [Soft Life](https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 3:55 | 2023-01-20 |  |

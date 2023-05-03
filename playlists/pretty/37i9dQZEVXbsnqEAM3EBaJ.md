@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 51 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 51 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 47 | [Goin' Home](https://open.spotify.com/track/0eir7payQFT0HAdGK88yBd) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Scorched](https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu) | 4:31 |
 | 48 | [JUANA AZURDUY](https://open.spotify.com/track/2N29Cm2DxaupSnDcLkNzcP) | [JULIA PERESSON](https://open.spotify.com/artist/0dBupNNuTIhAYcQEwsSbhg), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Destellos Del Folklore](https://open.spotify.com/album/5R4Bzjf6rdaMJ0wWxyTB2p) | 4:35 |
 | 49 | [Holding out for a Hero \- Re\-Recorded \- Slowed + Reverb](https://open.spotify.com/track/3CNISSHPapR0YxwQePFAxM) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Holding Out For A Hero \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/0ZKcSy89HrjfjlUbKsjLlP) | 7:45 |
-| 50 | [Heaven’s On Fire \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/1a5kyYNvler2ipEArgvvys) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 4:20 |
+| 50 | [Drum Solo \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/7BZSorIzeorVRG78YDt3Fx) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 5:25 |
 | 51 | [It's Over \- Live in Toronto](https://open.spotify.com/track/3qVgP3ZyMpFQCynBxXWBAL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me \(Deluxe\)](https://open.spotify.com/album/3ENQtNYF2dLk3vwHP67oy0) | 3:44 |
 
-Snapshot ID: `MjgwNDQyNDAsMDAwMDAwMDBhMDJkNWI3OTkwZGMwYzAwYmM4Nzk1NjZhYzNhODVlNQ==`
+Snapshot ID: `MjgwNDQyNDAsMDAwMDAwMDAxNGQyYTdhOWY1ZmY5NjlkMWZkYmE0MDdmNmRlMmI1Nw==`

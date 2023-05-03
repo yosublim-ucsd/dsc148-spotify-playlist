@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring La Cassandra. Updates every Wednesday.",
-  "num_followers": 169725,
+  "num_followers": 169721,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGE1MDViZTRmODY5NjE4N2QwZmU5NGMzZDVhMmJhMmFhMTgzOWM2",
+  "snapshot_id": "MCxhOGY0MmVkMjhjOGYzMzRiMmM4OWYxMzVhM2ZlZWM3MzlmNDFiN2I1",
   "tracks": [
     {
       "added_at": "2023-04-26 15:38:42",
@@ -267,18 +267,22 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "Tentaci\u00f3n",
-        "url": "https://open.spotify.com/album/2MG3Q9gxAXbrTgk8jd6pkM"
+        "name": "Grasa & Panela",
+        "url": "https://open.spotify.com/album/5aZhSPEcLsGo8HWra8RB3I"
       },
       "artists": [
         {
-          "name": "Henao",
-          "url": "https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML"
+          "name": "Santo Miletto",
+          "url": "https://open.spotify.com/artist/5RvW8CSJeeQSayoAKpKM1d"
+        },
+        {
+          "name": "Pocket Tincho",
+          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Tentaci\u00f3n",
-      "url": "https://open.spotify.com/track/7wm6Lj6QKtwib7y4Wiki4I"
+      "duration_ms": 130945,
+      "name": "Las Cenizas Son el Cielo",
+      "url": "https://open.spotify.com/track/3oFUg8Q6XvwiBud5ucclKG"
     },
     {
       "added_at": "2023-04-26 15:38:42",
@@ -299,22 +303,18 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "Grasa & Panela",
-        "url": "https://open.spotify.com/album/5aZhSPEcLsGo8HWra8RB3I"
+        "name": "Tentaci\u00f3n",
+        "url": "https://open.spotify.com/album/2MG3Q9gxAXbrTgk8jd6pkM"
       },
       "artists": [
         {
-          "name": "Santo Miletto",
-          "url": "https://open.spotify.com/artist/5RvW8CSJeeQSayoAKpKM1d"
-        },
-        {
-          "name": "Pocket Tincho",
-          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
+          "name": "Henao",
+          "url": "https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML"
         }
       ],
-      "duration_ms": 130945,
-      "name": "Las Cenizas Son el Cielo",
-      "url": "https://open.spotify.com/track/3oFUg8Q6XvwiBud5ucclKG"
+      "duration_ms": 160000,
+      "name": "Tentaci\u00f3n",
+      "url": "https://open.spotify.com/track/7wm6Lj6QKtwib7y4Wiki4I"
     },
     {
       "added_at": "2023-04-26 15:38:42",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
+        "name": "Luces de tu Voz",
+        "url": "https://open.spotify.com/album/0wKl12XUUrs635EfzQRm7O"
+      },
+      "artists": [
+        {
+          "name": "Shortlive",
+          "url": "https://open.spotify.com/artist/4UlEI2cgS3UVJwAdh3ZBPf"
+        }
+      ],
+      "duration_ms": 202216,
+      "name": "Luces de tu Voz",
+      "url": "https://open.spotify.com/track/5eGM1tVC9KclMgnD7rcb1v"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
         "name": "Viajes",
         "url": "https://open.spotify.com/album/427VteQWWdzaPn0MvBT4kc"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "Luces de tu Voz",
-        "url": "https://open.spotify.com/album/0wKl12XUUrs635EfzQRm7O"
+        "name": "romance 2009",
+        "url": "https://open.spotify.com/album/0cpxbk2ltX5vNZnQ4UIt5v"
       },
       "artists": [
         {
-          "name": "Shortlive",
-          "url": "https://open.spotify.com/artist/4UlEI2cgS3UVJwAdh3ZBPf"
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
         }
       ],
-      "duration_ms": 202216,
-      "name": "Luces de tu Voz",
-      "url": "https://open.spotify.com/track/5eGM1tVC9KclMgnD7rcb1v"
+      "duration_ms": 205351,
+      "name": "romance 2009",
+      "url": "https://open.spotify.com/track/2dlzU9pSpChjyIshfuNwet"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -567,22 +583,6 @@
       "duration_ms": 163500,
       "name": "Mirarte Fue Alguna Vez Real",
       "url": "https://open.spotify.com/track/2AGt1b9gL3jODtOz9ZCNNH"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
-        "name": "romance 2009",
-        "url": "https://open.spotify.com/album/0cpxbk2ltX5vNZnQ4UIt5v"
-      },
-      "artists": [
-        {
-          "name": "GAMBOA",
-          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
-        }
-      ],
-      "duration_ms": 205351,
-      "name": "romance 2009",
-      "url": "https://open.spotify.com/track/2dlzU9pSpChjyIshfuNwet"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
+        "name": "Me Dejaste Caer",
+        "url": "https://open.spotify.com/album/5PY9S5lu4jcFZBkP3TEBrT"
+      },
+      "artists": [
+        {
+          "name": "TEARS",
+          "url": "https://open.spotify.com/artist/6H7wBKn1bVAZDw5XycoxRk"
+        }
+      ],
+      "duration_ms": 140392,
+      "name": "Me Dejaste Caer",
+      "url": "https://open.spotify.com/track/3ve4mXOfZHOJlsvUgigUIl"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/1KtghRkKmOebcAlzxsnzE4"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 209384,
       "name": "Noche de Ronda",
       "url": "https://open.spotify.com/track/74XndrGyo2DYbDwaWjmZo7"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
-        "name": "Me Dejaste Caer",
-        "url": "https://open.spotify.com/album/5PY9S5lu4jcFZBkP3TEBrT"
-      },
-      "artists": [
-        {
-          "name": "TEARS",
-          "url": "https://open.spotify.com/artist/6H7wBKn1bVAZDw5XycoxRk"
-        }
-      ],
-      "duration_ms": 140392,
-      "name": "Me Dejaste Caer",
-      "url": "https://open.spotify.com/track/3ve4mXOfZHOJlsvUgigUIl"
     },
     {
       "added_at": "2023-04-19 18:00:00",

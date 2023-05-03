@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-282 songs - 1 day 2 hr 14 min
+283 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Demon Cleaner](https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:11 | 2022-04-28 |  |
 | [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 | 2021-11-30 |  |
 | [Desert Cruiser](https://open.spotify.com/track/3IjeShSHRTVoWJdDDncVse) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/1kMiNWC1GGs8kbTcJWnLo4) | 7:29 | 2021-11-30 | 2022-07-29 |
+| [Desert Cruiser](https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV) | 7:29 | 2023-03-22 |  |
 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 | 2022-04-28 | 2023-04-30 |
 | [Desert God](https://open.spotify.com/track/61zZe6nTfoyRsuIwMg3DR8) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/4p0VY8aORNcSS8i7sXZUkE) | 5:16 | 2021-11-30 | 2022-07-27 |
 | [Desert God](https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH) | 5:16 | 2023-03-10 |  |
@@ -210,7 +211,7 @@
 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 | 2021-11-30 | 2022-07-29 |
 | [Seer](https://open.spotify.com/track/4tjrhez9Jz2euetdgNqS7W) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/5y2SajUtaw9VZjkuKlMsJQ) | 7:57 | 2022-04-28 | 2023-01-07 |
 | [Seer](https://open.spotify.com/track/7cShikd4rLNwAlHrHo0AFt) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/6WchxcxHQkc9DnwYc3WEC0) | 7:57 | 2022-10-14 | 2023-04-30 |
-| [Shifting Winds](https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj) | [Lightning Born](https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate) | [Lightning Born](https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG) | 4:35 | 2021-11-30 |  |
+| [Shifting Winds](https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj) | [Lightning Born](https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate) | [Lightning Born](https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG) | 4:35 | 2021-11-30 | 2023-05-03 |
 | [Sister](https://open.spotify.com/track/1j9HGnyyuupBYFpG2UJShL) | [Volga](https://open.spotify.com/artist/1Kb7jk58AZ30wMvGRuYpky) | [Dead Man’s Hand](https://open.spotify.com/album/6UyXn37mCEq5TYFE0hg25F) | 2:17 | 2022-02-14 | 2022-04-18 |
 | [Sixty Watt Shaman](https://open.spotify.com/track/4Tmj44iRTXTDK5jo9elMCv) | [Whiskey Neck](https://open.spotify.com/artist/76B55uevwwGTkO8LfGpb5T) | [In The Groove](https://open.spotify.com/album/5cZ1SppOuMg4sS0WqDkAls) | 5:41 | 2021-11-30 | 2021-12-23 |
 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 | 2023-03-22 |  |

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-218 songs - 17 hr 26 min
+219 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dear](https://open.spotify.com/track/00ur1WE5DXC4ycnnBnyfvg) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 1:56 | 2022-03-30 | 2023-01-21 |
 | [Dear \- Amulets Rework](https://open.spotify.com/track/6vzo1YkZADgaP8WzTLld2D) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Dear \(Amulets Rework\)](https://open.spotify.com/album/21iHYe4bks6r9xxmbvYJbj) | 5:28 | 2022-12-20 |  |
 | [Deep Creek \(Autumn, 2.33pm\) \- 528hz Meditation](https://open.spotify.com/track/6C1JNqeXFWlAiZc4G42ia1) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Awake Within The Dream: Sound Meditations, Vol\. 1](https://open.spotify.com/album/08NsoOBj6S7PfCp7sGDNPL) | 9:28 | 2023-03-11 |  |
-| [Deep Time](https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [Ruan](https://open.spotify.com/artist/5jcPfUXM1Mo5coDLdpurNr) | [Deep Time](https://open.spotify.com/album/5XD0RPWsp1bJmNL3JXy1jd) | 3:56 | 2022-07-08 |  |
+| [Deep Time](https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [Ruan](https://open.spotify.com/artist/5jcPfUXM1Mo5coDLdpurNr) | [Deep Time](https://open.spotify.com/album/5XD0RPWsp1bJmNL3JXy1jd) | 3:56 | 2022-07-08 | 2023-05-03 |
 | [Dense Cover](https://open.spotify.com/track/4LeRGWmKd87ixbTS2smg6e) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [A Little Night Music: Aural Apparitions from the Geographic North](https://open.spotify.com/album/3Gd318rDShK1Ds12n3AATc) | 4:18 | 2022-03-30 | 2022-07-29 |
 | [Dewey](https://open.spotify.com/track/0KXPPU4wKaVOzHtASPzyGg) | [Picnic](https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo) | [Picnic](https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE) | 4:54 | 2022-05-25 |  |
 | [Distance](https://open.spotify.com/track/2vHF644TPOyDF9lQSgTVzr) | [Pepo Galan](https://open.spotify.com/artist/18NAfV3NJPeHDvA2mjwh6K), [Sita Ostheimer](https://open.spotify.com/artist/2euah4M3KphCCZalnxQw4Y) | [Contact](https://open.spotify.com/album/7hTymFxCiU5SbCGeeGcAvi) | 2:50 | 2022-03-17 | 2022-07-28 |
@@ -79,6 +79,7 @@
 | [Golden Waxcap](https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt) | [Preslav Literary School](https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY) | [Mycelium](https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9) | 1:14 | 2023-03-16 |  |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2022-03-17 | 2023-01-07 |
 | [Grat](https://open.spotify.com/track/3C7ln1fvOInfVLWe1uOWso) | [Daniel O'Rhys](https://open.spotify.com/artist/4eb20k06iiAcR95q6sp8RD) | [The Winterstein Suite](https://open.spotify.com/album/6npZLJ2zQD5TnSRRdimKFN) | 4:39 | 2022-03-17 | 2023-03-02 |
+| [Green\-Yellow Field](https://open.spotify.com/track/0ZX5GDnY4cmcLEtUmVd0GF) | [Blue Lake](https://open.spotify.com/artist/6I1HySHVBxauGTpv00Gohc) | [Green\-Yellow Field](https://open.spotify.com/album/29Ee7Aj2DPakARy3SJQXIB) | 2:30 | 2023-04-28 |  |
 | [hajimari](https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [5:00 a.m.](https://open.spotify.com/album/4wFBDp13YkDNFbUwluDWZ4) | 3:08 | 2023-01-06 |  |
 | [Haze](https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Haze](https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu) | 2:08 | 2022-08-19 |  |
 | [I Hold Dearly \(For Miles\)](https://open.spotify.com/track/215BxshjyTy3SRuaeb4KBE) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Natsukashii](https://open.spotify.com/album/10gqYl87tFtJOpp3wkJfEc) | 5:17 | 2022-03-17 | 2023-01-07 |

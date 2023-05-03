@@ -910,7 +910,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 396466,
       "name": "Catch The Rainbow",
       "url": "https://open.spotify.com/track/7FtRUrOEDUHTvenvp1BqZo"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 316826,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 276280,
       "name": "Eye In The Sky",
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 233400,
       "name": "Found Out About You",
       "url": "https://open.spotify.com/track/5WmDRnuGYo31xrWNDcYaps"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 335872,
       "name": "Goodbye to Romance",
       "url": "https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R"
@@ -3405,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Tambu",
+        "url": "https://open.spotify.com/album/6euMPZz8wRBQBf9U2W91Xw"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303626,
+      "name": "If You Belong to Me",
+      "url": "https://open.spotify.com/track/759c8iDFYOtthJJ7ZaVuyv"
+    },
+    {
+      "album": {
         "name": "Lemon Parade",
         "url": "https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V"
       },
@@ -3532,7 +3550,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 161333,
       "name": "In The Heat Of The Morning",
       "url": "https://open.spotify.com/track/2pAm0eho3UtxAK1bsRuOK7"
@@ -4277,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "Mr. Bad Guy (Special Edition)",
+        "url": "https://open.spotify.com/album/6Dn35TYdEp2Kyr2MUxemjs"
+      },
+      "artists": [
+        {
+          "name": "Freddie Mercury",
+          "url": "https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225100,
+      "name": "Love Me Like There's No Tomorrow - Special Edition",
+      "url": "https://open.spotify.com/track/1nx4C7WpgRVTIeAmWIX8FD"
+    },
+    {
+      "album": {
         "name": "Firehouse",
         "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
       },
@@ -4490,6 +4526,24 @@
       "duration_ms": 253853,
       "name": "Lovers In The Wind",
       "url": "https://open.spotify.com/track/2nOtOd6fcI7MQ9Bw2QgNoH"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209573,
+      "name": "Lovesong - 2010 Remaster",
+      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
     },
     {
       "album": {
@@ -5174,7 +5228,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 209213,
       "name": "Perdida",
       "url": "https://open.spotify.com/track/37AWxJfFokpKZhn6b0o483"
@@ -5246,7 +5300,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 238666,
       "name": "Push",
       "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
@@ -5448,7 +5502,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
@@ -5664,7 +5718,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "Seven Wonders - 2017 Remaster",
       "url": "https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx"
@@ -6738,7 +6792,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 177546,
       "name": "Today",
       "url": "https://open.spotify.com/track/0yLfXULLuRtVj2L4DIrwO7"
@@ -6994,7 +7048,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
@@ -7120,7 +7174,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 298066,
       "name": "What Happens To Me",
       "url": "https://open.spotify.com/track/6CyBCVrrl6yWIpFk8KTUmy"
@@ -7232,6 +7286,24 @@
       "duration_ms": 233613,
       "name": "When It Comes to Love",
       "url": "https://open.spotify.com/track/27ZCEDkLA8dnzshhGpD1Iw"
+    },
+    {
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/2DirJHZVTDYehQiwpWglKo"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232786,
+      "name": "When It Comes to Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4MLBWjhQ1uUssFEaO66jjE"
     },
     {
       "album": {
@@ -7408,7 +7480,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 306066,
       "name": "Where Did You Sleep Last Night",
       "url": "https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht"

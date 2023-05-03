@@ -5382,7 +5382,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 108705,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/5YmOBe3aZ2wBZ8oO6P8OfN"
@@ -10578,7 +10578,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 189000,
       "name": "Bleeding Heart",
       "url": "https://open.spotify.com/track/0eO4dCEWLEr9aGYJdqqmtx"
@@ -21172,7 +21172,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 133369,
       "name": "Couchkeys",
       "url": "https://open.spotify.com/track/4BMt6U3PTW3t4srduHmtsY"
@@ -28880,7 +28880,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 134505,
       "name": "En Route",
       "url": "https://open.spotify.com/track/0nUFD6i20AB1yzCxB3zGA5"
@@ -61474,7 +61474,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 137930,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2Rn1ngpPvwFArJAVwkHXlJ"
@@ -62152,7 +62152,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 118796,
       "name": "Most anything you want",
       "url": "https://open.spotify.com/track/1NtQdNfpvGv2AgDp7X5bkq"
@@ -71224,6 +71224,24 @@
       "duration_ms": 126355,
       "name": "Parrots and Peaches",
       "url": "https://open.spotify.com/track/6tsrzAQqxquNluHNnFxMXN"
+    },
+    {
+      "album": {
+        "name": "Part X",
+        "url": "https://open.spotify.com/album/2dxvoUVcFneqi9o4SrNJ8L"
+      },
+      "artists": [
+        {
+          "name": "Platinum Dust",
+          "url": "https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126707,
+      "name": "Part X",
+      "url": "https://open.spotify.com/track/6r6IpMsJ2e6mpGmal4qLft"
     },
     {
       "album": {
@@ -83986,7 +84004,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 143773,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/611sqq1ogKBrXyK4qq9get"

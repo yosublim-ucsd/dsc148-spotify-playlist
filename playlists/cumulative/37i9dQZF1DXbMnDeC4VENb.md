@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-110 songs - 6 hr 32 min
+111 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Mi Vida Es Mejor](https://open.spotify.com/track/3bnEmZgrF0McEGGCmosnED) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Mi Vida Es Mejor](https://open.spotify.com/album/6O9tWJ5uhg6SHu6AM60IAR) | 2:49 | 2022-09-05 |  |
 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 | 2022-05-25 |  |
 | [Mírame Ma](https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:01 | 2022-05-25 |  |
-| [No Cambia Nada](https://open.spotify.com/track/6cX8ZEnR2fNMnHPIrzPz6l) | [Skiper Rmz](https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M) | [No Cambia Nada](https://open.spotify.com/album/1vVX4IcLrWY262TBNRUbtz) | 2:44 | 2022-05-25 |  |
+| [No Cambia Nada](https://open.spotify.com/track/1lTnLZE9NsrVKGyvYmGLdI) | [Skiper Rmz](https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M) | [No Cambia Nada](https://open.spotify.com/album/6S48b3zbpnbWUeKgjBSbZc) | 2:44 | 2023-04-28 |  |
+| [No Cambia Nada](https://open.spotify.com/track/6cX8ZEnR2fNMnHPIrzPz6l) | [Skiper Rmz](https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M) | [No Cambia Nada](https://open.spotify.com/album/1vVX4IcLrWY262TBNRUbtz) | 2:44 | 2022-05-25 | 2023-05-03 |
 | [No Es Mía](https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O) | 3:08 | 2022-05-25 |  |
 | [No quise dañarte](https://open.spotify.com/track/57EhNdIYjhowMMKiR8frkG) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [No quise dañarte](https://open.spotify.com/album/0NAjyZrDAPqiqYXhu9gSTV) | 3:15 | 2023-03-24 |  |
 | [No Soy Tu Love](https://open.spotify.com/track/1eIOa0jhyO3KKF8btMpSdF) | [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [No Soy Tu Love](https://open.spotify.com/album/2O2wt8N9LzXfMgeB54oyGg) | 2:02 | 2022-05-25 | 2022-12-12 |

@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-267 songs - 17 hr 25 min
+268 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Dark Love Empress](https://open.spotify.com/track/7o3eiEmgW9j7vOotdBcUxY) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Dark Love Empress](https://open.spotify.com/album/1dRkb4FLPAg8vWCu0k6TJW) | 4:43 | 2020-12-07\* | 2022-07-29 |
 | [Dead Promises \(with Björn "Speed" Strid\) \- Single Version](https://open.spotify.com/track/0oUb90hlUSRArHjBB3gqpC) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [Dead Promises \(with Björn "Speed" Strid\)](https://open.spotify.com/album/0Z2SoB7Aow297HNIJYp8T6) | 5:51 | 2020-12-07\* | 2020-12-11 |
 | [Deadly Diminuendo](https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Deadly Diminuendo](https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl) | 5:00 | 2021-05-15 | 2023-02-22 |
-| [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-03-24 |  |
+| [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-03-24 | 2023-05-03 |
 | [Diamonds and Dark](https://open.spotify.com/track/1fNO2fYTMVnadgqF5Aqui7) | [Phantom Elite](https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX) | [Diamonds and Dark](https://open.spotify.com/album/0REvlMPAOWsiNrjin4bmdw) | 4:49 | 2020-12-07\* | 2022-07-29 |
 | [Diana](https://open.spotify.com/track/6mJ1xzqTOpUfIKVc4d5HDl) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Diana](https://open.spotify.com/album/3KQGVYjzN1c5QhhdeGwIMF) | 4:16 | 2021-05-29 | 2022-07-16 |
 | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 | 2022-11-18 |  |
@@ -235,6 +235,7 @@
 | [The In\-Between](https://open.spotify.com/track/3zyO75z96PN667L0I7jgwf) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [The In\-Between](https://open.spotify.com/album/6Bt8Eq2zqc6NxAgqRRngC1) | 4:14 | 2020-12-07\* | 2022-07-25 |
 | [The Mistake](https://open.spotify.com/track/6HBCepBIx087vvtLndu3Q3) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [The Mistake](https://open.spotify.com/album/2UFK1VYztGQ2U8BVvCU0HT) | 3:49 | 2021-10-10 | 2021-10-13 |
 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 | 2022-03-11 | 2023-04-29 |
+| [The Nexus](https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6HURHOREgzRB1e00Uu99ki) | 3:16 | 2022-11-18 |  |
 | [The Nothing](https://open.spotify.com/track/5ax1Vrv2jvRfsWPMjj17qn) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/12eakYiYzvGy3vyG6JcEe8) | 3:59 | 2022-03-18 | 2022-07-13 |
 | [The Pallbearer Walks Alone](https://open.spotify.com/track/4fGxMI4p6dOxXCutg1vrRx) | [The Dark Element](https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f) | [The Pallbearer Walks Alone](https://open.spotify.com/album/79SHmZSz5FBsx2TAtv4PcC) | 5:39 | 2020-12-07\* | 2022-07-29 |
 | [The Purge](https://open.spotify.com/track/6pR3NxgHtficTizsYVRRmX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/3niQnbWWHiZqnqOHdM9N0U) | 4:16 | 2020-12-07\* | 2022-07-29 |

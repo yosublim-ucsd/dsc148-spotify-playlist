@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Saramalacara.\nDales play, dales power.",
-  "num_followers": 29497,
+  "num_followers": 29503,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGQ5NWNiODY0ODdmNzg0NzQyYWZiODI3MWUzZjMzZDY1MmNmYWZj",
+  "snapshot_id": "MCwxNTkyMjdhOWMwNGI0OTc5ZTMxOGFhOWRkMTJkOGZjODFkNGQ2ZGEx",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Fumando Menos",
-        "url": "https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Fumando Menos",
-      "url": "https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -319,18 +303,34 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/73b0Kk4U4s0YEYPLZZrFz9"
+        "name": "Fumando Menos",
+        "url": "https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP"
       },
       "artists": [
         {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
         }
       ],
-      "duration_ms": 121531,
-      "name": "Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI"
+      "duration_ms": 187317,
+      "name": "Fumando Menos",
+      "url": "https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Dwele",
+        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Dwele",
+      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Dwele",
-        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+        "name": "Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/73b0Kk4U4s0YEYPLZZrFz9"
       },
       "artists": [
         {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Dwele",
-      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
+      "duration_ms": 121531,
+      "name": "Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "Mosaicos",
+        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Nollie",
+      "url": "https://open.spotify.com/track/6ArokDS7IVFs05T2GfSCHz"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "Tu Amante",
         "url": "https://open.spotify.com/album/1XAMmnGeJPNG2uKRq1GGZZ"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 181888,
       "name": "PLUSH",
       "url": "https://open.spotify.com/track/5xhqoMCMBBuuwnjnTL3p9d"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "Mosaicos",
-        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Nollie",
-      "url": "https://open.spotify.com/track/6ArokDS7IVFs05T2GfSCHz"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "BF4E",
+      "url": "https://open.spotify.com/track/6Dad5XKRcJ3m8dQapu3fjG"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "Miseria",
         "url": "https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 140444,
       "name": "Miseria",
       "url": "https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "BF4E",
-      "url": "https://open.spotify.com/track/6Dad5XKRcJ3m8dQapu3fjG"
     },
     {
       "added_at": "2023-04-05 03:00:00",

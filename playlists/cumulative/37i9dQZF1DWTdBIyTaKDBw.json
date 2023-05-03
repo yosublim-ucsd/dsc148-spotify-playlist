@@ -393,6 +393,28 @@
     },
     {
       "album": {
+        "name": "Bit by Bit, Slowly, To You",
+        "url": "https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Bit by Bit, Slowly, To You",
+      "url": "https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv"
+    },
+    {
+      "album": {
         "name": "Loop 1",
         "url": "https://open.spotify.com/album/53t377Jk0Zhgk88sX60udL"
       },
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 205002,
       "name": "Leave like this",
       "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"

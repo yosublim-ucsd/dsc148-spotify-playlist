@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,920 likes - 115 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,943 likes - 115 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 57 | [BO$$](https://open.spotify.com/track/0yec4sLxW29JUAt84HMang) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:24 |
 | 58 | [OPPA](https://open.spotify.com/track/22sCy9toRdPKgl0LRvtwkR) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Summer Go Loco](https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf) | 3:55 |
 | 59 | [SOLD OUT](https://open.spotify.com/track/1o63J4PLFxNHPMOGohT7sx) | [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Andre](https://open.spotify.com/album/3c8EwsM7c6Ek2JPrf2b1VV) | 3:54 |
-| 60 | [All 2 U](https://open.spotify.com/track/1PAdV4YjMKooQzCN8HfJ7o) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq), [UV](https://open.spotify.com/artist/5M7KE2pbTmSQL32wD4sTG9), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [The Call Project No.4](https://open.spotify.com/album/3HFYMKzGPxd9tfRWExm4jR) | 4:07 |
+| 60 | [All 2 U](https://open.spotify.com/track/1PAdV4YjMKooQzCN8HfJ7o) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq), [UV](https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [The Call Project No.4](https://open.spotify.com/album/3HFYMKzGPxd9tfRWExm4jR) | 4:07 |
 | 61 | [Summer Go Loco \(Feat\. GRAY\)](https://open.spotify.com/track/3WwYPsUyzjsBbAItT1t631) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Summer Go Loco](https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf) | 3:12 |
 | 62 | [Party Band \(Feat\. PUNCHNELLO, Thur\)](https://open.spotify.com/track/7cf2Dse4od8ogBvmqXxQKI) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Thur](https://open.spotify.com/artist/1LvNe813XqkhzNmZH0UHLO) | [Summer Go Loco](https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf) | 3:54 |
 | 63 | [StrOngerrr \(Feat\. Loco, MINO\)](https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [MUGGLES' MANSION](https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr) | 4:45 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 114 | [Take Care](https://open.spotify.com/track/1Tc6M6Y97fRPO5gLyEehtE) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [박나래](https://open.spotify.com/artist/3oBO24qfRYkz2F0IeFg5k4) | [Take Care](https://open.spotify.com/album/6dpL8cY46BrtfKUfmTmk3w) | 3:42 |
 | 115 | [DAYDREAM \(feat.Loco\)](https://open.spotify.com/track/7e7ESlXkcObCbUTfCJbibE) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [HIM](https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9) | 3:12 |
 
-Snapshot ID: `MCw4MmNhZmRhYmIwYWFlMGM5YTlhODgzNGRjYTZhM2ZkMThhZWMxNTFk`
+Snapshot ID: `MCxhZTNkZjdiODVhYjE1NDcxMjc0MjY5OTE3MzViOGEwNGUzZmU2MTc3`

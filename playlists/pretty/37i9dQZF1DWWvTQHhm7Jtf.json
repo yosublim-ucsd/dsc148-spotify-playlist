@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 14050,
+  "num_followers": 14070,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDI1YTkxZTRlNDRlYjNlN2Y2N2Q4MDUzYThmYjcyZjAwN2I3NGUx",
+  "snapshot_id": "MCxmZmViZDA4OTVkOWI4ZGU3OTc5ZjAwMDhkMzc0NWEwY2ZiYmI2MmVi",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Cobalt Blue",
-        "url": "https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i"
-      },
-      "artists": [
-        {
-          "name": "Michael Brook",
-          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 130986,
       "name": "My Gull",
       "url": "https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i"
+      },
+      "artists": [
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR"
     },
     {
       "added_at": "2023-03-16 19:57:19",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 210716,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
+    },
+    {
       "added_at": "2022-03-30 02:52:41",
       "album": {
         "name": "Point Zero",
@@ -387,22 +403,6 @@
       "duration_ms": 191746,
       "name": "Dear Ko (To Ko the Regt)",
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 210716,
-      "name": "Gilded",
-      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
     },
     {
       "added_at": "2023-04-15 01:26:09",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Forest Trails",
-        "url": "https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 346364,
-      "name": "Forest Trails",
-      "url": "https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Fen",
         "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 295500,
       "name": "Fen",
       "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Forest Trails",
+        "url": "https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 346364,
+      "name": "Forest Trails",
+      "url": "https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4"
     },
     {
       "added_at": "2022-01-14 00:06:38",
@@ -503,6 +503,22 @@
       "duration_ms": 448133,
       "name": "Water Memory 1",
       "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 409066,
+      "name": "Melancholia II",
+      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -645,20 +661,20 @@
       "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2022-03-16 01:06:51",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
       },
       "artists": [
         {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
         }
       ],
-      "duration_ms": 409066,
-      "name": "Melancholia II",
-      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+      "duration_ms": 316285,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -675,22 +691,6 @@
       "duration_ms": 245927,
       "name": "Palace Posy",
       "url": "https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi"
-    },
-    {
-      "added_at": "2022-03-16 01:06:51",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 316285,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -739,22 +739,6 @@
       "duration_ms": 210000,
       "name": "Touch me & die",
       "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 229861,
-      "name": "Toucan Ocean",
-      "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -811,6 +795,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 229861,
+      "name": "Toucan Ocean",
+      "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Omprovo",
+      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Fourth World Vol 1 Possible Musics",
         "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 209040,
       "name": "Delta Rain Dream",
       "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Omprovo",
-      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
     },
     {
       "added_at": "2022-09-21 02:21:27",
@@ -979,6 +979,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 482146,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Sketch for Winter IX: Perlita",
         "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
@@ -1025,22 +1041,6 @@
       "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 482146,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892"
-    },
-    {
       "added_at": "2022-03-17 01:20:50",
       "album": {
         "name": "Skyline - Instant Composition Vol. 2",
@@ -1075,6 +1075,26 @@
       "duration_ms": 375177,
       "name": "Paper Marble",
       "url": "https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 377066,
+      "name": "Ba-benz\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1115,42 +1135,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Fourth World Vol 1 Possible Musics",
-        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 377066,
-      "name": "Ba-benz\u00e9l\u00e9",
-      "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Noodles",
-        "url": "https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 326500,
-      "name": "The Brook",
-      "url": "https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Missing Pages",
         "url": "https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 339440,
       "name": "June 26th",
       "url": "https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Noodles",
+        "url": "https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 326500,
+      "name": "The Brook",
+      "url": "https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu"
     },
     {
       "added_at": "2022-09-30 02:47:05",

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcpS9SoNtuO7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcpS9SoNtuO7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcpS9SoNtuO7)
 
-### [リスアニ！LIVE 2023](https://open.spotify.com/playlist/37i9dQZF1DXcpS9SoNtuO7)
+### [リスアニ！最強アニソンプレイリスト](https://open.spotify.com/playlist/37i9dQZF1DXcpS9SoNtuO7)
 
-> 2023/1/27・28・29に日本武道館にて開催されるアニソンフェス“リスアニ！LIVE 2023”出演アーティストの楽曲をピックアップ！ The official playlist of "LisAni! LIVE 2023"
+> The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-347 songs - 1 day 1 hr 17 min
+349 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Himitsu Sentai Gorenger](https://open.spotify.com/track/4zZqHjj23yA06uTyggFPJT) | [Isao Sasaki](https://open.spotify.com/artist/2ATRuUpNh9cQAKBCLoXub8), [Korogi '73](https://open.spotify.com/artist/1vDb8atHic1NmI2Bzbvl63) | [Super Sentai Series: Theme Songs Collection, Vol\. 1](https://open.spotify.com/album/71AwN054jWh3J7SnaTXlSG) | 3:04 | 2022-07-19 | 2023-01-12 |
 | [Howling](https://open.spotify.com/track/2BRpXKc1lQ57W8s8EgmVaV) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百希夜行](https://open.spotify.com/album/3WllEI0mCP1Z5q2eaL8Dyo) | 4:07 | 2023-01-29 |  |
 | [Howling](https://open.spotify.com/track/4VAC43TEP0QUT3bdwdlNAz) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Howling](https://open.spotify.com/album/7BSWQP5UyC3Jb79lHeagpQ) | 4:08 | 2022-06-07 | 2022-06-23 |
+| [Iden Teitei Meltdown](https://open.spotify.com/track/3ChPJQvs0HvyNy7j3AbBzK) | [Enako](https://open.spotify.com/artist/23Sh4LxrCSK3Or7uEjZ9Vy), [Pmarusama](https://open.spotify.com/artist/7G6CzEvibsxpjfOIktMQEO) | [Iden Teitei Meltdown](https://open.spotify.com/album/2tCVHP4OBLBnz3bT7fz0G7) | 4:03 | 2023-05-02 |  |
 | [IDOLY PRIDE](https://open.spotify.com/track/3uwlaMMgaOSchr5Gzipl0S) | [星見プロダクション](https://open.spotify.com/artist/1qu8WIATG5KzozEzjmDkx7) | [IDOLY PRIDE](https://open.spotify.com/album/4Lj5yWUNByFyBmcd2GlbE8) | 3:38 | 2022-06-07 | 2022-06-23 |
 | [Independence](https://open.spotify.com/track/1VftzwJX5TeLsHwOSLhLiU) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 3:47 | 2023-01-28 |  |
 | [infinite Resonance](https://open.spotify.com/track/3Y4WGmsKIk8awxjrtTmu27) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance](https://open.spotify.com/album/72nfxEqgetGN0xQ73YPbnF) | 4:01 | 2023-01-29 |  |
@@ -148,6 +149,7 @@
 | [Red fraction](https://open.spotify.com/track/2hqpcsqOnPHxWDIRGPJAXC) | [MELL](https://open.spotify.com/artist/2hEvvgrmO91VMERk44HPY1) | [MELLSCOPE](https://open.spotify.com/album/3YQJIiW2Hv9BCHPgJc24dl) | 3:41 | 2022-09-27 | 2023-01-28 |
 | [Renaissance Jounetsu](https://open.spotify.com/track/6mBep855g9hJbYIJKxhkIu) | [Wataru Kuniyasu](https://open.spotify.com/artist/7f0fNEjcqFT8ALdKirH1NG) | [Mister Ajikko Manpuku\-Teisyoku \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DD8UxLgIGkbGDNEqErVxQ) | 3:04 | 2022-07-19 | 2023-01-28 |
 | [RESISTER](https://open.spotify.com/track/4L2A9Sgn15oYBVy64mfvqj) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [RESISTER \(Special Edition\)](https://open.spotify.com/album/6hyA8lHVVFLQhHUKpAqDOC) | 3:47 | 2022-06-07 | 2022-06-23 |
+| [RIDE ON SHOOTING STAR](https://open.spotify.com/track/6O4t5H68WJNd8RQjZcu2Oj) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [FLCL Season 1 Vol\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5qRZrLQSAnZkhdvQtR8MpT) | 2:22 | 2023-05-02 |  |
 | [Roundabout \- 2003 Remaster](https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 8:30 | 2022-08-30 | 2023-01-12 |
 | [Saihate](https://open.spotify.com/track/1jGOEBcjq9Wru5ABX6zumY) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [fruitful spring](https://open.spotify.com/album/4pXEaekMG4wN2fVw5Sr3l2) | 4:55 | 2023-01-27 |  |
 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 | 2022-08-02 | 2023-01-12 |
@@ -269,7 +271,7 @@
 | [ミスター・ダーリン](https://open.spotify.com/track/6FZJ2QrFr1yY1NtcGbQexA) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [ミスター・ダーリン / ギミギミコール \(Complete Edition\)](https://open.spotify.com/album/5AIDbavUjnXZPQk4VZ6AeL) | 4:07 | 2022-06-07 | 2022-06-23 |
 | [ミラクルっと♥Link Ring!](https://open.spotify.com/track/7oTZJP8WeEdfrDDeR7bJWU) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [ヒーリングっど♥プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/59ZcL0K687oiqDcORJ2LO2) | 4:07 | 2022-06-07 | 2022-06-23 |
 | [ミラー](https://open.spotify.com/track/5WRjo26QC6RJNaP5PtAVV9) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/3VKwasBzLGIlOWoBVAhtQD) | 2:59 | 2022-08-30 | 2023-01-12 |
-| [メニメニマニマニ](https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN) | [高宮なすの\(CV:鳴海杏子\)](https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG) | [メニメニマニマニ](https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth) | 4:29 | 2022-06-07 | 2023-01-12 |
+| [メニメニマニマニ](https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN) | [高宮なすの\(CV:鳴海杏子\)](https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG) | [メニメニマニマニ](https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth) | 4:29 | 2022-06-07 |  |
 | [ユーフォリア](https://open.spotify.com/track/3rkgKM75u0cdUG8yRzOYhU) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [『ARIA The NATURAL』オープニングテーマ「ユーフォリア」](https://open.spotify.com/album/0X2jxOSFpYaxkaYBiF68Yw) | 5:17 | 2022-09-14 | 2023-01-12 |
 | [ラテラリティ](https://open.spotify.com/track/3LqNeZj77P9LuLxxz5FXwT) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ラテラリティ](https://open.spotify.com/album/0FBiBwHeGYGDiqAhyxJ6ia) | 4:29 | 2022-06-07 | 2022-06-23 |
 | [ラムのラブソング](https://open.spotify.com/track/2HbmEHg48FUV3P3B8S5HEN) | [松谷祐子](https://open.spotify.com/artist/5K6jTQAlFUUBYyCh5Cfs4Y) | [うる星やつら SONG BOOK](https://open.spotify.com/album/3yuzNoBWSb7woGw28pDbvT) | 2:39 | 2022-09-14 | 2023-01-12 |

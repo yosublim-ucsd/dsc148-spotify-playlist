@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: DannyLux",
-  "num_followers": 19667,
+  "num_followers": 19671,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2NjMDM5YTg1YjU3YTNiMDEzZjQ4OTliODk0ZTA3M2M4YWEzMDlm",
+  "snapshot_id": "MCw1NjliMDUwMTQ5OTFkMGNiNjU3NWY1MjlkYzBkZTcwNjIxNjU2NDU4",
   "tracks": [
     {
       "added_at": "2023-04-21 05:16:07",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "amigos con beneficios",
+        "url": "https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 241141,
+      "name": "amigos con beneficios",
+      "url": "https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "Hija de Su",
         "url": "https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "amigos con beneficios",
-        "url": "https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 241141,
-      "name": "amigos con beneficios",
-      "url": "https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Tu Labial",
         "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 227018,
       "name": "Tu Labial",
       "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
-      },
-      "artists": [
-        {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -623,6 +607,22 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        }
+      ],
+      "duration_ms": 164770,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "ALERGICA",
-        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "ALERGICA",
-      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Ojos Vac\u00edos",
         "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 221580,
       "name": "A La Quien Quieres",
       "url": "https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "ALERGICA",
+        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "ALERGICA",
+      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "La Ingenua",
-        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
-      },
-      "artists": [
-        {
-          "name": "La Cassandra",
-          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
-        }
-      ],
-      "duration_ms": 217072,
-      "name": "La Ingenua",
-      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Del Amor Al Odio",
         "url": "https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 196231,
       "name": "Del Amor Al Odio",
       "url": "https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "La Ingenua",
+        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
+      },
+      "artists": [
+        {
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+        }
+      ],
+      "duration_ms": 217072,
+      "name": "La Ingenua",
+      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "DE CERO A 100",
-        "url": "https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI"
-      },
-      "artists": [
-        {
-          "name": "Yeiow",
-          "url": "https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "DE CERO A 100",
-      "url": "https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Recuerdos Del Pasado, Vol. 2",
         "url": "https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 232368,
       "name": "Nadie En Este Mundo",
       "url": "https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "DE CERO A 100",
+        "url": "https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI"
+      },
+      "artists": [
+        {
+          "name": "Yeiow",
+          "url": "https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "DE CERO A 100",
+      "url": "https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/43z6E9SS73YuthAj9pQKCW"
+        "name": "Amor No Correspondido",
+        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
       },
       "artists": [
         {
-          "name": "Paola Guanche",
-          "url": "https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G"
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
         }
       ],
-      "duration_ms": 163106,
-      "name": "Letter To You",
-      "url": "https://open.spotify.com/track/6oYzMc61a1jti0pDyHw2t9"
+      "duration_ms": 163124,
+      "name": "Amor No Correspondido",
+      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/43z6E9SS73YuthAj9pQKCW"
+      },
+      "artists": [
+        {
+          "name": "Paola Guanche",
+          "url": "https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "Letter To You",
+      "url": "https://open.spotify.com/track/6oYzMc61a1jti0pDyHw2t9"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "FASES",
         "url": "https://open.spotify.com/album/4cCKSr1kDU2hYecgmMmHBn"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Amor No Correspondido",
-        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
-      },
-      "artists": [
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Amor No Correspondido",
-      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "P.O.V",
         "url": "https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 117760,
       "name": "P.O.V",
       "url": "https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Nobody Got It",
+        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 168071,
+      "name": "Nobody Got It",
+      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Nobody Got It",
-        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
-      },
-      "artists": [
-        {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
-        }
-      ],
-      "duration_ms": 168071,
-      "name": "Nobody Got It",
-      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 135531,
       "name": "135",
       "url": "https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/73B3LmWNzzyZTVb7GOfWpK"
+      },
+      "artists": [
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        }
+      ],
+      "duration_ms": 186403,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1285,36 +1301,20 @@
       "url": "https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx"
     },
     {
-      "added_at": "2023-04-21 05:16:07",
+      "added_at": "2023-05-02 14:02:19",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/73B3LmWNzzyZTVb7GOfWpK"
+        "name": "dolio",
+        "url": "https://open.spotify.com/album/6ZxZsbhtPNX9ZXg0HcqFgS"
       },
       "artists": [
         {
-          "name": "Bella Dose",
-          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+          "name": "Rafa",
+          "url": "https://open.spotify.com/artist/1lR1G0ROsMGhaJ9wBQqwsh"
         }
       ],
-      "duration_ms": 186403,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Atmosf\u00e9rica",
-        "url": "https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7"
-      },
-      "artists": [
-        {
-          "name": "Mexico City Heartbreak",
-          "url": "https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ"
-        }
-      ],
-      "duration_ms": 237737,
-      "name": "Atmosf\u00e9rica",
-      "url": "https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz"
+      "duration_ms": 191866,
+      "name": "dolio",
+      "url": "https://open.spotify.com/track/31ozev5Kvj9aryUULvVeIB"
     }
   ],
   "unique_name": "MADE",

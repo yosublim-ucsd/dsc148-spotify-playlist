@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-777 songs - 1 day 19 hr 5 min
+778 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,6 +660,7 @@
 | [The Batman Theme](https://open.spotify.com/track/50csT5Qb2qOF7lHdDQ1Sbx) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Batman \(Original Motion Picture Score\)](https://open.spotify.com/album/1zqfyMgA1aXwVDbukfqSdE) | 2:38 | 2019-09-29\* | 2021-03-14 |
 | [The Battle](https://open.spotify.com/track/56P8zbMtfKLlmpUWW3xAzf) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0) | 10:02 | 2020-04-28 | 2021-03-11 |
 | [The Black Pearl](https://open.spotify.com/track/3h2fZOZweqrBrGZlUGSnxP) | [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ) | [Pirates of the Caribbean: The Curse of the Black Pearl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo) | 2:16 | 2020-06-12 | 2021-03-14 |
+| [The Bomb](https://open.spotify.com/track/4eYmH4Sh0ibdU9nmnbu7aM) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj) | [Dragon Slayer](https://open.spotify.com/album/00qOCzVYbnem6uVcHqVktz) | 3:23 | 2023-05-02 |  |
 | [The Breaking of the Fellowship \(feat\. "In Dreams"\)](https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Edward Ross](https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 7:20 | 2019-09-29\* | 2021-03-14 |
 | [The Bridge of Khazad Dum](https://open.spotify.com/track/6HYCOHzY2xR4W2dOokH3ed) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 5:57 | 2019-09-29\* | 2021-03-14 |
 | [The Children](https://open.spotify.com/track/7k8DQNQga4UMKFsnVSCPE0) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/7Dp7U0XeSimsNTkvVTcKJl) | 2:41 | 2019-09-29\* | 2021-03-14 |

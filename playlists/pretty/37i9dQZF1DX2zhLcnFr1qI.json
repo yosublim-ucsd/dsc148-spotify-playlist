@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 54074,
+  "num_followers": 54067,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGQ3NzU5YWQyN2M1MDY2MTNiNzBkY2FjOWVlYWIwZjBiZTg4OWI5",
+  "snapshot_id": "MCw2NWIxZTFiYTNhM2I0NjY3YzQwNWExZjU1ODIxNjQ1NDQxMjhhMDAx",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "It's Christmas Time",
-        "url": "https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q"
-      },
-      "artists": [
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Angemi",
-          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
-        }
-      ],
-      "duration_ms": 163312,
-      "name": "It's Christmas Time",
-      "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Jingle Bells x Deck The Halls",
         "url": "https://open.spotify.com/album/0B7jS47Ev3FwKRnYlYP6VP"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 157972,
       "name": "Jingle Bells x Deck The Halls",
       "url": "https://open.spotify.com/track/4aCszkXcIJPScNYLRtawGX"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q"
+      },
+      "artists": [
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+        }
+      ],
+      "duration_ms": 163312,
+      "name": "It's Christmas Time",
+      "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
     },
     {
       "added_at": "2022-12-16 05:00:00",

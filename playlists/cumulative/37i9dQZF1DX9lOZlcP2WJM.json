@@ -2080,24 +2080,6 @@
       },
       "artists": [
         {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "date_added": "2023-02-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217680,
-      "name": "Janam Janam Ka Saath Hai - Bheegi Palken / Soundtrack Version",
-      "url": "https://open.spotify.com/track/5BfnDHMUXi7aXZ9q0LgcGN"
-    },
-    {
-      "album": {
-        "name": "Bheegi Palken",
-        "url": "https://open.spotify.com/album/241Ufz6Mr3WFRyIqXJ8m3d"
-      },
-      "artists": [
-        {
           "name": "Mohammed Rafi",
           "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
         },
@@ -2112,6 +2094,24 @@
       "duration_ms": 242560,
       "name": "Janam Janam Ka Saath Hai - Bheegi Palken / Soundtrack Version",
       "url": "https://open.spotify.com/track/579MsFhBB3PMRGHDBGBj3f"
+    },
+    {
+      "album": {
+        "name": "Bheegi Palken",
+        "url": "https://open.spotify.com/album/241Ufz6Mr3WFRyIqXJ8m3d"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217680,
+      "name": "Janam Janam Ka Saath Hai - From \"Bheegi Palken\"",
+      "url": "https://open.spotify.com/track/5BfnDHMUXi7aXZ9q0LgcGN"
     },
     {
       "album": {
@@ -2428,7 +2428,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 285826,
-      "name": "Kasme Vaade Nibhayenge Hum - Part I - Kasme Vaade / Soundtrack Version",
+      "name": "Kasme Vaade Nibhayenge Hum - Part I - From \"Kasme Vaade\"",
       "url": "https://open.spotify.com/track/1Uk5Y5StpSIFIzYJ7EJZvY"
     },
     {
@@ -2582,7 +2582,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 384413,
-      "name": "Kya Yahi Pyar Hai - Rocky / Soundtrack Version",
+      "name": "Kya Yahi Pyar Hai - From \"Rocky\"",
       "url": "https://open.spotify.com/track/77ZlwcRm8mRAszhszeSxln"
     },
     {

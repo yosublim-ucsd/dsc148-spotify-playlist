@@ -368,6 +368,24 @@
     {
       "album": {
         "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM"
+    },
+    {
+      "album": {
+        "name": "Untrue",
         "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
       },
       "artists": [
@@ -5272,7 +5290,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 262666,
       "name": "The Gift",
       "url": "https://open.spotify.com/track/7nviB40euH8GciNuOn7uci"

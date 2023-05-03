@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-348 songs - 21 hr 41 min
+349 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Around The Railing](https://open.spotify.com/track/2Fcz9olH3OgfFMj3auXTjA) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 5:09 | 2022-06-23 | 2023-03-15 |
 | [Around the Railing](https://open.spotify.com/track/7nLa9KoKRgMQTOJkmwunaG) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6zIpcsCh1mPH1UcBvo5jGj) | 5:09 | 2021-12-15 | 2022-07-29 |
 | [Baby Shea](https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 1:37 | 2022-06-23 | 2023-04-30 |
+| [Baby Shea](https://open.spotify.com/track/25X6dvLEb2EiZY3U5jciy5) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/2A7lRd0UYJ9k6sOWhXElSS) | 1:37 | 2023-03-14 |  |
 | [Backroads](https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:06 | 2022-11-02 |  |
 | [Be Your Man](https://open.spotify.com/track/5ja7epgM2zgrQ0CnL5Fc52) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Holy Doom](https://open.spotify.com/album/1mdsGFvnN2Ok832ehemqgX) | 3:35 | 2022-01-28 | 2022-07-29 |
 | [Be Your Man](https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Be Your Man](https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1) | 3:37 | 2022-06-23 | 2023-01-26 |
@@ -172,7 +173,7 @@
 | [Lift](https://open.spotify.com/track/7xztI3ccyUdEYqKYABkMQM) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 4:06 | 2021-12-15 | 2022-09-22 |
 | [Lightspeed](https://open.spotify.com/track/5U3Z0cpZXSivN3UUUrymEF) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Vivarium](https://open.spotify.com/album/4WPzYjZlEwQRITnqA61XAP) | 3:21 | 2022-11-02 | 2022-12-12 |
 | [Lily](https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 3:25 | 2022-11-02 |  |
-| [Little Pink Stars](https://open.spotify.com/track/3ah6iQsmMcM2VFj6uvueuX) | [Radish](https://open.spotify.com/artist/6cLlK80e14zGQyq84eENDv) | [Restraining Bolt](https://open.spotify.com/album/6MDLDlxinN9NpI4t4eudsX) | 4:48 | 2023-03-14 |  |
+| [Little Pink Stars](https://open.spotify.com/track/3ah6iQsmMcM2VFj6uvueuX) | [Radish](https://open.spotify.com/artist/6cLlK80e14zGQyq84eENDv) | [Restraining Bolt](https://open.spotify.com/album/6MDLDlxinN9NpI4t4eudsX) | 4:48 | 2023-03-14 | 2023-05-03 |
 | [Lock & Key](https://open.spotify.com/track/3eV9MDzhFZ46U9nBNcVNmy) | [Big Jesus](https://open.spotify.com/artist/2yQuD2wdcMfG9NOS4Suc0D) | [Oneiric](https://open.spotify.com/album/2QnrgOUjsJyccfJ7y0pm41) | 3:56 | 2021-12-15 | 2022-07-29 |
 | [Lock the Doors](https://open.spotify.com/track/3bA0HYpBmhLH1qpQTIEPEL) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Our Own World](https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh) | 3:38 | 2022-02-02 | 2022-07-25 |
 | [Long Before](https://open.spotify.com/track/6DRkAVGF7vumi1GSSKlTSu) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Do Not Return Fire](https://open.spotify.com/album/7uKL2DcETgQKxDlgaWj57q) | 3:49 | 2022-01-11 | 2022-04-20 |

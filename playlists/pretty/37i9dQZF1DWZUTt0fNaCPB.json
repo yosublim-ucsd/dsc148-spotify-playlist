@@ -1,12 +1,12 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 988680,
+  "num_followers": 989136,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWNmYTVhMmFhMjhiNDFiZTIyNDQ4YmRlOGNhNDc3ODhiMjQ0Njg2",
+  "snapshot_id": "MCxkMDY2NTQ1NjRiYjI5MDE4YjBhNzQwODQxNTNlMTE3MzA3ODUyN2Qx",
   "tracks": [
     {
       "added_at": "2023-04-28 09:18:43",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-28 09:18:43",
       "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "Psychosocial",
-      "url": "https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3"
-    },
-    {
-      "added_at": "2023-04-28 09:18:43",
-      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 324600,
       "name": "Sad But True (Remastered)",
       "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
+    },
+    {
+      "added_at": "2023-04-28 09:18:43",
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "Psychosocial",
+      "url": "https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3"
     },
     {
       "added_at": "2023-04-28 09:18:43",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-28 09:18:43",
       "album": {
-        "name": "Blue Collar Revolver",
-        "url": "https://open.spotify.com/album/39zrUrsdRQdUlGx3Y9CUaV"
-      },
-      "artists": [
-        {
-          "name": "Lansdowne",
-          "url": "https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Watch Me Burn",
-      "url": "https://open.spotify.com/track/4Y33fbX6KcOfP0xZhYMwO5"
-    },
-    {
-      "added_at": "2023-04-28 09:18:43",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 267360,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI"
+    },
+    {
+      "added_at": "2023-04-28 09:18:43",
+      "album": {
+        "name": "Blue Collar Revolver",
+        "url": "https://open.spotify.com/album/39zrUrsdRQdUlGx3Y9CUaV"
+      },
+      "artists": [
+        {
+          "name": "Lansdowne",
+          "url": "https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Watch Me Burn",
+      "url": "https://open.spotify.com/track/4Y33fbX6KcOfP0xZhYMwO5"
     },
     {
       "added_at": "2023-04-28 09:18:43",

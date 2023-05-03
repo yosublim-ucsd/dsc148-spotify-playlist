@@ -1,12 +1,12 @@
 {
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "num_followers": 3024,
+  "num_followers": 3057,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmRkMGI1MzI1OTEyNDYxODZmMzMxNTQzNGEzMTViN2Q3YzliZDcx",
+  "snapshot_id": "MCwxZDcwMjM2YTcxMzJjNDViY2U1ZGYxM2U5ZTQwODIxZTc2NDhjNjMy",
   "tracks": [
     {
       "added_at": "2023-03-01 15:55:04",
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/261ebcVGg5iiyrBIr6YL1k"
     },
     {
-      "added_at": "2023-05-02 01:09:52",
+      "added_at": "2023-05-03 01:01:36",
       "album": {
         "name": "Highway Birds",
         "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/4Pvq68Y0K9k6dYkyP4HBcv"
     },
     {
-      "added_at": "2023-05-02 01:09:52",
+      "added_at": "2023-05-03 01:01:36",
       "album": {
         "name": "Warmer Seasons",
         "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
     },
     {
-      "added_at": "2023-05-02 01:09:52",
+      "added_at": "2023-05-03 01:01:36",
       "album": {
         "name": "In the Midst of Nature",
         "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
@@ -569,20 +569,20 @@
       "url": "https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh"
     },
     {
-      "added_at": "2023-03-01 15:55:04",
+      "added_at": "2023-05-03 01:01:36",
       "album": {
-        "name": "Summer Breeze Bird",
-        "url": "https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA"
+        "name": "Swedish Forest Birds",
+        "url": "https://open.spotify.com/album/6QsQPOS6dW5aGR99qf37Z4"
       },
       "artists": [
         {
-          "name": "Dominica del Foresta",
-          "url": "https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ"
+          "name": "Winding Down",
+          "url": "https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX"
         }
       ],
-      "duration_ms": 140610,
-      "name": "Summer Breeze Bird",
-      "url": "https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y"
+      "duration_ms": 179000,
+      "name": "Crows In The Forest",
+      "url": "https://open.spotify.com/track/1IYsyuj3b2nIg0BQgAh8q8"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -601,20 +601,20 @@
       "url": "https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb"
     },
     {
-      "added_at": "2023-05-02 01:09:52",
+      "added_at": "2023-03-01 15:55:04",
       "album": {
-        "name": "Swedish Forest Birds",
-        "url": "https://open.spotify.com/album/6QsQPOS6dW5aGR99qf37Z4"
+        "name": "Summer Breeze Bird",
+        "url": "https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA"
       },
       "artists": [
         {
-          "name": "Winding Down",
-          "url": "https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX"
+          "name": "Dominica del Foresta",
+          "url": "https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Crows In The Forest",
-      "url": "https://open.spotify.com/track/1IYsyuj3b2nIg0BQgAh8q8"
+      "duration_ms": 140610,
+      "name": "Summer Breeze Bird",
+      "url": "https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y"
     }
   ],
   "unique_name": "Early Birds",

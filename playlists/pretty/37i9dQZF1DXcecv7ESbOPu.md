@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,654 likes - 114 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,658 likes - 114 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 12 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
 | 13 | [She Fell In Love In The Summer](https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [She Fell In Love In The Summer](https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN) | 2:52 |
 | 14 | [Genom eld \- Spotify Singles](https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Genom eld \(Spotify Singles\)](https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n) | 2:46 |
-| 15 | [4Runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4Runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 |
+| 15 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 |
 | 16 | [Så bra som nu](https://open.spotify.com/track/6CGD1z2K4ROBnNzADNNMZ2) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Så bra som nu](https://open.spotify.com/album/4CSng5HuBcMO9Fhd2JWUQZ) | 2:48 |
 | 17 | [Runaway \(feat\. The Dirty Rich\)](https://open.spotify.com/track/5Za6sJwbWhC2SavUSCQ9Yh) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [The Dirty Rich](https://open.spotify.com/artist/6w7MmtK2IrQRE2s9vIa89j) | [Runaway \(feat\. The Dirty Rich\)](https://open.spotify.com/album/2wR65k25VwjBPve5vMfZ8q) | 2:26 |
 | 18 | [Glad U Came](https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Glad U Came](https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj) | 2:58 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 113 | [POWERMAN 2.0](https://open.spotify.com/track/587gpi5oCreaxoB9w2LVbH) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [POWERMAN 2.0](https://open.spotify.com/album/3WtRqtZ16IVMHCqbl68Oer) | 2:40 |
 | 114 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 |
 
-Snapshot ID: `MCw5OWNjZWY0YjVlZGJjNjczZTBhYWVmNTRjMmJjZmFlNWViMzQ4M2Zl`
+Snapshot ID: `MCwzNWY3YjBhODhkZDY4NzE1MTZjODMxMmNlNWVmZDU4MzNjYTg5ZDQ0`

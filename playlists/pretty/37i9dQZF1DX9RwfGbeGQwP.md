@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,044 likes - 500 songs - 18 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,197 likes - 500 songs - 18 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Works of Fiction](https://open.spotify.com/track/4OIWPBw1keXcCsTBh1Jw39) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:48 |
 | 500 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 |
 
-Snapshot ID: `MCxlODU2NjJlZGYxOTE2MDEzODBmYjJlZjQ1NmY2NjBmOTBlZDZhYzlk`
+Snapshot ID: `MCwyZjE5Mzg2NTJlZmU4OWRkNmNlZWRmNzkzMzY1NGJjNDI5MGFiMzhm`

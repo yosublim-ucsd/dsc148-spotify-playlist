@@ -4,7 +4,7 @@
 
 > Mohamed Ramadan & Skales :أحدث الأغاني المصرية اليوم🤩 الغلاف
 
-400 songs - 23 hr 17 min
+401 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Arosty](https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Arosty](https://open.spotify.com/album/2pXOewtgNtWSCuoZz98TCG) | 3:10 | 2021-12-23 | 2021-12-30 |
 | [Asrar](https://open.spotify.com/track/17kMbUwpSIdXdLUe70XHps) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Asrar](https://open.spotify.com/album/79LLrOm3su0LwbV2JGkMlt) | 3:19 | 2023-03-21 |  |
 | [Awel Gawla](https://open.spotify.com/track/1l4MnoTcwYZN2yUpd7Wwuy) | [Sedawy](https://open.spotify.com/artist/317hp6Z5h0o05KwsqXk9tR) | [Awel Gawla](https://open.spotify.com/album/6jBiGjq1Ojvao2sh1orMRB) | 3:18 | 2023-03-07 |  |
+| [Aywa](https://open.spotify.com/track/7zvJlh2aBSiWeQ6sTHSecc) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [My Maya I](https://open.spotify.com/album/3MTvNPfeRGJl2QBevmUuXe) | 3:20 | 2023-05-02 |  |
 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2022-04-28 | 2022-08-09 |
 | [Ba2eit Ghareeb](https://open.spotify.com/track/4h6PHa9gi5gH35AP4Pll1u) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Ba2eit Ghareeb](https://open.spotify.com/album/1mlnwGPLhtTHhYGI1mpmkG) | 3:18 | 2022-11-24 | 2023-02-03 |
 | [Ba3d Fatra](https://open.spotify.com/track/6NpgIEuoXTpUz68mVPk1Ty) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Ba3d Fatra](https://open.spotify.com/album/5fyH1zkFx6QNiypRw1hm5a) | 3:15 | 2022-07-20 | 2022-10-14 |
@@ -103,7 +104,7 @@
 | [El Nafseya](https://open.spotify.com/track/5NdVyOLoXDVQaaDHcJRI8S) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Nafseya](https://open.spotify.com/album/2e14G407cbG5rCgRVzgiSh) | 4:52 | 2022-03-11 | 2022-07-07 |
 | [El Nas El Ghalyeen](https://open.spotify.com/track/7rIJTP8YSOetYFz8vSGaUT) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [El Nas El Ghalyeen](https://open.spotify.com/album/4ocaYQK9bWnnysDptYvuTL) | 3:23 | 2022-03-03 | 2022-06-14 |
 | [El Sahra Hatehlaw](https://open.spotify.com/track/3kv5O5KkAubpO7HMGaHShN) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [El Sahra Hatehlaw](https://open.spotify.com/album/03pTedMMDumCmAdhJUJph6) | 3:18 | 2021-12-23 | 2022-03-03 |
-| [El Tofah w El Farawla](https://open.spotify.com/track/5vU5TfXFf3cUFBSHzBiyqt) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [El Tofah w El Farawla](https://open.spotify.com/album/2N2XSkFrcw73VFlfQsPE5g) | 3:56 | 2023-02-23 |  |
+| [El Tofah w El Farawla](https://open.spotify.com/track/5vU5TfXFf3cUFBSHzBiyqt) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [El Tofah w El Farawla](https://open.spotify.com/album/2N2XSkFrcw73VFlfQsPE5g) | 3:56 | 2023-02-23 | 2023-05-03 |
 | [El Waet El Helo](https://open.spotify.com/track/1YwxteiMeYqd6O164xxTZw) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [El Waet El Helo](https://open.spotify.com/album/1rMpu4AUSF7K4XfvG2M5cw) | 3:44 | 2021-12-29 | 2022-03-10 |
 | [El Youm El Helw Dah](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Youm El Helw Dah](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 | 2022-07-19 | 2022-10-14 |
 | [Ela 7aden Ma](https://open.spotify.com/track/5hc6jOHOgXJtN3ZHKwj1lN) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Ela 7aden Ma](https://open.spotify.com/album/25ft5XXqmxrQCMVAOuUyxk) | 3:39 | 2023-02-23 |  |
@@ -295,7 +296,7 @@
 | [Wa2t Sheda](https://open.spotify.com/track/3TTR9oSGljTI2ISZkAGCX6) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wa2t Sheda](https://open.spotify.com/album/7Hf0ceCHEbXeX8tQuvoCyh) | 3:41 | 2022-11-17 | 2023-02-02 |
 | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/track/6yCxLxQhCfcHbPEuKzVM1O) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/album/5MWF4LOe2m18Va8pIi64TJ) | 4:09 | 2021-12-23 | 2022-01-29 |
 | [Wagaa Kam Youm](https://open.spotify.com/track/0pxGNAjZ6ngccUf5ehwjPB) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Wagaa Kam Youm](https://open.spotify.com/album/0VI7mgJVE7EqCjLBqJZpsf) | 4:35 | 2021-12-23 | 2022-02-23 |
-| [Waga’a elfora’a](https://open.spotify.com/track/24uwCUmYxGToC09ID18gKu) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [Waga’a elfora’a](https://open.spotify.com/album/1sJ5z7Iyacgp2T2RBDDoU2) | 3:45 | 2023-02-23 |  |
+| [Waga’a elfora’a](https://open.spotify.com/track/24uwCUmYxGToC09ID18gKu) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [Waga’a elfora’a](https://open.spotify.com/album/1sJ5z7Iyacgp2T2RBDDoU2) | 3:45 | 2023-02-23 | 2023-05-03 |
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2022-05-24 | 2022-08-21 |
 | [Walad](https://open.spotify.com/track/4ICngUihhBxci0OHQIL0uu) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Walad](https://open.spotify.com/album/6SdAmxpejR61XJnjJqErLj) | 3:09 | 2022-10-07 | 2022-12-30 |
 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-06 | 2022-09-29 |

@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-299 songs - 20 hr 29 min
+300 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Baby I'm A Fool](https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 3:30 | 2022-07-14 |  |
 | [Baby I'm A Fool](https://open.spotify.com/track/7bAUUXhrZI7AIZNdhF2N3o) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/3LNuQe1oprSo8VcxgJnKAV) | 3:30 | 2022-01-20 | 2022-07-29 |
 | [Be My Man](https://open.spotify.com/track/6q9TIaTV1rY4AmpnFPp0RF) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/1FlYFqevPq4JBfDJ2sA5nu) | 3:00 | 2022-01-20 | 2023-04-29 |
+| [Be My Man](https://open.spotify.com/track/6r4xOgwZvBy7rRNtLjfVot) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/0HQalCiuviEhDvPhcBODoS) | 3:00 | 2023-04-27 |  |
 | [Be My Valentine](https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Be My Valentine](https://open.spotify.com/album/4PNMRtj6tqV4pphSQIlemV) | 3:36 | 2022-02-11 | 2023-02-23 |
 | [Because I Love You](https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 4:10 | 2022-01-20 |  |
 | [Behind Me](https://open.spotify.com/track/1iEYkH6B6KKkeElA98faHh) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/1a1xCfar6N0EMGRq88O8p0) | 6:20 | 2022-09-13 | 2023-01-30 |
@@ -255,7 +256,7 @@
 | [Tenderly](https://open.spotify.com/track/0Yz5dTTup2vLhklobv3Qac) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:44 | 2022-01-20 | 2022-10-12 |
 | [Tenderly](https://open.spotify.com/track/6bMqQogZNBfntMz9wggan9) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq) | [Tenderly](https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU) | 3:47 | 2022-11-23 |  |
 | [That's All](https://open.spotify.com/track/4fccK8WxSPWlt9lolJqM6u) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [That's All](https://open.spotify.com/album/2TG44OnFdjWNm5DJHeTuo1) | 4:07 | 2022-06-30 | 2023-03-14 |
-| [The Folks Who Live On The Hill](https://open.spotify.com/track/2aP2eG8PpJ7jjcGxT7kDr8) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 3:39 | 2022-01-20 |  |
+| [The Folks Who Live On The Hill](https://open.spotify.com/track/2aP2eG8PpJ7jjcGxT7kDr8) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 3:39 | 2022-01-20 | 2023-05-03 |
 | [The Game](https://open.spotify.com/track/1g7bWSgup8GCqIGjdM2XfO) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [The Game](https://open.spotify.com/album/4D18ZUei6YL7N0S2yOsKU3) | 2:06 | 2022-01-20 | 2022-10-26 |
 | [The Girl from Ipanema](https://open.spotify.com/track/1aucqAQImjlcxcQajOBUAv) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Collection](https://open.spotify.com/album/4us3GOm42EubfNyOqYf55R) | 3:04 | 2022-01-20 |  |
 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2022-01-20 |  |

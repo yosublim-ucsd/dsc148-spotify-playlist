@@ -2,7 +2,7 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Dina Ayada
+> Global crossovers by/with Arab artists\. Cover: Mishaal Tamer
 
 263 songs - 14 hr 51 min
 

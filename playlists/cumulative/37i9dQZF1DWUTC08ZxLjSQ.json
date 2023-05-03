@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: nour. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Mazyn. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj"
+      },
+      "artists": [
+        {
+          "name": "Mazyn",
+          "url": "https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/6TmuUKIwlBkFzK6ryJmjy9"
+    },
+    {
+      "album": {
         "name": "Higher (Breathe Easy)",
         "url": "https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN"
       },
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 355862,
       "name": "Loom",
       "url": "https://open.spotify.com/track/1Q1PWZvKU0kvXZSc6B1LJW"
@@ -1745,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Mtgish",
+        "url": "https://open.spotify.com/album/7J3YFv6zkfp4gZPodBFIW7"
+      },
+      "artists": [
+        {
+          "name": "ZIG ZVG",
+          "url": "https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137268,
+      "name": "Mtgish",
+      "url": "https://open.spotify.com/track/7bvLFia8U9lJmExtvgZncB"
+    },
+    {
+      "album": {
         "name": "Marjaa: The Battle Of The Hotels",
         "url": "https://open.spotify.com/album/3FjodRJZR2gCVkN5mbY1TK"
       },
@@ -1908,7 +1944,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 169846,
       "name": "nVr Mind",
       "url": "https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2"
@@ -2288,6 +2324,24 @@
       "duration_ms": 210607,
       "name": "Sami Khedira",
       "url": "https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op"
+    },
+    {
+      "album": {
+        "name": "Scorsese",
+        "url": "https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla"
+      },
+      "artists": [
+        {
+          "name": "Tac",
+          "url": "https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Scorsese",
+      "url": "https://open.spotify.com/track/750DwBev1112r16elo8Mom"
     },
     {
       "album": {
@@ -2680,7 +2734,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 197647,
       "name": "Theeba",
       "url": "https://open.spotify.com/track/6d5jCujuJOwybONWCJGulU"

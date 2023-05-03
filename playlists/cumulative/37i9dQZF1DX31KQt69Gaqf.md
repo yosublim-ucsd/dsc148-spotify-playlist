@@ -4,7 +4,7 @@
 
 > Let us take care of your workday soundtrack.
 
-189 songs - 11 hr 12 min
+190 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Don't Think](https://open.spotify.com/track/43VHs3j5y5i2feqlhpzRqF) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 4:08 | 2021-08-12 |  |
 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 | 2021-08-12 |  |
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2021-08-12 | 2022-07-27 |
-| [DOWNDOWNDOWN!](https://open.spotify.com/track/1Uyyua4fiFSnW3LlHFQ1rz) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Something To Feel Good About](https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV) | 3:22 | 2021-08-12 |  |
+| [DOWNDOWNDOWN!](https://open.spotify.com/track/1Uyyua4fiFSnW3LlHFQ1rz) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Something To Feel Good About](https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV) | 3:22 | 2021-08-12 | 2023-05-03 |
 | [Eighteen](https://open.spotify.com/track/1K8qJAFjNqmZo40CDPLvyl) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s) | [Eighteen](https://open.spotify.com/album/5Wh0cpgobVb6CUe4maIF1M) | 3:31 | 2021-08-12 | 2022-11-12 |
 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 | 2021-08-12 |  |
 | [Fading](https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 4:43 | 2021-08-12 |  |
@@ -96,6 +96,7 @@
 | [Icarus](https://open.spotify.com/track/7mnnCaWiLtsbOQEExjWeHc) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/6TpdsAKl6qB08qTqkerwZw) | 3:54 | 2021-08-12 | 2022-09-16 |
 | [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 | 2021-09-24 |  |
 | [It Might Take A Woman](https://open.spotify.com/track/1kVyVPvuaQsuiuCE7YF2Ek) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/0X5Kci2c2u1wctZJ06K9mn) | 3:10 | 2021-08-12 | 2022-07-29 |
+| [It Might Take a Woman](https://open.spotify.com/track/2VCBaxzoHpkzKulBlWvpwd) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:10 | 2021-08-12 |  |
 | [It Might Take a Woman](https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb) | 3:10 | 2021-08-12 | 2023-04-30 |
 | [JOY \(Warm Bullet\)](https://open.spotify.com/track/651ISDzJhS2cIYtXlHiMXl) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Fred](https://open.spotify.com/artist/3oHPPysnsyCHI6qEIiWDSK) | [JOY \(journal.30.03.2020\)](https://open.spotify.com/album/61RjvAdIxRfGijHvmVRgb7) | 4:20 | 2021-08-12 | 2022-12-05 |
 | [JOY \(Warm Bullet\)](https://open.spotify.com/track/6FjwPoKTZ7KvC5e7pbPEmm) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [FRED](https://open.spotify.com/artist/5FY7z5tF2j5gOTCA0XinRJ) | [JOY \(journal.30.03.2020\)](https://open.spotify.com/album/2KGL2vXYf0xP84n0xUWo0j) | 4:20 | 2021-08-12 | 2022-07-29 |

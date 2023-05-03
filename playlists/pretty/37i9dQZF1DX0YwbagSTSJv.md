@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 > Let it all go and lift yourself up with inspiring ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,076 likes - 120 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,133 likes - 120 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 | 15 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 |
 | 16 | [Wellen](https://open.spotify.com/track/7aeHCE4TOCRWzX8kKahmkJ) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Wellen](https://open.spotify.com/album/1HBCQ7Q6MnhJ5oHlFOT7EF) | 3:36 |
 | 17 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 |
-| 18 | [nedyore](https://open.spotify.com/track/2rd4qHZCc1MHHvnGOviWv4) | [Thymae](https://open.spotify.com/artist/3GqTekSumq89AfeS0y4NsO) | [nedyore](https://open.spotify.com/album/1xuSE4fNbf5ZrGCcHNSJoa) | 3:08 |
+| 18 | [nedyore](https://open.spotify.com/track/09cu37H2Ih6KWxHw7KSotb) | [Thymae](https://open.spotify.com/artist/3GqTekSumq89AfeS0y4NsO) | [initae](https://open.spotify.com/album/7Jqyr5MtjazBvVrWHrpIo7) | 3:08 |
 | 19 | [Rhythms](https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rhythms](https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3) | 2:28 |
 | 20 | [Calm & Centered](https://open.spotify.com/track/6tnH44Kpqdt0kpZbmZYY24) | [Divinioso](https://open.spotify.com/artist/6Zh8cnbJ69ONeH5eDcUqpR) | [Calm & Centered](https://open.spotify.com/album/3aGnNxSM2Ibd8VXTMK9opd) | 3:22 |
 | 21 | [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 | 119 | [Night at Sea](https://open.spotify.com/track/1djlK49yDx6ukfsOlox6MY) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Night at Sea](https://open.spotify.com/album/0e1pQgTkxdLvDxIqgWNgaE) | 3:17 |
 | 120 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 |
 
-Snapshot ID: `MCxmOTlhZTI4OTgzN2VhZDc3YWZhMTczZTBlMzc0NDY1MWQ3MDZkY2Fl`
+Snapshot ID: `MCwxNTI5ZmUxNmM3Zjg1YTMyNjBjY2IyM2IwOTEyNzhmNTE1Y2M0ZGMy`

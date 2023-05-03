@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Ethan in cover! <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">Qua la playlist global</a> \u2728 ",
-  "num_followers": 5399,
+  "num_followers": 5398,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTkwN2QzNGM5MjgxY2ZhN2MxNjkwZmExMjQ1NDZkZGMwYjFlOTQ4",
+  "snapshot_id": "MCw2YmQ1MjNhOWVhMDZlMGRhOWFiNTkxOWMyMDViZGU3ZTAzYTIwZTA4",
   "tracks": [
     {
       "added_at": "2023-04-12 08:45:25",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
+        "name": "Moonbaton Vol. 1",
+        "url": "https://open.spotify.com/album/4JLgXoma9I3Dewc8tEGonO"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "duration_ms": 142852,
+      "name": "Flauta Magica",
+      "url": "https://open.spotify.com/track/01gb9bfWp306gDQRbFd5ds"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
         "name": "Le pi\u00f9 belle canzoni di Sandra Mondaini",
         "url": "https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO"
       },
@@ -1155,6 +1171,22 @@
       "duration_ms": 221039,
       "name": "Cerco un uomo",
       "url": "https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
+        "name": "Credo che tra un po'",
+        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
+      },
+      "artists": [
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        }
+      ],
+      "duration_ms": 218628,
+      "name": "Credo che tra un po'",
+      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
     },
     {
       "added_at": "2023-04-12 08:45:25",
@@ -1175,22 +1207,6 @@
       "duration_ms": 151500,
       "name": "6 un caxxo di rave",
       "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
-        "name": "Credo che tra un po'",
-        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
-      },
-      "artists": [
-        {
-          "name": "Whitemary",
-          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "Credo che tra un po'",
-      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
     },
     {
       "added_at": "2023-04-12 08:45:25",
@@ -1263,22 +1279,6 @@
       "duration_ms": 124168,
       "name": "QUARANTENA",
       "url": "https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
-        "name": "Moonbaton Vol. 1",
-        "url": "https://open.spotify.com/album/4JLgXoma9I3Dewc8tEGonO"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        }
-      ],
-      "duration_ms": 142852,
-      "name": "Flauta Magica",
-      "url": "https://open.spotify.com/track/01gb9bfWp306gDQRbFd5ds"
     },
     {
       "added_at": "2023-04-12 08:45:25",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892071,
+  "num_followers": 892028,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTNmMTQ0NmYyOTRiNGVlZjkzMjMwYjZiNzgzN2YzYzNjYmRjM2Fl",
+  "snapshot_id": "MCxjNTI5MmVlNTdlYjAxNjk1OGNmNTEwYjNkMjJjODQxNzA1YmZlMWI3",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Dert Olmas\u0131n Diye",
-        "url": "https://open.spotify.com/album/6dHUK1wi5RMIGtuHxIUSNy"
-      },
-      "artists": [
-        {
-          "name": "Sedef Seb\u00fcktekin",
-          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Dert Olmas\u0131n Diye",
-      "url": "https://open.spotify.com/track/2w59R5FBFlGbZKWQe4pYIj"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 207396,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Dert Olmas\u0131n Diye",
+        "url": "https://open.spotify.com/album/6dHUK1wi5RMIGtuHxIUSNy"
+      },
+      "artists": [
+        {
+          "name": "Sedef Seb\u00fcktekin",
+          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Dert Olmas\u0131n Diye",
+      "url": "https://open.spotify.com/track/2w59R5FBFlGbZKWQe4pYIj"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "JANAINDAYO",
-        "url": "https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 180300,
-      "name": "JANAINDAYO",
-      "url": "https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "De S\u2019 Afino",
         "url": "https://open.spotify.com/album/1maT0OfKtiyyUDdtIuu0i1"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 175578,
       "name": "De S\u2019 Afino",
       "url": "https://open.spotify.com/track/6aAXN1sRhLiSOhUfJ7g2Gr"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "JANAINDAYO",
+        "url": "https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 180300,
+      "name": "JANAINDAYO",
+      "url": "https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "Soul Ties",
+        "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "Soul Ties",
+      "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "Ma che Hit",
         "url": "https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 177139,
       "name": "Can't Control",
       "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Soul Ties",
-        "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
-      },
-      "artists": [
-        {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "Soul Ties",
-      "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/69mhSprfKPOftUhwt8UglR"
-      },
-      "artists": [
-        {
-          "name": "Kathia",
-          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/3B1fIPSXUbuPQ5xShByFSU"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "VELOZzzz",
         "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 184888,
       "name": "VELOZzzz",
       "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/69mhSprfKPOftUhwt8UglR"
+      },
+      "artists": [
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3B1fIPSXUbuPQ5xShByFSU"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Done (Let's Get It)",
-        "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/7IF3KlxHiuypG8UAInt0UM"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Big Band Theory Season2",
         "url": "https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 233195,
       "name": "Mawaan Te Dhiyaan",
       "url": "https://open.spotify.com/track/2YjCorBTZCnYPZX7CgnRl4"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Done (Let's Get It)",
+        "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/7IF3KlxHiuypG8UAInt0UM"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "3ALA BALI",
-        "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
-      },
-      "artists": [
-        {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
-        }
-      ],
-      "duration_ms": 162102,
-      "name": "3ALA BALI",
-      "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "we're gonna die anyway!!!",
         "url": "https://open.spotify.com/album/3BZzDyp6uLeAvhFp4XbC5T"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 152542,
       "name": "we're gonna die anyway!!!",
       "url": "https://open.spotify.com/track/3dsraaer0toPT5ZpcisxOb"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "3ALA BALI",
+        "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
+      },
+      "artists": [
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "duration_ms": 162102,
+      "name": "3ALA BALI",
+      "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
     },
     {
       "added_at": "2023-04-14 12:11:56",

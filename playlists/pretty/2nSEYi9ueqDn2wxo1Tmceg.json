@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzY3OSwyYjc1YTljNDU5YjVlOTBjMDZiMzc1ODBmNmNmZjdmYjM5NmNmOTM5",
+  "snapshot_id": "MzY4MCwwM2JjOWEwNmQzYzRlNmFiM2NkMTg5NWE2ZDg5YzE5ZmFhYzY4ZmQ4",
   "tracks": [
+    {
+      "added_at": "2023-05-02 11:23:46",
+      "album": {
+        "name": "Hares On The Mountain",
+        "url": "https://open.spotify.com/album/2iv4mGCshsTvywjUf128vO"
+      },
+      "artists": [
+        {
+          "name": "Shirley Collins",
+          "url": "https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Hares on the Mountain",
+      "url": "https://open.spotify.com/track/3QBsP66ixM2caNrOYzcUng"
+    },
     {
       "added_at": "2023-04-26 16:21:07",
       "album": {

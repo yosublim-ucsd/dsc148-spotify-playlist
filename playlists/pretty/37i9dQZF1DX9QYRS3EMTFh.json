@@ -1,12 +1,12 @@
 {
   "description": "Les hits dancehall du moment. Photo : DJ Kawest",
-  "num_followers": 123604,
+  "num_followers": 123697,
   "original_name": "Dancehall Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTkwMjgxYzY1NWEyZjk4MTFiZTcyZjAxOGM4MGYxNTQ5ODcwNjNi",
+  "snapshot_id": "MCw5OGIzNjVlNTc1ZGMwN2U5ZjNhOWU4OTZiMjg2M2JhZjFjMGYyZDVh",
   "tracks": [
     {
       "added_at": "2023-04-27 22:01:00",
@@ -771,30 +771,6 @@
       "duration_ms": 152941,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2PQy1avcccpE3H3ZuQREz4"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Born Leader",
-        "url": "https://open.spotify.com/album/6K8Gng28hRABEDohP2TkRw"
-      },
-      "artists": [
-        {
-          "name": "Stig da Artist",
-          "url": "https://open.spotify.com/artist/7sEmKnf9Wp6NPOpMniFYpD"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/1ALSdJg7rTlST5DIOjDO8b"
-        }
-      ],
-      "duration_ms": 247448,
-      "name": "Born Leader",
-      "url": "https://open.spotify.com/track/6tgW4WT1IUnKKbUATVcZfm"
     }
   ],
   "unique_name": "Dancehall Station",

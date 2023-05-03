@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Coruja Bc1, Mc Luanna, Febem
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,651 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,664 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Real Drill](https://open.spotify.com/track/3gpSCMnVZELrg4b5oMmRIN) | [Favela Cria](https://open.spotify.com/artist/5wVwUloN5ZKdvMQiUMoDsO), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Índio ADL](https://open.spotify.com/artist/1ultT7e5kxNqpJ0ygWz9wQ) | [Real Drill](https://open.spotify.com/album/5KtB6XyDMiqSQibKfcmzqp) | 4:38 |
 | 75 | [Fed Tracks \#15: Introdução Racional](https://open.spotify.com/track/4TXjlwoBmTku8K3Qj9bbPH) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Fed Tracks \#15: Introdução Racional](https://open.spotify.com/album/61JX2B6MU60AtUDRXgUfvf) | 1:41 |
 
-Snapshot ID: `MCxlZDg0NzdkNWU2MDQ4N2JkNDdjNjg3ZWQ2ZDk2Nzg4OGUwNjU4ODZh`
+Snapshot ID: `MCw0NzRmN2Y0MWE2N2VlMzZhZTY2ZDRhZmY5ZTk0OGYxYjdmNmM1MzNh`

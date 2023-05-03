@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,481 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,065 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Jejely](https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Jejely](https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO) | 3:01 |
 | 50 | [Ayele](https://open.spotify.com/track/0x9boesXCFnB1EJflJObae) | [Mr Leo](https://open.spotify.com/artist/0sfURdhcmXyrcFEWaJ2IJI) | [Ayele](https://open.spotify.com/album/1cXxGJjjYJUgyoAxLFA0IJ) | 3:31 |
 
-Snapshot ID: `MCxkMDI1ZjE0YTRhYjYyOTcyZTE1NmMwOWM1YjI4MjU0NWJjMjAxZTQ4`
+Snapshot ID: `MCwzNmFhZDIwODYwNWYyNGJkZmM3ZmM3NWJlNjgxNDlhOTJkN2IyNWNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Izzchughtai
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,086 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,094 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 64 | [Dil Na Lanvee](https://open.spotify.com/track/40Uqtakcro5MbrLBQVwv22) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Dil Na Lanvee](https://open.spotify.com/album/0MqPkxDgVbpfgbgDkMgCgh) | 2:32 |
 | 65 | [Teriyan](https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Teriyan](https://open.spotify.com/album/3zdnb1So6h8GFY1GeuSIsJ) | 3:14 |
 
-Snapshot ID: `MCwzMjFiMzE5N2EzMTRmMDg4ZWYyZWVmMTY2ZDA4MzhmMTNjMjZjYjk2`
+Snapshot ID: `MCxiZGVkZDIxYmE5ZGU1YjUxZjIyOGEyYzlmODVmNjEzYjI4MGJkY2Jk`

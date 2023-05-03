@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-325 songs - 1 day 2 hr 45 min
+326 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Another Space Song](https://open.spotify.com/track/11EAxyNeRvUaZfomU8UUhz) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/2id1QCeqIEkiW4Kv5xqGT3) | 5:10 | 2021-10-15 | 2022-07-29 |
 | [Another Space Song](https://open.spotify.com/track/50iBJRkGjjht3RiwD0VqLA) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I) | 5:10 | 2022-07-20 |  |
 | [Archangel](https://open.spotify.com/track/1aaIYTqoRDzRUilU2Q6vTe) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 3:58 | 2022-07-20 | 2023-04-29 |
+| [Archangel](https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 3:58 | 2023-04-28 |  |
 | [Archangel](https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq) | 4:00 | 2021-10-15 | 2022-07-28 |
 | [Astral Traveling](https://open.spotify.com/track/55X66sKArUevBeGD7buroR) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy) | 5:50 | 2023-04-24 |  |
 | [Bad Kingdom](https://open.spotify.com/track/1mCmHiSivRYNDghiq1lfnz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/4mMJMXxteSxAVtAswHN0ky) | 4:22 | 2021-10-15 | 2022-07-05 |
@@ -288,7 +289,7 @@
 | [The Big Sky \- Special Single Mix](https://open.spotify.com/track/1OlR8gWxMgHIb5bduxTz2q) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:38 | 2023-03-13 |  |
 | [The Big Sky \- Special Single Mix](https://open.spotify.com/track/50T7xShSIGpOKvpyVahSAx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:38 | 2022-07-20 | 2022-07-29 |
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 | 2021-10-15 |  |
-| [The Gift](https://open.spotify.com/track/7nviB40euH8GciNuOn7uci) | [Mark Hollis](https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp) | [Mark Hollis](https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA) | 4:22 | 2023-02-02 |  |
+| [The Gift](https://open.spotify.com/track/7nviB40euH8GciNuOn7uci) | [Mark Hollis](https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp) | [Mark Hollis](https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA) | 4:22 | 2023-02-02 | 2023-05-03 |
 | [The Logical Song](https://open.spotify.com/track/5Z4EgTCCoObfO1WfrvrQ9v) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 4:09 | 2022-10-14 | 2022-11-13 |
 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/3T6R0ppqCnUW6iJhtUYhO3) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/5UAy7rBQad6mSxklbtqUa8) | 4:11 | 2021-10-15 | 2022-07-29 |
 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 | 2022-07-20 |  |

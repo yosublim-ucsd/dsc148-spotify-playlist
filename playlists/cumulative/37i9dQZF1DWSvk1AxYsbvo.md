@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-154 songs - 9 hr 2 min
+156 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anemone](https://open.spotify.com/track/6p7uMDafsJbxEYRfIsu07X) | [2F/3F](https://open.spotify.com/artist/2D5fGNgLGASKII9Se7u0rX) | [Dawn](https://open.spotify.com/album/1D0L4Yzg3kO2hiFwMwWHjk) | 3:53 | 2022-05-03 | 2022-07-14 |
 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 | 2022-07-08 | 2022-11-05 |
 | [Behind Your Side](https://open.spotify.com/track/7fREUPT71OY4K46OV7RdOy) | [Lee Yeongwon](https://open.spotify.com/artist/0AIMYibUrV6pg7YTgugZLM) | [Behind Your Side](https://open.spotify.com/album/0mG4lz5ipXjQ5ExYoKY77H) | 3:56 | 2022-07-08 | 2022-07-26 |
+| [Bit by Bit, Slowly, To You](https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Bit by Bit, Slowly, To You](https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE) | 4:16 | 2023-05-02 |  |
 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 | 2022-06-18 |  |
 | [Burned out](https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:06 | 2022-05-03 | 2022-07-26 |
 | [Bye \(feat\. LeeHi\)](https://open.spotify.com/track/4DnMtsF3UfkGys5DwjU3BH) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Greeting](https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6) | 6:40 | 2022-05-03 |  |
@@ -88,14 +89,14 @@
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-08 | 2023-02-28 |
 | [Notting Hill](https://open.spotify.com/track/5nuHas0chnay1eVNwpox1p) | [강동훈](https://open.spotify.com/artist/0MpKG6kiILpu3fku0uKeHz) | [Notting Hill](https://open.spotify.com/album/5mo4kRrvgpr13QAxNrkBn3) | 3:30 | 2022-05-03 | 2022-07-14 |
 | [Ocean \(feat\. Aden\)](https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls) | [Ocean \(feat\. Aden\)](https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX) | 3:23 | 2022-08-12 | 2022-09-11 |
-| [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 | 2022-06-18 |  |
+| [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 | 2022-06-18 | 2023-05-03 |
 | [Oh I Know](https://open.spotify.com/track/4MCLG9DIQnysCNbMkfmE5V) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Oh I Know](https://open.spotify.com/album/4XLTja4mx8DMzHn8b2uMfp) | 3:42 | 2022-05-03 | 2022-07-29 |
 | [Olive](https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Olive](https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL) | 2:09 | 2022-10-13 |  |
 | [Olive](https://open.spotify.com/track/4npfaORHCIotPdE5pROSX8) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Olive](https://open.spotify.com/album/4OOcKhTPbVZtDdy2WKVVEE) | 2:09 | 2022-06-18 | 2022-10-03 |
 | [Once again](https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI) | [Haeun Jang](https://open.spotify.com/artist/2qYrryru6IIfZVMN8HyGnn) | [Once again](https://open.spotify.com/album/2N2GWrRzPjpcEr6Ihy6tpB) | 3:59 | 2022-12-26 | 2023-01-11 |
 | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/track/3LcdUoTKft3YWEtD0kZsLm) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/album/0Z0gQleFzsGTfWQFWfq3mM) | 3:24 | 2022-05-03 | 2022-07-27 |
 | [Our love](https://open.spotify.com/track/4z5ym2rgXuOUKh7za9ktx2) | [CHOYEORAE](https://open.spotify.com/artist/0MVuyeZLOvw6KzkcO7pbqv) | [Our love](https://open.spotify.com/album/4fuN6kPyGZIDuSN1hQyqw5) | 2:56 | 2022-07-04 | 2022-07-09 |
-| [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 | 2023-04-07 |  |
+| [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 | 2023-04-07 | 2023-05-03 |
 | [poet](https://open.spotify.com/track/0lwTmD4lQHQMzTaUiwuZAw) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 2:41 | 2022-05-03 | 2022-07-18 |
 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2022-05-03 |  |
 | [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-10-05 |  |
@@ -127,6 +128,7 @@
 | [That day](https://open.spotify.com/track/3BVt9Ua8FkPEo1vBK6Adsp) | [YEAHSHINE](https://open.spotify.com/artist/5U7zy9djpWwawFg5B5RNbo) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.12](https://open.spotify.com/album/7wBRv1g1DLvzVtH536bC3t) | 2:56 | 2022-06-18 | 2022-07-06 |
 | [The Blue Night Of Jeju Island](https://open.spotify.com/track/5I6MDAsc3nv2BPiiGnLEDI) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [The Blue Night Of Jeju Island](https://open.spotify.com/album/5N0DCNi28CDILaQZ7tYNfU) | 4:05 | 2022-05-03 | 2022-07-27 |
 | [The Elephant](https://open.spotify.com/track/6WbNIhdOsC0rngXTXm2cXv) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:36 | 2022-05-03 | 2022-07-17 |
+| [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 | 2023-05-02 |  |
 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 | 2022-05-03 |  |
 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Park Soo Jin](https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-08 | 2022-12-04 |
 | [Tiana](https://open.spotify.com/track/03Nxx5LH8lYPDaWeroYPZi) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 2:55 | 2022-05-03 | 2022-07-09 |

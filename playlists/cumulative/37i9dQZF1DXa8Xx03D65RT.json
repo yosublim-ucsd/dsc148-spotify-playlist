@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "A Moment Like This",
+        "url": "https://open.spotify.com/album/1NF3qFuGSmROjzAQAzT8Rm"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228119,
+      "name": "A Moment Like This",
+      "url": "https://open.spotify.com/track/1TGVKteIcrRg7YvGiuVphF"
+    },
+    {
+      "album": {
         "name": "N\u00e9o-Romance",
         "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 170991,
       "name": "Colorado Nights",
       "url": "https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP"
@@ -3542,6 +3560,24 @@
       "duration_ms": 183580,
       "name": "Help me find a way",
       "url": "https://open.spotify.com/track/6OL7lU0n7HrNvxM22bHoxW"
+    },
+    {
+      "album": {
+        "name": "Heppi",
+        "url": "https://open.spotify.com/album/0Oxpmbqv0qq1ls2TGQrv3P"
+      },
+      "artists": [
+        {
+          "name": "Simone d'Harmange",
+          "url": "https://open.spotify.com/artist/3KCBSE8eMElAuHP9NhHstd"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120116,
+      "name": "Heppi",
+      "url": "https://open.spotify.com/track/5IV9Wpx895vHTojOVBIzgx"
     },
     {
       "album": {
@@ -8652,7 +8688,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 157894,
       "name": "Stay",
       "url": "https://open.spotify.com/track/39HXQGuVvKb1xk37coVqgb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's hey day; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,468 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,561 likes - 77 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 66 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
 | 67 | [Acid Raindrops \- Instrumental](https://open.spotify.com/track/13VTI8Azbyt0HW8XEMZIKY) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 4:24 |
 | 68 | [For the Future](https://open.spotify.com/track/70otjXKq2lzJbynH7W3N76) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 3:37 |
-| 69 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
-| 70 | [Halftime \- Instrumental](https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Halftime EP](https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk) | 4:20 |
-| 71 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 |
-| 72 | [Look How Pretty Today Is](https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [RIDING AROUND](https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK) | 2:08 |
-| 73 | [Cognac \- Instrumental](https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jay Stone](https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI) | [Foreign Pedestrians](https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3) | 2:38 |
-| 74 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
+| 69 | [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 |
+| 70 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
+| 71 | [Halftime \- Instrumental](https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Halftime EP](https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk) | 4:20 |
+| 72 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 |
+| 73 | [93 'Til Infinity \- LP Instrumental](https://open.spotify.com/track/0VuzA7lyIFn1VzinsOak8J) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'Til Infinity \(The Remixes\)](https://open.spotify.com/album/2G5p3c3YO8l63QfGKSxzBx) | 4:52 |
+| 74 | [Look How Pretty Today Is](https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [RIDING AROUND](https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK) | 2:08 |
+| 75 | [Cognac \- Instrumental](https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jay Stone](https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI) | [Foreign Pedestrians](https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3) | 2:38 |
+| 76 | [Players \- Instrumental](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
+| 77 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
 
-Snapshot ID: `MCxiN2YyZDQyNDM5NTBlOWNhMDMzY2JhYjA0M2Y3YjBkYTc5YTE4NDA0`
+Snapshot ID: `MCxiMGY0ZjVkMDg2ODJjY2I5YTY3NDAyZmNmNTM4MjdmZDUxZDc2YTU0`

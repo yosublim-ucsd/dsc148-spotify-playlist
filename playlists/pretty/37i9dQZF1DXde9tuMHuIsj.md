@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcángel & Bizarrap
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,083 likes - 108 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,525,117 likes - 108 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 107 | [Hablando Claro 2](https://open.spotify.com/track/6WtFLzGMKMmY3Hvb1bl5pR) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s) | [Hablando Claro 2](https://open.spotify.com/album/3Sd9yX21R6KImYjHdgQMxb) | 2:54 |
 | 108 | [El Case](https://open.spotify.com/track/5iAcQOl6yTHdXm1CqlNVMq) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [El Case](https://open.spotify.com/album/00P66oToPdQ8UpgYQTSjKp) | 2:41 |
 
-Snapshot ID: `MCw4M2YzMjI0ODYwYzc0YTEwMmFiODk5YmUzYTVlZmNhYmM1ZjVlYWYx`
+Snapshot ID: `MCwyZDMwNTg3ZTRjOTM3ZTRiNjg5YmEyZmQyMzg0MmMwNTQ3NTFlZDQy`

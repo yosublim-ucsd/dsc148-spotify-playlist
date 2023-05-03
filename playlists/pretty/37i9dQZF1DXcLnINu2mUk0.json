@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 31372,
+  "num_followers": 31443,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODRkOGM3MWQ5OGJjNWYxYzhhNmZkMWQxYTZiMmJiMzU4MjI3YzUy",
+  "snapshot_id": "MCwyM2M4ZDg3MmEwNjcxMzE0NTQ2Y2EyZGI5NTY1MzdlMjMxNzQwZDI5",
   "tracks": [
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
+        "name": "Confortable",
+        "url": "https://open.spotify.com/album/6bRjSUOtBfPiUSb47hlh5Y"
+      },
+      "artists": [
+        {
+          "name": "SOLUNA",
+          "url": "https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW"
+        },
+        {
+          "name": "Dotorado Pro",
+          "url": "https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd"
+        }
+      ],
+      "duration_ms": 168484,
+      "name": "Confortable",
+      "url": "https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
         "name": "Entorpecente",
         "url": "https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC"
       },
@@ -1207,26 +1227,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Confortable",
-        "url": "https://open.spotify.com/album/6bRjSUOtBfPiUSb47hlh5Y"
-      },
-      "artists": [
-        {
-          "name": "SOLUNA",
-          "url": "https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW"
-        },
-        {
-          "name": "Dotorado Pro",
-          "url": "https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd"
-        }
-      ],
-      "duration_ms": 168484,
-      "name": "Confortable",
-      "url": "https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Outono",
         "url": "https://open.spotify.com/album/7FfkXkOVmdEDVp9Y6hWIn7"
       },
@@ -1243,6 +1243,26 @@
       "duration_ms": 236064,
       "name": "Outono",
       "url": "https://open.spotify.com/track/01DyRyMOPecrfZdVZQvdqJ"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "aventura",
+        "url": "https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la"
+      },
+      "artists": [
+        {
+          "name": "\u00c9LL\u00c0H",
+          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
+        },
+        {
+          "name": "Vincee",
+          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
+        }
+      ],
+      "duration_ms": 198832,
+      "name": "aventura",
+      "url": "https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1275,26 +1295,6 @@
       "duration_ms": 216831,
       "name": "Lua",
       "url": "https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "aventura",
-        "url": "https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la"
-      },
-      "artists": [
-        {
-          "name": "\u00c9LL\u00c0H",
-          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
-        },
-        {
-          "name": "Vincee",
-          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
-        }
-      ],
-      "duration_ms": 198832,
-      "name": "aventura",
-      "url": "https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8"
     },
     {
       "added_at": "2023-04-27 23:00:00",

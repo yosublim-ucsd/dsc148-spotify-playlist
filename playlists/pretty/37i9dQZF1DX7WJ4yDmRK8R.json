@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 343318,
+  "num_followers": 343408,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2E5MWFhZDdmODUzNTM1MzQ3NzQ4ZmYzZmVmNWY2ZjI3ZDA2NDFm",
+  "snapshot_id": "MCwyNDNjYWEzMGExMjA2YWIwMzc1YTI4NDVmYzE1N2M1YzcwZTM1OTk1",
   "tracks": [
     {
       "added_at": "2022-12-09 18:45:39",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "In The Wild",
-        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "In The Mirror",
-      "url": "https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 123000,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "In The Wild",
+        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "In The Mirror",
+      "url": "https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "She Got Arrested",
-      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Everything Goes Numb",
         "url": "https://open.spotify.com/album/5slTcrsJ9B8Q4q8rA135XE"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 209973,
       "name": "Everything Went Numb",
       "url": "https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "She Got Arrested",
+      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+        "name": "Somewhere in the Between",
+        "url": "https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg"
       },
       "artists": [
         {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          "name": "Streetlight Manifesto",
+          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
         }
       ],
-      "duration_ms": 161680,
-      "name": "Title Holder",
-      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
+      "duration_ms": 289293,
+      "name": "We Will Fall Together",
+      "url": "https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Somewhere in the Between",
-        "url": "https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg"
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
       "artists": [
         {
-          "name": "Streetlight Manifesto",
-          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
         }
       ],
-      "duration_ms": 289293,
-      "name": "We Will Fall Together",
-      "url": "https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"
+      "duration_ms": 161680,
+      "name": "Title Holder",
+      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Destruction By Definition",
-        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Break The Glass",
-      "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Twenty-Eight Teeth",
         "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 214266,
       "name": "My Town",
       "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Destruction By Definition",
+        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Break The Glass",
+      "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Random I Am",
-      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 188573,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Random I Am",
+      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "\u2026And The Battle Begun",
-        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
-      },
-      "artists": [
-        {
-          "name": "Rx Bandits",
-          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Apparition",
-      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Wasted Days",
         "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 248413,
       "name": "Wasted Days",
       "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "\u2026And The Battle Begun",
+        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
+      },
+      "artists": [
+        {
+          "name": "Rx Bandits",
+          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Me, Myself and Something Else",
-        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
-      },
-      "artists": [
-        {
-          "name": "Call Me Malcolm",
-          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
-        }
-      ],
-      "duration_ms": 274250,
-      "name": "I Bet They're Asleep In New York",
-      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Heads Are Gonna Roll",
         "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 159400,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Me, Myself and Something Else",
+        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
+      },
+      "artists": [
+        {
+          "name": "Call Me Malcolm",
+          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "I Bet They're Asleep In New York",
+      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
     },
     {
       "added_at": "2022-12-09 18:45:39",

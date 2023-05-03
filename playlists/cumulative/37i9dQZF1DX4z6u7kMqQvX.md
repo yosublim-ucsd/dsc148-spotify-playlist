@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-423 songs - 1 day 0 hr 5 min
+424 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 | 2022-01-07 | 2023-04-14 |
 | [Radar](https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5) | 2:42 | 2023-04-14 |  |
 | [Rapunzel](https://open.spotify.com/track/5yRqtny5JXioXV8SHO30nw) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Rapunzel](https://open.spotify.com/album/1kEkSvrq0Hv2K80V7YfirE) | 3:42 | 2022-04-01 | 2022-04-19 |
-| [RAYEN](https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [RAYEN](https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN) | 3:07 | 2023-04-14 |  |
+| [RAYEN](https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [RAYEN](https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN) | 3:07 | 2023-04-14 | 2023-05-03 |
 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 | 2022-01-28 | 2022-07-22 |
 | [Reina](https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Reina](https://open.spotify.com/album/64uweRga2ScsdB8Nf77yjg) | 3:03 | 2022-01-07 | 2022-07-21 |
 | [Remar una Canción](https://open.spotify.com/track/1f0Bo5En0SdihJiZZwcE3y) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Remar una Canción](https://open.spotify.com/album/2TFN0dlPZwNbDJsNu8ajhm) | 2:44 | 2022-01-07 | 2022-07-21 |
@@ -400,6 +400,7 @@
 | [Tú](https://open.spotify.com/track/29QK7nmWaJeM3pk1Ajv8AD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Tú](https://open.spotify.com/album/0ZZ6KEkoM7WY9yk32YVNsd) | 3:56 | 2022-01-07 | 2022-07-26 |
 | [Tú Detrás de Todo](https://open.spotify.com/track/6CY2g39NtKYXmwLC2eu2n2) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Tú Detrás de Todo](https://open.spotify.com/album/7oysbRTkJTr9Oee8EUmyUn) | 3:15 | 2022-01-07 | 2022-07-26 |
 | [Tú Me Llevas](https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG) | 4:23 | 2022-01-07 | 2023-04-13 |
+| [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 | 2023-04-14 |  |
 | [Un día más](https://open.spotify.com/track/12d5nNNpWr0bx7pdMrKC5m) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 3:42 | 2022-01-07 | 2022-07-20 |
 | [Un Poco de Mí](https://open.spotify.com/track/3CvCvbpUsHVAWc1HV3NJ8H) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Un Poco de Mí](https://open.spotify.com/album/1lOuyxef0Pcxm6bgCXj43G) | 2:22 | 2022-04-01 | 2022-04-23 |
 | [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 | 2023-01-20 | 2023-03-03 |

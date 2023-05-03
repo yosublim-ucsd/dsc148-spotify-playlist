@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0633\u062a\u0648\u0649",
+        "url": "https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128007,
+      "name": "\u0627\u0633\u062a\u0648\u0649",
+      "url": "https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW"
+    },
+    {
+      "album": {
         "name": "\u0627\u0646\u0642\u0630\u064a\u0646\u064a \u0645\u0646\u064a",
         "url": "https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s"
       },

@@ -3833,6 +3833,24 @@
     },
     {
       "album": {
+        "name": "Flower of love",
+        "url": "https://open.spotify.com/album/0SY2JG8lS4cOaJ2iD33W5d"
+      },
+      "artists": [
+        {
+          "name": "Oh YooJin",
+          "url": "https://open.spotify.com/artist/0r95i21g0cV4u5OVzzksZx"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "Flower of love",
+      "url": "https://open.spotify.com/track/63YAKF8nP1kfYzmAFlWKie"
+    },
+    {
+      "album": {
         "name": "Love call center PART23",
         "url": "https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1"
       },
@@ -14588,7 +14606,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 232626,
       "name": "\uc0b4\uc558\uc18c",
       "url": "https://open.spotify.com/track/61cxkZbxONWDilpqDQlAZq"

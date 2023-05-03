@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: WOODZ",
-  "num_followers": 754955,
+  "num_followers": 755124,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDllMTQ2NGU1YmEzNDY5YTg3OGI4YjQxMmU5ZGNiNTU1NGY1MjQz",
+  "snapshot_id": "MCxhMjYyZjhhYzk2NzgzYjI3NjhjN2QyNDY2M2JjYjM5MTVhZjk3NzA1",
   "tracks": [
+    {
+      "added_at": "2023-05-02 09:45:03",
+      "album": {
+        "name": "WIND AND WISH",
+        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Wind And Wish",
+      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
+    },
     {
       "added_at": "2023-04-26 09:03:43",
       "album": {

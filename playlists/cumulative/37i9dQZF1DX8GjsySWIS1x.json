@@ -12977,6 +12977,24 @@
     },
     {
       "album": {
+        "name": "Dragon Slayer",
+        "url": "https://open.spotify.com/album/00qOCzVYbnem6uVcHqVktz"
+      },
+      "artists": [
+        {
+          "name": "Pigeon John",
+          "url": "https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "The Bomb",
+      "url": "https://open.spotify.com/track/4eYmH4Sh0ibdU9nmnbu7aM"
+    },
+    {
+      "album": {
         "name": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh"
       },

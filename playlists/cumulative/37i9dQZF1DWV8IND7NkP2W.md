@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-587 songs - 1 day 2 hr 15 min
+588 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Beneath The Neon](https://open.spotify.com/track/7ox6hzEN6C4H3QmQdNpr7B) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Beneath The Neon](https://open.spotify.com/album/1yXlNddUUTar1TjIKgrqze) | 2:52 | 2021-12-23 | 2022-06-07 |
 | [Berlin Tsukin](https://open.spotify.com/track/0MHOzZBDrPjBocW11I2Ht6) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Bi\-To Te\-Pu](https://open.spotify.com/album/58sIfXaBn3HkCmbCRJkCJr) | 3:12 | 2021-12-23 | 2022-05-08 |
 | [Better](https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Better](https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN) | 2:51 | 2021-12-23 | 2022-07-27 |
-| [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-12-23 |  |
+| [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-12-23 | 2023-05-03 |
 | [Big Love](https://open.spotify.com/track/7hAoj5A44i1zsRS3dNrgDP) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [Big Love](https://open.spotify.com/album/3TZoRNW7wTqD0jVsrqhnon) | 2:00 | 2021-12-23 | 2022-07-29 |
 | [Bike Rides](https://open.spotify.com/track/0l90JTBQ4ssx6tcim4FSQW) | [Kinissue](https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Bike Rides](https://open.spotify.com/album/38N1fjUHe6koBsO5yoHF88) | 1:47 | 2022-03-31 | 2022-04-20 |
 | [bitter soil](https://open.spotify.com/track/5xmX8H9bWWlGZrs7UBuYLJ) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bitter soil](https://open.spotify.com/album/6rzVxkkcRVKGjAZO2KkEUB) | 2:06 | 2022-07-28 | 2022-08-01 |
@@ -370,6 +370,7 @@
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2022-02-24 | 2022-07-04 |
 | [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 | 2022-09-22 | 2023-01-18 |
 | [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 | 2022-09-24 |
+| [On Golden Pond](https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [On Golden Pond](https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw) | 3:16 | 2023-04-27 |  |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2021-12-23 |  |
 | [on the way home](https://open.spotify.com/track/1JkQR9Mzg3LsJL9RVCcWHx) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/1h5gtqYpoaqnVm85KyYQJW) | 2:48 | 2022-07-28 | 2022-12-24 |
 | [on the way home](https://open.spotify.com/track/43cXj7oRb5TsLh4AqEO1OF) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/5EqWe1anZt6ZdshaRuW4Hq) | 2:48 | 2022-05-12 | 2022-07-26 |

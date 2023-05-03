@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ed Buys Houses",
+        "url": "https://open.spotify.com/album/64DjJ6ym4wzWt2HzwpZ6jO"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57953,
+      "name": "!Ed Buys Houses!",
+      "url": "https://open.spotify.com/track/7C93fnd8BwNdDj5YIEZsKX"
+    },
+    {
+      "album": {
         "name": "Gold Mouf (Deluxe)",
         "url": "https://open.spotify.com/album/5O5tzddmtxljqz3WOwFK00"
       },
@@ -1737,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Ceres & Calypso in the Deep Time",
+        "url": "https://open.spotify.com/album/5KkGAZrad4N4rc5FriwgzU"
+      },
+      "artists": [
+        {
+          "name": "Candy Claws",
+          "url": "https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181965,
+      "name": "Into the Deep Time (One Sun)",
+      "url": "https://open.spotify.com/track/0lw2mLzNcwftfTvDojdySG"
+    },
+    {
+      "album": {
         "name": "3 Feet High and Rising",
         "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
       },
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 188973,
       "name": "Mystery Fish",
       "url": "https://open.spotify.com/track/5r13QvPVwh6OfOvUf71shX"
@@ -3644,7 +3680,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 131208,
       "name": "Time Back",
       "url": "https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV"

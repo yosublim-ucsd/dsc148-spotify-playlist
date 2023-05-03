@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Baz\u0131 \u015eeyler",
+        "url": "https://open.spotify.com/album/6dJhfO3L473gMxI2RlQMzx"
+      },
+      "artists": [
+        {
+          "name": "Ezgi Gergin",
+          "url": "https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149330,
+      "name": "Baz\u0131 \u015eeyler",
+      "url": "https://open.spotify.com/track/3NZaf3A2o9GG0xEeRJh7xy"
+    },
+    {
+      "album": {
         "name": "Ba\u015f\u0131ma Gelenlerin",
         "url": "https://open.spotify.com/album/4XPY4rTD621AJgZOqRiCc8"
       },
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 143283,
       "name": "Kimin Y\u00fcz\u00fcnden",
       "url": "https://open.spotify.com/track/6KAuHhaGsYZCB9Gk4djrbD"
@@ -5624,7 +5642,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 182195,
       "name": "Uyan",
       "url": "https://open.spotify.com/track/3UkFtcFyA9QYlAJ4iLi0XK"
@@ -5848,7 +5866,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 182506,
       "name": "Yalan",
       "url": "https://open.spotify.com/track/6Sl2DuSUijoSf2EpDzQVA1"
@@ -6349,6 +6367,24 @@
     },
     {
       "album": {
+        "name": "Yollar\u0131m\u0131z Ayr\u0131",
+        "url": "https://open.spotify.com/album/0x4cJk9evfq0szTcoFfmqb"
+      },
+      "artists": [
+        {
+          "name": "Adakanbo",
+          "url": "https://open.spotify.com/artist/6K1hdbuFsTMZ3TwXxvNmpm"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Yollar\u0131m\u0131z Ayr\u0131",
+      "url": "https://open.spotify.com/track/4q3JPYoVMVFZ7p2AIPbxLe"
+    },
+    {
+      "album": {
         "name": "Yoruldum",
         "url": "https://open.spotify.com/album/7kXIhNks8PzP4ddbuvST4Z"
       },
@@ -6722,6 +6758,24 @@
       "duration_ms": 229120,
       "name": "\u00c7ukurova",
       "url": "https://open.spotify.com/track/3XcNta579GtC00njuO0yWK"
+    },
+    {
+      "album": {
+        "name": "\u00c7\u00f6l",
+        "url": "https://open.spotify.com/album/1bxbSinqZ0bc4WBEv01225"
+      },
+      "artists": [
+        {
+          "name": "Canay Do\u011fan",
+          "url": "https://open.spotify.com/artist/67neQRprEWkco2mIyKkXCb"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222678,
+      "name": "\u00c7\u00f6l",
+      "url": "https://open.spotify.com/track/3gcadccxHzdcP410i4N8s8"
     },
     {
       "album": {

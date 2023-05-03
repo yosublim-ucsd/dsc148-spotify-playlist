@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,390 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,819 likes - 45 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 44 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 |
 | 45 | [Adore You \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Adore You \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq) | 3:18 |
 
-Snapshot ID: `MCxkNWU1NDA5YTFkM2M2ZWNiMmQxYzBhNDFkNDBiOGU5MWJjMTlmMTgz`
+Snapshot ID: `MCwxNmU2NmM4ZGMzMzlmNjk5YjUzZDJlNzVjMTNlN2M4MTk0YzIwMjcw`

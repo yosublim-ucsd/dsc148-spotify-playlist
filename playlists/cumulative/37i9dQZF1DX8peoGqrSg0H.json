@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Closer (Clothes Off)",
+        "url": "https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7"
+      },
+      "artists": [
+        {
+          "name": "Matcha",
+          "url": "https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195877,
+      "name": "Closer (Clothes Off)",
+      "url": "https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2"
+    },
+    {
+      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR"
       },
@@ -492,7 +510,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 187021,
       "name": "I'll Do It How You Like It",
       "url": "https://open.spotify.com/track/0GEfa5zT6C6ryDExkiJ2Zh"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 207127,
       "name": "R U OK?",
       "url": "https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij"
@@ -4864,7 +4882,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 191392,
       "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
       "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"

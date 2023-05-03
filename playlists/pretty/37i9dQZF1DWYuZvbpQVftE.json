@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 16197,
+  "num_followers": 16221,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2Q4YWI5OGNhYThkNGUzYzM3MzIxN2Q0MmU0ZjNjYjM1MDI3OGJm",
+  "snapshot_id": "MCwyNmVkYmMyMmMxZjUzMWM0ZjA4MGNjNTM3NTZhMTdhYzk2ZjJhMGQ0",
   "tracks": [
     {
       "added_at": "2023-04-26 12:53:04",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
+        "name": "This Is How I Feel About Jazz",
+        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 340773,
+      "name": "Stockholm Sweetnin'",
+      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
+    },
+    {
+      "added_at": "2023-04-26 12:53:04",
+      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 246466,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
-    },
-    {
-      "added_at": "2023-04-26 12:53:04",
-      "album": {
-        "name": "This Is How I Feel About Jazz",
-        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 340773,
-      "name": "Stockholm Sweetnin'",
-      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "Four!",
-        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
-      },
-      "artists": [
-        {
-          "name": "Hampton Hawes",
-          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "Thou Swell",
-      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
-    },
-    {
-      "added_at": "2023-04-26 12:53:04",
-      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
+    },
+    {
+      "added_at": "2023-04-26 12:53:04",
+      "album": {
+        "name": "Four!",
+        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
+      },
+      "artists": [
+        {
+          "name": "Hampton Hawes",
+          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Thou Swell",
+      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
+        "name": "Coop! The Music Of Bob Cooper",
+        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
+      },
+      "artists": [
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
+    },
+    {
+      "added_at": "2023-04-26 12:53:04",
+      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "Coop! The Music Of Bob Cooper",
-        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
       },
       "artists": [
         {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 261066,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
+      "duration_ms": 416866,
+      "name": "Gettin' Together [Original Take]",
+      "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -699,22 +715,6 @@
       "duration_ms": 225906,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
-    },
-    {
-      "added_at": "2023-04-26 12:53:04",
-      "album": {
-        "name": "Gettin' Together!",
-        "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 416866,
-      "name": "Gettin' Together [Original Take]",
-      "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "Shorty Rodgers Courts The Count",
-        "url": "https://open.spotify.com/album/79crFBHL0AC42MEgShce76"
+        "name": "Playboys",
+        "url": "https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo"
       },
       "artists": [
         {
-          "name": "Shorty Rogers",
-          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
+          "name": "Chet Baker and Art Pepper",
+          "url": "https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU"
         }
       ],
-      "duration_ms": 262967,
-      "name": "Swingin' The Blues",
-      "url": "https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l"
+      "duration_ms": 344239,
+      "name": "Resonant Emotions",
+      "url": "https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA"
     }
   ],
   "unique_name": "West Coast Jazz",

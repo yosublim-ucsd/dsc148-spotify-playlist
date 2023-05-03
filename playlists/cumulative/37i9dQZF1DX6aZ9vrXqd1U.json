@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "G\u306e\u9583\u5149",
+        "url": "https://open.spotify.com/album/0btQbNsSjSXqUplvgbOKec"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30bb\u30ac\u30ef\u30c0\u30a4\u30b9\u30b1",
+          "url": "https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "G\u306e\u9583\u5149",
+      "url": "https://open.spotify.com/track/1qfpMdHoqhpRssLkw253ht"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30ac\u30f3\u30c0\u30e0 G\u306e\u30ec\u30b3\u30f3\u30ae\u30b9\u30bf\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 3",
         "url": "https://open.spotify.com/album/3WFW8EMq7eQyd4PO12HYgH"
       },
@@ -904,7 +922,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-03",
       "duration_ms": 217600,
       "name": "G\u306e\u9583\u5149",
       "url": "https://open.spotify.com/track/29ODTLXlIpmNT7rZFmV4gH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Yussef Dayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,653 likes - 99 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,137 likes - 99 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Loss](https://open.spotify.com/track/726tHsbqcNhVLckl5TpdCj) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Polish Encounter](https://open.spotify.com/album/2Rds7Q5z3Xueh7y1x0CSnm) | 4:33 |
 | 99 | [Fahina](https://open.spotify.com/track/3HTDwChXeEpTEltJA7Q2LT) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Abraham Rodriguez Jr.](https://open.spotify.com/artist/1U1SWJdIJlrIcmhuBa78we) | [Fahina](https://open.spotify.com/album/57FqCw0TdSmLEAo3xtDmlb) | 2:31 |
 
-Snapshot ID: `MCwzYzIzNDUwMWJkN2NkNDdiY2VhMzZlN2Y0OGRhNGVhYTMxOWMzYTFm`
+Snapshot ID: `MCxlNTlkM2QzYThlMTYyZDAxNjExNWUwYmIxNGQ3NTBjZWIxOGYyM2Q1`

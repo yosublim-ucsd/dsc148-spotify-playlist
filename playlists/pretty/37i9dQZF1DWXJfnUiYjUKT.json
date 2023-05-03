@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Labrinth",
-  "num_followers": 376836,
+  "num_followers": 377359,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJlNTlhNWY4YWY5NGQzYmNmMmJiNDYzMzFiZjg5YjEyYTFlZDEw",
+  "snapshot_id": "MCwwYmJjY2EwM2IwYTY0NzI4NTUxZjU1MjM4YmY4Njg2MTQ1NGVkOGZl",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -299,7 +299,7 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "4Runner",
+        "name": "4runner",
         "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
       },
       "artists": [
@@ -309,7 +309,7 @@
         }
       ],
       "duration_ms": 265453,
-      "name": "4Runner",
+      "name": "4runner",
       "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
     },
     {

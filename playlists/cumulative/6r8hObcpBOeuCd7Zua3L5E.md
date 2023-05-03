@@ -4,7 +4,7 @@
 
 > Sped up songs from TikTok and around the internet.
 
-146 songs - 7 hr 26 min
+147 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Never Say Never](https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Never Say Never \- The Remixes](https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw) | 3:47 | 2020-03-31 | 2022-07-19 |
 | [nina \(sped up\)](https://open.spotify.com/track/0OvIG0LWT4Wu21PR5plYL8) | [4everd4nny](https://open.spotify.com/artist/5ycCQZx5Go6Hqcg1iHzsdu) | [nina](https://open.spotify.com/album/45XlVtRzkFnM59zSqj5Mfi) | 1:15 | 2022-07-18 | 2022-09-09 |
 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 | 2022-07-18 |  |
+| [Oh Shooter \- Sped\-Up](https://open.spotify.com/track/6XabSQM86Cf7FJdHGtvGiZ) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [A Beautiful World \(Sped Up\)](https://open.spotify.com/album/3flFNpjOD2zLeQZyYoZnPD) | 3:41 | 2023-05-02 |  |
 | [Over \- Sped Up](https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over \(Sped Up\)](https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy) | 2:50 | 2022-07-18 | 2023-03-31 |
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2020-03-31 | 2022-07-19 |
 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 | 2022-07-18 |  |
@@ -136,7 +137,7 @@
 | [Super Bass](https://open.spotify.com/track/0iYebKFUSfF72fUu2OW6ZT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Deluxe\)](https://open.spotify.com/album/51HDsvvActcDmYy7NQl6oL) | 3:20 | 2020-03-31 | 2022-07-19 |
 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 | 2022-07-18 | 2023-02-28 |
 | [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-07-18 | 2023-02-05 |
-| [Teenage Dirtbag \- Sped Up](https://open.spotify.com/track/4fWaKRsV1WgIPVICeYgrp3) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Teenage Dirtbag \(Sped Up\)](https://open.spotify.com/album/3MJwPSoCnSfeuoZKHu4PCO) | 3:21 | 2022-09-07 |  |
+| [Teenage Dirtbag \- Sped Up](https://open.spotify.com/track/4fWaKRsV1WgIPVICeYgrp3) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Teenage Dirtbag \(Sped Up\)](https://open.spotify.com/album/3MJwPSoCnSfeuoZKHu4PCO) | 3:21 | 2022-09-07 | 2023-05-03 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-07-18 | 2023-05-02 |
 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 | 2022-07-18 | 2023-02-28 |
 | [The Middle](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) | 2:48 | 2020-03-31 | 2022-07-19 |

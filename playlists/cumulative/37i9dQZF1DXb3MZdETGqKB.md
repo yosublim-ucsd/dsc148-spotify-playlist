@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Samantha Fish
 
-213 songs - 12 hr 31 min
+214 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 | 2021-08-20 | 2023-02-14 |
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 | 2021-03-05 | 2022-03-26 |
 | [Comes Easy to Me](https://open.spotify.com/track/3O0Q20ESvI3rLGWmcCSIe8) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Comes Easy to Me](https://open.spotify.com/album/4AyLn4EwySfPvpRGQa1wHy) | 2:49 | 2021-07-02 | 2022-06-19 |
-| [Control](https://open.spotify.com/track/0AchHP2MSvRlL3iKh6kfdt) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Control](https://open.spotify.com/album/1yj4EQuTKMf8VBz1wTAj0D) | 3:23 | 2021-08-13 |  |
+| [Control](https://open.spotify.com/track/0AchHP2MSvRlL3iKh6kfdt) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Control](https://open.spotify.com/album/1yj4EQuTKMf8VBz1wTAj0D) | 3:23 | 2021-08-13 | 2023-05-03 |
 | [Crazy](https://open.spotify.com/track/0NAAqjvEBnGzbAw3LMk16G) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:29 | 2021-07-30 | 2022-08-27 |
 | [Crazy](https://open.spotify.com/track/1KGvEErtxbETDsTo958th4) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Crazy](https://open.spotify.com/album/4tGjdCaZWqmnpZKutjMO41) | 4:29 | 2021-07-30 | 2022-07-29 |
 | [CRY](https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [CRY](https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8) | 3:57 | 2021-02-12 | 2022-03-26 |
@@ -205,6 +205,7 @@
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2023-02-14 |
 | [What A Life](https://open.spotify.com/track/5du3Ypki8pqdygkoHZnTsd) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [What A Life](https://open.spotify.com/album/1W1PdT8nTmx1qO8poarynl) | 3:02 | 2021-02-05 | 2022-03-26 |
 | [What's Real](https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [What's Real](https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF) | 4:08 | 2022-08-05 |  |
+| [When Love Comes In](https://open.spotify.com/track/3GSNgcN4DnYTIYqL7GzIZT) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Ubuntu](https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz) | 4:14 | 2023-05-02 |  |
 | [WHITE PONY \- REVIVAL EDITION](https://open.spotify.com/track/5qdGrDgHYU56ujGsD6G0KN) | [N3ptune](https://open.spotify.com/artist/0Kt3k5975Iq6wW9cuutIZn), [Rusty Steve](https://open.spotify.com/artist/42P6ecU6XM2iC1hS8tuY2L) | [BLACK HORSE \(THE REVIVAL\)](https://open.spotify.com/album/4l4YPkRz6C7aZyqDgk9D9K) | 3:39 | 2023-01-13 |  |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-02-25 | 2023-02-14 |
 | [Wintertime](https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Wintertime](https://open.spotify.com/album/7x0QccFsF6oUTHCeaJ3wRf) | 3:59 | 2021-11-12 |  |

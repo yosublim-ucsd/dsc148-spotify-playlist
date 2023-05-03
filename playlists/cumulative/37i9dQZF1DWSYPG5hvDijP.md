@@ -2,7 +2,7 @@
 
 ### [Taaza hai bro!](https://open.spotify.com/playlist/37i9dQZF1DWSYPG5hvDijP)
 
-> New Hip Hop from India\. Cover\- Taaza hai bro
+> New Hip Hop from India\. Cover\- Raja Kumari
 
 100 songs - 5 hr 27 min
 
