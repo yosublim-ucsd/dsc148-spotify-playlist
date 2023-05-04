@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Black Box",
+        "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212621,
+      "name": "Like A Drug",
+      "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
+    },
+    {
+      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj"
       },
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 212621,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS"

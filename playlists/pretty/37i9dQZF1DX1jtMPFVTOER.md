@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,960 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,022 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 86 | [Take Flight \- edbl Remix](https://open.spotify.com/track/6dU1gPHs4LNyVpDIOq54iG) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Take Flight \(edbl Remix\)](https://open.spotify.com/album/3RS0D0zIsIVEWeL0s6XFHi) | 2:56 |
 | 87 | [Southend Baby](https://open.spotify.com/track/1sSRZpBy7XIXip9HyiQwSD) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/0S6XMnrUgP8RsJlmBp0akp) | 2:05 |
 | 88 | [The Creator Has a Master Plan Part II](https://open.spotify.com/track/6UOA79OTL65E5rhZgaBGgW) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [The Creator Has a Master Plan Part II](https://open.spotify.com/album/4k14NUrZFIzbKBj07BSdDk) | 6:29 |
-| 89 | [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/track/2JqpzB1Z6r2MjZ7lGaONex) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/album/0uCaokUXqrnT9ILV69dkZX) | 3:32 |
+| 89 | [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/track/4VMzhRu40whxcDcKuoHLr0) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [COOKUP](https://open.spotify.com/album/2MXzQNmgVCjW3BQjq06JAZ) | 3:32 |
 | 90 | [Black Grapes](https://open.spotify.com/track/6h5z1pLe1wsv1QPEXeTu9p) | [Bocha](https://open.spotify.com/artist/3Uyli9ZRk3FZa1jYkMrxhz), [Corey G](https://open.spotify.com/artist/0OkqNjlmC3mfNMQZLWhP8l), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [DIY](https://open.spotify.com/album/5UiPHP02USJh2sRFWAOVKP) | 2:32 |
 | 91 | [Gotta Go](https://open.spotify.com/track/0KB5FH5bzrcus310dpPo6a) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [Jazz Futon](https://open.spotify.com/album/6immvU3yDIO7RCtT0wjiPY) | 3:57 |
 | 92 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 |
 | 100 | [Inhale, Exhale](https://open.spotify.com/track/0ym3MgItsOpHT9q5DDpXLo) | [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Inhale, Exhale](https://open.spotify.com/album/70M8wlJqNIfDZzdW01FBb1) | 2:27 |
 
-Snapshot ID: `MCw4NWIwYmUzMzViMWIyMGFjNjc3ZWZkMGZjZWFmNTc4MjI2ZTZlNTA4`
+Snapshot ID: `MCwwZjhmNTk1YTkyZTc3ZWExNzQxNmI1Yjg1OWViODMxNjU2NmZmNjY0`

@@ -1372,6 +1372,10 @@
         {
           "name": "Dj Belite",
           "url": "https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF"
+        },
+        {
+          "name": "DNDM",
+          "url": "https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA"
         }
       ],
       "date_added": "2023-05-02",
@@ -22988,7 +22992,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 138352,
       "name": "OFFLINE",
       "url": "https://open.spotify.com/track/1DLVP4YYfmSey1gBcELyJg"
@@ -23488,7 +23492,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 200357,
       "name": "Orange",
       "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
@@ -26110,7 +26114,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -33070,7 +33074,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 131999,
       "name": "Wildberry Lillet",
       "url": "https://open.spotify.com/track/6LBmaJYwbLHfQwIreMCLlw"

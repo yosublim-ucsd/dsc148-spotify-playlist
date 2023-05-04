@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,658 likes - 114 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,656 likes - 114 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 45 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
 | 46 | [The Ballet Girl \(Adagio\)](https://open.spotify.com/track/0dsqEnxjtvkUan8zePPjLT) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 2](https://open.spotify.com/album/3LGjHu7cfkesscGwoUP5gV) | 2:56 |
 | 47 | [Vilja Bli](https://open.spotify.com/track/0fm7bxYeH2QeCUruVXxRSw) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/5IOw06YyBlxBcORrO9b9jK) | 2:35 |
-| 48 | [KONTROLL](https://open.spotify.com/track/3XiTfrOa7690hHyJevFCYH) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MÖRKET](https://open.spotify.com/album/4FIJKB0L75KHLsAThkgHqz) | 2:39 |
+| 48 | [KONTROLL](https://open.spotify.com/track/5sIRgBsPFruLgTs6Sx4dju) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MÖRKET](https://open.spotify.com/album/6rprj086y65JMRbeE1k0r8) | 2:39 |
 | 49 | [maskrosbarn \(de nt ba ja\)](https://open.spotify.com/track/0dyxqlr19ArxHcMU5aRRSs) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [maskrosbarn \(de nt ba ja\)](https://open.spotify.com/album/6TGd64kHe85eEX3TcjF96T) | 3:12 |
 | 50 | [The Stars Align](https://open.spotify.com/track/624CWRFBPs7YpvLQhHvwha) | [Jay\-Jay Johanson](https://open.spotify.com/artist/4hzC9WUUy3cFituT71tzB4) | [The Stars Align](https://open.spotify.com/album/4grVwb1LBaPrlYAgOKp8oG) | 5:57 |
 | 51 | [Out To Eat](https://open.spotify.com/track/7ElUAFXBTExwiK9I3fZqRh) | [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n), [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Out To Eat](https://open.spotify.com/album/7xJanb6TnNcMcMBzDOUCq6) | 2:18 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 113 | [POWERMAN 2.0](https://open.spotify.com/track/587gpi5oCreaxoB9w2LVbH) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [POWERMAN 2.0](https://open.spotify.com/album/3WtRqtZ16IVMHCqbl68Oer) | 2:40 |
 | 114 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 |
 
-Snapshot ID: `MCwzNWY3YjBhODhkZDY4NzE1MTZjODMxMmNlNWVmZDU4MzNjYTg5ZDQ0`
+Snapshot ID: `MCw5OWNjZWY0YjVlZGJjNjczZTBhYWVmNTRjMmJjZmFlNWViMzQ4M2Zl`

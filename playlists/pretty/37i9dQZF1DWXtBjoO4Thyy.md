@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Carlos Rafael Rivera continues The Classical Takeover with his favorite selection of soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,264 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,284 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 | 39 | [The Rise of Skywalker](https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 4:18 |
 | 40 | [The Baby](https://open.spotify.com/track/2hpBErFRab0qwNSzgglCNk) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 8 \(Original Score\)](https://open.spotify.com/album/4UbdaOH1jy1l9EG9vLFCle) | 3:20 |
 
-Snapshot ID: `MCxiOWFhMGUwMTFhMzFmOWYwMjc5MmQ4YTMzYjE1MTMxZWYzMDI3NDA2`
+Snapshot ID: `MCxhYmY1ZTA2ODY0YWQ5M2ZjYTI4OGI1ZmFlYmZmNWZhMWE1ZWEwZjY3`

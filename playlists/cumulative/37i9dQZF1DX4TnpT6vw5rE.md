@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-236 songs - 14 hr 14 min
+237 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 | 2022-07-22 | 2023-01-05 |
 | [Ocelot](https://open.spotify.com/track/55xZKTc8WnKY0r0G5y3NRP) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/2KdrIiL1UjCy9YDe6LnCzn) | 4:36 | 2022-12-30 |  |
 | [Ocelot](https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 4:36 | 2021-01-15 | 2022-07-29 |
-| [On the Horizon](https://open.spotify.com/track/6LhMfiUFiANHVS6CCsdv9j) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [On the Horizon](https://open.spotify.com/album/0pysKRX6glumaLQ8glH5L2) | 1:48 | 2023-02-24 |  |
+| [On the Horizon](https://open.spotify.com/track/6LhMfiUFiANHVS6CCsdv9j) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [On the Horizon](https://open.spotify.com/album/0pysKRX6glumaLQ8glH5L2) | 1:48 | 2023-02-24 | 2023-05-04 |
+| [Opulence](https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Opulence](https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9) | 2:24 | 2023-04-21 |  |
 | [Outlaw](https://open.spotify.com/track/7d8UsuThQiOn5WZ5pdv0Ti) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 3:38 | 2021-01-16 |  |
 | [Overland Kitted](https://open.spotify.com/track/3ulyr4lWLR9rlSqy64dmil) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Terra Firma](https://open.spotify.com/album/1p33sMa7scJrXZSetrhEb0) | 2:29 | 2023-03-24 | 2023-04-17 |
 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2020-12-08\* |  |

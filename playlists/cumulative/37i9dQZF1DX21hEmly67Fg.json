@@ -2365,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/7B2u3XVEjBTonvm1shnpGy"
+      },
+      "artists": [
+        {
+          "name": "Winston Brey",
+          "url": "https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165124,
+      "name": "She",
+      "url": "https://open.spotify.com/track/31Eo4x87vMeuwWisGXWjIi"
+    },
+    {
+      "album": {
         "name": "VSQ Power Ballads",
         "url": "https://open.spotify.com/album/1RGdqBZNNmAqL6jfu6HYEz"
       },
@@ -2593,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw"
+      },
+      "artists": [
+        {
+          "name": "Nora Gray",
+          "url": "https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188391,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq"
+    },
+    {
+      "album": {
         "name": "VSQ Performs the Hits of 2014, Vol. 2",
         "url": "https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N"
       },
@@ -2788,7 +2824,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 260038,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0SjRJvsh0ZccINwUQKsSxj"

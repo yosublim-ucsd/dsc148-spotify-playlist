@@ -2619,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Rainy Season",
+        "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222285,
+      "name": "Rainy Season",
+      "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
+    },
+    {
+      "album": {
         "name": "Remind",
         "url": "https://open.spotify.com/album/1cli5zZQ2oP31DTO4U8Ybg"
       },
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 262394,
       "name": "Sad ending (Feat. george)",
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"

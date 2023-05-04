@@ -4,12 +4,13 @@
 
 > aquela lá q viralizou na net
 
-355 songs - 18 hr 9 min
+355 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nunca Sozinho](https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb) | 0:00 | 2023-03-06 | 2023-04-27 |
 | [](https://open.spotify.com/track/4CZ0TYScO38MfP7rPAjMuo) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Iguinho e lulinha Eu te amo tanto](https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf) | 0:00 | 2022-11-01 | 2022-12-14 |
+| [](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 0:00 | 2023-02-09 |  |
 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-17 |  |
 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 | 2023-03-06 |  |
 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-07-20 | 2022-11-29 |
@@ -172,7 +173,6 @@
 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 | 2022-05-25 | 2022-09-22 |
 | [Love Absurdo](https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Love Absurdo](https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS) | 3:04 | 2023-03-13 |  |
 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 | 2023-01-24 |  |
-| [Lovezinho](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 2:46 | 2023-02-09 |  |
 | [Lugar Distante](https://open.spotify.com/track/4T5SuKlnBkLsTfLUSftX3x) | [DJ Lou](https://open.spotify.com/artist/4UZCx8Jrj8w2K90zF8VjWo) | [A Colecao](https://open.spotify.com/album/639MqeGboui9Fn39rv6OJv) | 1:51 | 2023-04-26 |  |
 | [Lugar Distante](https://open.spotify.com/track/4uOi330LkhOeUxmb97z2d9) | [DJ Lou](https://open.spotify.com/artist/4UZCx8Jrj8w2K90zF8VjWo) | [A Coleção](https://open.spotify.com/album/4hpN634sPatqiem8fyzsw1) | 1:51 | 2023-03-30 | 2023-04-27 |
 | [Luz do Luar](https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [Luz do Luar](https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4) | 3:04 | 2022-12-19 |  |

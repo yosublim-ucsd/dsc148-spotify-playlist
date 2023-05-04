@@ -4,10 +4,11 @@
 
 > Os grandes hits do momento estão aqui! Foto: Anitta, Mc Ryan SP
 
-166 songs - 8 hr 13 min
+166 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 0:00 | 2023-02-16 |  |
 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-26 |  |
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 | 2022-10-29 |
 | [2step \(feat\. Chefin\)](https://open.spotify.com/track/72DbvEOeqtJbKAX9GLzRER) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [2step \(feat\. Chefin\)](https://open.spotify.com/album/1Cu9w3jFSFKHa1YckwnUFW) | 2:44 | 2022-05-20 | 2023-01-28 |
@@ -98,7 +99,6 @@
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-01-27 | 2023-03-16 |
 | [Lobby](https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Lobby](https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu) | 2:37 | 2022-08-19 | 2022-11-08 |
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2022-05-20 | 2023-04-14 |
-| [Lovezinho](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 2:46 | 2023-02-16 |  |
 | [Macetar](https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Macetar](https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v) | 1:54 | 2022-12-01 |  |
 | [Mais Uma](https://open.spotify.com/track/1ttR4WB57ZZQqVBGiUZVis) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9), [Zain](https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp) | [Mais Uma](https://open.spotify.com/album/4dnZFRXRCa2ez2jLAUcNp1) | 2:07 | 2023-02-16 |  |
 | [Malvadão 3](https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Malvadão 3](https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl) | 2:21 | 2022-05-20 | 2023-03-16 |

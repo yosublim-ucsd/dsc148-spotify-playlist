@@ -1560,6 +1560,24 @@
     {
       "album": {
         "name": "Spectre At The Feast",
+        "url": "https://open.spotify.com/album/0PdQurxGKXWlIlTseFO0ZF"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258799,
+      "name": "Spectre At The Feast",
+      "url": "https://open.spotify.com/track/6kxmj5XxH1AJV1NjBERhg9"
+    },
+    {
+      "album": {
+        "name": "Spectre At The Feast",
         "url": "https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML"
       },
       "artists": [
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 258800,
       "name": "Spectre At The Feast",
       "url": "https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp"

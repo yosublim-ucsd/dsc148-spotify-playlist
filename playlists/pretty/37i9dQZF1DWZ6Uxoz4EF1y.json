@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 127878,
+  "num_followers": 128082,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjhlYjRmOWM1MTZjMGFhYzZiMzZkNDU0OWNmNzkxMDlmYzFkZDgw",
+  "snapshot_id": "MCw3MDY2NTJmMTZlNTA5MGU3ZDk0OWNhZTY3Yzc4NDlhNjRiN2E1MzYx",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -207,26 +207,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Misericordia",
-        "url": "https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS"
-      },
-      "artists": [
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 218942,
-      "name": "Misericordia",
-      "url": "https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 715466,
       "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
       "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Misericordia",
+        "url": "https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 218942,
+      "name": "Misericordia",
+      "url": "https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Cara a Cara",
         "url": "https://open.spotify.com/album/0LZBZMaR3Df50yCLLUj705"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 340558,
       "name": "Cara A Cara",
       "url": "https://open.spotify.com/track/3AbYh5nP4NdvWUahFCU1Ys"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -893,7 +893,7 @@
       "artists": [
         {
           "name": "Vino Nuevo",
-          "url": "https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX"
+          "url": "https://open.spotify.com/artist/2YKt5eNpMKkJ5i7hi1sAib"
         }
       ],
       "duration_ms": 300040,
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
         }
       ],
-      "duration_ms": 393769,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
+      "duration_ms": 372767,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
       },
       "artists": [
         {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 372767,
-      "name": "Eres Tu",
-      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
+      "duration_ms": 393769,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "El Justo Vivir\u00e1 Por Fe",
-        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "El Justo Vivir\u00e1 Por Fe",
-      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "De Vuelta En Casa",
         "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 295862,
       "name": "Su Vida Me Dio",
       "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "El Justo Vivir\u00e1 Por Fe",
+        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "El Justo Vivir\u00e1 Por Fe",
+      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
     },
     {
       "added_at": "2023-04-09 08:31:46",

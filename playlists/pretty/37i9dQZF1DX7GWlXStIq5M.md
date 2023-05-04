@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Priscilla Alcantara
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,672 likes - 79 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,713 likes - 79 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 10 | [Tudo Pra Amar Você](https://open.spotify.com/track/5GZ4UmrT3wv3eftsHo3WZ1) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Tudo Pra Amar Você](https://open.spotify.com/album/0FlzEsJbLiNBGr8rlaacLa) | 2:55 |
 | 11 | [Nu](https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Nu](https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR) | 2:47 |
 | 12 | [Ponto De Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 |
-| 13 | [Festa na Piscina](https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Festa na Piscina](https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO) | 4:28 |
+| 13 | [Festa na Piscina](https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Festa na Piscina](https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO) | 4:28 |
 | 14 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
 | 15 | [Na Rebolada](https://open.spotify.com/track/6pZgVujok602Yqjvo1safZ) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Maikinho DJ](https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh) | [Na Rebolada](https://open.spotify.com/album/2CVG0U36vNbgaBaRCUa8j3) | 2:18 |
 | 16 | [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 78 | [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 |
 | 79 | [Tentação](https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:54 |
 
-Snapshot ID: `MCwwODE0YmU5NzQ1YjA4YjQ0ZDEwZjAzZTU1ZWYyMjNkM2JjYjM4MGMw`
+Snapshot ID: `MCxhZTJmMmZhNWYxMWIxODM1Mjk0YjEyMDhmMWJjMjlmZTI5ODgwNmYx`

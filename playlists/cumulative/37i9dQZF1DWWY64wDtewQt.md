@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-474 songs - 18 hr 34 min
+475 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,8 @@
 | [Slapper \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/4Zf7vu8xsZeqOvel5fqyEK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Slapper \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/3c42aX4JhfAZHEj0VNNupM) | 1:07 | 2022-12-16 |  |
 | [SLAUGHTER HOUSE](https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [SLAUGHTER HOUSE](https://open.spotify.com/album/74VzeE1hiSnr1P2SsQ2m0L) | 2:31 | 2022-09-02 |  |
 | [SLAYER](https://open.spotify.com/track/6GubPXHfFG5cYUFZNl4vsZ) | [Ya$h](https://open.spotify.com/artist/6dvtf0mSE1nAC2vbStrrVG), [only1korob](https://open.spotify.com/artist/5G8Q8ZPaEwSl3oO0DpnUYB), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [SLAYER](https://open.spotify.com/album/6jeoIb83bE8HaEr1HvHTZj) | 2:53 | 2022-07-29 | 2022-09-24 |
-| [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 | 2023-02-04 |  |
+| [SMOKE IT OFF!](https://open.spotify.com/track/0mRaXMf9wwtkcW62t7zPm7) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/6LG5dTlYLzmgC6RRiGvsl1) | 1:57 | 2023-02-04 |  |
+| [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 | 2023-02-04 | 2023-05-04 |
 | [Smoke N Drift \- Phonk Version](https://open.spotify.com/track/7rNn8uJttKjnAcJXtlxLQQ) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X) | [Smoke N Drift \(Phonk Version\)](https://open.spotify.com/album/5Wdv4QxrMczOj6qbGHQ1Wn) | 2:09 | 2022-11-11 | 2022-12-10 |
 | [SNOWFLIGHT](https://open.spotify.com/track/7cZVKKjHHIig2CruOcSM8P) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [FROZEN HEIGHS](https://open.spotify.com/album/5zXQdtCqa9iugY2VU7UMLG) | 2:43 | 2022-02-04 | 2022-05-28 |
 | [Sokudo](https://open.spotify.com/track/0ZUDRV82rJq9slVEhp8T6Q) | [Ya$h](https://open.spotify.com/artist/6dvtf0mSE1nAC2vbStrrVG) | [Sokudo](https://open.spotify.com/album/1ofsYpNYNllBOz5dFyV22N) | 2:11 | 2022-02-18 | 2022-05-21 |

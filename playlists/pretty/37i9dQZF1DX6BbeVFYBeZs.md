@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,362 likes - 198 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,475 likes - 198 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 197 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 |
 | 198 | [Spanish Ballad](https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC) | [Spanish Ballad](https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz) | 2:58 |
 
-Snapshot ID: `MCxkMjI0MjllZjIyNTI0MjFhNjkxZTQ0ZTU1ZTU2ZWIwZDRhZjEwMGRm`
+Snapshot ID: `MCw1YWQ1NDRiMzY0MzNlMmNhMDRiNjc1NTI2M2JlOGY4NzdhM2ZhMDUy`

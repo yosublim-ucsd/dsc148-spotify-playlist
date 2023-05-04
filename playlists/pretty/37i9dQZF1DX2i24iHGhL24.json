@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 97111,
+  "num_followers": 97207,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjljMjRhYTY2OWNjYTJjMDM2NmQ4YjdiNDE2YjViM2MwM2FlOTQ1",
+  "snapshot_id": "MCw5MDlhNTA1Y2FlMjA3NWJlMWI0MjdlZjU1ZGQ1YWY5YjgyZmUwZjAx",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 159651,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 206187,
       "name": "As It Was - Spotify Singles",
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 159651,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 193015,
-      "name": "when the party\u2019s over",
-      "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 176921,
       "name": "The Best",
       "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 193015,
+      "name": "when the party\u2019s over",
+      "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 228827,
       "name": "August - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
         "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 247200,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Everybody Wants To Rule The World",
-        "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 166016,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
-      },
-      "artists": [
-        {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
-        }
-      ],
-      "duration_ms": 148514,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Dance In The Dark (Spotify Singles)",
         "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 225366,
       "name": "Dance In The Dark - Spotify Singles",
       "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "duration_ms": 148514,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/0c73WqIwETE5Jdu388kgvO"
-      },
-      "artists": [
-        {
-          "name": "Loren Allred",
-          "url": "https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA"
-        }
-      ],
-      "duration_ms": 191128,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/7AFlWfyhbBKQ93Y4wuNsqP"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Nothing Breaks Like A Heart",
         "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
       },
@@ -2051,18 +2035,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Dynamite (from \"Emily in Paris\" Soundtrack)",
-        "url": "https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q"
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/0c73WqIwETE5Jdu388kgvO"
       },
       "artists": [
         {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+          "name": "Loren Allred",
+          "url": "https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA"
         }
       ],
-      "duration_ms": 122822,
-      "name": "Dynamite - from \"Emily in Paris\" Soundtrack",
-      "url": "https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU"
+      "duration_ms": 191128,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/7AFlWfyhbBKQ93Y4wuNsqP"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2079,6 +2063,22 @@
       "duration_ms": 147457,
       "name": "dancing in the moonlight",
       "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Dynamite (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "duration_ms": 122822,
+      "name": "Dynamite - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Division (Deluxe)",
-        "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "Against All Odds",
-      "url": "https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Montero (Call Me By Your Name)",
         "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 141880,
       "name": "Montero (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Division (Deluxe)",
+        "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
-      },
-      "artists": [
-        {
-          "name": "COSIMA",
-          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Soft Pop Hits",
         "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 182986,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
+      },
+      "artists": [
+        {
+          "name": "COSIMA",
+          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
     },
     {
       "added_at": "2023-04-14 04:01:00",

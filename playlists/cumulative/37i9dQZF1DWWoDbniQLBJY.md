@@ -4,7 +4,7 @@
 
 > Pop Acústico para tu día.
 
-171 songs - 10 hr 23 min
+172 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Te quiero muchísimo](https://open.spotify.com/track/2cImsnqZsLYhTVDKfWWINr) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/475RvHwQ9OvQWtl3gEl280) | 4:00 | 2021-12-16 | 2022-07-29 |
 | [tensión](https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [tensión](https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX) | 3:07 | 2022-05-19 |  |
 | [This Love](https://open.spotify.com/track/7cHje4KLujM18aBSLvaySE) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:40 | 2021-12-16 | 2023-04-29 |
+| [Tiempo](https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Jaguayano](https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG) | [Tiempo](https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V) | 3:05 | 2023-04-28 |  |
 | [Tiempo Para Perder](https://open.spotify.com/track/2BTFFK0UT88yUUQtuCe4qg) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/02JM776kXbBtxV2zzk00nG) | 3:40 | 2021-12-16 | 2022-07-29 |
 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 | 2022-06-07 |  |
 | [Trazando Rutas](https://open.spotify.com/track/0W9q8vUDXYTQVGLsDj8z6G) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Trazando Rutas](https://open.spotify.com/album/3vEtOEIJUJa5R5RPAGGbhI) | 2:46 | 2021-12-16 | 2023-04-29 |
@@ -168,7 +169,7 @@
 | [Un Vuelo A La \(feat\. Jessie Reyez\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:24 | 2021-12-16 |  |
 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 | 2022-06-07 |  |
 | [una luz](https://open.spotify.com/track/6ClMwDfFUcwOPqiB6iNjCv) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [una luz](https://open.spotify.com/album/1EzqXEMydfsoBH9pJ0WnT2) | 2:56 | 2021-12-16 | 2022-07-29 |
-| [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 | 2022-06-07 |  |
+| [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 | 2022-06-07 | 2023-05-04 |
 | [Universo Amor](https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Universo Amor](https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z) | 3:36 | 2021-12-16 |  |
 | [Vasos Vacíos](https://open.spotify.com/track/6hI0uColSS0GsO9oNyYZ3k) | [Natalia Marroquin](https://open.spotify.com/artist/4DMmNPjcbctsOIUt54t5Rk) | [Vasos Vacíos](https://open.spotify.com/album/3r4WBaQUHgHFyCdjmIkqkN) | 7:02 | 2021-12-16 | 2022-07-29 |
 | [Velero](https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Velero](https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4) | 2:16 | 2023-04-03 |  |

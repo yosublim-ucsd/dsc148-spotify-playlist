@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: AKA AFK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,701 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,726 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 6 | [Bebeto & Romário](https://open.spotify.com/track/3BsDJHBfY8nh2zHOkTuKse) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:25 |
 | 7 | [Bonde da Oakley](https://open.spotify.com/track/5ed4MVmX152hyN9W5QY50D) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR) | [Da Viela Pro Mundo](https://open.spotify.com/album/5VqImQimN6ayrkJGGdbmQ5) | 2:59 |
 | 8 | [Evoque](https://open.spotify.com/track/1BvHPr0BvtUwtnpARfRXqs) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Evoque](https://open.spotify.com/album/1CyN6KrXqcR6isOBdgn1dR) | 2:03 |
-| 9 | [Espartano](https://open.spotify.com/track/54QLspTstRfyDHjkZWASOB) | [Rico Soares](https://open.spotify.com/artist/4wjh1ld5dY85EiWc2DXv6Y), [Lipins7a](https://open.spotify.com/artist/1jKx3TXqffPFa5DBt9UFEy) | [Espartano](https://open.spotify.com/album/0kqyWkboIrfcbXIwBAcYSQ) | 2:10 |
+| 9 | [Espartano](https://open.spotify.com/track/54QLspTstRfyDHjkZWASOB) | [Rico Soares](https://open.spotify.com/artist/4wjh1ld5dY85EiWc2DXv6Y), [Lipins7a](https://open.spotify.com/artist/1jKx3TXqffPFa5DBt9UFEy), [Nicolas Lee](https://open.spotify.com/artist/4W1jUGknyHlxo6LW99qUm0) | [Espartano](https://open.spotify.com/album/0kqyWkboIrfcbXIwBAcYSQ) | 2:10 |
 | 10 | [Moda Síria Anti\-Adidas](https://open.spotify.com/track/489WqSvCOYoNvXdAzVzB8h) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Moda Síria Anti\-Adidas](https://open.spotify.com/album/4JkaYSzvjU6Cx8zAwkFE0d) | 3:28 |
 | 11 | [Catequese](https://open.spotify.com/track/4aa4y1cQI6YobbstYuDZnH) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Uk Drill](https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt) | [Catequese](https://open.spotify.com/album/0jVj2HCC241nz91LlrjZDa) | 1:50 |
 | 12 | [TBT](https://open.spotify.com/track/5prIJikSCVovHL7wADbkB4) | [Corleone](https://open.spotify.com/artist/6KC5SbVwchsIji35J7wGBb), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [Fella Rap](https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB) | [TBT](https://open.spotify.com/album/7ouaB0VfveBqkRsckeBR8r) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Artilheiro](https://open.spotify.com/track/00F0BEVzn3O44RT9DFUsKo) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Artilheiro](https://open.spotify.com/album/4KGIXDOJ3hiZO4DGyVC8pn) | 2:26 |
 | 75 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MCxlNjkzMjljMzVhYWNkY2I3MmI5MDA1ZGU2YjdiZWFhNDYxNmE2MjE0`
+Snapshot ID: `MCwxZTI0MDFhZGZhMDc5NWEzNTU3ZDU2ZDIxNDFmMzYxNjlhNzdhMTM0`

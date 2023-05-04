@@ -3652,6 +3652,24 @@
     {
       "album": {
         "name": "Connections",
+        "url": "https://open.spotify.com/album/6PXeUwaH1WzmEhQcgb3wDd"
+      },
+      "artists": [
+        {
+          "name": "Ocoeur",
+          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318373,
+      "name": "Opposite Sides",
+      "url": "https://open.spotify.com/track/03VbNLKlENAi4IUbClDw1n"
+    },
+    {
+      "album": {
+        "name": "Connections",
         "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
       },
       "artists": [
@@ -4240,6 +4258,24 @@
       "duration_ms": 340045,
       "name": "Reciprocal capture (ft. Speaker Music)",
       "url": "https://open.spotify.com/track/736tmPjGGT8MG6DcD15UoB"
+    },
+    {
+      "album": {
+        "name": "Remembranza",
+        "url": "https://open.spotify.com/album/4wFHTdeCa6rLGmm0ExoxlB"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546986,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/1pNEw1owBotEBbQa6FZ042"
     },
     {
       "album": {
@@ -6088,7 +6124,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 301550,
       "name": "Wing Pinger 02",
       "url": "https://open.spotify.com/track/1Qlk7bOGlvqtncjCZf8bJE"
@@ -6150,7 +6186,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 202426,
       "name": "XYZ",
       "url": "https://open.spotify.com/track/72oEGguykIkj1PDA8dXTMW"

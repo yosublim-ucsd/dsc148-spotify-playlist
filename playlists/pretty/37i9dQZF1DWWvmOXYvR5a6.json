@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: BLOO(\ube14\ub8e8)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 188050,
+  "num_followers": 188168,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGU5M2Y0YmExOTMwZmQ0MDgzOGJlZTQzOWZkMjg1YTY5Y2Y0NjQ4",
+  "snapshot_id": "MCxkOThkNDM5NDZjYWM4NjRjMGVlMGE3MTZjNmYzZTgyYWQ0MDA3NmM4",
   "tracks": [
     {
       "added_at": "2023-05-02 09:06:58",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "My pleasure Is That You Ride The Bentley",
-      "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
-    },
-    {
-      "added_at": "2023-05-02 09:06:58",
-      "album": {
         "name": "ASH",
         "url": "https://open.spotify.com/album/0rI1BGsvXnc4IYyBqCJ6sI"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 183490,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/4f3E2bdBCYDvC0otoYcdXg"
+    },
+    {
+      "added_at": "2023-05-02 09:06:58",
+      "album": {
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "My pleasure Is That You Ride The Bentley",
+      "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1031,30 +1031,6 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 234839,
-      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
-    },
-    {
-      "added_at": "2023-05-02 09:06:58",
-      "album": {
         "name": "EVERYWHERE",
         "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 182300,
       "name": "Sunday (feat. HEIZE, Jay Park)",
       "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+    },
+    {
+      "added_at": "2023-05-02 09:06:58",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 234839,
+      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "UNSTEADY",
-        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "I BE LIKE (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
-    },
-    {
-      "added_at": "2023-05-02 09:06:58",
-      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 214640,
       "name": "End of the World (Feat. GSoul)",
       "url": "https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn"
+    },
+    {
+      "added_at": "2023-05-02 09:06:58",
+      "album": {
+        "name": "UNSTEADY",
+        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I BE LIKE (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "Just Like This",
-        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
+        "name": "11:59 (feat. Goopy)",
+        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "JEY",
+          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
         },
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "Goopy",
+          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Just Like This (Feat. george)",
-      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+      "duration_ms": 177680,
+      "name": "11:59 (feat. Goopy)",
+      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1311,22 +1311,22 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         },
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 252986,
-      "name": "Gray So Gray (Feat. Younha)",
-      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
+      "duration_ms": 199733,
+      "name": "Just Like This (Feat. george)",
+      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "11:59 (feat. Goopy)",
-        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
-      },
-      "artists": [
-        {
-          "name": "JEY",
-          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
-        },
-        {
-          "name": "Goopy",
-          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "11:59 (feat. Goopy)",
-      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
-    },
-    {
-      "added_at": "2023-05-02 09:06:58",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "added_at": "2023-05-02 09:06:58",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
+        "name": "hug me tight",
+        "url": "https://open.spotify.com/album/5RhnakiAQ918ouBJxadpyY"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 127612,
+      "name": "hug me tight",
+      "url": "https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg"
+    },
+    {
+      "added_at": "2023-05-02 09:06:58",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 276152,
       "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
       "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
-    },
-    {
-      "added_at": "2023-05-02 09:06:58",
-      "album": {
-        "name": "hug me tight",
-        "url": "https://open.spotify.com/album/5RhnakiAQ918ouBJxadpyY"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 127612,
-      "name": "hug me tight",
-      "url": "https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/2sFOvfJ0IaTdQAMGAXjRFH"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "KISS ME (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/3FjQFiQshUJfh6dcIzsq5h"
-    },
-    {
-      "added_at": "2023-05-02 09:06:58",
-      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -1695,6 +1675,22 @@
       "duration_ms": 185642,
       "name": "Empty Head",
       "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
+    },
+    {
+      "added_at": "2023-05-02 09:06:58",
+      "album": {
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1767,18 +1763,22 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/2sFOvfJ0IaTdQAMGAXjRFH"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 170520,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
+      "duration_ms": 202000,
+      "name": "KISS ME (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/3FjQFiQshUJfh6dcIzsq5h"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1795,6 +1795,26 @@
       "duration_ms": 210870,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
+    },
+    {
+      "added_at": "2023-05-02 09:06:58",
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 200900,
+      "name": "Have A Little Fun",
+      "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1823,26 +1843,6 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "H.A.L.F (Have.A.Little.Fun)",
-        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 200900,
-      "name": "Have A Little Fun",
-      "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
-    },
-    {
-      "added_at": "2023-05-02 09:06:58",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
       },
@@ -1859,6 +1859,38 @@
       "duration_ms": 189480,
       "name": "Daisy (feat. pH-1)",
       "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
+    },
+    {
+      "added_at": "2023-05-02 09:06:58",
+      "album": {
+        "name": "Trippy",
+        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Trippy",
+      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
+    },
+    {
+      "added_at": "2023-05-02 09:06:58",
+      "album": {
+        "name": "insatiable <3",
+        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "oh yeah",
+      "url": "https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y"
     },
     {
       "added_at": "2023-05-02 09:06:58",
@@ -1883,22 +1915,6 @@
     {
       "added_at": "2023-05-02 09:06:58",
       "album": {
-        "name": "Trippy",
-        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Trippy",
-      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
-    },
-    {
-      "added_at": "2023-05-02 09:06:58",
-      "album": {
         "name": "OFOSUN",
         "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 226499,
       "name": "U",
       "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
-    },
-    {
-      "added_at": "2023-05-02 09:06:58",
-      "album": {
-        "name": "insatiable <3",
-        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
-      },
-      "artists": [
-        {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "oh yeah",
-      "url": "https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y"
     },
     {
       "added_at": "2023-05-02 09:06:58",

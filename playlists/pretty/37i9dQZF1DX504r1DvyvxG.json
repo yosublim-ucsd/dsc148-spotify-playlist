@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2583084,
+  "num_followers": 2583472,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmQ3NTUwYWI5Zjc0NGU4NTMzNjM5NTFmNmNlZmEzOWZmOTgyMTZm",
+  "snapshot_id": "MCwzNmNmZjEyNzgxNGQyZGMxYTE4Y2RhMzczOGE2NWJmNjkwY2ExY2Y5",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Watchman's Gone",
+      "url": "https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Odetta Sings",
         "url": "https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Living With Ghosts",
-        "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
       },
       "artists": [
         {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 191093,
-      "name": "Let Him Fly",
-      "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
+      "duration_ms": 222866,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 245775,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/0HKLzcztfHW7o9b2i0PwtV"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Souvenirs",
-      "url": "https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic"
     }
   ],
   "unique_name": "Classic Acoustic",

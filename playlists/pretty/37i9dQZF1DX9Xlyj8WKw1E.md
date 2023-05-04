@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,193 likes - 52 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,221 likes - 52 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 18 | [2 Million Up \(feat\. Skilla Baby\)](https://open.spotify.com/track/3gdrxXqiNci9MHWtZsabTk) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [2 Million Up \(feat\. Skilla Baby\)](https://open.spotify.com/album/01HUY9TFPHnPL6u7gtPatR) | 3:18 |
 | 19 | [Palisades, CA](https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Palisades, CA](https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT) | 3:14 |
 | 20 | [ROLL THE DICE \(feat\. DeJ Loaf\)](https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [ROLL THE DICE \(feat\. DeJ Loaf\)](https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf) | 3:44 |
-| 21 | [BET UNCUT](https://open.spotify.com/track/0nWaqg8SPxA6ctpi2mJobi) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [BET UNCUT](https://open.spotify.com/album/0o8JzVSKtxCDx6wgJtGfzu) | 4:07 |
+| 21 | [BET UNCUT](https://open.spotify.com/track/0nWaqg8SPxA6ctpi2mJobi) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [BET UNCUT](https://open.spotify.com/album/0o8JzVSKtxCDx6wgJtGfzu) | 4:07 |
 | 22 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB) | 2:27 |
 | 23 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 |
 | 24 | [KRZY TRAIN \(feat\. Travis Scott\)](https://open.spotify.com/track/6SroqZFR8fPAcvhteW5y9W) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:50 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 51 | [FAKE BUTT](https://open.spotify.com/track/2wJlc8AGsMYGAeZ80m5V3e) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [FAKE BUTT](https://open.spotify.com/album/2StRxfFDs1YC0w4eaC13gd) | 1:54 |
 | 52 | [Master P](https://open.spotify.com/track/01D0Is2MMRpElrczPVgy2O) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Master P](https://open.spotify.com/album/2wTFQBYvOhSVntkiUWayFT) | 2:06 |
 
-Snapshot ID: `MCwzOTI4YTQzZTc4ZDk0MTRkYzZhNDk1NjNhODE4Mzc1YzdjNTFiMmM1`
+Snapshot ID: `MCxkYjBkYThiODllMjlkYzRlZDM5NjJlN2RjNWU0ZGE4YjZhMDI2MGYz`

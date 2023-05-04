@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-148 songs - 8 hr 31 min
+149 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Godrick the Grafted](https://open.spotify.com/track/6RhrqyCOyLiA3MzTu8ecmD) | [Shoi Miyazawa](https://open.spotify.com/artist/5RpBia18SUKXrsrHLYlrrd) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 4:48 | 2022-09-09 | 2022-11-22 |
 | [Gris, Pt\. 1](https://open.spotify.com/track/3m7ieZFPvfPARawHCs3Mjj) | [Berlinist](https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn) | [Gris \(Original Game Soundtrack\)](https://open.spotify.com/album/2YMWspDGtbDgYULXvVQFM6) | 2:36 | 2021-12-15 |  |
 | [Halo](https://open.spotify.com/track/0htrx26DcVDcyXErXyJsTo) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Original Soundtrack](https://open.spotify.com/album/6GSXmRwERX2erR5xuLTajj) | 4:22 | 2021-12-15 | 2022-07-29 |
-| [Halo](https://open.spotify.com/track/4xbrgqQF8bzy22K8JhtFM9) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Combat Evolved \(Original Soundtrack\)](https://open.spotify.com/album/78tWR5P0I53edR7PeXpDfF) | 4:22 | 2022-07-27 |  |
+| [Halo](https://open.spotify.com/track/4xbrgqQF8bzy22K8JhtFM9) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Combat Evolved \(Original Soundtrack\)](https://open.spotify.com/album/78tWR5P0I53edR7PeXpDfF) | 4:22 | 2022-07-27 | 2023-05-04 |
+| [Halo](https://open.spotify.com/track/6DhcuZbi4FW28RLicWNmmx) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Combat Evolved \(Original Soundtrack\)](https://open.spotify.com/album/4eOwVM6B9yJCwk030GGYRI) | 4:22 | 2023-04-28 |  |
 | [Have a Short Rest](https://open.spotify.com/track/6ebNn9bRWksrrrWotc6xcV) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:11 | 2021-12-15 |  |
 | [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 | 2022-07-08 |  |
 | [Hope \(Title Theme\)](https://open.spotify.com/track/5UE1l5fozj8mkaZMk1xmBX) | [Justin E\. Bell](https://open.spotify.com/artist/6dMgJ2cftqX4iCnrSLJXHw) | [The Outer Worlds \(Original Soundtrack\)](https://open.spotify.com/album/6Hd0qkZ6fnN981YtFQI6oG) | 7:45 | 2021-12-15 |  |

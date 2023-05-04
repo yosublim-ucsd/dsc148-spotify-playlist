@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Shuman , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Raveena Paul , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -4557,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "High Keeps Coming Down",
+        "url": "https://open.spotify.com/album/4lwRt0zTglbwLHtixuLlIH"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Mehta",
+          "url": "https://open.spotify.com/artist/3Y2fwNHCxleJetJbVUarLp"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181653,
+      "name": "High Keeps Coming Down",
+      "url": "https://open.spotify.com/track/6UMcT5kvRLT0Pzyh7AvNQ0"
+    },
+    {
+      "album": {
         "name": "High Wire",
         "url": "https://open.spotify.com/album/3CIoPkp4VF8fIi4nhS0bGa"
       },
@@ -4702,7 +4720,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 172258,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3xudocn4faa7usSq1wxkNn"
@@ -4880,7 +4898,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 255131,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/5sz7xhu6LxJnRjomGlosZb"
@@ -5805,6 +5823,28 @@
     },
     {
       "album": {
+        "name": "Jahaan",
+        "url": "https://open.spotify.com/album/5bhr1CfHRDlEy9XAdctVfU"
+      },
+      "artists": [
+        {
+          "name": "Raveena Paul",
+          "url": "https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se"
+        },
+        {
+          "name": "Neel Chhabra",
+          "url": "https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223649,
+      "name": "Jahaan",
+      "url": "https://open.spotify.com/track/4AEWM5JhXduGreZMOn46ni"
+    },
+    {
+      "album": {
         "name": "Jahan",
         "url": "https://open.spotify.com/album/6ID9SbGeejYkqrjBbWRwIG"
       },
@@ -6160,7 +6200,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 143481,
       "name": "Just Another Phase",
       "url": "https://open.spotify.com/track/7DRQfwqmmZurnjiuOh1bV2"
@@ -6592,6 +6632,32 @@
       "duration_ms": 311320,
       "name": "Kahaniya",
       "url": "https://open.spotify.com/track/3YrWCnT9NPKKFqd2JvBeVm"
+    },
+    {
+      "album": {
+        "name": "Kahaniyan",
+        "url": "https://open.spotify.com/album/6ljwWuYQh5fYq322ksxy2H"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "Kahaniyan",
+      "url": "https://open.spotify.com/track/04tiRFjYqhFZ71VVzzYwQx"
     },
     {
       "album": {
@@ -7404,7 +7470,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 204418,
       "name": "L.O.M.L.",
       "url": "https://open.spotify.com/track/7MQelLtQ66g9YiR3fbbCT8"
@@ -8298,6 +8364,28 @@
       "duration_ms": 228024,
       "name": "Maula",
       "url": "https://open.spotify.com/track/35YrPORflbvZxxe8m9IUex"
+    },
+    {
+      "album": {
+        "name": "Maula Mere",
+        "url": "https://open.spotify.com/album/2vjpDMWZgqcNlEyeRMiYtm"
+      },
+      "artists": [
+        {
+          "name": "Paul Mahanta",
+          "url": "https://open.spotify.com/artist/64KCnRRaqZTfOIamQmgTtt"
+        },
+        {
+          "name": "Yasir Nadim",
+          "url": "https://open.spotify.com/artist/17wdlgOK9tLzysXaTka4sZ"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265881,
+      "name": "Maula Mere",
+      "url": "https://open.spotify.com/track/1JHcOGyKs5i3qp9fOI2KIh"
     },
     {
       "album": {
@@ -10882,6 +10970,24 @@
       "duration_ms": 282947,
       "name": "roshe.",
       "url": "https://open.spotify.com/track/633vHim2LUciAsbYKQcg1g"
+    },
+    {
+      "album": {
+        "name": "Roshni",
+        "url": "https://open.spotify.com/album/33Ea1ti5qj8lB4WLpPZn29"
+      },
+      "artists": [
+        {
+          "name": "the butterfly effect_india",
+          "url": "https://open.spotify.com/artist/6TIHNs8WXvLHbNvt1Uripg"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244551,
+      "name": "Roshni",
+      "url": "https://open.spotify.com/track/34B0mfxukhsO8T7rsz1YX5"
     },
     {
       "album": {
@@ -13956,7 +14062,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 204000,
       "name": "Udd Re",
       "url": "https://open.spotify.com/track/1VRXOd1EtibAlmAV5CEWHT"

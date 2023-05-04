@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 72121,
+  "num_followers": 72210,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzYyYTkyMWJkNjY3ZDBhMDBjMjgyNzIxZjMxNWNmZDAyZDg3OTE0",
+  "snapshot_id": "MCxkY2VkYjY0MmNmNTg0NGU1ODY3ZmQ3NmM5YTg2NDRhMWJmNDQwOGYz",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "so sad so sexy",
-        "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "sex money feelings die",
-      "url": "https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 247150,
       "name": "Mariners Apartment Complex",
       "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "so sad so sexy",
+        "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "sex money feelings die",
+      "url": "https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 577199,
       "name": "Venice Bitch",
       "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -431,26 +431,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        },
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "diary 001",
         "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 135016,
       "name": "Hello?",
       "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        },
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 303296,
-      "name": "Sesame Syrup",
-      "url": "https://open.spotify.com/track/73ROvjXlrsrDcNmCurwWOF"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 196588,
       "name": "Give Yourself A Try",
       "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 303296,
+      "name": "Sesame Syrup",
+      "url": "https://open.spotify.com/track/73ROvjXlrsrDcNmCurwWOF"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Damaged Vol. 2",
-        "url": "https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "You & Jennifer",
-      "url": "https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 208067,
       "name": "Summer Time High Time",
       "url": "https://open.spotify.com/track/77ZnKnZvitYTwGNWshn53V"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Damaged Vol. 2",
+        "url": "https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "You & Jennifer",
+      "url": "https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 174666,
       "name": "Holy",
       "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ"
     },
     {
       "added_at": "2022-03-08 15:07:06",

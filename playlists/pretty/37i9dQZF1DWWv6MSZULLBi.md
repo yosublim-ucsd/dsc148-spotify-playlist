@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Elisapie
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,027 likes - 101 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,139 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 56 | [The Master](https://open.spotify.com/track/1qfY6FBh1lG2BGq3n2tOCO) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [The Master](https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm) | 3:24 |
 | 57 | [Summertime Whiskey](https://open.spotify.com/track/5k9Y1Wfel4xoGgUMAm6tsZ) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Summertime Whiskey](https://open.spotify.com/album/2xSuqkSw4cCgsAejTeJ4iH) | 2:59 |
 | 58 | [Fairy Falls](https://open.spotify.com/track/402dP9S7AHi88JV7JWjuNF) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:59 |
-| 59 | [Let Her Feel the Rain \(Sparrow Version\)](https://open.spotify.com/track/7GyIIxK804NZ44iWrMm6Z1) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Let Her Feel the Rain \(Sparrow Version\)](https://open.spotify.com/album/0E2ZmkuLlBd3kPOeYIc2ju) | 4:44 |
+| 59 | [Let Her Feel the Rain \(Sparrow Version\)](https://open.spotify.com/track/2qiymz95HURaZ7YE1yTEzJ) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Sparrow](https://open.spotify.com/album/3L91n9j5ue1FWRahi86Z3g) | 4:44 |
 | 60 | [Helium](https://open.spotify.com/track/2uvDjPwNsu94t8ATG0yia1) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz) | 3:49 |
 | 61 | [The Mess](https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Rivals EP](https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0) | 1:08 |
 | 62 | [Critics \(Fifty Bucks\)](https://open.spotify.com/track/3Rj0bNJuUI2X1XD3XxEhpf) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I & II](https://open.spotify.com/album/41RfKM7fvvt57gQcZKe60q) | 4:12 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 100 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 |
 | 101 | [Light in Me](https://open.spotify.com/track/26a0XK6phpV2mCZ6LlMFFy) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc), [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [Light in Me](https://open.spotify.com/album/7Dvwbd49vsYVL1oPezhsDp) | 2:52 |
 
-Snapshot ID: `MCxmNTg0NGFlOTE5ZTk5NTFiODFhYzlhNmVkOGExNzZhOTRlNTkzMjAw`
+Snapshot ID: `MCxjZGZjOWU5OGM5YTE2OTA5MWY0NmJjNDU0OWIwNTRhY2RmMTM0MWVj`

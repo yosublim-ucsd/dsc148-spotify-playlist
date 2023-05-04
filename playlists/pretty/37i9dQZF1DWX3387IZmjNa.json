@@ -1,13 +1,29 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Karri",
-  "num_followers": 1984497,
+  "num_followers": 1984874,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWY4ZmMyMjYxZTQ1NmM2OTVlMzA5MmRhYWY0ODU2OTNlNDMwYmYy",
+  "snapshot_id": "MCwzYjQ0OThhMGMxOTUzOGE4YTI2Y2Y2MTczNzQxYjJiMjE1YzcwOTg4",
   "tracks": [
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "3AM in Oakland",
+        "url": "https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 206270,
+      "name": "3AM in Oakland",
+      "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
+    },
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 190186,
       "name": "When You Bad Like That (feat. Future)",
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "3AM in Oakland",
-        "url": "https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 206270,
-      "name": "3AM in Oakland",
-      "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
     },
     {
       "added_at": "2023-02-17 05:00:00",

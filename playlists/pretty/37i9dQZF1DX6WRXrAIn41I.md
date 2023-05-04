@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WRXrAIn41I.md) - [plain]
 
 > Defqon.1 Festival welcomes the New Year with their adrenaline\-rushing, blood\-bumping, hardstyle\-filled Warrior Workout mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,079 likes - 26 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,136 likes - 26 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WRXrAIn41I.md) - [plain]
 | 25 | [Wanna Play? \- Mixed](https://open.spotify.com/track/1itH420vqwCc2RCvLBzR8G) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz) | [Wanna Play? \(Mixed\)](https://open.spotify.com/album/0qiIVq1Z2rZWVlITVzgFaY) | 3:24 |
 | 26 | [The Next Level \- Mixed](https://open.spotify.com/track/5s9WUGMNF5qCiCjA8RgGLv) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [The Next Level \(Mixed\)](https://open.spotify.com/album/0vnM2gykPjF4U1Y6rT8BnA) | 1:48 |
 
-Snapshot ID: `MCwxM2YwY2NmNzE0ZWMxNGIyNTU4MmViNjI5MmFkNTRmM2YxYTBjNTEz`
+Snapshot ID: `MCxiZGFlMGIxYjkwZjNiYjU0M2YxNzY0ODA4M2ZhNGRjMmU2N2M0NTZh`

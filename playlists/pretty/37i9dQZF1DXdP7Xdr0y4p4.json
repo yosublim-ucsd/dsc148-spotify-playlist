@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 7675,
+  "num_followers": 7689,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTY2MGZmMTg2M2M2YjlmOTg5NGYwMmM0MDc0NzVhODRkZGExNTll",
+  "snapshot_id": "MCxkY2VlMDUxYjk3YTBlMjg5Y2QwZDc4NzM1ZmE4MTUxYjljY2E2ZjA5",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -87,6 +87,22 @@
       "duration_ms": 251733,
       "name": "It's About the Cross",
       "url": "https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Good Morning Mercy",
+        "url": "https://open.spotify.com/album/3Wsy7LgDdHHZKuU4QDLFpB"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "duration_ms": 198511,
+      "name": "Good Morning Mercy",
+      "url": "https://open.spotify.com/track/2ZeYstnGxcxaQJnztHJrEZ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -175,22 +191,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Good Morning Mercy",
-        "url": "https://open.spotify.com/album/3Wsy7LgDdHHZKuU4QDLFpB"
-      },
-      "artists": [
-        {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
-        }
-      ],
-      "duration_ms": 198511,
-      "name": "Good Morning Mercy",
-      "url": "https://open.spotify.com/track/2ZeYstnGxcxaQJnztHJrEZ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Show Me Your Way",
         "url": "https://open.spotify.com/album/2iiRvEnI8qJCBmxfKZfeDT"
       },
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Whatever The Road",
+        "url": "https://open.spotify.com/album/2ghMlC7X6dQkmIz970kP1x"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "He Knows What He's Doing",
+      "url": "https://open.spotify.com/track/383ZB6TdF6qxpbvxJFLDVn"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/0LahGugFPCcDTUPG7OA7bx"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 193333,
       "name": "Battle Stand",
       "url": "https://open.spotify.com/track/0HupMziol0Akt3BxX4gfqZ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Whatever The Road",
-        "url": "https://open.spotify.com/album/2ghMlC7X6dQkmIz970kP1x"
-      },
-      "artists": [
-        {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "He Knows What He's Doing",
-      "url": "https://open.spotify.com/track/383ZB6TdF6qxpbvxJFLDVn"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Songs for the Times",
-        "url": "https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U"
-      },
-      "artists": [
-        {
-          "name": "The Isaacs",
-          "url": "https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp"
-        }
-      ],
-      "duration_ms": 224746,
-      "name": "Peace in Trusting",
-      "url": "https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Bigger Than Sunday",
         "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 197240,
       "name": "Best Thing",
       "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Songs for the Times",
+        "url": "https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U"
+      },
+      "artists": [
+        {
+          "name": "The Isaacs",
+          "url": "https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp"
+        }
+      ],
+      "duration_ms": 224746,
+      "name": "Peace in Trusting",
+      "url": "https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Favorites: On Repeat",
-        "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
-      },
-      "artists": [
-        {
-          "name": "The Erwins",
-          "url": "https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD"
-        }
-      ],
-      "duration_ms": 270840,
-      "name": "Favorite Song of All",
-      "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The Stories We Tell",
         "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24"
+        "name": "Favorites: On Repeat",
+        "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
       "artists": [
         {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+          "name": "The Erwins",
+          "url": "https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Welcome to Your Life",
-      "url": "https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY"
+      "duration_ms": 270840,
+      "name": "Favorite Song of All",
+      "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -835,6 +819,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24"
+      },
+      "artists": [
+        {
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Welcome to Your Life",
+      "url": "https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Bring That Giant Down",
         "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
       },
@@ -847,38 +847,6 @@
       "duration_ms": 208359,
       "name": "Bring That Giant Down",
       "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Glorious Appearing",
-        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 228997,
-      "name": "Glorious Appearing",
-      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -899,6 +867,38 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Glorious Appearing",
+        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 228997,
+      "name": "Glorious Appearing",
+      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Come On In",
         "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 231066,
       "name": "Cast My Care",
       "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Brighten The Corner Where You Are (Radio Edit)",
-        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
-      },
-      "artists": [
-        {
-          "name": "The Browns",
-          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
-        }
-      ],
-      "duration_ms": 149545,
-      "name": "Brighten The Corner Where You Are - Radio Edit",
-      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -963,22 +947,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Give Me Jesus",
-        "url": "https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg"
+        "name": "Brighten The Corner Where You Are (Radio Edit)",
+        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
       },
       "artists": [
         {
-          "name": "Lynda Randle",
-          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
-        },
-        {
-          "name": "Kimberly Schlapman",
-          "url": "https://open.spotify.com/artist/7ySCRbA1659u0QQUsDekoI"
+          "name": "The Browns",
+          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
         }
       ],
-      "duration_ms": 197760,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB"
+      "duration_ms": 149545,
+      "name": "Brighten The Corner Where You Are - Radio Edit",
+      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -995,6 +975,26 @@
       "duration_ms": 306462,
       "name": "Every Other Throne",
       "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Give Me Jesus",
+        "url": "https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg"
+      },
+      "artists": [
+        {
+          "name": "Lynda Randle",
+          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
+        },
+        {
+          "name": "Kimberly Schlapman",
+          "url": "https://open.spotify.com/artist/7ySCRbA1659u0QQUsDekoI"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "How Good The Good News Feels",
-        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "How Good The Good News Feels",
-      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The World Needs a Song",
         "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
       },
@@ -1075,26 +1059,6 @@
       "duration_ms": 222064,
       "name": "I Bring You Jesus",
       "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "How Great Thou Art",
-        "url": "https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S"
-      },
-      "artists": [
-        {
-          "name": "Kendra Kay",
-          "url": "https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ"
-        },
-        {
-          "name": "Jason Benoit",
-          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
-        }
-      ],
-      "duration_ms": 208010,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1115,6 +1079,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "How Good The Good News Feels",
+        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
+      },
+      "artists": [
+        {
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "How Good The Good News Feels",
+      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "The Lighthouse (50 Year Celebration)",
         "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 262212,
       "name": "The Lighthouse - 50 Year Celebration",
       "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S"
+      },
+      "artists": [
+        {
+          "name": "Kendra Kay",
+          "url": "https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ"
+        },
+        {
+          "name": "Jason Benoit",
+          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
+        }
+      ],
+      "duration_ms": 208010,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Am Not Alone",
-        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
+        "name": "Music To Your Ears",
+        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
       },
       "artists": [
         {
-          "name": "Jack Greene",
-          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
         }
       ],
-      "duration_ms": 178546,
-      "name": "King of Kings",
-      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
+      "duration_ms": 247500,
+      "name": "Let the Rain Wash Your Troubles Away",
+      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Music To Your Ears",
-        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
+        "name": "I Am Not Alone",
+        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
       },
       "artists": [
         {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+          "name": "Jack Greene",
+          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Let the Rain Wash Your Troubles Away",
-      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
+      "duration_ms": 178546,
+      "name": "King of Kings",
+      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Lord's Prayer",
-        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Lord's Prayer",
-      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Every Story Whispers His Name",
         "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 235000,
       "name": "Every Story Whispers His Name",
       "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Lord's Prayer",
+        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Lord's Prayer",
+      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
     },
     {
       "added_at": "2023-04-14 06:27:38",

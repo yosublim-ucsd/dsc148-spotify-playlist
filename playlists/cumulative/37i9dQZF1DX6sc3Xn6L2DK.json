@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 253666,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/2iUSOATtt6Y0Mm9zpJrq5G"
@@ -2210,6 +2210,24 @@
       "duration_ms": 262151,
       "name": "Turn on the Dark",
       "url": "https://open.spotify.com/track/5HV810LjKwzNg61eHL0RzH"
+    },
+    {
+      "album": {
+        "name": "Home on the Rage",
+        "url": "https://open.spotify.com/album/4pZPvj5V4jfJLzPZ63LWvg"
+      },
+      "artists": [
+        {
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262151,
+      "name": "Turn on the Dark",
+      "url": "https://open.spotify.com/track/5KMFDh9PK8ubrWtnpDefG1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: MAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,800 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,799 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 24 | [Poranki są do dupy](https://open.spotify.com/track/6oLxMtabyKBVpeItMBPSND) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Poranki są do dupy](https://open.spotify.com/album/3TecZo5L4k0SYXuHGlqYvD) | 2:35 |
 | 25 | [Feed My Hunger \(No Shade\)](https://open.spotify.com/track/0hsjCTNkruMDApePUJZMKv) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Feed My Hunger \(No Shade\)](https://open.spotify.com/album/6IpuoQShDOYowPqkxzG8Ku) | 2:24 |
 | 26 | [Kapitał](https://open.spotify.com/track/076XHfTDuN1nqeseWLNMcj) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [Kapitał](https://open.spotify.com/album/3B1tI4mwm8eIVvOeMcssNF) | 2:20 |
-| 27 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 |
-| 28 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
+| 27 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
+| 28 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 |
 | 29 | [Le$bijka](https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Le$bijka](https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2) | 2:49 |
 | 30 | [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 4:07 |
 | 31 | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z) | 2:38 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 33 | [Straty](https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms) | 4:04 |
 | 34 | [Bolt](https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Bolt](https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62) | 3:36 |
 | 35 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 |
-| 36 | [Barbie](https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 2:21 |
-| 37 | [FOMO](https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [FOMO](https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ) | 3:44 |
+| 36 | [FOMO](https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [FOMO](https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ) | 3:44 |
+| 37 | [Barbie](https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 2:21 |
 | 38 | [PINOKIO](https://open.spotify.com/track/4kvWYKebH6wY9lXlOdoTLf) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [PINOKIO](https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l) | 2:22 |
 | 39 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 |
 | 40 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 47 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
 | 48 | [Nieludzie \(Ignorance Ha\)](https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 5:05 |
 | 49 | [Technikolor](https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Twoja Stara](https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ), [Lola Eyeonyou Potocki](https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP) | [Technikolor](https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc) | 3:50 |
-| 50 | [Kimkolwiek chcę](https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Kimkolwiek chcę](https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve) | 2:54 |
-| 51 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
+| 50 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
+| 51 | [Kimkolwiek chcę](https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Kimkolwiek chcę](https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve) | 2:54 |
 | 52 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
 | 53 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 | 54 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
-| 55 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
-| 56 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
+| 55 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
+| 56 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
 | 57 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
 | 58 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
 | 59 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
 | 60 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 |
 
-Snapshot ID: `MCxiMmQ2YTZiYjdjOWViZjczOTRjYzVkMTc1NTM0ZmQ3YTg2N2UyMThj`
+Snapshot ID: `MCwyMTBiMTIxZWI5MmMxZTg0MTljY2I0ZWVlZGYzZmI5YTA4NGUzOTg1`

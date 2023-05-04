@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Adi Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,029 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,147 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 30 | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP) | 4:50 |
 | 31 | [Funk Money](https://open.spotify.com/track/1Y5VqpjzxCSMNYpT81LvBt) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Games Change](https://open.spotify.com/album/6YhSgWYRG0Z2543CY3gtjv) | 4:35 |
 | 32 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
-| 33 | [GOODTIME](https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS) | 3:42 |
+| 33 | [Goodtime](https://open.spotify.com/track/34nfyP7ueTwzo08p1ALm31) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [Goodtime](https://open.spotify.com/album/7mDDcLEWTPayHYopYr9cdl) | 3:42 |
 | 34 | [Goddam \- Action Paxton Remix](https://open.spotify.com/track/6v1Zd8skfPZQlnvthw8aIS) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Action Paxton](https://open.spotify.com/artist/7cjO66A26r7pMsU6TlW2UZ), [Olivia Ruff](https://open.spotify.com/artist/3O1CAgZV8ApmbL09LcNBr8), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Brasstronix](https://open.spotify.com/artist/66nvszvZCPMR1Em1wfZwe2) | [Goddam \(Action Paxton Remix\)](https://open.spotify.com/album/5Jez6tgeNcRHVeZLvyAF14) | 4:33 |
 | 35 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 |
 | 36 | [Unshakable](https://open.spotify.com/track/3BIGoqltdL4NJOyAZvGQHu) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Unshakable](https://open.spotify.com/album/6B0tuDpdjRkvd6s98Hy5gK) | 5:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Like, Maybe](https://open.spotify.com/track/18UpaCZZX1daAljhgpUd0R) | [Kalu & The Electric Joint](https://open.spotify.com/artist/1OQOcvFKUjJLSHC5gdAkbt) | [Like, Maybe](https://open.spotify.com/album/0WqzN6rft3aP7MA3SNSodv) | 3:35 |
 | 100 | [Golden Limousine](https://open.spotify.com/track/2HpWy9P6ZXXWVOsJYMXKQ2) | [Golden Dawn Arkestra](https://open.spotify.com/artist/7b0pvMSrnBWY6s6DA00YMK) | [Golden Limousine](https://open.spotify.com/album/6hQKaMdKjJBW8GXATUl5mt) | 2:50 |
 
-Snapshot ID: `MCw3OWYwOTRjMWFkYjRjODFjMWIxNTY1ZGNjNDJiMjg2Y2M2Y2NhMGU2`
+Snapshot ID: `MCxlMGU1Yzc1YzkwOTJiYWNiMTU5Yjg3OGI2Y2M3YjczYTNmYjFiOGJl`

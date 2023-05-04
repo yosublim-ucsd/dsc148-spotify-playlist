@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Willie Nelson & Billy Strings. Happy 90th Willie! ",
-  "num_followers": 120877,
+  "num_followers": 120949,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmJkZDViMTdlMDQwOWRhMjc3MWVlZjFkNDFlMmU2YmVmYjRjOTY5",
+  "snapshot_id": "MCxkZDFhZmViODQxMDA4NjhiMWU0YWMzMjZlNGVmMTI2MjY0N2IwZDA2",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/2t78M1HYDWaiBqU7bzrgeg"
+      },
+      "artists": [
+        {
+          "name": "Billy Gilman",
+          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1HtXFOJnsyKNIsFnk2MySA"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "White Freight Liner Blues (feat. Molly Tuttle)",
         "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 256000,
       "name": "White Freight Liner Blues (feat. Molly Tuttle)",
       "url": "https://open.spotify.com/track/4pIsyjHTDweaJDyQl6dMrd"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/2t78M1HYDWaiBqU7bzrgeg"
-      },
-      "artists": [
-        {
-          "name": "Billy Gilman",
-          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/1HtXFOJnsyKNIsFnk2MySA"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Arm in Arm",
+        "url": "https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Honey on My Tongue",
+      "url": "https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Rosa Lee McFall (Live)",
-        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
       },
       "artists": [
         {
-          "name": "Black Mountain Boys",
-          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
-        },
-        {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
         }
       ],
-      "duration_ms": 150575,
-      "name": "Rosa Lee McFall - Live",
-      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1455,6 +1451,26 @@
       "duration_ms": 224800,
       "name": "Message From Heaven",
       "url": "https://open.spotify.com/track/5T2x4bRxNJJ7DxZVccf0WK"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Rosa Lee McFall (Live)",
+        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain Boys",
+          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 150575,
+      "name": "Rosa Lee McFall - Live",
+      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Arm in Arm",
-        "url": "https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR"
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 203346,
-      "name": "Honey on My Tongue",
-      "url": "https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH"
+      "duration_ms": 295773,
+      "name": "Time We Made Time",
+      "url": "https://open.spotify.com/track/24HWipFuiz7vilAlQuoCaE"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1579,6 +1595,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Laws Of Gravity",
+        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "1901: A Canyon Odyssey",
+      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "What the Years Do",
         "url": "https://open.spotify.com/album/3XU0wy0OBrqc3ewwtV1K5T"
       },
@@ -1595,18 +1627,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Laws Of Gravity",
-        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
+        "name": "Spirit to the Sea",
+        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 275973,
-      "name": "1901: A Canyon Odyssey",
-      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
+      "duration_ms": 239346,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1631,22 +1663,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Spirit to the Sea",
-        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Last Chance",
-      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Tall Tales & Fables",
         "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 177414,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Time We Made Time",
-      "url": "https://open.spotify.com/track/24HWipFuiz7vilAlQuoCaE"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Paint This Town",
-        "url": "https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 252160,
-      "name": "Gloryland",
-      "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 139000,
       "name": "Maybelle",
       "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Paint This Town",
+        "url": "https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Gloryland",
+      "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
     },
     {
       "added_at": "2023-04-28 04:01:00",

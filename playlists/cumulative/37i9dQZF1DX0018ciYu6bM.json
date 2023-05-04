@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 187133,
       "name": "55 (Feat. Yerin Baek, WENDY)",
       "url": "https://open.spotify.com/track/1is7aJgbVS67fEMTAjh4mX"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 197120,
       "name": "CALLING",
       "url": "https://open.spotify.com/track/5NibycDD14103N4SpuTSe6"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 185600,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5725iqZgzHvcHEUCRPmaj4"
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 177053,
       "name": "Hidden Side",
       "url": "https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh"
@@ -4258,7 +4258,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 206360,
       "name": "NEW DAYZ",
       "url": "https://open.spotify.com/track/5WfZIXUF0PlUMUcETTpk7t"
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 197226,
       "name": "O (Circle)",
       "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
@@ -4584,7 +4584,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 194386,
       "name": "P.O.W! (Play On the World)",
       "url": "https://open.spotify.com/track/2FgeeDfd0MeBi1bT8MP6ni"
@@ -4686,6 +4686,24 @@
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
+    },
+    {
+      "album": {
+        "name": "Perfume - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
+      },
+      "artists": [
+        {
+          "name": "NCT DOJAEJUNG",
+          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
     },
     {
       "album": {
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 182733,
       "name": "Real Love Still Exists",
       "url": "https://open.spotify.com/track/0lJxsFybSunQWH4MQNIyCo"
@@ -6572,7 +6590,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 196386,
       "name": "The Film",
       "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
@@ -6941,6 +6959,28 @@
     },
     {
       "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182148,
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
+    },
+    {
+      "album": {
         "name": "Universe - The 3rd Album",
         "url": "https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB"
       },
@@ -7292,6 +7332,24 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "album": {
+        "name": "WIND AND WISH",
+        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221466,
+      "name": "Wind And Wish",
+      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 54218,
+  "num_followers": 54301,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzdhYjY1NmQyNTY4NDhiMWViMzA3MmE4Mjg5Nzk1MzJkYjYwZjMy",
+  "snapshot_id": "MCwxYmI1ZjM0ZTc5YTI0ODRjZDc4YjQ0YjFiNjZkNTQwNDdjNDM1OTAz",
   "tracks": [
     {
       "added_at": "2023-02-21 15:13:27",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "Avery*sunshine Album",
         "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Lazy Days",
         "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
       },
@@ -415,42 +415,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
-      },
-      "artists": [
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Find A Way",
-      "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 229403,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -467,6 +431,22 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
+      },
+      "artists": [
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -507,6 +487,26 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Let My People Go",
-      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "L.A.B",
         "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 280600,
       "name": "Ain't No Use",
       "url": "https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "Let My People Go",
+      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -623,38 +623,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 415742,
-      "name": "...Til the Cops Come Knockin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
-      },
-      "artists": [
-        {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
-        }
-      ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
@@ -675,6 +643,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 415742,
+      "name": "...Til the Cops Come Knockin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 301960,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+        "name": "True to Myself",
+        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
       "artists": [
         {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
         }
       ],
-      "duration_ms": 293400,
-      "name": "Spend The Night",
-      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+      "duration_ms": 240360,
+      "name": "Spiritual Thang",
+      "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "True to Myself",
-        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
       "artists": [
         {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
         }
       ],
-      "duration_ms": 240360,
-      "name": "Spiritual Thang",
-      "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
+      "duration_ms": 293400,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213192,
-      "name": "Blue Magic (Waikiki)",
-      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Honest Man",
         "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 325145,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213192,
+      "name": "Blue Magic (Waikiki)",
+      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -835,6 +835,22 @@
       "duration_ms": 212116,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
+    },
+    {
+      "added_at": "2023-05-04 01:09:42",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
+        "name": "Soul of a Woman",
+        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
       },
       "artists": [
         {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 199520,
-      "name": "Positivity",
-      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
+      "duration_ms": 176560,
+      "name": "Come and Be a Winner",
+      "url": "https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -919,6 +935,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Positivity",
+      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
@@ -931,38 +963,6 @@
       "duration_ms": 286960,
       "name": "True",
       "url": "https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
-        "name": "Soul of a Woman",
-        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Come and Be a Winner",
-      "url": "https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x"
-    },
-    {
-      "added_at": "2023-05-03 01:09:39",
-      "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 195086,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
+        "name": "100 Days, 100 Nights",
+        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
       },
       "artists": [
         {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+      "duration_ms": 225133,
+      "name": "100 Days, 100 Nights",
+      "url": "https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "100 Days, 100 Nights",
-        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 225133,
-      "name": "100 Days, 100 Nights",
-      "url": "https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh"
+      "duration_ms": 214666,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Bless My Soul",
         "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 226290,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 175829,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1w7lmZQuLm9AXIWoLD7Qbt"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/5NBpmO0VbAQYjXXCZ2QYLd"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "Soul Power",
         "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
       },
@@ -1319,34 +1335,26 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "My Home (Love Brings Us Here) - Single",
-        "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
       },
       "artists": [
         {
-          "name": "Jon Mero",
-          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
-        }
-      ],
-      "duration_ms": 213983,
-      "name": "My Home (Love Brings Us Here)",
-      "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
-        "name": "Bags & Suitcases",
-        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
-      },
-      "artists": [
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
+      "duration_ms": 208418,
+      "name": "Things We Do for Love",
+      "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
     }
   ],
   "unique_name": "Soulful Day",

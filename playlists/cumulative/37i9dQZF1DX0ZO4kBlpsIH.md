@@ -4,13 +4,14 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-157 songs - 7 hr 43 min
+158 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Accordeon Sur Seine](https://open.spotify.com/track/6maobgJ1IUx7o0mHZgnIH2) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France \(La France authentique\)](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:50 | 2022-11-25 |  |
 | [Alone](https://open.spotify.com/track/0u1Z6QGnebrQTI00Ep05rZ) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Alone](https://open.spotify.com/album/1OTHiYWUd2C9xeCXyTQlMN) | 3:30 | 2022-02-18 | 2022-07-29 |
-| [Alone](https://open.spotify.com/track/1LLvGyC6OfyrE06zrdkZg2) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/3B9vXnaS3md9FibgkwyczM) | 3:30 | 2022-02-18 |  |
+| [Alone](https://open.spotify.com/track/1LLvGyC6OfyrE06zrdkZg2) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/3B9vXnaS3md9FibgkwyczM) | 3:30 | 2022-02-18 | 2023-05-04 |
+| [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 | 2023-05-03 |  |
 | [Amarcord](https://open.spotify.com/track/5FRQe614oqDkHGf4LVZCr9) | [Les Musettes de Montmartre](https://open.spotify.com/artist/7DsLMRMVsh4L7LcwWpps2j) | [More Accordions Of Paris](https://open.spotify.com/album/1No7DEy8vVaAmqYmVSaY6r) | 3:32 | 2022-11-25 |  |
 | [Amor del Bajo Corrales](https://open.spotify.com/track/1ULkKtUQyODQheFCYbuXHZ) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 3:28 | 2022-11-25 |  |
 | [Amour, Mon Cher Amour](https://open.spotify.com/track/7je6JyunzZyZ0FSEfkpgMg) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8) | [Swinging with Jimmy Rosenberg](https://open.spotify.com/album/4z1txNSbOCoJNtujT6Z6GR) | 3:12 | 2023-03-07 |  |

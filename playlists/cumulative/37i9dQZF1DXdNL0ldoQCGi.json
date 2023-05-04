@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Lovezinho",
+        "url": "https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J"
+    },
+    {
+      "album": {
         "name": "* da Anitta",
         "url": "https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC"
       },
@@ -3518,24 +3536,6 @@
       "duration_ms": 163833,
       "name": "Love Gostosinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
-    },
-    {
-      "album": {
-        "name": "Lovezinho",
-        "url": "https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN"
-      },
-      "artists": [
-        {
-          "name": "Treyce",
-          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
-        }
-      ],
-      "date_added": "2023-02-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166875,
-      "name": "Lovezinho",
-      "url": "https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J"
     },
     {
       "album": {

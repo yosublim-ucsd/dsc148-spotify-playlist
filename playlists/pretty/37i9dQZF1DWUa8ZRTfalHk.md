@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,982,940 likes - 86 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,984,036 likes - 86 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 85 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 |
 | 86 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 
-Snapshot ID: `MCwyNjBjZTlmNDgwNmFmODQ5ZjY1MDIyYWI4NTRhMDAyZjFhZDhmNWQ4`
+Snapshot ID: `MCw1YmM1MTgxZmI2OWE5OGUxNDg2M2UyNmUxOWJjNmE2ODFmNTg3NjBi`

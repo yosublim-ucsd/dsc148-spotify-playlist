@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 87611,
+  "num_followers": 87668,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU0Y2Y5OGY2NzJkY2VjNGE4YjE5ZmVlMGY2MTQ1NDE2NmEzZGJk",
+  "snapshot_id": "MCw3ZDFkYmRkNzBiNmVkZmJlMmE1YzQ5OGU3ODE5NWM0Nzc3NDJjMjQ4",
   "tracks": [
     {
       "added_at": "2023-05-02 16:14:39",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-02 16:14:39",
       "album": {
-        "name": "Dreams (The Campfire Sessions)",
-        "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Dreams - The Campfire Sessions",
-      "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
-    },
-    {
-      "added_at": "2023-05-02 16:14:39",
-      "album": {
         "name": "Feeling Whitney",
         "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 217034,
       "name": "Feeling Whitney",
       "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
+    },
+    {
+      "added_at": "2023-05-02 16:14:39",
+      "album": {
+        "name": "Dreams (The Campfire Sessions)",
+        "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Dreams - The Campfire Sessions",
+      "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
     },
     {
       "added_at": "2023-05-02 16:14:39",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2023-05-02 16:14:39",
       "album": {
-        "name": "Outskirts of Heaven",
-        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
       },
       "artists": [
         {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+          "name": "Chris Ruediger",
+          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
+        },
+        {
+          "name": "The 615 House",
+          "url": "https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q"
         }
       ],
-      "duration_ms": 243545,
-      "name": "Outskirts of Heaven",
-      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
+      "duration_ms": 217200,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
     },
     {
       "added_at": "2023-05-02 16:14:39",
@@ -1379,22 +1383,18 @@
     {
       "added_at": "2023-05-02 16:14:39",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
+        "name": "Outskirts of Heaven",
+        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
       },
       "artists": [
         {
-          "name": "Chris Ruediger",
-          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
-        },
-        {
-          "name": "The 615 House",
-          "url": "https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q"
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
+      "duration_ms": 243545,
+      "name": "Outskirts of Heaven",
+      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
     },
     {
       "added_at": "2023-05-02 16:14:39",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-05-02 16:14:39",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
         }
       ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+      "duration_ms": 186346,
+      "name": "Wild And Blue",
+      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
     },
     {
       "added_at": "2023-05-02 16:14:39",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-05-02 16:14:39",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 186346,
-      "name": "Wild And Blue",
-      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-05-02 16:14:39",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-05-02 16:14:39",
       "album": {
-        "name": "Night Life",
-        "url": "https://open.spotify.com/album/5UbF3KhUkJBy3iYWdvrs5N"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Night Life",
-      "url": "https://open.spotify.com/track/0z73ztDPP0iDsCkvxxBPQf"
-    },
-    {
-      "added_at": "2023-05-02 16:14:39",
-      "album": {
         "name": "Your Body Is a Wonderland",
         "url": "https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 217659,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw"
+    },
+    {
+      "added_at": "2023-05-02 16:14:39",
+      "album": {
+        "name": "Night Life",
+        "url": "https://open.spotify.com/album/5UbF3KhUkJBy3iYWdvrs5N"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Night Life",
+      "url": "https://open.spotify.com/track/0z73ztDPP0iDsCkvxxBPQf"
     }
   ],
   "unique_name": "Country Covers",

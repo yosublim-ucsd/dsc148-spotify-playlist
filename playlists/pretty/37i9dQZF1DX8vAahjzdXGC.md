@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Anggi Marito, Mario G Klau
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,274 likes - 96 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,301 likes - 96 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 95 | [Kongo Rikishi Statues](https://open.spotify.com/track/5riTEMLGYZl1NAyJ6VDNTz) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [RABBIT STAR ★](https://open.spotify.com/album/2BRgQmmR9jovRrDgkZbtDx) | 3:28 |
 | 96 | [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 |
 
-Snapshot ID: `MCw5NWRlMTdhZDdjZmI1ZDIwZjE5NWM2Yjc4YzA4NjZkODIxMTJhM2M0`
+Snapshot ID: `MCxkYjczNjdkMGZiZWI3OTc4ODgzYTFkMzI2Yzk3OTIwZTliNWU0OTBj`

@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-82 songs - 6 hr 31 min
+83 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Moonlight](https://open.spotify.com/track/6rrATKJB6UFjwK3CGvoRqK) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [N@OM1](https://open.spotify.com/artist/1mCXXd6kgTl6zLQ20KRFn8) | [Moonlight](https://open.spotify.com/album/1oGWt4uKWXHx6kR9gQPLB1) | 2:41 | 2022-08-19 | 2023-02-18 |
 | [Mwizi I](https://open.spotify.com/track/5a63J7bbhFrVvMBra0Gsne) | [Nabalayo](https://open.spotify.com/artist/6VLoIsF1KmrGxa5f2y0Uyz), [NKC](https://open.spotify.com/artist/07SeyItME34CSi1sZ4GYF4) | [Mwizi](https://open.spotify.com/album/2EdL2lTcgDGursdwYZq5t6) | 3:34 | 2022-08-01 | 2022-11-12 |
 | [My Heart](https://open.spotify.com/track/5vJoZemSLeeUhRjgB2Tz8w) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [My Heart](https://open.spotify.com/album/5YVh5IwF22UwnE6sQ6qv9x) | 2:24 | 2022-09-30 | 2023-04-01 |
-| [Mzuzi Park](https://open.spotify.com/track/1CtmlLBB4dAzTdBXNAt4d2) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mzuzi Park](https://open.spotify.com/album/7HyH6hOrjSFGTsg9Y4CeH6) | 8:13 | 2022-08-01 |  |
+| [Mzuzi Park](https://open.spotify.com/track/0KHKdCpEbvDyJxvMRVJkZG) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mzuzi Park](https://open.spotify.com/album/1dJXbNR32lgYW7Pr54e2Sk) | 8:13 | 2023-04-06 |  |
+| [Mzuzi Park](https://open.spotify.com/track/1CtmlLBB4dAzTdBXNAt4d2) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mzuzi Park](https://open.spotify.com/album/7HyH6hOrjSFGTsg9Y4CeH6) | 8:13 | 2022-08-01 | 2023-05-04 |
 | [Need You Here \- Classic Radio Cut](https://open.spotify.com/track/2k59VYohDddyeVXdvTb5lw) | [DJ Vivona](https://open.spotify.com/artist/2MrGECnmnJ6NsokRk4QHkz) | [Need You Here \(Classic Radio Cut\)](https://open.spotify.com/album/1UI4n5553dSQo8buWlIlgH) | 3:25 | 2022-08-01 |  |
 | [Njaula Ibe](https://open.spotify.com/track/2rLlcbVQ2jsB1VOpWy5n6s) | [Dino and Terry](https://open.spotify.com/artist/4hqAO5iManFwimCILkz47U), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [Njaula Ibe](https://open.spotify.com/album/7F5UexBPN27lepE3dPNiPw) | 7:31 | 2022-08-01 |  |
 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 | 2022-08-01 |  |

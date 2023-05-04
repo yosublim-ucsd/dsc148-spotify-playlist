@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,649 likes - 54 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,767 likes - 54 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 53 | [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 |
 | 54 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
 
-Snapshot ID: `MCw5YjVlMTMxODVkN2YwODVlZjJjZmVhNmY2YWZmYjBhOTk3MGUwMjk5`
+Snapshot ID: `MCxmNzE5OGZkODliOTlkMzYyZDlhZTk0NmViNGY2YjZhNGI3MGEyZTU1`

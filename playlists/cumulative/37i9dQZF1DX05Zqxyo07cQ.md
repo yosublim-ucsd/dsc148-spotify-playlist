@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-340 songs - 16 hr 52 min
+341 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2023-03-23 |  |
 | [Dreaming](https://open.spotify.com/track/5ewuV9PoExpWPIedXbEIJv) | [Wes Jools](https://open.spotify.com/artist/2Tsae4bvjzn4Xtc8EhQrdG) | [Dreaming](https://open.spotify.com/album/2mua8SuagF4jqz05kI6JeR) | 3:14 | 2023-03-23 |  |
 | [Dreaming Of Dust](https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Dreaming Of Dust](https://open.spotify.com/album/0oJreCCMV1gBvlV3ibowI7) | 2:50 | 2023-03-23 |  |
-| [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2023-03-23 |  |
+| [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2023-03-23 | 2023-05-04 |
+| [drifting](https://open.spotify.com/track/6OgdBT8iNZJNmidOy2ImdF) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity, vol\. ii \(sleep\)](https://open.spotify.com/album/4OAWLl91Aso1DTKL4I8AL8) | 2:45 | 2023-03-23 |  |
 | [Duende](https://open.spotify.com/track/3MbMFTSftlRSYJe58yqBDl) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Duende](https://open.spotify.com/album/3u88cMLMZy9LWwdIHBOUJo) | 3:12 | 2023-03-23 |  |
 | [Dust](https://open.spotify.com/track/3P8JdN7l1cFkcMVkJHOHhF) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Dust](https://open.spotify.com/album/4JazgpRV9g6wD03c4excvY) | 2:56 | 2023-03-23 |  |
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2023-03-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3175,
+  "num_followers": 3178,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGJkMjg4ZjliMGQ5OTUyZTI0NjM5NTg0M2QzOGQxYTc5NzgwYzYx",
+  "snapshot_id": "MCxjMjdjY2Y3MmQ1MTkwYTJkZjkwZDUwMGY1ZjNlZDNmZGI5OGU1MDI0",
   "tracks": [
     {
       "added_at": "2023-02-24 08:51:34",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 229450,
       "name": "COMPASS (Feat. UNEDUCATED KID, SUPERBEE) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/3drPHXPtY4FQ4H55QVLHbY"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -967,8 +967,8 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+        "name": "MARZ 2 AMBITION",
+        "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
       },
       "artists": [
         {
@@ -976,13 +976,13 @@
           "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
+      "duration_ms": 152921,
+      "name": "TRUE (Prod. by Way Ched)",
+      "url": "https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1037,26 +1037,6 @@
       "url": "https://open.spotify.com/track/18KL3cwcbZ5bOlfo9y94h0"
     },
     {
-      "added_at": "2023-05-03 00:13:42",
-      "album": {
-        "name": "It's Your Turn (Feat. Futuristic Swaver)",
-        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
-      },
-      "artists": [
-        {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        },
-        {
-          "name": "Futuristic Swaver",
-          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
-        }
-      ],
-      "duration_ms": 193174,
-      "name": "It's Your Turn (Feat. Futuristic Swaver)",
-      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
-    },
-    {
       "added_at": "2023-02-24 08:51:34",
       "album": {
         "name": "Show Me The Money 9 Semi Final",
@@ -1085,10 +1065,30 @@
       "url": "https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP"
     },
     {
+      "added_at": "2023-05-04 00:57:46",
+      "album": {
+        "name": "It's Your Turn (Feat. Futuristic Swaver)",
+        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "Futuristic Swaver",
+          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+        }
+      ],
+      "duration_ms": 193174,
+      "name": "It's Your Turn (Feat. Futuristic Swaver)",
+      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
+    },
+    {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "MARZ 2 AMBITION",
-        "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
       },
       "artists": [
         {
@@ -1096,13 +1096,13 @@
           "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
         }
       ],
-      "duration_ms": 152921,
-      "name": "TRUE (Prod. by Way Ched)",
-      "url": "https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz"
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "Boys and Girls",
+        "url": "https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        }
+      ],
+      "duration_ms": 208771,
+      "name": "Predator",
+      "url": "https://open.spotify.com/track/0U90SCa9RwlfQOKAwRdawq"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "SAVED MY LIFE",
         "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 229106,
       "name": "SAVED MY LIFE (Prod. Kidstone)",
       "url": "https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "Boys and Girls",
-        "url": "https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "J-Tong",
-          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
-        }
-      ],
-      "duration_ms": 208771,
-      "name": "Predator",
-      "url": "https://open.spotify.com/track/0U90SCa9RwlfQOKAwRdawq"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "P.O.E.M. II",
-        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
         "name": "TELEVISION",
         "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 176244,
       "name": "Genius (Behind the scene)",
       "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
+        "name": "P.O.E.M. II",
+        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1787,46 +1787,6 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "THE STRANGER",
-        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 161631,
-      "name": "GOT TO KNOW",
-      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "RESPECT",
-        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "DJ Pumkin",
-          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
-      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
         "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
         "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
@@ -1855,6 +1815,62 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
+      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
+        "name": "THE STRANGER",
+        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 161631,
+      "name": "GOT TO KNOW",
+      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
+        "name": "SKANDALOUZ",
+        "url": "https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Smile Now Cry Later",
+      "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "Show Me the Money 5 Episode 3",
         "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 218333,
       "name": "RAPSTAR - Remix",
       "url": "https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "SKANDALOUZ",
-        "url": "https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh"
-      },
-      "artists": [
-        {
-          "name": "Los",
-          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Smile Now Cry Later",
-      "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "First Rollie",
+        "url": "https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "First Rollie (feat. Seori)",
+      "url": "https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -2003,26 +2023,6 @@
       "duration_ms": 182500,
       "name": "Up up and away",
       "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "First Rollie",
-        "url": "https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "First Rollie (feat. Seori)",
-      "url": "https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO"
     },
     {
       "added_at": "2023-02-24 08:51:34",

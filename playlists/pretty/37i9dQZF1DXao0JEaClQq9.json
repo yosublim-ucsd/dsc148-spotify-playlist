@@ -1,12 +1,12 @@
 {
   "description": "eclectic ethereal feeling. cover: Ethel Cain ",
-  "num_followers": 1605715,
+  "num_followers": 1605820,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmUyOTRmZjFkNjk0MDZhZWJmNWFjZjk3NDljZjg0NmMwZDQyM2Jk",
+  "snapshot_id": "MCw0Mzk4YjkzYmZjNGYyYzc4NmZmYTJlMmE4MWZkNGJhZDZjOTk2NGNi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 199576,
+      "name": "Love Is Complicated (The Angels Sing)",
+      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Black Panther: Wakanda Forever (Original Score)",
         "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 160226,
       "name": "Con La Brisa - Film Version",
       "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 199576,
-      "name": "Love Is Complicated (The Angels Sing)",
-      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
     },
     {
       "added_at": "2023-04-28 04:00:00",

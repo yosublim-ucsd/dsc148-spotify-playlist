@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,995 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,279 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 24 | [Acerola \- Acústico de Quarto](https://open.spotify.com/track/1Esf1j2uWbOAufzBeg04SA) | [Murart](https://open.spotify.com/artist/4NdgoC7JkkljrX2Q0sY5ax) | [Acerola \- Acústico de Quarto](https://open.spotify.com/album/794ujyiDhWd7ELbpBGfWLS) | 1:13 |
 | 25 | [Combinadinho](https://open.spotify.com/track/3o1wkALMRxFgotr82yUnSY) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Combinadinho](https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm) | 2:43 |
 | 26 | [A Caminho do Bega \[Piseiro Remix\] \(feat\. Dj Mizzontti\)](https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna), [Dj Mizzontti](https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu) | [A Caminho do Bega \[Piseiro Remix\]](https://open.spotify.com/album/1iHsaiSw8TCeXR1EAni3RL) | 2:16 |
-| 27 | [Lovezinho](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 2:46 |
+| 27 | [](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 0:00 |
 | 28 | [Love Absurdo](https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Love Absurdo](https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS) | 3:04 |
 | 29 | [De Love](https://open.spotify.com/track/24yhU1uQVX0u5Rvc0gProL) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [De Love](https://open.spotify.com/album/09GN4TaBw3LneSw4MBYdt6) | 3:07 |
 | 30 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 79 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 80 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MCxmMTUxMTliMmJmNDMxMDQwNmMyM2RjZTI4MGYzZDhhY2M1ZjZkYjc3`
+Snapshot ID: `MCw5Y2Y1YzYwNWRmMDNjNGQxMjk1MTE3YWU5ZjNhOTk5MzI0YWIxNjlk`

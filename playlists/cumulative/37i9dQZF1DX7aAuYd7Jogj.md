@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-319 songs - 15 hr 34 min
+320 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Downstream](https://open.spotify.com/track/3k5J26HJZ8tZHEGsg0s32u) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Downstream](https://open.spotify.com/album/1QYN4P1EHdrEIhMYBh17TD) | 2:38 | 2023-04-06 |  |
 | [Dreaming](https://open.spotify.com/track/5ewuV9PoExpWPIedXbEIJv) | [Wes Jools](https://open.spotify.com/artist/2Tsae4bvjzn4Xtc8EhQrdG) | [Dreaming](https://open.spotify.com/album/2mua8SuagF4jqz05kI6JeR) | 3:14 | 2023-04-06 |  |
 | [Dreaming In Red](https://open.spotify.com/track/6PSJuGFslPV78KN8OP6JJS) | [Sayono](https://open.spotify.com/artist/0LABSw5NxTGsqlRQxlGQHD) | [Dreaming In Red](https://open.spotify.com/album/4QXfujCE7LFkZInZb0BqVy) | 2:57 | 2023-04-06 |  |
-| [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2023-04-06 |  |
+| [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2023-04-06 | 2023-05-04 |
+| [drifting](https://open.spotify.com/track/6OgdBT8iNZJNmidOy2ImdF) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity, vol\. ii \(sleep\)](https://open.spotify.com/album/4OAWLl91Aso1DTKL4I8AL8) | 2:45 | 2023-04-21 |  |
 | [Dust](https://open.spotify.com/track/3P8JdN7l1cFkcMVkJHOHhF) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Dust](https://open.spotify.com/album/4JazgpRV9g6wD03c4excvY) | 2:56 | 2023-04-06 |  |
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2023-04-06 |  |
 | [Ease](https://open.spotify.com/track/2m6zb3XrNa0PXSzeOhJwCm) | [Savannah De Lucia](https://open.spotify.com/artist/34RbwsKOFiGKnE7BE8zhQS) | [Ease](https://open.spotify.com/album/5MGZFRyxbDaBb0rMhMrGU7) | 3:12 | 2023-04-06 |  |

@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! LAGOS y Reik en portada.
 
-192 songs - 9 hr 48 min
+194 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dron](https://open.spotify.com/track/47oyxEeXMxF1SP5ednNw40) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Dron](https://open.spotify.com/album/3Y02AXXs6M8cUakBYDk7eq) | 3:50 | 2022-02-04 | 2022-05-28 |
 | [Duele](https://open.spotify.com/track/4jYQqB5VKgrKnlI37j8fxy) | [Nicole Gatti](https://open.spotify.com/artist/4j0wOwaGxwpKs2xrtvXqHE) | [Duele](https://open.spotify.com/album/3IN3b6roR8K0x3qp3BPyIt) | 2:56 | 2022-02-04 | 2022-05-11 |
 | [Déjame Vivir](https://open.spotify.com/track/39ulM5TbEcmHASRR2Bkq0f) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri) | [Déjame Vivir](https://open.spotify.com/album/7tg4v929DwQa3At5yFDUn5) | 3:56 | 2022-10-31 | 2022-11-15 |
-| [Dónde Se Fue](https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG) | [Mike Soto](https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV), [Exale](https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7) | [Dónde Se Fue](https://open.spotify.com/album/5hyqHil6N94D39opduIeCB) | 2:46 | 2023-03-31 |  |
+| [Dónde Se Fue](https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG) | [Mike Soto](https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV), [Exale](https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7) | [Dónde Se Fue](https://open.spotify.com/album/5hyqHil6N94D39opduIeCB) | 2:46 | 2023-03-31 | 2023-05-04 |
 | [Eclipse de Luna \- Edición Especial](https://open.spotify.com/track/3kYAIegzm6Ounx1nFg2mxa) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Eclipse de Luna \(Edición Especial\)](https://open.spotify.com/album/72B74qlICDqsf9R9mtSQWR) | 3:40 | 2022-05-20 | 2022-09-24 |
 | [efectos secundarios](https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [efectos secundarios](https://open.spotify.com/album/7sUapRkZsZTV4sBVxlcfpT) | 2:42 | 2022-02-04 | 2022-07-29 |
 | [En El Alma](https://open.spotify.com/track/68EoXsE22L4KIq6hYqsOOb) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [En el Alma](https://open.spotify.com/album/1DgBKSa074CmHpAxJ8XLJu) | 3:46 | 2023-03-31 |  |
@@ -84,7 +84,9 @@
 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 | 2022-02-04 |  |
 | [Las Olas](https://open.spotify.com/track/14fD8g1pDkKe2c4RCz5wcs) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Las Olas](https://open.spotify.com/album/2yiZJFl14NnysGLAFTt1CI) | 2:47 | 2022-02-04 | 2022-07-28 |
 | [Lero Lero](https://open.spotify.com/track/1cWFqqulhCa9AwJ4JLkKxo) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Lero Lero](https://open.spotify.com/album/3iKh5bekOIZxq1VNkuSsdG) | 2:53 | 2022-02-04 | 2022-06-22 |
+| [Ley Del Hielo](https://open.spotify.com/track/5hcaYoPMTKncvsqFp0L18a) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Ley Del Hielo](https://open.spotify.com/album/37ls9vGr8Rxc64O5ilmug1) | 3:14 | 2023-05-03 |  |
 | [Lo Que Dices Tú](https://open.spotify.com/track/2c9cEgblLoMa4l4Q0kIKOL) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [Lo Que Dices Tú](https://open.spotify.com/album/4rpMgn8Pcz7hTtlQkePys1) | 3:10 | 2022-02-18 | 2022-07-04 |
+| [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 | 2023-05-03 |  |
 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 | 2022-11-14 |  |
 | [Luna](https://open.spotify.com/track/2yPjrueRrY4svAPIxwLH6P) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Luna](https://open.spotify.com/album/21owSKMyhHoeYmPRihaDyL) | 2:46 | 2022-02-04 | 2022-07-22 |
 | [Mal Acompañada](https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Mal Acompañada](https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G) | 3:21 | 2022-02-04 | 2022-07-29 |
@@ -139,7 +141,7 @@
 | [Put Your Money](https://open.spotify.com/track/6SKIDMQzzPqT348oFTVr0N) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW) | [JUMP](https://open.spotify.com/album/08UCL77Bqi7KC6XSjkVgLN) | 3:18 | 2022-05-20 | 2022-05-31 |
 | [QCVH](https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [QCVH](https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G) | 2:16 | 2023-01-28 | 2023-02-25 |
 | [Que Hueva](https://open.spotify.com/track/3azbX22yptxcL69DQXyEbd) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [heartbreaker](https://open.spotify.com/album/2fpH8T5bUzB88IxqMjcT8y) | 2:55 | 2022-12-09 | 2023-02-11 |
-| [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 | 2022-06-03 |  |
+| [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 | 2022-06-03 | 2023-05-04 |
 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 | 2022-02-04 |  |
 | [Quédate](https://open.spotify.com/track/65gTApZvCndEZnnEGHayN1) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Quédate](https://open.spotify.com/album/3ibZ6PyJY3pJYIpJcmw6MP) | 3:18 | 2023-03-31 |  |
 | [Recuerdo contigo </3](https://open.spotify.com/track/6UsZkU73WoXh2i2qHjzguf) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Recuerdo contigo </3](https://open.spotify.com/album/1vobSeDg4RDZxUbCyDDk7s) | 3:08 | 2022-12-02 | 2023-01-29 |

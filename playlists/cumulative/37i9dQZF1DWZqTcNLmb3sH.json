@@ -11551,6 +11551,28 @@
     },
     {
       "album": {
+        "name": "Dasara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5uYOuJ1s0YW8gX8ywilGuW"
+      },
+      "artists": [
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Orr Vaari",
+      "url": "https://open.spotify.com/track/6mXiWON7Ko2ozI2oFiD1iA"
+    },
+    {
+      "album": {
         "name": "Orr Vaari (From \"Dasara\") - Single",
         "url": "https://open.spotify.com/album/1WghIUiak89HN6PLTKQ55W"
       },
@@ -11570,7 +11592,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 223000,
       "name": "Orr Vaari (From \"Dasara\")",
       "url": "https://open.spotify.com/track/0ZwdlveEv5eyWlGW5aiG19"

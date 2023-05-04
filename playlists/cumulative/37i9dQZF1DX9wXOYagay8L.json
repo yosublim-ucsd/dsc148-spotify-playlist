@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "It's Namhla",
+        "url": "https://open.spotify.com/album/0OpfAkIflzmMf1GeDRrPLQ"
+      },
+      "artists": [
+        {
+          "name": "Namhla Bhadela",
+          "url": "https://open.spotify.com/artist/3cT7EKatUTeGdRu3MfTWjo"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218192,
+      "name": "Aware",
+      "url": "https://open.spotify.com/track/4cG8G1cMBrh45ZtqWHPQvt"
+    },
+    {
+      "album": {
         "name": "AYE KUWA (feat. CK THE DJ)",
         "url": "https://open.spotify.com/album/6i7TW4LDvICObUfCJ9Jcas"
       },

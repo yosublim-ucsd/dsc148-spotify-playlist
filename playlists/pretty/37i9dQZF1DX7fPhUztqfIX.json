@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 105019,
+  "num_followers": 105047,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDM0YWIyZmJlNjg1YjAxNWFiYjg5YjI1NGE1ZjU2MzE3MmVlOWQ4",
+  "snapshot_id": "MCxlZGY2ODgyNWEwZDY2YWRhMDcxNTQ4ZDQwY2ZlYjgzYTM3YTZhNTQ5",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "REBELS",
-        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        }
-      ],
-      "duration_ms": 390579,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "REBELS",
+        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "duration_ms": 390579,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "There\u2019s Nothing That Our God Can\u2019t Do (Radio Version)",
-        "url": "https://open.spotify.com/album/6V9emQ8EpVc31AAL6uWrmt"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 253706,
-      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Radio Version",
-      "url": "https://open.spotify.com/track/3sTH5twYNUS1twuAQUZtL1"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Carried",
         "url": "https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 366000,
       "name": "Through Every Season",
       "url": "https://open.spotify.com/track/6RJyHviV33RA8ssCL3ckOh"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "There\u2019s Nothing That Our God Can\u2019t Do (Radio Version)",
+        "url": "https://open.spotify.com/album/6V9emQ8EpVc31AAL6uWrmt"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 253706,
+      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Radio Version",
+      "url": "https://open.spotify.com/track/3sTH5twYNUS1twuAQUZtL1"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "duration_ms": 407190,
+      "name": "When It Comes to You",
+      "url": "https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Exalt (Worship Version)",
         "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 292840,
       "name": "Come Holy Spirit - Worship Version",
       "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "When It Comes to You",
-        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
-      },
-      "artists": [
-        {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
-        }
-      ],
-      "duration_ms": 407190,
-      "name": "When It Comes to You",
-      "url": "https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 242606,
-      "name": "Reputation",
-      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Fountain (I Am Good) [Live]",
         "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
       },
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Jesus Is The Key",
-        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
       },
       "artists": [
         {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 389187,
-      "name": "Jesus Is The Key",
-      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
+      "duration_ms": 242606,
+      "name": "Reputation",
+      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1715,6 +1699,22 @@
       "duration_ms": 261886,
       "name": "Before You",
       "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Jesus Is The Key",
+        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 389187,
+      "name": "Jesus Is The Key",
+      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Going Back",
-        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Mike Grayson",
-          "url": "https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Oh The Wonder (feat. Mike Grayson)",
-      "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Nothing To Fear (feat. Audrey Assad)",
         "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
       },
@@ -1787,6 +1767,42 @@
       "duration_ms": 184746,
       "name": "Nothing To Fear (feat. Audrey Assad)",
       "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "I Stand Amazed",
+        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
+      },
+      "artists": [
+        {
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "I Stand Amazed",
+      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Going Back",
+        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
+      },
+      "artists": [
+        {
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Mike Grayson",
+          "url": "https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1"
+        }
+      ],
+      "duration_ms": 260213,
+      "name": "Oh The Wonder (feat. Mike Grayson)",
+      "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1831,22 +1847,6 @@
       "duration_ms": 314693,
       "name": "Never See the End",
       "url": "https://open.spotify.com/track/7rPewRYX89xFF9C64DrcZQ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "I Stand Amazed",
-        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
-      },
-      "artists": [
-        {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "I Stand Amazed",
-      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+      },
+      "artists": [
+        {
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+        }
+      ],
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Never Going Back",
         "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
@@ -1979,18 +1995,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
       },
       "artists": [
         {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
         }
       ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+      "duration_ms": 341451,
+      "name": "Landslide - Radio Version",
+      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2031,22 +2047,6 @@
       "duration_ms": 281746,
       "name": "Living Proof - Live",
       "url": "https://open.spotify.com/track/48fSSUAlYJoq6CNmYc5RCw"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        }
-      ],
-      "duration_ms": 341451,
-      "name": "Landslide - Radio Version",
-      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "As For Me & My House (Live)",
+        "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
+      },
+      "artists": [
+        {
+          "name": "Austin & Lindsey Adamec",
+          "url": "https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r"
+        }
+      ],
+      "duration_ms": 321683,
+      "name": "As For Me & My House - Live",
+      "url": "https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Blessing (feat. Maranda Curtis) [Song Session]",
         "url": "https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 409909,
       "name": "The Blessing (feat. Maranda Curtis) - Song Session",
       "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "As For Me & My House (Live)",
-        "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
-      },
-      "artists": [
-        {
-          "name": "Austin & Lindsey Adamec",
-          "url": "https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r"
-        }
-      ],
-      "duration_ms": 321683,
-      "name": "As For Me & My House - Live",
-      "url": "https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 285690,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "When It Comes to You",
         "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 288777,
       "name": "How Deep",
       "url": "https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 285690,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc"
     },
     {
       "added_at": "2021-06-12 04:00:40",

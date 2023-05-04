@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Luz Pinos",
-  "num_followers": 54010,
+  "num_followers": 54019,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDU2ODAyODIxYzg0MTc5ZWJiZjNkNzZhMzk2NDg5Yzg1Mjk5NjBl",
+  "snapshot_id": "MCw1NDQzNDQyZTM4MzdmZjc1ZGYwNWNiOTQxOWQxODQzYTA2MjRjYTAx",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Azul Es Donde Siempre Estoy",
         "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ"
+      },
+      "artists": [
+        {
+          "name": "Walter Esa\u00fa",
+          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
+        }
+      ],
+      "duration_ms": 228306,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Lesbiandrama",
         "url": "https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ"
+        "name": "SAD",
+        "url": "https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E"
       },
       "artists": [
         {
-          "name": "Walter Esa\u00fa",
-          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
+          "name": "nano mundano",
+          "url": "https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl"
         }
       ],
-      "duration_ms": 228306,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK"
+      "duration_ms": 224693,
+      "name": "SAD",
+      "url": "https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -479,22 +495,6 @@
       "duration_ms": 171397,
       "name": "Entrar a la luna",
       "url": "https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "SAD",
-        "url": "https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E"
-      },
-      "artists": [
-        {
-          "name": "nano mundano",
-          "url": "https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "SAD",
-      "url": "https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "UY!",
-        "url": "https://open.spotify.com/album/26eLXyKicJJrQDxqg4RB25"
-      },
-      "artists": [
-        {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        },
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 136959,
-      "name": "UY!",
-      "url": "https://open.spotify.com/track/3xzbZlEFziTKAT9Id5oVdg"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -659,18 +639,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Track",
-        "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
+        "name": "UY!",
+        "url": "https://open.spotify.com/album/26eLXyKicJJrQDxqg4RB25"
       },
       "artists": [
         {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        },
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
         }
       ],
-      "duration_ms": 204241,
-      "name": "Track Track",
-      "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
+      "duration_ms": 136959,
+      "name": "UY!",
+      "url": "https://open.spotify.com/track/3xzbZlEFziTKAT9Id5oVdg"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 142106,
       "name": "<3",
       "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Track",
+        "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        }
+      ],
+      "duration_ms": 204241,
+      "name": "Track Track",
+      "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "La Luna",
         "url": "https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "Ni\u00f1a",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "miel <3",
         "url": "https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 203157,
       "name": "miel <3",
       "url": "https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 251199,
+      "name": "Como una Flecha",
+      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -807,22 +823,6 @@
       "duration_ms": 171605,
       "name": "Atada",
       "url": "https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "En Lo Que Llega La Primavera",
-        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 251199,
-      "name": "Como una Flecha",
-      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 165808,
       "name": "Particular",
       "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Canciones de Mal Gusto para Gente Depresiva",
-        "url": "https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx"
-      },
-      "artists": [
-        {
-          "name": "Aerobot",
-          "url": "https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ"
-        }
-      ],
-      "duration_ms": 192687,
-      "name": "Interludio en el Ata\u00fad",
-      "url": "https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Un1Berso",
         "url": "https://open.spotify.com/album/5Oc993tbcauXPDE4a12xLl"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 218959,
       "name": "Un1Berso",
       "url": "https://open.spotify.com/track/3i6r5ngWgDrvjyt4SaelaG"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Canciones de Mal Gusto para Gente Depresiva",
+        "url": "https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx"
+      },
+      "artists": [
+        {
+          "name": "Aerobot",
+          "url": "https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ"
+        }
+      ],
+      "duration_ms": 192687,
+      "name": "Interludio en el Ata\u00fad",
+      "url": "https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn"
     },
     {
       "added_at": "2023-04-21 03:00:00",

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-257 songs - 12 hr 57 min
+258 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [If I Disappear](https://open.spotify.com/track/5mIcxmKHXnhY1lJJDKJGxW) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Tom Mårtensson](https://open.spotify.com/artist/43Rudxki6fpPr4tX8F7BeU) | [If I Disappear](https://open.spotify.com/album/0QefDAEkbSEFUIXkbgZAl7) | 3:28 | 2022-05-06 | 2023-04-28 |
 | [If Looks Can Kill](https://open.spotify.com/track/01tiKfFX4FYKPbLWjDx0SD) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d) | [If Looks Can Kill](https://open.spotify.com/album/4dCEskpKoFGqaD7vcZFhfC) | 2:11 | 2023-04-27 |  |
 | [Ignite](https://open.spotify.com/track/4KucTjdHBmBQnWDuBEkx5x) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe), [22 Void Beats](https://open.spotify.com/artist/7HSsXPuibnpm1vpFZLQPIL), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Ignite](https://open.spotify.com/album/5TIQMdZH1peU8YK8tTyAdm) | 2:50 | 2023-04-05 |  |
+| [Ignite My Heart](https://open.spotify.com/track/4rtc115cnnZRxV0QXK18Bt) | [Adikop](https://open.spotify.com/artist/1bmpgDPBBF9GapFDg7DGA4), [Chris Ponate](https://open.spotify.com/artist/2qF3uIwfVNlgjIFfo9PXjo) | [Ignite My Heart](https://open.spotify.com/album/1k4mpBBEeWxDI7hg9LCMMY) | 2:40 | 2023-05-03 |  |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 |  |
 | [ILY](https://open.spotify.com/track/1CODxPEoQv5e0yJuOiLvbj) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off EP](https://open.spotify.com/album/2BdA0bIcagPyuUxevSv2mC) | 2:40 | 2022-12-07 | 2023-04-28 |
 | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/track/2RdwrJkx3swffe5ylzvfKR) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/album/3OqnZbyxed8WsO2D1wlEUj) | 4:30 | 2023-04-14 |  |

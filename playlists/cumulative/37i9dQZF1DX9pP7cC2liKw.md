@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-275 songs - 19 hr 21 min
+276 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Maré](https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:33 | 2022-06-15 |  |
 | [Mata e' Candil](https://open.spotify.com/track/2Cb6XimTN0rPdPocmiTFI7) | [Venezonix](https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6) | [La Que Es](https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt) | 3:02 | 2022-01-04 | 2022-07-24 |
 | [Mayahuel](https://open.spotify.com/track/7HbT88iSUcM6fnFTIZ5GZf) | [Sávila](https://open.spotify.com/artist/2MnzgTDDWD0KTonayeznfN) | [Mayahuel](https://open.spotify.com/album/62uYHxDORrNSyoA0wIPYIj) | 4:21 | 2022-08-13 | 2022-09-13 |
+| [Mañana Tepotzlan](https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr) | 4:00 | 2022-06-15 |  |
 | [Mañana Tepotzlan](https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ) | 4:00 | 2022-06-15 | 2023-04-30 |
 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 | 2022-09-16 | 2023-04-13 |
 | [Me veo volar](https://open.spotify.com/track/684XSgemiOaXwuRP5fbJSr) | [Coco Maria](https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge) | [Me veo volar](https://open.spotify.com/album/692XQsxRU27ZorpAlWhStR) | 4:19 | 2022-02-01 | 2022-07-28 |
@@ -271,7 +272,7 @@
 | [Túnel](https://open.spotify.com/track/4974yRfhueqSPopZgkNnpc) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [De Andén a Andén](https://open.spotify.com/album/5E4yoFUkfybAQnLmiqYOSl) | 5:35 | 2022-01-04 | 2022-05-21 |
 | [Un Canto](https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs) | [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Un Canto](https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B) | 4:44 | 2022-01-04 | 2022-07-29 |
 | [Urban Birds](https://open.spotify.com/track/1gwZfgadcwtAyeI45vHsyu) | [Praah Musique](https://open.spotify.com/artist/2Hdlwgmrlw5LiBSNMYroZG), [Steffen Kirchhoff](https://open.spotify.com/artist/2IhRhBRDWjjPRpPkOSRdmR), [Luna](https://open.spotify.com/artist/1eu4lobNeKHFfosZwFmWpZ) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/6xU0Z4LispiUofKEXrCQiJ) | 6:32 | 2022-04-17 | 2022-08-09 |
-| [Urban Birds](https://open.spotify.com/track/5FnQ4dsoSCUUY2LW0UzYdF) | [Praah Musique](https://open.spotify.com/artist/2Hdlwgmrlw5LiBSNMYroZG), [Steffen Kirchhoff](https://open.spotify.com/artist/2IhRhBRDWjjPRpPkOSRdmR), [Luna](https://open.spotify.com/artist/1eu4lobNeKHFfosZwFmWpZ) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/5j6v7TGXqQnxAo5njwHXUd) | 6:32 | 2022-06-15 |  |
+| [Urban Birds](https://open.spotify.com/track/5FnQ4dsoSCUUY2LW0UzYdF) | [Praah Musique](https://open.spotify.com/artist/2Hdlwgmrlw5LiBSNMYroZG), [Steffen Kirchhoff](https://open.spotify.com/artist/2IhRhBRDWjjPRpPkOSRdmR), [Luna](https://open.spotify.com/artist/1eu4lobNeKHFfosZwFmWpZ) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/5j6v7TGXqQnxAo5njwHXUd) | 6:32 | 2022-06-15 | 2023-05-04 |
 | [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 | 2022-01-04 | 2022-07-14 |
 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-08-08 | 2022-10-28 |
 | [Voyage](https://open.spotify.com/track/30iCh43omsKboQwN3OEd3Z) | [Tapioca](https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr) | [Voyage](https://open.spotify.com/album/4XJC4gEUO1tIZx2CbIVXbF) | 5:15 | 2022-04-07 | 2022-07-24 |

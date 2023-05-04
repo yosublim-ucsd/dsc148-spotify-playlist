@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-376 songs - 20 hr 54 min
+377 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Edge Of My Seat \- THUNDERBIRD Remix](https://open.spotify.com/track/2oTLO5bUVaNMuZYaevh0yf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4), [Thunderbird](https://open.spotify.com/artist/5VxO478AntJVva4bXjGzLE) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 2:59 | 2021-10-31 | 2022-07-26 |
 | [Electric](https://open.spotify.com/track/7AQxzmkhwBJwgSYr0qQTVf) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Touching Heaven \- Electric EP](https://open.spotify.com/album/7aeZhYzqlaq5f68cLvfsXc) | 3:34 | 2021-10-31 | 2022-07-24 |
 | [Empty](https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Empty](https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E) | 4:01 | 2023-02-08 |  |
-| [Empty Room](https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/4kYXvyGX55u96HFpkpCMI1) | 3:11 | 2023-02-08 |  |
+| [Empty Room](https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/4kYXvyGX55u96HFpkpCMI1) | 3:11 | 2023-02-08 | 2023-05-04 |
 | [Endless Love](https://open.spotify.com/track/3R6miwVX0cpvfdoCn5Fztd) | [LIFE Anthem](https://open.spotify.com/artist/5a42GUKUf9QypW2aMLDPFC) | [Endless Love](https://open.spotify.com/album/6wbTWZmdBsSvPBQ6krASza) | 3:45 | 2021-10-31 | 2022-07-29 |
 | [EVERY LITTLE THING](https://open.spotify.com/track/4Yj3DWigyBkTbd3XW0dPMr) | [Brandyn Kalani](https://open.spotify.com/artist/6ev8LXeWUuAT6N78OVjPvA) | [EVERY LITTLE THING](https://open.spotify.com/album/2MnnGRRWDUjSyvLq0bQLef) | 2:49 | 2021-10-31 | 2022-07-01 |
 | [Every Morning](https://open.spotify.com/track/17P6kojDstdaw65xDCOARU) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Every Morning](https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy) | 3:43 | 2021-10-31 | 2022-07-25 |
@@ -179,6 +179,7 @@
 | [I Met Jesus In Miami](https://open.spotify.com/track/2tPqrI8KeUtYCeiTa04oQQ) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/76jTCf2143QHehCdmuNdwS) | 3:12 | 2023-02-26 |  |
 | [I Need You](https://open.spotify.com/track/5FH4htVArJA0PMPnTtI8iT) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 2:37 | 2021-10-31 | 2022-07-10 |
 | [I See You](https://open.spotify.com/track/709TAwgu9RUtiPLVgmZP71) | [Natalie Cleveland](https://open.spotify.com/artist/1vMDnKZvPdfoF3quGrgTi5) | [I See You](https://open.spotify.com/album/0XrKnCiGuRfD5rrB1fynVQ) | 3:27 | 2021-10-31 | 2022-05-16 |
+| [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 | 2023-05-04 |  |
 | [I Will Wait](https://open.spotify.com/track/62sxM2Uha39CysCoVcoGKT) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [I Will Wait](https://open.spotify.com/album/4tOoPNp8aBjo696qCtaxFk) | 3:19 | 2021-10-31 | 2022-07-27 |
 | [I Will Wait](https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 3:19 | 2021-10-31 | 2022-11-13 |
 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 | 2023-02-08 |  |

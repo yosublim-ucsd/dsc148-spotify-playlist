@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 249519,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx"
@@ -3150,6 +3150,24 @@
       "duration_ms": 182772,
       "name": "T\u00fa Eres Mi Gozo",
       "url": "https://open.spotify.com/track/5TrAJENHbxbBXSveIjJkyv"
+    },
+    {
+      "album": {
+        "name": "Alumbras Mi Vida",
+        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "T\u00fa Eres Mi Gozo",
+      "url": "https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb"
     },
     {
       "album": {

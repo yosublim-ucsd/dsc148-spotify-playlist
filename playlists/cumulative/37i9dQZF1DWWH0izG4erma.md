@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS!! Cover: Brothers Osborne
+> Country Music that ROCKS! Cover: Ashley McBryde
 
 250 songs - 14 hr 29 min
 

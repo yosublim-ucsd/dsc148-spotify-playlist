@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 335904,
+  "num_followers": 335992,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDhkOGEyOWI0NTU4YjFiYTAxOTEwNjk1MzEwOTg0ZDFjZjVmNTNk",
+  "snapshot_id": "MCxlMjhhYWI4MmM0OGUwMWQ3NjBjOGFhNDc4Zjg2OGMwMjZjMDRiOTgy",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -215,6 +215,26 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Slow Jam (feat. Monica)",
+      "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "My Name Is Joe",
         "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 251640,
       "name": "Thank God I Found You (feat. Joe & Nas) - Make It Last Remix Edit",
       "url": "https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Slow Jam (feat. Monica)",
-      "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
     },
     {
       "added_at": "2021-01-15 05:01:00",

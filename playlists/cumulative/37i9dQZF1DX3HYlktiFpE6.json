@@ -448,7 +448,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 218386,
       "name": "Circle of Life/He Lives in You",
       "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 195480,
       "name": "Coffee In Bed",
       "url": "https://open.spotify.com/track/2AI3ZqvfHy3hTvdM9oRMYs"
@@ -635,6 +635,46 @@
     },
     {
       "album": {
+        "name": "Delta Dawn",
+        "url": "https://open.spotify.com/album/4YdUREiMUTdP4pXVKBCJ6p"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        },
+        {
+          "name": "Brooke Eden",
+          "url": "https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197010,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/1sBbXkYUzsTnWfuzG0zeaf"
+    },
+    {
+      "album": {
+        "name": "METAPHYSICAL",
+        "url": "https://open.spotify.com/album/3tw6ZNVEBFRGKNMq8QVzpy"
+      },
+      "artists": [
+        {
+          "name": "Prismatics",
+          "url": "https://open.spotify.com/artist/5Gc2jMj1lDWqHtouLqHk9D"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257049,
+      "name": "Denim Jacket",
+      "url": "https://open.spotify.com/track/6m80tQrXe25WOb1mS0Y8yN"
+    },
+    {
+      "album": {
         "name": "PTX Presents: Top Pop, Vol. I",
         "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
       },
@@ -653,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Midnight Oil (Abridged)",
+        "url": "https://open.spotify.com/album/0uuC5VrW02mEBGnrtTVHez"
+      },
+      "artists": [
+        {
+          "name": "Penn Masala",
+          "url": "https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236891,
+      "name": "Dhoom / Talk Dirty",
+      "url": "https://open.spotify.com/track/05y9JSLCZYuegWmfE4VJGK"
+    },
+    {
+      "album": {
         "name": "Disney's Broadway Is Back Medley",
         "url": "https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh"
       },
@@ -664,7 +722,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 148160,
       "name": "Disney's Broadway Is Back Medley",
       "url": "https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD"
@@ -790,7 +848,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 182760,
       "name": "Feelin' It",
       "url": "https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P"
@@ -929,6 +987,24 @@
     },
     {
       "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/2Ps9g6IWZYiBbjpPPgKMAO"
+      },
+      "artists": [
+        {
+          "name": "Boston College Dynamics",
+          "url": "https://open.spotify.com/artist/1uSkA36eN1OyZXJxEmbWG1"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203626,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5mjbyyLzQjiCjFvF8jK5BB"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/0ZnJXzdnInxWoUbGWnhK0i"
       },
@@ -948,6 +1024,24 @@
       "duration_ms": 215764,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5UZhZYORv7FLXKIXC5HVNM"
+    },
+    {
+      "album": {
+        "name": "Lost Files",
+        "url": "https://open.spotify.com/album/6yteFlMQqBuauZU1UrRaNm"
+      },
+      "artists": [
+        {
+          "name": "The Clef Hangers",
+          "url": "https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211406,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1Uc8sX7Kb2FzREsu0EmZ8z"
     },
     {
       "album": {
@@ -1077,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Beam in the Night",
+        "url": "https://open.spotify.com/album/02R0qzNaLVnaeZDVWCjfLo"
+      },
+      "artists": [
+        {
+          "name": "Toccatatones",
+          "url": "https://open.spotify.com/artist/42eRgngp8gPI2awgmGGdtv"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "I Hear a Symphony",
+      "url": "https://open.spotify.com/track/1C6y03sNhrxb9AuQxrbFFx"
+    },
+    {
+      "album": {
         "name": "I Just Called To Say I Love You",
         "url": "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw"
       },
@@ -1168,7 +1280,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 188549,
       "name": "I'll Make a Man Out of You",
       "url": "https://open.spotify.com/track/1jlSXth3CCNaXeioY1tRM4"
@@ -1244,6 +1356,24 @@
       "duration_ms": 109213,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/6nbjZ2Jl8yjSZ964YDeRLy"
+    },
+    {
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/7oCU6KkQCOyVoOc3aR3TXe"
+      },
+      "artists": [
+        {
+          "name": "Hullabahoos",
+          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329409,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/7lawnWP2oHSP7vC3Io4unA"
     },
     {
       "album": {
@@ -1388,6 +1518,24 @@
       "duration_ms": 220452,
       "name": "Let It Go - Single Version",
       "url": "https://open.spotify.com/track/477Yon8OMSZpcKC7b8Ae5y"
+    },
+    {
+      "album": {
+        "name": "Pasta Nights",
+        "url": "https://open.spotify.com/album/0qLX5MqJJGCO7QecwlD1xv"
+      },
+      "artists": [
+        {
+          "name": "The Virginia Gentlemen",
+          "url": "https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237971,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/2dDef6SYUfApGRxhREFfxd"
     },
     {
       "album": {
@@ -1577,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Touch the Sky",
+        "url": "https://open.spotify.com/album/046qJmAfnKS0QtBbNbmDiO"
+      },
+      "artists": [
+        {
+          "name": "Remedy A Cappella",
+          "url": "https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/6ubO6MOkkPoKWCy7P16suW"
+    },
+    {
+      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -1682,7 +1848,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 226440,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1"
@@ -1762,7 +1928,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 199533,
       "name": "Remix to Ignition",
       "url": "https://open.spotify.com/track/5q1CMrZQ9LIjjzOoYlz0Fo"
@@ -2162,7 +2328,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 183466,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4247FwxHfmtIJgILhAKjaa"
@@ -2408,7 +2574,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 190960,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/0TTgxsnxlokIfNlVYm323b"

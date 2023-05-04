@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 143466,
       "name": "Bended Light",
       "url": "https://open.spotify.com/track/4Rv8cCe4oO9tRR2vkoXSHp"
@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Futbol",
+        "url": "https://open.spotify.com/album/22mAPVYMiTzEB2oe3llVGe"
+      },
+      "artists": [
+        {
+          "name": "Rahill",
+          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212533,
+      "name": "Futbol",
+      "url": "https://open.spotify.com/track/1tBR4EX2S4YonuXB0mwRvT"
+    },
+    {
+      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
       },
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 207340,
       "name": "I Saw",
       "url": "https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN"
@@ -1432,6 +1450,24 @@
       "duration_ms": 280903,
       "name": "JGS",
       "url": "https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv"
+    },
+    {
+      "album": {
+        "name": "Kenneth",
+        "url": "https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229088,
+      "name": "Kenneth",
+      "url": "https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K"
     },
     {
       "album": {

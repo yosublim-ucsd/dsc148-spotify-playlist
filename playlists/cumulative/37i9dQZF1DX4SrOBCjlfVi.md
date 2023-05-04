@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Coi Leray, Jack Harlow and more\. Cover: G Herbo
 
-2,738 songs - 5 day 7 hr 44 min
+2,739 songs - 5 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -954,6 +954,7 @@
 | [GO](https://open.spotify.com/track/2qAfq0eV8GYdQqTWJbeGrd) | [Cae Cartier](https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD) | [GO](https://open.spotify.com/album/2Z4Mvd7jnU20NIWDrCRozY) | 2:38 | 2023-04-28 |  |
 | [Go Down \(feat\. TisaKorean\)](https://open.spotify.com/track/2Qr5PWUt8XycAAv338LicY) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:30 | 2023-02-24 | 2023-03-04 |
 | [GO GO GO!](https://open.spotify.com/track/6WBOshy2g5d3HiFMCRmsoF) | [YSN Flow](https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF) | [GO GO GO!](https://open.spotify.com/album/0122L1z0RmowcHYZTg7tLo) | 2:15 | 2022-09-02 | 2022-09-10 |
+| [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 | 2023-05-03 |  |
 | [Go Hard 2.0](https://open.spotify.com/track/1wSAAx6UHuQurUBHGM95og) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Complete Edition\)](https://open.spotify.com/album/0IQVwg2jMqKExCLTEyVvsL) | 3:34 | 2022-02-04 | 2022-02-12 |
 | [Go In](https://open.spotify.com/track/5zi3dnuyXnGbtVdfvBKrqL) | [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO) | [Go In](https://open.spotify.com/album/1AENDTX6JaPVNcGyyyDk9X) | 2:19 | 2022-09-02 | 2022-09-10 |
 | [GO SHORTY](https://open.spotify.com/track/0EaafoopTPABPioofiadXs) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [GO SHORTY](https://open.spotify.com/album/78tk0RKqLSreq7yMDvGFo4) | 3:53 | 2022-10-07 | 2022-10-15 |

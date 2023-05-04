@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,224 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,261 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 |
 | 50 | [Your Friday Night](https://open.spotify.com/track/64c0SxMQsaYgzghaS7inLw) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Time Traveller \- The Album](https://open.spotify.com/album/2HbQQ5TmHk2TjcVlHajf1D) | 3:16 |
 
-Snapshot ID: `MCxhZmIyZjIxN2I2MzVhODYzYWY2NWM4N2Q1MTUxM2FmMGQ3NzM4MDQ1`
+Snapshot ID: `MCxhZjc2MzIzMGZmZjI4NzZjMzI2NjI3YWU0MjgyNjQ0ZWFkZDEzNGVl`

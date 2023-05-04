@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Balinese rain",
+        "url": "https://open.spotify.com/album/0QUr11dedtEYKwXAbdMnCd"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130912,
+      "name": "Balinese rain",
+      "url": "https://open.spotify.com/track/02Ht4crdM7PkMpYU3FLS2X"
+    },
+    {
+      "album": {
         "name": "Orpheus",
         "url": "https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv"
       },
@@ -1219,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Danse avec moi",
+        "url": "https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146874,
+      "name": "Danse avec moi",
+      "url": "https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur"
+    },
+    {
+      "album": {
         "name": "Darkness of days",
         "url": "https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J"
       },
@@ -1446,7 +1482,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 183815,
       "name": "durch Nacht und Nebel",
       "url": "https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP"
@@ -1795,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "Floating with the tide",
+        "url": "https://open.spotify.com/album/7o8Ejc3QNtg3sDiLX4OCrb"
+      },
+      "artists": [
+        {
+          "name": "Herman Lundblad",
+          "url": "https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119436,
+      "name": "Floating with the tide",
+      "url": "https://open.spotify.com/track/1GJsvAFYG341M9F98JiLQz"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7jZ6NHedqFMgyDYY6tYAR1"
       },
@@ -1972,7 +2026,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 147314,
       "name": "Gdansk",
       "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
@@ -2840,6 +2894,24 @@
       "duration_ms": 107874,
       "name": "La gatta frettolosa fece i gattini ciechi",
       "url": "https://open.spotify.com/track/2DbJvzfZ5tb6Iz12uZrywG"
+    },
+    {
+      "album": {
+        "name": "La Prima",
+        "url": "https://open.spotify.com/album/10uA5fNO7Wyv0Q4lHvm1Bl"
+      },
+      "artists": [
+        {
+          "name": "Zeppi",
+          "url": "https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98625,
+      "name": "La Prima",
+      "url": "https://open.spotify.com/track/6FJMJ4MXRv43TkyYBdgeV3"
     },
     {
       "album": {
@@ -4119,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "Old Lustre",
+        "url": "https://open.spotify.com/album/62FdSSW3Z4cwgVRT6T8rER"
+      },
+      "artists": [
+        {
+          "name": "Thomas Klak",
+          "url": "https://open.spotify.com/artist/7ofbQA5JDWflBqWWilSxdE"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157533,
+      "name": "Old Lustre",
+      "url": "https://open.spotify.com/track/4n4DD7oUknpI50eCFQ8r0w"
+    },
+    {
+      "album": {
         "name": "Dulcinea",
         "url": "https://open.spotify.com/album/3irIiK7LtZnnm16g8EX29i"
       },
@@ -5056,10 +5146,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 146880,
       "name": "Round Corners",
       "url": "https://open.spotify.com/track/5Xihr5cDsWzZoAXDYXIyQT"
+    },
+    {
+      "album": {
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143879,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
     },
     {
       "album": {
@@ -5297,6 +5405,24 @@
     },
     {
       "album": {
+        "name": "Ischia",
+        "url": "https://open.spotify.com/album/5SZ3jzYbl4SZt0fhs32sw7"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165819,
+      "name": "Sinsonte",
+      "url": "https://open.spotify.com/track/4mKFWJLMUWBN7m24TVCPqH"
+    },
+    {
+      "album": {
         "name": "Sketches",
         "url": "https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS"
       },
@@ -5528,6 +5654,24 @@
       "duration_ms": 187362,
       "name": "Spellbreaking",
       "url": "https://open.spotify.com/track/0baV2o4ykd6wIdv06jjZ7l"
+    },
+    {
+      "album": {
+        "name": "Sprial",
+        "url": "https://open.spotify.com/album/0cJNpSMDMrJspbp4f3YoK3"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Sprial",
+      "url": "https://open.spotify.com/track/61wV9acz3uYyXcv4UnjLxc"
     },
     {
       "album": {

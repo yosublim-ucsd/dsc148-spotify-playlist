@@ -78,6 +78,24 @@
     {
       "album": {
         "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251773,
+      "name": "Alphabet Town",
+      "url": "https://open.spotify.com/track/5A5q93kc6Lpf5gCIV45G9v"
+    },
+    {
+      "album": {
+        "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw"
       },
       "artists": [
@@ -380,10 +398,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 190573,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/56glzc2mZUIJwKsEjKqY8b"
+    },
+    {
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/040SAslpJAljYm1TANiQJ2"
     },
     {
       "album": {
@@ -406,6 +442,24 @@
     {
       "album": {
         "name": "New Moon",
+        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146906,
+      "name": "Either/Or",
+      "url": "https://open.spotify.com/track/2t032KmOaOGSN0LiQ3Xjxx"
+    },
+    {
+      "album": {
+        "name": "New Moon",
         "url": "https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF"
       },
       "artists": [
@@ -416,7 +470,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 147266,
       "name": "Either/Or",
       "url": "https://open.spotify.com/track/3RhRNzBCOARzkPLuYclqz8"
@@ -992,7 +1046,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 146120,
       "name": "Single File",
       "url": "https://open.spotify.com/track/6Nnw0AgZezRsAlnXmRrUGI"
@@ -1162,6 +1216,24 @@
     {
       "album": {
         "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144800,
+      "name": "The White Lady Loves You More",
+      "url": "https://open.spotify.com/track/1GRafxm1wx4A31ULSBhKRt"
+    },
+    {
+      "album": {
+        "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw"
       },
       "artists": [
@@ -1172,7 +1244,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 144800,
       "name": "The White Lady Loves You More",
       "url": "https://open.spotify.com/track/75l3rO9pLGAas7P4O22RDE"

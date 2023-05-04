@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 378432,
+  "num_followers": 378447,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTRiNGU3MTk4MGQ0ZWQ5OWJiNzJlZjdmMzBiNjI4NTUxMjEwMTNl",
+  "snapshot_id": "MCxkZjA4MmU3YTMwNjE3OTM5ZTE0ZTUyYWUzOTBlZWIyNzM5MDgwNmQ5",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Boy in Jeans",
+        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 216003,
+      "name": "Haircut",
+      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Letting In",
         "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 184015,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Boy in Jeans",
-        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 216003,
-      "name": "Haircut",
-      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "This World",
-        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
       "artists": [
         {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
         }
       ],
-      "duration_ms": 232613,
-      "name": "This World",
-      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
+      "duration_ms": 197977,
+      "name": "Artifice",
+      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+        "name": "This World",
+        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
       },
       "artists": [
         {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
         }
       ],
-      "duration_ms": 197977,
-      "name": "Artifice",
-      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
+      "duration_ms": 232613,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 192792,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI"
-      },
-      "artists": [
-        {
-          "name": "Young & Sick",
-          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
-        }
-      ],
-      "duration_ms": 237112,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Old T-Shirt (feat. koby)",
         "url": "https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 219483,
       "name": "Old T-Shirt (feat. koby)",
       "url": "https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI"
+      },
+      "artists": [
+        {
+          "name": "Young & Sick",
+          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
+        }
+      ],
+      "duration_ms": 237112,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 248406,
-      "name": "On Your Side",
-      "url": "https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 188866,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 248406,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "September Come",
-        "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
-      },
-      "artists": [
-        {
-          "name": "Mo\u00ebl",
-          "url": "https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa"
-        },
-        {
-          "name": "The Accents",
-          "url": "https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ"
-        }
-      ],
-      "duration_ms": 240131,
-      "name": "September Come",
-      "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "A Million Times (HONNE remix)",
         "url": "https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 246409,
       "name": "A Million Times - HONNE remix",
       "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "September Come",
+        "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
+      },
+      "artists": [
+        {
+          "name": "Mo\u00ebl",
+          "url": "https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa"
+        },
+        {
+          "name": "The Accents",
+          "url": "https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ"
+        }
+      ],
+      "duration_ms": 240131,
+      "name": "September Come",
+      "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
     }
   ],
   "unique_name": "Creativity Boost",

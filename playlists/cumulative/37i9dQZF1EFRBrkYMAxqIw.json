@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Good Time All The Time",
+        "url": "https://open.spotify.com/album/2lX0SIWgqbbHJOLjArC57h"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192997,
+      "name": "Good Time All The Time",
+      "url": "https://open.spotify.com/track/7x1cMCQz8gCNkTqOU7TB7R"
+    },
+    {
+      "album": {
         "name": "He Won't Know",
         "url": "https://open.spotify.com/album/3oJ8BFFJ19MPMvjl4qk7wc"
       },

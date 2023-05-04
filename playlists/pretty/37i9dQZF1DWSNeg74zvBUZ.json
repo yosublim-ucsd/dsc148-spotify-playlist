@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18698,
+  "num_followers": 18699,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGZkZjljMGY2YzBiNzQ5NmY3MDgzNjUwZjk2MmI0NzQyMDFhMTNi",
+  "snapshot_id": "MCxiMjcyMTZiOWI2OTgxNjZhZmY0NWU3NmVhNDFlMmU1ZDI1YTg5MzFk",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -409,24 +409,20 @@
       "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
     },
     {
-      "added_at": "2022-04-23 02:33:42",
+      "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Rest Proof Clockwork",
-        "url": "https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7"
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        },
-        {
-          "name": "Benet Walsh",
-          "url": "https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY"
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
         }
       ],
-      "duration_ms": 269240,
-      "name": "Ralome",
-      "url": "https://open.spotify.com/track/5CBtcSv8jmVWI9j37qCzZz"
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -445,20 +441,24 @@
       "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
+      "added_at": "2022-04-23 02:33:42",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+        "name": "Rest Proof Clockwork",
+        "url": "https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7"
       },
       "artists": [
         {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        },
+        {
+          "name": "Benet Walsh",
+          "url": "https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+      "duration_ms": 269240,
+      "name": "Ralome",
+      "url": "https://open.spotify.com/track/5CBtcSv8jmVWI9j37qCzZz"
     },
     {
       "added_at": "2021-11-12 05:17:41",

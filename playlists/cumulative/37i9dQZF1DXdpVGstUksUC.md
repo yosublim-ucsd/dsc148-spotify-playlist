@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-283 songs - 1 day 2 hr 21 min
+284 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Calm Before the Storm](https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [V](https://open.spotify.com/album/2st5WC99waH8DaN3naNq32) | 8:15 | 2021-11-30 | 2022-10-10 |
 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 | 2021-11-30 |  |
 | [Chocolatize](https://open.spotify.com/track/3D2r5tK7FLa35ustREymTd) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Mankind Woman](https://open.spotify.com/album/6ho3UoTbxC0DnYV7BAx7Q4) | 2:34 | 2021-11-30 | 2022-02-15 |
-| [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 | 2023-04-21 |  |
+| [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 | 2023-04-21 | 2023-05-04 |
 | [Collector](https://open.spotify.com/track/6H7uuB5wY5dLNApvEj35d3) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Collector](https://open.spotify.com/album/5WvED9laSYAilXO7zB4WPP) | 4:13 | 2021-11-30 | 2022-07-29 |
 | [Colossal](https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 5:04 | 2022-04-28 |  |
 | [Colossal](https://open.spotify.com/track/4Xx92jCdrTBTiCr4rwwkN3) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0jjNb79VYqLY21IjyWKsWe) | 5:04 | 2021-11-30 | 2022-07-28 |
@@ -208,6 +208,7 @@
 | [Rust](https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [Rust](https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx) | 5:39 | 2021-11-30 | 2023-03-23 |
 | [Satan](https://open.spotify.com/track/6REn6PCS3uBTAqdSXJwN3R) | [Ufomammut](https://open.spotify.com/artist/105vC0oJ985P5G3g36EosL) | [Godlike Snake](https://open.spotify.com/album/0pTqPU7QFeAJlua2L1j0jG) | 3:26 | 2022-01-14 | 2022-01-26 |
 | [Scorpionica](https://open.spotify.com/track/6jhYtTdUeFGX2X629AMd4r) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [The Big Black](https://open.spotify.com/album/4zfCuQTmfsBNxYL0GUhSg0) | 3:14 | 2023-03-22 |  |
+| [Seer](https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz) | 7:57 | 2023-03-10 |  |
 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 | 2021-11-30 | 2022-07-29 |
 | [Seer](https://open.spotify.com/track/4tjrhez9Jz2euetdgNqS7W) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/5y2SajUtaw9VZjkuKlMsJQ) | 7:57 | 2022-04-28 | 2023-01-07 |
 | [Seer](https://open.spotify.com/track/7cShikd4rLNwAlHrHo0AFt) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/6WchxcxHQkc9DnwYc3WEC0) | 7:57 | 2022-10-14 | 2023-04-30 |

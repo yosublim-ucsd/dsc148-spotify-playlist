@@ -2,7 +2,7 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Leah Marie Mason
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
 262 songs - 13 hr 51 min
 

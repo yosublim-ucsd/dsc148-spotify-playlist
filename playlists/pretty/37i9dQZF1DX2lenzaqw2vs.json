@@ -1,12 +1,12 @@
 {
   "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: The Change",
-  "num_followers": 127588,
+  "num_followers": 127615,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWI2ZDMzN2UwZDZjNWI3MDQyZjEwMDAyOGU5OTY4NWNkMDI2Yzkx",
+  "snapshot_id": "MCwwMTBmNjExMDBlZGQ0MTk4NThiNmE1ODA0YmY1YTUyYTllZDEzMTli",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Herida",
+        "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        }
+      ],
+      "duration_ms": 207369,
+      "name": "T\u00edrame al fondo del mar",
+      "url": "https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 195048,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Herida",
-        "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        }
-      ],
-      "duration_ms": 207369,
-      "name": "T\u00edrame al fondo del mar",
-      "url": "https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Lesbihonest",
-        "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
-      },
-      "artists": [
-        {
-          "name": "Macha Kiddo",
-          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Besos",
-      "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "corazoncito",
         "url": "https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 178951,
       "name": "corazoncito",
       "url": "https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Lesbihonest",
+        "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
+      },
+      "artists": [
+        {
+          "name": "Macha Kiddo",
+          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
     },
     {
       "added_at": "2023-04-28 04:01:00",

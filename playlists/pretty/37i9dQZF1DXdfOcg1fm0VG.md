@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,324 likes - 113 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,556 likes - 113 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Last of Us](https://open.spotify.com/track/285ieonEuLkll3zknYK2TY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 3:03 |
-| 2 | [Halo](https://open.spotify.com/track/4xbrgqQF8bzy22K8JhtFM9) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Combat Evolved \(Original Soundtrack\)](https://open.spotify.com/album/78tWR5P0I53edR7PeXpDfF) | 4:22 |
+| 2 | [Halo](https://open.spotify.com/track/6DhcuZbi4FW28RLicWNmmx) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Combat Evolved \(Original Soundtrack\)](https://open.spotify.com/album/4eOwVM6B9yJCwk030GGYRI) | 4:22 |
 | 3 | [God of War Ragnarök \(feat\. Eivør\)](https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:34 |
 | 4 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 |
 | 5 | [Dragonborn](https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 3:55 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 112 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 113 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MCw2ZjhlZTczZmFhMDYwZDUzY2RhZjJjYWNiMjNlZWQ4NGI0YjAxODll`
+Snapshot ID: `MCw4ZmUyMDg5NTVlZjYyMTZkMjE3OTc0ZDRhN2Y0NzU0YTc5YjgyN2E2`

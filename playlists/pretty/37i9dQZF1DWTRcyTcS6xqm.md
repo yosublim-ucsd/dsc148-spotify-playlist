@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,229 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,240 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [She Got Some Money](https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [She Got Some Money](https://open.spotify.com/album/6dvZHqoGgZjlTnNhYRpmjc) | 3:02 |
 | 50 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 
-Snapshot ID: `MCw4YjU5YzE2NjVmNGI2ZmFiNGFkZjM1NjUzYzQxNmVlZGFhMWEzOWI0`
+Snapshot ID: `MCw0ZTczM2QwNDk3OTFkOTcyMTRjMDNhNTY3MjMyNGRiMjU3MjAwZDUz`

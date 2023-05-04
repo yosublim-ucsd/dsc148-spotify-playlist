@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDBiNDdiNWM0YjFkZWUyZWY0NjA1ZjhiMzA2YmRlOTlkMWZhN2Q1",
+  "snapshot_id": "MCw1MDEzZWVlZjI3ODgzYThhNDhmODIzNDdlMjNiMzY3YTJiZmYzZTIw",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Buzz Effect",
-        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "\uac81\uc7c1\uc774",
-      "url": "https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 323531,
       "name": "\uace0\ubc31",
       "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Buzz Effect",
+        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 283960,
+      "name": "\uac81\uc7c1\uc774",
+      "url": "https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -783,18 +783,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Baby V.O.X Special Album",
-        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
+        "name": "Jungle New Style",
+        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
       },
       "artists": [
         {
-          "name": "Baby V.O.X",
-          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+          "name": "Park Mi Kyung",
+          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
         }
       ],
-      "duration_ms": 132731,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i"
+      "duration_ms": 252493,
+      "name": "Eve's Warning",
+      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Jungle New Style",
-        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
+        "name": "Baby V.O.X Special Album",
+        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
       "artists": [
         {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
         }
       ],
-      "duration_ms": 252493,
-      "name": "Eve's Warning",
-      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
+      "duration_ms": 132731,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -911,6 +911,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "NEW SENSATION",
+        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 243095,
+      "name": "Twist king",
+      "url": "https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 255741,
       "name": "GO",
       "url": "https://open.spotify.com/track/5NJ46GTkjkN7pc5soOyiMu"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 238004,
       "name": "\uc6b0\uc5f0",
       "url": "https://open.spotify.com/track/5OBXA0nZ8ANfS8w2ZVWh6X"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "NEW SENSATION",
-        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 243095,
-      "name": "Twist king",
-      "url": "https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Choose My Life-U - The 5th Album",
-        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
+        "name": "LOVE - The 3rd Album",
+        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
       },
       "artists": [
         {
@@ -1112,25 +1112,9 @@
           "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
         }
       ],
-      "duration_ms": 213533,
-      "name": "\ub2ec\ub9ac\uae30",
-      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Baby V.O.X Special Album",
-        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
-      },
-      "artists": [
-        {
-          "name": "Baby V.O.X",
-          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
-        }
-      ],
-      "duration_ms": 99686,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/6FNzGOfb27z0xahzEHv9si"
+      "duration_ms": 252506,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4At8x7VjqQ4zUiWpKgH6lu"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1147,6 +1131,22 @@
       "duration_ms": 275200,
       "name": "\ud68c\uc0c1",
       "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Baby V.O.X Special Album",
+        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
+      },
+      "artists": [
+        {
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+        }
+      ],
+      "duration_ms": 99686,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/6FNzGOfb27z0xahzEHv9si"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Suprise Party Collection",
+        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
+      },
+      "artists": [
+        {
+          "name": "Click-B",
+          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Baekjeonmupae",
+      "url": "https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Suprise Party Collection",
-        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
-      },
-      "artists": [
-        {
-          "name": "Click-B",
-          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Baekjeonmupae",
-      "url": "https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Com` Back",
         "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "VOICE MAIL",
-        "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 217417,
-      "name": "\ud3c9\uc0dd",
-      "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
         "url": "https://open.spotify.com/album/6su9aNu18CtW7EWK9M0PUE"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 253426,
       "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
       "url": "https://open.spotify.com/track/04SDFqyKorGmxyZ8lopA53"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "VOICE MAIL",
+        "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 217417,
+      "name": "\ud3c9\uc0dd",
+      "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Come Come Come baby",
-        "url": "https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW"
-      },
-      "artists": [
-        {
-          "name": "Baby V.O.X",
-          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
-        }
-      ],
-      "duration_ms": 231888,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\uc2e0\ud574\ucca0",
         "url": "https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 298297,
       "name": "\uc9f8\uc988 \uce74\ud398",
       "url": "https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Come Come Come baby",
+        "url": "https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW"
+      },
+      "artists": [
+        {
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+        }
+      ],
+      "duration_ms": 231888,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "A Tribute To Deulkukhwa (Dedication Album)",
-        "url": "https://open.spotify.com/album/674T3Fgh1cHewQK6Iv7DK2"
-      },
-      "artists": [
-        {
-          "name": "ZOO",
-          "url": "https://open.spotify.com/artist/2q3dMJmxOUPFts4UvK9LUh"
-        }
-      ],
-      "duration_ms": 282893,
-      "name": "Blue Night on Jeju Island",
-      "url": "https://open.spotify.com/track/4vUjWOJEcLhT30k4IetIHW"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "1st",
         "url": "https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx"
       },
@@ -1987,6 +1971,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "A Tribute To Deulkukhwa, Pt. 2",
+        "url": "https://open.spotify.com/album/7IEiMCYWOQ0FqDKnG9Z2FC"
+      },
+      "artists": [
+        {
+          "name": "ZOO",
+          "url": "https://open.spotify.com/artist/2q3dMJmxOUPFts4UvK9LUh"
+        }
+      ],
+      "duration_ms": 282893,
+      "name": "Blue Night on Jeju Island",
+      "url": "https://open.spotify.com/track/40AUD1aIbCPhlaf33ysT0W"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Roo`ra Best Album",
         "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
       },
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Chapter 3",
+        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "\uac70\uc9d3\ub9d0 Lie",
+      "url": "https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "1st",
         "url": "https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 235386,
       "name": "The Day After",
       "url": "https://open.spotify.com/track/5mk916aCyM4P5tU4cpSYid"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Chapter 3",
-        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "\uac70\uc9d3\ub9d0 Lie",
-      "url": "https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Choose My Life-U - The 5th Album",
+        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "\ub2ec\ub9ac\uae30",
+      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 226173,
       "name": "Twilight Zone",
       "url": "https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "LOVE - The 3rd Album",
-        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4At8x7VjqQ4zUiWpKgH6lu"
     },
     {
       "added_at": "2021-02-01 12:18:54",

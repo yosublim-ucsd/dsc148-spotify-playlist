@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,463 songs - 5 day 13 hr 10 min
+3,464 songs - 5 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1882,7 +1882,7 @@
 | [Mirage](https://open.spotify.com/track/3aYQEKJvytz1b34QtQ6XH8) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Mirage](https://open.spotify.com/album/0p6FstpHZCKM2E7zyJmqz8) | 2:14 | 2022-09-22 | 2022-10-07 |
 | [Mirage](https://open.spotify.com/track/7xTxhDp6t1DjxBSpIgsdkK) | [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Mirage](https://open.spotify.com/album/34bsf0GTJ98Sw2N4QsVY5t) | 2:07 | 2022-12-08 | 2023-01-20 |
 | [Mirage](https://open.spotify.com/track/75lkVw6YrP9JhVqL02gAFN) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb) | [Calm Sea](https://open.spotify.com/album/0YyuU4cAxsuhb03KXhAfsH) | 1:46 | 2022-12-15 | 2023-01-20 |
-| [Miragos](https://open.spotify.com/track/0OuuMPX1iWOTR5TkHFwdAj) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Miragos](https://open.spotify.com/album/3PmnjwGCZpfUS6OOs8BjLI) | 1:34 | 2023-03-16 |  |
+| [Miragos](https://open.spotify.com/track/0OuuMPX1iWOTR5TkHFwdAj) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Miragos](https://open.spotify.com/album/3PmnjwGCZpfUS6OOs8BjLI) | 1:34 | 2023-03-16 | 2023-05-04 |
 | [Mirror Universe](https://open.spotify.com/track/1BqWKidiIXJCUBrZCuZKW2) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Mirror Universe](https://open.spotify.com/album/7u8bP4ULhdE0MxfaeLfXQe) | 2:36 | 2020-09-25 | 2020-12-04 |
 | [Miscellaneous](https://open.spotify.com/track/5hA8bjM7r4SyiNzngr2Edv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O) | [Miscellaneous](https://open.spotify.com/album/08zV9UWheKMDLzLAqi1oIJ) | 3:22 | 2021-05-07 | 2021-07-23 |
 | [Miss Understood](https://open.spotify.com/track/3VtKZZGhJoMFRYqMdHritC) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [Miss Understood](https://open.spotify.com/album/1rxnkmiOU7kNzjxXiUFzw5) | 1:40 | 2020-04-03 | 2020-05-29 |
@@ -2980,6 +2980,7 @@
 | [Tbilisi East Side](https://open.spotify.com/track/1enpvwvZKLFUx4dBcRpQiY) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Tbilisi East Side](https://open.spotify.com/album/5C3yILKdhIzwo596GLVhnT) | 1:50 | 2022-01-13 | 2022-05-13 |
 | [Tea Cosy](https://open.spotify.com/track/6dc1pLuUuHHttonZuLd3wf) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Tea Cosy](https://open.spotify.com/album/0Vxe4WPILqTU3XfmeI3N6Y) | 3:01 | 2022-04-07 | 2023-04-21 |
 | [Teak](https://open.spotify.com/track/3t8JHYE77xPBcxE3tiw0iE) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Teak](https://open.spotify.com/album/3g9HsXxThJbNcFSDMW21U9) | 2:00 | 2020-07-21 | 2021-01-04 |
+| [Team Burden](https://open.spotify.com/track/5o2LI57RSl9rQpf9KIs7s4) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Team Burden](https://open.spotify.com/album/3VVA3uGC71UWnhbPTYpl9z) | 1:50 | 2023-04-27 |  |
 | [Teenage Crush](https://open.spotify.com/track/1YOZYhiUpkBoaI3E19iMxs) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Teenage Crush](https://open.spotify.com/album/29j5ZQkdKHUQACLt1xHako) | 1:52 | 2021-12-05 | 2021-12-21 |
 | [Teide](https://open.spotify.com/track/3LSRb1SzxO2p0QifomVpzo) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Teide](https://open.spotify.com/album/0JJlhLhaZ604nawf9iq9PN) | 2:08 | 2019-08-17 | 2020-02-11 |
 | [Tell](https://open.spotify.com/track/7Chf1U60UE94gokWEd9wze) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Into the Dream](https://open.spotify.com/album/0BwRZ6s234HsYdYHNuM3N1) | 4:41 | 2020-04-29 | 2020-07-11 |

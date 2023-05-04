@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-244 songs - 17 hr 49 min
+245 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Isla Pescado](https://open.spotify.com/track/7IBdQc4dIOS9sAY6a8AHQv) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Isla Pescado](https://open.spotify.com/album/1J3OErJ46ixVdwsOJ3OIHW) | 4:34 | 2021-11-26 | 2022-07-28 |
 | [Jarana y Tundete](https://open.spotify.com/track/1Eu2z6ySMMDDcVHOOHa17u) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Zenit & Nadir](https://open.spotify.com/album/0HjkCKCUWYtSWA7NyORedG) | 3:25 | 2021-11-26 | 2022-07-23 |
 | [Jardines](https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED) | 4:46 | 2022-04-15 | 2023-04-30 |
+| [Jardines](https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 4:46 | 2023-02-13 |  |
 | [Jardines](https://open.spotify.com/track/0mtF7aTcgLR6uhx28ovali) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Amansara](https://open.spotify.com/album/2Fqn3yj8vWJKUK6fXaLd3w) | 4:46 | 2021-11-26 | 2022-07-29 |
 | [Jardines](https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 4:46 | 2022-04-15 | 2022-09-20 |
 | [Jardines \(Thornato Remix\) \[feat\. Lido Pimienta\]](https://open.spotify.com/track/1lUOnYe2gSmlofIpob8cR0) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara Remixed](https://open.spotify.com/album/2yelZkkneFTIhComGnUwCJ) | 3:34 | 2022-04-15 | 2022-07-25 |
@@ -243,7 +244,7 @@
 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 | 2022-04-15 |  |
 | [Vamo a Dale Duro](https://open.spotify.com/track/0wSrYFuJBd6u8shdlBf4yj) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 3:48 | 2023-02-13 |  |
 | [Vamo a Dale Duro](https://open.spotify.com/track/1wwgINDRmCrx2P7fYOScIj) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Vamo a Dale Duro](https://open.spotify.com/album/4OSvkwaHIdJSuAdlQFIWtl) | 3:48 | 2021-11-26 | 2022-07-15 |
-| [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 | 2021-11-26 |  |
+| [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 | 2021-11-26 | 2023-05-04 |
 | [Viene de Mi](https://open.spotify.com/track/5Hs9XxMWxUj973mlLHw6BV) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7) | 3:50 | 2022-04-15 |  |
 | [Viene de Mi](https://open.spotify.com/track/5YsWsf7LF92DPsBPFpP7va) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/607i19J3XLlO7eny7OplFK) | 3:50 | 2021-11-26 | 2022-07-27 |
 | [Viene de Mi](https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ) | 3:50 | 2022-04-15 | 2022-12-02 |

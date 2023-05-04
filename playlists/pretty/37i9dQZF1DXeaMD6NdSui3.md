@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,645 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,756 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 32 | [Since I Met You Baby](https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR) | [Omar Kent Dykes](https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Big Town Playboy](https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH) | 3:20 |
 | 33 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
 | 34 | [Don't Lose My Number](https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr) | [Smokin' Joe Kubek](https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B), [Bnois King](https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1) | [Blood Brothers](https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs) | 3:33 |
-| 35 | [My Texas Home](https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:53 |
-| 36 | [Rolling With The Punches](https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ) | [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Catch Up With The Blues](https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV) | 6:34 |
-| 37 | [Life by the Drop](https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw) | 3:05 |
+| 35 | [Life by the Drop](https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw) | 3:05 |
+| 36 | [My Texas Home](https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:53 |
+| 37 | [Rolling With The Punches](https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ) | [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Catch Up With The Blues](https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV) | 6:34 |
 | 38 | [Gotta Serve Somebody](https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J) | [Denny Freeman](https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv) | [Diggin' On Dylan](https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh) | 4:48 |
 | 39 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 |
 | 40 | [88 Answers](https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY) | [Ezra Charles](https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa) | [Return Of The Radio Avengers](https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MCxjNTllNTc5NTg5OTkxNWJjOWUzZDEwNDNkZjNiMDJlYjNmODliMDUw`
+Snapshot ID: `MCxlMTUwZWVjZTczZjcxYzNmNjIwZThkZDhhNWYyNjUzOTFlYTljMTJl`

@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
@@ -3970,6 +3970,28 @@
       "duration_ms": 174956,
       "name": "Live And Die (feat. Sophie Simmons)",
       "url": "https://open.spotify.com/track/0QR4vZ9iuNjrkWYNLoVAnM"
+    },
+    {
+      "album": {
+        "name": "Living On Video (feat. DTale)",
+        "url": "https://open.spotify.com/album/1bS9MQ5MkiXVVeYugReG50"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "DTale",
+          "url": "https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Living On Video (feat. DTale)",
+      "url": "https://open.spotify.com/track/5ZA8y7ISUIEWcfuQSai2kX"
     },
     {
       "album": {
@@ -5615,6 +5637,32 @@
     },
     {
       "album": {
+        "name": "Rock My Body",
+        "url": "https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137419,
+      "name": "Rock My Body",
+      "url": "https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R"
+    },
+    {
+      "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI"
       },
@@ -7050,7 +7098,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 164000,
       "name": "Waste Your Youth",
       "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"

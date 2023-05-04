@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 119270,
+  "num_followers": 119297,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTk3YzFhNmIwZjI4MzlhYjQyN2E3MzNjNmZiZGI4YzE1Zjg5YWVi",
+  "snapshot_id": "MCw5MTkzYWFkNTYxY2Y5ZjE3OWEwZWFiNGUzNjlhMTBiOWFiMjU4ZGQy",
   "tracks": [
     {
       "added_at": "2023-04-20 13:54:28",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
+        "name": "Touch (feat. Rromarin)",
+        "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Touch (feat. Rromarin)",
+      "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
         "name": "OoooH",
         "url": "https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa"
       },
@@ -775,62 +795,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Touch (feat. Rromarin)",
-        "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
-      },
-      "artists": [
-        {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Touch (feat. Rromarin)",
-      "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Flansie",
-          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
-        }
-      ],
-      "duration_ms": 246832,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "Changes (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J"
       },
@@ -851,6 +815,42 @@
       "duration_ms": 146250,
       "name": "Changes - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        }
+      ],
+      "duration_ms": 246832,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Between The Head & The Heart",
-        "url": "https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH"
+        "name": "Tied to You",
+        "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
       },
       "artists": [
         {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
         }
       ],
-      "duration_ms": 179120,
-      "name": "Finish What You Started",
-      "url": "https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY"
+      "duration_ms": 223728,
+      "name": "Tied to You",
+      "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Tied to You",
-        "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
+        "name": "Between The Head & The Heart",
+        "url": "https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "L\u00f6Kii",
-          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
         }
       ],
-      "duration_ms": 223728,
-      "name": "Tied to You",
-      "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
+      "duration_ms": 179120,
+      "name": "Finish What You Started",
+      "url": "https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
+        "name": "Sun Phase",
+        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 316454,
+      "name": "Sun Phase",
+      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
         "name": "What I Breathe",
         "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 257424,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
-        "name": "Sun Phase",
-        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 316454,
-      "name": "Sun Phase",
-      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
     }
   ],
   "unique_name": "Sunday Sessions",

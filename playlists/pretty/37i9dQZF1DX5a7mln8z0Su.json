@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5705,
+  "num_followers": 5708,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDAwYzNhM2MyMDA1MDA0MTEyYzEyMWI1NmFlZDY5MzYyYTg5MTU0",
+  "snapshot_id": "MCw1ZjVlYjQyODk1YTY5ODkxYjE1MDYyOGQ0NjUzNmRkMzdmNDc2M2M0",
   "tracks": [
     {
       "added_at": "2023-05-02 09:11:23",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-02 09:11:23",
       "album": {
-        "name": "Like A Film : 4 Songs",
-        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Smile, Wait For The Flash",
-      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
-    },
-    {
-      "added_at": "2023-05-02 09:11:23",
-      "album": {
         "name": "3 STEPS FORWARD, 2 STEPS BACK",
         "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 293754,
       "name": "Thread(1.11)",
       "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
+    },
+    {
+      "added_at": "2023-05-02 09:11:23",
+      "album": {
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Smile, Wait For The Flash",
+      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
     },
     {
       "added_at": "2023-05-02 09:11:23",

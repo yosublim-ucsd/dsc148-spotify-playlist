@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,904 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,992 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 10 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:41 |
 | 11 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
 | 12 | [Million](https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Million](https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU) | 4:31 |
-| 13 | [Thank God I Found You \(feat\. Joe & Nas\) \- Make It Last Remix Edit](https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Clue](https://open.spotify.com/artist/4ybJiTIMVzeVOd00nI8Xxm), [Supa Engineer "Duro"](https://open.spotify.com/artist/04PvD1Anr3LC341vrIWXsf) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:11 |
-| 14 | [Slow Jam \(feat\. Monica\)](https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 4:43 |
+| 13 | [Slow Jam \(feat\. Monica\)](https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 4:43 |
+| 14 | [Thank God I Found You \(feat\. Joe & Nas\) \- Make It Last Remix Edit](https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Clue](https://open.spotify.com/artist/4ybJiTIMVzeVOd00nI8Xxm), [Supa Engineer "Duro"](https://open.spotify.com/artist/04PvD1Anr3LC341vrIWXsf) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:11 |
 | 15 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 |
 | 16 | [How Come You Don't Call Me](https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:57 |
 | 17 | [The Love We Had \(Stays On My Mind\)](https://open.spotify.com/track/1c5933EOm7iYCsbVLHNxq7) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 5:35 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Stop, Look, Listen To Your Heart](https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [The Best Of Will Downing: The Millennium Collection \- 20th Century Masters](https://open.spotify.com/album/25s9D0Llmg6ZSvFCK9MDAM) | 3:41 |
 | 35 | [Love Don't Live Here Anymore](https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 4:17 |
 
-Snapshot ID: `MCw5MDhkOGEyOWI0NTU4YjFiYTAxOTEwNjk1MzEwOTg0ZDFjZjVmNTNk`
+Snapshot ID: `MCxlMjhhYWI4MmM0OGUwMWQ3NjBjOGFhNDc4Zjg2OGMwMjZjMDRiOTgy`

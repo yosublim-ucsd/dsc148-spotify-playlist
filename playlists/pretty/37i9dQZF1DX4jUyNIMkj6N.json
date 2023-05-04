@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 179590,
+  "num_followers": 179646,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGY4N2YzMzg0NTM4Zjc0MzhmYjRlMjE0MWJmMjIxNDg1MzE0YmM5",
+  "snapshot_id": "MCw5NzNhY2E4ZTczMTMwOTFlNjJmOWE4OWE2MmNiMTIwYzcwOWNkYjJm",
   "tracks": [
     {
       "added_at": "2023-04-27 22:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Unknown / (It's Not About) Running",
         "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 250850,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Pixie's Parasol",
+      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Magic Chairs",
-        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
-      },
-      "artists": [
-        {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
-        }
-      ],
-      "duration_ms": 293760,
-      "name": "Modern Drift",
-      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 299840,
       "name": "bl\u00f3mi",
       "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Magic Chairs",
+        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Modern Drift",
+      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Early Summer Rain",
         "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 170181,
       "name": "Early Summer Rain",
       "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -751,54 +751,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "I Saw Her from Here / I Saw Here",
-        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
-      },
-      "artists": [
-        {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "When the Mourning Comes",
-      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 225939,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "Br\u00e5tebrann (Vinyl Edition)",
-        "url": "https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "Spor i sand",
-      "url": "https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Time of Waiting",
         "url": "https://open.spotify.com/album/55d318EyF219Cbnei0f0wV"
       },
@@ -819,6 +771,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 225939,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
       },
@@ -831,6 +799,38 @@
       "duration_ms": 220080,
       "name": "Look At The Light",
       "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "I Saw Her from Here / I Saw Here",
+        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
+      },
+      "artists": [
+        {
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "When the Mourning Comes",
+      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Br\u00e5tebrann (Vinyl Edition)",
+        "url": "https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "Spor i sand",
+      "url": "https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Sumie",
-        "url": "https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg"
-      },
-      "artists": [
-        {
-          "name": "Sumie",
-          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
-        }
-      ],
-      "duration_ms": 195741,
-      "name": "Hunting Sky",
-      "url": "https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Tran\u00f8y fyr",
         "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 211426,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Sumie",
+        "url": "https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg"
+      },
+      "artists": [
+        {
+          "name": "Sumie",
+          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
+        }
+      ],
+      "duration_ms": 195741,
+      "name": "Hunting Sky",
+      "url": "https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO"
     },
     {
       "added_at": "2023-04-27 22:00:00",

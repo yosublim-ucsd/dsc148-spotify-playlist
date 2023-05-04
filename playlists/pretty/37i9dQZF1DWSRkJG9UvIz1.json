@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 125188,
+  "num_followers": 125213,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2M4MjA5OWRkNGFhNDFhZTAwYTM5YTcwNjA0NTY5M2ZkNDc4MDIz",
+  "snapshot_id": "MCxiODRhOTA5NDk1NWJlY2FmMmU3MmI5ZDA2OWM1NjY1ZGJkMjNmNGQ2",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Painted",
-        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 211945,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
         "name": "Juice of Mandarins",
         "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 145609,
       "name": "Juice of Mandarins",
       "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 211945,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
     },
     {
-      "added_at": "2023-05-03 00:55:43",
+      "added_at": "2023-05-04 00:22:58",
       "album": {
         "name": "Esque\u00e7o das Horas (Always On Replay)",
         "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
         "name": "Quarta Feira",
         "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 274537,
       "name": "Bossa Velha",
       "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        }
-      ],
-      "duration_ms": 262281,
-      "name": "Caf\u00e9 Com Leite",
-      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
     },
     {
       "added_at": "2023-03-11 03:38:22",

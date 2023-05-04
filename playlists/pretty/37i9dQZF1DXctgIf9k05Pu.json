@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 232134,
+  "num_followers": 232239,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjUzOWJkM2FlNzE2MWUxOGEzYTM2Y2IzMDkzZGVjYzQ1N2QyZjIy",
+  "snapshot_id": "MCxhYzdmMDZlNGJhOGM4YzZlZjU5YzA1MjY5YmYxOGEzMWQwMTE4NmFk",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Redbone",
+        "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "duration_ms": 102176,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "drinking under the streetlights",
         "url": "https://open.spotify.com/album/3hHe7soPaQsQqALZOgNIYe"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 182416,
       "name": "the way that you see me (feat. Ayleen Valentine)",
       "url": "https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Redbone",
-        "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
-      },
-      "artists": [
-        {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
-        }
-      ],
-      "duration_ms": 102176,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -703,6 +703,30 @@
       "duration_ms": 332173,
       "name": "Getsomerest/sleepwell",
       "url": "https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
+      },
+      "artists": [
+        {
+          "name": "VANO 3000",
+          "url": "https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
+        }
+      ],
+      "duration_ms": 111957,
+      "name": "Running Away - Vocal Remix",
+      "url": "https://open.spotify.com/track/09SQixfCZZ9rUDoY1MZB2d"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -779,30 +803,6 @@
       "duration_ms": 197468,
       "name": "Day in Paris",
       "url": "https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
-      },
-      "artists": [
-        {
-          "name": "VANO 3000",
-          "url": "https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Samuel T. Herring",
-          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
-        }
-      ],
-      "duration_ms": 111957,
-      "name": "Running Away - Vocal Remix",
-      "url": "https://open.spotify.com/track/09SQixfCZZ9rUDoY1MZB2d"
     },
     {
       "added_at": "2022-02-02 00:21:48",

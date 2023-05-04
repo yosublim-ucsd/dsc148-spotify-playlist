@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Bebe Rexha, Labrinth, TAEYANG & LISA and more! Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,602 likes - 78 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,620 likes - 78 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [To Myself](https://open.spotify.com/track/6yF5g6gIuCgHybfYkiDVbu) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [PLOY](https://open.spotify.com/album/7zN3jhCgtmlDTzsTvS7VHp) | 3:18 |
 | 78 | [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 |
 
-Snapshot ID: `MCw5MjQ0NDJiNzE1YTkzZjczYTlkNzQxMzc5MDM5MDAxNGYyYWE2M2E5`
+Snapshot ID: `MCw4YzI4YWIwNTRiN2RhMTU2YjAxMTc1NGVmNzVhODg2ODc4NmVlMTk4`

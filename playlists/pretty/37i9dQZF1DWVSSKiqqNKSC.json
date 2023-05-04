@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 210622,
+  "num_followers": 210717,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmM1MWQyOWE1ZjZhNWRlNTlhY2EyMmEzMGE1YmM5ZDhiNTAwZGQw",
+  "snapshot_id": "MCxmODE0YWZhNDBkNzk5MmU0Yjc3NDY0M2VlNWNmOTdhNDQ3ZGNiOWI5",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -395,8 +395,8 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
-        "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
+        "name": "Contra Todos los Pron\u00f3sticos",
+        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
         }
       ],
-      "duration_ms": 392106,
-      "name": "Tu Me Recordar\u00e1s",
-      "url": "https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f"
+      "duration_ms": 387973,
+      "name": "El Aguila",
+      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -475,8 +475,8 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Contra Todos los Pron\u00f3sticos",
-        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+        "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
+        "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
         }
       ],
-      "duration_ms": 387973,
-      "name": "El Aguila",
-      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
+      "duration_ms": 392106,
+      "name": "Tu Me Recordar\u00e1s",
+      "url": "https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -647,26 +647,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Latin Fitness 2015 (Workout Party Music - Latin Hits ideal for Running, Fat Burning, Aerobic, Gym, Cardio, Training, Exercise)",
-        "url": "https://open.spotify.com/album/16tOGqmdb9JZMykQt8HBCH"
+        "name": "De la Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
       },
       "artists": [
         {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+          "name": "Barbaro Fines y su Mayimbe",
+          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
         }
       ],
-      "duration_ms": 273853,
-      "name": "Bailando - Official Salsa Version",
-      "url": "https://open.spotify.com/track/2CyRtX6QaCnaDtbqNo9aGU"
+      "duration_ms": 330533,
+      "name": "El Tren Bala",
+      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -691,18 +683,26 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "De la Habana a Per\u00fa",
-        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
+        "name": "Latin Fitness 2015 (Workout Party Music - Latin Hits ideal for Running, Fat Burning, Aerobic, Gym, Cardio, Training, Exercise)",
+        "url": "https://open.spotify.com/album/16tOGqmdb9JZMykQt8HBCH"
       },
       "artists": [
         {
-          "name": "Barbaro Fines y su Mayimbe",
-          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
         }
       ],
-      "duration_ms": 330533,
-      "name": "El Tren Bala",
-      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
+      "duration_ms": 273853,
+      "name": "Bailando - Official Salsa Version",
+      "url": "https://open.spotify.com/track/2CyRtX6QaCnaDtbqNo9aGU"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
+        "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "Marcando la Distancia",
+      "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
         "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
-        "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "Marcando la Distancia",
-      "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
     },
     {
       "added_at": "2022-12-30 18:20:45",

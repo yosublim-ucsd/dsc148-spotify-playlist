@@ -1,12 +1,12 @@
 {
   "description": "Viral hits in Africa",
-  "num_followers": 5289,
+  "num_followers": 5342,
   "original_name": "Viral Hits Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGEyZTdjYWQ2OWE4OTAzYjU1M2Y4OGU2NGRiMjcxNGJmNzM1MGE4",
+  "snapshot_id": "MCw4YTViMzc3NmNiZWVmZTIxMzdmYjczNWEzODg5M2FjNDgyZjIwMjg4",
   "tracks": [
     {
       "added_at": "2023-05-02 10:57:59",
@@ -438,6 +438,10 @@
         {
           "name": "Dj Belite",
           "url": "https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF"
+        },
+        {
+          "name": "DNDM",
+          "url": "https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA"
         }
       ],
       "duration_ms": 165557,

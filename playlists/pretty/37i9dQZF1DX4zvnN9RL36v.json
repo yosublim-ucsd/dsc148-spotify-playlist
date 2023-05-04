@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5071,
+  "num_followers": 5077,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2FmM2FiYTU1YWIwNDM5NGRiMWVhY2E3YTAwYWU4OGJlMGUwZmM4",
+  "snapshot_id": "MCwwNjgwZjFlMDNmNTQ2ODNkMWU1MDhhOTVjNDQzMDUzNmRhZDQ3ZjFi",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "\uc774\ub7f4\uac70\uba74 \uadf8\ub7ec\uc9c0\ub9d0\uc9c0 Shouldn't Have\u2026",
-        "url": "https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 212761,
-      "name": "\uc774\ub7f4\uac70\uba74 \uadf8\ub7ec\uc9c0\ub9d0\uc9c0 Shouldn't Have\u2026 (feat. Young K)",
-      "url": "https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "\uc911\ub3c5",
         "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 262562,
       "name": "\ub098\uc600\uc73c\uba74",
       "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "\uc774\ub7f4\uac70\uba74 \uadf8\ub7ec\uc9c0\ub9d0\uc9c0 Shouldn't Have\u2026",
+        "url": "https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 212761,
+      "name": "\uc774\ub7f4\uac70\uba74 \uadf8\ub7ec\uc9c0\ub9d0\uc9c0 Shouldn't Have\u2026 (feat. Young K)",
+      "url": "https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "I hope I cross your mind",
-        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "I hope I cross your mind",
-      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Kim Hyung Joong",
         "url": "https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 269832,
       "name": "\uadf8\ub7ac\ub098\ubd10",
       "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "I hope I cross your mind",
+        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "I hope I cross your mind",
+      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
     },
     {
       "added_at": "2023-05-02 09:09:27",

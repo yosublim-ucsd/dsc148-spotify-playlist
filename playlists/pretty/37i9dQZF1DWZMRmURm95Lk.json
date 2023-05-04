@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Kiave, Gheesa e Macro Marco in cover.",
-  "num_followers": 32029,
+  "num_followers": 32053,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDFiMTc1ZDhmMTA5MzI0MjYyMmM5MzYyZTgwNzIyODNlNWZkNzc3",
+  "snapshot_id": "MCw4NDVkYzQxMzk3NDFiOTM4NjdhNjI2Njk3ZWZiN2VkYjE0ZGZkZTIx",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
-      },
-      "artists": [
-        {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
-        }
-      ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Fabiano detto Inoki",
         "url": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 232986,
       "name": "Non mi avrete mai",
       "url": "https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+      },
+      "artists": [
+        {
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+        }
+      ],
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -619,6 +619,62 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 130593,
+      "name": "Yeah (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        }
+      ],
+      "duration_ms": 201618,
+      "name": "Freccia",
+      "url": "https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "La calda notte",
+        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Cronaca quotidiana",
+      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Signor prefetto",
         "url": "https://open.spotify.com/album/2AODYSqwEVR0mtHL9DazZc"
       },
@@ -663,62 +719,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
       },
       "artists": [
         {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 201618,
-      "name": "Freccia",
-      "url": "https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Gemello",
-          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
-        },
-        {
-          "name": "Metal Carter",
-          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
-      "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 130593,
-      "name": "Yeah (feat. Emis Killa)",
-      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+      "duration_ms": 158786,
+      "name": "Brutto Figlio Di",
+      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -739,22 +751,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Caos",
-        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Brutto Figlio Di",
-      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "SPECIALIST",
         "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
       },
@@ -767,6 +763,26 @@
       "duration_ms": 145446,
       "name": "SPECIALIST",
       "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "64 Bare",
+        "url": "https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        },
+        {
+          "name": "Baloo",
+          "url": "https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA"
+        }
+      ],
+      "duration_ms": 161890,
+      "name": "64 Bare",
+      "url": "https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -795,28 +811,8 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "64 Bare",
-        "url": "https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj"
-      },
-      "artists": [
-        {
-          "name": "Nt\u00f2",
-          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
-        },
-        {
-          "name": "Baloo",
-          "url": "https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA"
-        }
-      ],
-      "duration_ms": 161890,
-      "name": "64 Bare",
-      "url": "https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "La calda notte",
-        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
       "artists": [
         {
@@ -824,13 +820,17 @@
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         },
         {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+        },
+        {
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Cronaca quotidiana",
-      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
+      "duration_ms": 258665,
+      "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
+      "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Iron Maiden",
+        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
+      },
+      "artists": [
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Iron Maiden",
+      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Luigi XVI",
         "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 185880,
       "name": "Hashishin",
       "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Iron Maiden",
-        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
-      },
-      "artists": [
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Iron Maiden",
-      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "4 MANI",
-        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "SPUNTABLU",
-      "url": "https://open.spotify.com/track/7MZcg5pmEXvJSNeOEVZ13s"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Sotto effetto stono",
         "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 276933,
       "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
       "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "4 MANI",
+        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "SPUNTABLU",
+      "url": "https://open.spotify.com/track/7MZcg5pmEXvJSNeOEVZ13s"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -1859,18 +1875,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+        "name": "Lo Spirito Che Suona",
+        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
         }
       ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+      "duration_ms": 269760,
+      "name": "Citt\u00e0 di vetro",
+      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1903,26 +1923,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Lo Spirito Che Suona",
-        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Citt\u00e0 di vetro",
-      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Neffa E I Messaggeri Della Dopa",
         "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
@@ -1935,26 +1935,6 @@
       "duration_ms": 320493,
       "name": "La Ballotta",
       "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Ad occhi chiusi",
-        "url": "https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Elisa Aramonte",
-          "url": "https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl"
-        }
-      ],
-      "duration_ms": 225584,
-      "name": "Ad occhi chiusi",
-      "url": "https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1975,6 +1955,26 @@
       "duration_ms": 185759,
       "name": "Fra le note",
       "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Ad occhi chiusi",
+        "url": "https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Elisa Aramonte",
+          "url": "https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl"
+        }
+      ],
+      "duration_ms": 225584,
+      "name": "Ad occhi chiusi",
+      "url": "https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH"
     },
     {
       "added_at": "2023-04-20 22:01:00",

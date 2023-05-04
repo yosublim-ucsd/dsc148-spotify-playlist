@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,877 likes - 102 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,891 likes - 102 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 62 | [Maathu Ninthathumele Sotthu](https://open.spotify.com/track/1AtX5902UoNcngQPlmefdU) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy), [Kaviraj](https://open.spotify.com/artist/2EZRpaOhKG0jZb7xojXV21) | [Love Birds \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NTXHjnSEcyprmBXyzOH0h) | 2:26 |
 | 63 | [Mina Mina \(From "Beega"\)](https://open.spotify.com/track/2F8caipFK11rqwUWZzR18X) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Sangeetha Ravindranath](https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43), [Sri Guru](https://open.spotify.com/artist/7lhJIYws0pC5cM7Oxh2WUU) | [Mina Mina \(From "Beega"\)](https://open.spotify.com/album/3VfoQ7yMwYGOo8odSy9vKq) | 4:37 |
 | 64 | [Bogaseyalli \(from "Gowli"\)](https://open.spotify.com/track/2tLw1mRenERa9TCPIBbGYm) | [Indu Nagaraj](https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Bogaseyalli \(from "Gowli"\)](https://open.spotify.com/album/5GfULun5gx2cf6OvaZywbY) | 3:14 |
-| 65 | [Orr Vaari \(From "Dasara"\)](https://open.spotify.com/track/0ZwdlveEv5eyWlGW5aiG19) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Orr Vaari \(From "Dasara"\) \- Single](https://open.spotify.com/album/1WghIUiak89HN6PLTKQ55W) | 3:43 |
+| 65 | [Orr Vaari](https://open.spotify.com/track/6mXiWON7Ko2ozI2oFiD1iA) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Dasara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5uYOuJ1s0YW8gX8ywilGuW) | 3:43 |
 | 66 | [Neene Dhoretha Mele \(From "Love Birds"\)](https://open.spotify.com/track/1icYJZFEymIhFiVRkQiirP) | [Indu Nagaraj](https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Kaviraj](https://open.spotify.com/artist/2EZRpaOhKG0jZb7xojXV21) | [Neene Dhoretha Mele \(From "Love Birds"\) \- Single](https://open.spotify.com/album/3gt1eTCDiJzJSQYzRmI32H) | 3:01 |
 | 67 | [Deguladi \- From "Mancha"](https://open.spotify.com/track/4MTEHXSUvoD7NHbcGEdyGe) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Srikanth Deva](https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Deguladi \(From "Mancha"\)](https://open.spotify.com/album/23sS7uikMdfagPQn6VOKpZ) | 3:38 |
 | 68 | [Guri Seradhe](https://open.spotify.com/track/2uqYJlWUmT1ON1qg5WQI1f) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy), [Kaviraj](https://open.spotify.com/artist/2EZRpaOhKG0jZb7xojXV21) | [Love Birds \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NTXHjnSEcyprmBXyzOH0h) | 2:47 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 101 | [Haaduve Naa Haaduve](https://open.spotify.com/track/5T8wOodxnY4yKIUqL3WyC7) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Siddharth Belmannu](https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj) | [Orchestra, Mysuru! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1xZ7njeguIdXjWWuBFDnqd) | 6:52 |
 | 102 | [Kranti Deepa](https://open.spotify.com/track/1FGQznFkfQ2nggQ4fs41ke) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Kranti Deepa](https://open.spotify.com/album/4J1yPPWodToG9L4QJUrc8h) | 2:59 |
 
-Snapshot ID: `MCw4YTE2MWRhOTMwMDU1YWJmYTE0ZjU2NTU3MDk3ZThkNjhkNmJjOWJl`
+Snapshot ID: `MCwzMGYzODAxYTY3M2RhNTk2ODM4NDIyZWU5MDJiNDA2NjZjYjM1Mzhh`

@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 215733,
       "name": "A Comforting Notion",
       "url": "https://open.spotify.com/track/2tniPhDw3ucCvxH3F9DHCt"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 163053,
       "name": "Accidental Momentary Blur",
       "url": "https://open.spotify.com/track/5J5oJAE95Es8IZfN5umlqr"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 292780,
       "name": "And Now I Am Lit",
       "url": "https://open.spotify.com/track/4pSTFb9UVQXr5V9XkYNG1p"
@@ -1390,6 +1390,24 @@
       "duration_ms": 332306,
       "name": "Chosen to Deserve",
       "url": "https://open.spotify.com/track/4Qw9BVghOFfjUyVWV26m2Q"
+    },
+    {
+      "album": {
+        "name": "Chum",
+        "url": "https://open.spotify.com/album/0rfSjODPFrcMWnFyt0aHhp"
+      },
+      "artists": [
+        {
+          "name": "Moreish Idols",
+          "url": "https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241994,
+      "name": "Chum",
+      "url": "https://open.spotify.com/track/5NdPS3yAClcmbsj9UwH5Hf"
     },
     {
       "album": {
@@ -2563,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "& the Charm",
+        "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192959,
+      "name": "Entombed In Ice",
+      "url": "https://open.spotify.com/track/75tyRe2oY9NRJc7yr1SZwl"
+    },
+    {
+      "album": {
         "name": "Nothing Special",
         "url": "https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM"
       },
@@ -3296,7 +3332,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 196120,
       "name": "Gold Duck",
       "url": "https://open.spotify.com/track/5w7PpkRPHYHET9x0i5xTWk"
@@ -4436,7 +4472,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 285308,
       "name": "It's You",
       "url": "https://open.spotify.com/track/21sMYVKeuKzBWwSg5uYeVJ"
@@ -4690,6 +4726,24 @@
       "duration_ms": 161893,
       "name": "Lights - A. G. Cook Remix",
       "url": "https://open.spotify.com/track/5lZjuVUB34aCKhhdZLA9C2"
+    },
+    {
+      "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241946,
+      "name": "Lilac Twilight",
+      "url": "https://open.spotify.com/track/0qohNUSvGCeBHP4ho0Rzje"
     },
     {
       "album": {
@@ -5026,7 +5080,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 177559,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
@@ -5106,6 +5160,28 @@
       "duration_ms": 74200,
       "name": "MFSOTSOTR",
       "url": "https://open.spotify.com/track/1hEziKm5iLBqQD3Bg5jzGw"
+    },
+    {
+      "album": {
+        "name": "Mi vida en llamas (feat. Buscabulla)",
+        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288624,
+      "name": "Mi vida en llamas (feat. Buscabulla)",
+      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
     },
     {
       "album": {
@@ -5878,7 +5954,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 186493,
       "name": "Parody",
       "url": "https://open.spotify.com/track/4oWHRC1mCSSJhNv3YoUlBc"
@@ -6735,6 +6811,24 @@
     },
     {
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287297,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ"
+    },
+    {
+      "album": {
         "name": "Simple Things (feat. Theo Croker)",
         "url": "https://open.spotify.com/album/2F2e3hezMEppcvVpZ949WR"
       },
@@ -6826,6 +6920,28 @@
       "duration_ms": 231968,
       "name": "Six-Pack",
       "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
+    },
+    {
+      "album": {
+        "name": "Smile Please",
+        "url": "https://open.spotify.com/album/7ICcPNtiYMD2teS4rFClhS"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135434,
+      "name": "Smile Please",
+      "url": "https://open.spotify.com/track/0WbuDhRzi9VQdz1qmUY47l"
     },
     {
       "album": {
@@ -7397,6 +7513,24 @@
     },
     {
       "album": {
+        "name": "COLLIDE #8 - YIN YIN",
+        "url": "https://open.spotify.com/album/1VrM4u1Od1eGzQhvC1ND3P"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226961,
+      "name": "The Age of Aquarius - REEPERBAHN FESTIVAL COLLIDE",
+      "url": "https://open.spotify.com/track/583S6MkFowlidPsqUJ1Jok"
+    },
+    {
+      "album": {
         "name": "He Poos Clouds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6GPuuAWTlcq1GC90ujJlJl"
       },
@@ -7668,7 +7802,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 147436,
       "name": "The Town That Cursed Your Name",
       "url": "https://open.spotify.com/track/39NtyBYkSjt8Cl9sABANiS"
@@ -8326,7 +8460,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 409943,
       "name": "Untitled #1",
       "url": "https://open.spotify.com/track/5xk9fGfVzaa3k9dcjDmUpJ"
@@ -8344,7 +8478,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 260493,
       "name": "Up Song - Live at Bush Hall",
       "url": "https://open.spotify.com/track/3b6suhvxtWPIF0tZe5xDCL"
@@ -8427,6 +8561,24 @@
     },
     {
       "album": {
+        "name": "Waiting In The Car",
+        "url": "https://open.spotify.com/album/6MNULW9FcQK3DfEDygB305"
+      },
+      "artists": [
+        {
+          "name": "Mun Sing",
+          "url": "https://open.spotify.com/artist/4i2WqYOYiN18NvrlWyNzfc"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154900,
+      "name": "Waiting In The Car",
+      "url": "https://open.spotify.com/track/7twbKxmUCa7CJClSytrD2I"
+    },
+    {
+      "album": {
         "name": "Weather Alive",
         "url": "https://open.spotify.com/album/1GlvLDvrCrUNFeNEQoyimx"
       },
@@ -8460,6 +8612,24 @@
       "duration_ms": 249709,
       "name": "Welcome To Hell",
       "url": "https://open.spotify.com/track/1PMHfsqnvnTO7mBwDA5pQL"
+    },
+    {
+      "album": {
+        "name": "Jump On It",
+        "url": "https://open.spotify.com/album/6CkHIFdp0KCUpPIEVxqTQG"
+      },
+      "artists": [
+        {
+          "name": "Bill Orcutt",
+          "url": "https://open.spotify.com/artist/49ECnwhYzm6Nu97puMvwjG"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181525,
+      "name": "What Do You Do With Memory",
+      "url": "https://open.spotify.com/track/7LsIe6I4xo7hQRFq6jhvXl"
     },
     {
       "album": {

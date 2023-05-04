@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,602 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,608 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 3 | [KKW Beauty Unboxing, Pt\. 1](https://open.spotify.com/track/69m3nD9Ju1Vo4rXxjfZrfr) | [Chynaunique ASMR](https://open.spotify.com/artist/6Z9u1ESUuHk9m66KVYFZa6) | [KKW Beauty Unboxing](https://open.spotify.com/album/1FwLj8SygHzhFh660eZBn7) | 1:54 |
 | 4 | [Unintelligble Sleep Whisper Dee Kaa](https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 3:02 |
 | 5 | [Close Ear to Ear Whispered Countdown to Sleep Pt.2](https://open.spotify.com/track/1volF5Eo78NkxftiB0pg75) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Close Ear to Ear Whispered Countdown to Sleep](https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk) | 4:56 |
-| 6 | [Whispers and Thrifty Tingles Pt.1](https://open.spotify.com/track/3Wbm2ioAtPkjMj3N46M5ez) | [Prim ASMR](https://open.spotify.com/artist/6OhEbrAJdkKbJ8cjfNCi1X) | [Whispers and Thrifty Tingles](https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd) | 4:11 |
-| 7 | [Super sleepy attention, close positive whispers, inaudible whispers Pt.1](https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR) | [RoseASMR](https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS) | [Super sleepy attention, close positive whispers, inaudible whispers](https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH) | 4:39 |
+| 6 | [Super sleepy attention, close positive whispers, inaudible whispers Pt.1](https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR) | [RoseASMR](https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS) | [Super sleepy attention, close positive whispers, inaudible whispers](https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH) | 4:39 |
+| 7 | [Whispers and Thrifty Tingles Pt.1](https://open.spotify.com/track/3Wbm2ioAtPkjMj3N46M5ez) | [Prim ASMR](https://open.spotify.com/artist/6OhEbrAJdkKbJ8cjfNCi1X) | [Whispers and Thrifty Tingles](https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd) | 4:11 |
 | 8 | [Reassuring Whispers Asmr](https://open.spotify.com/track/48yZMCOxznAnwEuqyiX1Cg) | [DianaDewAsmr](https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu) | [July Tingly Studio Sounds Special](https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz) | 3:46 |
 | 9 | [Showering You In Compliments Pt.2](https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL) | [ASMR Darling](https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7) | [Showering You In Compliments](https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh) | 3:31 |
 | 10 | [Sleep Clinic Part 2](https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo) | [Karuna Satori ASMR](https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5) | [Karuna's Sleep Clinic](https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W) | 3:52 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 41 | [Painting Your Lips](https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 1:14 |
 | 42 | [Triggers I'm Wearing Pt.1](https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Triggers I'm Wearing](https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ) | 4:37 |
 | 43 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
-| 44 | [Red Candle Whisper Description](https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Binaural ASMR Descriptions](https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0) | 2:46 |
-| 45 | [8D Mic Scratching with Spoolie and Slow Whispering, Pt\. 4](https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [ASMR 8D Mic Scratching w/Spoolie and Slow Whispering](https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc) | 3:26 |
+| 44 | [8D Mic Scratching with Spoolie and Slow Whispering, Pt\. 4](https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [ASMR 8D Mic Scratching w/Spoolie and Slow Whispering](https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc) | 3:26 |
+| 45 | [Red Candle Whisper Description](https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Binaural ASMR Descriptions](https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0) | 2:46 |
 | 46 | [7 Terrific Triggers, Pt\. 1](https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [7 Terrific Triggers](https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3) | 3:36 |
 | 47 | [Identifying the Different Fantasy Coins](https://open.spotify.com/track/6Y53WoHgjy7RwHh7AXiROE) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/53mRZ0RNRh0pMAkFMrhLV8) | 5:03 |
 | 48 | [Alphabet Revision, Pt\. 1](https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc) | [iPad ASMR](https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN) | [Russian Language Revision \- Cyrillic Alphabet](https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh) | 3:29 |
 | 49 | [Do You Have Plans?](https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Checking Up On You \(Scratch, Tapping, Ramble\)](https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy) | 5:21 |
 | 50 | [Going Over Your Notes / Writing Sounds](https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR For Sleep \| Zen Rainforest Sleep Treatment \- Day 1 of 3](https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c) | 6:01 |
 
-Snapshot ID: `MCxkNzNjN2Y2OTE0ODY5YzNjZmFhYzg0YzUwZWEyYjI4MWE1MjgyN2M3`
+Snapshot ID: `MCw1MjZiMGU0MmIzY2ZiZThkOGNmNTRlNGM2ZGE4OTlhZDk3MDUzZjkz`

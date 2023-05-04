@@ -63,6 +63,32 @@
     },
     {
       "album": {
+        "name": "Adu Rayu",
+        "url": "https://open.spotify.com/album/7MQvEjN92cqRdNUCMOKCPA"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        },
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207700,
+      "name": "Adu Rayu",
+      "url": "https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb"
+    },
+    {
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/79OlXi99SqRKLTrZXedCfq"
       },
@@ -110,7 +136,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 244449,
       "name": "Are You My Valentine?",
       "url": "https://open.spotify.com/track/6Z3vBLF6uUfjUCNmgPcuwr"
@@ -186,7 +212,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 245913,
       "name": "Bersamamu",
       "url": "https://open.spotify.com/track/1FVZrAZ6kLrgnaRB9pzYMD"
@@ -388,7 +414,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 257600,
       "name": "Hadiah Terindah",
       "url": "https://open.spotify.com/track/7AlmGGpj0EjILrJaPq0YSn"
@@ -634,7 +660,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 207398,
       "name": "Jatuh Cinta - Keluarga Cemara 2 Original Soundtrack",
       "url": "https://open.spotify.com/track/1bqkmiujAzPU2YOvCB3Mxj"
@@ -1028,7 +1054,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 226370,
       "name": "Menepi Menetap",
       "url": "https://open.spotify.com/track/2hGIQ9tovrpsJzEBR2QQwE"

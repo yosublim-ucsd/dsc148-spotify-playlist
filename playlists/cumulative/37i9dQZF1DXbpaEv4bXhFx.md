@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-202 songs - 12 hr 22 min
+203 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,11 +145,12 @@
 | [Rainy day](https://open.spotify.com/track/2yGgyexbjIFOKAbxwVDhvj) | [HVLF](https://open.spotify.com/artist/6X71eoORQsL541Tf2E2K8c) | [Rainy day](https://open.spotify.com/album/0yuFK5FXUza0irsBy1HHSJ) | 2:56 | 2022-07-04 | 2022-07-09 |
 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 | 2022-08-13 |  |
 | [Rainy Saturday](https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Rainy Saturday](https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2) | 4:04 | 2022-06-20 | 2022-08-14 |
+| [Rainy Season](https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Rainy Season](https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf) | 3:42 | 2023-05-02 |  |
 | [Remind](https://open.spotify.com/track/6saQVRL70Dfs25G0y3S6M9) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Remind](https://open.spotify.com/album/1cli5zZQ2oP31DTO4U8Ybg) | 3:13 | 2022-06-20 | 2022-07-13 |
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2022-06-20 | 2022-12-03 |
 | [ride](https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 3:48 | 2022-11-03 |  |
 | [Run from you](https://open.spotify.com/track/71p6LjYrskpmZa7hvWKHtn) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Run from you](https://open.spotify.com/album/0s3ZnlwcovdIAm1OuWnPn2) | 3:57 | 2022-06-20 | 2022-07-23 |
-| [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 | 2022-07-08 |  |
+| [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 | 2022-07-08 | 2023-05-04 |
 | [Salt Rain](https://open.spotify.com/track/21Zxpp28GSLJIsQujNDQxy) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:36 | 2022-06-20 | 2022-07-29 |
 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-06-29 | 2022-08-17 |
 | [Second Lover](https://open.spotify.com/track/0fag5Srel9h2sq6E5UySK7) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d), [Sane](https://open.spotify.com/artist/4TemJ3x72090Sbqw1X9Hbq) | [Voice](https://open.spotify.com/album/0thbcQxGSCIx16pfNSNpVG) | 3:51 | 2022-06-20 | 2022-07-25 |

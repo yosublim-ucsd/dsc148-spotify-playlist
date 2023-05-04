@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 489359,
+  "num_followers": 489384,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmMxNjAyYmNjNWE2YWUwYmVkNWJhM2U5ZDUzNDQ2M2M2NDAyYTI2",
+  "snapshot_id": "MCwwNDVjM2I3MjZjODc5NDZlOTZmNDg4ZDNhNWNhODI5OTFiMWM5YmYy",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -967,54 +967,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 153151,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
       },
@@ -1035,8 +987,56 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Pet Parade",
-        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 153151,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 248925,
-      "name": "The Balcony",
-      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
+      "duration_ms": 231800,
+      "name": "Absolute Loser",
+      "url": "https://open.spotify.com/track/45wGhAr9756RWGrSs35r56"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+        "name": "The Pet Parade",
+        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Absolute Loser",
-      "url": "https://open.spotify.com/track/45wGhAr9756RWGrSs35r56"
+      "duration_ms": 248925,
+      "name": "The Balcony",
+      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Shattered & Hollow",
+      "url": "https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Absolute Zero",
         "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Stay Gold",
-        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
+        "name": "My Entire Life",
+        "url": "https://open.spotify.com/album/5iKXNvSOGKgbaaGkiPNl2e"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Shattered & Hollow",
-      "url": "https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW"
+      "duration_ms": 166080,
+      "name": "My Entire Life",
+      "url": "https://open.spotify.com/track/5xfU0gNPSUqHkD6LkrHpAH"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Good Luck With Whatever",
-        "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Who Do You Think You're Talking To?",
-      "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Sun Leads Me On",
         "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
       },
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "My Entire Life",
-        "url": "https://open.spotify.com/album/5iKXNvSOGKgbaaGkiPNl2e"
+        "name": "Good Luck With Whatever",
+        "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
       },
       "artists": [
         {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 166080,
-      "name": "My Entire Life",
-      "url": "https://open.spotify.com/track/5xfU0gNPSUqHkD6LkrHpAH"
+      "duration_ms": 199413,
+      "name": "Who Do You Think You're Talking To?",
+      "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "I'm Not There",
+        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
+      },
+      "artists": [
+        {
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "I'm Not There",
+      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "How Low",
         "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "I'm Not There",
-        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
+        "name": "Ever Since I Lost My Mind",
+        "url": "https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A"
       },
       "artists": [
         {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
         }
       ],
-      "duration_ms": 243706,
-      "name": "I'm Not There",
-      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
+      "duration_ms": 266053,
+      "name": "If I Was",
+      "url": "https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Ever Since I Lost My Mind",
-        "url": "https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 266053,
-      "name": "If I Was",
-      "url": "https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "That Kind of Life",
-        "url": "https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV"
-      },
-      "artists": [
-        {
-          "name": "Michigan Rattlers",
-          "url": "https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "A Season On The Line",
         "url": "https://open.spotify.com/album/3WUZZCDyqL7k7TyOb2At4x"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 292307,
       "name": "Didn't He Ramble",
       "url": "https://open.spotify.com/track/0PcyGgEAKYaVpND2efXlar"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "That Kind of Life",
+        "url": "https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV"
+      },
+      "artists": [
+        {
+          "name": "Michigan Rattlers",
+          "url": "https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Galacticana",
-        "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
+        "name": "Holy Smokes Future Jokes",
+        "url": "https://open.spotify.com/album/7vmZ14hcMVtIIN9lD6JNpf"
       },
       "artists": [
         {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
         }
       ],
-      "duration_ms": 240733,
-      "name": "Galacticana",
-      "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
+      "duration_ms": 213525,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
     }
   ],
   "unique_name": "Folk Rock Favorites",

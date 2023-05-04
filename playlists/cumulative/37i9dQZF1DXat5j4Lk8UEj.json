@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
@@ -2882,6 +2882,24 @@
       "duration_ms": 213525,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/1H669K2zLp8ombaLNTCi96"
+    },
+    {
+      "album": {
+        "name": "Holy Smokes Future Jokes",
+        "url": "https://open.spotify.com/album/7vmZ14hcMVtIIN9lD6JNpf"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213525,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
     },
     {
       "album": {

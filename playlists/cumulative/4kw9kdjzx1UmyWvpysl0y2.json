@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 224827,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL"
@@ -5780,6 +5780,24 @@
       "duration_ms": 241026,
       "name": "Nibbana - Volen Sentir's Pink Sky Retouch",
       "url": "https://open.spotify.com/track/2g1kcSv6wz70zl7lhWpJzx"
+    },
+    {
+      "album": {
+        "name": "NIGHT",
+        "url": "https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB"
+      },
+      "artists": [
+        {
+          "name": "VESK GREEN",
+          "url": "https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259862,
+      "name": "NIGHT",
+      "url": "https://open.spotify.com/track/6MvLdr8EU0ROnLBIydewaD"
     },
     {
       "album": {

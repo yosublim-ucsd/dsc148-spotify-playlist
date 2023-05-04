@@ -1,13 +1,29 @@
 {
   "description": "All the New Joints featuring Coi Leray, Jack Harlow and more. Cover: G Herbo",
-  "num_followers": 214064,
+  "num_followers": 214191,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTQ5Y2Y4YTBkMjk2ZGFiMzM1MWZlM2M5OWFjNjcwMjA2ZGFjYzYz",
+  "snapshot_id": "MCwyZTNjNTk3MzlhYTUyMmYzZGNkYjQwMTEyMThmZTdiYzZiOGUwZWJh",
   "tracks": [
+    {
+      "added_at": "2023-05-03 04:00:00",
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {

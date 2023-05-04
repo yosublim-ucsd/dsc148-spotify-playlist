@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 138257,
+  "num_followers": 138353,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTQ4NWE5NDkxNmIyNTJhMThiZTQ1YzJhNzlhMWY1YzY0M2U5ZmFj",
+  "snapshot_id": "MCxkZmViOTU4YWJjZTM4NDY5MjExZGEwZDhiZDgxY2FmOWZiYzk2MGU4",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -221,20 +221,20 @@
       "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
+      "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Heart Like A Wheel",
-        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
         }
       ],
-      "duration_ms": 182040,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
+      "duration_ms": 260933,
+      "name": "Amie",
+      "url": "https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -253,20 +253,20 @@
       "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
+      "added_at": "2022-06-01 14:18:36",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
       },
       "artists": [
         {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         }
       ],
-      "duration_ms": 260933,
-      "name": "Amie",
-      "url": "https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr"
+      "duration_ms": 182040,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -303,18 +303,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "You're Only Lonely",
-        "url": "https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0"
+        "name": "Firefall",
+        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
       },
       "artists": [
         {
-          "name": "JD Souther",
-          "url": "https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5"
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
         }
       ],
-      "duration_ms": 228000,
-      "name": "You're Only Lonely",
-      "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
+      "duration_ms": 216066,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -335,18 +335,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Firefall",
-        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
+        "name": "You're Only Lonely",
+        "url": "https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0"
       },
       "artists": [
         {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+          "name": "JD Souther",
+          "url": "https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5"
         }
       ],
-      "duration_ms": 216066,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
+      "duration_ms": 228000,
+      "name": "You're Only Lonely",
+      "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
     },
     {
       "added_at": "2020-08-05 15:52:11",

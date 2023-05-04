@@ -906,6 +906,28 @@
     {
       "album": {
         "name": "Mzuzi Park",
+        "url": "https://open.spotify.com/album/1dJXbNR32lgYW7Pr54e2Sk"
+      },
+      "artists": [
+        {
+          "name": "OneDown",
+          "url": "https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0"
+        },
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493770,
+      "name": "Mzuzi Park",
+      "url": "https://open.spotify.com/track/0KHKdCpEbvDyJxvMRVJkZG"
+    },
+    {
+      "album": {
+        "name": "Mzuzi Park",
         "url": "https://open.spotify.com/album/7HyH6hOrjSFGTsg9Y4CeH6"
       },
       "artists": [
@@ -920,7 +942,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 493770,
       "name": "Mzuzi Park",
       "url": "https://open.spotify.com/track/1CtmlLBB4dAzTdBXNAt4d2"

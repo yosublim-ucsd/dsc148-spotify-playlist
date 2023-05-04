@@ -1,12 +1,12 @@
 {
   "description": "Puras morras rifadas. \u00a1S\u00fabele al volumen! En portada: Vondr\u00e9",
-  "num_followers": 6441,
+  "num_followers": 6470,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjUzZWEwZGIzNmY5NTA1YjRkYzJiYWU3NjQ4NDQ5NGZlYWZjZDI4",
+  "snapshot_id": "MCxlMDNlY2M3OGM4ZGE5NTFmY2NiMzgyYTQ4ZmQ1ZWM2ODg5Nzk2ZWM0",
   "tracks": [
     {
       "added_at": "2023-03-31 19:50:43",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-03-31 19:50:43",
       "album": {
+        "name": "Corrida al Arco",
+        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 255617,
+      "name": "Corrida al Arco",
+      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
+    },
+    {
+      "added_at": "2023-03-31 19:50:43",
+      "album": {
         "name": "surrealismo.",
         "url": "https://open.spotify.com/album/24gpp8Y3ggwerd9gUKNnre"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-03-31 19:50:43",
       "album": {
-        "name": "Corrida al Arco",
-        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
+        "name": "Dream Wife",
+        "url": "https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF"
       },
       "artists": [
         {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
         }
       ],
-      "duration_ms": 255617,
-      "name": "Corrida al Arco",
-      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
+      "duration_ms": 200493,
+      "name": "Hey Heartbreaker",
+      "url": "https://open.spotify.com/track/4GlABUbKd2p5dRvOlGhphU"
     },
     {
       "added_at": "2023-03-31 19:50:43",
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-03-31 19:50:43",
       "album": {
-        "name": "Volver a Ser",
-        "url": "https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 208048,
-      "name": "Volver a Ser",
-      "url": "https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj"
-    },
-    {
-      "added_at": "2023-03-31 19:50:43",
-      "album": {
         "name": "Frente al Mar",
         "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-03-31 19:50:43",
       "album": {
-        "name": "Todo Se Est\u00e1 Cayendo",
-        "url": "https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6"
+        "name": "Volver a Ser",
+        "url": "https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV"
       },
       "artists": [
         {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
         }
       ],
-      "duration_ms": 255200,
-      "name": "Todo Se Est\u00e1 Cayendo",
-      "url": "https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8"
+      "duration_ms": 208048,
+      "name": "Volver a Ser",
+      "url": "https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj"
     }
   ],
   "unique_name": "Ruidosas",

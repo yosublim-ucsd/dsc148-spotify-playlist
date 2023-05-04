@@ -7800,7 +7800,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 360705,
       "name": "Looped",
       "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
@@ -11593,6 +11593,24 @@
     },
     {
       "album": {
+        "name": "Softcorners",
+        "url": "https://open.spotify.com/album/0JCaD2WojF7P8pIoIHEzxC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304366,
+      "name": "Sister Species",
+      "url": "https://open.spotify.com/track/5EpnGDKvSm4Rm3lnyOrX4D"
+    },
+    {
+      "album": {
         "name": "Sistine (Plucks)",
         "url": "https://open.spotify.com/album/2q6v3ilegZlsSg04Hoc4Gg"
       },
@@ -12074,7 +12092,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 456585,
       "name": "Spike",
       "url": "https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6"
@@ -14070,7 +14088,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 403254,
       "name": "Trust Your Feet",
       "url": "https://open.spotify.com/track/7MQYbNg70VHTCjsbMrFQmH"

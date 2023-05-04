@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 473550,
+  "num_followers": 473658,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGI2MWQ2ZGNhMGFkY2U0MDNjOGFmZjRjNGU1YjZlNjFkOWE5YTkw",
+  "snapshot_id": "MCxkYTk4ODdiNGU2OTg5OWFjYjg2Y2E0Mzc0N2JmNDQ4MTdjMDg3NmVj",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Alligator Stew",
-        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
-      },
-      "artists": [
-        {
-          "name": "Alligator Stew",
-          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Two Wheels",
-      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Potlatch",
         "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 280346,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Alligator Stew",
+        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
+      },
+      "artists": [
+        {
+          "name": "Alligator Stew",
+          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Two Wheels",
+      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
-        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+        "name": "Back to Rock",
+        "url": "https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7"
       },
       "artists": [
         {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+          "name": "Ghost Riders",
+          "url": "https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug"
         }
       ],
-      "duration_ms": 396226,
-      "name": "Duane's Tune",
-      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
+      "duration_ms": 247200,
+      "name": "Don't Know Where I'm Bound",
+      "url": "https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Back to Rock",
-        "url": "https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7"
+        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
+        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
       },
       "artists": [
         {
-          "name": "Ghost Riders",
-          "url": "https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug"
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Don't Know Where I'm Bound",
-      "url": "https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ"
+      "duration_ms": 396226,
+      "name": "Duane's Tune",
+      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
     },
     {
       "added_at": "2023-01-18 21:52:55",

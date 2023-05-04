@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=5ofkqd1fSIe1ZtWyg6iFDg\"> Baaba J</a>",
+  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=HUbYJUrcR_WQ4qrvno0l_Q\"> Maandy</a>",
   "name": "EQUAL Africa ",
   "tracks": [
     {
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 217734,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk"
@@ -2139,6 +2139,28 @@
     },
     {
       "album": {
+        "name": "Love You Well",
+        "url": "https://open.spotify.com/album/5FL1VuX28rK1eeDEO50ZjF"
+      },
+      "artists": [
+        {
+          "name": "Omawumi",
+          "url": "https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201874,
+      "name": "Love You Well",
+      "url": "https://open.spotify.com/track/2lGE2iyLAt0ICi0zKvArWo"
+    },
+    {
+      "album": {
         "name": "Don't Look Down!",
         "url": "https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0"
       },
@@ -2591,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "Nitarudi",
+        "url": "https://open.spotify.com/album/4q3WVuoY8EsvnKAkDvIgAu"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173195,
+      "name": "Nitarudi",
+      "url": "https://open.spotify.com/track/3tIaxr7PLOBmxWzuwoTJrp"
+    },
+    {
+      "album": {
         "name": "Nobody Else",
         "url": "https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN"
       },
@@ -2928,7 +2972,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 164443,
       "name": "Penzi Wa Kasi",
       "url": "https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu"
@@ -3312,7 +3356,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 213333,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT"
@@ -3436,7 +3480,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
@@ -3487,6 +3531,88 @@
     },
     {
       "album": {
+        "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
+        "url": "https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR"
+      },
+      "artists": [
+        {
+          "name": "Immaculate Taste",
+          "url": "https://open.spotify.com/artist/7EqcUzt8S9Gh3nKcCZDXlE"
+        },
+        {
+          "name": "Silverstone Barz",
+          "url": "https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg"
+        },
+        {
+          "name": "Dee Koala",
+          "url": "https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT"
+        },
+        {
+          "name": "Money Badoo",
+          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209148,
+      "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
+      "url": "https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR"
+    },
+    {
+      "album": {
+        "name": "My Side of the Story",
+        "url": "https://open.spotify.com/album/463tygnGpxLPDT9NZqEXRu"
+      },
+      "artists": [
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "SBWL (feat. Kamo Mphela)",
+      "url": "https://open.spotify.com/track/5DducAsCNyNGp4IbZjl0TD"
+    },
+    {
+      "album": {
+        "name": "SCAR",
+        "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
+      },
+      "artists": [
+        {
+          "name": "Song bird",
+          "url": "https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "SCAR",
+      "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
+    },
+    {
+      "album": {
         "name": "Scatta Scatta",
         "url": "https://open.spotify.com/album/5YnANprNm0DTEVVsJE6bRP"
       },
@@ -3502,6 +3628,28 @@
       "duration_ms": 195398,
       "name": "Scatta Scatta",
       "url": "https://open.spotify.com/track/0n3APmjHt7yTBeHhRB8rcy"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/1vXDudcC0TiOmdgLrzvt9p"
+      },
+      "artists": [
+        {
+          "name": "Y'akoto",
+          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw"
     },
     {
       "album": {
@@ -3744,7 +3892,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 296756,
       "name": "Song Of G",
       "url": "https://open.spotify.com/track/6Ug28Tl6LJs2V9fmBmKfeT"
@@ -3894,7 +4042,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 136270,
       "name": "Summertime With You",
       "url": "https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE"
@@ -4186,7 +4334,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 216842,
       "name": "Too Sweet (O Dun)",
       "url": "https://open.spotify.com/track/1EX1Pke2k6d2ry5XLbDtqE"
@@ -4226,7 +4374,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 189232,
       "name": "Touch Your Soul (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
@@ -4463,6 +4611,32 @@
     },
     {
       "album": {
+        "name": "Song Is Queen",
+        "url": "https://open.spotify.com/album/1vZ0ul3flyhSZlhp1ve7Tm"
+      },
+      "artists": [
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "T-Man SA",
+          "url": "https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442500,
+      "name": "Vukani MaAfrica",
+      "url": "https://open.spotify.com/track/7hFEPCCECUKN7dQ2SFFV7a"
+    },
+    {
+      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/66nacc59o0utDc02MW1w1j"
       },
@@ -4514,6 +4688,24 @@
       "duration_ms": 168946,
       "name": "WAKA WAKA",
       "url": "https://open.spotify.com/track/51GphBzrIolTeEEsAj8nBP"
+    },
+    {
+      "album": {
+        "name": "Wale",
+        "url": "https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "Wale",
+      "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
     },
     {
       "album": {

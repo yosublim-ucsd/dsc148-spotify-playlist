@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. Delaossa
 
-195 songs - 10 hr 50 min
+196 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bengala](https://open.spotify.com/track/49FHrJRo7LTlNI2KPwpMVd) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Bengala](https://open.spotify.com/album/6nLTPZ7E0eZtUW472gZP4P) | 4:12 | 2022-01-21 | 2023-01-18 |
 | [Bicho raro](https://open.spotify.com/track/0wa6vnWunlgJ23vMCVDM3p) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/3DtogKlZPCChofGSlc7DUu) | 3:57 | 2022-08-04 | 2023-03-01 |
 | [Bicho raro](https://open.spotify.com/track/4MonThJItfsXWPFIvAT5EX) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/1lASvFkra4rNUh4QNZS0u1) | 3:57 | 2022-01-21 | 2022-08-11 |
+| [Brigantes](https://open.spotify.com/track/1wqQks7huD10fXqgXd3qGR) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Brigantes](https://open.spotify.com/album/6sVXofzsxugo2kWlJ45Kmh) | 3:24 | 2023-05-03 |  |
 | [Bukowski](https://open.spotify.com/track/04G7s84Y5Wpuq77I6IfVvX) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Bukowski](https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ) | 3:28 | 2022-07-19 |  |
 | [Bukowski](https://open.spotify.com/track/34fKPzASNYaX70vBeg24Lv) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Bukowski](https://open.spotify.com/album/0yjXpvYpPQVwlI3qBofkhi) | 3:28 | 2022-01-21 | 2022-07-29 |
 | [Cada Motivo](https://open.spotify.com/track/5RwF8yjTv6LvpCjJL8yjkL) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx), [Lu Decker](https://open.spotify.com/artist/74LXFsgo40nbOJaO74QTAm), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Cada Motivo](https://open.spotify.com/album/5ZkrNdw8WiUr1kvpwAIT6x) | 4:28 | 2022-01-21 |  |
@@ -97,7 +98,7 @@
 | [La Mili](https://open.spotify.com/track/3JZQr9C0hQbhs0uV98KLMo) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [La Mili](https://open.spotify.com/album/5IpcI6X72fiNGb23A0208k) | 2:56 | 2022-01-21 | 2023-03-01 |
 | [La Placita](https://open.spotify.com/track/5ZmmNBKHKLDureKMGrRHCJ) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Easy\-S](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Placita](https://open.spotify.com/album/46l66J5C7w8cK1EOm0LlIr) | 3:48 | 2022-07-19 |  |
 | [La Retahíla](https://open.spotify.com/track/56zCnpzoU2sGbA8nYSfIR7) | [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [La Retahíla](https://open.spotify.com/album/0zxoJFfcJsOheEnbrrLvpB) | 2:05 | 2022-04-21 | 2022-05-28 |
-| [Lacura](https://open.spotify.com/track/4UCBtSSeGypt1LtErdAuzY) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Zaidbreak](https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu) | [Lacura](https://open.spotify.com/album/1MBnTwjjLyn7hTw9MhEKjW) | 4:03 | 2023-02-28 |  |
+| [Lacura](https://open.spotify.com/track/4UCBtSSeGypt1LtErdAuzY) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Zaidbreak](https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu) | [Lacura](https://open.spotify.com/album/1MBnTwjjLyn7hTw9MhEKjW) | 4:03 | 2023-02-28 | 2023-05-04 |
 | [Lesson 1](https://open.spotify.com/track/4kwJDniaK1v6Xu64lVidgM) | [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ), [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh) | [Lesson 1](https://open.spotify.com/album/3SQPlbDjaZYsVZQXruryq1) | 3:19 | 2022-06-21 | 2022-07-15 |
 | [Llora](https://open.spotify.com/track/3HKMlaXWyJzKOr0l1R95S0) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF) | [Llora](https://open.spotify.com/album/7qHCFvp3migQC4x6tt1iEb) | 3:07 | 2022-01-21 | 2022-05-28 |
 | [Lo que hay](https://open.spotify.com/track/5nVvLT78CYsuny5LDDIOOo) | [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ), [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Geni Colegui](https://open.spotify.com/artist/7Dr3JC4ow5MkSsBP6xZDhT) | [Lo que hay](https://open.spotify.com/album/4uzXRMfxg2pjDO3kmFwVBP) | 2:11 | 2022-05-05 | 2022-05-28 |

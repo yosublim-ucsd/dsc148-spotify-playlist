@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-144 songs - 8 hr 58 min
+145 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,13 +126,14 @@
 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 | 2021-12-23 |  |
 | [Winds of Jawlan](https://open.spotify.com/track/3JNVotjNZ9Mu5GNRPc4Lx5) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Rahawan](https://open.spotify.com/album/4NvaG3qf2KhQj6ppLU278A) | 4:48 | 2022-04-18 | 2022-09-21 |
 | [Ya Binti يا بنتي](https://open.spotify.com/track/26NE022e5BfYdvYh9okReN) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Ya Binti يا بنتي](https://open.spotify.com/album/49TmFXyLavSzC02TC1sbWg) | 4:03 | 2022-03-10 | 2023-04-24 |
-| [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/track/2cg6S1W6V2cyJU6a7HDSyq) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Bazaar Bizarre فلسطين وين أنا؟](https://open.spotify.com/album/0cXOALLnX8i3DgqdD1gmfQ) | 3:35 | 2023-04-20 |  |
+| [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/track/2cg6S1W6V2cyJU6a7HDSyq) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Bazaar Bizarre فلسطين وين أنا؟](https://open.spotify.com/album/0cXOALLnX8i3DgqdD1gmfQ) | 3:35 | 2023-04-20 | 2023-05-04 |
+| [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/track/3VLNM6OrIB5m8KMZ4EYc3b) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/album/1pwLq0eWnKezSJAvv3Zoht) | 3:35 | 2023-05-02 |  |
 | [Ya Msafer Wahdak](https://open.spotify.com/track/1zPfv9d1zoorqjH3rVQq04) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Ya Msafer Wahdak](https://open.spotify.com/album/6C9tz8uAtt3WVIIH4P3Gjo) | 2:26 | 2022-01-06 | 2023-04-24 |
 | [Ya Weel Weely](https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3) | [SAFAR](https://open.spotify.com/artist/1iUKQz9tEcGbhps9vvtd67) | [تجربة رقم ١ \\ ٢](https://open.spotify.com/album/4IFxGT5v6ONryGGHxcOcf4) | 3:44 | 2023-04-23 |  |
 | [Yay](https://open.spotify.com/track/5E7b7E6SQDuCHqs35YsZGi) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Yay](https://open.spotify.com/album/3L7dNXLdUIYLjpEKCsfDnj) | 2:51 | 2021-12-23 | 2022-02-18 |
 | [Yumain O Leila](https://open.spotify.com/track/08NqxhwtQzKtRdPtRSBuTR) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Malyoun](https://open.spotify.com/album/1Sxmi03WJhcGlccCwPXSDM) | 7:53 | 2023-04-23 |  |
 | [أغلاط](https://open.spotify.com/track/0nDgOVERfNUrwcLisM2S80) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [أغلاط](https://open.spotify.com/album/1FdXhZQfxKyqn1mldknNgT) | 3:02 | 2022-04-07 | 2023-04-24 |
-| [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:08 | 2023-05-02 |  |
+| [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:59 | 2023-05-02 |  |
 | [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-17 | 2023-04-01 |
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-23 | 2023-04-24 |
 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 | 2021-12-23 | 2022-02-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Pii
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,792 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,840 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 8 | [GOT EVERYTHING BUT U](https://open.spotify.com/track/0Ko5L9ecwSGYoIMtEW65g0) | [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [GOT EVERYTHING BUT U](https://open.spotify.com/album/1EMT3RPeefxo2QS6DbvZ1E) | 3:38 |
 | 9 | [Take my hands \~君となら\~](https://open.spotify.com/track/05wMbKDwRyo4pDtldSPzQ6) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [Take my hands \~君となら\~](https://open.spotify.com/album/4qVg3bIpmLrTSuPcuGPh6E) | 3:24 |
 | 10 | [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 |
-| 11 | [Re: searchlight](https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [やなぎなぎ](https://open.spotify.com/artist/2bcspBNaP783zTFeIL2CFX) | [Re: searchlight](https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ) | 5:10 |
+| 11 | [Re: searchlight](https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Re: searchlight](https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ) | 5:10 |
 | 12 | [Toys Tiny Up](https://open.spotify.com/track/70FzEchRfks9bNRget7t7Z) | [izki](https://open.spotify.com/artist/6KKaRJoj0AhflDnCcOc5pj) | [Lyrical founder](https://open.spotify.com/album/1vQZD4dhSrXLBtHxbiAZ72) | 3:27 |
 | 13 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
 | 14 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Kikoete](https://open.spotify.com/track/1GE3OCGfvfZEQJPpzaqGTm) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Kikoete](https://open.spotify.com/album/3UbvHiy7dzyDNS8XdNtfQj) | 2:57 |
 | 80 | [asA](https://open.spotify.com/track/3oP4Kjn3A9zXg3cilXFSRO) | [project \-asA\-](https://open.spotify.com/artist/5UjE2zSd2RjAVfFVfGlAGS) | [asA \(vol.1\)](https://open.spotify.com/album/0L5zE30Wzyv8hJvDujnoCJ) | 3:40 |
 
-Snapshot ID: `MCxiMjZlYjEzNDAyODk2MGE1OTMzZjJlM2ZhMWNhZWMyYjZhODIyM2Y1`
+Snapshot ID: `MCxiNzJlZWMxZjFjNDg1OWJlZDZjMDBmMDNiOTkxZTVmOGIzYTI4ZDU0`

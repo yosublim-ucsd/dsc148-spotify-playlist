@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 416779,
       "name": "CLDZ",
       "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
@@ -3602,6 +3602,24 @@
       "duration_ms": 194400,
       "name": "Scorpionica",
       "url": "https://open.spotify.com/track/6jhYtTdUeFGX2X629AMd4r"
+    },
+    {
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
     },
     {
       "album": {

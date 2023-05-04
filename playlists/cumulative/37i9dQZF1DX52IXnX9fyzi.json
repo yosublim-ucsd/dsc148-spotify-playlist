@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Flock of birds",
+        "url": "https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx"
+      },
+      "artists": [
+        {
+          "name": "Skye High",
+          "url": "https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182613,
+      "name": "Flock of birds",
+      "url": "https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/6U96DdlOnpMY5OjYqUQF1G"
       },
@@ -2404,6 +2422,24 @@
       "duration_ms": 124139,
       "name": "Keep You Safe",
       "url": "https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC"
+    },
+    {
+      "album": {
+        "name": "Keys of the mountains",
+        "url": "https://open.spotify.com/album/236fA8DlkFs1wmaA7mJEnl"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Kruse",
+          "url": "https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128813,
+      "name": "Keys of the mountains",
+      "url": "https://open.spotify.com/track/1w3FLtV4CGE1gZCXP2NtWC"
     },
     {
       "album": {
@@ -4774,6 +4810,24 @@
       "duration_ms": 140487,
       "name": "The Room Upstairs",
       "url": "https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ"
+    },
+    {
+      "album": {
+        "name": "Thirty two steps",
+        "url": "https://open.spotify.com/album/7jk3EiT43JQpHeCujcrSJh"
+      },
+      "artists": [
+        {
+          "name": "Violet Mar",
+          "url": "https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147563,
+      "name": "Thirty two steps",
+      "url": "https://open.spotify.com/track/2oSzrwVIU2M0w4GMVCehj8"
     },
     {
       "album": {

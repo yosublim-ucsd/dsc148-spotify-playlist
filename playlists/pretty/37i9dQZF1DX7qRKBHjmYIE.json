@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Andrea Bejar",
-  "num_followers": 747786,
+  "num_followers": 747789,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTgwZTIzOTI5MTZjNTVkNGM2OTU4YzFmM2M1ZTNkZWQ2NWEzNTA3",
+  "snapshot_id": "MCxiNjhkMjQxZTQ0NTQzNmZkNzJkZjZiZTViMzBmMjk0YmU0OWVjNGVj",
   "tracks": [
     {
       "added_at": "2023-04-20 16:18:53",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-20 16:18:53",
       "album": {
-        "name": "\u00bfC\u00f3mo sonar\u00eda un disco?",
-        "url": "https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 176524,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT"
-    },
-    {
-      "added_at": "2023-04-20 16:18:53",
-      "album": {
         "name": "LOS FELIZ",
         "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-04-20 16:18:53",
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+        "name": "\u00bfC\u00f3mo sonar\u00eda un disco?",
+        "url": "https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
         }
       ],
-      "duration_ms": 205576,
-      "name": "CONTRACORRIENTE",
-      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+      "duration_ms": 176524,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT"
     },
     {
       "added_at": "2023-04-20 16:18:53",
@@ -851,6 +835,22 @@
       "duration_ms": 203157,
       "name": "Miel <3",
       "url": "https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t"
+    },
+    {
+      "added_at": "2023-04-20 16:18:53",
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 205576,
+      "name": "CONTRACORRIENTE",
+      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
     },
     {
       "added_at": "2023-04-20 16:18:53",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-20 16:18:53",
       "album": {
-        "name": "Futuro",
-        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
-      },
-      "artists": [
-        {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
-        }
-      ],
-      "duration_ms": 242374,
-      "name": "Futuro",
-      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
-    },
-    {
-      "added_at": "2023-04-20 16:18:53",
-      "album": {
         "name": "Naona",
         "url": "https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 231634,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf"
+    },
+    {
+      "added_at": "2023-04-20 16:18:53",
+      "album": {
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 242374,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
     },
     {
       "added_at": "2023-04-20 16:18:53",

@@ -4,7 +4,7 @@
 
 > Kickass Metal Presents..\. The Best Metal Songs of 2022\. Cover: Ghost<br/>\#SpotifyWrapped
 
-105 songs - 6 hr 51 min
+107 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [MONSTER](https://open.spotify.com/track/2SL0hgFdUg2nBMJapyDuAt) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [I JUST DON'T LOVE YOU ANYMORE](https://open.spotify.com/album/2QgLpBT2EWrF39esY0iIsy) | 3:24 | 2022-11-30 |  |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/0mxritQanYLFJXiqCC1lnc) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [See What's On The Inside \(Deluxe\)](https://open.spotify.com/album/39irqLBf1rIbVtzmnl9qnA) | 3:34 | 2022-11-30 |  |
 | [NO HELP](https://open.spotify.com/track/5kucnTc88s6EWBLTvpxYvM) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Empires Fall](https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb) | 2:53 | 2022-11-30 |  |
-| [No More Tears To Cry](https://open.spotify.com/track/0NPr9wmktHO0yT1VlUucHG) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:41 | 2022-11-30 |  |
+| [No More Tears To Cry](https://open.spotify.com/track/0NPr9wmktHO0yT1VlUucHG) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:41 | 2022-11-30 | 2023-05-04 |
+| [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 | 2022-11-30 |  |
 | [Omens](https://open.spotify.com/track/3MI4le4jkC6ulWLzupdDae) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 3:47 | 2022-11-30 |  |
 | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/227jOVNY1MrE5MkUcQRhsk) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 5:52 | 2022-11-30 |  |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-11-30 |  |
@@ -110,7 +111,8 @@
 | [when we were young](https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:13 | 2022-11-30 |  |
 | [Where Angels Fear to Fly](https://open.spotify.com/track/1DhSJCZarZvqHt1f2BN0Ch) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 3:56 | 2022-11-30 |  |
 | [Wind of Change](https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Wind of Change](https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG) | 5:22 | 2022-11-30 |  |
-| [Without Me](https://open.spotify.com/track/2g8vTn8mz96VWCSc9RCucZ) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5) | 3:44 | 2022-11-30 |  |
+| [Without Me](https://open.spotify.com/track/2g8vTn8mz96VWCSc9RCucZ) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5) | 3:44 | 2022-11-30 | 2023-05-04 |
+| [Without Me](https://open.spotify.com/track/7oGCVuPEyp6m6DhXkU5Pfs) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/0DY5kJhDXPfDjVdSKNvWlL) | 3:44 | 2022-11-30 |  |
 | [Your Turn](https://open.spotify.com/track/505msJKoWzFTOua6Gdx0hl) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Remade In Misery](https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1) | 3:21 | 2022-11-30 |  |
 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-11-30 |  |
 

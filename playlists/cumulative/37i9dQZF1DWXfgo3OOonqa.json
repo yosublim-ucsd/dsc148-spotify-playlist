@@ -5139,6 +5139,28 @@
     },
     {
       "album": {
+        "name": "En kv\u00e4ll i en gr\u00e4nd",
+        "url": "https://open.spotify.com/album/4ufjdT9uaUphHRsWlPwgMa"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        },
+        {
+          "name": "ADN",
+          "url": "https://open.spotify.com/artist/295fbqMsBG4wj25A4zuX6U"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139952,
+      "name": "En kv\u00e4ll i en gr\u00e4nd",
+      "url": "https://open.spotify.com/track/3nlDhlBQiXO9XZjQKYD8Yh"
+    },
+    {
+      "album": {
         "name": "En Ny D\u00f6rr",
         "url": "https://open.spotify.com/album/3K7pVp1R2Ql80Q2fNB0Y1K"
       },
@@ -6586,7 +6608,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 139090,
       "name": "Ghetto Psykos (GS)",
       "url": "https://open.spotify.com/track/4S4nhjCMlx3d4LkMGqiCpm"
@@ -9358,10 +9380,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 159600,
       "name": "KONTROLL",
       "url": "https://open.spotify.com/track/3XiTfrOa7690hHyJevFCYH"
+    },
+    {
+      "album": {
+        "name": "M\u00d6RKET",
+        "url": "https://open.spotify.com/album/6rprj086y65JMRbeE1k0r8"
+      },
+      "artists": [
+        {
+          "name": "Ozz6y",
+          "url": "https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "KONTROLL",
+      "url": "https://open.spotify.com/track/5sIRgBsPFruLgTs6Sx4dju"
     },
     {
       "album": {
@@ -10516,10 +10556,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 162982,
       "name": "L\u00c4MNAD",
       "url": "https://open.spotify.com/track/5O7H4tn42gBsvlUJZVuFVz"
+    },
+    {
+      "album": {
+        "name": "M\u00d6RKET",
+        "url": "https://open.spotify.com/album/6rprj086y65JMRbeE1k0r8"
+      },
+      "artists": [
+        {
+          "name": "Ozz6y",
+          "url": "https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162982,
+      "name": "L\u00c4MNAD",
+      "url": "https://open.spotify.com/track/6Ydlo5lizLCEHXNZ0K2ijX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Colter Wall
 
-309 songs - 18 hr 55 min
+311 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Another Day Down](https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Another Day Down](https://open.spotify.com/album/253qdf33LlE8VpEnmg0KO8) | 3:37 | 2022-05-13 | 2022-10-01 |
 | [Arlo](https://open.spotify.com/track/6g8TfaY4o7uzIDHOqXFsxg) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Arlo](https://open.spotify.com/album/4QdNH73Llt7pENDkJfXl0V) | 4:10 | 2022-11-11 | 2023-01-21 |
 | [Ave H Blue](https://open.spotify.com/track/49kM29AjpsB9Zv444PnvED) | [NUTANA](https://open.spotify.com/artist/2IlotRrtfpIKvTZhXoXDH0) | [NUTANA](https://open.spotify.com/album/6wwhPFPCp19M47e19Y8oK0) | 3:23 | 2023-04-07 | 2023-04-22 |
+| [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 | 2023-04-28 |  |
 | [Baby, You're a Gun](https://open.spotify.com/track/6yk3E2nQ2VNEJynMzQTEgg) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Baby, You're a Gun](https://open.spotify.com/album/56VpDmshdg2w7BQhWnCwTk) | 3:29 | 2022-05-13 | 2023-04-22 |
 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 | 2022-07-29 | 2022-09-25 |
 | [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 | 2022-11-14 |
@@ -158,7 +159,7 @@
 | [Instant Cash for Gold](https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Instant Cash for Gold](https://open.spotify.com/album/6USRdm9O0GBJFyQLKav3JR) | 3:07 | 2022-09-30 | 2023-04-30 |
 | [Isn't It A Pity](https://open.spotify.com/track/28yHkfI9MSddss1VIpGrSm) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [All Blue](https://open.spotify.com/album/6by4TrvFhxkZiee23fhhi3) | 3:40 | 2022-10-14 | 2023-04-26 |
 | [It's So Hard to Hold On](https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [It's so Hard to Hold On](https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY) | 3:37 | 2022-06-17 | 2022-11-12 |
-| [Iydlmlmg](https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2) | [The Secret Beach](https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3) | [Iydlmlmg](https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1) | 2:57 | 2022-12-09 |  |
+| [Iydlmlmg](https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2) | [The Secret Beach](https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3) | [Iydlmlmg](https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1) | 2:57 | 2022-12-09 | 2023-05-04 |
 | [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 | 2022-09-10 |
 | [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-04-21 |  |
 | [John Came Home](https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:11 | 2023-04-21 |  |
@@ -191,7 +192,7 @@
 | [Miracle Mile](https://open.spotify.com/track/2uL6H4ShIUYyu7FL0fRvsg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:08 | 2022-05-13 | 2023-01-21 |
 | [Montana Waltz](https://open.spotify.com/track/061lNZkKEjGQ8GKp8L3Rwf) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Montana Waltz](https://open.spotify.com/album/3o78Zmq1PKQbkYCwkVtNcq) | 3:49 | 2022-05-13 | 2022-07-29 |
 | [Montana Waltz](https://open.spotify.com/track/1XKzJ3kDUkFsSMI6wroeeT) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [That’s What Keeps the Rent Down, Baby](https://open.spotify.com/album/6ZHgmmd6CGjOsIQ7WUz181) | 3:49 | 2022-11-11 | 2022-11-13 |
-| [Montana Waltz](https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:49 | 2022-07-22 |  |
+| [Montana Waltz](https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:49 | 2022-07-22 | 2023-05-04 |
 | [Monte Carlo](https://open.spotify.com/track/06pqktYm4RL4yFzmjBUAKL) | [Carleton Stone](https://open.spotify.com/artist/6FjV2v8M0YwyG2XGWXv5fX) | [Papercut](https://open.spotify.com/album/5uCXxnJeYdhtu5tBmLRQbq) | 4:18 | 2023-03-24 | 2023-04-22 |
 | [Monte Carlo](https://open.spotify.com/track/60cNfpipC3dIXISWhBZA2s) | [Carleton Stone](https://open.spotify.com/artist/6FjV2v8M0YwyG2XGWXv5fX) | [Monte Carlo](https://open.spotify.com/album/3R4gMsQ0un7dFWluY7upDW) | 4:18 | 2022-05-13 | 2023-03-25 |
 | [Morning Prayer](https://open.spotify.com/track/3pbigw15hLWzmaHruO6Ac5) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion](https://open.spotify.com/album/36IMFWSc4Xvq5P49sWOgWn) | 3:02 | 2022-05-13 | 2022-05-20 |
@@ -281,6 +282,7 @@
 | [Thief](https://open.spotify.com/track/4UPr9s5lDjjQHbA32uekzX) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Prophecies](https://open.spotify.com/album/6jxJiy3tnUX2kUpFecYXtS) | 4:10 | 2022-05-13 | 2022-08-20 |
 | [Thief](https://open.spotify.com/track/5vKF7CCkRpFyBhKaWyVRVC) | [Raphaël Dénommé](https://open.spotify.com/artist/7Mb5Ykc43EpFUCsEXF0Nom) | [Hard Times and Broken Mind, Vol\. 1](https://open.spotify.com/album/7u2CFExHbNAgpLHFfNrt3S) | 4:40 | 2022-05-13 | 2023-03-25 |
 | [TLC Cagematch](https://open.spotify.com/track/74gvi6fa10cGuSSpCWknMa) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 3:52 | 2023-04-21 | 2023-04-30 |
+| [TLC Cagematch](https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 3:52 | 2023-04-28 |  |
 | [To Die For](https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [This Mess We're In](https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9) | 3:23 | 2022-07-22 |  |
 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 | 2023-04-21 |  |
 | [Top Down](https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Top Down](https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW) | 3:18 | 2022-05-13 | 2022-07-29 |

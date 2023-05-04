@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,517 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,533 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 25 | [Dust My Broom](https://open.spotify.com/track/3EaFV7yFZiTlaJrxDTVTfh) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 2:36 |
 | 26 | [I Asked For Water](https://open.spotify.com/track/0aT9f7DKBo3SsYHSMrtOGD) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:52 |
 | 27 | [The Sun Is Shining](https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:43 |
-| 28 | [Red Beans \- Remastered](https://open.spotify.com/track/47kPRfB3tVR0LWiY2QTSog) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 4:10 |
-| 29 | [Route 66](https://open.spotify.com/track/7cZmWjebbtSMIxN2MkJWuv) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:45 |
+| 28 | [Route 66](https://open.spotify.com/track/7cZmWjebbtSMIxN2MkJWuv) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:45 |
+| 29 | [Red Beans \- Remastered](https://open.spotify.com/track/47kPRfB3tVR0LWiY2QTSog) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 4:10 |
 | 30 | [I Just Want To Make Love To You](https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 6:08 |
 | 31 | [Who Drank My Beer While I Was In The Rear \- Remastered](https://open.spotify.com/track/5J6Pe8az9hdBuOGairgVYH) | [Dave Bartholomew](https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:50 |
 | 32 | [Peaches](https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:18 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 38 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
 | 39 | [Robbie\-Doby Boogie](https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Greatest Country Blues](https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B) | 2:22 |
 | 40 | [Ridin'](https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:23 |
-| 41 | [Chicken Rhythm](https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Groove Juice: The Norman Granz Recordings + More](https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc) | 2:29 |
-| 42 | [I See a Man Downstairs](https://open.spotify.com/track/54JUUTQSkFRwoi03H3LSEx) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK), [Brian Auger & The Trinity](https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU) | [I See a Man Downstairs](https://open.spotify.com/album/55pXKlTlKOo5sm03vJwOOR) | 3:12 |
+| 41 | [I See a Man Downstairs](https://open.spotify.com/track/54JUUTQSkFRwoi03H3LSEx) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK), [Brian Auger & The Trinity](https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU) | [I See a Man Downstairs](https://open.spotify.com/album/55pXKlTlKOo5sm03vJwOOR) | 3:12 |
+| 42 | [Chicken Rhythm](https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Groove Juice: The Norman Granz Recordings + More](https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc) | 2:29 |
 | 43 | [These Kind of Blues](https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:11 |
 | 44 | [Barbecue Blues](https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m) | [Barbecue Bob](https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ) | [Barbecue Bob Vol\. 1 \(1927 \- 1928\)](https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31) | 3:12 |
 | 45 | [Pigmeat](https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Lead Belly: The Smithsonian Folkways Collection](https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK) | 2:32 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 66 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 |
 | 67 | [Appetite Blues](https://open.spotify.com/track/3AKevGgNMWWhA88SAsaQDL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:35 |
 | 68 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
-| 69 | [Pass the Biscuits Please \- Remastered](https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:18 |
-| 70 | [Get the Moon Up](https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:15 |
+| 69 | [Get the Moon Up](https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:15 |
+| 70 | [Pass the Biscuits Please \- Remastered](https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:18 |
 
-Snapshot ID: `MCw0N2Y2ODQ0ZDE5YTdjNzlhNWUzODAwZWIwZTdlNzE1Mzc3MDc3NTll`
+Snapshot ID: `MCwxNjFjMmQ0NGRjYzhjZDNhOTViMGY2ZGQzMDg2YWYxYTAxNjBhYTRk`

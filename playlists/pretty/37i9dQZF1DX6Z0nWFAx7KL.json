@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 31435,
+  "num_followers": 31469,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjllYzI0MWYzYmE2YThhZDRhOTEyMjRjM2IxNjQ2OWNmZmI3NjE2",
+  "snapshot_id": "MCwxYmFjMzk4MWE5NDFiMmJmZGMzNjA2OTVlMmI1OTk4ZTI5YTQxNjBm",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -731,6 +731,30 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
+      },
+      "artists": [
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Waves (feat. Grace Tither)",
         "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
       },
@@ -763,30 +787,6 @@
       "duration_ms": 164516,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
-      },
-      "artists": [
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 152903,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Juno Love",
         "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
       },
@@ -895,18 +875,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "In The Sun",
-        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
       "artists": [
         {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 152000,
-      "name": "In The Sun",
-      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 180000,
       "name": "Live In The Moment",
       "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "In The Sun",
+        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "In The Sun",
+      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2023-04-20 22:00:00",

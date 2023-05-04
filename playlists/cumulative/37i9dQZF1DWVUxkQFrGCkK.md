@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-75 songs - 5 hr 22 min
+76 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 | 2023-04-13 |  |
 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 | 2023-04-13 |  |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-04-20 |  |
-| [Fashion Week \(with Channel Tres\)](https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB) | 3:34 | 2023-04-13 |  |
+| [Fashion Week \(with Channel Tres\)](https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB) | 3:34 | 2023-04-13 | 2023-05-04 |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2023-04-13 |  |
 | [Found Your Love](https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kuyen](https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b) | [Celestial Strut](https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM) | 5:49 | 2023-04-13 | 2023-04-30 |
 | [Fragments](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:03 | 2023-04-13 |  |
@@ -79,6 +79,7 @@
 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 | 2023-04-13 |  |
 | [Vertigo](https://open.spotify.com/track/1doFagKIgn2FOATKzUkbyi) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Vertigo](https://open.spotify.com/album/6PLiavXQv8JeNW2HBIl18X) | 4:16 | 2023-04-13 |  |
 | [Vex Oh \(feat\. Eight9FLY\)](https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:42 | 2023-04-13 |  |
+| [Voyage](https://open.spotify.com/track/7ochILP42boyfaJITMUMGF) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Voyage](https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA) | 4:45 | 2023-04-27 |  |
 | [Wave](https://open.spotify.com/track/5aH41smzTehoCIqj7VmAT3) | [Kill Them With Colour](https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU) | [Wave](https://open.spotify.com/album/0EHVHLmFiIgxxVSeqEtaci) | 3:14 | 2023-04-13 |  |
 | [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 | 2023-04-13 |  |
 | [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 | 2023-04-13 |  |

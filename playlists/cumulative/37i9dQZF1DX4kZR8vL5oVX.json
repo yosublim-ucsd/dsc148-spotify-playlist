@@ -6807,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Un peu de moi",
+        "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Le coeur ou la raison",
+      "url": "https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609"
+    },
+    {
+      "album": {
         "name": "Le d\u00e9samour",
         "url": "https://open.spotify.com/album/2NVuH0yi3YEkBwUFMSnGj2"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,244 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,350 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 41 | [Dohertys \- Tommy Peoples](https://open.spotify.com/track/3hQb0GZC2v6wipL51lNUuh) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Dave Munnelly](https://open.spotify.com/artist/31lWaf3NIsi9OuxxzNSdan), [Philip Masure](https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F), [Patrick Michiels](https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N), [Kieran Fahy](https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF) | [Kieran Fahy: Irish Fiddle \- Man From the West](https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe) | 3:02 |
 | 42 | [The Month of January](https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:42 |
 | 43 | [Naomi Wise](https://open.spotify.com/track/7AEuTfhjVJCX2evvv6tLG3) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 4:41 |
-| 44 | [Road to Granard / Gallagher's Frolics / Out on the Ocean](https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:18 |
-| 45 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/1RTQrYRpSrot2VlSzbdarw) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:55 |
+| 44 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/1RTQrYRpSrot2VlSzbdarw) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:55 |
+| 45 | [Road to Granard / Gallagher's Frolics / Out on the Ocean](https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:18 |
 | 46 | [The Whole Chicken in the Soup \- The Crooked Road](https://open.spotify.com/track/1XseuQQQgFa3Ge2ReHbnSX) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Philip Masure](https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F), [Patrick Michiels](https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N), [Kieran Fahy](https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF) | [Kieran Fahy: Irish Fiddle \- Man From the West](https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe) | 2:45 |
 | 47 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
 | 48 | [The Cliffs of Dooneen](https://open.spotify.com/track/68MgzkKuWdBRsfXHWPiY2Z) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best of Ireland](https://open.spotify.com/album/4NHRHesF4AR2P6qU7sjBL1) | 3:33 |
 | 49 | [Roseville Fair](https://open.spotify.com/track/6Tc4EflXu4AyHPkY9iMuHQ) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU) | 4:16 |
 | 50 | [The Boys of Killibegs](https://open.spotify.com/track/6D16cmDXBDSvs7V9IXkdYD) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best Irish Pub Songs](https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl) | 3:13 |
 
-Snapshot ID: `MCxlZWVkMmVlNmM1MGQ0YjA1MjZlNmVlNTlkNmNlNDk2ZmY2M2MwZmI2`
+Snapshot ID: `MCw2ODdhOTI1OWQwODVkNzY4MWE1MTkzNDE5MmJmOTNlM2YxYzEzNDdm`

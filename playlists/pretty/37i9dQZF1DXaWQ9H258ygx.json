@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 47463,
+  "num_followers": 47747,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2MzZmFjNjM2YjcwM2RlM2RhMzQzZTgyNTMzNDExMGViYzJlZjBh",
+  "snapshot_id": "MCxlYjMwYmJmMTdmMmE0OWRlMGRhMzYxMmNjMDVmYTExZDI4ZTM2MTMy",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Helmet",
-      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 172907,
       "name": "Favorite Mistake",
       "url": "https://open.spotify.com/track/4rHIfYRQw6ittRQXAlurk0"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Helmet",
+      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
       "added_at": "2022-10-03 04:00:00",

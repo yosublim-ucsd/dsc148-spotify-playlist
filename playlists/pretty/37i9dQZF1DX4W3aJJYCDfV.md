@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nines \(pictured\), Jess Glynne, Niall Horan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,244 likes - 140 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,255 likes - 140 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 139 | [It's Alright](https://open.spotify.com/track/6689gaxCcIgHIvrDtsHVQL) | [Sweetlemondae](https://open.spotify.com/artist/7wW3N1chCIWsrSNM3K28nv) | [It's Alright](https://open.spotify.com/album/257tMzTVuVcq7eMNrjeqE2) | 2:33 |
 | 140 | [God of Rock & Roll](https://open.spotify.com/track/1OB0BuD2t8O5iOZ2QC2pHM) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [God of Rock & Roll](https://open.spotify.com/album/6x2P62KBTwYdX7jVeZFwXx) | 3:31 |
 
-Snapshot ID: `MCxhOThiNDM4NjA2MjA2YjhiM2ExOWRiMjI1NTJjNmJkN2FhZTBlMjg5`
+Snapshot ID: `MCxmMWMyNjhiZjRiMzUwYTZlMDBkMGMxNzljYzRhN2U0NjAzZTBkYmEw`

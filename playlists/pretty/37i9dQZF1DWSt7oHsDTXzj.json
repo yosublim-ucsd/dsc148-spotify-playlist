@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 162571,
+  "num_followers": 162544,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTEwN2IyMDA3ODAyZjQwYjkyNTY4OTdhNzIzMTA2MzgzNGZiMjdl",
+  "snapshot_id": "MCxjYzE1NzBjMjY1ZGY0YzYxMGFiNjJiZDY0MjMwNmYzMDZiZTZhYzEw",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -571,22 +571,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "We Should Be Together",
-        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
       },
       "artists": [
         {
-          "name": "Rosie Thomas",
-          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
         }
       ],
-      "duration_ms": 211946,
-      "name": "We Should Be Together",
-      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -607,18 +603,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+        "name": "We Should Be Together",
+        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
       "artists": [
         {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+          "name": "Rosie Thomas",
+          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+      "duration_ms": 211946,
+      "name": "We Should Be Together",
+      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "The New Year",
+      "url": "https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "Linus n' Lucy (Theme from Peanuts)",
         "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "The New Year",
-      "url": "https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Phrazes For The Young",
         "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "This Year For Christmas",
-        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 112361,
-      "name": "This Year For Christmas",
-      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Christmas Caller",
         "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 135020,
       "name": "Christmas Caller",
       "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "This Year For Christmas",
+        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 112361,
+      "name": "This Year For Christmas",
+      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "baby jesus is nobody\u2019s baby now",
-        "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 215065,
-      "name": "baby jesus is nobody\u2019s baby now",
-      "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
       },
@@ -999,18 +983,34 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+        "name": "baby jesus is nobody\u2019s baby now",
+        "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+      "duration_ms": 215065,
+      "name": "baby jesus is nobody\u2019s baby now",
+      "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Creatures of an Hour",
-        "url": "https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "The White Season",
-      "url": "https://open.spotify.com/track/00nHwKHbwy33Q8Eo3OB86u"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "In the Bleak Midwinter",
         "url": "https://open.spotify.com/album/43u0uu5HLQ0nXJqIxlWwiW"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 260470,
       "name": "In the Bleak Midwinter",
       "url": "https://open.spotify.com/track/2Q7EmuVCLEY72iw7klTdPA"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Creatures of an Hour",
+        "url": "https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "The White Season",
+      "url": "https://open.spotify.com/track/00nHwKHbwy33Q8Eo3OB86u"
     },
     {
       "added_at": "2022-12-23 02:36:32",

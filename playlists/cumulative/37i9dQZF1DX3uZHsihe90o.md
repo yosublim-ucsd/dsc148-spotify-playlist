@@ -4,7 +4,7 @@
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-144 songs - 6 hr 15 min
+145 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Honey Oh Be](https://open.spotify.com/track/1ivFuOe2bsoWMF2XdvlAZ8) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [I Love You the Most](https://open.spotify.com/album/4K0SW8yURGgwbiRAoff90u) | 1:53 | 2021-12-16 |  |
 | [Hope Machine](https://open.spotify.com/track/0kiLpHNyBNkW1hr1guDYHc) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Hope Machine](https://open.spotify.com/album/4ZGggSrrAEEISdArt4Ebbv) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [Hope Machine](https://open.spotify.com/track/34bqUQ5NteJZjgpu5VW408) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:48 | 2022-04-15 | 2023-04-30 |
+| [Hope Machine](https://open.spotify.com/track/6Z3N8VNcj4z6xIgMmdMZ0l) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:48 | 2023-01-31 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/1KSno86TYHAHryeAGWZ2sU) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Humpty Dumpty](https://open.spotify.com/album/0xaxi3Izl9n7bpCUd8cy8q) | 1:54 | 2022-04-15 | 2022-07-20 |
 | [Humpty Dumpty](https://open.spotify.com/track/1VVbl4g9ONkwINYC5PXx5Y) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Nursery Rhymes For Kinder Times](https://open.spotify.com/album/1s0mvvzPuE4sTJCTiTur3n) | 1:54 | 2022-04-15 |  |
 | [Hush Little Baby](https://open.spotify.com/track/0gb4qwhAFCLTEnsbiBTCMG) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [The Collection](https://open.spotify.com/album/3BNT9v6mjkgruMF5yMEEsH) | 1:30 | 2021-12-16 | 2022-07-29 |
@@ -105,7 +106,7 @@
 | [Old MacDonald had a Band](https://open.spotify.com/track/1AySRjZeiPeJpf487K2lwK) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 2:11 | 2021-12-16 |  |
 | [Over The Rainbow/What A Wonderful World](https://open.spotify.com/track/0Cll7d8lmNn05ZOVm5l5va) | [Israel "IZ" Kamakawiwoole](https://open.spotify.com/artist/0brWzWBfn8DhPWwdf3SWwn) | [Music From The Motion Picture Fred Claus](https://open.spotify.com/album/7cJnLV1fOwW0aX1hLekFPX) | 5:04 | 2021-12-16 |  |
 | [Polly\-Wolly\-Doodle](https://open.spotify.com/track/5hZ7N5EWJWmvDJyDPMmWU5) | [Shirley Temple](https://open.spotify.com/artist/325LVWNjKZv6UwNq5xuPHt) | [The Very Best Of](https://open.spotify.com/album/4HYYb4rzvra5MbY59bRCXt) | 1:53 | 2021-12-16 |  |
-| [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 | 2021-12-16 |  |
+| [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 | 2021-12-16 | 2023-05-04 |
 | [Puff, the Magic Dragon \- 2004 Remaster](https://open.spotify.com/track/7raciFPVU5VuHmqVbw2c1h) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:28 | 2021-12-16 |  |
 | [Round Robin](https://open.spotify.com/track/2rdQhu26wrbICsrxjNRwvY) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Round Robin](https://open.spotify.com/album/0AiAVo38OkPWYMZDtaoGPO) | 1:33 | 2021-12-16 | 2023-04-30 |
 | [Round Robin](https://open.spotify.com/track/7qcIZzAjD9wtmZpnLUT7nO) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Round Robin](https://open.spotify.com/album/6doMtKRPDxoSKZPdupXIqX) | 1:33 | 2023-01-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Yung Yury\n",
-  "num_followers": 380531,
+  "num_followers": 380878,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTM2ZDZkZTk3NmE2NzJlMDE2MTAwODZkYjUzZDk2ZDlmMDJiM2Jl",
+  "snapshot_id": "MCw1NDM0YzNiMjJhZjA3Zjg1OGJmODU1YzgyMzBhMjYwNGY2MmU5YTYw",
   "tracks": [
     {
       "added_at": "2023-05-02 09:46:08",
@@ -38,6 +38,10 @@
         {
           "name": "Dj Belite",
           "url": "https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF"
+        },
+        {
+          "name": "DNDM",
+          "url": "https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA"
         }
       ],
       "duration_ms": 165557,

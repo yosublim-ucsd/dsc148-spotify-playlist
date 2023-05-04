@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó featuring Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,882 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,963 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 35 | [SOS](https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [SOS](https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH) | 3:02 |
 | 36 | [Lagrimas de Champan](https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [El Carli](https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1) | [Lagrimas de Champan](https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E) | 3:15 |
 | 37 | [De Revista \- Remix](https://open.spotify.com/track/0jEs4lbM1tLANAulsyDfjR) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [De Revista \(Remix\)](https://open.spotify.com/album/4t9Zm2EFBwVerXHe93ypW3) | 3:59 |
-| 38 | [Yeska](https://open.spotify.com/track/1cOfhLKpYNsDgYNAKEQslR) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Yeska](https://open.spotify.com/album/2HkDziGU1nBIpP9xk5KVAr) | 3:08 |
-| 39 | [Que Rico](https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s) | [Un Titico](https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX), [El Dany MG](https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG) | [Que Rico](https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx) | 2:37 |
+| 38 | [Que Rico](https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s) | [Un Titico](https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX), [El Dany MG](https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG) | [Que Rico](https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx) | 2:37 |
+| 39 | [Yeska](https://open.spotify.com/track/1cOfhLKpYNsDgYNAKEQslR) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Yeska](https://open.spotify.com/album/2HkDziGU1nBIpP9xk5KVAr) | 3:08 |
 | 40 | [LE DOY 20 MIL](https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [LE DOY 20 MIL](https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y) | 3:02 |
 | 41 | [Easy](https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Easy](https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws) | 3:11 |
 | 42 | [La Que Quiero Yo](https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Que Quiero Yo](https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 49 | [No Te Bote](https://open.spotify.com/track/15pBzHFFi56qdMfJ2xR9YW) | [LKM](https://open.spotify.com/artist/72bHPNx6XJlnOXdZz5nsce) | [No Te Bote](https://open.spotify.com/album/0V8U6k2SHb0d0sU9SXxXSd) | 3:21 |
 | 50 | [Incomparable \(feat\. El Revulú\)](https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [El Revulú](https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs) | [Las Salsas](https://open.spotify.com/album/4mkfaIk2LDSQwRaxz7osID) | 2:53 |
 
-Snapshot ID: `MCxmMzFjMzNlZTRjYzhmMTk1N2FhMDhkN2ZjNDhjMzM3Y2Q0ODJjODIz`
+Snapshot ID: `MCwxMWNmMTlmZjcxNDJiMmJmMzBjZjQzMWM4ZGExYjBjN2UyMWQ4MDA5`

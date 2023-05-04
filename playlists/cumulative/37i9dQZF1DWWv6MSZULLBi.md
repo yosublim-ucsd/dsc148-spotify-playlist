@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Elisapie
 
-428 songs - 1 day 1 hr 58 min
+429 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Left Behind](https://open.spotify.com/track/1YtdAhBzYibqmqc6uILz8w) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Adjustments](https://open.spotify.com/album/4yUmdXZO5MItU75tgCDdaA) | 3:37 | 2022-06-24 | 2023-02-04 |
 | [Lesser of the Worst](https://open.spotify.com/track/1IPgsip8f4yUVdN4sgeeSw) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Lesser of the Worst](https://open.spotify.com/album/1jXQIRWe4Hsrm2RgHA4BXe) | 2:26 | 2022-09-23 | 2023-02-25 |
 | [Let Go](https://open.spotify.com/track/6C4iAGKybEdevddZklaxpX) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Let Go](https://open.spotify.com/album/24lCE3skRS14egP6xhAIjr) | 3:02 | 2022-05-13 | 2022-08-30 |
-| [Let Her Feel the Rain \(Sparrow Version\)](https://open.spotify.com/track/7GyIIxK804NZ44iWrMm6Z1) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Let Her Feel the Rain \(Sparrow Version\)](https://open.spotify.com/album/0E2ZmkuLlBd3kPOeYIc2ju) | 4:44 | 2023-03-17 |  |
+| [Let Her Feel the Rain \(Sparrow Version\)](https://open.spotify.com/track/2qiymz95HURaZ7YE1yTEzJ) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Sparrow](https://open.spotify.com/album/3L91n9j5ue1FWRahi86Z3g) | 4:44 | 2023-04-28 |  |
+| [Let Her Feel the Rain \(Sparrow Version\)](https://open.spotify.com/track/7GyIIxK804NZ44iWrMm6Z1) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Let Her Feel the Rain \(Sparrow Version\)](https://open.spotify.com/album/0E2ZmkuLlBd3kPOeYIc2ju) | 4:44 | 2023-03-17 | 2023-05-04 |
 | [Let It Go](https://open.spotify.com/track/0eIrSjlA3j1rCNcFNh6Ipl) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Let It Go](https://open.spotify.com/album/6uh2IXCgoBx14okaNQfcCV) | 2:33 | 2023-03-31 | 2023-04-29 |
 | [Let Me Drown](https://open.spotify.com/track/62hBYWGwzo2fb4THTsNnKA) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:19 | 2022-05-13 | 2022-08-27 |
 | [Letting Go](https://open.spotify.com/track/6SmgLOxqcRtC6dbZqxkcuB) | [GLDMTH](https://open.spotify.com/artist/5XJso5hUb5gsZQvDiengNA) | [GLDMTH](https://open.spotify.com/album/49eEsUWtpKrc3Ldq528nfo) | 4:43 | 2022-09-23 | 2023-03-04 |

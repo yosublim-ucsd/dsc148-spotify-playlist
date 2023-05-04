@@ -7905,6 +7905,24 @@
     },
     {
       "album": {
+        "name": "sotto sotto",
+        "url": "https://open.spotify.com/album/0qIbw1ruQOL01mXkqZFwKn"
+      },
+      "artists": [
+        {
+          "name": "Still Charles",
+          "url": "https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166336,
+      "name": "sotto sotto",
+      "url": "https://open.spotify.com/track/10gwf4dDvntcxFpBE2opUe"
+    },
+    {
+      "album": {
         "name": "SOTTONE DANNATO",
         "url": "https://open.spotify.com/album/19nsl3rgHoUVzLGzxZKVBv"
       },

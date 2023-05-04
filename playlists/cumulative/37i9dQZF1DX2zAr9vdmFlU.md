@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-215 songs - 13 hr 36 min
+216 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [La Cumbia del Infinito](https://open.spotify.com/track/6b2BVDyqhzA2DHIe01cNhV) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [La Cumbia del Infinito](https://open.spotify.com/album/5sQbOJf1Au4ci4c3edmeUN) | 3:25 | 2021-12-09 | 2022-07-29 |
 | [La Cumbia Del Infinito](https://open.spotify.com/track/4bMqrcFJszZ8HzT9rb0Tfz) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:25 | 2022-01-01 | 2023-03-08 |
 | [La Cumbia Del Infinito](https://open.spotify.com/track/1w12DHBFzWNzV47aG5WNCU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [La Cumbia Del Infinito](https://open.spotify.com/album/1OQAsluVeQn4E88IYCxtVO) | 3:25 | 2022-08-31 | 2022-11-13 |
-| [La del bar](https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg) | [Gèrard](https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z) | [La del bar](https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi) | 2:34 | 2021-12-09 |  |
+| [La del bar](https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg) | [Gèrard](https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z) | [La del bar](https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi) | 2:34 | 2021-12-09 | 2023-05-04 |
 | [La Marea](https://open.spotify.com/track/2jVYJ5WjkhqhEsTchOQyfW) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [La Marea](https://open.spotify.com/album/78U27tRpWAvPOTVNoE5vqo) | 2:32 | 2021-12-09 | 2023-03-08 |
 | [Lady Mandona](https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G) | [Lady Mandona](https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd) | 2:35 | 2021-12-09 |  |
 | [Latin Note](https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 5:54 | 2021-12-09 |  |
@@ -140,6 +140,7 @@
 | [Naranjo En Flor](https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk) | 4:36 | 2021-12-09 | 2022-07-29 |
 | [Naranjo En Flor](https://open.spotify.com/track/2UG5sMphnHUvsswl596nqF) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/7249DS6vz0JbQuZlpYDCPd) | 4:38 | 2022-08-31 | 2022-11-13 |
 | [Naranjo En Flor](https://open.spotify.com/track/4cAHUruX1d4Ukw7rkPrJQ9) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/27biw4fIpaTxPJqrSbL7ZM) | 4:38 | 2023-03-07 | 2023-03-25 |
+| [No Pasa Na](https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [No Pasa Na](https://open.spotify.com/album/1qDELsYjk55AV4cF3Ekvtp) | 3:50 | 2023-04-28 |  |
 | [Nobreza](https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [Nobreza](https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq) | 3:21 | 2021-12-09 |  |
 | [Oye Como Va](https://open.spotify.com/track/5XNixCaiTFx88y5wLhVMQR) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Oye Como Va](https://open.spotify.com/album/4GXh6a6jVejKsYyCcymtUN) | 3:05 | 2021-12-09 | 2023-03-08 |
 | [Oye Como Va](https://open.spotify.com/track/0rsmlyJFeb3qiGxmD3jjEw) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Anthology](https://open.spotify.com/album/0rgVSkoF34MLJkdtUdHLx3) | 4:32 | 2021-12-09 | 2022-07-29 |

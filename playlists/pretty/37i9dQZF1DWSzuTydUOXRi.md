@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,461 likes - 48 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,478 likes - 48 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 4 | [Viral](https://open.spotify.com/track/3Nmg8am5gqlYAftsXRFF8e) | [YEAR OF THE OX](https://open.spotify.com/artist/614kirduDphBL5NZebU3Zi) | [YEAR OF THE OX](https://open.spotify.com/album/2LpplqDruAyjS1qNG191jV) | 3:55 |
 | 5 | [Beautiful \(feat\. Ruby Ibarra\)](https://open.spotify.com/track/6XBX6AjzXMqg0le8huwMg9) | [Jason Chu](https://open.spotify.com/artist/4iYrlt4ga3CGYF7Z2mUDxV), [Alan Z](https://open.spotify.com/artist/2sSwCAZDFSHkjrhh6M0ycx), [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj) | [Face Value](https://open.spotify.com/album/1K78QdpLozITjad2U5vZ2V) | 2:24 |
 | 6 | [N.R.I.](https://open.spotify.com/track/6Ie5Yr6OeGetJ6wrFTIwVo) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [N.R.I.](https://open.spotify.com/album/1dvfN2HB5cYAQCgbl2qo0x) | 2:25 |
-| 7 | [I Belong](https://open.spotify.com/track/7wMBGhGNboFnTAibRWA1Wj) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [I Belong](https://open.spotify.com/album/39F9vuP4yAsLcp1WM8sC30) | 2:34 |
+| 7 | [I Belong](https://open.spotify.com/track/6slwh87KWXC9w9ByZB24uZ) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [I Belong](https://open.spotify.com/album/4P0ZcfjazOZsKsIvGa4gEF) | 2:34 |
 | 8 | [We Need Each Other](https://open.spotify.com/track/0pGlG8aDa9Wx8XC4pwFCPX) | [Nikbo](https://open.spotify.com/artist/7rmz3mFOLOfvYShTd4Fbj8) | [From the Garden](https://open.spotify.com/album/2LQbV6d7zD638KPmArBKMx) | 4:03 |
 | 9 | [But I Still Love You](https://open.spotify.com/track/1vxTbNLkQQV8UBgmNRPeaX) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [But I Still Love You](https://open.spotify.com/album/6fmTuiRgJqhuNneJFQUJgO) | 3:03 |
 | 10 | [Go Back 2 China](https://open.spotify.com/track/1CGRxBplxZZUZBMZgOJ9Eb) | [Chow Mane](https://open.spotify.com/artist/0aTB9Tpg1cEl7feT369vWm), [Jason Chu](https://open.spotify.com/artist/4iYrlt4ga3CGYF7Z2mUDxV) | [Go Back 2 China](https://open.spotify.com/album/1FSzgribJhBESbxYEXgXnR) | 2:53 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 47 | [We are the Children](https://open.spotify.com/track/3JpMNtEjO9Vvfa7nHRdk2R) | [Chris Kando Iijima](https://open.spotify.com/artist/1FVzKO0L8p3o2buKGX2pat), [Nobuko Miyamoto](https://open.spotify.com/artist/2Jrux4LmFNPS1Nk6NmA5yZ), [Charlie Chin](https://open.spotify.com/artist/6eX31rTtOkt0GKJt53Omyn) | [A Grain of Sand: Music for the Struggle by Asians in America](https://open.spotify.com/album/7tEIA1YsNtFg7I5InBEDpq) | 2:54 |
 | 48 | [I Am Not a Virus](https://open.spotify.com/track/0Js0zMozqoPq2jpdtnLghs) | [Jordan Vanhemert](https://open.spotify.com/artist/2Evoan7fHtMomWN9ONOsNB), [Rob Smith](https://open.spotify.com/artist/09NsR9F3P1Q9ocmJ0ULb7v), [Lisa Sung](https://open.spotify.com/artist/3L0ZbGmFzTiPaygVqAAFdg), [Kazuki Takemura](https://open.spotify.com/artist/1nu6AnXuhLN5VE8YK3Cv2x), [Andy Wheelock](https://open.spotify.com/artist/1fdOyp1kPBFm0K3ksV6sku) | [I Am Not a Virus](https://open.spotify.com/album/4ZXwN59UAoFksXPPqUyOop) | 8:42 |
 
-Snapshot ID: `MCxmMTU5Njc1ZTM1M2Q2M2VhMzE2ZWY2Y2M3ZTY4YTJhODVmODU5NWE1`
+Snapshot ID: `MCw4N2YzOWU2MDU0ZjhmZWYyY2NhZmU4NmEwYWQ3NjY0OTI5ODUwZDU0`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,848 likes - 80 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,131 likes - 80 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fall In Love](https://open.spotify.com/track/00yeUUrgFfxidZOWFQxDcZ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Fall In Love](https://open.spotify.com/album/4S5m723e0p5GYuRWMeo8GY) | 4:04 |
 | 2 | [Tunnelvision](https://open.spotify.com/track/65IBujYvR1QFGOdSrJQ1wy) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Tunnelvision](https://open.spotify.com/album/5e8bjyjWXvbjhSh7XGk2Fp) | 5:35 |
 | 3 | [Closure](https://open.spotify.com/track/5r0DosrDfrEol5ZruY5iLf) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Hollt](https://open.spotify.com/artist/7G5LXo0b0pFlVzgWNGOngl) | [Closure](https://open.spotify.com/album/5al91xGt2Nnp7dTTtUsjAv) | 5:58 |
-| 4 | [All That Matters \- ARTBAT Remix Radio Edit](https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Troels Abrahamsen](https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36) | [All That Matters \(Artbat Remix\)](https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai) | 5:14 |
+| 4 | [All That Matters \- ARTBAT Remix Radio Edit](https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Troels Abrahamsen](https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [All That Matters \(Artbat Remix\)](https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai) | 5:14 |
 | 5 | [Never Too Late](https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Never Too Late](https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN) | 4:47 |
 | 6 | [Impulse \- Edit](https://open.spotify.com/track/3NiHO3V9daNbhuZ4ETWaqg) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Impulse \(Edit\)](https://open.spotify.com/album/5E92zzNDG57KOH3LTaFBfX) | 3:56 |
 | 7 | [Warp Drive](https://open.spotify.com/track/7dhqdiP0JFceF1xmBt2zQN) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 5:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Reflection](https://open.spotify.com/track/4prvj25xjRhb9LkXOFjGhH) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Reflection](https://open.spotify.com/album/2cX4zlGQSTwgL6b2ia98m6) | 6:13 |
 | 80 | [Cormoran](https://open.spotify.com/track/09jgiJE4renLFOUgqxSWml) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [Cormoran](https://open.spotify.com/album/70Ovl6U9pKTsE2bE2YiXvc) | 6:28 |
 
-Snapshot ID: `MCw1OGI0NzQ0MjYxNGJiODc3OWZmMWU3ZWQ1MTAzZTk0ZjE3NzlkYzVk`
+Snapshot ID: `MCxiOWU4MTcxNzFhZmU2NjUwMzBiZGYyY2M5Yzg0MTg1ZjQ3YzFiZWRl`

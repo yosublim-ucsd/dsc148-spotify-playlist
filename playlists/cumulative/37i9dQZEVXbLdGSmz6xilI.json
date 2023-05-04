@@ -6912,7 +6912,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -11586,7 +11586,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 214258,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
@@ -12126,7 +12126,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 241935,
       "name": "ThichThich",
       "url": "https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP"
@@ -12388,7 +12388,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -13003,6 +13003,28 @@
     },
     {
       "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182148,
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -13270,6 +13292,32 @@
       "duration_ms": 261999,
       "name": "V\u00ec M\u1eb9 Anh B\u1eaft Chia Tay",
       "url": "https://open.spotify.com/track/5mG5cQE6SEYxnGCX3I09IC"
+    },
+    {
+      "album": {
+        "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
+        "url": "https://open.spotify.com/album/4AB7jTEqKQICkM5DV4f5ZX"
+      },
+      "artists": [
+        {
+          "name": "Phuong My Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        },
+        {
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
+        },
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222079,
+      "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
+      "url": "https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH"
     },
     {
       "album": {

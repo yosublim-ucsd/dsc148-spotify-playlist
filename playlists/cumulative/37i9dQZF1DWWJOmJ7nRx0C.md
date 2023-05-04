@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Beartooth
 
-769 songs - 1 day 22 hr 7 min
+770 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv) | 3:29 | 2022-06-24 | 2022-10-15 |
 | [Crows](https://open.spotify.com/track/3LUuYmLk8kDRjN6CmCKFME) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Crows](https://open.spotify.com/album/3znRrQWLKE2aMx73TERj8M) | 3:06 | 2022-06-03 | 2022-11-12 |
 | [Crying In The Shower](https://open.spotify.com/track/30TqgnUsww4JzR2V8Ert9b) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Crying In The Shower](https://open.spotify.com/album/2gQEgoc2pUE6UwsUmWvQUk) | 3:04 | 2023-02-24 |  |
-| [Crying While You're Dancing](https://open.spotify.com/track/4jK8AB1E3sUR5D8yL9uepd) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5) | 3:35 | 2023-04-21 |  |
+| [Crying While You're Dancing](https://open.spotify.com/track/2Qw2kYG5hVmmPmu0JWTiyk) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/0DY5kJhDXPfDjVdSKNvWlL) | 3:35 | 2023-04-28 |  |
+| [Crying While You're Dancing](https://open.spotify.com/track/4jK8AB1E3sUR5D8yL9uepd) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5) | 3:35 | 2023-04-21 | 2023-05-04 |
 | [Cut The Line](https://open.spotify.com/track/72I7aRnGk6ItRIRHdNZD6r) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:29 | 2022-04-08 | 2022-05-07 |
 | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/3l6ibS9n423uKLhY7y3E62) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/album/64Hq3bXpxvfpXX3so2qoaj) | 3:18 | 2023-03-03 |  |
 | [Cutting It Close](https://open.spotify.com/track/1jipnlJGT2EWWg9LoSY1De) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Cutting It Close](https://open.spotify.com/album/01Ww4Ob66SlZ9Uvv6xVi5d) | 3:13 | 2021-11-12 | 2022-06-25 |

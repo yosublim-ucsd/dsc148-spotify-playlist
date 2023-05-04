@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 15477,
+  "num_followers": 15490,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjAxMWE3ZWI5ODY0NDM3OGM2Yzg2YWRkZmE1Y2MyM2FjMzE2YmZh",
+  "snapshot_id": "MCxlYmM5ODk3Y2M3Zjg1OTIxNmUxODJlZGM3OTY5MzBhM2ViMzEyZTRj",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -103,18 +103,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Viajera",
-        "url": "https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6"
+        "name": "Rom\u00e1ntica Milonguera",
+        "url": "https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf"
       },
       "artists": [
         {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+          "name": "Rom\u00e1ntica Milonguera",
+          "url": "https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY"
         }
       ],
-      "duration_ms": 323066,
-      "name": "Pasos",
-      "url": "https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb"
+      "duration_ms": 197026,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -135,18 +135,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Rom\u00e1ntica Milonguera",
-        "url": "https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf"
+        "name": "Viajera",
+        "url": "https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6"
       },
       "artists": [
         {
-          "name": "Rom\u00e1ntica Milonguera",
-          "url": "https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY"
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
         }
       ],
-      "duration_ms": 197026,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu"
+      "duration_ms": 323066,
+      "name": "Pasos",
+      "url": "https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -315,22 +315,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
+        "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
+        "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
       },
       "artists": [
         {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        },
-        {
-          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
+          "name": "Dolores Sol\u00e1",
+          "url": "https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV"
         }
       ],
-      "duration_ms": 148293,
-      "name": "Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
+      "duration_ms": 132813,
+      "name": "Morocha Triste",
+      "url": "https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -395,18 +391,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
-        "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
       },
       "artists": [
         {
-          "name": "Dolores Sol\u00e1",
-          "url": "https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV"
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        },
+        {
+          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
         }
       ],
-      "duration_ms": 132813,
-      "name": "Morocha Triste",
-      "url": "https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428"
+      "duration_ms": 148293,
+      "name": "Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
     },
     {
       "added_at": "2022-07-08 03:00:00",

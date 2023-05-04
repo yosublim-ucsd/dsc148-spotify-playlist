@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5jSM6lE56BKLKRiavRO4Aw.md) - [plain]
 
 > 
 
-[phaskh](https://open.spotify.com/user/phaskh) - 33,651 likes - 110 songs - 6 hr 53 min
+[phaskh](https://open.spotify.com/user/phaskh) - 33,650 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/5jSM6lE56BKLKRiavRO4Aw.md) - [plain]
 | 96 | [Rattlesnake](https://open.spotify.com/track/5Gp2779W5p9qN3idmx0nLQ) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Rattlesnake](https://open.spotify.com/album/1Y8W0BMWyIjKwY82yimLcX) | 4:30 |
 | 97 | [Boundless](https://open.spotify.com/track/1A0FWUsihHaPmAHxZZpKbY) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU) | [Boundless](https://open.spotify.com/album/4TLTyvGS618bRi6UGtPoYc) | 3:12 |
 | 98 | [Still](https://open.spotify.com/track/2hbdfMTQdbAAYwCrKC5P6M) | [Glacier](https://open.spotify.com/artist/7DS9AJjKnseiE7nVofoULL) | [Still](https://open.spotify.com/album/5N1vJIbJI6AfNFZFRrQITH) | 3:27 |
-| 99 | [Only You](https://open.spotify.com/track/1OGldKGlJ8FYrKn3pDhYCO) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO) | [Only You](https://open.spotify.com/album/7px92U72qlg76omebWdDJV) | 3:13 |
+| 99 | [Only You](https://open.spotify.com/track/1OGldKGlJ8FYrKn3pDhYCO) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [Only You](https://open.spotify.com/album/7px92U72qlg76omebWdDJV) | 3:13 |
 | 100 | [Gold](https://open.spotify.com/track/2sm2f0mbOnfCi1MOLIegdV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Gold / YES](https://open.spotify.com/album/5OvG0ow70k4wROjF597ost) | 4:20 |
 | 101 | [Enigma](https://open.spotify.com/track/0X5L64QO8VX9nUgI7Evti9) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Upgrade](https://open.spotify.com/album/6QOpZHPu0hC8ts4JeT7SwP) | 3:32 |
 | 102 | [Fighters](https://open.spotify.com/track/7zgYDdPW1BmWzUkwodUsvp) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Fighters](https://open.spotify.com/album/2qxTUvKQWhtozMgoiK8pLS) | 3:46 |

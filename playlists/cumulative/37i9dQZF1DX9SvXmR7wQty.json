@@ -9189,7 +9189,7 @@
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 157000,
+      "duration_ms": 156788,
       "name": "Eastside Story",
       "url": "https://open.spotify.com/track/75XxDL422jppGj97qBCVxy"
     },
@@ -13844,7 +13844,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 188840,
       "name": "J'ai besoin d'un break",
       "url": "https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC"
@@ -29904,6 +29904,28 @@
       "duration_ms": 230603,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/5HeVjNJ5Eq4kSoFBjvxNOD"
+    },
+    {
+      "album": {
+        "name": "Baby project",
+        "url": "https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157036,
+      "name": "Sosa",
+      "url": "https://open.spotify.com/track/1qCRNHFdp6h3IETdTYE3CG"
     },
     {
       "album": {

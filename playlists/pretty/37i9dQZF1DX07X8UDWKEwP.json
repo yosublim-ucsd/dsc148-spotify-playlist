@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Mike Bah\u00eda",
-  "num_followers": 251155,
+  "num_followers": 251221,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzU3YzBiYjAwYjhjZGUwZTg1MGMzYjZlYzlhMjRhMWRmY2IzOTc2",
+  "snapshot_id": "MCwzODEzNTE0ZWY4OTU5NGZjMDk4M2MwY2NhOTNkNWMzZjZhODRhMmUw",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -527,6 +527,30 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "L\u00e1grimas pa otro d\u00eda",
+        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 136955,
+      "name": "El camino",
+      "url": "https://open.spotify.com/track/6x5gl9msgjsqub1hy7Iq3k"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Regr\u00e9same Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy"
       },
@@ -587,30 +611,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "L\u00e1grimas pa otro d\u00eda",
-        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
-      },
-      "artists": [
-        {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 136955,
-      "name": "El camino",
-      "url": "https://open.spotify.com/track/6x5gl9msgjsqub1hy7Iq3k"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Esta Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "AWCH",
-        "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 189756,
-      "name": "AWCH",
-      "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Loter\u00eda",
         "url": "https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 250480,
       "name": "Loter\u00eda",
       "url": "https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "AWCH",
+        "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 189756,
+      "name": "AWCH",
+      "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -747,6 +747,30 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Rom\u00e1ntica Champeta",
+        "url": "https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Kevin Florez",
+          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
+        },
+        {
+          "name": "The Busy Twist",
+          "url": "https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI"
+        }
+      ],
+      "duration_ms": 202641,
+      "name": "Rom\u00e1ntica Champeta",
+      "url": "https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Fronteo",
         "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
       },
@@ -799,30 +823,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Rom\u00e1ntica Champeta",
-        "url": "https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Kevin Florez",
-          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
-        },
-        {
-          "name": "The Busy Twist",
-          "url": "https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI"
-        }
-      ],
-      "duration_ms": 202641,
-      "name": "Rom\u00e1ntica Champeta",
-      "url": "https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
         "url": "https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 213998,
       "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
       "url": "https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Perro Arrepentido",
-        "url": "https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Perro Arrepentido",
-      "url": "https://open.spotify.com/track/0krBST4JusyJApb2M30PZr"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Lado A Lado B",
         "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+        "name": "Perro Arrepentido",
+        "url": "https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+      "duration_ms": 240000,
+      "name": "Perro Arrepentido",
+      "url": "https://open.spotify.com/track/0krBST4JusyJApb2M30PZr"
     },
     {
       "added_at": "2023-04-28 04:00:00",

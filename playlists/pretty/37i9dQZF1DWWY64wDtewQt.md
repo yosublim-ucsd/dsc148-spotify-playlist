@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,212,939 likes - 99 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,224,722 likes - 99 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 38 | [MTG \- REBOLA NO MEU C4RALHO](https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc) | [DJ LA BEAT](https://open.spotify.com/artist/7x17bGSbbPvPv9YOhPhMch) | [MTG \- REBOLA NO MEU C4RALHO](https://open.spotify.com/album/63WfQxZlaM7RieVafWxH6p) | 3:27 |
 | 39 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 |
 | 40 | [Dark Side \- Slowed + Reverb](https://open.spotify.com/track/47PdPnJdLLKwF47OhrvEUo) | [XAN$X](https://open.spotify.com/artist/09H8woomz7PD9Fj8HMvTlH) | [Dark Side \(Slowed + Reverb\)](https://open.spotify.com/album/4vHKBB9bDl3QOtWrHSU7aW) | 3:18 |
-| 41 | [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 |
+| 41 | [SMOKE IT OFF!](https://open.spotify.com/track/0mRaXMf9wwtkcW62t7zPm7) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/6LG5dTlYLzmgC6RRiGvsl1) | 1:57 |
 | 42 | [dropitlikeitshot!](https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [dropitlikeitshot!](https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6) | 1:45 |
 | 43 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 |
 | 44 | [JUDAS](https://open.spotify.com/track/2fDvxV1N7SxQYbWNrN7YJl) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu) | [JUDAS](https://open.spotify.com/album/3bhcjWFGnBUqvrHmNr5e6c) | 1:57 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 98 | [Own Paradise](https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG) | [LXAES](https://open.spotify.com/artist/5H0EvN3WxKB6HaRpH7OY0z) | [Own Paradise](https://open.spotify.com/album/5jh2KaX4hvRnEmPM8RM8HG) | 2:08 |
 | 99 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MCw2MWRlZWEyODdlYWQ4OGRlMTA1MjFlNzkyNGY5MjgwMTE5YWNlNzg4`
+Snapshot ID: `MCxlNTg0ZmEzMTRmOGZjNmFmN2E1NjM2ZWJmMzhmMTkxODdiYmNkZDk0`

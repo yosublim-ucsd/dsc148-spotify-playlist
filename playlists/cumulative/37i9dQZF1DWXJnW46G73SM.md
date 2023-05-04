@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> Mohamed Ramadan & Skales :أحدث الأغاني المصرية اليوم🤩 الغلاف
+> أحدث الأغاني المصرية اليوم🤩 الغلاف: فريد
 
-401 songs - 23 hr 20 min
+402 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [سارح فى السما \( فى ثانيه كله كان معايا \)](https://open.spotify.com/track/2iudD0MDAvJvV4Po8pQvGV) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [سارح فى السما \( فى ثانيه كله كان معايا \)](https://open.spotify.com/album/0Lgx0uYxOsVbLMDKBeI71K) | 3:20 | 2023-04-20 |  |
 | [سوكسيه](https://open.spotify.com/track/2e9tv43tcu7X9pqxvKkkRI) | [Nehal Kamal](https://open.spotify.com/artist/0IlcjzFU7NNJbTFZEPDRGf), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [سوكسيه](https://open.spotify.com/album/2Wu6uUUCLxq99a0DnuMvpa) | 3:27 | 2021-12-23 | 2022-03-10 |
 | [سيرك الحياه](https://open.spotify.com/track/5OortLPZ3VTCDjL01kuya0) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Serk El Haiah](https://open.spotify.com/album/4rHRrAb9uxWqHVHvHCSfO4) | 3:10 | 2021-12-23 | 2022-02-02 |
-| [شكر خاص](https://open.spotify.com/track/0lSVhIuoo0Qbtqr7xz1Ifs) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [شكر خاص](https://open.spotify.com/album/2QRaqOHlatJV6qrxvLYvav) | 3:34 | 2023-02-23 |  |
+| [شكر خاص](https://open.spotify.com/track/0lSVhIuoo0Qbtqr7xz1Ifs) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [شكر خاص](https://open.spotify.com/album/2QRaqOHlatJV6qrxvLYvav) | 3:34 | 2023-02-23 | 2023-05-04 |
 | [شوفت](https://open.spotify.com/track/11KqopQALDho8OLRARxdcS) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB) | [شوفت](https://open.spotify.com/album/21y3qgHakvFl9iRhxMFvu9) | 3:39 | 2023-01-06 | 2023-02-17 |
 | [صدقونا](https://open.spotify.com/track/4PnLVm1FmAZtq0IWY5HYsA) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صدقونا](https://open.spotify.com/album/4SAXz6gJcUj3M0a9eZQbnS) | 3:01 | 2023-02-16 | 2023-04-21 |
 | [ضرب نار \- تتر بداية المسلسل](https://open.spotify.com/track/1m0IonlGzhsZwYfuaMlvdI) | [Mohamed El helw](https://open.spotify.com/artist/3dcqyPdXEFFEYsVkgJpqJK), [Hanan Mady](https://open.spotify.com/artist/6JiYm4VkRDfzUbKuRdO6xZ) | [ضرب نار \(تتر بداية المسلسل\)](https://open.spotify.com/album/5KCPJ0yrhgiA7j50Zn1Fn5) | 3:37 | 2023-04-05 |  |
@@ -406,6 +406,7 @@
 | [يا غالية](https://open.spotify.com/track/6kxH8WTeU0Br5qyQ7IFBUx) | [Ahmed Basyoni](https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49), [Hussein Gamal](https://open.spotify.com/artist/6qsRiXkSz88prbplwiKpmr) | [يا غالية](https://open.spotify.com/album/2J2bekTkAnz7hacnFyxXo0) | 3:14 | 2022-10-10 | 2022-12-30 |
 | [ياساتر \- تتر مسلسل يوتيرن](https://open.spotify.com/track/4dXTPZWeidbo3JOPqa6Zjv) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [ياساتر \(تتر مسلسل يوتيرن\)](https://open.spotify.com/album/78u5iHbe5J8ZdISmRI1ymr) | 3:56 | 2022-07-28 | 2022-07-31 |
 | [ياما الليالي](https://open.spotify.com/track/3odspHtOBp0vxJS2f4IkT6) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [ياما الليالي](https://open.spotify.com/album/14YQxZeiquQiIsFppjCJSK) | 3:15 | 2022-09-20 | 2022-09-22 |
+| [يقال عنك](https://open.spotify.com/track/6ONNx8DDfBjVeVYh6G4z9k) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [يقال عنك](https://open.spotify.com/album/5zVkjf8fURiv4FguMdbkRo) | 3:29 | 2023-05-03 |  |
 | [يمكن خير](https://open.spotify.com/track/70pc3FZNGfIHJ2pnU4fJBA) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [يمكن خير](https://open.spotify.com/album/21ollpdRxaKYtkDRxq8E7a) | 3:36 | 2022-12-29 | 2023-01-13 |
 | [يوتيرن \- التتر الأصلي للمسلسل](https://open.spotify.com/track/5nxONHnWKd5namYsbyuSLE) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [يوتيرن \(التتر الأصلي للمسلسل\)](https://open.spotify.com/album/5LO5YiSV2hXf24DCmKqC9r) | 3:52 | 2022-04-07 | 2022-07-29 |
 | [يوم ما جاني](https://open.spotify.com/track/0APfVkcFTt08Beh57ILcdo) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [يوم ما جاني](https://open.spotify.com/album/7ePGgpsRB1l33EsZaNQGYX) | 3:10 | 2022-10-13 | 2023-01-02 |

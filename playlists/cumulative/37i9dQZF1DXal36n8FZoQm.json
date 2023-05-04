@@ -272,10 +272,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 210103,
       "name": "Boneshaker",
       "url": "https://open.spotify.com/track/1fvmljBBL2lsyewZBKYj93"
+    },
+    {
+      "album": {
+        "name": "Boneshaker",
+        "url": "https://open.spotify.com/album/1WEM7Gz0rj7InZfQ8HSnKT"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210103,
+      "name": "Boneshaker",
+      "url": "https://open.spotify.com/track/1i9mctpfTvkg0Yb1mJDQZE"
     },
     {
       "album": {
@@ -298,7 +316,7 @@
     {
       "album": {
         "name": "Breakin' Outta Hell",
-        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
+        "url": "https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd"
       },
       "artists": [
         {
@@ -309,6 +327,24 @@
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg"
+    },
+    {
+      "album": {
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
       "duration_ms": 232425,
       "name": "Breakin' Outta Hell",
       "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"

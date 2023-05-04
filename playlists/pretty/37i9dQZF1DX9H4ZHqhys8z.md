@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Ellize
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,749 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,797 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Sino Moi](https://open.spotify.com/track/5kcYTERi567rflTBI18ZiO) | [Mimis Nikolopoulos](https://open.spotify.com/artist/470Dl9ZKHRaZ9QRYzYovfS), [Sandra Sangiao](https://open.spotify.com/artist/0v0VMbl5PDaEEIT0xFBIkx) | [Sino Moi](https://open.spotify.com/album/3rlcfJCFsXznxujMHtHtmC) | 5:31 |
 | 50 | [Agapi Ypervoliki \- 2023 Version](https://open.spotify.com/track/06RkoxeiyiL0I1Hfpt4Zew) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj) | [Agapi Ypervoliki \(2023 Version\)](https://open.spotify.com/album/1cFK4HC3ffxOZosr1TrXtm) | 3:23 |
 
-Snapshot ID: `MCw5ZjZhYjM5ZmIzYTQxMWNkMWYzMjI3OWZlZDZjMDJiZmM3ODRjYzZk`
+Snapshot ID: `MCw2ZjYxNzljYjZmM2Y0OTkyOTg1ZmJlMjQ0ZTJjZGJkY2E5MTEzMGFm`

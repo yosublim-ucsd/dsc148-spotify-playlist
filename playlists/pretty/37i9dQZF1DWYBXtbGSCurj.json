@@ -1,17 +1,17 @@
 {
   "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: MD Chefe",
-  "num_followers": 349549,
+  "num_followers": 349875,
   "original_name": "Trap Ouro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODQwZmNhYzBjYzAxNjg4ODFkOTgxOTQ3NTEzZWQ4NTJjMWNjMWJj",
+  "snapshot_id": "MCxiN2E4MjU2YmIzNDBkOTU4Njk1MGU0NzJmZTczYmRmNTQ3NmE1MTZl",
   "tracks": [
     {
       "added_at": "2023-05-01 14:45:31",
       "album": {
-        "name": "Marid\u00e3o (feat. Kizzy & Feek)",
+        "name": "Marid\u00e3o (feat. Borges & Feek)",
         "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
       },
       "artists": [
@@ -24,12 +24,12 @@
           "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
           "name": "Kizzy",
           "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
           "name": "Feek",
@@ -37,7 +37,7 @@
         }
       ],
       "duration_ms": 322622,
-      "name": "Marid\u00e3o (feat. Kizzy & Feek)",
+      "name": "Marid\u00e3o (feat. Borges & Feek)",
       "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
     },
     {
@@ -222,6 +222,10 @@
         {
           "name": "Mc IG",
           "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
       "duration_ms": 268085,

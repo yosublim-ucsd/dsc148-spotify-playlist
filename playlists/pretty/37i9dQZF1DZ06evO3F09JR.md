@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972 likes - 25 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 973 likes - 25 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 9 | [Perdonare](https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Perdonare](https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E) | 4:52 |
 | 10 | [At First Sight](https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 3:27 |
 | 11 | [The Arrow](https://open.spotify.com/track/05Q3tJhlDyHaQYKs8B6fsy) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:59 |
-| 12 | [Immediate Horizon 3](https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 8:47 |
-| 13 | [Vincere](https://open.spotify.com/track/2bCJY4qvQtBKa6r47i2vem) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Vincere](https://open.spotify.com/album/0QOiZ7kmSuZ1FwsDYxYr93) | 7:27 |
+| 12 | [Vincere](https://open.spotify.com/track/2bCJY4qvQtBKa6r47i2vem) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Vincere](https://open.spotify.com/album/0QOiZ7kmSuZ1FwsDYxYr93) | 7:27 |
+| 13 | [Immediate Horizon 3](https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 8:47 |
 | 14 | [Interrupted By The Cloud Of Light](https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:54 |
 | 15 | [The Goliath](https://open.spotify.com/track/3BPYSSsURFB3PHfn8VKx3I) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:22 |
 | 16 | [Hydra](https://open.spotify.com/track/4O8FJIzm4sVtbs7bKvbN1j) | [Roll the Dice](https://open.spotify.com/artist/64Ub5tUgRolfKc6HgoSEzv), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Hydra](https://open.spotify.com/album/3qABNj1U8xKRORwWRkLEuw) | 6:01 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 24 | [Immediate Horizon 5](https://open.spotify.com/track/5XGszMhQLTPpMhvL5Q3EaU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 6:23 |
 | 25 | [Immediate Horizon 4](https://open.spotify.com/track/3sVoD2TNyGarLfFMKAHSVi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 11:59 |
 
-Snapshot ID: `MjgwNTA1MDYsMDAwMDAwMDBlMGY1ZWY5YWEzNmY5Mzg0MTQ0Y2VmMmIzODBlMDFiNQ==`
+Snapshot ID: `MjgwNTE5MzMsMDAwMDAwMDAyNmQ1YTE2YTRlNDFhMjQ2MzFhYzkxNTViY2IwZmE0Yg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Kid Yugi in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,398 likes - 55 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,426 likes - 55 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
 | 55 | [Esperienze Nuove](https://open.spotify.com/track/1LR432zhaAgcgpqdozne3O) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Esperienze Nuove](https://open.spotify.com/album/4tmfSfLFpuOf6iCIH8K1zE) | 3:03 |
 
-Snapshot ID: `MCxkNDA4MDM4YjQ4MzExMmQxNWI1OTZlNTNjMTc2NjQwNzg5ZTEzNzQ5`
+Snapshot ID: `MCw4YjRiNjAxODc5YjM4YjZiZWU1MjM3ZTkyNTdiYjFiN2JjM2YxMDEz`

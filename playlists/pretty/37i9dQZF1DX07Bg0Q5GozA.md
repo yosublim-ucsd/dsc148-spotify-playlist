@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Chromeo, La Roux
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,953 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,952 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 |
 | 2 | [Song We Used To Play](https://open.spotify.com/track/4AqvXjFOmod2uemT2teqUU) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Song We Used To Play](https://open.spotify.com/album/1Cmna1SsvPrwbi9vz6jsTM) | 3:02 |
-| 3 | [Final Dance](https://open.spotify.com/track/7re9LDHysQXrIlbQxaDzBv) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 4:12 |
+| 3 | [Final Dance](https://open.spotify.com/track/7re9LDHysQXrIlbQxaDzBv) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 4:12 |
 | 4 | [Mother](https://open.spotify.com/track/0GAr2dDEqEXqlhQzvyZTsK) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mother](https://open.spotify.com/album/038nzTPTer7dDaM9Z5K4M6) | 3:41 |
 | 5 | [Leave It Alone](https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Leave It Alone](https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2) | 2:51 |
 | 6 | [Bad](https://open.spotify.com/track/7vIpp7o0OPjbLHPb7TNAHY) | [Kev Koko](https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Bad](https://open.spotify.com/album/6bvi36j9nKaLJz7DzeU4xi) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Hold](https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:05 |
 | 75 | [Sunday by the River](https://open.spotify.com/track/5SjdXpQqq54uRrlSXv12i4) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Sunday by the River](https://open.spotify.com/album/0Ukujcae2Ufeke5HuKzZQW) | 2:33 |
 
-Snapshot ID: `MCxlYjcxM2E2MjQyMGFlNGI0ODhiNDIwMDc1Mjg3YmZkNTM2MGZiODkx`
+Snapshot ID: `MCxmODY3ZjJlNGRlZmI5YzM5NzFmNzQ4OWM5ODY2N2ZhNDkxYjQxMTRk`

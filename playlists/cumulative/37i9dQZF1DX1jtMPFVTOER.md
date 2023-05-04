@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-433 songs - 1 day 1 hr 57 min
+434 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [always](https://open.spotify.com/track/3kO5SqEje4LhVZeD7XWNvr) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [always/the speed of sound!](https://open.spotify.com/album/06DWAGemrz6oW1iWwSPEfl) | 5:23 | 2023-01-27 | 2023-04-30 |
 | [Ancestral Prototypes](https://open.spotify.com/track/6zqpO4lWlxkIvNfdofHHC6) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Ancestral Prototypes](https://open.spotify.com/album/0KxhTSZZlWjwMFmP6IloVF) | 2:27 | 2022-03-11 | 2022-04-29 |
 | [Animal Kingdom](https://open.spotify.com/track/2wAryG29r8m1kOTL3SHWRP) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Animal Kingdom](https://open.spotify.com/album/2Db37z791rVaI1HHN6YZXA) | 3:34 | 2021-11-12 | 2022-04-09 |
-| [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/track/2JqpzB1Z6r2MjZ7lGaONex) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/album/0uCaokUXqrnT9ILV69dkZX) | 3:32 | 2023-01-20 |  |
+| [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/track/2JqpzB1Z6r2MjZ7lGaONex) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/album/0uCaokUXqrnT9ILV69dkZX) | 3:32 | 2023-01-20 | 2023-05-04 |
+| [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/track/4VMzhRu40whxcDcKuoHLr0) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [COOKUP](https://open.spotify.com/album/2MXzQNmgVCjW3BQjq06JAZ) | 3:32 | 2023-01-20 |  |
 | [Artichoke](https://open.spotify.com/track/4KLdyKhs8sFlDdQPMAzWif) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Eitan Bernstein](https://open.spotify.com/artist/57c1G1JfgEHIWPSu8wED14) | [Artichoke](https://open.spotify.com/album/1DdT8ZkXpypodT0jxvIzSg) | 3:34 | 2022-03-11 | 2022-03-18 |
 | [atimemyfriend](https://open.spotify.com/track/1FZJuTa8z5fe1RC67AbuZ5) | [FRANK LEONE](https://open.spotify.com/artist/6hyHkgqHkUlJU6QMmzCNMK), [lojii](https://open.spotify.com/artist/2N2l2BR0KlnQrFnOn7ntEN) | [atimemyfriend](https://open.spotify.com/album/1IOq0vhip6TkwxkCLg3Ltm) | 2:19 | 2022-11-11 |  |
 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 | 2021-11-12 | 2022-05-20 |

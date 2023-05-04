@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> Top country hits you know and love! Cover: Miranda Lambert
+> Top country hits you know and love! Cover: Sam Hunt
 
 212 songs - 11 hr 27 min
 

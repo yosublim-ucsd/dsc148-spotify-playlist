@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Kickass Metal Presents..\. The Best Metal Songs of 2022\. Cover: Ghost<br/>\#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,331 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,500 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 34 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/4eG7XBVX1mYyBgxRB8DJml) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Dear Monsters \(Deluxe\)](https://open.spotify.com/album/0Rr7MekxYWWO1u1Ph3onQY) | 3:09 |
 | 35 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 |
 | 36 | [MONSTER](https://open.spotify.com/track/2SL0hgFdUg2nBMJapyDuAt) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [I JUST DON'T LOVE YOU ANYMORE](https://open.spotify.com/album/2QgLpBT2EWrF39esY0iIsy) | 3:24 |
-| 37 | [No More Tears To Cry](https://open.spotify.com/track/0NPr9wmktHO0yT1VlUucHG) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:41 |
+| 37 | [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 |
 | 38 | [Closer](https://open.spotify.com/track/02KunANrNVHdO9JG2wcb9L) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Welcome Home](https://open.spotify.com/album/04O5F58s8VmMEGqJwQRfFu) | 3:19 |
 | 39 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 |
 | 40 | [Pump It](https://open.spotify.com/track/6emZMVNvIxW57fhxPlyxLp) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 2:52 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 96 | [Ready For Combat](https://open.spotify.com/track/0VSOx818DqNDcgpALhNdRP) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:08 |
 | 97 | [Save Us](https://open.spotify.com/track/2Inqk9vGkO3EDdWnFKf833) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:45 |
 | 98 | [Gaddaar](https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Rakshak](https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q) | 4:44 |
-| 99 | [Without Me](https://open.spotify.com/track/2g8vTn8mz96VWCSc9RCucZ) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5) | 3:44 |
+| 99 | [Without Me](https://open.spotify.com/track/7oGCVuPEyp6m6DhXkU5Pfs) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/0DY5kJhDXPfDjVdSKNvWlL) | 3:44 |
 | 100 | [Blessings Upon The Throne Of Tyranny \- Remixed & Remastered](https://open.spotify.com/track/1kZN785OeP13ZUkFYdBGC8) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia \(Remixed & Remastered\)](https://open.spotify.com/album/5MqN56Ebc9XAkrHqK6aH8X) | 5:22 |
 
-Snapshot ID: `MCwzNDQ4NTg4OWQzM2RkNTY4MmJiYjIzMzM5MGEzNWJiYTZhNjExZWRk`
+Snapshot ID: `MCwyYmQ3MWMyZmE2ZWRlNGU0YTJlYjYyOTI5YmU5YWFlMWYwNzA1NGU5`

@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=5kcYUJToRKKCA6nuJ2XUuw"> ODUMODUBLVCK </a>
 
-164 songs - 8 hr 40 min
+165 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [AMAPIANO](https://open.spotify.com/track/2M1wKgqxbloFNr8WjVi9OM) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [AMAPIANO](https://open.spotify.com/album/2B4Y7IGYppG4Z6jovbuZK8) | 2:29 | 2022-03-24 | 2022-10-29 |
 | [Amigo](https://open.spotify.com/track/6UEW9NiyPzXxbhkjEiEHPe) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Amigo](https://open.spotify.com/album/6iysreppwtVyUjTK8VTgJe) | 2:35 | 2021-10-14 | 2022-03-04 |
 | [AMMO](https://open.spotify.com/track/5HW3uYRMzmlLNHlnJZXD9U) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [AMMO](https://open.spotify.com/album/1j7tTQQ39XfjhJd97xiO26) | 3:50 | 2021-10-14 | 2022-03-17 |
-| [Animalistic](https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Animalistic](https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds) | 2:46 | 2021-10-14 |  |
+| [Animalistic](https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Animalistic](https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds) | 2:46 | 2021-10-14 | 2023-05-04 |
 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 | 2023-04-27 |
 | [ASTRONAUTE](https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [ASTRONAUTE](https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT) | 3:27 | 2021-10-14 | 2022-11-04 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 |  |
@@ -123,6 +123,7 @@
 | [PLAYBACK](https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [PLAYBACK](https://open.spotify.com/album/2fw1To7qooV4L4wFqfDbtA) | 3:12 | 2021-10-14 | 2022-03-08 |
 | [Prada](https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [Prada](https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5) | 2:55 | 2023-01-19 |  |
 | [Problem No Dey Finish](https://open.spotify.com/track/2N7hk4ffi927drqdKkbQSy) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Problem No Dey Finish](https://open.spotify.com/album/59LCfOZU4rPfSa08GVGvQ2) | 2:01 | 2021-11-25 | 2022-09-17 |
+| [Purple Feels](https://open.spotify.com/track/5NWXPPHvhHM8v4rLkN739K) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Syl DuBenion](https://open.spotify.com/artist/2pR9hbm24wDJmTYW4Fv3YG) | [Purple Feels](https://open.spotify.com/album/0rly4EpxKtfXIECxLSixgC) | 3:23 | 2023-04-27 |  |
 | [Put Your Hands Up](https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Put Your Hands Up](https://open.spotify.com/album/4H43FO9JQCliwYJZnuIvFc) | 3:29 | 2022-08-18 | 2023-02-28 |
 | [ridiculouS](https://open.spotify.com/track/6UPZoLHQJpM5GfuCWG1VRV) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [ridiculouS](https://open.spotify.com/album/2mCKxB9NhM3Kn2oz7IT9ZD) | 3:08 | 2021-10-14 | 2022-08-06 |
 | [Romantic Rivals](https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm) | [Romantic Rivals](https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE) | 4:15 | 2022-04-28 | 2023-04-28 |

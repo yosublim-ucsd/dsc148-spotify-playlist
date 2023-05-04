@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: jev.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,234 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,269 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [The Drunk Tank](https://open.spotify.com/track/59CcNXlzpVkpsyPKgnvSBe) | [Dj Moya](https://open.spotify.com/artist/56CAZLbzUvyYZir1iwtfhQ), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF) | [The Drunk Tank](https://open.spotify.com/album/2DbNBk2zMYJfJhhEoxgEuG) | 2:08 |
 | 100 | [Finesse Demons](https://open.spotify.com/track/4aG1LGfEqZh5UQmtyAogoU) | [Jimmy Yitty](https://open.spotify.com/artist/2oOPVizPrUkoNmnqo7wdBx) | [Finesse Demons](https://open.spotify.com/album/1nV2gt4a6uNV2U9GLES9Wt) | 2:30 |
 
-Snapshot ID: `MCwxZDU2MTVhZjZlYTNmYjcyZDVkNzIwZjRjNjhmODc0MGExMmM2Yjhh`
+Snapshot ID: `MCwwNmU1ZDhjYWUyMTBlNzViNjQxN2Y0Mzc1Njg5YjIyNjIxMTM5Zjgz`

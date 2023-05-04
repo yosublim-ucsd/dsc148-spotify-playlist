@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,003 songs - 2 day 9 hr 39 min
+1,004 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Loca People](https://open.spotify.com/track/2zCKkNNk40s01xY0to217Y) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Loca People](https://open.spotify.com/album/5cEzNPqONZKG2JU0mc9DDy) | 2:51 | 2023-03-10 | 2023-03-18 |
 | [LOKOMOTIF](https://open.spotify.com/track/2OpQif2uskEHRRvo5JTBds) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [WANNA GO BANG](https://open.spotify.com/album/4FU1qrVtNnSIGsSdrz1W3t) | 3:18 | 2022-10-07 | 2022-10-15 |
 | [London Bridge](https://open.spotify.com/track/2OQ6ZUyMQc1v1em66u8V2V) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Jen Payne](https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq) | [London Bridge](https://open.spotify.com/album/3GjwA8C4Pe0WSCxfRjF8Fr) | 2:25 | 2023-04-14 | 2023-04-22 |
+| [Lonely](https://open.spotify.com/track/4GO1DpXdNaDR4yvy9n4HmF) | [Hondës](https://open.spotify.com/artist/50ao69rRHg9HiIvhuvwaZc) | [Lonely](https://open.spotify.com/album/5bD1p0e5k1Iy5tzxbA8SXA) | 2:27 | 2023-05-03 |  |
 | [Look in Your Eyes](https://open.spotify.com/track/0zhp8c1bhm7okgQyd61fXN) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z) | [Look in Your Eyes](https://open.spotify.com/album/1nGRDyu3n9B8O6brrJRVxD) | 3:04 | 2023-02-10 | 2023-02-18 |
 | [Looking 4 U](https://open.spotify.com/track/64mG1nyazcwSPgiLpp3dfg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Looking 4 U](https://open.spotify.com/album/3JAWEWwLRejH1qnV4r4eO2) | 2:52 | 2023-01-21 | 2023-01-29 |
 | [Looking Back](https://open.spotify.com/track/4hzyxTEdy1UscMEX7iH9T7) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [Looking Back EP](https://open.spotify.com/album/5au8RXzyAeHajABjOInuEf) | 2:34 | 2022-09-30 | 2022-10-08 |
@@ -831,7 +832,7 @@
 | [T.Y.S.D\. \(Throw Your Soul Down\) \- HoneyLuv Remix](https://open.spotify.com/track/1PVROc2q2huRGb1sd0FJWw) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [T.Y.S.D\. \(Throw Your Soul Down\) \[Remix EP\]](https://open.spotify.com/album/3pogOmNSH3PIO1bNbz7d28) | 3:15 | 2022-11-11 | 2022-11-19 |
 | [Take A Flight](https://open.spotify.com/track/6OyNK8tVP9rDUFXmH6lCXI) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Nadia](https://open.spotify.com/artist/2tRocnrINF0O5Glx1axBmr) | [Take A Flight](https://open.spotify.com/album/1uPTrWlFC0MpA01VwAjR37) | 3:50 | 2023-04-14 | 2023-04-22 |
 | [Take Control](https://open.spotify.com/track/6gzoZhcPRd1F1wRBaDlHA3) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Infinite](https://open.spotify.com/album/1m3SQaQ1NhgSNaySx4EZ5J) | 5:21 | 2022-11-28 | 2022-12-03 |
-| [Take Ma Advice \- Radio Edit](https://open.spotify.com/track/3oe1hcpJS8ZY319Ojik9uz) | [Since08](https://open.spotify.com/artist/6eq55c3X8PVwAFIN3f3Rv3) | [Advice](https://open.spotify.com/album/0ZNYfSWSoUzc7pNaUZj0qZ) | 3:33 | 2023-04-21 | 2023-04-29 |
+| [Take Ma Advice \- Radio Edit](https://open.spotify.com/track/3oe1hcpJS8ZY319Ojik9uz) | [Since08](https://open.spotify.com/artist/6eq55c3X8PVwAFIN3f3Rv3) | [Advice](https://open.spotify.com/album/0ZNYfSWSoUzc7pNaUZj0qZ) | 3:33 | 2023-04-21 |  |
 | [Take Me](https://open.spotify.com/track/7pWLqM4gqXzUfxdk87TuX4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Take Me](https://open.spotify.com/album/2gvZvCqYpEEhFJ22SlBFTo) | 2:37 | 2022-11-18 | 2022-11-29 |
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-03 | 2023-03-11 |
 | [Take Me Away](https://open.spotify.com/track/7kyfJ9IsWVUT3eKm8efN24) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Take Me Away](https://open.spotify.com/album/1JEjl3CGelfK12Ab6sxc9I) | 4:21 | 2022-12-16 | 2023-01-07 |

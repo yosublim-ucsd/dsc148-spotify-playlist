@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Grandbrothers on cover.",
-  "num_followers": 149568,
+  "num_followers": 149685,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGYwMWMxOTNkZDgxMDQ0YWJjNzgzZDJjNzYzYzBhZGI1ODA1OTIw",
+  "snapshot_id": "MCw2NzRmNTJmZTQzNjA2NGFkMzM0NTMzZTlkN2ZkN2UzNTdjOGE1ZDdh",
   "tracks": [
     {
       "added_at": "2023-04-28 19:20:32",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
         "name": "Leave Your Memories Behind",
         "url": "https://open.spotify.com/album/3jzpsBUHS0r7yn7PgKMvlS"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 143483,
       "name": "Shards",
       "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "Long Cool World",
-        "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 316565,
-      "name": "The Nighthawks Are Out",
-      "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
         "name": "Epilogue",
         "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 249081,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
+        "name": "Long Cool World",
+        "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 316565,
+      "name": "The Nighthawks Are Out",
+      "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
+        "name": "VIM",
+        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "duration_ms": 207756,
+      "name": "VIM",
+      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1207,6 +1223,22 @@
       "duration_ms": 222946,
       "name": "LUX 1.1",
       "url": "https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
+        "name": "Origami Rework",
+        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Origami Rework",
+      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1231,54 +1263,6 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "dark snowy night",
-        "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
-      },
-      "artists": [
-        {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
-        }
-      ],
-      "duration_ms": 211091,
-      "name": "dark snowy night - Slowed & Reverb Version",
-      "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
-        "name": "Origami Rework",
-        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Origami Rework",
-      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
-        "name": "VIM",
-        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 207756,
-      "name": "VIM",
-      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
         "name": "some kind of peace",
         "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 253476,
       "name": "Still / Sound",
       "url": "https://open.spotify.com/track/1rJFEKA0m4aUeQNK9378uo"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
+        "name": "dark snowy night",
+        "url": "https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "duration_ms": 211091,
+      "name": "dark snowy night - Slowed & Reverb Version",
+      "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "Recovered",
-        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
       },
       "artists": [
         {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
         }
       ],
-      "duration_ms": 189908,
-      "name": "Recovered",
-      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
+      "duration_ms": 205174,
+      "name": "Of Woods and Seas",
+      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 205174,
-      "name": "Of Woods and Seas",
-      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
         "name": "See-Through",
         "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "fragments",
-        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
+        "name": "Recovered",
+        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
         }
       ],
-      "duration_ms": 127766,
-      "name": "whateverness",
-      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
+      "duration_ms": 189908,
+      "name": "Recovered",
+      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1455,6 +1439,22 @@
       "duration_ms": 117775,
       "name": "Mesmerising Waves",
       "url": "https://open.spotify.com/track/3xXFRBuzJysZwZ8h2ljVGz"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
+        "name": "fragments",
+        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "whateverness",
+      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "Forget The Curse",
-        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
-      },
-      "artists": [
-        {
-          "name": "Troth",
-          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
-        }
-      ],
-      "duration_ms": 379573,
-      "name": "Phare",
-      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
         "name": "Isola",
         "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
+        "name": "Forget The Curse",
+        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
+      },
+      "artists": [
+        {
+          "name": "Troth",
+          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
+        }
+      ],
+      "duration_ms": 379573,
+      "name": "Phare",
+      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
         "name": "!",
         "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
       },
@@ -1627,22 +1627,6 @@
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
-        "name": "exosphere",
-        "url": "https://open.spotify.com/album/2kOlNHnx37eLBwMGNsCqtP"
-      },
-      "artists": [
-        {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "exosphere",
-      "url": "https://open.spotify.com/track/4YzJX0cfKt0Y3X5qBCGVwX"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1663,22 +1647,6 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "Quiet Music (Ambient)",
-        "url": "https://open.spotify.com/album/5yHPNZtz9ULxM3DaqXUda0"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
-        }
-      ],
-      "duration_ms": 169151,
-      "name": "Being Still - Ambient",
-      "url": "https://open.spotify.com/track/0055MEXiMEoiQX9i1RvVof"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
         "name": "Nocturne 4 (Alva Noto Remodel)",
         "url": "https://open.spotify.com/album/25cK5Tq2V5hM6SegYu9YGO"
       },
@@ -1691,6 +1659,22 @@
       "duration_ms": 400846,
       "name": "Nocturne 4 - Alva Noto Remodel",
       "url": "https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
+        "name": "exosphere",
+        "url": "https://open.spotify.com/album/2kOlNHnx37eLBwMGNsCqtP"
+      },
+      "artists": [
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "exosphere",
+      "url": "https://open.spotify.com/track/4YzJX0cfKt0Y3X5qBCGVwX"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1715,6 +1699,22 @@
       "duration_ms": 286961,
       "name": "So That The City Can Begin To Exist",
       "url": "https://open.spotify.com/track/5EaAEXfa0YHt4wf0r3O0ua"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
+        "name": "Quiet Music (Ambient)",
+        "url": "https://open.spotify.com/album/5yHPNZtz9ULxM3DaqXUda0"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "duration_ms": 169151,
+      "name": "Being Still - Ambient",
+      "url": "https://open.spotify.com/track/0055MEXiMEoiQX9i1RvVof"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "Inspirit (Takuya's Ry\u016bteki Dragons)",
-        "url": "https://open.spotify.com/album/35G1TshqzBnZAvicYfH2qw"
+        "name": "SUNDAYS",
+        "url": "https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K"
       },
       "artists": [
         {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
         }
       ],
-      "duration_ms": 255459,
-      "name": "Inspirit - Takuya's Ry\u016bteki Dragons",
-      "url": "https://open.spotify.com/track/7a72jzUzOYYCDyKDNG3Icg"
+      "duration_ms": 294000,
+      "name": "I've Got What I Need",
+      "url": "https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY"
     }
   ],
   "unique_name": "Ambiente",

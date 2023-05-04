@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Diplo, Labrinth &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,379 likes - 26 songs - 1 hr 19 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,378 likes - 26 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-789 songs - 1 day 15 hr 46 min
+790 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [Dreaming](https://open.spotify.com/track/5ewuV9PoExpWPIedXbEIJv) | [Wes Jools](https://open.spotify.com/artist/2Tsae4bvjzn4Xtc8EhQrdG) | [Dreaming](https://open.spotify.com/album/2mua8SuagF4jqz05kI6JeR) | 3:14 | 2020-12-04 | 2021-06-16 |
 | [Dreaming Of Dust](https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Dreaming Of Dust](https://open.spotify.com/album/0oJreCCMV1gBvlV3ibowI7) | 2:50 | 2021-09-22 | 2021-10-06 |
 | [drifting](https://open.spotify.com/track/0Bkuw9iTcI7JGHnLDcYDiR) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/43XZAnWowTdkO2jEoDxmB8) | 2:45 | 2021-10-23 | 2022-10-13 |
-| [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2022-10-07 |  |
+| [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2022-10-07 | 2023-05-04 |
+| [drifting](https://open.spotify.com/track/6OgdBT8iNZJNmidOy2ImdF) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity, vol\. ii \(sleep\)](https://open.spotify.com/album/4OAWLl91Aso1DTKL4I8AL8) | 2:45 | 2023-04-28 |  |
 | [Dromen over jou](https://open.spotify.com/track/3i066yEKcUByD71IIhr8f5) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Dromen over jou](https://open.spotify.com/album/6Hx2DpkhbReCoFJkxALAD7) | 3:52 | 2020-10-20\* | 2021-03-14 |
 | [Droplets of Dew](https://open.spotify.com/track/78bhTdz0YawuHFNqHCtv4M) | [Volatilis](https://open.spotify.com/artist/58hwGRzGRrInGO1vK8BKrM) | [Droplets of Dew](https://open.spotify.com/album/00cOSLrAoo9ZF3yDxqB4mC) | 2:50 | 2020-10-20\* | 2020-12-12 |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2022-02-09 |  |

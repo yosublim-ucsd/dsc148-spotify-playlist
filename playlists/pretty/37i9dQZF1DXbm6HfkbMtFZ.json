@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 662768,
+  "num_followers": 662897,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmQyOGI2M2E5N2IyN2JhZWE0ZjM5ZGRiYWU3N2FkNDlmYzJlMDI4",
+  "snapshot_id": "MCw4MzNhNDY3OGU5ZmNiNGI0OWYyOTdjZmFjMGI4ODUyZDhiYzVhZWMy",
   "tracks": [
     {
       "added_at": "2023-04-25 19:05:11",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 181212,
       "name": "Dark Days [Feat. Sylvan Esso]",
       "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "Slow Song (with Dragonette)",
-        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253723,
-      "name": "Slow Song (with Dragonette)",
-      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
         "name": "Some Twist",
         "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
       },
@@ -1039,22 +1019,6 @@
       "duration_ms": 138097,
       "name": "I Root",
       "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "Tonight I'll Be Staying Here with You",
-      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1075,6 +1039,58 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
+        "name": "Slow Song (with Dragonette)",
+        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "duration_ms": 253723,
+      "name": "Slow Song (with Dragonette)",
+      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Tonight I'll Be Staying Here with You",
+      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
       },
@@ -1087,26 +1103,6 @@
       "duration_ms": 224626,
       "name": "Tumblin'",
       "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1139,6 +1135,26 @@
       "duration_ms": 390200,
       "name": "Changes, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1219,6 +1235,22 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
+        "name": "This Is My Story",
+        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
       },
@@ -1247,22 +1279,6 @@
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
-        "name": "This Is My Story",
-        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "Talk About It (B-Side)",
-        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
         "name": "The Dip",
         "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
       },
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+        "name": "Talk About It (B-Side)",
+        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+      "duration_ms": 132096,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Mambo Sun - 2003 Remaster",
-      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 227293,
       "name": "Soulless Friends",
       "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Mambo Sun - 2003 Remaster",
+      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 232760,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+        "name": "Asc. Scorpio",
+        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
       },
       "artists": [
         {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
         }
       ],
-      "duration_ms": 216106,
-      "name": "Malibu Man",
-      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
+      "duration_ms": 166601,
+      "name": "Asc. Scorpio",
+      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Malibu Man",
+      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
         "name": "Wiggle Room",
         "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 147893,
       "name": "Handsome",
       "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
-        "name": "The Hi Records Singles Collection",
-        "url": "https://open.spotify.com/album/6gFbwjfZlO5NKSFD5THsSJ"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 195178,
-      "name": "I Tried to Tell Myself",
-      "url": "https://open.spotify.com/track/3gVz8BKr8qaGvBs0mnpGi1"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
+        "name": "The Hi Records Singles Collection",
+        "url": "https://open.spotify.com/album/6gFbwjfZlO5NKSFD5THsSJ"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 195178,
+      "name": "I Tried to Tell Myself",
+      "url": "https://open.spotify.com/track/3gVz8BKr8qaGvBs0mnpGi1"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
         "name": "The Atlantic Ocean",
         "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
       },
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "Pulse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
-      },
-      "artists": [
-        {
-          "name": "Greg Phillinganes",
-          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "Lazy Nina",
-      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
         "name": "honey thighs",
         "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
       },
@@ -1747,6 +1747,22 @@
       "duration_ms": 284441,
       "name": "honey thighs",
       "url": "https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1"
+    },
+    {
+      "added_at": "2023-04-25 19:05:11",
+      "album": {
+        "name": "Pulse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
+      },
+      "artists": [
+        {
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+        }
+      ],
+      "duration_ms": 326613,
+      "name": "Lazy Nina",
+      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
     },
     {
       "added_at": "2023-04-25 19:05:11",
@@ -1883,22 +1899,6 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "Asc. Scorpio",
-        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 166601,
-      "name": "Asc. Scorpio",
-      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
-    },
-    {
-      "added_at": "2023-04-25 19:05:11",
-      "album": {
         "name": "Strange Country",
         "url": "https://open.spotify.com/album/5SCvT76Uwe2hN7aWqAovMH"
       },
@@ -1915,38 +1915,34 @@
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "Last One Standing (Radio Edit)",
-        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
         {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 203589,
-      "name": "Last One Standing - Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
     },
     {
       "added_at": "2023-04-25 19:05:11",
       "album": {
-        "name": "Twennies (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86"
+        "name": "Dusk at Cubist Castle",
+        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
       },
       "artists": [
         {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "The Olivia Tremor Control",
+          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
         }
       ],
-      "duration_ms": 248421,
-      "name": "Twennies - The Knocks Remix",
-      "url": "https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS"
+      "duration_ms": 112066,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
     }
   ],
   "unique_name": "Feel Good Dinner",

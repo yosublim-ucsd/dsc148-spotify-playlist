@@ -4,12 +4,13 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-272 songs - 15 hr 59 min
+274 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 | 2022-08-26 |  |
-| [.CoDA.](https://open.spotify.com/track/5Key8WcA9y3rW9BC9ZrGME) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.getawayfortheweekend.](https://open.spotify.com/album/46mMja473feJC3459xFEUi) | 3:44 | 2021-03-11 |  |
+| [.CoDA.](https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | ['\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:44 | 2022-10-07 |  |
+| [.CoDA.](https://open.spotify.com/track/5Key8WcA9y3rW9BC9ZrGME) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.getawayfortheweekend.](https://open.spotify.com/album/46mMja473feJC3459xFEUi) | 3:44 | 2021-03-11 | 2023-05-04 |
 | [A Taste of Silver](https://open.spotify.com/track/3q0tvLJLDdm0HkUDwOOvoM) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Taste of Silver](https://open.spotify.com/album/5VcTTlkBQvgYZRgXOsQC06) | 3:02 | 2022-10-07 | 2022-11-13 |
 | [A Taste of Silver](https://open.spotify.com/track/4VPGT5m48bSUaSy8xi5l0n) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Taste of Silver](https://open.spotify.com/album/42FwFRL3RJqi3qZcC5ARTD) | 3:02 | 2020-12-11 | 2022-11-02 |
 | [A Taste of Silver](https://open.spotify.com/track/5SOuMXd2jaCZY8m3sjzohx) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Lesson Unlearnt](https://open.spotify.com/album/5c74VB3brr3MeBxbk6QYLC) | 3:02 | 2022-10-07 |  |
@@ -136,7 +137,8 @@
 | [Let Me Live / Let Me Die](https://open.spotify.com/track/481idAnpIOHEjR4YPsbA0y) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0fnAV8la7b1AZjAfY1oyXZ) | 3:27 | 2022-06-17 | 2022-09-20 |
 | [Lights of The City](https://open.spotify.com/track/5APY2t9RdWVJSg4jDObkip) | [Pink Mountaintops](https://open.spotify.com/artist/1g58rJkJZVaUGMUTHTZmYi) | [Lights of The City](https://open.spotify.com/album/3fh6NNy3oDxvPS3EILbMw5) | 4:33 | 2022-03-02 |  |
 | [Lights Out](https://open.spotify.com/track/3mkmTUcZtQxuKpyM44lGj6) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Lights Out](https://open.spotify.com/album/7G48dtcmfU6QUGbf5Z3JuA) | 3:56 | 2020-12-11 | 2022-06-14 |
-| [Like A Drug](https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:32 | 2022-06-13 |  |
+| [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 | 2022-10-07 |  |
+| [Like A Drug](https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:32 | 2022-06-13 | 2023-05-04 |
 | [Listen My Son](https://open.spotify.com/track/7rfsMduLxpnpfVs2PYZDPA) | [The Unseen Guest](https://open.spotify.com/artist/5bntpAREWYPLEXmxZLN2aL) | [Out There \(Reissue\)](https://open.spotify.com/album/2U1jJNna9qGdwhn3xwhayW) | 4:00 | 2020-12-11 |  |
 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 | 2022-06-17 |  |
 | [Lo/Hi](https://open.spotify.com/track/77MbZsDaKvJEizcU36WnMu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Go / Eagle Birds / Lo/Hi](https://open.spotify.com/album/09hrL0Pk3gObwTh2MIAGaG) | 2:57 | 2020-12-11 | 2022-07-29 |

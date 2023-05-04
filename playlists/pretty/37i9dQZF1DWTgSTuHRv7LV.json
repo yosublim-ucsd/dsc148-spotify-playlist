@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 470494,
+  "num_followers": 470607,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTcwNWM3NGI5ODcwYTAwMzgyM2IxNDgzMmQ2NjRlMDMwODA4OGU5",
+  "snapshot_id": "MCwwOTQ4ZmI4OWE4NGMwMDBkN2QzMDBkODI5NmNkYjhjMmQxMjVjOTFj",
   "tracks": [
     {
       "added_at": "2023-04-21 23:05:59",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "No Me Pregunten",
-        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "No Me Pregunten",
-      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "Kachipun",
         "url": "https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 168080,
       "name": "Kachipun",
       "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "No Me Pregunten",
+        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "No Me Pregunten",
+      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
+        "name": "Conexiones",
+        "url": "https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 201741,
+      "name": "Conexiones",
+      "url": "https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
         "name": "Chambean",
         "url": "https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 192000,
       "name": "Chambean",
       "url": "https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Conexiones",
-        "url": "https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 201741,
-      "name": "Conexiones",
-      "url": "https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
+        "name": "Big Booty, Pretty Face",
+        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 227484,
+      "name": "Big Booty, Pretty Face",
+      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
         "name": "Socios I",
         "url": "https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq"
       },
@@ -1347,6 +1363,22 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
+        "name": "La Melod\u00eda",
+        "url": "https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        }
+      ],
+      "duration_ms": 117750,
+      "name": "Mi Estilo",
+      "url": "https://open.spotify.com/track/17mO121s5ssjoi3lVK7qs9"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
         "name": "Lo Prieto",
         "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
       },
@@ -1363,38 +1395,6 @@
       "duration_ms": 184625,
       "name": "Lo Prieto",
       "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Big Booty, Pretty Face",
-        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 227484,
-      "name": "Big Booty, Pretty Face",
-      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "La Melod\u00eda",
-        "url": "https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc"
-      },
-      "artists": [
-        {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
-        }
-      ],
-      "duration_ms": 117750,
-      "name": "Mi Estilo",
-      "url": "https://open.spotify.com/track/17mO121s5ssjoi3lVK7qs9"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1427,26 +1427,6 @@
       "duration_ms": 194484,
       "name": "TODO AUTOMATICO",
       "url": "https://open.spotify.com/track/38uRnUZTf0eCKfKNnVUSaT"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Fuma Fuma",
-        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Fuma Fuma",
-      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1487,22 +1467,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "Yo Tengo un Novio",
-      "url": "https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "Apokalypsis 2",
         "url": "https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH"
       },
@@ -1527,6 +1491,62 @@
       "duration_ms": 330196,
       "name": "Patr\u00f3n",
       "url": "https://open.spotify.com/track/2bE5ZNbhykDaIYqOCH3rQk"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Fuma Fuma",
+        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Fuma Fuma",
+      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "Yo Tengo un Novio",
+      "url": "https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Ta To Saldo",
+      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1563,26 +1583,6 @@
       "duration_ms": 212773,
       "name": "En La M\u00eda",
       "url": "https://open.spotify.com/track/6t4GOthDL0fPEUJCNrILo5"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Living Life",
-        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Ta To Saldo",
-      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "WYS",
-        "url": "https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "WYS",
-      "url": "https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "El Fierros",
         "url": "https://open.spotify.com/album/6wJTpytfeI6S3SaBlXrUIA"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 318000,
       "name": "El Fierros",
       "url": "https://open.spotify.com/track/2f6PnlpwjwkNotvpiWjyGK"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "WYS",
+        "url": "https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "WYS",
+      "url": "https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "El Anillo el Reloj",
-        "url": "https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 172524,
-      "name": "El Anillo el Reloj",
-      "url": "https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "No Boss",
         "url": "https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 158896,
       "name": "Stripper X",
       "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "El Anillo el Reloj",
+        "url": "https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 172524,
+      "name": "El Anillo el Reloj",
+      "url": "https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "YEYO",
-        "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        },
-        {
-          "name": "Doktor Rheal",
-          "url": "https://open.spotify.com/artist/6RLtMINjyT15TfS3enUhFF"
-        }
-      ],
-      "duration_ms": 179576,
-      "name": "CLOACA",
-      "url": "https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 193010,
       "name": "Jorge Al Ni\u00f1o (feat. Lefty Sm)",
       "url": "https://open.spotify.com/track/13TdyyKFfD2a1G1Ze467t1"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "YEYO",
+        "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Doktor Rheal",
+          "url": "https://open.spotify.com/artist/6RLtMINjyT15TfS3enUhFF"
+        }
+      ],
+      "duration_ms": 179576,
+      "name": "CLOACA",
+      "url": "https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "Veintipico",
-        "url": "https://open.spotify.com/album/0itQ63GbQW7k1bnEhS2k5R"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Veintipico",
-      "url": "https://open.spotify.com/track/0nq0enzelDlBoQHcrwfEf5"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "Manjit",
         "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
@@ -2267,6 +2247,26 @@
       "duration_ms": 188720,
       "name": "La Que Hay",
       "url": "https://open.spotify.com/track/5XCIh9cKTUdAMz6jovPVEo"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Veintipico",
+        "url": "https://open.spotify.com/album/0itQ63GbQW7k1bnEhS2k5R"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Veintipico",
+      "url": "https://open.spotify.com/track/0nq0enzelDlBoQHcrwfEf5"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2363,6 +2363,46 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
+        "name": "Chapter 1: Comentarios",
+        "url": "https://open.spotify.com/album/7msrBR2PXYJy3epn5hbruN"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Elio Mafiaboy",
+          "url": "https://open.spotify.com/artist/220fH9KvHqXP9T4r3IwlJH"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Chapter 1: Comentarios",
+      "url": "https://open.spotify.com/track/68UjQzzvXO0HTZvMEkcTsx"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Tiempo M\u00edtico",
+        "url": "https://open.spotify.com/album/1nABOBtMxTw2gYuBmP9zar"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "P\u00e1same la Yesca",
+      "url": "https://open.spotify.com/track/3r56yJFCL3UhCMyk3yx07L"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
         "name": "La Dieta del Barrio",
         "url": "https://open.spotify.com/album/5Ny1vmeCcN2QXMRPUtTbFS"
       },
@@ -2391,50 +2431,6 @@
       "duration_ms": 174013,
       "name": "Triple H",
       "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Tiempo M\u00edtico",
-        "url": "https://open.spotify.com/album/1nABOBtMxTw2gYuBmP9zar"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "P\u00e1same la Yesca",
-      "url": "https://open.spotify.com/track/3r56yJFCL3UhCMyk3yx07L"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Los del Noro",
-        "url": "https://open.spotify.com/album/4OM4r8Pzin9wdBpPLPXNep"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Bacanora",
-      "url": "https://open.spotify.com/track/1Sn1dtN2rVnOo3cqelNFRb"
     }
   ],
   "unique_name": "Mucho Rap",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Heriot
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,372 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,483 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 4 | [Weaponize This](https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Weaponize This](https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og) | 2:40 |
 | 5 | [No Cure](https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr), [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [No Cure](https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t) | 3:22 |
 | 6 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 |
-| 7 | [Slow Down](https://open.spotify.com/track/0uZCYK1sLwDbLtvx27HZdf) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Slow Down](https://open.spotify.com/album/2ITaw13oHCyBOYi22KMtBv) | 3:53 |
+| 7 | [Slow Down](https://open.spotify.com/track/3erXSpEt7pYUJp0Y7LGF5Y) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:53 |
 | 8 | [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 |
 | 9 | [Tearing Your Life Away](https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Tearing Your Life Away](https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT) | 3:16 |
 | 10 | [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 54 | [Find You Soon](https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Find You Soon](https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L) | 4:23 |
 | 55 | [Thinking About The Immortality Of The Crab](https://open.spotify.com/track/0xQPg3JWj1Sb5FFzeVvPDc) | [The Holy Ghost Tabernacle Choir](https://open.spotify.com/artist/2kxwiJIwlucn6VobGQLhul) | [Thinking About The Immortality Of The Crab](https://open.spotify.com/album/7nVjrWv2SnmcQGD6aUYszS) | 1:31 |
 
-Snapshot ID: `MCwwODc3MTJiZDJiNzRkN2FmYWVhMjkyOTc5NTEwNTgyNTNjOTBjNWMz`
+Snapshot ID: `MCxiOTdhMmM3MmI2NzQ5N2VhN2RiODliYjU3NmUzMzNjNzFlNWE5MTZi`

@@ -1,12 +1,12 @@
 {
   "description": "From the decade that brought us Britney, Spice Girls, Coolio and so many more!",
-  "num_followers": 9401,
+  "num_followers": 9697,
   "original_name": "90s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGU1NTZiMTBiZmQ0ZDJjODM2MTRiYTlmMzQyZTc5YzhmYjc1NjQx",
+  "snapshot_id": "MCxlOTE1NWNiYjU2NjliM2JlMGUyZjE1ZmExMDBlNDUxNDgwNjhmZDMy",
   "tracks": [
     {
       "added_at": "2023-04-27 03:36:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
-      },
-      "artists": [
-        {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
-        }
-      ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Millennium",
         "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 232826,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
+        "name": "Desireless",
+        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 240266,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
-        "name": "Desireless",
-        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
-      },
-      "artists": [
-        {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 327426,
-      "name": "Just Another Day",
-      "url": "https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 203333,
       "name": "Come on over Baby (All I Want Is You) - Radio Version",
       "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 327426,
+      "name": "Just Another Day",
+      "url": "https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Divinyls",
-        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
       },
       "artists": [
         {
-          "name": "Divinyls",
-          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
         }
       ],
-      "duration_ms": 227640,
-      "name": "I Touch Myself",
-      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     }
   ],
   "unique_name": "90s Pop",

@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/12wO8A8Udq8D2ilFSQsZB5"
+      },
+      "artists": [
+        {
+          "name": "EPTEND",
+          "url": "https://open.spotify.com/artist/3X5atTeD09WXIpSzEq1Mez"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0gtgDeAIQZinZIcWkaukqN"
+    },
+    {
+      "album": {
         "name": "28 DREAM",
         "url": "https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z"
       },
@@ -411,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+    },
+    {
+      "album": {
         "name": "Airport Goodbyes",
         "url": "https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i"
       },
@@ -618,7 +654,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 146413,
       "name": "always get lonely",
       "url": "https://open.spotify.com/track/3n7yfICjsQoCV66J403qms"
@@ -1544,6 +1580,32 @@
       "duration_ms": 192640,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/2395WKvJwfuqPBgsyC5k9C"
+    },
+    {
+      "album": {
+        "name": "Ones left behind",
+        "url": "https://open.spotify.com/album/5F12jY2brlUyryOPSzxCiG"
+      },
+      "artists": [
+        {
+          "name": "JOPH",
+          "url": "https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D"
+        },
+        {
+          "name": "VVON",
+          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
+        },
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/2XcNpF7crTNlL3XEoU4PT9"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178282,
+      "name": "Boyhood (Feat. VVON, DANA)",
+      "url": "https://open.spotify.com/track/4mjHZGcLuttpM6upxu35mP"
     },
     {
       "album": {
@@ -5568,7 +5630,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 200641,
       "name": "LEMON (Feat. SOLE, MINO)",
       "url": "https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq"
@@ -6334,7 +6396,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 197413,
       "name": "Make Me Happy",
       "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
@@ -7700,7 +7762,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 218706,
       "name": "One Moment",
       "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
@@ -9483,6 +9545,28 @@
     },
     {
       "album": {
+        "name": "future island",
+        "url": "https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN"
+      },
+      "artists": [
+        {
+          "name": "kenessi",
+          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
+        },
+        {
+          "name": "2SO",
+          "url": "https://open.spotify.com/artist/1tvJASKoGOS4oNMN0ZjDq8"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180987,
+      "name": "STUPID (feat. 2SO)",
+      "url": "https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY"
+    },
+    {
+      "album": {
         "name": "Weekday is long, Weekend is gone",
         "url": "https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl"
       },
@@ -10140,7 +10224,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 199040,
       "name": "TODAY (Feat. Kim Mi Jeong)",
       "url": "https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt"
@@ -11486,7 +11570,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 168275,
       "name": "\ub4ec\ubfcd generously (feat. SHIRT, UNE)",
       "url": "https://open.spotify.com/track/6yDLnQJE5YFNprocPOsoQC"

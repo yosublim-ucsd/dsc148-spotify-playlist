@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: The Acacia Strain
 
-460 songs - 1 day 5 hr 55 min
+461 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Borderline Existence](https://open.spotify.com/track/5o7pMG40vXYImxaQGOGK5O) | [Drown This City](https://open.spotify.com/artist/0miE6U5IB1KocKNfn8Cxt7) | [Borderline Existence](https://open.spotify.com/album/7t2LxAFsO0hzvPSUFsk7XY) | 3:07 | 2021-12-17 | 2022-07-28 |
 | [Born in the Gutter](https://open.spotify.com/track/02QkzsPhuMw5Yw5AbZgXPE) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Born in the Gutter](https://open.spotify.com/album/3oMrRh0JthESxivGMjMbZk) | 3:46 | 2021-12-17 | 2022-07-12 |
 | [Born To Lose](https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Born To Lose](https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6) | 3:12 | 2023-02-10 |  |
+| [Boy](https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 3:50 | 2023-04-28 |  |
 | [Boy](https://open.spotify.com/track/3XhrFBIBskDUeujyzNFwXf) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2CL5UiUdXNe1EKoOObuNui) | 3:50 | 2021-12-17 | 2022-11-21 |
 | [Boy](https://open.spotify.com/track/4F1awMDl4eLNdzm5m5ylGo) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2bawGtzScFeuFxEhsrx4Sa) | 3:50 | 2022-10-27 | 2023-04-25 |
 | [Break The Cycle](https://open.spotify.com/track/0R3V1qnan4rbDvoubYi5Zu) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Break The Cycle](https://open.spotify.com/album/1Iyd7yCUDVzoMBgvVOARPz) | 3:55 | 2021-12-17 | 2022-07-29 |
@@ -307,7 +308,7 @@
 | [Omega](https://open.spotify.com/track/3YxSM482jeTSrlnSjdFFeW) | [Abyss Above](https://open.spotify.com/artist/0scPLkLLKJ1iEr4cnCVQ9m) | [Doombound](https://open.spotify.com/album/5YugQGshaYkmmqFpSF7IdL) | 3:53 | 2021-12-31 | 2022-07-27 |
 | [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 | 2022-01-21 | 2022-11-30 |
 | [Order of the Black Worm](https://open.spotify.com/track/3i31Z6cHzFGew8GcQ0TNMi) | [Let It Rot](https://open.spotify.com/artist/5p9HWdsMLHKU8PCj5UWeiU) | [Order of the Black Worm](https://open.spotify.com/album/0PGkBzdVl5w2fFvmLZXaZn) | 3:16 | 2021-12-17 | 2022-05-26 |
-| [Orphan Of Blight](https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Orphan Of Blight](https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg) | 4:40 | 2022-12-02 |  |
+| [Orphan Of Blight](https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Orphan Of Blight](https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg) | 4:40 | 2022-12-02 | 2023-05-04 |
 | [Outrun](https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN) | 3:45 | 2022-10-27 |  |
 | [Outrun](https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4) | 3:45 | 2021-12-17 | 2022-11-05 |
 | [Overlord](https://open.spotify.com/track/1Tg8yTnIA7lNC2aQPbuQHd) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Overlord](https://open.spotify.com/album/4IYXhSQyH18f8kceUIHn9m) | 3:10 | 2021-12-17 | 2022-07-04 |

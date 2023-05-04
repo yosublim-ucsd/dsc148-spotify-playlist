@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,430 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,542 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 33 | [Fairytale](https://open.spotify.com/track/1e3hPMCGrwPXYZ1DQhsiCE) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW), [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Shrek \(Original Motion Picture Score\)](https://open.spotify.com/album/6Hv7UZCLx4kCYZCY0kBbZc) | 1:26 |
 | 34 | [Making Water](https://open.spotify.com/track/0AeUTVVGVWgwPCpPGAm6sT) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [The Martian: Original Motion Picture Score](https://open.spotify.com/album/17o7ljUmsa9MusgN2BjXwV) | 2:38 |
 | 35 | [Enchanted Suite \- From "Enchanted"/Score](https://open.spotify.com/track/42TTHCYkSo0ER8RLmyV3Hu) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 4:32 |
-| 36 | [The Painted Veil](https://open.spotify.com/track/3HohQPAZ5xzDs1ANErgk52) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 3:17 |
+| 36 | [The Painted Veil](https://open.spotify.com/track/3HohQPAZ5xzDs1ANErgk52) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F), [Prague Symphony Orchestra](https://open.spotify.com/artist/6D3rLhEkc3t1zLltUNOSxg) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 3:17 |
 | 37 | [Flynn Lives \- From "TRON: Legacy"/Score](https://open.spotify.com/track/2OQS6fFDpJzpDVC6gNzoj5) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 3:22 |
 | 38 | [Come Back to Us](https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 5:39 |
 | 39 | [To The Stars \- Dragonheart/Soundtrack Version](https://open.spotify.com/track/5LeCbkjJuhtqQhwXziPgUn) | [Randy Edelman](https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m) | [Dragonheart](https://open.spotify.com/album/5Xdpw2hXUfkx7YCUwkD38X) | 3:14 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 55 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Nuovo Cinema Paradiso \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/0O1LCjDQ6gFjaLG05xj0xH) | 2:58 |
 | 56 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 
-Snapshot ID: `MCw2OTk5ZmQxMzE5OTMzNzE3MTQzOTNhNjA4NGQ5MTMwODA2Mzc0MGE5`
+Snapshot ID: `MCxjNTUwZGYzZTE3NDdhODQ1MDE4ODQ0NGIyMTYyMjUyZDQzNTJhNjRj`

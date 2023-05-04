@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 
 > Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! \(JTBC의 글로벌 아이돌 오디션 '피크타임'의 사운드 트랙과 독점 미공개 영상들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,752 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,783 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WAVE \(prod\. GroovyRoom\)](https://open.spotify.com/track/20fjmNYvcr8L14A9VqkOkI) | [MASC](https://open.spotify.com/artist/58HJi7yFLO4Q2Qu0m7XmTQ) | [PEAK TIME \- <FINAL ROUND>](https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4) | 3:12 |
-| 2 | [Turning Point \(prod\. 周宪\)](https://open.spotify.com/track/4behFIxkLEWUh0XlBgsVJ0) | [DKB](https://open.spotify.com/artist/04jLaYSJeSpy3QL2HpId7s) | [PEAK TIME \- <FINAL ROUND>](https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4) | 2:49 |
+| 2 | [Turning Point \(prod\. 周宪\)](https://open.spotify.com/track/4behFIxkLEWUh0XlBgsVJ0) | [DKB](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) | [PEAK TIME \- <FINAL ROUND>](https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4) | 2:49 |
 | 3 | [Prime Time \(prod\. Ryan S\. Jhun\)](https://open.spotify.com/track/0ykp0WfkApTfQHH3aqGIBk) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [PEAK TIME \- <FINAL ROUND>](https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4) | 3:30 |
 | 4 | [GT \(prod\. KENZIE\)](https://open.spotify.com/track/6W9ejn591TMQJNSedTNZGv) | [BAE173](https://open.spotify.com/artist/02IB7Oouox4kCXLfNmRFwH) | [PEAK TIME \- <FINAL ROUND>](https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4) | 3:40 |
 | 5 | [NOIR \(prod\. LEE MINHYUK \(HUTA\)\)](https://open.spotify.com/track/2OmeuDlrS8BwyKlLwfOOOE) | [M.O.N.T](https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ) | [PEAK TIME \- <FINAL ROUND>](https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4) | 3:12 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 | 47 | [Never Ever](https://open.spotify.com/track/54yalx0ONuGj0mMyBNZxhm) | [TEAM 14:00](https://open.spotify.com/artist/2a48RPt8sy9kUQx54MPTd1) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:47 |
 | 48 | [Beautiful](https://open.spotify.com/track/3oTqTIaSQw1A7pPabZLwtw) | [TEAM 15:00](https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:39 |
 
-Snapshot ID: `MCwyMGNmYmY4YTQwNWZmM2ExY2MwZDdhOTZkOGIwMTlkYzBjYTkxODJm`
+Snapshot ID: `MCw3Yzk0NDQ3YjYyODg2YjQyMjgxNWU1NGY3ZGE0ODdkMDIwMzg4MzM0`

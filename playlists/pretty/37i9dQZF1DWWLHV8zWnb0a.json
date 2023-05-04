@@ -1,12 +1,12 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 61852,
+  "num_followers": 61950,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjRkMGI1MzYyNzAxMTY0YjBkMzRhMGFkYmI1ZjE2OGY2NDY1OTY3",
+  "snapshot_id": "MCw4MTFhMDM2MjUyZDJiNTM4N2ViZmMxZmU0OTRlMDhlMTBmYjY1ZmY0",
   "tracks": [
     {
       "added_at": "2023-02-13 22:53:29",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 222826,
       "name": "Dragula",
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Living Dead Girl",
-      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+      "duration_ms": 201400,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "Tonight, Tonight - Remastered 2012",
+      "url": "https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY"
       },
@@ -299,38 +315,6 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "The Boatman's Call (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Into My Arms - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "Tonight, Tonight - Remastered 2012",
-      "url": "https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -347,66 +331,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
+        "name": "The Boatman's Call (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
       },
       "artists": [
         {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
         }
       ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Roads",
-      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Breed",
-      "url": "https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
-        "name": "Electriclarryland",
-        "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
-      },
-      "artists": [
-        {
-          "name": "Butthole Surfers",
-          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
-        }
-      ],
-      "duration_ms": 297266,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
+      "duration_ms": 256120,
+      "name": "Into My Arms - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -427,18 +363,50 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Live Through This",
-        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
       },
       "artists": [
         {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Breed",
+      "url": "https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -459,6 +427,22 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
+        "name": "Electriclarryland",
+        "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
+      },
+      "artists": [
+        {
+          "name": "Butthole Surfers",
+          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
+        }
+      ],
+      "duration_ms": 297266,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
         "name": "Let Love In (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF"
       },
@@ -475,18 +459,34 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
+        "name": "Live Through This",
+        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
       },
       "artists": [
         {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
+      "duration_ms": 204933,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Sour Times",
+      "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
         }
       ],
-      "duration_ms": 252266,
-      "name": "Sour Times",
-      "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 292586,
-      "name": "Jesus Built My Hotrod",
-      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
         "name": "The Best Of 1990-2000",
         "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 284600,
       "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
       "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 292586,
+      "name": "Jesus Built My Hotrod",
+      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Independent Worm Saloon",
-        "url": "https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo"
-      },
-      "artists": [
-        {
-          "name": "Butthole Surfers",
-          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Who Was In My Room Last Night?",
-      "url": "https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC"
-    },
-    {
-      "added_at": "2023-02-13 22:53:29",
-      "album": {
         "name": "Without You I'm Nothing",
         "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 254760,
       "name": "Pure Morning",
       "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
+    },
+    {
+      "added_at": "2023-02-13 22:53:29",
+      "album": {
+        "name": "Independent Worm Saloon",
+        "url": "https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo"
+      },
+      "artists": [
+        {
+          "name": "Butthole Surfers",
+          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Who Was In My Room Last Night?",
+      "url": "https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1143,26 +1143,18 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "Ultra | The 12\" Singles",
-        "url": "https://open.spotify.com/album/3FRJU9jyS1gc71ha3leUp8"
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/7HYjhgcTjrAIRBCACbSEqE"
-        },
-        {
-          "name": "Tim Simenon",
-          "url": "https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW"
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
         }
       ],
-      "duration_ms": 358222,
-      "name": "It's No Good",
-      "url": "https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v"
+      "duration_ms": 310293,
+      "name": "Just One Fix",
+      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
     },
     {
       "added_at": "2023-02-13 22:53:29",
@@ -1183,18 +1175,26 @@
     {
       "added_at": "2023-02-13 22:53:29",
       "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+        "name": "Ultra | The 12\" Singles",
+        "url": "https://open.spotify.com/album/3FRJU9jyS1gc71ha3leUp8"
       },
       "artists": [
         {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/7HYjhgcTjrAIRBCACbSEqE"
+        },
+        {
+          "name": "Tim Simenon",
+          "url": "https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW"
         }
       ],
-      "duration_ms": 310293,
-      "name": "Just One Fix",
-      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+      "duration_ms": 358222,
+      "name": "It's No Good",
+      "url": "https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v"
     },
     {
       "added_at": "2023-02-13 22:53:29",

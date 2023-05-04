@@ -2769,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "Snuggle Snore",
+        "url": "https://open.spotify.com/album/249QCyyRj3rD7uy4zEwp9J"
+      },
+      "artists": [
+        {
+          "name": "Nell Watts",
+          "url": "https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93276,
+      "name": "Snuggle Snore",
+      "url": "https://open.spotify.com/track/2rt4PaD8ZPtTdF3nz15Sjc"
+    },
+    {
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4"
       },

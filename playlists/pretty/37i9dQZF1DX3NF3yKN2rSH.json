@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54131,
+  "num_followers": 54130,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTFlOWIwMWU3NTZlYjI5ODA4ODE5YjNlZTYyYWIwZGUwN2MzZmI2",
+  "snapshot_id": "MCxhZDg1MWM2NGRkNzhiOTViNzRjODM2YWFjNzkwMTA5ZWJkYTY2MWJk",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 338466,
-      "name": "Risen",
-      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 288866,
       "name": "It Wasn't Easy",
       "url": "https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 338466,
+      "name": "Risen",
+      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Revival Is In The Air (RIITA)",
+        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Jo Deep",
+          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Demonstrate (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 318666,
       "name": "Just For Me",
       "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Revival Is In The Air (RIITA)",
-        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Jo Deep",
-          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "One Church",
         "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 399400,
       "name": "They Didn't Know",
       "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1219,6 +1219,30 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Shirley Caesar and Friends",
+        "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        },
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        },
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 302120,
+      "name": "I Know It Was the Blood",
+      "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Cross Music",
         "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
@@ -1247,50 +1271,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Shirley Caesar and Friends",
-        "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        },
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        },
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 302120,
-      "name": "I Know It Was the Blood",
-      "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        },
-        {
-          "name": "PJ Greaves",
-          "url": "https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu"
-        }
-      ],
-      "duration_ms": 429522,
-      "name": "The Crucifixion",
-      "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Famous For (I Believe) [Sunday A.M. Version]",
         "url": "https://open.spotify.com/album/34OmquTJzMTUsnK1r0nom8"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 278460,
       "name": "Famous For (I Believe) [Sunday A.M. Version]",
       "url": "https://open.spotify.com/track/2ovxN980BRpzCTvbq6HWb8"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        },
+        {
+          "name": "PJ Greaves",
+          "url": "https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu"
+        }
+      ],
+      "duration_ms": 429522,
+      "name": "The Crucifixion",
+      "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+        "name": "Blessed By Association",
+        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
       },
       "artists": [
         {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
         },
         {
-          "name": "Jason Nicholson-Porter",
-          "url": "https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS"
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
         }
       ],
-      "duration_ms": 356209,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
+      "duration_ms": 299586,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Blessed By Association",
-        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
       "artists": [
         {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
         },
         {
-          "name": "The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+          "name": "Jason Nicholson-Porter",
+          "url": "https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS"
         }
       ],
-      "duration_ms": 299586,
-      "name": "At The Cross",
-      "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
+      "duration_ms": 356209,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Mnini Mandla Onke",
-        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 303050,
-      "name": "Mnini Mandla Onke",
-      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Then Sings My Soul",
         "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 337440,
       "name": "He Didn't Have To Do It",
       "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Mnini Mandla Onke",
+        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 303050,
+      "name": "Mnini Mandla Onke",
+      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Live in Concert",
         "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 130306,
       "name": "Oh Happy Day (feat. Shirley Miller)",
       "url": "https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
-      },
-      "artists": [
-        {
-          "name": "The Winans",
-          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "Redeemed",
-      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live In Detroit (Live)",
-        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
-      },
-      "artists": [
-        {
-          "name": "Rev. James Moore",
-          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
-        }
-      ],
-      "duration_ms": 496133,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Joshua's Troop",
         "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 311546,
       "name": "God Is Not Dead",
       "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+      },
+      "artists": [
+        {
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+        }
+      ],
+      "duration_ms": 496133,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
     },
     {
       "added_at": "2023-04-09 08:49:39",

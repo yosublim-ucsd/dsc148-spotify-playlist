@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : DJ Kawest
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,697 likes - 39 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,794 likes - 39 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 17 | [Bun Up Di Dancehall](https://open.spotify.com/track/2bV9J4Ry71ZAZB5qMc5jEk) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [Bun Up Di Dancehall](https://open.spotify.com/album/0294h2Zxu5PPEjkLgfOIuW) | 2:19 |
 | 18 | [Fanm Paka Mérité Mwen](https://open.spotify.com/track/7wgsbKdA81LgdHFu6vLi8E) | [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [Ti Couby](https://open.spotify.com/artist/0Rc89LyUmCAxe0LIlDJl3b) | [Fanm Paka Mérité Mwen](https://open.spotify.com/album/3AiXDCnhgh5K9tf3hiNB6Z) | 2:03 |
 | 19 | [Shatta Twist](https://open.spotify.com/track/290QMvxXhz9mPiOIqFiuTh) | [HURRICAN X](https://open.spotify.com/artist/3IBHfYxRgEQl6m8StAGjgZ), [Lupin](https://open.spotify.com/artist/7EC9ZWCZa08CJ9QLCJNfrU), [70 SHIINE](https://open.spotify.com/artist/2zXSoBiBJMdV1XjYbVI0op) | [Shatta Twist](https://open.spotify.com/album/6CqrWIfIYv8gI8aGLlBTP8) | 2:38 |
-| 20 | [Whine it up](https://open.spotify.com/track/0r6CB4zVdoH4ejbtRV61yS) | [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maureen](https://open.spotify.com/artist/7hQVPlRjmjFUAdWweGMWQp), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Whine it up](https://open.spotify.com/album/6OJiOlpsFDPX74ZAgtmBSK) | 2:18 |
+| 20 | [Whine it up](https://open.spotify.com/track/0r6CB4zVdoH4ejbtRV61yS) | [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maureen](https://open.spotify.com/artist/3Twl47OChsk36T8krOfUvp), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Whine it up](https://open.spotify.com/album/6OJiOlpsFDPX74ZAgtmBSK) | 2:18 |
 | 21 | [Ghetto Rèd](https://open.spotify.com/track/7woCBSbM2dMJXO7glFsUS4) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Ghetto Rèd](https://open.spotify.com/album/6XFbhUBLtF9IfRImw7Wlo4) | 2:36 |
 | 22 | [African Queen](https://open.spotify.com/track/4ggPheLG888XYYFbm53DYz) | [Tiwony](https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa), [Awadi](https://open.spotify.com/artist/36EmM57Ar1BOJDnHR4iIwc) | [Frequency](https://open.spotify.com/album/5Fp2m1oy0ECWpObKzS9xiE) | 3:28 |
 | 23 | [One Life](https://open.spotify.com/track/2H88Kxs8ckt4vFXUDsIsrf) | [Venssy](https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf) | [One Life](https://open.spotify.com/album/6sgUIssd845Xcxl6Fb2Auk) | 2:54 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 38 | [Spaceship](https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [SMOOVE KILLA](https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK) | 2:45 |
 | 39 | [Solo](https://open.spotify.com/track/2PQy1avcccpE3H3ZuQREz4) | [Kosla](https://open.spotify.com/artist/0WEnusOFYWy1WdoyeSPC72), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Solo](https://open.spotify.com/album/5uCFqaijmT0xfaKt1smTqk) | 2:32 |
 
-Snapshot ID: `MCw5OGIzNjVlNTc1ZGMwN2U5ZjNhOWU4OTZiMjg2M2JhZjFjMGYyZDVh`
+Snapshot ID: `MCxjNTJmYTAyNDU1MmRiMzQ2MzdjMTExYjVhM2QzODBiMjBkNWVhOTQz`

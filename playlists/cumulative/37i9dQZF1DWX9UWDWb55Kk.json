@@ -2982,7 +2982,7 @@
     {
       "album": {
         "name": "REYKO",
-        "url": "https://open.spotify.com/album/1282XufMh56sFYHSmAhPVF"
+        "url": "https://open.spotify.com/album/1HyIkDEJWW9XJZtYHt7V5O"
       },
       "artists": [
         {
@@ -2993,6 +2993,24 @@
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189666,
+      "name": "Hierba Mala",
+      "url": "https://open.spotify.com/track/2LgWPts2Z8E70pooD7dhjf"
+    },
+    {
+      "album": {
+        "name": "REYKO",
+        "url": "https://open.spotify.com/album/1282XufMh56sFYHSmAhPVF"
+      },
+      "artists": [
+        {
+          "name": "REYKO",
+          "url": "https://open.spotify.com/artist/1asECxd7DPIjTLu8NTc3ZA"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
       "duration_ms": 190160,
       "name": "Hierba Mala",
       "url": "https://open.spotify.com/track/697GyFBDJX36FtMiVTPK5F"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 ### [J\-Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp)
 
-> 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: 神様はサイコロを振らない
+> 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: 神はサイコロを振らない
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,465 likes - 81 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,570 likes - 81 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 80 | [Spread City](https://open.spotify.com/track/3GmSEfuuFLpRxC6iZV9Mv7) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [Midnight Chocolate \- EP](https://open.spotify.com/album/6Jjha9eFKiS7bvJbxU2U7Y) | 3:52 |
 | 81 | [OKASHi NA DEAi](https://open.spotify.com/track/1G0ZZ3vKImarwxWFwf9wHD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [OKASHi NA DEAi](https://open.spotify.com/album/6XtHOEb6BZHR6WUnylSUQz) | 4:07 |
 
-Snapshot ID: `MCwwOTAzNDdhMDVhNDg5NTAxZTFkNTE3ZTg0MjNkNDYwOGVkNjg1MGE1`
+Snapshot ID: `MCw0MDAyM2I4MDhlYWQzYzEzY2E4Y2QxMjc1NDlmNGFjNWIwMjc1NTVh`

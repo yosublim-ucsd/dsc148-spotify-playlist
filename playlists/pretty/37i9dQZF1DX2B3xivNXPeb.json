@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 30848,
+  "num_followers": 30864,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODMyMGY1NjlmMTdmZTJjYTc5OTZiNmE0ZDUzZmIxZDI1ZTMzNTYx",
+  "snapshot_id": "MCwxNDBjZGFkMWJlYzAzZjllNmQ0MzVlODAzYWE5MDM0MDgxYTkzZTVh",
   "tracks": [
     {
       "added_at": "2023-03-24 16:06:32",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "I Want a Little Sugar In My Bowl",
-      "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 183963,
       "name": "Us",
       "url": "https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "I Want a Little Sugar In My Bowl",
+      "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "Rice",
-      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Love and Hate in a Different Time",
         "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 282177,
       "name": "Love and Hate in a Different Time - Original",
       "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 213200,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 213671,
-      "name": "Geronimo",
-      "url": "https://open.spotify.com/track/1miJ79Xlen9j3MjSl0dzZh"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 213671,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/1miJ79Xlen9j3MjSl0dzZh"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
         "name": "Pieces of a Man",
         "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
       },
@@ -1179,6 +1179,26 @@
       "duration_ms": 216150,
       "name": "Katata",
       "url": "https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "The World (Is Going Up in Flames)",
+      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1231,26 +1251,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "No Time For Dreaming",
-        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 202492,
-      "name": "The World (Is Going Up in Flames)",
-      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Why Don't You Touch Me",
         "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 245290,
       "name": "Defection",
       "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 200066,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
+        "name": "100 Days, 100 Nights",
+        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 166766,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1oWGuXvVbZkAoQdCKENnF8"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
         "name": "Please Love Me Again",
         "url": "https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 239346,
       "name": "I Need - Mav's Version",
       "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
-        "name": "100 Days, 100 Nights",
-        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 166766,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1oWGuXvVbZkAoQdCKENnF8"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Siesta (feat. Emeli Sand\u00e9)",
-      "url": "https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv"
       },
@@ -1607,22 +1587,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Willie Dynamite (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Sweet Things",
-          "url": "https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN"
-        }
-      ],
-      "duration_ms": 291853,
-      "name": "King Midas",
-      "url": "https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Girlhood",
         "url": "https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M"
       },
@@ -1635,6 +1599,42 @@
       "duration_ms": 203985,
       "name": "The Love I Need",
       "url": "https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Siesta (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Willie Dynamite (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Sweet Things",
+          "url": "https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN"
+        }
+      ],
+      "duration_ms": 291853,
+      "name": "King Midas",
+      "url": "https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO"
     },
     {
       "added_at": "2023-03-24 16:06:32",

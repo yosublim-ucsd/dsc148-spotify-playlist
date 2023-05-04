@@ -2389,6 +2389,28 @@
     },
     {
       "album": {
+        "name": "Orit\u00e1 No Minidocs",
+        "url": "https://open.spotify.com/album/5rfUjgWMbXgm93fP69Paew"
+      },
+      "artists": [
+        {
+          "name": "MINIDocs",
+          "url": "https://open.spotify.com/artist/3T2xCfhBZQj5kk6S6aGpCV"
+        },
+        {
+          "name": "Orit\u00e1",
+          "url": "https://open.spotify.com/artist/1xVqmKq5IfPibJultYqpcc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330040,
+      "name": "Santa Cec\u00edlia",
+      "url": "https://open.spotify.com/track/2aBcW0F2W0r11qShc1oaCt"
+    },
+    {
+      "album": {
         "name": "Orit\u00e1 no MINIDocs",
         "url": "https://open.spotify.com/album/2a5yfMZ7cBbLz9kJbTrc37"
       },
@@ -2404,7 +2426,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 330040,
       "name": "Santa Cec\u00edlia",
       "url": "https://open.spotify.com/track/48MbcABnXDeFNajsQ6bwT6"

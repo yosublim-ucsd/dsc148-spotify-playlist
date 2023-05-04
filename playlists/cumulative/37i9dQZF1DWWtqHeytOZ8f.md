@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-582 songs - 2 day 3 hr 13 min
+583 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Daydream of You](https://open.spotify.com/track/3UBW2WFjqWpEhjOM1qO6It) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:12 | 2021-10-20 |  |
 | [deaf](https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg) | [TAKA](https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm) | [Theory](https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy) | 3:58 | 2022-08-24 |  |
 | [Dec 31st](https://open.spotify.com/track/0NNDWJtCL0b8neNc1AnC6y) | [Matthew Cardinal](https://open.spotify.com/artist/2sQcQc1C5ns0yPsDHGo2Sp) | [Asterisms](https://open.spotify.com/album/3B2Zd9kIYg8ET4l1txZfTw) | 2:37 | 2021-10-20 | 2022-07-27 |
+| [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-20 |  |
 | [Deipkier](https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V) | 7:55 | 2021-10-20 | 2023-04-30 |
 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 | 2021-10-20 |  |
 | [Desert Wax](https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil) | [S A D](https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU) | [Children of the Sun](https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV) | 4:45 | 2021-10-20 |  |
@@ -192,7 +193,7 @@
 | [Far out](https://open.spotify.com/track/6KsHmpucGHj5rfYcxGQftL) | [Lunar Ship](https://open.spotify.com/artist/2oBpQUmHc0cQX0s1TsGL7U) | [Far out](https://open.spotify.com/album/3xOe5NLs8W2YFLZqAOjlAQ) | 4:02 | 2021-10-20 |  |
 | [Fata Morgana 1](https://open.spotify.com/track/3mhaYYLCf3Eex5FzveLZ8S) | [Mynoda](https://open.spotify.com/artist/37TSFFv4sH9ssEk93pMPt4), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Fata Morgana](https://open.spotify.com/album/6CuNkx8H00E0nMAauEN4R4) | 16:29 | 2023-03-28 |  |
 | [Fearless](https://open.spotify.com/track/4Tru6czY37f4dPCRpLrxK3) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Fearless](https://open.spotify.com/album/4Keo1capq90Jwzf1ZsKUdd) | 8:02 | 2021-10-20 | 2022-06-03 |
-| [Fearless](https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 8:02 | 2021-10-20 |  |
+| [Fearless](https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 8:02 | 2021-10-20 | 2023-05-04 |
 | [Feel First Life](https://open.spotify.com/track/4esxro8J1rbsalCPb0yrgC) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 5:33 | 2021-10-20 |  |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2021-10-20 |  |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-20 | 2022-06-22 |

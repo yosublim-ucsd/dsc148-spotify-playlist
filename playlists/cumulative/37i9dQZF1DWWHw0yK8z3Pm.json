@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Kingmaker",
+        "url": "https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209573,
+      "name": "Baby, You're a Gun",
+      "url": "https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN"
+    },
+    {
+      "album": {
         "name": "Baby, You're a Gun",
         "url": "https://open.spotify.com/album/56VpDmshdg2w7BQhWnCwTk"
       },
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 177759,
       "name": "Iydlmlmg",
       "url": "https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2"
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 229528,
       "name": "Montana Waltz",
       "url": "https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX"
@@ -5012,6 +5030,24 @@
       "duration_ms": 232124,
       "name": "TLC Cagematch",
       "url": "https://open.spotify.com/track/74gvi6fa10cGuSSpCWknMa"
+    },
+    {
+      "album": {
+        "name": "Boat Songs",
+        "url": "https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232125,
+      "name": "TLC Cagematch",
+      "url": "https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3"
     },
     {
       "album": {

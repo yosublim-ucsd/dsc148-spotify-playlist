@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,789 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,880 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [SOUTH](https://open.spotify.com/track/0wEo8YvNfaUwLNZtOuB1uL) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [SOUTH](https://open.spotify.com/album/3IPcLcBII4ZfNMwtCGMnJ7) | 2:27 |
 | 55 | [Dio nun c mann a nisciun](https://open.spotify.com/track/3JVHZwqC5nz9ikKg6nUjn6) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [Dio nun c mann a nisciun](https://open.spotify.com/album/0hrFrBtJAgdIAsFsn4NHhA) | 2:29 |
 
-Snapshot ID: `MCwzYzZiZjM4OGY5NDBhNjgwZjQzNjM0ZThlNDc0OTdlYTAzZGUxOTRk`
+Snapshot ID: `MCxjNTc5YzIwMTJiMWYxYjg1ZmUwM2FmMGQwZTkyM2Q0N2MxODBiNDQx`

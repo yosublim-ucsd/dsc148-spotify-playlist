@@ -1,12 +1,12 @@
 {
   "description": "Songs to unwind",
-  "num_followers": 409311,
+  "num_followers": 409543,
   "original_name": "Chill for awhile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzkzNzljNzZhNzhkODBlOTFhMzllMWFhN2E0MmZjYjczNWFmMTU0",
+  "snapshot_id": "MCxlNDM4ODk5M2IwZjAyNWM4YmIxYWM2ZjUxZWQ5MDgzN2VjZTI2M2I5",
   "tracks": [
     {
       "added_at": "2023-04-17 02:48:35",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-04-17 02:48:35",
       "album": {
-        "name": "Walk The Talk",
-        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 207937,
-      "name": "Kenangan Manis",
-      "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
-    },
-    {
-      "added_at": "2023-04-17 02:48:35",
-      "album": {
         "name": "Aku Yang Salah",
         "url": "https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2023-04-17 02:48:35",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+        "name": "Walk The Talk",
+        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
       },
       "artists": [
         {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 342000,
-      "name": "Untuk Perempuan Yang Sedang Di Pelukan",
-      "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
+      "duration_ms": 207937,
+      "name": "Kenangan Manis",
+      "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
     },
     {
       "added_at": "2023-04-17 02:48:35",
@@ -543,6 +527,22 @@
       "duration_ms": 240493,
       "name": "Sewindu",
       "url": "https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub"
+    },
+    {
+      "added_at": "2023-04-17 02:48:35",
+      "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Untuk Perempuan Yang Sedang Di Pelukan",
+      "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
     },
     {
       "added_at": "2023-04-17 02:48:35",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-04-17 02:48:35",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+        "name": "Melawan Restu",
+        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
       },
       "artists": [
         {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
         }
       ],
-      "duration_ms": 197813,
-      "name": "Air & Api",
-      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
+      "duration_ms": 219896,
+      "name": "Melawan Restu",
+      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
     },
     {
       "added_at": "2023-04-17 02:48:35",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-04-17 02:48:35",
       "album": {
-        "name": "Melawan Restu",
-        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
       "artists": [
         {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
         }
       ],
-      "duration_ms": 219896,
-      "name": "Melawan Restu",
-      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
+      "duration_ms": 197813,
+      "name": "Air & Api",
+      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
     },
     {
       "added_at": "2023-04-17 02:48:35",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-17 02:48:35",
       "album": {
-        "name": "Raisa",
-        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Serba Salah",
-      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
-    },
-    {
-      "added_at": "2023-04-17 02:48:35",
-      "album": {
         "name": "Dari Mata",
         "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 223462,
       "name": "Dari Mata",
       "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
+    },
+    {
+      "added_at": "2023-04-17 02:48:35",
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Serba Salah",
+      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
     },
     {
       "added_at": "2023-04-17 02:48:35",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-04-17 02:48:35",
       "album": {
-        "name": "The Best of Dewa 19",
-        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+        "name": "Ello",
+        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
       },
       "artists": [
         {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+          "name": "Ello",
+          "url": "https://open.spotify.com/artist/00o36BiAS5VuyfvzNtd3Ig"
         }
       ],
-      "duration_ms": 241266,
-      "name": "Kamulah Satu-Satunya",
-      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+      "duration_ms": 267600,
+      "name": "Pergi Untuk Kembali",
+      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
     },
     {
       "added_at": "2023-04-17 02:48:35",
@@ -1283,18 +1283,34 @@
     {
       "added_at": "2023-04-17 02:48:35",
       "album": {
-        "name": "Ello",
-        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
+        "name": "Teman Bahagia",
+        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
       },
       "artists": [
         {
-          "name": "Ello",
-          "url": "https://open.spotify.com/artist/00o36BiAS5VuyfvzNtd3Ig"
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
         }
       ],
-      "duration_ms": 267600,
-      "name": "Pergi Untuk Kembali",
-      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
+      "duration_ms": 208104,
+      "name": "Teman Bahagia",
+      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
+    },
+    {
+      "added_at": "2023-04-17 02:48:35",
+      "album": {
+        "name": "The Best of Dewa 19",
+        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "Kamulah Satu-Satunya",
+      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
     },
     {
       "added_at": "2023-04-17 02:48:35",
@@ -1311,22 +1327,6 @@
       "duration_ms": 247666,
       "name": "Keabadian",
       "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
-    },
-    {
-      "added_at": "2023-04-17 02:48:35",
-      "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     }
   ],
   "unique_name": "Chill for awhile",

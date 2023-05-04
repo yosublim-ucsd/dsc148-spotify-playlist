@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT EXPLORER</a>とSpotifyのコラボ・プレイリスト。<br/>いよいよアメリカに上陸した主人公＝宮本大が愛聴する、新旧のジャズの名曲たち！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,598 likes - 30 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,716 likes - 30 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [Fly With The Wind](https://open.spotify.com/track/0mkc6bvfRwZJPDp6du23zW) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Fly With The Wind](https://open.spotify.com/album/5azhVitYbm5tBqr79bzC02) | 8:30 |
 | 30 | [Silver Lining Suite: Fortitude](https://open.spotify.com/track/4Bc1JvLfsEsHWMF32t42pz) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Silver Lining Suite](https://open.spotify.com/album/4YVXRF8adSLNDk6wx943nC) | 7:24 |
 
-Snapshot ID: `MCxlNzU2NWZkNjBiYTY2Mjk0OTRhZThmMzYyZmE2ZmQwMjQyMzdjOTg1`
+Snapshot ID: `MCwxZjRlYTM5NDVkNjYwYzMwMTEyZDk5OGNjOWM5ZmFlODRjMjRjYWVi`

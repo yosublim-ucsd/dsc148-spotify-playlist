@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Colter Wall",
-  "num_followers": 41471,
+  "num_followers": 41547,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTJmMmEwZGUyMzc1YTcwOWM5YzMyYzJjZDAzZjMxMTI4MjhjNzgy",
+  "snapshot_id": "MCwyMDQyN2Q0NmU2ODIyYTNlNWQ3YWEzMjBhY2YxZTFlYTZhMjY2ZDRl",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Live at Bo Bash 2021",
-        "url": "https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 208955,
-      "name": "68 - Live",
-      "url": "https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Room 41",
         "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 256281,
       "name": "Cocaine Country Dancing",
       "url": "https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Live at Bo Bash 2021",
+        "url": "https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "duration_ms": 208955,
+      "name": "68 - Live",
+      "url": "https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "CAMPFIRE",
-        "url": "https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CAMPFIRE",
-      "url": "https://open.spotify.com/track/0hNbaatSkThALWtJK1Eov8"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 285786,
       "name": "Golden Embers",
       "url": "https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "CAMPFIRE",
+        "url": "https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CAMPFIRE",
+      "url": "https://open.spotify.com/track/0hNbaatSkThALWtJK1Eov8"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -887,34 +887,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
+        "name": "Gypsy",
+        "url": "https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
         }
       ],
-      "duration_ms": 243586,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Smashed Up My Fender",
-        "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Smashed Up My Fender",
-      "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
+      "duration_ms": 172868,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "Change Of Heart",
+      "url": "https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "When You Miss Someone / Tanqueray",
         "url": "https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 185920,
       "name": "When You Miss Someone",
       "url": "https://open.spotify.com/track/7qJKahUHkASPu54vMil98J"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Smashed Up My Fender",
+        "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Smashed Up My Fender",
+      "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Gypsy",
-        "url": "https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh"
+        "name": "Lonely Like Me",
+        "url": "https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf"
       },
       "artists": [
         {
-          "name": "Eilen Jewell",
-          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
         }
       ],
-      "duration_ms": 172868,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo"
+      "duration_ms": 242254,
+      "name": "Snakes and Waterfalls",
+      "url": "https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -995,6 +1011,38 @@
       "duration_ms": 259790,
       "name": "Neon Blue",
       "url": "https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 170915,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Hard To Build. Easy To Break.",
+        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Junkies",
+          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Hard to Build. Easy to Break.",
+      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1019,38 +1067,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Lonely Like Me",
-        "url": "https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf"
-      },
-      "artists": [
-        {
-          "name": "Nick Shoulders",
-          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
-        }
-      ],
-      "duration_ms": 242254,
-      "name": "Snakes and Waterfalls",
-      "url": "https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Hard To Build. Easy To Break.",
-        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Junkies",
-          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Hard to Build. Easy to Break.",
-      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 184785,
       "name": "Fighting Like Hell to Be Free",
       "url": "https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 170915,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Chasing Spirits",
+        "url": "https://open.spotify.com/album/2hl15bnBFwiUHaAj6KwCNa"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 164917,
+      "name": "Chasing Spirits",
+      "url": "https://open.spotify.com/track/6vLCubY6bNkYKPYrW0oa3C"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/7aP54UsfnbH4qNoZCzoOcl"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 268092,
       "name": "Better's on the Way",
       "url": "https://open.spotify.com/track/5JDN1OhtRYLQ9IQMROclyg"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Chasing Spirits",
-        "url": "https://open.spotify.com/album/2hl15bnBFwiUHaAj6KwCNa"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 164917,
-      "name": "Chasing Spirits",
-      "url": "https://open.spotify.com/track/6vLCubY6bNkYKPYrW0oa3C"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Venus Copper Rose",
-        "url": "https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95"
-      },
-      "artists": [
-        {
-          "name": "Aiden Ayers",
-          "url": "https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2"
-        }
-      ],
-      "duration_ms": 181438,
-      "name": "Here If You Want Me",
-      "url": "https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ"
       },
@@ -1427,6 +1411,38 @@
       "duration_ms": 215803,
       "name": "I Want My Soul Back",
       "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Venus Copper Rose",
+        "url": "https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95"
+      },
+      "artists": [
+        {
+          "name": "Aiden Ayers",
+          "url": "https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2"
+        }
+      ],
+      "duration_ms": 181438,
+      "name": "Here If You Want Me",
+      "url": "https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Say What You Like",
+        "url": "https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf"
+      },
+      "artists": [
+        {
+          "name": "Doug Paisley",
+          "url": "https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9"
+        }
+      ],
+      "duration_ms": 167819,
+      "name": "Say What You Like",
+      "url": "https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Say What You Like",
-        "url": "https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf"
-      },
-      "artists": [
-        {
-          "name": "Doug Paisley",
-          "url": "https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9"
-        }
-      ],
-      "duration_ms": 167819,
-      "name": "Say What You Like",
-      "url": "https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Stay In Touch",
         "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 198511,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/4azTAgJjMQ8bjR08CYQQAy"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Bequest",
-        "url": "https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte"
-      },
-      "artists": [
-        {
-          "name": "John Muirhead",
-          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
-        }
-      ],
-      "duration_ms": 238473,
-      "name": "Bequest",
-      "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 156800,
       "name": "Making Believe (feat. Rose Cousins)",
       "url": "https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Bequest",
+        "url": "https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        }
+      ],
+      "duration_ms": 238473,
+      "name": "Bequest",
+      "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Loose Future",
-        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Loose Future",
-      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Hot Sun",
         "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
       },
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I"
+        "name": "Loose Future",
+        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
       },
       "artists": [
         {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD"
+      "duration_ms": 208933,
+      "name": "Loose Future",
+      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Kingmaker",
+        "url": "https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "Baby, You're a Gun",
+      "url": "https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1627,34 +1627,34 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Iydlmlmg",
-        "url": "https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1"
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I"
       },
       "artists": [
         {
-          "name": "The Secret Beach",
-          "url": "https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3"
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
         }
       ],
-      "duration_ms": 177759,
-      "name": "Iydlmlmg",
-      "url": "https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2"
+      "duration_ms": 200746,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD"
     },
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Songs My Friends Wrote",
-        "url": "https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM"
+        "name": "Boat Songs",
+        "url": "https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0"
       },
       "artists": [
         {
-          "name": "Corb Lund",
-          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 229528,
-      "name": "Montana Waltz",
-      "url": "https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX"
+      "duration_ms": 232125,
+      "name": "TLC Cagematch",
+      "url": "https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3"
     }
   ],
   "unique_name": "Renegades",

@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-462 songs - 1 day 3 hr 44 min
+463 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [En Las Olas](https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [En Las Olas](https://open.spotify.com/album/2wfE4uDiMSti5YCwfaZssj) | 3:22 | 2021-10-20 | 2022-07-29 |
 | [En Tu Mar](https://open.spotify.com/track/4Uh2ef5jDZIoWmohwMrbyS) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [En Tu Mar](https://open.spotify.com/album/51DDnzoITLWFqW5K9Nx84l) | 5:29 | 2022-04-23 | 2022-07-28 |
 | [En tu pelo](https://open.spotify.com/track/7pfyOy1Tbz68brlpi2JrZU) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [En tu pelo](https://open.spotify.com/album/61JJTXsxJCbeU3J3rOcadz) | 3:04 | 2021-10-20 | 2022-07-25 |
+| [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 | 2021-10-20 |  |
 | [Entre Paraísos](https://open.spotify.com/track/02P3oPhKA2SAlLlFvTvEgg) | [Arial](https://open.spotify.com/artist/0oegQ94V48WQtfYpkvaW2G) | [Entre Paraísos](https://open.spotify.com/album/0m1nXpYzV1JYQNp3hJrKGe) | 3:34 | 2021-10-20 | 2022-04-21 |
 | [Eres Tú](https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Eres Tú](https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR) | 2:39 | 2021-10-20 | 2022-04-21 |
 | [Espinas](https://open.spotify.com/track/5UbXtPeRaCWGhA3KiZ3OMC) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Espinas](https://open.spotify.com/album/2DbUtUuR9pAuyARLiBBKTG) | 3:14 | 2021-10-20 | 2022-07-22 |
@@ -403,7 +404,7 @@
 | [Sobre La Mesa](https://open.spotify.com/track/6QcTLtjZUX9Ft2tWly8mYq) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [Sobre La Mesa](https://open.spotify.com/album/3h89aQXyLnnYPBPGnxcWmM) | 3:22 | 2021-10-20 | 2022-07-16 |
 | [Solo Le Dije](https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Algo Ritmos](https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc) | 3:56 | 2021-10-20 | 2023-02-15 |
 | [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 | 2021-10-20 | 2023-02-14 |
-| [Sonora](https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Satingarona, Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 5:27 | 2021-10-20 |  |
+| [Sonora](https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Satingarona, Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 5:27 | 2021-10-20 | 2023-05-04 |
 | [Sonreír](https://open.spotify.com/track/748Vnqa1Rpwteiarxartiz) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Sonreír](https://open.spotify.com/album/3LHWZe8qOBLft1AQNdiuIk) | 3:31 | 2021-10-20 | 2023-04-03 |
 | [Sopla Mi Vela](https://open.spotify.com/track/5Ri0lGNUv8YBSm4DenE53g) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Sopla Mi Vela](https://open.spotify.com/album/3dhVsobHuBOE7c3LeHmFeZ) | 3:18 | 2022-08-13 | 2022-09-28 |
 | [Soy un Lion](https://open.spotify.com/track/5asB0dIZTE4mHbX9mhm89g) | [Little Pepe](https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Soy un Lion](https://open.spotify.com/album/66PzOEOI6XehXOEG9rtJ8B) | 3:24 | 2022-01-21 | 2022-04-21 |

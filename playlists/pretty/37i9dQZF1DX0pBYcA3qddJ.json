@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 46625,
+  "num_followers": 46647,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDZmMDI1MzI2MjllOTk3ZDY3OTVmZDk1YWIxMWU4MTEyNzg4YzRk",
+  "snapshot_id": "MCw1NmYwZjE2NmM2MGVkZjgyYjFmYjAzZTJmNjU3YjE5YzkwYjgyYjhk",
   "tracks": [
     {
       "added_at": "2023-05-02 15:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "Anywhere Else",
+        "url": "https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 156784,
+      "name": "Anywhere Else",
+      "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
     },
     {
       "added_at": "2023-05-02 15:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
-        "name": "Anywhere Else",
-        "url": "https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 156784,
-      "name": "Anywhere Else",
-      "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-05-02 15:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
-        "name": "Passing",
-        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
+        "name": "A Child's Question, August",
+        "url": "https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 215013,
-      "name": "Shadow In The Storm",
-      "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
+      "duration_ms": 166013,
+      "name": "A Child's Question, August",
+      "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
     },
     {
       "added_at": "2023-05-02 15:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 190482,
-      "name": "20220302 - sarabande",
-      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
+      "duration_ms": 215013,
+      "name": "Shadow In The Storm",
+      "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
     },
     {
       "added_at": "2023-05-02 15:00:00",
@@ -1527,22 +1527,18 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
-        "name": "KIYOZUKA",
-        "url": "https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ"
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
       "artists": [
         {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        },
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 76453,
-      "name": "Haru yo, Koi",
-      "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
     },
     {
       "added_at": "2023-05-02 15:00:00",
@@ -1563,18 +1559,22 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "KIYOZUKA",
+        "url": "https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        },
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 76453,
+      "name": "Haru yo, Koi",
+      "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
     },
     {
       "added_at": "2023-05-02 15:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+    },
+    {
+      "added_at": "2023-05-02 15:00:00",
+      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": "2023-05-02 15:00:00",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2023-05-02 15:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+    },
+    {
+      "added_at": "2023-05-02 15:00:00",
+      "album": {
         "name": "Everything Is Going to Be OK",
         "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 287992,
       "name": "Everything Is Going to Be OK",
       "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
-    },
-    {
-      "added_at": "2023-05-02 15:00:00",
-      "album": {
-        "name": "A Child's Question, August",
-        "url": "https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 166013,
-      "name": "A Child's Question, August",
-      "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
     },
     {
       "added_at": "2023-05-02 15:00:00",

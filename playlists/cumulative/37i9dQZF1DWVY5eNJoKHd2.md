@@ -2,7 +2,7 @@
 
 ### [Levitate](https://open.spotify.com/playlist/37i9dQZF1DWVY5eNJoKHd2)
 
-> Music that makes you feel like you're levitating\. Image credits: NASA
+> Music that makes you feel like you're levitating.
 
 302 songs - 19 hr 10 min
 

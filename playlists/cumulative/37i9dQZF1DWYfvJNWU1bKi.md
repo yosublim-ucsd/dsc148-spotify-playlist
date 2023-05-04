@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-116 songs - 8 hr 35 min
+117 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Vaseegara](https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Minnale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41ZjHZm4QK6Swalxpt5hqA) | 4:59 | 2021-08-16 | 2022-07-29 |
 | [Velicha Poove](https://open.spotify.com/track/3ywjIbXWgG5Vjom6zhA2aP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 5:12 | 2022-01-03 |  |
 | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/album/1oA5gS57LrStSzavWwXZHx) | 5:04 | 2021-08-16 | 2022-09-16 |
+| [Vilambara Idaiveli \- From "Imaikkaa Nodigal"](https://open.spotify.com/track/4sCcDvX30uu39ozvxcRsqB) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Christopher Stanley](https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X), [Sudarshan Ashok](https://open.spotify.com/artist/2sSILAscwBbgmjmwlecoFA), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Vilambara Idaiveli \(From "Imaikkaa Nodigal"\)](https://open.spotify.com/album/5JuoaH3XtrMMpoMehDSA7n) | 4:33 | 2023-05-03 |  |
 | [Vinmeen](https://open.spotify.com/track/3kfu3KKaiTAfohtpWq1tew) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Thegidi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14iDXzJ6tTwT378ltSoa5P) | 4:56 | 2022-01-03 |  |
 | [Visiri](https://open.spotify.com/track/5Mt9VMVJc2T5Pa3qKUfw9t) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U5xINSfRnUw0vWxJ5phK0) | 5:11 | 2022-01-03 |  |
 | [Yaanji \- From "Vikram Vedha"](https://open.spotify.com/track/6EB454nVg2u6sbeCvWAPej) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Yaanji \(From "Vikram Vedha"\)](https://open.spotify.com/album/1PY4yNuo0K6wNDJLqU5vMf) | 4:30 | 2021-08-16 |  |

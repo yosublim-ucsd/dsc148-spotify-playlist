@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Veil Of Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,207 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,292 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 39 | [Drag Me Under](https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Drag Me Under](https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H) | 3:45 |
 | 40 | [Panic Waves](https://open.spotify.com/track/2UE48m09FyDdc6Ot1sGKqS) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Panic Waves](https://open.spotify.com/album/5aNJN4zGJTPKvie47D56aE) | 4:07 |
 | 41 | [Feast Is Over](https://open.spotify.com/track/1ajCWFb64q72MfXMftyNlV) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Feast Is Over](https://open.spotify.com/album/5iTnzg9NyoAOmkAdSDv9ox) | 3:12 |
-| 42 | [Ultraviolet](https://open.spotify.com/track/0gukK40IEqCb6arYVQxMtl) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/1gQRMfDzWuQ4J2BCjuvWAS) | 3:52 |
+| 42 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 |
 | 43 | [Hell Is Where The Heart Is](https://open.spotify.com/track/4jZFmBhYpwwiWjuEYmlEYq) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. III: Clarity](https://open.spotify.com/album/7lt5GA2p1R951h7cg6IycG) | 3:53 |
 | 44 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 |
 | 45 | [Pizza Homicide](https://open.spotify.com/track/7vqgYX29LWz74BlsaW9bub) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pizza Homicide](https://open.spotify.com/album/4NTGoJrPUvdgihClkErxoM) | 3:00 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 76 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 |
 | 77 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 
-Snapshot ID: `MCxmMDY2MWNhNjQwNDQzMzE4Y2U3NGM3MzU3YzIwZTY5OTEyODFmYzYw`
+Snapshot ID: `MCxiYjkyOGE5ODUwYjY5OGIzZmQyMzM5YWQyZDVlNGE1OTE5NWIxZTBk`

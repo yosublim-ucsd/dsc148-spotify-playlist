@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 127372,
+  "num_followers": 127501,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmQyYzZjMmEwMTczOGU1MWQzYTNlZGY0ZTU1NDE3ZjE3YjVmYzgy",
+  "snapshot_id": "MCw1NzgxYWZmZWMwMjA0YzFiYTRiZTExNjc5OGQzZWRmYzI0MjE1ZmMy",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Mit Dir",
         "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
@@ -207,34 +191,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Von Anfang An",
-        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnchener Freiheit",
-          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
-      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -255,6 +223,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Vermissen (feat. Henning May)",
         "url": "https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Powerbausa",
-        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 203630,
-      "name": "Was du Liebe nennst",
-      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nador",
         "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 190186,
       "name": "Lieblingsmensch",
       "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Powerbausa",
+        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 203630,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Irgendwie anders",
-        "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
-      },
-      "artists": [
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Kaum Erwarten",
-      "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Laut Gedacht (Re-Edition)",
         "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 284546,
       "name": "Das Beste",
       "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Irgendwie anders",
+        "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Kaum Erwarten",
+      "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
     },
     {
       "added_at": "2023-03-06 08:21:00",

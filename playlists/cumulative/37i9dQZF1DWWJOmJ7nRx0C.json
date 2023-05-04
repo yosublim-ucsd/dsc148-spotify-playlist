@@ -2628,6 +2628,24 @@
     {
       "album": {
         "name": "Dark Sun",
+        "url": "https://open.spotify.com/album/0DY5kJhDXPfDjVdSKNvWlL"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "Crying While You're Dancing",
+      "url": "https://open.spotify.com/track/2Qw2kYG5hVmmPmu0JWTiyk"
+    },
+    {
+      "album": {
+        "name": "Dark Sun",
         "url": "https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5"
       },
       "artists": [
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 215293,
       "name": "Crying While You're Dancing",
       "url": "https://open.spotify.com/track/4jK8AB1E3sUR5D8yL9uepd"

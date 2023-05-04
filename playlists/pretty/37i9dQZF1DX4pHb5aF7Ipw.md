@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover:  GD 47, Prince Narula & Rannvijay Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,932 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,989 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 21 | [Akaal](https://open.spotify.com/track/0llzWsqUifJ2B2UtP9ST0o) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Akaal](https://open.spotify.com/album/6Xe0PVNMmjZVl4ofQNy9xd) | 2:28 |
 | 22 | [Bulls Eye](https://open.spotify.com/track/7nMdJTQ4pxpu4Lhuldj9by) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Defcon 1](https://open.spotify.com/album/7rSDYG1PEOQP6aToDGxLNQ) | 2:28 |
 | 23 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 |
-| 24 | [FRIEND ZONE](https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [FRIEND ZONE](https://open.spotify.com/album/7lMOtrXJNjngIeAJqNE4WN) | 2:41 |
+| 24 | [FRIEND ZONE](https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [FRIEND ZONE](https://open.spotify.com/album/7lMOtrXJNjngIeAJqNE4WN) | 2:41 |
 | 25 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 |
 | 26 | [my turn/meri vaari](https://open.spotify.com/track/1lnRtzXxijmzDRixUHz1aL) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk) | [my turn/meri vaari](https://open.spotify.com/album/1vpMvJS3I00wguWHQjx3pQ) | 3:01 |
 | 27 | [2022 FLOW](https://open.spotify.com/track/1qcpSQiAl6kajIIOCqoFsp) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2022 FLOW](https://open.spotify.com/album/2Jm9MaeVuCjrn4IQfeS4im) | 3:51 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 34 | [Iran](https://open.spotify.com/track/0hKQDXkIlbY1IomBdmFiIc) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Gurkarn Chahal](https://open.spotify.com/artist/1iX2MDndFDkTdIPAic9B1z), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Iran](https://open.spotify.com/album/3OD1CRqD1M3ATI71zxcnmQ) | 3:12 |
 | 35 | [Clutch Baliye](https://open.spotify.com/track/3qWI4prgSotUOGR4BfOreW) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gagan](https://open.spotify.com/artist/3kfNgIiPN2rdxVEQg6L3lW) | [Clutch Baliye](https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C) | 2:32 |
 
-Snapshot ID: `MCw4M2RkNjM3NWE4MWYyYWFlODNkZTBkMzViODEzYTE1NjNmODdkMGFm`
+Snapshot ID: `MCxkOWE4OTQ1OWY0MGVlODJlMmZkYzdkNDNiOTgwM2NlOTU0ODQ0Yzdj`

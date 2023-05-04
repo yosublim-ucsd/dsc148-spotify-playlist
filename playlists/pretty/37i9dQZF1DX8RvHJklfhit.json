@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 153240,
+  "num_followers": 153357,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTNkNGY4MzU3NDNiNDE3MDBkYmNiZTlhNzA0YzkwMTA1MmIwY2E1",
+  "snapshot_id": "MCw4OGFiZWJhYzU5ZWI3MjYzMTM5YWY0NmM1NzE2N2JmM2NiZDM2YzM5",
   "tracks": [
     {
       "added_at": "2023-02-08 23:13:43",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Popscuro",
+      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
         "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
         "url": "https://open.spotify.com/album/0Jkc1qjF3OzXzUrO9QlcZX"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 223786,
       "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/53y2hHY9gPhOZzoEh7umgq"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Popscuro",
-      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 253984,
-      "name": "Nydia",
-      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
         "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 242760,
       "name": "Cuidado",
       "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 253984,
+      "name": "Nydia",
+      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Nefertiti",
-        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
-      },
-      "artists": [
-        {
-          "name": "Protistas",
-          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "En Mis Genes",
-      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Canciones",
         "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 234240,
       "name": "Inercia",
       "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Nefertiti",
+        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
+      },
+      "artists": [
+        {
+          "name": "Protistas",
+          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "En Mis Genes",
+      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/1jpcKriEgL87byZ2wUY3Bs"
+        "name": "Estereomance",
+        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
       },
       "artists": [
         {
-          "name": "424",
-          "url": "https://open.spotify.com/artist/2GDqxAIoVhLMmtFP0NrUlA"
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
         }
       ],
-      "duration_ms": 189176,
-      "name": "Gala",
-      "url": "https://open.spotify.com/track/7wjqeF0W8zJcGJJtzRjKCG"
+      "duration_ms": 255597,
+      "name": "Dung Ding Dang",
+      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
     }
   ],
   "unique_name": "Latin Indie Classics",

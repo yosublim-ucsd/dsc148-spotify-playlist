@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 42806,
+  "num_followers": 42854,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWNmNTIwN2Y1MTMxYmNmNjYxNWIzYzJhNmMzNmVjMGRlZmEyMzRh",
+  "snapshot_id": "MCw2NGViOTFjZDYwZDZhY2JiMjQ0ODVkODk5ZTQwNjVmZTZkNDM5OTlj",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "COBALT HOUR",
-        "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "COBALT HOUR",
-      "url": "https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
         "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 351520,
       "name": "ON THE MOVE",
       "url": "https://open.spotify.com/track/4n4x9tHhgUT4BoVhBWMqav"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "COBALT HOUR",
+        "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "COBALT HOUR",
+      "url": "https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -551,22 +551,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "\u30a2\u30ef\u30fc\u30fb\u30b3\u30cd\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/6bSYfNaRLzYBsmHDBwHjM1"
+        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
       },
       "artists": [
         {
-          "name": "Ayumi Ishida",
-          "url": "https://open.spotify.com/artist/3rLmQHQ3X5rCN55IhqPFnX"
-        },
-        {
-          "name": "\u30c6\u30a3\u30f3\u30fb\u30d1\u30f3\u30fb\u30a2\u30ec\u30fc",
-          "url": "https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ"
+          "name": "Jun Fukamachi",
+          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
         }
       ],
-      "duration_ms": 199120,
-      "name": "\u79c1\u81ea\u8eab",
-      "url": "https://open.spotify.com/track/7iyfmOUN6wBobBPXVRdWvR"
+      "duration_ms": 299160,
+      "name": "LETTER TO NEW YORK",
+      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -587,18 +583,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
+        "name": "\u30a2\u30ef\u30fc\u30fb\u30b3\u30cd\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6bSYfNaRLzYBsmHDBwHjM1"
       },
       "artists": [
         {
-          "name": "Jun Fukamachi",
-          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
+          "name": "Ayumi Ishida",
+          "url": "https://open.spotify.com/artist/3rLmQHQ3X5rCN55IhqPFnX"
+        },
+        {
+          "name": "\u30c6\u30a3\u30f3\u30fb\u30d1\u30f3\u30fb\u30a2\u30ec\u30fc",
+          "url": "https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ"
         }
       ],
-      "duration_ms": 299160,
-      "name": "LETTER TO NEW YORK",
-      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
+      "duration_ms": 199120,
+      "name": "\u79c1\u81ea\u8eab",
+      "url": "https://open.spotify.com/track/7iyfmOUN6wBobBPXVRdWvR"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Late Late Summer",
-        "url": "https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz"
-      },
-      "artists": [
-        {
-          "name": "Bread And Butter",
-          "url": "https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz"
-        }
-      ],
-      "duration_ms": 256480,
-      "name": "\u30bf\u30d0\u30b3\u30ed\u30fc\u30c9 20",
-      "url": "https://open.spotify.com/track/4RElLCLpSglu5Q3GmoSEMY"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "RAINBOW",
         "url": "https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 227266,
       "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6",
       "url": "https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "Late Late Summer",
+        "url": "https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz"
+      },
+      "artists": [
+        {
+          "name": "Bread And Butter",
+          "url": "https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz"
+        }
+      ],
+      "duration_ms": 256480,
+      "name": "\u30bf\u30d0\u30b3\u30ed\u30fc\u30c9 20",
+      "url": "https://open.spotify.com/track/4RElLCLpSglu5Q3GmoSEMY"
     }
   ],
   "unique_name": "City Pop '70s",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Mitú
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,945 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,940 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [MERCROMINA](https://open.spotify.com/track/1nM9LLe3NgJfvWXJ13kAiS) | [Lu Demie](https://open.spotify.com/artist/0UngCHHTGXq1hWlQCuqDmb) | [MERCROMINA](https://open.spotify.com/album/3s2SVFrdZ3856GKLN45jOA) | 3:01 |
 | 50 | [Fuimos](https://open.spotify.com/track/44TiJHnzGE1VbKf3GXBf5j) | [Cata Claro](https://open.spotify.com/artist/4fn4Adu7mtG06Ysp1wzw6F) | [Fuimos](https://open.spotify.com/album/74YrRIvRIkjP70l2ru57rG) | 3:17 |
 
-Snapshot ID: `MCxhMzcwZmM3YTA3NGI1MTc5MzZhYmUyODJhN2I2ODI2MDM5OTMyMjdl`
+Snapshot ID: `MCxiOWNmNzg0YTQwNzYxZDNlYjI4MTdiMjdjNTI3ZmY4OTU1ZGM3Y2Y2`

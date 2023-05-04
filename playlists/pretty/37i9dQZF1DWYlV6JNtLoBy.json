@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 515,
+  "num_followers": 524,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTgzNzY2ZjliMzg0MjBhNzEyMmIyMDhmOGU2ZTRhYWJmOTE1OTMx",
+  "snapshot_id": "MCwwMWYwNzg1N2E1MDI3ZDI5NzNhMmQ2N2IwZjI2MWY1NGE4ZWI5ZmE1",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Bwana Ni Ngome Yangu",
-        "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
+        "name": "Mungu Ni Mungu Tu",
+        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
       },
       "artists": [
         {
-          "name": "St. Joseph's Choir Kendu Bay Parish",
-          "url": "https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA"
+          "name": "Christopher Mwahangila",
+          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
         }
       ],
-      "duration_ms": 346640,
-      "name": "Huyu Ni Nani",
-      "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
+      "duration_ms": 507425,
+      "name": "Mungu Ni Mungu Tu",
+      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Mungu Ni Mungu Tu",
-        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
+        "name": "Bwana Ni Ngome Yangu",
+        "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
       },
       "artists": [
         {
-          "name": "Christopher Mwahangila",
-          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
+          "name": "St. Joseph's Choir Kendu Bay Parish",
+          "url": "https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA"
         }
       ],
-      "duration_ms": 507425,
-      "name": "Mungu Ni Mungu Tu",
-      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
+      "duration_ms": 346640,
+      "name": "Huyu Ni Nani",
+      "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Mfalme Wa Amani",
-        "url": "https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG"
-      },
-      "artists": [
-        {
-          "name": "Solomon Mkubwa",
-          "url": "https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ"
-        }
-      ],
-      "duration_ms": 472477,
-      "name": "Mfalme Wa Amani",
-      "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
-    },
-    {
       "added_at": "2023-04-21 00:01:00",
       "album": {
         "name": "Praise Him",
@@ -547,6 +531,22 @@
       "duration_ms": 324808,
       "name": "Praise Him",
       "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Mfalme Wa Amani",
+        "url": "https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG"
+      },
+      "artists": [
+        {
+          "name": "Solomon Mkubwa",
+          "url": "https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ"
+        }
+      ],
+      "duration_ms": 472477,
+      "name": "Mfalme Wa Amani",
+      "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Enjoy (Yo Blessings)",
-        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
-      },
-      "artists": [
-        {
-          "name": "Levixone",
-          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
-        }
-      ],
-      "duration_ms": 195056,
-      "name": "Enjoy (Yo Blessings)",
-      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
-    },
-    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "Uinuliwe Baba",
@@ -611,6 +595,22 @@
       "duration_ms": 418560,
       "name": "Yesu Nakupenda",
       "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Enjoy (Yo Blessings)",
+        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
+      },
+      "artists": [
+        {
+          "name": "Levixone",
+          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
+        }
+      ],
+      "duration_ms": 195056,
+      "name": "Enjoy (Yo Blessings)",
+      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
     },
     {
       "added_at": "2023-04-06 20:59:00",

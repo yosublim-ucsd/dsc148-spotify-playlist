@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 274622,
+  "num_followers": 274649,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWQ3OTI5YWRhZmU3NDg1MTEwY2E3NThhYmZiOWFkNmFkYjM5N2I4",
+  "snapshot_id": "MCxjYTU1ODc5NmM0NTEzMGY2OWMxODU2NjNlYzdiNzAwYzQ4ZDhkMWRm",
   "tracks": [
     {
       "added_at": "2023-03-08 05:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Judith",
-        "url": "https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry"
-      },
-      "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Send in the Clowns",
-      "url": "https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Down Rounder",
         "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 139333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Judith",
+        "url": "https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Send in the Clowns",
+      "url": "https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "A Month Or Two",
         "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Made the Harbor",
-        "url": "https://open.spotify.com/album/0y92wueykvo974Tmtn3ZDn"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 130199,
-      "name": "Animal Tracks",
-      "url": "https://open.spotify.com/track/5PKVT15SubNsMQm4Py2eXG"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Saturn Return",
         "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 260096,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/6GLuNBlMnNxwZYZi9cveFf"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Made the Harbor",
+        "url": "https://open.spotify.com/album/0y92wueykvo974Tmtn3ZDn"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "duration_ms": 130199,
+      "name": "Animal Tracks",
+      "url": "https://open.spotify.com/track/5PKVT15SubNsMQm4Py2eXG"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
       "artists": [
         {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
         }
       ],
-      "duration_ms": 204626,
-      "name": "How Come You Never Go There",
-      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 226466,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "How Come You Never Go There",
+      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Ear to the Ground",
-        "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs"
       },
       "artists": [
         {
-          "name": "Malvina Reynolds",
-          "url": "https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 131440,
-      "name": "Little Boxes",
-      "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
+      "duration_ms": 258000,
+      "name": "Emmylou",
+      "url": "https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1523,6 +1523,22 @@
       "duration_ms": 153546,
       "name": "Blue Ridge Mountain",
       "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Ear to the Ground",
+        "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
+      },
+      "artists": [
+        {
+          "name": "Malvina Reynolds",
+          "url": "https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "Little Boxes",
+      "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "The Lion's Roar",
-        "url": "https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Emmylou",
-      "url": "https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "The Bird & the Rifle",
         "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Sit Here And Love Me",
-      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 209173,
       "name": "Canary",
       "url": "https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Sit Here And Love Me",
+      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Would You Mind Please Pulling Me Close?",
+        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 243925,
+      "name": "Would You Mind Please Pulling Me Close?",
+      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -1911,22 +1927,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Would You Mind Please Pulling Me Close?",
-        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 243925,
-      "name": "Would You Mind Please Pulling Me Close?",
-      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Walking Proof",
         "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "A Southern Gothic",
-        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 268660,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "A Southern Gothic",
+        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2003,6 +2003,22 @@
       "duration_ms": 272080,
       "name": "Wild Turkey",
       "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+      },
+      "artists": [
+        {
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2051,22 +2067,6 @@
       "duration_ms": 246611,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
-      },
-      "artists": [
-        {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 228492,
-      "name": "A Thread to Find",
-      "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 139800,
       "name": "Universal Soldier",
       "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 228492,
+      "name": "A Thread to Find",
+      "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Santo",
-          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
-        }
-      ],
-      "duration_ms": 242581,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Sorry Now",
         "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 192160,
       "name": "Sorry Now",
       "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Santo",
+          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
+        }
+      ],
+      "duration_ms": 242581,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Our Problem",
         "url": "https://open.spotify.com/album/4PgHxgeoL6DcrCEXPKiw2P"
       },
@@ -2439,22 +2455,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Dark River",
         "url": "https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl"
       },
@@ -2467,6 +2467,22 @@
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2547,22 +2563,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Wax & Wane",
-        "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
-      },
-      "artists": [
-        {
-          "name": "Alana Henderson",
-          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Wax & Wane",
-      "url": "https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Plain Letters (Reimagined)",
         "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
       },
@@ -2579,18 +2579,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+        "name": "no fun/party",
+        "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
       },
       "artists": [
         {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
         }
       ],
-      "duration_ms": 187893,
-      "name": "Till the Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
+      "duration_ms": 356474,
+      "name": "no fun/party",
+      "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
     }
   ],
   "unique_name": "Women of Folk",

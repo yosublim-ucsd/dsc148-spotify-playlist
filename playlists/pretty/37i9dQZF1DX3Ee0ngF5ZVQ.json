@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Catie Offerman",
-  "num_followers": 404517,
+  "num_followers": 404572,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTRjZGM5MDRmMDM2ZDJmZWFlZmNhYTIwMjZmYmU1OTkxZTM2YTRj",
+  "snapshot_id": "MCw5ZTEwMWE3NTg4ZDc5YjI0Njg2Yjc5ZmJjMGVmOGU2MzQwYzU5YzYy",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Highway Boys",
-        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 220035,
-      "name": "Highway Boys",
-      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Happier Alone (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 224027,
       "name": "Happier Alone (feat. Koe Wetzel)",
       "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Highway Boys",
+        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 220035,
+      "name": "Highway Boys",
+      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Car Ride Home",
-        "url": "https://open.spotify.com/album/5qRwxL43IJCKoVJKpicz0e"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 275293,
-      "name": "Car Ride Home",
-      "url": "https://open.spotify.com/track/5oiyEMZL6oA50VLnbas2hE"
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+        "name": "Car Ride Home",
+        "url": "https://open.spotify.com/album/5qRwxL43IJCKoVJKpicz0e"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+      "duration_ms": 275293,
+      "name": "Car Ride Home",
+      "url": "https://open.spotify.com/track/5oiyEMZL6oA50VLnbas2hE"
     },
     {
       "added_at": "2023-04-28 04:00:00",

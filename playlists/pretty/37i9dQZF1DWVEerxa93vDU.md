@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,264 likes - 233 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,276 likes - 233 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 106 | [Se Réveiller](https://open.spotify.com/track/5NZHO5vtIllEHntPiTwfwd) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Se Réveiller](https://open.spotify.com/album/6zGXtuaQh1J6UHyd2Su7zt) | 3:03 |
 | 107 | [Bits and Pieces](https://open.spotify.com/track/6khPxJW2IJMWinaViYq9Xv) | [Tyson Morris](https://open.spotify.com/artist/7BwUBh2QHwvTN7WBV9vPES) | [Here On After](https://open.spotify.com/album/33Zg9HyZNO3OIqaqXsz5Y8) | 3:29 |
 | 108 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 |
-| 109 | [Waltz 21](https://open.spotify.com/track/4DaPrcpcDrbtXKmdFhqG5R) | [Andreas Ihlebæk](https://open.spotify.com/artist/2FikjOw5WWNEpKxsmU6Ye0), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Waltz 21](https://open.spotify.com/album/6GwiUbUZOZoz96kWpDligN) | 2:24 |
+| 109 | [Waltz 21](https://open.spotify.com/track/20WaMcIq4C5hjJUlKpGrAg) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10), [Andreas Ihlebæk](https://open.spotify.com/artist/2FikjOw5WWNEpKxsmU6Ye0) | [Gratitude](https://open.spotify.com/album/1lj9DxbgiYQSZKHHFGu5xw) | 2:24 |
 | 110 | [Meraviglia](https://open.spotify.com/track/0BoqkSGAGK4hDsf4coC1IE) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Meraviglia](https://open.spotify.com/album/3VxVxOxr4KFHoEvG14mosa) | 1:51 |
 | 111 | [Insouciance](https://open.spotify.com/track/5iXYIu04vkN1pT11qqKBM9) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [Insouciance](https://open.spotify.com/album/2a50JLyn7zSyXwUVWI5Mrl) | 2:03 |
 | 112 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 232 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
 | 233 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 |
 
-Snapshot ID: `MCxmNmQ5YjBkMzA1YzA1ZDFlMzEzYzE3NTNiNDNiZTNmZjQyZTg3MjRl`
+Snapshot ID: `MCw5YmUxZjMwZmFmNjY5YjYyM2Y1YTJkYzdjY2M0ZGJkMmNjZGI5ZTY1`

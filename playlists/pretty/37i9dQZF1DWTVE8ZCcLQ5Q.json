@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421887,
+  "num_followers": 421870,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDA3MDY4Y2FkN2UwN2M0MWExMWVhZWI3NjAzYTY5Njc5MTk3OTYw",
+  "snapshot_id": "MCxiODk1OWY4MDkwNjhhYjRlMTYxODM3NTJlZTI3OThmNjAyN2EyMDgw",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "COSTA QUENTE",
-        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "COSTA QUENTE",
-      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 122192,
       "name": "3AM (PXT4 RASA) - Remix",
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "COSTA QUENTE",
+        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "COSTA QUENTE",
+      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -591,30 +591,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
+        "name": "alice (s\u00f3 que sem as maravilhas)",
+        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "alice (s\u00f3 que sem as maravilhas)",
+      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
         "name": "Se Fecha",
         "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 137142,
       "name": "Se Fecha",
       "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
-        "name": "alice (s\u00f3 que sem as maravilhas)",
-        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "alice (s\u00f3 que sem as maravilhas)",
-      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
     },
     {
       "added_at": "2023-04-24 21:27:43",

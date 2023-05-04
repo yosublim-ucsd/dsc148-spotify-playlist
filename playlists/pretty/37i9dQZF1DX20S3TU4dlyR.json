@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 51673,
+  "num_followers": 51696,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjMzYjVjZjI5ZmNhOGRkODIzMjBhNTg4M2VlODViZWE5OGVmZDM2",
+  "snapshot_id": "MCxiMDlhMThiOWQ4MTZlMGQzYzJjNzIyMmJkZWM4YzllNmU3NmI2ZGY2",
   "tracks": [
     {
       "added_at": "2023-04-20 17:55:41",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Vos Sab\u00e9s",
-        "url": "https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo"
+        "name": "Ritual De Los Pericos",
+        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 238291,
-      "name": "Vos sab\u00e9s",
-      "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"
+      "duration_ms": 234733,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/0VZ2rAa5ceRaMPMufTVmqd"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Ritual De Los Pericos",
-        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
+        "name": "Vos Sab\u00e9s",
+        "url": "https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 234733,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/0VZ2rAa5ceRaMPMufTVmqd"
+      "duration_ms": 238291,
+      "name": "Vos sab\u00e9s",
+      "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -415,18 +415,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "C\u00f3mo Ver?",
-        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
         }
       ],
-      "duration_ms": 308522,
-      "name": "C\u00f3mo Ver?",
-      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
+      "duration_ms": 269013,
+      "name": "Waitin (En Vivo) (feat. MAGIC!)",
+      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -451,22 +455,18 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+        "name": "C\u00f3mo Ver?",
+        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 269013,
-      "name": "Waitin (En Vivo) (feat. MAGIC!)",
-      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
+      "duration_ms": 308522,
+      "name": "C\u00f3mo Ver?",
+      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Si No Fuera - Single",
-        "url": "https://open.spotify.com/album/1HEw09m1UAKkfpD1RcAnuW"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 218689,
-      "name": "Si No Fuera",
-      "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Llamado",
         "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Si No Fuera - Single",
+        "url": "https://open.spotify.com/album/1HEw09m1UAKkfpD1RcAnuW"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 218689,
+      "name": "Si No Fuera",
+      "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c"
       },
@@ -875,22 +859,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Rey Mago de las Nubes",
-        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Runfla Calavera",
         "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
@@ -903,6 +871,38 @@
       "duration_ms": 205480,
       "name": "D\u00e9jalo Fluir",
       "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Rey Mago de las Nubes",
+        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
+        "name": "Aroma de Caf\u00e9",
+        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        }
+      ],
+      "duration_ms": 254085,
+      "name": "Aroma de Caf\u00e9",
+      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
         "name": "\u00c1ngel Del Pasado",
         "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
       },
@@ -987,6 +1003,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
         "name": "Qui\u00e9n Sos?",
         "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
@@ -1007,22 +1039,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Aroma de Caf\u00e9",
-        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
-      },
-      "artists": [
-        {
-          "name": "Laguna Pai",
-          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
-        }
-      ],
-      "duration_ms": 254085,
-      "name": "Aroma de Caf\u00e9",
-      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Amor De Barrio",
         "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
@@ -1035,54 +1051,6 @@
       "duration_ms": 267666,
       "name": "Lo Que Dicta El Tiempo",
       "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "Neigborhood Rules",
-        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 232342,
-      "name": "Laba Laba Craven",
-      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1115,18 +1083,34 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Sergio Colombo Presenta el Natty Combo",
-        "url": "https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s"
+        "name": "Neigborhood Rules",
+        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
         }
       ],
-      "duration_ms": 349280,
-      "name": "La Pipa",
-      "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
+      "duration_ms": 232342,
+      "name": "Laba Laba Craven",
+      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1167,6 +1151,22 @@
       "duration_ms": 214000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Sergio Colombo Presenta el Natty Combo",
+        "url": "https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 349280,
+      "name": "La Pipa",
+      "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1219,6 +1219,26 @@
       "duration_ms": 237026,
       "name": "Naufrago",
       "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Que Bonita Vecindad",
+        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1323,26 +1343,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "La Vida Es Una Canci\u00f3n II",
         "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 258000,
       "name": "Cerquita",
       "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "20 A\u00f1os en Vivo & En Directo",
-        "url": "https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 331169,
-      "name": "La M\u00e1scara - En Vivo",
-      "url": "https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 260170,
       "name": "Si vas a dejarme...",
       "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "20 A\u00f1os en Vivo & En Directo",
+        "url": "https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 331169,
+      "name": "La M\u00e1scara - En Vivo",
+      "url": "https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1479,22 +1495,6 @@
       "duration_ms": 263144,
       "name": "Tenia Tanto Para Darte",
       "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2023-04-20 17:55:41",

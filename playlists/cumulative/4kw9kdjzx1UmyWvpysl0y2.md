@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-466 songs - 1 day 3 hr 11 min
+467 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 | 2022-08-09 |
 | [Kingslayer](https://open.spotify.com/track/2xYI4GVeC4SUaNsx9HIUJ1) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [Kingslayer](https://open.spotify.com/album/7uAVQn7dKdmZSqk3Lu47g8) | 3:44 | 2023-03-20 |  |
 | [Landslide](https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Landslide](https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n) | 3:10 | 2023-03-03 |  |
-| [Let Me Go](https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Let Me Go](https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n) | 3:44 | 2023-02-16 |  |
+| [Let Me Go](https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Let Me Go](https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n) | 3:44 | 2023-02-16 | 2023-05-04 |
 | [Let Me Go](https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Let Me Go](https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus) | 3:42 | 2022-11-21 | 2023-02-17 |
 | [Let Me Hold You](https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Let Me Hold You](https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N) | 3:25 | 2022-04-06 | 2022-06-17 |
 | [Lies and Deceptions \- Bad Computer Remix](https://open.spotify.com/track/3tV2l4rFMgzt5qoWrE6BlM) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Lies and Deceptions \(Bad Computer Remix\)](https://open.spotify.com/album/6w0bsHy2oXobGo8JndIPsP) | 3:27 | 2022-12-10 | 2023-03-14 |
@@ -291,6 +291,7 @@
 | [New Worlds](https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [New Worlds](https://open.spotify.com/album/6QRMRuL9Bumhv3mholG3iw) | 3:12 | 2023-03-22 |  |
 | [Nibbana](https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nibbana](https://open.spotify.com/album/5tlAhQ2zVsth5w1KpRIRkS) | 4:20 | 2022-01-14 | 2022-03-24 |
 | [Nibbana \- Volen Sentir's Pink Sky Retouch](https://open.spotify.com/track/2g1kcSv6wz70zl7lhWpJzx) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Nibbana \(Volen Sentir's Pink Sky Retouch\)](https://open.spotify.com/album/6XHnLNEb1ZJNcnrT8kaLRq) | 4:01 | 2022-12-10 | 2023-03-14 |
+| [NIGHT](https://open.spotify.com/track/6MvLdr8EU0ROnLBIydewaD) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [NIGHT](https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB) | 4:19 | 2023-05-03 |  |
 | [Night Shift](https://open.spotify.com/track/2LSBuW3iZjxypcoTGVUp54) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Night Shift](https://open.spotify.com/album/2hgKEap2EXtwDunaPRb2ip) | 2:53 | 2022-05-03 | 2022-07-14 |
 | [Nimbus](https://open.spotify.com/track/00uWPR2Xr54sF4MS2hnZ1m) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:30 | 2022-11-11 | 2023-02-08 |
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-03-18 | 2022-06-01 |

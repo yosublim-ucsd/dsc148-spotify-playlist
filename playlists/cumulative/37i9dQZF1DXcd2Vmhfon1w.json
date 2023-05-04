@@ -687,6 +687,28 @@
     },
     {
       "album": {
+        "name": "Brigantes",
+        "url": "https://open.spotify.com/album/6sVXofzsxugo2kWlJ45Kmh"
+      },
+      "artists": [
+        {
+          "name": "Prok",
+          "url": "https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Brigantes",
+      "url": "https://open.spotify.com/track/1wqQks7huD10fXqgXd3qGR"
+    },
+    {
+      "album": {
         "name": "Bukowski",
         "url": "https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ"
       },
@@ -2054,7 +2076,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 243750,
       "name": "Lacura",
       "url": "https://open.spotify.com/track/4UCBtSSeGypt1LtErdAuzY"

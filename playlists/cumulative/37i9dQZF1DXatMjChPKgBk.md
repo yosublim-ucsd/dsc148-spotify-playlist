@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-508 songs - 1 day 7 hr 21 min
+509 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 | 2022-01-27 | 2023-04-20 |
 | [True Love](https://open.spotify.com/track/01qYEGYCRYzMSNOj8idCmk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 3:33 | 2022-01-27 | 2023-01-15 |
 | [Try](https://open.spotify.com/track/27zVrE9dDN2Ij8rlHw0XHm) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart Side A](https://open.spotify.com/album/4g2t8455lMXR69FoQBWL78) | 3:44 | 2022-01-27 | 2022-06-21 |
-| [Try](https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9) | 3:44 | 2022-07-08 |  |
+| [Try](https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9) | 3:44 | 2022-07-08 | 2023-05-04 |
 | [Two Broken Hearts](https://open.spotify.com/track/5M8pFyozbhsS4QNxsSE2Jl) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Greetings from the Neon Frontier](https://open.spotify.com/album/2NahpxkT0PzNlsNobNpXeC) | 3:17 | 2022-01-27 | 2022-07-29 |
 | [Under My Skin](https://open.spotify.com/track/1h7UTsLok3ERGTeHB9paXh) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Leavetaking](https://open.spotify.com/album/3seUlzw5ujq80ffIypeGRB) | 3:33 | 2022-07-08 | 2022-07-22 |
 | [Unsolvable](https://open.spotify.com/track/0K7t93sm0VcQOYSYYglQkv) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Unsolvable](https://open.spotify.com/album/6UAWuljGLKL4yzAVm9vwa3) | 4:09 | 2022-11-26 | 2023-02-03 |
@@ -502,6 +502,7 @@
 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 | 2022-01-27 | 2023-04-20 |
 | [Words](https://open.spotify.com/track/2dNjHVd9urrtILcZBK70r1) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 4:01 | 2022-01-27 | 2023-04-20 |
 | [Worldstop](https://open.spotify.com/track/2x2sIzphml58Tkb6IN6FEA) | [Roy English](https://open.spotify.com/artist/1m42JiZ7Rv8D7Lc7FTSWAR) | [Worldstop](https://open.spotify.com/album/1pddhwGmsFULQ4nNlpwI2b) | 3:33 | 2022-01-27 | 2022-07-29 |
+| [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 | 2023-04-21 |  |
 | [Wrong Team](https://open.spotify.com/track/0TK1Kui4cCaHR0avKjKXzC) | [Sture Zetterberg](https://open.spotify.com/artist/00GQFQMePsK6tyPSJkBJZG) | [14 Washburn St](https://open.spotify.com/album/6ILwS4fTqO8N32MS4y7ehN) | 3:25 | 2022-01-27 | 2022-11-13 |
 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2022-07-08 | 2023-04-20 |
 | [You Give Me Something](https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered \(International Version\)](https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ) | 3:33 | 2022-01-27 | 2022-07-29 |

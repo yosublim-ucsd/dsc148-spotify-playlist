@@ -1231,6 +1231,36 @@
     },
     {
       "album": {
+        "name": "Northside Jane",
+        "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
+      },
+      "artists": [
+        {
+          "name": "Robin Banks",
+          "url": "https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE"
+        },
+        {
+          "name": "TallupTwinz",
+          "url": "https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL"
+        },
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        },
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267415,
+      "name": "One of Mines",
+      "url": "https://open.spotify.com/track/3qjhYfvWfNC6SgvDfAm9oO"
+    },
+    {
+      "album": {
         "name": "Buy or Bye 2",
         "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
       },
@@ -1396,7 +1426,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 166922,
       "name": "Sleep Like A Baby",
       "url": "https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK"

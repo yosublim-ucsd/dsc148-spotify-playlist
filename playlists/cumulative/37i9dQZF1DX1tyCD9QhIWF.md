@@ -4,7 +4,7 @@
 
 > Big riffs and pounding drums to help you strut the streets.
 
-114 songs - 6 hr 23 min
+115 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 | 2021-11-30 |  |
 | [I Need To Be Your Only](https://open.spotify.com/track/7aJDkh2HFAeirsG67P8EkC) | [The Strypes](https://open.spotify.com/artist/2sShFUqcFIAZGqagNYy4om) | [Little Victories \(Deluxe\)](https://open.spotify.com/album/7jRsG4EFajmvdVGweTYBbG) | 3:45 | 2021-11-30 | 2022-09-15 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-11-30 |  |
-| [I.N.V.U.](https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [I.N.V.U.](https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v) | 2:43 | 2022-09-13 |  |
+| [I.N.V.U.](https://open.spotify.com/track/4M2L2LaKETrZWHCIOolct7) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won \(Deluxe\)](https://open.spotify.com/album/5keOCrzujqEiUbtsf0mDq7) | 2:43 | 2023-02-01 |  |
+| [I.N.V.U.](https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [I.N.V.U.](https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v) | 2:43 | 2022-09-13 | 2023-05-04 |
 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 | 2022-06-10 |  |
 | [Icky Thump](https://open.spotify.com/track/7aBAo2pO8LvrN8mGba7MvA) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/77dc8fS3O8FaQjhbNASpgM) | 4:14 | 2021-11-30 | 2022-07-29 |
 | [ILY, HOW ARE YOU?](https://open.spotify.com/track/3sFIwbjeUAy05RvEp86zVx) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [ILY, HOW ARE YOU? / IDC, I CAN’T TAKE IT](https://open.spotify.com/album/2EU5jYj4m8VyeELIaF92cj) | 2:11 | 2021-11-30 | 2022-07-29 |

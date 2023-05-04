@@ -4722,7 +4722,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 170333,
       "name": "Line to Dot",
       "url": "https://open.spotify.com/track/40wUkKSrR6po7tjPhHROlS"
@@ -6326,6 +6326,24 @@
       "duration_ms": 591093,
       "name": "Pop 4",
       "url": "https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou"
+    },
+    {
+      "album": {
+        "name": "So Soon",
+        "url": "https://open.spotify.com/album/6XXQ8hNdIx7RclnHRyXRD0"
+      },
+      "artists": [
+        {
+          "name": "Slag Boom Van Loon",
+          "url": "https://open.spotify.com/artist/20Yg9gqsN4nSGc8sGStkOx"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415813,
+      "name": "Poppy Seed (Boards of Canada Remix)",
+      "url": "https://open.spotify.com/track/0Ocwe8H3qPwzI7SplDcYrK"
     },
     {
       "album": {

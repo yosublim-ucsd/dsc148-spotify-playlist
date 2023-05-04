@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 36384,
+  "num_followers": 36421,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWYwMTk0NDU5YmU0MTVlOTMxMTA0ODFlYzFjNTk5YTJiZGJkY2E5",
+  "snapshot_id": "MCxhNGFlMWE4MTU1MmQ1YjYwM2Y1MTA3Yjk4ZDVkNGYwZWQxNDQ4NWY0",
   "tracks": [
     {
       "added_at": "2023-04-28 16:38:11",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
-        "name": "The Lost Paramount Tapes",
-        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Junco Partner #2",
-      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 169000,
       "name": "Let Me Go Home, Whiskey",
       "url": "https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
+        "name": "The Lost Paramount Tapes",
+        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Junco Partner #2",
+      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
     },
     {
       "added_at": "2023-04-28 16:38:11",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
-      },
-      "artists": [
-        {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "Blue Lamp",
-      "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
         "name": "Blues On The Prowl",
         "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 217720,
       "name": "Booker's Boogie",
       "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
+      },
+      "artists": [
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Blue Lamp",
+      "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
     },
     {
       "added_at": "2023-04-28 16:38:11",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
-        "name": "The Boogie Woogie Trio vol. 1",
-        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
-      },
-      "artists": [
-        {
-          "name": "Meade \"Lux\" Lewis",
-          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
-        },
-        {
-          "name": "Albert Ammons",
-          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
-        }
-      ],
-      "duration_ms": 125320,
-      "name": "Boogie Woogie Prayer",
-      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
         "name": "Tell Me Pretty Baby",
         "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 170040,
       "name": "Rocket Boogie \"88\" (Pt. 1)",
       "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
+        "name": "The Boogie Woogie Trio vol. 1",
+        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
+      },
+      "artists": [
+        {
+          "name": "Meade \"Lux\" Lewis",
+          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
+        },
+        {
+          "name": "Albert Ammons",
+          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
+        }
+      ],
+      "duration_ms": 125320,
+      "name": "Boogie Woogie Prayer",
+      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
     },
     {
       "added_at": "2023-04-28 16:38:11",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
         "name": "Boogie Woogie Storm",
         "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 200040,
       "name": "Bluegrass Boogie Woogie",
       "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
     },
     {
       "added_at": "2023-04-28 16:38:11",
@@ -1047,6 +1047,38 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
+        "name": "\"Devil Digit Boogie Woogie\"",
+        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "A Boogie Woogie Sunday",
+      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
+        "name": "So Swell",
+        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
+      },
+      "artists": [
+        {
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+        }
+      ],
+      "duration_ms": 151261,
+      "name": "Swanee River Boogie",
+      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
         "name": "Barrelhouse, Blues & Boogie Woogie Vol. II",
         "url": "https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN"
       },
@@ -1083,22 +1115,6 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
-        "name": "So Swell",
-        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
-      },
-      "artists": [
-        {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
-        }
-      ],
-      "duration_ms": 151261,
-      "name": "Swanee River Boogie",
-      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
         "name": "Cow Cow Davenport Vol. 1 (1925-1929)",
         "url": "https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 205893,
       "name": "Detroit Rocks",
       "url": "https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
-        "name": "\"Devil Digit Boogie Woogie\"",
-        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "A Boogie Woogie Sunday",
-      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
     },
     {
       "added_at": "2023-04-28 16:38:11",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
+        "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
+        "url": "https://open.spotify.com/album/6pqnO3wDzP4fdXWbK9KaaL"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "Mac's Boogie",
+      "url": "https://open.spotify.com/track/6tH4egDSg8ozs54aPAD4Uw"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
         "name": "Yancey Special",
         "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
       },
@@ -1207,6 +1223,38 @@
       "duration_ms": 185861,
       "name": "La Salle Street Breakdown",
       "url": "https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
+        "name": "Boogie Woogie Gals",
+        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
+      },
+      "artists": [
+        {
+          "name": "Anisteen Allen",
+          "url": "https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Bongo Boogie",
+      "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Chicago Breakdown",
+      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
     },
     {
       "added_at": "2023-04-28 16:38:11",
@@ -1231,61 +1279,13 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
-        "name": "Boogie Woogie Gals",
-        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
-      },
-      "artists": [
-        {
-          "name": "Anisteen Allen",
-          "url": "https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Bongo Boogie",
-      "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
-        "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
-        "url": "https://open.spotify.com/album/6pqnO3wDzP4fdXWbK9KaaL"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "Mac's Boogie",
-      "url": "https://open.spotify.com/track/6tH4egDSg8ozs54aPAD4Uw"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Chicago Breakdown",
-      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
         "name": "Presenting Blind Blake",
         "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
       },
       "artists": [
         {
           "name": "Blind Blake",
-          "url": "https://open.spotify.com/artist/6u8rTX0ZMlGnhUUbHmbnrG"
+          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
         }
       ],
       "duration_ms": 190400,

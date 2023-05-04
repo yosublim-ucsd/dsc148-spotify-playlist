@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 258438,
+  "num_followers": 258827,
   "original_name": "90s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjA5YzJjNjJhMzk4NWI2ODBkOWViNmE4MjNjYzJiOWU1ZDBkN2U1",
+  "snapshot_id": "MCxlMzI5YzFjZGEyZmU4Njc0MTUzMWQzMDZmYWI5NWZhNDhjMzA1MWNk",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "This Fire",
-        "url": "https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs"
-      },
-      "artists": [
-        {
-          "name": "Paula Cole",
-          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
-        }
-      ],
-      "duration_ms": 320026,
-      "name": "I Don't Want to Wait",
-      "url": "https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "New Miserable Experience",
         "url": "https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 236626,
       "name": "Hey Jealousy",
       "url": "https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "This Fire",
+        "url": "https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs"
+      },
+      "artists": [
+        {
+          "name": "Paula Cole",
+          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
+        }
+      ],
+      "duration_ms": 320026,
+      "name": "I Don't Want to Wait",
+      "url": "https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "New Miserable Experience",
         "url": "https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 233400,
       "name": "Found Out About You",
       "url": "https://open.spotify.com/track/5WmDRnuGYo31xrWNDcYaps"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": "2023-01-18 22:23:18",

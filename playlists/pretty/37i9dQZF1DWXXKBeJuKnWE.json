@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy rockers. Cover: Metallica",
-  "num_followers": 27985,
+  "num_followers": 28000,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWMwMTlmMGE3ZWEyMjMwZjE1ODFiNDYzZWE2YTdiN2NiYTQ2MmM2",
+  "snapshot_id": "MCwxNWQyZTY0NzRkNDEyNmFhMTRiNTNkOThiNDNhMjdkNDZiZmM5MzQz",
   "tracks": [
     {
       "added_at": "2023-03-23 20:43:55",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "The End, So Far",
         "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 289226,
       "name": "The Chapeltown Rag",
       "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb"
     },
     {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Pump It",
-        "url": "https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 172758,
-      "name": "Pump It",
-      "url": "https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG"
-    },
-    {
       "added_at": "2023-04-14 13:32:07",
       "album": {
         "name": "The Hope Of A Spark",
@@ -927,6 +911,22 @@
       "duration_ms": 175205,
       "name": "God/Devil",
       "url": "https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Pump It",
+        "url": "https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 172758,
+      "name": "Pump It",
+      "url": "https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Finish Line (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "The Retaliators Theme Song (21 Bullets) [feat. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New]",
         "url": "https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k"
       },
@@ -1047,22 +1067,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         },
         {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
         }
       ],
-      "duration_ms": 207759,
-      "name": "Finish Line (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+      "duration_ms": 170571,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Patient Number 9 (feat. Jeff Beck)",
         "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
     },
     {
       "added_at": "2023-03-23 20:43:55",

@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent talents are here\. \(Cover: TAEWOO\(태우\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
+> Fresh new Korean independent talents are here\. \(Cover: jisokuryClub\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,170 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,216 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [why do you \(feat\. GARDEN\)](https://open.spotify.com/track/5MrHtk0teelb4sXlNBBXZe) | [if.iwere](https://open.spotify.com/artist/4VnK0eLt40zsiLDznBBYvu), [GARDEN](https://open.spotify.com/artist/3OCijSCs6UVHZibd5nIJWt) | [why do you](https://open.spotify.com/album/5jYvHX0fdCjaDgwQhmMUQd) | 2:33 |
-| 2 | [Funky Chunky \(Feat\. Paloalto\)](https://open.spotify.com/track/6MSZZPsl0E8iQ0saeurlop) | [YOUNG SKI](https://open.spotify.com/artist/3yXrtr9vxymFgEEeBvRYg0), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [I LOVE MY STREET](https://open.spotify.com/album/4bkwZoUJqTkieiUMFZ5Sp0) | 2:45 |
-| 3 | [내 안의 폭주족 Biker in my mind](https://open.spotify.com/track/6cbTMVLswdUdif0R3sweMb) | [Shin Seung Eun](https://open.spotify.com/artist/4z5v6JmVbuYYVLwHbJPzIm) | [내 안의 폭주족 Biker in my mind](https://open.spotify.com/album/5UTTEC3smimuhRWfEbEpJ6) | 4:25 |
-| 4 | [What i can't forget is](https://open.spotify.com/track/1LRGV6MpzodcHHw6CTIcLR) | [PEKKI](https://open.spotify.com/artist/6yTrk5y7hFaFJn3PEWuSQq) | [What i can't forget is](https://open.spotify.com/album/7Fcsm6kJuA3N2EVZ4ExNm3) | 2:50 |
-| 5 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 |
-| 6 | [It was love, but not you](https://open.spotify.com/track/5lAwiCWQTst1LsorYKovHY) | [Kim Yi Wol](https://open.spotify.com/artist/4UWbCpIguG08IsBmldIjdS), [51](https://open.spotify.com/artist/0Fzez7DXH60xdLhLzKDjz9) | [Quetzalcoatl](https://open.spotify.com/album/0x1XicFATaZuRTabcFJbSx) | 3:11 |
-| 7 | [how do I fill this empty space?](https://open.spotify.com/track/5TVMCEU01JiVhltjvLo0xy) | [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP) | [how do I fill this empty space?](https://open.spotify.com/album/68CC84g1GQLKCnMJvMwj2T) | 2:28 |
-| 8 | [If You See Me](https://open.spotify.com/track/6klI77nVgqRzC70S3xQy1i) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [BY CHANCE PROJECT](https://open.spotify.com/album/0zSuVBhpSoJJZOJpT0f8Zb) | 3:25 |
-| 9 | [Long Live](https://open.spotify.com/track/6xdrfqh3ezJOu97pKfRqPE) | [trevo](https://open.spotify.com/artist/1gdUFbttC0ma2zU2lMjumC) | [Long Live](https://open.spotify.com/album/1ShehgXEJT77VkQ1nJy2jg) | 3:19 |
-| 10 | [Peanut butter Sandwich](https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [pool vol\. 2 \- Peanut Butter Sandwich](https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV) | 3:51 |
+| 1 | [Peanut butter Sandwich](https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [pool vol\. 2 \- Peanut Butter Sandwich](https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV) | 3:51 |
+| 2 | [why do you \(feat\. GARDEN\)](https://open.spotify.com/track/5MrHtk0teelb4sXlNBBXZe) | [if.iwere](https://open.spotify.com/artist/4VnK0eLt40zsiLDznBBYvu), [GARDEN](https://open.spotify.com/artist/3OCijSCs6UVHZibd5nIJWt) | [why do you](https://open.spotify.com/album/5jYvHX0fdCjaDgwQhmMUQd) | 2:33 |
+| 3 | [Funky Chunky \(Feat\. Paloalto\)](https://open.spotify.com/track/6MSZZPsl0E8iQ0saeurlop) | [YOUNG SKI](https://open.spotify.com/artist/3yXrtr9vxymFgEEeBvRYg0), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [I LOVE MY STREET](https://open.spotify.com/album/4bkwZoUJqTkieiUMFZ5Sp0) | 2:45 |
+| 4 | [내 안의 폭주족 Biker in my mind](https://open.spotify.com/track/6cbTMVLswdUdif0R3sweMb) | [Shin Seung Eun](https://open.spotify.com/artist/4z5v6JmVbuYYVLwHbJPzIm) | [내 안의 폭주족 Biker in my mind](https://open.spotify.com/album/5UTTEC3smimuhRWfEbEpJ6) | 4:25 |
+| 5 | [What i can't forget is](https://open.spotify.com/track/1LRGV6MpzodcHHw6CTIcLR) | [PEKKI](https://open.spotify.com/artist/6yTrk5y7hFaFJn3PEWuSQq) | [What i can't forget is](https://open.spotify.com/album/7Fcsm6kJuA3N2EVZ4ExNm3) | 2:50 |
+| 6 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 |
+| 7 | [It was love, but not you](https://open.spotify.com/track/5lAwiCWQTst1LsorYKovHY) | [Kim Yi Wol](https://open.spotify.com/artist/4UWbCpIguG08IsBmldIjdS), [51](https://open.spotify.com/artist/0Fzez7DXH60xdLhLzKDjz9) | [Quetzalcoatl](https://open.spotify.com/album/0x1XicFATaZuRTabcFJbSx) | 3:11 |
+| 8 | [how do I fill this empty space?](https://open.spotify.com/track/5TVMCEU01JiVhltjvLo0xy) | [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP) | [how do I fill this empty space?](https://open.spotify.com/album/68CC84g1GQLKCnMJvMwj2T) | 2:28 |
+| 9 | [If You See Me](https://open.spotify.com/track/6klI77nVgqRzC70S3xQy1i) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [BY CHANCE PROJECT](https://open.spotify.com/album/0zSuVBhpSoJJZOJpT0f8Zb) | 3:25 |
+| 10 | [Long Live](https://open.spotify.com/track/6xdrfqh3ezJOu97pKfRqPE) | [trevo](https://open.spotify.com/artist/1gdUFbttC0ma2zU2lMjumC) | [Long Live](https://open.spotify.com/album/1ShehgXEJT77VkQ1nJy2jg) | 3:19 |
 | 11 | [April 1ast](https://open.spotify.com/track/4g3ur93cn7TEha1yTOOLpB) | [Joonseo Kim](https://open.spotify.com/artist/62d1n0uOcR34LyMZt3dwKd) | [April 1ast](https://open.spotify.com/album/2fw5SSADADouoO9dbTYojf) | 2:34 |
 | 12 | [Nemesis](https://open.spotify.com/track/7KeLAE9mYMxgChZyQZwdk1) | [Mozzy](https://open.spotify.com/artist/0Tmqntchso1zF9rXtsZMay) | [Nemesis](https://open.spotify.com/album/3zQ2iakBbDvc1gxAwIcrex) | 2:58 |
 | 13 | [Astronaut](https://open.spotify.com/track/6P6VlyrUI9VY7tPkqsHAYt) | [RYU SEOKWON](https://open.spotify.com/artist/3fc1EOSoH1KTJvrCKOiKBn) | [Astronaut](https://open.spotify.com/album/47S9CPcFEy8e3uPJfCIzom) | 5:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [T](https://open.spotify.com/track/7oAyr599GDDg04H354KbvO) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [T](https://open.spotify.com/album/0igrh8PMna7LcjthTvJpu3) | 2:58 |
 | 100 | [My Light](https://open.spotify.com/track/1WKfJn8wUuUXBSVJBEytq0) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Cinema Pt\. 1](https://open.spotify.com/album/6NtAlARAtzY1eLC2o1yVBP) | 2:32 |
 
-Snapshot ID: `MCw4ODg5YTdiMDVmYjFiMDhiNDE5N2ZlMTY3Y2E4NGNjZjg4ZjkzYWVm`
+Snapshot ID: `MCwwNzViYWY4ZDY4OGExOWM0OTYyZjUwYzU2N2UzOGZjNTNlMzRjMmE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Thundercat ft\. Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,382 likes - 126 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,408 likes - 126 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 33 | [Windrush Baby](https://open.spotify.com/track/6UzZctITlti1xVg4zA6zeJ) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Windrush Baby](https://open.spotify.com/album/7Djnbj42u3dJfvr1fdcee7) | 3:24 |
 | 34 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 |
 | 35 | [IMAGINE TECHNICOLOUR](https://open.spotify.com/track/2m0KwgcVKP879c9vTQ6jZa) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g) | [IMAGINE TECHNICOLOUR](https://open.spotify.com/album/1X8jNHIOvX6AO56RU20QnH) | 3:10 |
-| 36 | [Leon](https://open.spotify.com/track/2bBzjfxz6yLF1bX4tM4sJv) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx), [Madelaine Hart](https://open.spotify.com/artist/3g8SpfbrHVEJk5rM8LCg7w) | [Leon](https://open.spotify.com/album/5Ke8YFSrOQFlltJM7mba4h) | 2:48 |
+| 36 | [Leon](https://open.spotify.com/track/2bBzjfxz6yLF1bX4tM4sJv) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Leon](https://open.spotify.com/album/5Ke8YFSrOQFlltJM7mba4h) | 2:48 |
 | 37 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 |
 | 38 | [Again](https://open.spotify.com/track/7LRUdoa110f2SGRtLr0pqs) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [Again](https://open.spotify.com/album/40Ub6JIkiPZ7otpE5cAci7) | 2:30 |
 | 39 | [WONDERLAND](https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:32 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 125 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 |
 | 126 | [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 |
 
-Snapshot ID: `MCwxNDZlNzM5MDFlNGI2OGJmZDAzNzU4NDIxZWFlYjU4NzNlMmZjNWM5`
+Snapshot ID: `MCw2Y2Y5NjhiNDkxZDc3NzdiZGU1NTQ0NzEzMDViYWQzNzgxOTI2OGM4`

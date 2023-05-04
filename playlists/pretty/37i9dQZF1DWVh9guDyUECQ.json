@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 165285,
+  "num_followers": 165376,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjIwZTJiMmNiZGE2NTA0OTEwMzNkZGRiNTQyZDk1MmFhM2M3NTFm",
+  "snapshot_id": "MCxlMTg2ZTRhZTZmYTRkYmQxZTM5Yjg4YmJmODk3MTdkNTE1MGZjMzlh",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "No Necesito Doctor.",
+        "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
+      },
+      "artists": [
+        {
+          "name": "Josh Gamez",
+          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "No Necesito Doctor.",
+      "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 236578,
       "name": "A Ciegas",
       "url": "https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "No Necesito Doctor.",
-        "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
-      },
-      "artists": [
-        {
-          "name": "Josh Gamez",
-          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "No Necesito Doctor.",
-      "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "La M\u00fasica",
+        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "La M\u00fasica",
+      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Coraz\u00f3n de Piedra",
         "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 221879,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "La M\u00fasica",
-        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "La M\u00fasica",
-      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Pura Alegr\u00eda",
-        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 186367,
-      "name": "Pura Alegr\u00eda",
-      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Si Tu No Estas",
         "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 225400,
       "name": "Si T\u00fa No Estas",
       "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Pura Alegr\u00eda",
+        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 186367,
+      "name": "Pura Alegr\u00eda",
+      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "TBT",
-        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
-      },
-      "artists": [
-        {
-          "name": "Artury Pepper",
-          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
-        },
-        {
-          "name": "Coron3l",
-          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "TBT",
-      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Se Enamor\u00f3",
         "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
       },
@@ -1755,22 +1735,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Fuego",
-        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
       },
       "artists": [
         {
-          "name": "Sarah La Profeta",
-          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
         },
         {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
         }
       ],
-      "duration_ms": 190095,
-      "name": "El Fuego",
-      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
+      "duration_ms": 210266,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1787,6 +1767,26 @@
       "duration_ms": 157100,
       "name": "Los Bendigo",
       "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "El Fuego",
+        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
+      },
+      "artists": [
+        {
+          "name": "Sarah La Profeta",
+          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 190095,
+      "name": "El Fuego",
+      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
     },
     {
       "added_at": "2022-08-27 05:04:45",

@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-491 songs - 1 day 17 hr 42 min
+492 songs - 1 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Powerhouse](https://open.spotify.com/track/3g2Ckn3FKQGTiD89pcmHXr) | [Joe Lovano Us Five](https://open.spotify.com/artist/5ibGFYnHJ3zr92O1OdUvvc) | [Folk Art](https://open.spotify.com/album/7IN5oX9eiR1BzX93NMwVKI) | 4:04 | 2022-04-01 | 2022-04-21 |
 | [Prayer](https://open.spotify.com/track/2ola3HPvnB9VVIzqEIrniD) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [SHOOK UP](https://open.spotify.com/album/6POEzNWEtxycJMcwQF0MeW) | 5:24 | 2021-12-21 | 2022-07-28 |
 | [Prayer For Peace](https://open.spotify.com/track/3RgVndt09onNQofrnPtmTq) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Prayer For Peace](https://open.spotify.com/album/3mnDhNKj8zIxFCx5Bzsq4x) | 7:27 | 2021-12-16 | 2022-11-13 |
-| [Premonition I\. Earth](https://open.spotify.com/track/7bNxU3fVRM61HPbtclt0u9) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Leucocyte](https://open.spotify.com/album/7lkbRDQReQXCAPViu5aTOO) | 17:06 | 2022-04-01 |  |
+| [Premonition I\. Earth](https://open.spotify.com/track/7bNxU3fVRM61HPbtclt0u9) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Leucocyte](https://open.spotify.com/album/7lkbRDQReQXCAPViu5aTOO) | 17:06 | 2022-04-01 | 2023-05-04 |
 | [prisner](https://open.spotify.com/track/1f5w6SKCFnvTf68De7JgMR) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [butterfly](https://open.spotify.com/album/0heal5aAbfR3Y81QhAijRW) | 4:38 | 2021-12-16 |  |
 | [Przhevalsky](https://open.spotify.com/track/7sGEjkvwCzbIRpB6OxHznf) | [Monocled Man](https://open.spotify.com/artist/4Ulb0AKOmkqerNXGwtRob1), [Chris Montague](https://open.spotify.com/artist/2gz62zpojSXuPaCJazpDrA) | [Przhevalsky](https://open.spotify.com/album/32ahz0WuPGJzXTJthrkgLs) | 4:26 | 2021-12-21 | 2022-07-29 |
 | [Psalmboksmusik](https://open.spotify.com/track/6Z05waDrF7G1h9IWvtrqI8) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Kosmos](https://open.spotify.com/album/4OKVsBryYDcqXPEy2nCkxd) | 5:06 | 2021-12-21 |  |
@@ -378,6 +378,7 @@
 | [Sketches Of Blue](https://open.spotify.com/track/49jTTLR2z63BSTztMIsJ3s) | [Dzihan & Kamien](https://open.spotify.com/artist/0jyyByk1ca4r8gaqMYVPUI) | [IV](https://open.spotify.com/album/2AkKXfAVVI91CMNMdDxJs8) | 4:40 | 2021-12-16 |  |
 | [Soho Grandey](https://open.spotify.com/track/6qmrzcU5KT0PAcrybAFZs3) | [Imajin](https://open.spotify.com/artist/7aluGANSk8UZ7NIjHEdinC) | [Imajin](https://open.spotify.com/album/6ReFBfacZmMQiegWWSP8bE) | 3:50 | 2021-12-21 | 2022-07-28 |
 | [Something's Going On](https://open.spotify.com/track/3bRqljHPbtPEDaM2bL1JML) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Something's Going On](https://open.spotify.com/album/6KYX5imbTj5YxXqhwa9WSl) | 5:12 | 2022-02-10 | 2023-04-30 |
+| [Something's Going On](https://open.spotify.com/track/7e9ReVRPkkpBGG4R1as4xI) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:12 | 2022-02-10 |  |
 | [Somewhere Different](https://open.spotify.com/track/1YEgbaYU0j5H9QiiQ1kTf8) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 5:21 | 2021-12-16 |  |
 | [Son Of Emmerson](https://open.spotify.com/track/1rMV78kBNDG4vOE9IeokKh) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [Son Of Emmerson](https://open.spotify.com/album/0XkagDDZPT7ACptJdHWjhl) | 3:44 | 2021-12-16 |  |
 | [Sonar](https://open.spotify.com/track/3jMcbuJtv23bhYf6WkCUA1) | [Electric Kif](https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn) | [Dreamlike](https://open.spotify.com/album/5BbnWktlDfoI6R54k16r2o) | 4:18 | 2021-12-16 | 2023-05-03 |

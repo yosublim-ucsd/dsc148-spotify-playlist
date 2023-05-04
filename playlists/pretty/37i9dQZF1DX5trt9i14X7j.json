@@ -1,12 +1,12 @@
 {
   "description": "Dedicated to all the programmers out there.",
-  "num_followers": 338781,
+  "num_followers": 338929,
   "original_name": "Coding Mode  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTc5MmVkZmY1MjkyMzEyZWE0MjM3N2I3MDU5N2JmMzM3YjNlNTFm",
+  "snapshot_id": "MCw3YWFkYzJlZjA4NTk1NjgzZTRkMjQ3MmEzZGY1ZjkxZmU4YzBmM2Zk",
   "tracks": [
     {
       "added_at": "2023-04-10 10:36:11",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Karma & Desire",
-        "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 75969,
-      "name": "Fire and Light",
-      "url": "https://open.spotify.com/track/1d6BkMki9M6K0yp9OLBzOM"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Ronda",
         "url": "https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 346586,
       "name": "Ronda",
       "url": "https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Karma & Desire",
+        "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 75969,
+      "name": "Fire and Light",
+      "url": "https://open.spotify.com/track/1d6BkMki9M6K0yp9OLBzOM"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "North Pole",
-        "url": "https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo"
-      },
-      "artists": [
-        {
-          "name": "WYS",
-          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Look At The Stars",
         "url": "https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 216315,
       "name": "Look At The Stars",
       "url": "https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "North Pole",
+        "url": "https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Var\u00f0a",
-        "url": "https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH"
-      },
-      "artists": [
-        {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Atlav\u00edk",
-      "url": "https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "With Resolve",
         "url": "https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 129761,
       "name": "With Resolve",
       "url": "https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Var\u00f0a",
+        "url": "https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Atlav\u00edk",
+      "url": "https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Starlight Passage",
         "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
       },
@@ -631,6 +615,38 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
+      },
+      "artists": [
+        {
+          "name": "Cake House",
+          "url": "https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB"
+        }
+      ],
+      "duration_ms": 147307,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 277559,
       "name": "L",
       "url": "https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Piety of Ashes",
-        "url": "https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf"
-      },
-      "artists": [
-        {
-          "name": "The Flashbulb",
-          "url": "https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH"
-        }
-      ],
-      "duration_ms": 130720,
-      "name": "Precipice",
-      "url": "https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Loosen Up",
-        "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
-      },
-      "artists": [
-        {
-          "name": "Cake House",
-          "url": "https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB"
-        }
-      ],
-      "duration_ms": 147307,
-      "name": "Loosen Up",
-      "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "everpresent",
         "url": "https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 155624,
       "name": "everpresent",
       "url": "https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Piety of Ashes",
+        "url": "https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf"
+      },
+      "artists": [
+        {
+          "name": "The Flashbulb",
+          "url": "https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH"
+        }
+      ],
+      "duration_ms": 130720,
+      "name": "Precipice",
+      "url": "https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "missing piece",
-        "url": "https://open.spotify.com/album/0TTD6fjBDNQ5r3w5l8lalj"
-      },
-      "artists": [
-        {
-          "name": "Slowheal",
-          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Coral Reef",
-      "url": "https://open.spotify.com/track/3ElDX6t2ayq83erLIjy3fx"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Dawning",
         "url": "https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 138574,
       "name": "Red Gold Yesterday",
       "url": "https://open.spotify.com/track/5q4HX5dFrepBt1T4Kjuw6p"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "missing piece",
+        "url": "https://open.spotify.com/album/0TTD6fjBDNQ5r3w5l8lalj"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Coral Reef",
+      "url": "https://open.spotify.com/track/3ElDX6t2ayq83erLIjy3fx"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 148546,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Piano Studies",
         "url": "https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 105856,
       "name": "Approaching Dusk",
       "url": "https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 148546,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Owls and Pinecones",
-        "url": "https://open.spotify.com/album/04TS42w8CD2eLXL734HHsW"
-      },
-      "artists": [
-        {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        }
-      ],
-      "duration_ms": 137764,
-      "name": "Alone in the World",
-      "url": "https://open.spotify.com/track/5GrVyPPaSy9OksTkFOpdns"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 343400,
       "name": "Parallel 7",
       "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Owls and Pinecones",
+        "url": "https://open.spotify.com/album/04TS42w8CD2eLXL734HHsW"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "duration_ms": 137764,
+      "name": "Alone in the World",
+      "url": "https://open.spotify.com/track/5GrVyPPaSy9OksTkFOpdns"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "Moiety",
+        "url": "https://open.spotify.com/album/6jeWLcfk7qZoreG79zMf7g"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 287520,
+      "name": "Nothing It Can",
+      "url": "https://open.spotify.com/track/3OiltpO4AcqtXGUpfcYho2"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "Arkade Destinations Tulum",
         "url": "https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 357383,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/1gkGreJ6lZAk1fJRwlsinY"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Moiety",
-        "url": "https://open.spotify.com/album/6jeWLcfk7qZoreG79zMf7g"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 287520,
-      "name": "Nothing It Can",
-      "url": "https://open.spotify.com/track/3OiltpO4AcqtXGUpfcYho2"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd"
-      },
-      "artists": [
-        {
-          "name": "SamuW",
-          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "By the Deep Sea",
         "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 241114,
       "name": "Mauer Blues",
       "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "Finding Hope",
+        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
+      },
+      "artists": [
+        {
+          "name": "Haakon Stange",
+          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Finding Hope",
+      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "The Beauty Around Us",
         "url": "https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Finding Hope",
-        "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
+        "name": "Pentagram",
+        "url": "https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO"
       },
       "artists": [
         {
-          "name": "Haakon Stange",
-          "url": "https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx"
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Finding Hope",
-      "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
+      "duration_ms": 172500,
+      "name": "Scene 2",
+      "url": "https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1315,22 +1331,6 @@
       "duration_ms": 252053,
       "name": "Mano",
       "url": "https://open.spotify.com/track/2Z2CLhQwH001Wr1Zea44hu"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Pentagram",
-        "url": "https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO"
-      },
-      "artists": [
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Scene 2",
-      "url": "https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "We Contain Multitudes - from home",
-      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 276960,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Sjangeli",
+        "url": "https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb"
+      },
+      "artists": [
+        {
+          "name": "Luwaks",
+          "url": "https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Stay Near",
+      "url": "https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "We Contain Multitudes - from home",
+      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "O R B I T",
         "url": "https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 153600,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Sjangeli",
-        "url": "https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb"
-      },
-      "artists": [
-        {
-          "name": "Luwaks",
-          "url": "https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Stay Near",
-      "url": "https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF"
     },
     {
       "added_at": "2023-04-10 10:36:11",

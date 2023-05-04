@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Gengahr",
-  "num_followers": 111231,
+  "num_followers": 111225,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTJiZGM4ZTM4YzM3YjQ1NmFjMzhkMmRiMDJhZjM3ODI4OGMxMGRm",
+  "snapshot_id": "MCxkZmMxYjE4NWEwM2E5OWFiNmFiNjNiZWZhMmQyMGFlZWM3NGE4MWM5",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Kool Aid",
-        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "Kool Aid",
-      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Love Will Get You There",
         "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Burn The Empire",
         "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 160346,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Struggle",
-        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 204407,
-      "name": "Struggle - Single Version",
-      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -423,6 +407,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Struggle",
+        "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 204407,
+      "name": "Struggle - Single Version",
+      "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Cramps",
-        "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Cramps",
-      "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Cowboy Nudes",
         "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 170537,
       "name": "Cowboy Nudes",
       "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Cramps",
+        "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Cramps",
+      "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Follow You Down",
-        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 136435,
-      "name": "Follow You Down",
-      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Follow You Down",
+        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 136435,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
-      },
-      "artists": [
-        {
-          "name": "Somebody's Child",
-          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Give It Up To Love",
-      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 231600,
       "name": "SCARING ME",
       "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Somebody's Child",
+        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Give It Up To Love",
+      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Fading Like A Picture",
-        "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Fading Like A Picture",
-      "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Head of the Love Club",
         "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 182719,
       "name": "What You Did",
       "url": "https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Fading Like A Picture",
+        "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Fading Like A Picture",
+      "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "tainted in our memories",
-        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
       },
       "artists": [
         {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
         }
       ],
-      "duration_ms": 160089,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
+      "duration_ms": 178212,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
+        "name": "tainted in our memories",
+        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
       },
       "artists": [
         {
-          "name": "Sports Team",
-          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
         }
       ],
-      "duration_ms": 178212,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
+      "duration_ms": 160089,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Risk to my Reward",
-        "url": "https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw"
-      },
-      "artists": [
-        {
-          "name": "Tycho Jones",
-          "url": "https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm"
-        }
-      ],
-      "duration_ms": 171415,
-      "name": "Risk to my Reward",
-      "url": "https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
       },
@@ -1211,18 +1195,34 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Whenever You Want",
-        "url": "https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25"
+        "name": "Risk to my Reward",
+        "url": "https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw"
       },
       "artists": [
         {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+          "name": "Tycho Jones",
+          "url": "https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm"
         }
       ],
-      "duration_ms": 239771,
-      "name": "Whenever You Want",
-      "url": "https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC"
+      "duration_ms": 171415,
+      "name": "Risk to my Reward",
+      "url": "https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Thick of the Honey",
+      "url": "https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
+        "name": "Whenever You Want",
+        "url": "https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Thick of the Honey",
-      "url": "https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx"
+      "duration_ms": 239771,
+      "name": "Whenever You Want",
+      "url": "https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "I Shimmer",
-        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
+        "name": "Veronica",
+        "url": "https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA"
       },
       "artists": [
         {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
         }
       ],
-      "duration_ms": 265278,
-      "name": "I Shimmer",
-      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
+      "duration_ms": 135172,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ"
     },
     {
       "added_at": "2023-04-13 23:00:00",

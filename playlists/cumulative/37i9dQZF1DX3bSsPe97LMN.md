@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Franco Rey en portada.
 
-289 songs - 15 hr 5 min
+290 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [También Me Llamo Ismael](https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [También Me Llamo Ismael](https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq) | 3:06 | 2022-12-05 |  |
 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 | 2021-12-27 | 2022-09-24 |
 | [Te Quise Olvidar](https://open.spotify.com/track/0jdSKCIcsJuIVeg39EevgT) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Te Quise Olvidar](https://open.spotify.com/album/01Jm1oH8OrOMtMQOI6UfUg) | 3:40 | 2022-05-13 | 2022-10-15 |
+| [Terapia](https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Terapia](https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN) | 2:42 | 2023-04-28 |  |
 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 | 2022-09-23 | 2022-12-10 |
 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 | 2021-12-27 | 2022-09-24 |
 | [Tiempos de Guerra 2](https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Tiempos de Guerra 2](https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa) | 2:51 | 2022-11-11 | 2023-02-25 |
@@ -279,7 +280,7 @@
 | [Una Linda Canción](https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Una Linda Canción](https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw) | 4:28 | 2022-09-30 | 2022-12-10 |
 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 | 2022-06-07 | 2022-09-03 |
 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 | 2022-11-18 | 2022-12-24 |
-| [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 | 2022-12-09 |  |
+| [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 | 2022-12-09 | 2023-05-04 |
 | [Veneno Verde](https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN), [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Veneno Verde](https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi) | 2:35 | 2022-07-08 | 2022-11-19 |
 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 | 2022-09-30 | 2022-12-10 |
 | [Volví a Creer](https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Volví a Creer](https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC) | 3:10 | 2022-09-30 | 2022-11-19 |

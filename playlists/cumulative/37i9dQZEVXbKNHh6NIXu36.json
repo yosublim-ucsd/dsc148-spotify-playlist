@@ -3063,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Spirit of Ecstasy",
+        "url": "https://open.spotify.com/album/2OxDtY76FyJLVM7UkmeXb2"
+      },
+      "artists": [
+        {
+          "name": "ART",
+          "url": "https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104613,
+      "name": "Belgisches Viertel",
+      "url": "https://open.spotify.com/track/45FaCrE0gyUT9QC0xc4fEx"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -5740,7 +5758,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 126879,
       "name": "Da li si me",
       "url": "https://open.spotify.com/track/3rkDyeXleIal9wnXPOlfhq"
@@ -10008,7 +10026,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -18772,7 +18790,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 138352,
       "name": "OFFLINE",
       "url": "https://open.spotify.com/track/1DLVP4YYfmSey1gBcELyJg"
@@ -18944,7 +18962,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 188503,
       "name": "Ohne mein Team",
       "url": "https://open.spotify.com/track/05Mp2UJulSttxQ4E6hQPH3"
@@ -26984,7 +27002,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 138207,
       "name": "Was mir gef\u00e4llt",
       "url": "https://open.spotify.com/track/6WnIsfCuNqrlngROXGVe1W"

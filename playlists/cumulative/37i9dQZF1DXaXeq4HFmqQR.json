@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Mujeres que la rompen feat. AKRIILA. \nDales play, dales power.",
+  "description": "Mujeres que la rompen feat. Catana. \nDales play, dales power.",
   "name": "EQUAL Chile",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 181855,
       "name": "Agarra",
       "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 135325,
       "name": "Amor De Metro",
       "url": "https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 191060,
       "name": "A\u00fan Me Queda Fe",
       "url": "https://open.spotify.com/track/2nCMRkfn5uJTvxD9k9SXoN"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 181013,
       "name": "COPACABANA",
       "url": "https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K"
@@ -4535,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "KTM",
+        "url": "https://open.spotify.com/album/1K4MCwzabYrHKStunPKVmR"
+      },
+      "artists": [
+        {
+          "name": "VaniaJoplin",
+          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "KTM",
+      "url": "https://open.spotify.com/track/3rA2LeNavJ9MyyG1SFhwcD"
+    },
+    {
+      "album": {
         "name": "KONEJO DI PLATA",
         "url": "https://open.spotify.com/album/7pya0vD47R76K51BNNg572"
       },
@@ -5572,7 +5590,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 174826,
       "name": "MAL NECESARIO",
       "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
@@ -5760,7 +5778,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 162352,
       "name": "Maquiav\u00e9lica",
       "url": "https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr"
@@ -6243,6 +6261,28 @@
     },
     {
       "album": {
+        "name": "\u00c0 plus",
+        "url": "https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn"
+      },
+      "artists": [
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        },
+        {
+          "name": "Suff Daddy",
+          "url": "https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164014,
+      "name": "Mi reflejo",
+      "url": "https://open.spotify.com/track/0aKxUr62167aWLAID5Qajt"
+    },
+    {
+      "album": {
         "name": "Miedo",
         "url": "https://open.spotify.com/album/7sTmkgNE2XTQmyuTalJLKj"
       },
@@ -6711,6 +6751,28 @@
     },
     {
       "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201724,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
+    },
+    {
+      "album": {
         "name": "Ngen",
         "url": "https://open.spotify.com/album/7Hn97v4Hrtx9STRHNI7vO4"
       },
@@ -6792,6 +6854,28 @@
       "duration_ms": 173508,
       "name": "No Estamos Solas (Tema Central de la Serie \"La Jaur\u00eda\") - Tema Central de la Serie \"La Jaur\u00eda\"",
       "url": "https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5"
+    },
+    {
+      "album": {
+        "name": "No Le Bajes",
+        "url": "https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT"
+      },
+      "artists": [
+        {
+          "name": "Zita Zoe",
+          "url": "https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk"
+        },
+        {
+          "name": "Cjupiter",
+          "url": "https://open.spotify.com/artist/3tSPx7EgteNsCF9RiGF8RN"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "No Le Bajes",
+      "url": "https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8"
     },
     {
       "album": {
@@ -9862,7 +9946,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 151967,
       "name": "Teteo",
       "url": "https://open.spotify.com/track/6j2a0uszU96dBMLt3DAPtC"
@@ -10592,7 +10676,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 200988,
       "name": "Unu",
       "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"

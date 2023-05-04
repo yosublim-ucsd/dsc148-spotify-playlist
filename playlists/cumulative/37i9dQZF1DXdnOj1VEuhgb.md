@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Güneş
 
-113 songs - 4 hr 58 min
+114 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2023-01-10 | 2023-04-04 |
 | [GHETTOMAN](https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [GHETTOMAN](https://open.spotify.com/album/0LZhkLhHJIPopDt0NjEF2M) | 2:28 | 2023-03-02 | 2023-03-25 |
 | [Gitme Bebé](https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Gitme Bebé](https://open.spotify.com/album/7pqk9NL58kPzkX1tayqO4G) | 2:36 | 2023-01-10 | 2023-02-03 |
+| [GİDERSİN ARAYA](https://open.spotify.com/track/65h8gl5wiNOBjlvQxzlj1i) | [RECO](https://open.spotify.com/artist/6W9GklXF52RYMTtbPbty7q), [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [GİDERSİN ARAYA](https://open.spotify.com/album/04q9UBSKiCg2WOsf9AGHLb) | 2:30 | 2023-05-03 |  |
 | [GLOCK](https://open.spotify.com/track/29snI08I9CoJuHhSFI682u) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [CELONAPS](https://open.spotify.com/album/0jIpyQRQ0SPecKpKajBqoO) | 2:49 | 2023-03-23 | 2023-04-07 |
 | [GNG Freestyle 1](https://open.spotify.com/track/1aJ2WHWbmCagZRRwKKviqB) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Vidos](https://open.spotify.com/album/6lsgFRN7VR38dZasW5p7To) | 2:12 | 2023-04-06 | 2023-04-28 |
 | [gözlerindeki ay](https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [gözlerindeki ay](https://open.spotify.com/album/3TMj9dY2lRO6TriDsDQWr6) | 3:09 | 2023-03-02 | 2023-03-14 |
@@ -103,7 +104,7 @@
 | [TALIBANA](https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX) | 2:38 | 2023-04-03 |  |
 | [Tarihin En İyisi](https://open.spotify.com/track/3mgF1mUM8j1VmKVwjhnxGk) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [Tarihin En İyisi](https://open.spotify.com/album/42N04xSRE7G3BSxJ5IRbMY) | 2:29 | 2023-03-30 | 2023-04-14 |
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2023-01-10 | 2023-02-17 |
-| [TUZAK](https://open.spotify.com/track/4gGbpg8ReIJLP76IFyTLgs) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [TUZAK](https://open.spotify.com/album/17wcTygeAOQwBEIkGItzAX) | 3:16 | 2023-04-20 |  |
+| [TUZAK](https://open.spotify.com/track/4gGbpg8ReIJLP76IFyTLgs) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [TUZAK](https://open.spotify.com/album/17wcTygeAOQwBEIkGItzAX) | 3:16 | 2023-04-20 | 2023-05-04 |
 | [Tuzak](https://open.spotify.com/track/1FMJcAZRu3XbsFC72nZ22w) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [Tuzak](https://open.spotify.com/album/71SVOWI7ILlkWdTBZ3ah23) | 2:05 | 2023-01-10 | 2023-01-13 |
 | [UNUTTUM](https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:36 | 2023-01-10 |  |
 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 | 2023-03-09 | 2023-04-28 |

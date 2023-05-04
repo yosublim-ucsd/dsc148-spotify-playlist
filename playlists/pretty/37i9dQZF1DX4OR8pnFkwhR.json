@@ -1,12 +1,12 @@
 {
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc\n",
-  "num_followers": 58323,
+  "num_followers": 58328,
   "original_name": "RADAR: Early Noise ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWEwOTgzYTNiZjE2MDk5ZjFlYTRkYmY2ODczYmQ5YjQyZTZjMmVl",
+  "snapshot_id": "MCwxODNlZmM1NDI4ZjRiZGFjODlkYTc3ZDU4ODM3N2I0NzlhOWUxMjQ0",
   "tracks": [
     {
       "added_at": "2023-05-02 15:00:00",
@@ -748,21 +748,21 @@
       "added_at": "2023-05-02 15:00:00",
       "album": {
         "name": "\u30d3\u30c3\u30b0\u30d0\u30f3\u306b\u4e57\u3063\u3066",
-        "url": "https://open.spotify.com/album/7KtbWQhDVgGFCxz8PbXMB2"
+        "url": "https://open.spotify.com/album/01eif4G6bvCYmcaNs08zAt"
       },
       "artists": [
         {
-          "name": "\u30b7\u30f3\u30c0\u30b5\u30ab\u30ca\u30ce\u30e1",
-          "url": "https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh"
-        },
-        {
           "name": "\u30d7\u30e9\u30f3\u30d7\u30e9\u30e0",
           "url": "https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB"
+        },
+        {
+          "name": "\u30b7\u30f3\u30c0\u30b5\u30ab\u30ca\u30ce\u30e1",
+          "url": "https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh"
         }
       ],
       "duration_ms": 317333,
       "name": "\u30d3\u30c3\u30b0\u30d0\u30f3\u306b\u4e57\u3063\u3066",
-      "url": "https://open.spotify.com/track/0UkTnIfrjY0Co11UHXc6Ad"
+      "url": "https://open.spotify.com/track/7fecqwLRNuN2YzPXNnoQrV"
     },
     {
       "added_at": "2023-05-02 15:00:00",

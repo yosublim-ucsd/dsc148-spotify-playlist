@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 116319,
+  "num_followers": 116375,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTM4NTcxYjEyNDU3ZjM0OTBiYTg0MWQ2YzRmMjI0ODRhMTRmNDYw",
+  "snapshot_id": "MCw5NWZhZjllMTZkMzJjOWI0MjVmMjI3NzYyZWIyMmQ0NzNkODAyYjZl",
   "tracks": [
     {
       "added_at": "2023-04-28 19:12:13",
@@ -279,26 +279,6 @@
     {
       "added_at": "2023-04-28 19:12:13",
       "album": {
-        "name": "Santificado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vasques",
-          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
-        },
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
-        }
-      ],
-      "duration_ms": 562285,
-      "name": "Que o Cordeiro Receba - Ao Vivo",
-      "url": "https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75"
-    },
-    {
-      "added_at": "2023-04-28 19:12:13",
-      "album": {
         "name": "Me Fez Vivo (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 241088,
       "name": "Me Fez Vivo (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
+    },
+    {
+      "added_at": "2023-04-28 19:12:13",
+      "album": {
+        "name": "Santificado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vasques",
+          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
+        },
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+        }
+      ],
+      "duration_ms": 562285,
+      "name": "Que o Cordeiro Receba - Ao Vivo",
+      "url": "https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75"
     },
     {
       "added_at": "2023-04-28 19:12:13",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-04-28 19:12:13",
       "album": {
-        "name": "Salazar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 380250,
-      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
-    },
-    {
-      "added_at": "2023-04-28 19:12:13",
-      "album": {
         "name": "Luz (Ao Vivo)",
         "url": "https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 220128,
       "name": "Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i"
+    },
+    {
+      "added_at": "2023-04-28 19:12:13",
+      "album": {
+        "name": "Salazar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 380250,
+      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
     },
     {
       "added_at": "2023-04-28 19:12:13",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-28 19:12:13",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
-    },
-    {
-      "added_at": "2023-04-28 19:12:13",
-      "album": {
         "name": "Profundo",
         "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
+    },
+    {
+      "added_at": "2023-04-28 19:12:13",
+      "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2023-04-28 19:12:13",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-04-28 19:12:13",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
-    },
-    {
-      "added_at": "2023-04-28 19:12:13",
-      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 240805,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
+    },
+    {
+      "added_at": "2023-04-28 19:12:13",
+      "album": {
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-04-28 19:12:13",

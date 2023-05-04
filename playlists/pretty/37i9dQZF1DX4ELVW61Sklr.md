@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,620 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,616 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 32 | [Litmas](https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Litmas](https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR) | 3:08 |
 | 33 | [Merry Like This](https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Merry Like This](https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c) | 3:00 |
 | 34 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 |
-| 35 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf) | 2:54 |
+| 35 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 |
 | 36 | [Let It Snow \(with dvsn\)](https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382) | 4:19 |
 | 37 | [Have Yourself A Merry Little Christmas \(feat\. Sheléa\)](https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG) | [Christmas with PJ Morton \(Deluxe Edition\)](https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo) | 3:23 |
-| 38 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 |
+| 38 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf) | 2:54 |
 | 39 | [Just Ain't Christmas](https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Another Kind Of Christmas](https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe) | 3:22 |
 | 40 | [Deck the Halls / Silent Night](https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:29 |
 | 41 | [What Christmas Means to Me \- from "The Best Man Holiday Original Motion Picture Soundtrack"](https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 2:24 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 56 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
 | 57 | [The First Noel \(feat\. Cory Henry\) \- Spotify Holiday Single](https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The First Noel \(feat\. Cory Henry\)](https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd) | 3:10 |
 | 58 | [Favorite Time of Year](https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Christmas in Baltimore](https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r) | 3:36 |
-| 59 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
-| 60 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 |
+| 59 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 |
+| 60 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
 | 61 | [The First Noel](https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke) | 4:24 |
 | 62 | [Winter Wonderland](https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 3:13 |
 | 63 | [Let It Snow](https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Christmas Soul 2020](https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Deck the Halls](https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Your Favorite Christmas Songs](https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2) | 2:40 |
 | 75 | [Silver Bells](https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:56 |
 
-Snapshot ID: `MCw2M2IzYzIzNWY0YWJhMDQ3NjA1M2I2NjAzZmE1MzhkNDI0YjQwMzdi`
+Snapshot ID: `MCw0OTJiOTJkYWZlZmVhM2JhZGE1MzE2ZGRjMDI0M2VjMzRkOGVmNDE0`

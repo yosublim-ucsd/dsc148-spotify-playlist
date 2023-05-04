@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,922 likes - 75 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,983 likes - 75 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 33 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 |
 | 34 | [Provenance](https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Provenance](https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk) | 6:41 |
 | 35 | [Slim Shady](https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Slim Shady](https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN) | 2:56 |
-| 36 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 |
-| 37 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 |
-| 38 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
+| 36 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 |
+| 37 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
+| 38 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 |
 | 39 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
 | 40 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 |
 | 41 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 49 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
 | 50 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 |
 | 51 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 |
-| 52 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 |
-| 53 | [Memories](https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Memories](https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO) | 7:17 |
-| 54 | [Eso](https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Eso](https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE) | 3:46 |
-| 55 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 |
+| 52 | [Memories](https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Memories](https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO) | 7:17 |
+| 53 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 |
+| 54 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 |
+| 55 | [Eso](https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Eso](https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE) | 3:46 |
 | 56 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 |
 | 57 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 |
 | 58 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 66 | [The Smoke](https://open.spotify.com/track/4i4eLhWPTCFoX0TnKqZvqa) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx) | [The Smoke](https://open.spotify.com/album/3Ujm77CyBTFg3fyKm3fTt3) | 3:10 |
 | 67 | [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 |
 | 68 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
-| 69 | [Shoot the Shot](https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Shoot the Shot](https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT) | 5:59 |
-| 70 | [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 |
-| 71 | [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 |
-| 72 | [The Joint](https://open.spotify.com/track/4ARzhxqybRXS2VUzBNmCrS) | [Cla$$ & JCult](https://open.spotify.com/artist/1lDbjaD50tkeLZnqAMtU1i), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [The Joint](https://open.spotify.com/album/2M1mgjq4GL4imAn0PdQAme) | 3:04 |
-| 73 | [No Me Impolta](https://open.spotify.com/track/5vG4pTCchrIsTlKAsjHuL4) | [Mene](https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8), [ACA \(YU\)](https://open.spotify.com/artist/2sBmYkeeOmp0pIU3M4fMfH) | [No Me Impolta](https://open.spotify.com/album/1X9E0MIGqDHoAPpNYRouPd) | 5:58 |
-| 74 | [Bear](https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s) | [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Bear](https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz) | 5:11 |
+| 69 | [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 |
+| 70 | [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 |
+| 71 | [Shoot the Shot](https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Shoot the Shot](https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT) | 5:59 |
+| 72 | [Bear](https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s) | [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Bear](https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz) | 5:11 |
+| 73 | [The Joint](https://open.spotify.com/track/4ARzhxqybRXS2VUzBNmCrS) | [Cla$$ & JCult](https://open.spotify.com/artist/1lDbjaD50tkeLZnqAMtU1i), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [The Joint](https://open.spotify.com/album/2M1mgjq4GL4imAn0PdQAme) | 3:04 |
+| 74 | [No Me Impolta](https://open.spotify.com/track/5vG4pTCchrIsTlKAsjHuL4) | [Mene](https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8), [ACA \(YU\)](https://open.spotify.com/artist/2sBmYkeeOmp0pIU3M4fMfH) | [No Me Impolta](https://open.spotify.com/album/1X9E0MIGqDHoAPpNYRouPd) | 5:58 |
 | 75 | [Ramona](https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 7:03 |
 
-Snapshot ID: `MCwwZmRkMDI0OTI0ZTE0ZTQ4MjMzYmYwODQzMThhN2ZiYjI4NzQxNDhl`
+Snapshot ID: `MCxjZmRhOGU2YjdlZTEzZWJmNzgzM2Y5NzZmMTI4ZmY3NzAzNDQzZDFk`

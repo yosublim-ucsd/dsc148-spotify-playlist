@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Miguel, Jack Harlow, Shania Twain, and Valley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,862 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,863 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Dodem](https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bekka Ma'iingan](https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD) | 5:18 |
 | 100 | [Selfish](https://open.spotify.com/track/7IS25VAQf7gVKBFqqSlOYW) | [Zoe Sky Jordan](https://open.spotify.com/artist/2eA4glPCdlED6WRJreG0aS) | [Selfish](https://open.spotify.com/album/6klbUhqZOmHCPhBxP9rqdI) | 4:12 |
 
-Snapshot ID: `MCw3NGIzYTY3OTFkN2JiNzk4YzFlNDhiN2U0NWNmMjQ0NDMwYTQzNTRh`
+Snapshot ID: `MCw3ODA1N2M1YzUwNTk5YmJhMjE4YWM2YWVhYWYwZTkwODIyMTViZjU2`

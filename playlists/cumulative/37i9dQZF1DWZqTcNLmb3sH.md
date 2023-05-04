@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-653 songs - 1 day 16 hr 32 min
+654 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,8 @@
 | [Oo Anthiya Oo Oo Anthiya](https://open.spotify.com/track/7gyjWnQvEPgXSOz3mkn5TA) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Pushpa \- The Rise](https://open.spotify.com/album/4Hjx8fjm8QB0UcXtN5wVaA) | 3:43 | 2021-12-10 | 2022-06-15 |
 | [Oora Habba \(From "19.20.21"\)](https://open.spotify.com/track/2Y3vnCx8NinMkOJR8nHwtb) | [Bindhumalini](https://open.spotify.com/artist/0PSChrfgkjas0HCm3Fnmpr), [M\. D\. Pallavi](https://open.spotify.com/artist/3mI7urLkw51OePq82ZYicz), [Shrunga B.V](https://open.spotify.com/artist/1LXIa7Sik2E8ksM4YeHBdh), [Uma Yg](https://open.spotify.com/artist/56vsLbYuTeIixaEO7Dwd5P), [Mohan Kumar](https://open.spotify.com/artist/2EoMh0rTcJqcrlrQAMgsKC) | [Oora Habba \(From "19.20.21"\)](https://open.spotify.com/album/52Da8c5Q8k2qe9AAACFaRB) | 3:12 | 2023-02-28 | 2023-03-25 |
 | [Oorigobba Raaja](https://open.spotify.com/track/1wbFDTmeDnAisviEoxLTOw) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Puneeth Rajkumar](https://open.spotify.com/artist/45VcCRQRa6cyT9xkwvL6Uk), [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Yuvarathnaa \(Kannada\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uOjHHP5J7TfBAi3bHdHxQ) | 3:39 | 2021-12-06 | 2022-05-19 |
-| [Orr Vaari \(From "Dasara"\)](https://open.spotify.com/track/0ZwdlveEv5eyWlGW5aiG19) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Orr Vaari \(From "Dasara"\) \- Single](https://open.spotify.com/album/1WghIUiak89HN6PLTKQ55W) | 3:43 | 2023-02-15 |  |
+| [Orr Vaari](https://open.spotify.com/track/6mXiWON7Ko2ozI2oFiD1iA) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Dasara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5uYOuJ1s0YW8gX8ywilGuW) | 3:43 | 2023-02-15 |  |
+| [Orr Vaari \(From "Dasara"\)](https://open.spotify.com/track/0ZwdlveEv5eyWlGW5aiG19) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Orr Vaari \(From "Dasara"\) \- Single](https://open.spotify.com/album/1WghIUiak89HN6PLTKQ55W) | 3:43 | 2023-02-15 | 2023-05-04 |
 | [Paapa Paapa Aasaami](https://open.spotify.com/track/50tQfqjlnML3h6YvKz2b7E) | [Ravindra Soragavi](https://open.spotify.com/artist/5Vw12AHNNQ8o4yZ4PzDKat) | [MRP](https://open.spotify.com/album/0PRJllq8IuUZhXgyDphXBP) | 4:15 | 2022-10-12 | 2022-11-15 |
 | [Paatashaala](https://open.spotify.com/track/0PVm3fYGbyxh9qNB87pDvF) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Yuvarathnaa \(Kannada\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uOjHHP5J7TfBAi3bHdHxQ) | 5:21 | 2021-12-06 | 2022-06-15 |
 | [Party Freak](https://open.spotify.com/track/1sAiw411pa8rVZv7ZTwbh4) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Party Freak](https://open.spotify.com/album/1jwAwJN0OMmzcNPThfzsAX) | 4:00 | 2021-12-06 | 2022-02-03 |

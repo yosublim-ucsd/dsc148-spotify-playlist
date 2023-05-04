@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODczYzk1MzM4OTQ0MTMwN2Y5ZjY2Njk5OWY1MDczM2VhMmNjMzAy",
+  "snapshot_id": "MCw1MzExMmQxZGRkMzkzNzgwMjA0MjlkYzQ4MWVhMTA5NTc2NjcyNjQ3",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -715,6 +715,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "King of the Beach",
+        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "King of the Beach",
+      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Broken Boy (feat. Iggy Pop)",
         "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 163207,
       "name": "Broken Boy (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "King of the Beach",
-        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
-      },
-      "artists": [
-        {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "King of the Beach",
-      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
     },
     {
       "added_at": "2021-04-09 06:19:31",

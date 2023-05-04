@@ -2,7 +2,7 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Joey Hyde
+> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Jordyn Shellhart
 
 232 songs - 13 hr 28 min
 

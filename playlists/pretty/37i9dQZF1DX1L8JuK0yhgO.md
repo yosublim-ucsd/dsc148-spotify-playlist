@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,904 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,906 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [TARINAI](https://open.spotify.com/track/5BtdZaCrxDgLVVSKRok7ij) | [TAHITI](https://open.spotify.com/artist/18hBb9LiOSU4mstErGGIfM), [levi](https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [TARINAI](https://open.spotify.com/album/4VsGXYBBRQu1bLlIHvdgi7) | 3:07 |
 | 70 | [ZETSUBOFANCLUB](https://open.spotify.com/track/65LAILhfSsViGiVk1ooOA3) | [tomodati](https://open.spotify.com/artist/2jUHyOTAww2DwD3RDGwjzd), [カナミル](https://open.spotify.com/artist/2TkoUB9XYJnq0CBv8I4vVu) | [ZETSUBOFANCLUB](https://open.spotify.com/album/5sXEK8grio7Jkw5xXVdnfT) | 4:42 |
 
-Snapshot ID: `MCxkNDc1Y2FkNWM3NzZhYjU2NmMxNjMzMjhjNmQ0YTM4ZmZkMGI3YmQz`
+Snapshot ID: `MCw0NGNlN2ZkMDY4OWM4NjMzYmQ5OWI5N2I2YTlmYTk0YjRmZmYwYWUy`

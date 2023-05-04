@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,037 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,081 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 15 | [Idas e Vindas](https://open.spotify.com/track/37I2kAE7QRxd9WCax1Z9dE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3), [Tasdan](https://open.spotify.com/artist/65qqCVZrZgynhVrsFka5HM), [Meucci](https://open.spotify.com/artist/4RNxtZ5OVhG07g8uySfl1c), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [Idas e Vindas](https://open.spotify.com/album/3zN35UYe30M8hMpeWWn4y6) | 3:58 |
 | 16 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 |
 | 17 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 |
-| 18 | [SSA](https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [ajcookin](https://open.spotify.com/artist/3dPBvWJ7dL5kKn74P2ys0F) | [SSA](https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd) | 3:41 |
-| 19 | [Sou Fã](https://open.spotify.com/track/4cCXyCUPg9FFidRr4lWJFl) | [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Sou Fã](https://open.spotify.com/album/7xFfnMWxvM5VwUxF0Nk1p7) | 3:44 |
+| 18 | [Sou Fã](https://open.spotify.com/track/4cCXyCUPg9FFidRr4lWJFl) | [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Sou Fã](https://open.spotify.com/album/7xFfnMWxvM5VwUxF0Nk1p7) | 3:44 |
+| 19 | [SSA](https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [ajcookin](https://open.spotify.com/artist/3dPBvWJ7dL5kKn74P2ys0F) | [SSA](https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd) | 3:41 |
 | 20 | [Só Você](https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU) | [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Só Você](https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X) | 2:13 |
 | 21 | [Muleke Solto](https://open.spotify.com/track/3EFw2JSxIfdY0GYSNyI1rV) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Muleke Solto](https://open.spotify.com/album/0wUdBWgnakhUYaS8vCrdSy) | 3:30 |
 | 22 | [Pra Praia](https://open.spotify.com/track/4B9Pt2eg0FBbSWjCCak0wK) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/4jJxKxxUVHzqGmhTKiCE4U) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [27 Dias](https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6) | [Douriel](https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF), [Dracko](https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [27 Dias](https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX) | 2:19 |
 | 75 | [Voe](https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs) | 2:32 |
 
-Snapshot ID: `MCxmZjFkMDA4MTRiNTA4MmZkZDk0ZjQxODY3ZGRkYjBjODdlZDQ2YWFj`
+Snapshot ID: `MCw1ZTQ1MWRiMTc0MTZlMjY5MDZmNDIzYmVjZWFlNjExYmJjMjMwMmFi`

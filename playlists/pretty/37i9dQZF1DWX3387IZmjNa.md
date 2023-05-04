@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Karri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,984,497 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,984,874 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
-| 2 | [When You Bad Like That \(feat\. Future\)](https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 3:10 |
-| 3 | [3AM in Oakland](https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [3AM in Oakland](https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2) | 3:26 |
+| 1 | [3AM in Oakland](https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [3AM in Oakland](https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2) | 3:26 |
+| 2 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
+| 3 | [When You Bad Like That \(feat\. Future\)](https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 3:10 |
 | 4 | [HO4ME](https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [HO4ME](https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0) | 3:55 |
 | 5 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
 | 6 | [No Enhancers](https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 49 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
 | 50 | [Writing My Wrongs](https://open.spotify.com/track/1yXCWJQfYF8ff7XcUzwcCy) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death \(Deluxe\)](https://open.spotify.com/album/4iGNig0GVOAe6wsQXEJVfl) | 2:35 |
 
-Snapshot ID: `MCw5ZWY4ZmMyMjYxZTQ1NmM2OTVlMzA5MmRhYWY0ODU2OTNlNDMwYmYy`
+Snapshot ID: `MCwzYjQ0OThhMGMxOTUzOGE4YTI2Y2Y2MTczNzQxYjJiMjE1YzcwOTg4`

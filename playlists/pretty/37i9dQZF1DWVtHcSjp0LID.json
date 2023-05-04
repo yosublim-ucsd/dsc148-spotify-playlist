@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 55753,
+  "num_followers": 55812,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzk1NTQwYmE1YjA1M2MzYmM2NzU2MzcxN2NlZTk1NWFhOTYxNzgz",
+  "snapshot_id": "MCw1OGE3ZWZkZjdkZTFlMDI1ZDQ5OGFiYjRjOGJmODE2MjlhN2M5NzU5",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Science Is Science",
+        "url": "https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7"
+      },
+      "artists": [
+        {
+          "name": "Jesse Bru",
+          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
+        }
+      ],
+      "duration_ms": 423445,
+      "name": "Bassment Dweller - Original Mix",
+      "url": "https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "A Magic World (Remixes)",
         "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 365971,
       "name": "Letters - NTO Remix",
       "url": "https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Science Is Science",
-        "url": "https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7"
-      },
-      "artists": [
-        {
-          "name": "Jesse Bru",
-          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
-        }
-      ],
-      "duration_ms": 423445,
-      "name": "Bassment Dweller - Original Mix",
-      "url": "https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Ring EP",
-        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
-      },
-      "artists": [
-        {
-          "name": "Lucci Minati",
-          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
-        }
-      ],
-      "duration_ms": 391680,
-      "name": "Take Your Place",
-      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Caturne V - EP",
         "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 252959,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Ring EP",
+        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
+      },
+      "artists": [
+        {
+          "name": "Lucci Minati",
+          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
+        }
+      ],
+      "duration_ms": 391680,
+      "name": "Take Your Place",
+      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Foans",
-        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
-      },
-      "artists": [
-        {
-          "name": "Foans",
-          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
-        }
-      ],
-      "duration_ms": 276115,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Moons",
         "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
       },
@@ -839,6 +823,42 @@
       "duration_ms": 217411,
       "name": "Moons",
       "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Dance Machine",
+        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+        }
+      ],
+      "duration_ms": 340100,
+      "name": "Dance Machine - Original Mix",
+      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Foans",
+        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
+      },
+      "artists": [
+        {
+          "name": "Foans",
+          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
+        }
+      ],
+      "duration_ms": 276115,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -879,26 +899,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dance Machine",
-        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
-      },
-      "artists": [
-        {
-          "name": "Stereoclip",
-          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
-        },
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
-        }
-      ],
-      "duration_ms": 340100,
-      "name": "Dance Machine - Original Mix",
-      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "When the Rain",
         "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "A Minor Thought",
-        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
-      },
-      "artists": [
-        {
-          "name": "Moomin",
-          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
-        }
-      ],
-      "duration_ms": 372041,
-      "name": "Loop No 1",
-      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Vanilla",
         "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 407317,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "A Minor Thought",
+        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
+      },
+      "artists": [
+        {
+          "name": "Moomin",
+          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
+        }
+      ],
+      "duration_ms": 372041,
+      "name": "Loop No 1",
+      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Vasudeva",
-        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 376720,
-      "name": "Vasudeva",
-      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Kill Frenzy",
         "url": "https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 355540,
       "name": "Lefty's Bar",
       "url": "https://open.spotify.com/track/3zsDzU5rmhseMKqSaJUjKc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Vasudeva",
+        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 376720,
+      "name": "Vasudeva",
+      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Sky Float Sun",
-        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
-      },
-      "artists": [
-        {
-          "name": "Rocket Empire",
-          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
-        },
-        {
-          "name": "Amber Sparks",
-          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
-        }
-      ],
-      "duration_ms": 331203,
-      "name": "Bonder",
-      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Passengers",
         "url": "https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP"
       },
@@ -1159,22 +1139,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Find Myself EP",
-        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
-      },
-      "artists": [
-        {
-          "name": "Danny B",
-          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
-        }
-      ],
-      "duration_ms": 364579,
-      "name": "Raw Charmer",
-      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Aerial",
         "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
       },
@@ -1187,6 +1151,42 @@
       "duration_ms": 369714,
       "name": "As Long as There's Sunset",
       "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Sky Float Sun",
+        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
+      },
+      "artists": [
+        {
+          "name": "Rocket Empire",
+          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
+        },
+        {
+          "name": "Amber Sparks",
+          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
+        }
+      ],
+      "duration_ms": 331203,
+      "name": "Bonder",
+      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Scientific Method, Vol 2",
+        "url": "https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb"
+      },
+      "artists": [
+        {
+          "name": "Professor Kliq",
+          "url": "https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW"
+        }
+      ],
+      "duration_ms": 315733,
+      "name": "Overhead",
+      "url": "https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Scientific Method, Vol 2",
-        "url": "https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb"
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
       },
       "artists": [
         {
-          "name": "Professor Kliq",
-          "url": "https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW"
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
         }
       ],
-      "duration_ms": 315733,
-      "name": "Overhead",
-      "url": "https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb"
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
     },
     {
       "added_at": "2022-07-15 17:34:15",

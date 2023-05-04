@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-474 songs - 1 day 3 hr 32 min
+475 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-02-04 | 2022-10-29 |
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35) | 3:19 | 2021-12-17 | 2022-03-12 |
 | [Colors \(feat\. Eyelar\) \- REAPER Remix](https://open.spotify.com/track/6g17XDgLWaPEIj6vcDQCCA) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Colors \(feat\. Eyelar\) \[Remixes\]](https://open.spotify.com/album/3Lo6HZ20Rn6GdH0X9EZ14M) | 3:11 | 2022-10-14 |  |
+| [Commencement \(feat\. Gracie Van Brunt\)](https://open.spotify.com/track/6rlEjVPAJkvFOG2lPHzxhL) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Commencement \(feat\. Gracie Van Brunt\)](https://open.spotify.com/album/0haPvOsTwtQ0GB329u57d7) | 3:24 | 2023-04-28 |  |
 | [COUNTRY RIDDIM](https://open.spotify.com/track/1dayiIC3odxNLViFQ7Iq4W) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM](https://open.spotify.com/album/5m8PDUPsNjUHjdGcfP4IXc) | 2:57 | 2023-04-28 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-11 | 2022-10-29 |
 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-09 |  |
@@ -209,7 +210,7 @@
 | [Hum](https://open.spotify.com/track/2xUV9DYYeUDJ6qhTvMweUZ) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Hum](https://open.spotify.com/album/2Ada1o4AzW1xxBaYniu6xi) | 2:51 | 2023-03-24 |  |
 | [Hyperdust](https://open.spotify.com/track/1P3o5TUYsIN3Qx7u17iRBN) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [HUMAN](https://open.spotify.com/album/5iXNn0qS3oGyl4jnYW8Y8d) | 2:40 | 2023-03-24 |  |
 | [Hypnocurrency](https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3) | 4:52 | 2021-12-17 | 2022-02-19 |
-| [Hypnotic](https://open.spotify.com/track/2GVscOY1PbZknTX0lNuxni) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Onzeker Kraft Vol.1](https://open.spotify.com/album/5YjyH1QQ20buSHnLJ3xm65) | 3:43 | 2023-03-24 |  |
+| [Hypnotic](https://open.spotify.com/track/2GVscOY1PbZknTX0lNuxni) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Onzeker Kraft Vol.1](https://open.spotify.com/album/5YjyH1QQ20buSHnLJ3xm65) | 3:43 | 2023-03-24 | 2023-05-04 |
 | [I'm Delighted](https://open.spotify.com/track/3N6B80cmfOnaQGG7KWppyb) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [I'm Delighted](https://open.spotify.com/album/7DvM5EovlXacl7ngrQcI1h) | 5:39 | 2022-09-30 |  |
 | [ID1](https://open.spotify.com/track/6B2iGXREq0qb0N5thBN279) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Nightmare On Rezz Street 2 Mix](https://open.spotify.com/album/5aRRt9zSKDEQdWghFvkiEi) | 2:54 | 2022-10-28 |  |
 | [If I Have To](https://open.spotify.com/track/6BhQZ0wlqpOvx5SUhamhNR) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ), [SAULE](https://open.spotify.com/artist/49MYInJAJqPwuH2jdHVYVc) | [If I Have To](https://open.spotify.com/album/08Q9olnsm63azlo8oC2pit) | 3:41 | 2022-02-04 | 2022-08-06 |

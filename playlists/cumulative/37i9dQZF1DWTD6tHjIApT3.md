@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Uru
 
-1,317 songs - 3 day 13 hr 47 min
+1,318 songs - 3 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,8 @@
 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 |  |
 | [Sixteen, Fifteen](https://open.spotify.com/track/6PjUPRfDLbzXqjU5CdiMtV) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Sixteen, Fifteen](https://open.spotify.com/album/37ETovdRL3wZRNAxcEywzS) | 3:40 | 2023-01-24 | 2023-01-26 |
 | [Sixteen, Fifteen](https://open.spotify.com/track/6engsrggcvwuuuvXOYh6Fw) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Sixteen, Fifteen](https://open.spotify.com/album/3eFaRHP5BiBrp1HfaE6Hf9) | 3:40 | 2023-01-24 | 2023-02-08 |
-| [Skeleton Wedding](https://open.spotify.com/track/1UZvI3HkqAwWTiyuhM0WoW) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/1jHtKLztk72l4W2e0dSltd) | 3:37 | 2023-05-02 |  |
+| [Skeleton Wedding](https://open.spotify.com/track/1UZvI3HkqAwWTiyuhM0WoW) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/1jHtKLztk72l4W2e0dSltd) | 3:37 | 2023-05-02 | 2023-05-04 |
+| [Skeleton Wedding](https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq) | 3:37 | 2023-05-02 |  |
 | [Slay the day!](https://open.spotify.com/track/3cMFOhhAWmE3VCB44ZE3xL) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Slay the day!](https://open.spotify.com/album/0hT3xd7HB2BCwLnOnPW6UV) | 3:25 | 2022-06-02 | 2022-07-22 |
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2022-05-29 | 2022-07-19 |
 | [Slowhand ni Dakarete \(Oh Love!!\)](https://open.spotify.com/track/5dmD2fCgxHNMmOkP0i3A62) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [Fujin no Shozo \(Portrait of a Lady\)](https://open.spotify.com/album/6BQzYaKDVZSdJ8GqE91MsI) | 4:11 | 2022-10-18 | 2022-11-16 |

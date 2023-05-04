@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,702 likes - 115 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,703 likes - 115 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 114 | [LORBEERKRANZ](https://open.spotify.com/track/3ixYwMhY3eLvdrz0paiYGD) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [LORBEERKRANZ](https://open.spotify.com/album/53hHhW8VhOrRZ6VSYS4kpe) | 3:27 |
 | 115 | [Jealous](https://open.spotify.com/track/46fXXqSW9Ikn4bMFDAhEAh) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Jealous](https://open.spotify.com/album/3syO8DzHiXNtubE1Tia9wc) | 2:56 |
 
-Snapshot ID: `MCxiMTkyZTQ3ZmY3YzE4YTExYjg4ZmQ0NmVmNmQ3Y2EwZTNlNmFmNWE2`
+Snapshot ID: `MCw5YTBmMjQwMDBmZDJiYWJlN2MwMzFlMWExMDc5ODgzNWU3ZWU3ZWQ0`

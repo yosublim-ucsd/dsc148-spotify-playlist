@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: d4vd
 
-342 songs - 18 hr 18 min
+343 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,12 +294,13 @@
 | [stay](https://open.spotify.com/track/23uag9bcLig9W06gC4U8XD) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [dead2me](https://open.spotify.com/album/6N4nVJcTKMRIvYSLoL5Tx2) | 2:38 | 2021-11-26 | 2022-07-28 |
 | [Stray Fantasies](https://open.spotify.com/track/7oxl6743zINo2goOSRBnrM) | [Mint Julep](https://open.spotify.com/artist/60xrFrkTS0lvRRpbS1cpnr) | [Stray Fantasies](https://open.spotify.com/album/3Sa6zvka2JPNFU5B6DPdyI) | 3:13 | 2022-03-30 | 2022-04-20 |
 | [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 | 2021-08-11 |  |
-| [Summer Something](https://open.spotify.com/track/3NtrvMkHEiGjPk3B18rsop) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Fun Times](https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi) | 3:14 | 2022-09-13 |  |
+| [Summer Something](https://open.spotify.com/track/3NtrvMkHEiGjPk3B18rsop) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Fun Times](https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi) | 3:14 | 2022-09-13 | 2023-05-04 |
 | [Summer Something](https://open.spotify.com/track/6ysAK8JrtZE9TmgBZs3A60) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Fun Times](https://open.spotify.com/album/4L5kYzcAbu4AcXoUL4FRPg) | 3:14 | 2022-03-30 | 2022-10-13 |
 | [Summer Something](https://open.spotify.com/track/707q7i5koucX2YSs6vR5pk) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Summer Something](https://open.spotify.com/album/7HYvEPOj7atMKoEBQgVtbj) | 3:14 | 2020-10-30 | 2022-07-29 |
 | [Sun Outside My Window](https://open.spotify.com/track/2N1KZRaNtW6amPcBKb31MV) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3glwsPmD4tuQ1k5Qnh7O6i) | 3:21 | 2021-09-16 | 2022-07-28 |
 | [Sun Outside My Window](https://open.spotify.com/track/4VpLdvee1V7CTKXv1xaDCk) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/2f9WckhKSSRXLJ53QJUCRo) | 3:21 | 2022-03-30 | 2023-05-01 |
 | [Sun Outside My Window](https://open.spotify.com/track/5fCqHoueAR1Q790mPKj1HR) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3njJDE85untcXnz7ZEhs4a) | 3:21 | 2022-03-30 | 2022-07-29 |
+| [Sun Outside My Window](https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe) | 3:21 | 2022-09-13 |  |
 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 | 2020-10-30 |  |
 | [Sweet Memory](https://open.spotify.com/track/2NLCeehIh59wibnxpTYwXe) | [Beauty Queen](https://open.spotify.com/artist/2ddlG5nlorHHTqIt5ag8Ep) | [Sweet Memory](https://open.spotify.com/album/6nh7iMidQqscP1CWXpCRtN) | 3:14 | 2022-03-30 | 2022-07-25 |
 | [System](https://open.spotify.com/track/5MkrRoxmtqXc5OMDLIpF2J) | [Kat Duma](https://open.spotify.com/artist/4mq9h5EXNKgL4aPDBTFMGa) | [System](https://open.spotify.com/album/0HZcxaugJgSGBMTbjtNNXC) | 3:49 | 2021-04-29 | 2022-07-12 |

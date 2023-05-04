@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ sally cruz in cover
 
-487 songs - 22 hr 23 min
+488 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [SONO PAZZO DI TE!?](https://open.spotify.com/track/7CcbOXv6E8JJQQT3cSHg2y) | [Cali](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [SONO PAZZO DI TE!?](https://open.spotify.com/album/6HnH8uK0OuGF730D7BF6nD) | 2:46 | 2022-09-19 | 2022-12-09 |
 | [SOS](https://open.spotify.com/track/5WOpY1zsEVZHJMHTftuIzw) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [SOS](https://open.spotify.com/album/28KZcEMzj3R0f0jSmuO6Bc) | 2:27 | 2022-11-10 | 2023-03-25 |
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-06-16 | 2022-07-15 |
+| [sotto sotto](https://open.spotify.com/track/10gwf4dDvntcxFpBE2opUe) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [sotto sotto](https://open.spotify.com/album/0qIbw1ruQOL01mXkqZFwKn) | 2:46 | 2023-05-03 |  |
 | [SOTTONE DANNATO](https://open.spotify.com/track/2hFvWFjEe67dgSYsHr4TNv) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq), [MdN](https://open.spotify.com/artist/5yaVqVjGwm9X6ECl7Rhnpt), [Quello](https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7), [Zzama](https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp), [Oreste](https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL), [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd) | [SOTTONE DANNATO](https://open.spotify.com/album/19nsl3rgHoUVzLGzxZKVBv) | 3:12 | 2022-08-11 | 2023-02-25 |
 | [SOTTONE DANNATO](https://open.spotify.com/track/6tUwIQtOtnr3ETob6dl1Kz) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq), [MdN](https://open.spotify.com/artist/5yaVqVjGwm9X6ECl7Rhnpt), [Quello](https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7), [Zzama](https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp), [Oreste](https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL), [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd) | [SOTTONE DANNATO](https://open.spotify.com/album/7mpH2Yd0j1Y7LnSAy15T0t) | 3:12 | 2023-02-23 | 2023-04-28 |
 | [Sottosopra](https://open.spotify.com/track/1b65pnfClHLMDFEEhrcLJP) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Sottosopra](https://open.spotify.com/album/2wl48fvKt0jNKC5y6Z53Dr) | 2:39 | 2022-05-06 | 2023-01-13 |

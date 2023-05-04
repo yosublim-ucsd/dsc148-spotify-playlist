@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 179480,
+  "num_followers": 179526,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2Y0ODE4NWE4YzBmMjk1ZWE2NmU3MWNkMzVhNmM2MWEzYjM4ZDdl",
+  "snapshot_id": "MCxiMDI0OWEzYjgxOTEzZmRkYWZjYzI0MjE4ODVkYmU4MmU3YzZkYjE5",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/73XavwM8RbuKL60jswYOWb"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Romantic Warrior",
-        "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
-      },
-      "artists": [
-        {
-          "name": "Return To Forever",
-          "url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
-        }
-      ],
-      "duration_ms": 313866,
-      "name": "Medieval Overture - Instrumental",
-      "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
-    },
-    {
       "added_at": "2021-06-25 04:02:00",
       "album": {
         "name": "Septet",
@@ -371,6 +355,22 @@
       "duration_ms": 251643,
       "name": "P64 By My Side",
       "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Romantic Warrior",
+        "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
+      },
+      "artists": [
+        {
+          "name": "Return To Forever",
+          "url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "Medieval Overture - Instrumental",
+      "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 354053,
-      "name": "Blue Wind",
-      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "The Brecker Bros",
         "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 350506,
       "name": "Some Skunk Funk",
       "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 354053,
+      "name": "Blue Wind",
+      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Time In Place",
-        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 462373,
-      "name": "Chromazone",
-      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Forward Motion",
         "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 285533,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Time In Place",
+        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 462373,
+      "name": "Chromazone",
+      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -623,6 +623,22 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 474309,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -647,22 +663,6 @@
       "duration_ms": 371617,
       "name": "Riding Giants",
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 474309,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Seventh String",
-      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Extension",
@@ -1095,6 +1079,22 @@
       "duration_ms": 579060,
       "name": "1 Year After",
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 185191,
+      "name": "Seventh String",
+      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
     },
     {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Space-Time",
-        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber Fusion",
-          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
-        }
-      ],
-      "duration_ms": 275480,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "A Present For The Future",
@@ -1159,6 +1143,22 @@
       "duration_ms": 551733,
       "name": "Legends",
       "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
+    },
+    {
+      "added_at": "2021-07-02 04:01:00",
+      "album": {
+        "name": "Space-Time",
+        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber Fusion",
+          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1225,6 +1225,22 @@
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
+    },
+    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Big Fun (2022 Remaster)",
         "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 1707435,
       "name": "Go Ahead John (2022 Remaster)",
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
-      },
-      "artists": [
-        {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
-        }
-      ],
-      "duration_ms": 325040,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 260866,
       "name": "Growing Up!",
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
+      },
+      "artists": [
+        {
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+        }
+      ],
+      "duration_ms": 325040,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
-      },
-      "artists": [
-        {
-          "name": "Cameron Graves",
-          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
-        }
-      ],
-      "duration_ms": 261506,
-      "name": "Sons of Creation",
-      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
-    },
-    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Funkdombe - edit",
@@ -1403,6 +1387,22 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
+      },
+      "artists": [
+        {
+          "name": "Cameron Graves",
+          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
+        }
+      ],
+      "duration_ms": 261506,
+      "name": "Sons of Creation",
+      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
       "added_at": "2021-07-16 04:01:00",

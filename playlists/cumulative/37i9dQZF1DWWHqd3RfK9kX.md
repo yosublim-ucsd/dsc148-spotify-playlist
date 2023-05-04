@@ -4,7 +4,7 @@
 
 > Il sound giusto per creare in cucina!
 
-161 songs - 9 hr 14 min
+162 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 | 2020-11-10 |  |
 | [Mi Swing es Tropical](https://open.spotify.com/track/0KTbezuHAJkcsiHewSuR1y) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/0CoLMsQMDv7pSbLaJHF0mJ) | 3:42 | 2020-11-10 | 2023-04-30 |
 | [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 | 2020-11-10 | 2022-10-14 |
+| [Mi Swing es Tropical](https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3) | 3:42 | 2020-11-10 |  |
 | [Minha Teimosia, Uma Arma Pra Te Conquistar](https://open.spotify.com/track/7eXRfKOGzMRe6P2jg0Nua6) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Puro Suingue](https://open.spotify.com/album/1ZuHENR1CaI9ApzDv4mSbv) | 2:42 | 2020-11-10 | 2022-07-29 |
 | [Na Tonga Da Mironga Do Kabulete](https://open.spotify.com/track/7lSuOz8LjZ73RPzZKZCHaH) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Simonal](https://open.spotify.com/album/4N9B7IlhnCxzFxF1f4JcVa) | 3:12 | 2020-11-10 | 2022-07-29 |
 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/4D9uQHmo0HA8yRtU7NuFAz) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/16XSVHKfgfOzG7tYyZhqOz) | 2:32 | 2020-11-10 | 2022-07-29 |
@@ -160,7 +161,7 @@
 | [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 | 2020-11-10 |  |
 | [Una De Mambo](https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB) | [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Curanderas](https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF) | 3:36 | 2020-11-10 |  |
 | [Underwater Love](https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F) | [Smoke City](https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF) | [Flying Away](https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1) | 6:46 | 2020-11-10 |  |
-| [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 | 2020-11-10 |  |
+| [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 | 2020-11-10 | 2023-05-04 |
 | [Vem Menina](https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq) | 4:19 | 2020-11-10 | 2023-02-04 |
 | [Você Não Presta](https://open.spotify.com/track/253rM8bzLuRZSH8N5Z3yox) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 3:55 | 2020-11-10 | 2022-07-29 |
 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 | 2020-11-10 |  |

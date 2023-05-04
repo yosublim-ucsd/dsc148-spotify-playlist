@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Jelly Roll
+> Top trending country tracks from the last few months\. Cover: Warren Zeiders
 
 291 songs - 15 hr 27 min
 

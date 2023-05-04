@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1w7lmZQuLm9AXIWoLD7Qbt"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/5NBpmO0VbAQYjXXCZ2QYLd"
+    },
+    {
+      "album": {
         "name": "A Love Story",
         "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 213983,
       "name": "My Home (Love Brings Us Here)",
       "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 209386,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
@@ -2316,6 +2334,32 @@
       "duration_ms": 220613,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208418,
+      "name": "Things We Do for Love",
+      "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
     },
     {
       "album": {

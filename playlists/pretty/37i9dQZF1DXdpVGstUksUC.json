@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 502401,
+  "num_followers": 502564,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzhiMDYxYjg0NTYwZGNiMWMzZGQ5Yzk2ZGQ2ZDZiNjRhNzdlNDhh",
+  "snapshot_id": "MCw5YmQ5MGQ2MmJjMjlmMjhjMWE4NmI1MzJlYjEzNmRjNGZmZmRhYzhj",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Sunrise On The Sufferbus",
-        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Rabbit One",
-      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
       "added_at": "2023-03-22 16:17:38",
       "album": {
         "name": "Dopes To Infinity",
@@ -519,6 +503,22 @@
       "duration_ms": 392000,
       "name": "Look To Your Orb For The Warning",
       "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Agents Of Ahriman",
-        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
+        "name": "Sunrise On The Sufferbus",
+        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
       "artists": [
         {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
         }
       ],
-      "duration_ms": 185440,
-      "name": "Stray Bullit Woman",
-      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
+      "duration_ms": 213333,
+      "name": "Rabbit One",
+      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Elephant Tree",
-        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
-      },
-      "artists": [
-        {
-          "name": "Elephant Tree",
-          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
-        }
-      ],
-      "duration_ms": 367879,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Repeater",
         "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 356824,
       "name": "Centurion",
       "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Elephant Tree",
+        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
+      },
+      "artists": [
+        {
+          "name": "Elephant Tree",
+          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
+        }
+      ],
+      "duration_ms": 367879,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Busse Woods",
-        "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
-      },
-      "artists": [
-        {
-          "name": "Acid King",
-          "url": "https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct"
-        }
-      ],
-      "duration_ms": 384866,
-      "name": "Electric Machine",
-      "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -907,18 +891,34 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Damned by Fate",
-        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
+        "name": "Busse Woods",
+        "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
       "artists": [
         {
-          "name": "Red Desert",
-          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
+          "name": "Acid King",
+          "url": "https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct"
         }
       ],
-      "duration_ms": 336720,
-      "name": "Older No Wiser",
-      "url": "https://open.spotify.com/track/3vX40kM91roJS58JpFMWct"
+      "duration_ms": 384866,
+      "name": "Electric Machine",
+      "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
+      },
+      "artists": [
+        {
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
+        "name": "Damned by Fate",
+        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
       },
       "artists": [
         {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+          "name": "Red Desert",
+          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
         }
       ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
+      "duration_ms": 336720,
+      "name": "Older No Wiser",
+      "url": "https://open.spotify.com/track/3vX40kM91roJS58JpFMWct"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
-      },
-      "artists": [
-        {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
-        }
-      ],
-      "duration_ms": 290965,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Love Like Machines",
         "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 149973,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
+      },
+      "artists": [
+        {
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
+        }
+      ],
+      "duration_ms": 290965,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 505196,
+      "name": "Hot Lava Man",
+      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 316777,
       "name": "Desert God",
       "url": "https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/1GyHRxKZ2DUsOrXSKuJUtC"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/6WGAMXLrez7idFa5DLeWrM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1385,6 +1401,22 @@
       "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
     },
     {
+      "added_at": "2023-03-22 16:17:38",
+      "album": {
+        "name": "Gravity X",
+        "url": "https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV"
+      },
+      "artists": [
+        {
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+        }
+      ],
+      "duration_ms": 449946,
+      "name": "Desert Cruiser",
+      "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Beyond the Wasteland",
@@ -1415,22 +1447,6 @@
       "duration_ms": 320988,
       "name": "Diablerie",
       "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/1GyHRxKZ2DUsOrXSKuJUtC"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/6WGAMXLrez7idFa5DLeWrM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1561,22 +1577,6 @@
       "url": "https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G"
     },
     {
-      "added_at": "2023-03-22 16:17:38",
-      "album": {
-        "name": "Gravity X",
-        "url": "https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV"
-      },
-      "artists": [
-        {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
-        }
-      ],
-      "duration_ms": 449946,
-      "name": "Desert Cruiser",
-      "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Dear",
@@ -1593,20 +1593,20 @@
       "url": "https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "CLDZ",
-        "url": "https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34"
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
       },
       "artists": [
         {
-          "name": "Gozu",
-          "url": "https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg"
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
         }
       ],
-      "duration_ms": 416779,
-      "name": "CLDZ",
-      "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
     }
   ],
   "unique_name": "Stoner Rock",

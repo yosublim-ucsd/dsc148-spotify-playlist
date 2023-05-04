@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent talents are here\. \(Cover: TAEWOO\(태우\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
+> Fresh new Korean independent talents are here\. \(Cover: jisokuryClub\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
 1,041 songs - 2 day 11 hr 0 min
 

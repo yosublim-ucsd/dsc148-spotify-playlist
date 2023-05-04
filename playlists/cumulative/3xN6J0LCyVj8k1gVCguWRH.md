@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,188 songs - 5 day 5 hr 43 min
+2,189 songs - 5 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1952,6 +1952,7 @@
 | [Too Much to Taste](https://open.spotify.com/track/35xTeDQMiFuq6zfWRm9Qp3) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Too Much to Taste](https://open.spotify.com/album/1C1mKA6PiKxqte6gRm7N22) | 2:58 | 2021-10-29 | 2021-11-14 |
 | [Took It Further \(Feelin' Fine\)](https://open.spotify.com/track/1DejjVvJYskVC8htZjdLvT) | [AnnaLina](https://open.spotify.com/artist/2Bs0I1X5LHdBELu52M7EcM) | [Took It Further \(Feelin' Fine\)](https://open.spotify.com/album/4rxPJa5BDm2GV1usR9c9N2) | 2:57 | 2021-11-13 | 2021-12-05 |
 | [Touch My Light](https://open.spotify.com/track/0iUdZc9LHtkIwLjStiG6Le) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH), [Rasun](https://open.spotify.com/artist/6TixlZqHODGFxVoQUb5ywl), [Quino](https://open.spotify.com/artist/1ICz54Sf17zOD8Lp9iYaZS) | [Touch My Light](https://open.spotify.com/album/4M4R7fngEDtcfV3F2y8OlB) | 4:16 | 2021-03-16 | 2021-03-29 |
+| [TOXIC](https://open.spotify.com/track/1iOSzarYWyOGSkH5JonXQG) | [MENA](https://open.spotify.com/artist/06C7gYgsrQxKKMoVqyndzM) | [TOXIC](https://open.spotify.com/album/0tHFUCRzBzMCAsMuGNJFlH) | 3:51 | 2023-05-04 |  |
 | [toxik](https://open.spotify.com/track/5PTh5VSl8ULr1Erav69hzt) | [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [toxik](https://open.spotify.com/album/0nhpwiNSFQHisA4XOEcK4r) | 2:42 | 2022-04-22 | 2022-05-08 |
 | [Tracen](https://open.spotify.com/track/7u9Y1ccnIgsPK5xVXcS6pk) | [Ophelia](https://open.spotify.com/artist/1t9u7EEZdnodgGRYPmZJ73) | [Tracen](https://open.spotify.com/album/4SeMI319KM0SDZLBOst8ud) | 4:34 | 2023-01-06 | 2023-01-28 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-20 | 2023-02-11 |

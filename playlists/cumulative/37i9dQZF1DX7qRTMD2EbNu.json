@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "The Unbroken (Clean)",
+        "url": "https://open.spotify.com/album/6m2AB5GhRt6qEVNnllcPnd"
+      },
+      "artists": [
+        {
+          "name": "Ayisi",
+          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
+        },
+        {
+          "name": "Akan",
+          "url": "https://open.spotify.com/artist/3GBEpfWyKBlONW7DO4Y0ks"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274951,
+      "name": "Accra",
+      "url": "https://open.spotify.com/track/0Qr8XJNyftBRk0MyD1DFyr"
+    },
+    {
+      "album": {
         "name": "The Unbroken",
         "url": "https://open.spotify.com/album/42i9e2ejdzOAyBCG0oRSzO"
       },
@@ -100,7 +122,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 274951,
       "name": "Accra (feat. Akan)",
       "url": "https://open.spotify.com/track/70VDlfsvRSVu5WrtfqCC0N"

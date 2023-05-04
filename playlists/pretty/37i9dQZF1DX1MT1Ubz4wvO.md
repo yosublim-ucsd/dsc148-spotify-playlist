@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Molotov en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,596 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,623 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 5 | [Psycho](https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:13 |
 | 6 | [Tranquilo](https://open.spotify.com/track/51yvMOLDOCfAvwuYRxGb5B) | [Alamedadosoulna](https://open.spotify.com/artist/1Yfek8Lmn4Dzu7Eabz95vQ), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Tranquilo](https://open.spotify.com/album/6JakOpjM2btJtvmeg5wkMD) | 3:05 |
 | 7 | [Qué Vida Tan Dura](https://open.spotify.com/track/6G64bXQenyGECXByr6V0jC) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Qué Vida Tan Dura](https://open.spotify.com/album/0ypPJ3XxslrGMZE6qX1AQG) | 3:23 |
-| 8 | [La Visión](https://open.spotify.com/track/74xPUHuYj6jQjfdiSbOjEp) | [La Piojera](https://open.spotify.com/artist/2y10Zc9dxnYdyoToA8xeq4), [Estrago](https://open.spotify.com/artist/5xtCZLuxMQuLUhO5s6Gr0D), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [La Visión](https://open.spotify.com/album/6XMZbFAFyfUp3ZVLuN9xYF) | 4:08 |
+| 8 | [La Visión](https://open.spotify.com/track/74xPUHuYj6jQjfdiSbOjEp) | [La Piojera](https://open.spotify.com/artist/2y10Zc9dxnYdyoToA8xeq4), [Estrago](https://open.spotify.com/artist/5xtCZLuxMQuLUhO5s6Gr0D), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [La Visión](https://open.spotify.com/album/6XMZbFAFyfUp3ZVLuN9xYF) | 4:08 |
 | 9 | [La Bestia \(feat\. Love Of Lesbian\)](https://open.spotify.com/track/3pOgLYor7zXVY06O3y3H6G) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [La Bestia \(feat\. Love Of Lesbian\)](https://open.spotify.com/album/7f5Xur1ECtLU7b3fX4ynTa) | 2:58 |
 | 10 | [Nunca Me Olvides](https://open.spotify.com/track/6qgeegOWKV7QJB1cDmw3Rs) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Melodramática](https://open.spotify.com/album/2r5PTXzkdDw9H6vkxRd8Ef) | 4:08 |
 | 11 | [Fresno](https://open.spotify.com/track/3S1L6zZ7cPVdNiK2cYXc74) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Plaza Futura](https://open.spotify.com/album/7dmqZcDMJyCQuMapnNNkGP) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Volverán](https://open.spotify.com/track/0CBJxlTeXc7GYhD4ajRf1C) | [MINIÑO](https://open.spotify.com/artist/34iawz1efpYTtZCNtO2jEr) | [Volverán](https://open.spotify.com/album/0EsQtVYTPbhLMRM8UMwqGY) | 2:29 |
 | 50 | [la ola](https://open.spotify.com/track/7lnU0F5jKzN6cjMeDYdVWx) | [After Tommy](https://open.spotify.com/artist/3HpKdarqsHASs1kRv1uENZ) | [el verano pasará](https://open.spotify.com/album/129Gtdrln4K2zkz0X64l8G) | 3:44 |
 
-Snapshot ID: `MCw1MTZjNzZmMTk3OTA5YTkxNGI5Y2VjMWNiMDExM2U1YTQ4ODY3ZDE5`
+Snapshot ID: `MCxmNmI4NmUwNDFkMTE1ZjdlN2E1M2Y1ZjdlNjA2MTI0MTJmYjJiNzcw`

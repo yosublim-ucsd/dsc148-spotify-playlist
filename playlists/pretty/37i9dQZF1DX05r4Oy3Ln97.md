@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,825 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,041 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 48 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 |
 | 49 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 |
 | 50 | [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 |
-| 51 | [Run Till Dark \(with Now United\)](https://open.spotify.com/track/0HJ4Tedj2QSKLQJWRH30Aw) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Run Till Dark \(with Now United\)](https://open.spotify.com/album/0hxfJ0C3ggfGV0OmszUMOV) | 2:19 |
-| 52 | [Submarine](https://open.spotify.com/track/6cBRrVuaqVQ8WW6VDUHH9l) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Submarine](https://open.spotify.com/album/6ybEZk0qcfHki7HAcqUtcw) | 3:23 |
+| 51 | [Submarine](https://open.spotify.com/track/6cBRrVuaqVQ8WW6VDUHH9l) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Submarine](https://open.spotify.com/album/6ybEZk0qcfHki7HAcqUtcw) | 3:23 |
+| 52 | [Run Till Dark \(with Now United\)](https://open.spotify.com/track/0HJ4Tedj2QSKLQJWRH30Aw) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Run Till Dark \(with Now United\)](https://open.spotify.com/album/0hxfJ0C3ggfGV0OmszUMOV) | 2:19 |
 | 53 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 | 54 | [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 |
 | 55 | [Surf Song](https://open.spotify.com/track/3jjvpoRGl2tfSGMSKAovw8) | [Ian Storm](https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Surf Song](https://open.spotify.com/album/5YhmrTqgAJJlTOm3WOPfHq) | 2:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Following the Sun \- Supermini Marimba Remix](https://open.spotify.com/track/2hEHZx1TWiy8YVHGXef0Wc) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:49 |
 | 60 | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg) | [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U) | 2:24 |
 
-Snapshot ID: `MCw1ODJhMWUzNWVjZDhiMmJjZmFhMTg1MTZkYjA0NTMwODI5ZWYxMmRh`
+Snapshot ID: `MCxlMjUwZDhhODc4YjZmMGU3ZjhmMzI4MTNlMzY2NjZlZGEwNjgxOWJj`

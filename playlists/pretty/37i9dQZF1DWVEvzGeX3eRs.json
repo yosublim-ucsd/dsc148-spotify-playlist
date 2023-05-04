@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2615677,
+  "num_followers": 2615922,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzQ5ZmFmYTYxMjJkNTVmNGIzMzVjZGRkNjg3YWRmZjMxMWFjYTJm",
+  "snapshot_id": "MCxhNzUyYzVlYTFiMmJiMGQxMTgxN2RlNGQzN2VmZDAxZWVlY2Q0NjE4",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "The Deele: Greatest Hits",
-        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
-      },
-      "artists": [
-        {
-          "name": "The Deele",
-          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Two Occasions",
-      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Baduizm",
@@ -419,6 +403,22 @@
       "duration_ms": 393733,
       "name": "Other Side Of The Game",
       "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "The Deele: Greatest Hits",
+        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
+      },
+      "artists": [
+        {
+          "name": "The Deele",
+          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Two Occasions",
+      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 267160,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 277240,
       "name": "You Give Good Love",
       "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 267160,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
     },
     {
       "added_at": "2023-02-02 23:04:07",

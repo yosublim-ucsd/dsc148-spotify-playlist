@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-614 songs - 1 day 13 hr 38 min
+615 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Afterlife](https://open.spotify.com/track/1quV8M8hQ2PEUw3JhO9hKu) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [Afterlife](https://open.spotify.com/album/4Ce3MvugKQgiwradW4O5gb) | 2:50 | 2022-06-10 |  |
 | [Age of Infinity](https://open.spotify.com/track/66qLxvxlzcgQmxSVr32GhG) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Diago](https://open.spotify.com/artist/6VVgFDLnj2ZW04op59d4iC) | [Age of Infinity](https://open.spotify.com/album/2ewaPVNitzKIvkDu5nuyks) | 3:14 | 2022-04-15 | 2022-11-19 |
 | [Air](https://open.spotify.com/track/1w3HIfFh2l7UevaP5uCyIp) | [AA Meeting](https://open.spotify.com/artist/4L8D2cyMeNKWaps3wPBFfD) | [Air](https://open.spotify.com/album/27A0zXIRpLvj0AHfwPIUez) | 4:16 | 2023-04-07 | 2023-04-13 |
+| [Airwave \- Giuseppe Ottaviani Remix](https://open.spotify.com/track/5GbMPtLwGNWVAtT0u4SXCg) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Airwave \(Giuseppe Ottaviani Remix\)](https://open.spotify.com/album/7nv70z42Hk4gMJoLQAEeHK) | 3:52 | 2023-04-29 |  |
 | [Alibi \- Farius Lost In 137 Mix](https://open.spotify.com/track/3QpK4EjLY4NPCshSBcmdwL) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Diversify \(Remixes\)](https://open.spotify.com/album/69BDKGjSgQJoVjPKdjYlH3) | 4:22 | 2021-12-17 | 2022-03-12 |
 | [Alive](https://open.spotify.com/track/48XRakTXOgK2zMGjWoIpxj) | [Victor Tellagio](https://open.spotify.com/artist/0Tn4aSU1htOi0pMKKSuVkW), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Alive](https://open.spotify.com/album/4SIHp025Lt02gLujQPN2Ta) | 2:58 | 2022-08-05 |  |
 | [All Falls Down](https://open.spotify.com/track/7mbUX7eBTYdN0FNNQqbdyy) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Florentin](https://open.spotify.com/artist/4h5iVy88coDjOop3wM2wTp), [Kyle Anson](https://open.spotify.com/artist/0FeeM3GXVth20s0RWfI5rE) | [Lifeline](https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL) | 3:06 | 2023-02-17 |  |
@@ -77,7 +78,7 @@
 | [Blood & Veins](https://open.spotify.com/track/4aKy5GponhzvOld797MOTm) | [Mark Norman](https://open.spotify.com/artist/3pPyG4NWGaEm3YJ9NShOET), [Neil Wharram](https://open.spotify.com/artist/3lG2usc47ZJWvWqga6Xfq9) | [Blood & Veins](https://open.spotify.com/album/5tjnLsshK82qMCdhKHsdhl) | 3:16 | 2023-04-07 |  |
 | [Bloodstream \- Cubicore Remix](https://open.spotify.com/track/3X7iMERwkvDnKViiJ4jmWx) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx) | [Bloodstream \(Cubicore Remix\)](https://open.spotify.com/album/58cwAgbQ55LriQGzlyWt9D) | 4:09 | 2022-10-28 |  |
 | [Blue Roses](https://open.spotify.com/track/6QzEYSHEX75PpO9DCGNvxY) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Robbie Seed](https://open.spotify.com/artist/6jbM9dszTY66L2Q7E1U0ll), [Maryjo Lilac](https://open.spotify.com/artist/5YNupIvg8JvyF7T7oqEwgq) | [A State Of Trance Top 20 \- 2021, Vol\. 3 \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5g19dU9vYB1qcxVmJqVSut) | 3:38 | 2021-12-17 | 2022-03-12 |
-| [Borealis](https://open.spotify.com/track/06k4Wm7IfIMRvV2J7bwvf0) | [Taygeto](https://open.spotify.com/artist/3jOQ9d363VYvlUNKl2oNO3) | [Anjunabeats Volume 16](https://open.spotify.com/album/5U5RVS6wdPaleEFqBzzpDm) | 3:30 | 2022-08-12 |  |
+| [Borealis](https://open.spotify.com/track/06k4Wm7IfIMRvV2J7bwvf0) | [Taygeto](https://open.spotify.com/artist/3jOQ9d363VYvlUNKl2oNO3) | [Anjunabeats Volume 16](https://open.spotify.com/album/5U5RVS6wdPaleEFqBzzpDm) | 3:30 | 2022-08-12 | 2023-05-04 |
 | [Born to Run](https://open.spotify.com/track/0taZjhXbTPtGHQsEv3nhkl) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Born to Run](https://open.spotify.com/album/22rc8Q5ZBZiljRoi1fORKq) | 3:30 | 2022-03-04 | 2023-03-04 |
 | [Braveheart](https://open.spotify.com/track/3N89ndrFYxInEoKOxLqdUL) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Braveheart](https://open.spotify.com/album/3sG3XDhfNxZ0UQliYwTIYE) | 3:21 | 2022-06-24 |  |
 | [Break the Ice](https://open.spotify.com/track/1YdFebuOulpMxNk5Ma4ozW) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Freak E Beatz](https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C) | [Break the Ice](https://open.spotify.com/album/0OhdE7TNwWkutFMi6phZtz) | 4:01 | 2022-02-04 | 2023-02-25 |

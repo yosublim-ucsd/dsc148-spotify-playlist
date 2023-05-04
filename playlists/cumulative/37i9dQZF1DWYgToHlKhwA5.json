@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 174000,
       "name": "Cracks of Thunder And Rainstorm",
       "url": "https://open.spotify.com/track/6GcUI8GPOR0oJActmrRKNE"
@@ -1280,6 +1280,24 @@
       "duration_ms": 134492,
       "name": "Good Night Nature Rain",
       "url": "https://open.spotify.com/track/3XyCMBq2Q11RBeW3n6gRw4"
+    },
+    {
+      "album": {
+        "name": "Iowan Thunder",
+        "url": "https://open.spotify.com/album/6CXGmuWIk2y7iMqSL1rz4Y"
+      },
+      "artists": [
+        {
+          "name": "Earthly Delights",
+          "url": "https://open.spotify.com/artist/3AhSKCMBK1DWhRGvem6prn"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227068,
+      "name": "Grandfather Thunder",
+      "url": "https://open.spotify.com/track/3u4Vwj2lzqYhDC2pPT5qfy"
     },
     {
       "album": {

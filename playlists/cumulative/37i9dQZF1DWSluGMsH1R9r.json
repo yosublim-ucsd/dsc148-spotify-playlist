@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "album": {
         "name": "Babirusa",
         "url": "https://open.spotify.com/album/5Z7SPXUfQWmok6CTmNXfLM"
       },
@@ -2151,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Emergence de l'Aube",
+        "url": "https://open.spotify.com/album/4M8lhArf7nxYD1coJndg7z"
+      },
+      "artists": [
+        {
+          "name": "Amandine Moulin",
+          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114995,
+      "name": "Emergence de l'Aube",
+      "url": "https://open.spotify.com/track/03HMaZlMvtdl8HRkMr30jv"
+    },
+    {
+      "album": {
         "name": "Empty Pews",
         "url": "https://open.spotify.com/album/2KzoXF3GQ7XnqyUIcpPBwf"
       },
@@ -2396,7 +2432,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 142894,
       "name": "Fearthainne",
       "url": "https://open.spotify.com/track/3FuG8DFIrAtGMvKoxNkCxY"
@@ -2674,7 +2710,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 117915,
       "name": "For Brea",
       "url": "https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf"
@@ -3128,7 +3164,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 146847,
       "name": "Helgoland",
       "url": "https://open.spotify.com/track/3CHSUEhxoy2s7NKVhH89wu"
@@ -4054,6 +4090,24 @@
       "duration_ms": 174352,
       "name": "Lady Ground",
       "url": "https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0"
+    },
+    {
+      "album": {
+        "name": "Laiski",
+        "url": "https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek"
+      },
+      "artists": [
+        {
+          "name": "Taganema",
+          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115374,
+      "name": "Laiski",
+      "url": "https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p"
     },
     {
       "album": {
@@ -5310,7 +5364,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 178000,
       "name": "Mursejler",
       "url": "https://open.spotify.com/track/1mGkSBPN3SN2o2YTVbmr3C"
@@ -5760,7 +5814,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 158974,
       "name": "Ocea\u0301",
       "url": "https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs"
@@ -5778,7 +5832,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 152807,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk"
@@ -6034,6 +6088,24 @@
       "duration_ms": 153842,
       "name": "Paisible",
       "url": "https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7"
+    },
+    {
+      "album": {
+        "name": "Particle rise",
+        "url": "https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR"
+      },
+      "artists": [
+        {
+          "name": "Ama Hemmah",
+          "url": "https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152850,
+      "name": "Particle rise",
+      "url": "https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3"
     },
     {
       "album": {
@@ -6991,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143879,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
+    },
+    {
+      "album": {
         "name": "Melancholy Island - Salon musique",
         "url": "https://open.spotify.com/album/5SnkIhfrSNMz9GSjs7xoGq"
       },
@@ -7452,7 +7542,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 139994,
       "name": "Sk\u00e4rg\u00e5rd",
       "url": "https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX"
@@ -8453,6 +8543,24 @@
     },
     {
       "album": {
+        "name": "Tout a un sens",
+        "url": "https://open.spotify.com/album/76RPqIq2w4iW7G0NiWeouE"
+      },
+      "artists": [
+        {
+          "name": "Claire Pinette",
+          "url": "https://open.spotify.com/artist/4cmV4jq8K9fFMqXdYQrtRP"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135911,
+      "name": "Tout a un sens",
+      "url": "https://open.spotify.com/track/5VOhUrpLELS03TrEJsnL7X"
+    },
+    {
+      "album": {
         "name": "Traces",
         "url": "https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE"
       },
@@ -8572,7 +8680,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 205793,
       "name": "Tree Whisper",
       "url": "https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N"

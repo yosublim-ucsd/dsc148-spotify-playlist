@@ -2,7 +2,7 @@
 
 ### [J\-Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp)
 
-> 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: 神様はサイコロを振らない
+> 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: 神はサイコロを振らない
 
 387 songs - 1 day 0 hr 26 min
 

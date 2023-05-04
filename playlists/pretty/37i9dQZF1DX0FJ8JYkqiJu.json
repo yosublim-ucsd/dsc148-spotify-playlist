@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 373196,
+  "num_followers": 373233,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzA3OTk3ZGY3MGZmMmE4ZDc2YTllNDYwODJlZjdiYWE0ZDBiZGE0",
+  "snapshot_id": "MCxlZjJkNjUyMjU5MGQ3MzE0YTIxNTE3YWQ4ZjgxOTIxY2VmNDIwODM2",
   "tracks": [
     {
       "added_at": "2023-04-28 03:28:26",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-04-28 03:28:26",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2023-04-28 03:28:26",
+      "album": {
         "name": "Inhale / Exhale (with Sabrina Claudio)",
         "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 170213,
       "name": "Inhale / Exhale (with Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
-    },
-    {
-      "added_at": "2023-04-28 03:28:26",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2023-04-28 03:28:26",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-04-28 03:28:26",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
-    },
-    {
-      "added_at": "2023-04-28 03:28:26",
-      "album": {
         "name": "Wishing Well / Cimmerian",
         "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 216198,
       "name": "Cimmerian",
       "url": "https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK"
+    },
+    {
+      "added_at": "2023-04-28 03:28:26",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     },
     {
       "added_at": "2023-04-28 03:28:26",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-04-28 03:28:26",
       "album": {
-        "name": "Light Of Day",
-        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 400130,
-      "name": "Light Of Day",
-      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
-    },
-    {
-      "added_at": "2023-04-28 03:28:26",
-      "album": {
         "name": "Rolling Back (Durante Remix)",
         "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 238000,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+    },
+    {
+      "added_at": "2023-04-28 03:28:26",
+      "album": {
+        "name": "Light Of Day",
+        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 400130,
+      "name": "Light Of Day",
+      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
     },
     {
       "added_at": "2023-04-28 03:28:26",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-28 03:28:26",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
-    },
-    {
-      "added_at": "2023-04-28 03:28:26",
-      "album": {
         "name": "All I've Ever Known",
         "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 218000,
       "name": "All I've Ever Known",
       "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
+    },
+    {
+      "added_at": "2023-04-28 03:28:26",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
     },
     {
       "added_at": "2023-04-28 03:28:26",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-28 03:28:26",
       "album": {
-        "name": "Purple Sun",
-        "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 241776,
-      "name": "Purple Sun",
-      "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
-    },
-    {
-      "added_at": "2023-04-28 03:28:26",
-      "album": {
         "name": "La Perla (Tourist Remix)",
         "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
+    },
+    {
+      "added_at": "2023-04-28 03:28:26",
+      "album": {
+        "name": "Purple Sun",
+        "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "Purple Sun",
+      "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
     },
     {
       "added_at": "2023-04-28 03:28:26",
@@ -1059,6 +1059,50 @@
     {
       "added_at": "2023-04-28 03:28:26",
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
+    },
+    {
+      "added_at": "2023-04-28 03:28:26",
+      "album": {
+        "name": "Shapes",
+        "url": "https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3"
+      },
+      "artists": [
+        {
+          "name": "Floating Anarchy",
+          "url": "https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d"
+        },
+        {
+          "name": "Kairoh",
+          "url": "https://open.spotify.com/artist/1Frlf4JDGlf6OrwQvSR7I2"
+        }
+      ],
+      "duration_ms": 140963,
+      "name": "Shapes",
+      "url": "https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi"
+    },
+    {
+      "added_at": "2023-04-28 03:28:26",
+      "album": {
         "name": "Protocol",
         "url": "https://open.spotify.com/album/63bCCxFIIh6Jczs5jAaM3m"
       },
@@ -1103,30 +1147,6 @@
     {
       "added_at": "2023-04-28 03:28:26",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
-    },
-    {
-      "added_at": "2023-04-28 03:28:26",
-      "album": {
         "name": "Making Time",
         "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
       },
@@ -1143,6 +1163,26 @@
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+    },
+    {
+      "added_at": "2023-04-28 03:28:26",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
     },
     {
       "added_at": "2023-04-28 03:28:26",
@@ -1167,26 +1207,6 @@
     {
       "added_at": "2023-04-28 03:28:26",
       "album": {
-        "name": "Shapes",
-        "url": "https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3"
-      },
-      "artists": [
-        {
-          "name": "Floating Anarchy",
-          "url": "https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d"
-        },
-        {
-          "name": "Kairoh",
-          "url": "https://open.spotify.com/artist/1Frlf4JDGlf6OrwQvSR7I2"
-        }
-      ],
-      "duration_ms": 140963,
-      "name": "Shapes",
-      "url": "https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi"
-    },
-    {
-      "added_at": "2023-04-28 03:28:26",
-      "album": {
         "name": "malo okoma",
         "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
       },
@@ -1203,22 +1223,6 @@
       "duration_ms": 245437,
       "name": "malo okoma - Radio Edit",
       "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
-    },
-    {
-      "added_at": "2023-04-28 03:28:26",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 284720,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2023-04-28 03:28:26",
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2023-04-28 03:28:26",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2023-04-28 03:28:26",

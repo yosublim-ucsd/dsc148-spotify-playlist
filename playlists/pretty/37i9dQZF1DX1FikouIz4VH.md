@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FikouIz4VH.md) - [plain]
 
 > Hear all of TAEYANG's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,855 likes - 68 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,969 likes - 68 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FikouIz4VH.md) - [plain]
 | 67 | [Fall in Love](https://open.spotify.com/track/04HoJpRNBQ98naXqeroSHB) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [UP BEAT](https://open.spotify.com/album/6juujVdPaWjy066P9ZOXvJ) | 4:15 |
 | 68 | [조금만 사랑할걸](https://open.spotify.com/track/0KXhQG6HryZn4QBay5Rfd6) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Soul Family with Johan](https://open.spotify.com/album/5y7fjiyU5WlRuwTI8nAEkJ) | 4:33 |
 
-Snapshot ID: `MCxkOGViNDAxYjYyNmIzYTM3ODI0ODRiYmEyMzFiMzZlMWM2ZjYxYzBm`
+Snapshot ID: `MCxiOWU3NTUyODJiOWJkMTA0MjNmYTg5MDRlZjdmZDRkNTg5NTgyMDdi`

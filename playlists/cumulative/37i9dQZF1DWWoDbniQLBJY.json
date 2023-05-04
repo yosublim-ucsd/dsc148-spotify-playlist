@@ -2857,6 +2857,28 @@
     },
     {
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "Jaguayano",
+          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185186,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
+    },
+    {
+      "album": {
         "name": "Tiempo Para Perder",
         "url": "https://open.spotify.com/album/02JM776kXbBtxV2zzk00nG"
       },
@@ -3060,7 +3082,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 210848,
       "name": "Underdog - Acoustic Version",
       "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"

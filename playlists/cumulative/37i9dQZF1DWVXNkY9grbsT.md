@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-314 songs - 1 day 2 hr 33 min
+316 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Objekt](https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Objekt](https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi) | 5:02 | 2022-03-18 |  |
 | [One Note](https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y), [Madison Willing](https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl) | [Made In Silence](https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV) | 2:34 | 2022-02-25 |  |
 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 | 2021-12-26 |  |
+| [Opposite Sides](https://open.spotify.com/track/03VbNLKlENAi4IUbClDw1n) | [Ocoeur](https://open.spotify.com/artist/4lybctGarwN1hdctv433Js) | [Connections](https://open.spotify.com/album/6PXeUwaH1WzmEhQcgb3wDd) | 5:18 | 2023-04-21 |  |
 | [Opposite Sides](https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5) | [Ocoeur](https://open.spotify.com/artist/4lybctGarwN1hdctv433Js) | [Connections](https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z) | 5:18 | 2022-07-01 | 2022-07-25 |
 | [Opposite Sides](https://open.spotify.com/track/5KwIpjS1J5h0ZaDlPtEL76) | [Ocoeur](https://open.spotify.com/artist/4lybctGarwN1hdctv433Js) | [Connections](https://open.spotify.com/album/0XPEa03giPkkTHDsCHf3H0) | 5:18 | 2022-07-15 | 2023-05-01 |
 | [Orgias de Bordados](https://open.spotify.com/track/4JsNVQReHfh06eHLbqeLje) | [Evamuss](https://open.spotify.com/artist/3RFdmvqOyjqP4DDGhdTkX1) | [Despierta, Remedio, Cuenta](https://open.spotify.com/album/7ihbtOYJhuKirh98QgouJb) | 7:49 | 2021-12-26 |  |
@@ -223,6 +224,7 @@
 | [Razor \- Foam and Sand Remix](https://open.spotify.com/track/5ZyaMRIDY85TeCIwn8kete) | [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Razor \(Foam and Sand Remix\)](https://open.spotify.com/album/7avH6B4ow8bIPK0aAOYUky) | 4:02 | 2021-12-26 |  |
 | [Reciprocal capture \(ft\. Speaker Music\)](https://open.spotify.com/track/0UJat5QwLYuGHOF5VxOZqJ) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4), [Speaker Music](https://open.spotify.com/artist/1H0aWZUg7aOHQmo5h09xso) | [Silvercoat the throng](https://open.spotify.com/album/3ffjoBGYEKoYSqc8XSDDvM) | 5:40 | 2022-11-22 |  |
 | [Reciprocal capture \(ft\. Speaker Music\)](https://open.spotify.com/track/736tmPjGGT8MG6DcD15UoB) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4), [Speaker Music](https://open.spotify.com/artist/1H0aWZUg7aOHQmo5h09xso) | [Reciprocal capture \(ft\. Speaker Music\)](https://open.spotify.com/album/7eiwWV48yCvvrUqSCQ9uXw) | 5:40 | 2021-12-26 | 2022-07-29 |
+| [Reflejo](https://open.spotify.com/track/1pNEw1owBotEBbQa6FZ042) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/4wFHTdeCa6rLGmm0ExoxlB) | 9:06 | 2023-04-21 |  |
 | [Reflejo](https://open.spotify.com/track/6555TzyEWY0FMiR8QKKXIg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk) | 9:06 | 2022-09-20 | 2023-04-30 |
 | [Relacional](https://open.spotify.com/track/0LXnwxKWZ21A2bmKe7Qm0m) | [Mucho Sueño](https://open.spotify.com/artist/0ohtInQhL4yYgwv7PdBCMM) | [Relacional](https://open.spotify.com/album/29Jd8KosRaZANCLxCg77dw) | 3:22 | 2021-12-26 |  |
 | [Resonate](https://open.spotify.com/track/3vLRWk9nnsJ89ShbHm9LTI) | [Daniel\[i\]](https://open.spotify.com/artist/58LrfqsxqAGuNcS1DQuGmy), [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [WHS 03](https://open.spotify.com/album/4BFWLUtEhCs9BjbjfLtRQ9) | 7:13 | 2021-12-26 | 2023-02-22 |
@@ -316,10 +318,10 @@
 | [Wild Animal](https://open.spotify.com/track/77lMQKLRs97Qoveegdf2TA) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/1i4GbF35hBkHQhPPfa1oTU) | 3:55 | 2023-03-23 |  |
 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/3HFIxZpIfmaLKTgxc2guNS) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/22Qv4LBhjZHFCKcnL28wxF) | 3:29 | 2023-04-21 |  |
 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/49w8Me7pwfgdHidun5OXEh) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/79FJtZq42O1z9ISnqZqMWL) | 3:29 | 2023-01-16 | 2023-04-30 |
-| [Wing Pinger 02](https://open.spotify.com/track/1Qlk7bOGlvqtncjCZf8bJE) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 5:01 | 2021-12-26 |  |
+| [Wing Pinger 02](https://open.spotify.com/track/1Qlk7bOGlvqtncjCZf8bJE) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 5:01 | 2021-12-26 | 2023-05-04 |
 | [Winter's Melt](https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ) | [Carl Lord](https://open.spotify.com/artist/2LmBmuBKjJg3Xqh24WwpoN) | [Winter's Melt](https://open.spotify.com/album/0lzh9y8SDCaHqAipgINFwd) | 6:25 | 2022-03-25 | 2023-01-27 |
 | [Worlds Collide \- Hannes Kretzer Rework](https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf), [Morten Reppesgård](https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI), [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Worlds Collide \(Hannes Kretzer Rework\)](https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc) | 3:51 | 2022-03-11 |  |
-| [XYZ](https://open.spotify.com/track/72oEGguykIkj1PDA8dXTMW) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [XYZ](https://open.spotify.com/album/6TFaNIzSXMAnOLpjIcWOKO) | 3:22 | 2022-01-07 |  |
+| [XYZ](https://open.spotify.com/track/72oEGguykIkj1PDA8dXTMW) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [XYZ](https://open.spotify.com/album/6TFaNIzSXMAnOLpjIcWOKO) | 3:22 | 2022-01-07 | 2023-05-04 |
 | [You Ain't Down](https://open.spotify.com/track/29sHG2nNKkqOPAlBGiTMn8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:23 | 2021-12-26 |  |
 | [Zero Law](https://open.spotify.com/track/1T86cvA0iw7ygJDHVulEWe) | [Zomnis](https://open.spotify.com/artist/5hfJICKoX0X34piKb8siZB) | [Music for Robots](https://open.spotify.com/album/50utrathEVv4UTEMjUtwbE) | 2:50 | 2022-12-20 | 2023-04-10 |
 

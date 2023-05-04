@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 60054,
+  "num_followers": 60094,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODI1ODYzMGIyMjRiNGM1MTMzOTg1N2YyMDdmYTM0YWE0Mzg4NDQy",
+  "snapshot_id": "MCxiYTdhNDk4OTVkNmMxYzllY2VmZDM4ODk3ZTM3MDVmOTM5NmM1Yjcw",
   "tracks": [
     {
       "added_at": "2023-03-16 23:07:31",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "El Principio del Final",
-        "url": "https://open.spotify.com/album/2ww3i7PqUVMM4JmokgyRb5"
-      },
-      "artists": [
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Zamba y Acuarela",
-      "url": "https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "Zamba para Olvidarte",
         "url": "https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 199960,
       "name": "Zamba para Olvidarte",
       "url": "https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "El Principio del Final",
+        "url": "https://open.spotify.com/album/2ww3i7PqUVMM4JmokgyRb5"
+      },
+      "artists": [
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Zamba y Acuarela",
+      "url": "https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
       "artists": [
         {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
         }
       ],
-      "duration_ms": 223293,
-      "name": "Zamba del Cantor Enamorado",
-      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
+      "duration_ms": 162093,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
         }
       ],
-      "duration_ms": 162093,
-      "name": "La Flor Azul",
-      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
+      "duration_ms": 223293,
+      "name": "Zamba del Cantor Enamorado",
+      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg"
-      },
-      "artists": [
-        {
-          "name": "Los Tabaleros",
-          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
-        }
-      ],
-      "duration_ms": 248430,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "Reevoluci\u00f3n",
         "url": "https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 234866,
       "name": "No Me Olvides",
       "url": "https://open.spotify.com/track/5OJAOB8Pe0IZOeGGjerPkE"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg"
+      },
+      "artists": [
+        {
+          "name": "Los Tabaleros",
+          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
+        }
+      ],
+      "duration_ms": 248430,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Retiro al Norte",
-        "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Rubia Morena",
-      "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "De Barrio",
         "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 192266,
       "name": "Zambita pa' Enamorar",
       "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Retiro al Norte",
+        "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Rubia Morena",
+      "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
     },
     {
       "added_at": "2023-03-16 23:07:31",

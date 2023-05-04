@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con Susana Cala en portada.",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con Vale en portada.",
   "name": "EQUAL Andes",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 150000,
       "name": "7 De Octubre",
       "url": "https://open.spotify.com/track/3A4WD7JkJWq0PgzoVXq337"
+    },
+    {
+      "album": {
+        "name": "A Fuego",
+        "url": "https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188742,
+      "name": "A Fuego",
+      "url": "https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu"
     },
     {
       "album": {
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 170228,
       "name": "Adicta al Perreo",
       "url": "https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa"
@@ -362,7 +380,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 205398,
       "name": "AZ\u00daCAR",
       "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 127658,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5"
@@ -619,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Paralelas",
+        "url": "https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH"
+      },
+      "artists": [
+        {
+          "name": "Las \u00c1\u00f1ez",
+          "url": "https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232790,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/3H8ZKu3GK8zonRkeSkt5hZ"
+    },
+    {
+      "album": {
         "name": "De Lo Que Nada Fue",
         "url": "https://open.spotify.com/album/36jJyeH1H4X8kYCQXJkE0b"
       },
@@ -804,6 +840,24 @@
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219394,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP"
     },
     {
       "album": {
@@ -1024,7 +1078,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 172546,
       "name": "En Qu\u00e9 Planeta",
       "url": "https://open.spotify.com/track/4oEfPKL5ccBOR0wQhhpNX0"
@@ -1086,6 +1140,28 @@
       "duration_ms": 149000,
       "name": "ENM\u00daSAME",
       "url": "https://open.spotify.com/track/3cY6e5pfLpYk5uiT5RdYcv"
+    },
+    {
+      "album": {
+        "name": "FANTASMAS",
+        "url": "https://open.spotify.com/album/2QubXvxqMEnCtzhHFYChay"
+      },
+      "artists": [
+        {
+          "name": "Lee Eye",
+          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172837,
+      "name": "FANTASMAS",
+      "url": "https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4"
     },
     {
       "album": {
@@ -1194,6 +1270,24 @@
       "duration_ms": 245593,
       "name": "Fui y Volv\u00ed",
       "url": "https://open.spotify.com/track/66tE6J4QvH59jTSajXcVXl"
+    },
+    {
+      "album": {
+        "name": "F\u00f3rmula 1",
+        "url": "https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157968,
+      "name": "F\u00f3rmula 1",
+      "url": "https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB"
     },
     {
       "album": {
@@ -1601,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "Lo Que Me Har\u00edas En Otra Parte",
+      "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
+    },
+    {
+      "album": {
         "name": "Los Consejos",
         "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
       },
@@ -1720,7 +1832,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 225538,
       "name": "Mariposas Negras",
       "url": "https://open.spotify.com/track/3dNvc7YXsJzYxV0mav3eY9"
@@ -2491,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Bolero Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189077,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
+    },
+    {
+      "album": {
         "name": "TORQUE: Vol. 1",
         "url": "https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne"
       },
@@ -2578,7 +2708,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 142192,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/7lOfdVm2W1Zk12Jnd8T3ap"
@@ -2618,6 +2748,24 @@
       "duration_ms": 223133,
       "name": "Ruise\u00f1ora",
       "url": "https://open.spotify.com/track/6vlRIofLfepIf7IPG2wZlD"
+    },
+    {
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/2aWqyVLeFFPrPe4Ra77b9f"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193674,
+      "name": "Sabor a Ti",
+      "url": "https://open.spotify.com/track/4lUhWY1Cc1s1N0ncrAHE4x"
     },
     {
       "album": {
@@ -2882,7 +3030,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 137167,
       "name": "Tiempo Indefinido",
       "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
@@ -3406,7 +3554,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 200869,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: KAYTRAMINÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,068 likes - 105 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,121 likes - 105 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 104 | [wake up](https://open.spotify.com/track/2oDZ1JaqdgbWzZJubJmYTT) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [wake up](https://open.spotify.com/album/1Ccs6phqIKRsl43VHLSpOs) | 2:40 |
 | 105 | [lo$t kid.](https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [$hook](https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM) | 2:28 |
 
-Snapshot ID: `MCwwOTJiMjEyMGIxNTU4NGNjNWU0MDgwMWFhMzdlNGYwODNjM2Q2MmMx`
+Snapshot ID: `MCwwOWQ1Yjg1NmVkYmRiOTVmZjE2MjlhMmQwNWRkNjQwNzRkY2RmNGQ5`

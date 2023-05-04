@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11321,
+  "num_followers": 11329,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGE5YmVlNDM0OWQxNDNmMWQ5ODRiZTMzNjY0OWM0ZTk5ZjNhMGM5",
+  "snapshot_id": "MCxkNzliZWUxNTEzMDNlZTQ1NzA2OWU2Mjk1MjhjMzY5Nzg4NGYyNzE3",
   "tracks": [
     {
       "added_at": "2023-05-02 06:41:07",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-05-02 06:41:07",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
-        "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "With me",
-      "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
-    },
-    {
-      "added_at": "2023-05-02 06:41:07",
-      "album": {
         "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
         "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 256146,
       "name": "\ub450 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
+    },
+    {
+      "added_at": "2023-05-02 06:41:07",
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "With me",
+      "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
     },
     {
       "added_at": "2023-05-02 06:41:07",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-05-02 06:41:07",
       "album": {
+        "name": "Encounter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 221947,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
+    },
+    {
+      "added_at": "2023-05-02 06:41:07",
+      "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 217000,
       "name": "Evening (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
-    },
-    {
-      "added_at": "2023-05-02 06:41:07",
-      "album": {
-        "name": "Encounter (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 221947,
-      "name": "The Night",
-      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
     },
     {
       "added_at": "2023-05-02 06:41:07",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-05-02 06:41:07",
       "album": {
-        "name": "Crash Course in Romance OST Part 4",
-        "url": "https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
-    },
-    {
-      "added_at": "2023-05-02 06:41:07",
-      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "added_at": "2023-05-02 06:41:07",
+      "album": {
+        "name": "Crash Course in Romance OST Part 4",
+        "url": "https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 172361,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
     },
     {
       "added_at": "2023-05-02 06:41:07",

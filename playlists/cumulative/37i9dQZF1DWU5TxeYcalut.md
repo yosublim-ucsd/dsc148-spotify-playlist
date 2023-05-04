@@ -4,7 +4,7 @@
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-121 songs - 10 hr 16 min
+122 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Sabor](https://open.spotify.com/track/2wPJ5HMGp3TftsxL3puIMT) | [Trívia](https://open.spotify.com/artist/2WxfyoixnFqg2c2wohtKAw), [Diego Garbin](https://open.spotify.com/artist/6IZSzplX4B4ftv1xrssORB) | [Sabor](https://open.spotify.com/album/3iFHfXFv7XfjZhC1cIjQo9) | 5:55 | 2022-07-08 |  |
 | [Same Old Blues](https://open.spotify.com/track/1ZDOfQUJXaac8w6q9U0MLi) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh), [Victor Biglione](https://open.spotify.com/artist/5GHcCPhRZFVn1KIjtBmS8B) | [Cássia Eller & Victor Biglione In Blues](https://open.spotify.com/album/2zx348PyI6d3fEfDWnv3QP) | 3:28 | 2023-01-06 | 2023-02-04 |
 | [Sampa](https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE) | [Chico Macedo](https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt) | [Chico Macedo 4teto](https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy) | 5:04 | 2022-07-08 |  |
-| [Santa Cecília](https://open.spotify.com/track/48MbcABnXDeFNajsQ6bwT6) | [MINIDocs](https://open.spotify.com/artist/3T2xCfhBZQj5kk6S6aGpCV), [Oritá](https://open.spotify.com/artist/1xVqmKq5IfPibJultYqpcc) | [Oritá no MINIDocs](https://open.spotify.com/album/2a5yfMZ7cBbLz9kJbTrc37) | 5:30 | 2022-07-08 |  |
+| [Santa Cecília](https://open.spotify.com/track/2aBcW0F2W0r11qShc1oaCt) | [MINIDocs](https://open.spotify.com/artist/3T2xCfhBZQj5kk6S6aGpCV), [Oritá](https://open.spotify.com/artist/1xVqmKq5IfPibJultYqpcc) | [Oritá No Minidocs](https://open.spotify.com/album/5rfUjgWMbXgm93fP69Paew) | 5:30 | 2023-04-28 |  |
+| [Santa Cecília](https://open.spotify.com/track/48MbcABnXDeFNajsQ6bwT6) | [MINIDocs](https://open.spotify.com/artist/3T2xCfhBZQj5kk6S6aGpCV), [Oritá](https://open.spotify.com/artist/1xVqmKq5IfPibJultYqpcc) | [Oritá no MINIDocs](https://open.spotify.com/album/2a5yfMZ7cBbLz9kJbTrc37) | 5:30 | 2022-07-08 | 2023-05-04 |
 | [Serena](https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO) | [Ana Azevedo](https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn), [Augusto Mattoso](https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y), [André Fróes](https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje) | [AMF](https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf) | 5:34 | 2022-07-08 |  |
 | [Sertão](https://open.spotify.com/track/3Z5j1r3OEWnv1cL8krW9AI) | [Benjamim Taubkin](https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy), [Ivan Vilela](https://open.spotify.com/artist/4Bt3JkryrujFrIJQKIPsrp) | [Encontro](https://open.spotify.com/album/5xxHuhQzVrlAvZqR0W3c9t) | 8:31 | 2022-07-08 |  |
 | [Sete Coisas](https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye) | [Ágar\-Ágar TRIO](https://open.spotify.com/artist/54OZDPo1qOuCCXlDpdjB6O), [Lucas Brogiolo](https://open.spotify.com/artist/1d9qwScL2GQ8LDb2XwJFwc), [Jussan Cluxnei](https://open.spotify.com/artist/3s3InuUpVj7AqDzsA83a05), [Lucas Bonetti](https://open.spotify.com/artist/5giBwOhPlNTS6qWktS2sgK) | [MOA](https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz) | 4:19 | 2022-07-08 |  |

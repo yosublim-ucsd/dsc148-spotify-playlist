@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,162 likes - 101 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,170 likes - 101 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 |
 | 101 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
 
-Snapshot ID: `MCwxNTFjZmNiNjJlZDUzNTJhMDY1NzNjYWVjYzE4YmNlZTU3NjI1NmFh`
+Snapshot ID: `MCxjZTdmN2QwZDAxYmQ4NDIzOGZjM2E2MWQ5ZjhhZGFhZTk0YmRiNGI1`

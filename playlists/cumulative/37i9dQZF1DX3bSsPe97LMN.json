@@ -5049,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162037,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
+    },
+    {
+      "album": {
         "name": "Tiempo Fuera",
         "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
@@ -5354,7 +5372,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 202197,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"

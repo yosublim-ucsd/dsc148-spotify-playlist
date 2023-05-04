@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8922,
+  "num_followers": 8944,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDBkNzc3MTlhYWI5OWFjZmY2ZDY0YjFmMjZkMzY2MjVhNzU2Njhk",
+  "snapshot_id": "MCw2ZDhiNjMwYjdiOTk1ZDJiNDUyOTBjZDk0OGJhYTA0OGUyMDUwMTM2",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Ballads",
-        "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "\uac70\ub9ac\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "SO COOL",
         "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 201273,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Ballads",
+        "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "\uac70\ub9ac\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Virginalness Bloom",
-        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
-      },
-      "artists": [
-        {
-          "name": "\ucc44\uc5f0",
-          "url": "https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "It's Different",
         "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 271893,
       "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
       "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Virginalness Bloom",
+        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
+      },
+      "artists": [
+        {
+          "name": "\ucc44\uc5f0",
+          "url": "https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "\uc5b4\ub5a4\uac00\uc694",
-      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Vivid Summer Edition 1st Amaranth Repackage Album",
         "url": "https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 259372,
       "name": "\uc0ac\ub791\uacfc \uc804\uc7c1 - \ud558\ud558 Narration Version",
       "url": "https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "\uc5b4\ub5a4\uac00\uc694",
+      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
-      },
-      "artists": [
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        }
-      ],
-      "duration_ms": 247852,
-      "name": "A Letter to you Part.2",
-      "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
         "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 220760,
       "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        }
+      ],
+      "duration_ms": 247852,
+      "name": "A Letter to you Part.2",
+      "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "The Windows Of My Soul",
+        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "duration_ms": 238393,
+      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
+      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Digital Bounce",
         "url": "https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 226038,
       "name": "\uac70\uc9d3\ub9d0 Pt. 1",
       "url": "https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "The Windows Of My Soul",
-        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
-      },
-      "artists": [
-        {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
-        }
-      ],
-      "duration_ms": 238393,
-      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
-      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "SE7EN New Mini Album",
-        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
-      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Shady Girl",
         "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 194324,
       "name": "Shady Girl",
       "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "SE7EN New Mini Album",
+        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
+      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Must Listen",
-        "url": "https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Like Them",
         "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Must Listen",
+        "url": "https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "The Jadu 3",
         "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
+        "url": "https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi"
+      },
+      "artists": [
+        {
+          "name": "\uae40\ud615\uc911",
+          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
+        }
+      ],
+      "duration_ms": 269362,
+      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544....",
+      "url": "https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Comfort",
         "url": "https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 236560,
       "name": "I'm Sorry (Feat. T.O.P)",
       "url": "https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
-        "url": "https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi"
-      },
-      "artists": [
-        {
-          "name": "\uae40\ud615\uc911",
-          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
-        }
-      ],
-      "duration_ms": 269362,
-      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544....",
-      "url": "https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW"
     },
     {
       "added_at": "2021-03-11 16:26:11",

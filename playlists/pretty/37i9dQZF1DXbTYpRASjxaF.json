@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Ryu, the Runner, Mateca",
-  "num_followers": 105191,
+  "num_followers": 105375,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTU0MGRmOWQ2YmUxNzdlNGJmMzkzOTQ5OGZjMDU4MjJlYjVjMjBk",
+  "snapshot_id": "MCw5NDNhN2IwZTc1ZmQ4YmZlMjNiZWQ5OGNjMmRkZmMxMmRlYjAwNzVj",
   "tracks": [
     {
       "added_at": "2023-04-28 14:35:04",
@@ -943,6 +943,38 @@
     {
       "added_at": "2023-04-28 14:35:04",
       "album": {
+        "name": "Marid\u00e3o (feat. Borges & Feek)",
+        "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        }
+      ],
+      "duration_ms": 322622,
+      "name": "Marid\u00e3o (feat. Borges & Feek)",
+      "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
+    },
+    {
+      "added_at": "2023-04-28 14:35:04",
+      "album": {
         "name": "Avisa L\u00e1, Pt.3",
         "url": "https://open.spotify.com/album/3O8mbhZhxw1iSTuAB5ICof"
       },
@@ -979,38 +1011,6 @@
       "duration_ms": 338823,
       "name": "Avisa L\u00e1, Pt.3",
       "url": "https://open.spotify.com/track/7pWzcOoDF3ssFLrH5wivif"
-    },
-    {
-      "added_at": "2023-04-28 14:35:04",
-      "album": {
-        "name": "Marid\u00e3o (feat. Kizzy & Feek)",
-        "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "Feek",
-          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
-        }
-      ],
-      "duration_ms": 322622,
-      "name": "Marid\u00e3o (feat. Kizzy & Feek)",
-      "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
     },
     {
       "added_at": "2023-04-28 14:35:04",

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-743 songs - 2 day 1 hr 12 min
+745 songs - 2 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [I Wanna Be...](https://open.spotify.com/track/4Dygh4Ef0TFQQOvKbLGbXf) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:55 | 2022-06-07 |  |
 | [I Wanna Be...](https://open.spotify.com/track/3wBlBTtAsx2ZMulI4r5rQu) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [I Wanna Be...](https://open.spotify.com/album/2dwqqmIzv7uL5rurGqAljT) | 3:56 | 2022-06-07 | 2022-07-06 |
 | [I will...](https://open.spotify.com/track/4DGJQEY7NUtuKRL6IX20U6) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [I will...](https://open.spotify.com/album/5NiJNFnTIXAY1vbDLOaohA) | 4:34 | 2022-06-07 | 2022-07-28 |
-| [ID](https://open.spotify.com/track/2TdfwkIHpCb0S8NYJVyr2X) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ID](https://open.spotify.com/album/17RZ0HdVPqFvVcZNQZfvkO) | 3:45 | 2022-06-07 |  |
+| [ID](https://open.spotify.com/track/2TdfwkIHpCb0S8NYJVyr2X) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ID](https://open.spotify.com/album/17RZ0HdVPqFvVcZNQZfvkO) | 3:45 | 2022-06-07 | 2023-05-04 |
 | [Iden Teitei Meltdown](https://open.spotify.com/track/3ChPJQvs0HvyNy7j3AbBzK) | [Enako](https://open.spotify.com/artist/23Sh4LxrCSK3Or7uEjZ9Vy), [Pmarusama](https://open.spotify.com/artist/7G6CzEvibsxpjfOIktMQEO) | [Iden Teitei Meltdown](https://open.spotify.com/album/2tCVHP4OBLBnz3bT7fz0G7) | 4:03 | 2023-01-07 | 2023-04-02 |
 | [IDENTITY](https://open.spotify.com/track/7lbZwJ9X5MZhelteWMxOah) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [IDENTITY](https://open.spotify.com/album/1K8iiCfPzOgntxYJjfl6KD) | 3:10 | 2022-06-07 | 2022-07-15 |
 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2022-11-22 | 2023-04-02 |
@@ -393,6 +393,7 @@
 | [VOLTAGE](https://open.spotify.com/track/1ochPJNz2afOUWuFKm18zm) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [VOLTAGE](https://open.spotify.com/album/3z5JK4QaE9LvXveYO5q695) | 3:49 | 2022-06-07 | 2022-07-28 |
 | [WALK \- movie ver.](https://open.spotify.com/track/41YivtJd2tb1jb7IejdQYn) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [夏の夢/WALK](https://open.spotify.com/album/03sgjxuA0soDPpj5Kzf2e1) | 3:44 | 2022-06-07 | 2022-07-29 |
 | [We'll Be Alright \(Movie Edit\)](https://open.spotify.com/track/4toGhOrpjQfweDT9flB5iq) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 4:18 | 2022-06-07 | 2022-11-23 |
+| [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-05-01 |  |
 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 | 2022-08-11 |  |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-02-20 |  |
 | [Who are you?](https://open.spotify.com/track/2jjtyENFrV2g4XocVqjUGi) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [Who are you? / 星座して二人](https://open.spotify.com/album/3y24ZDMTWldEr0NASCKErU) | 3:29 | 2022-06-07 | 2022-07-29 |
@@ -530,6 +531,7 @@
 | [ディザイア](https://open.spotify.com/track/198elPRu7tlHqwAZrQvqyG) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [ディザイア](https://open.spotify.com/album/6M1iVKSypFnGtVyalcM5GU) | 3:41 | 2022-06-07 | 2022-07-09 |
 | [デイドリーム ビリーヴァー](https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [デイドリーム ビリーヴァー](https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d) | 3:37 | 2022-10-18 | 2022-11-23 |
 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 | 2022-11-22 | 2023-02-21 |
+| [トリック・アート](https://open.spotify.com/track/466WrVxdpRXkuRDU4vF16l) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [トリック・アート](https://open.spotify.com/album/7n7GiqZeFOpyX97bnA0HaB) | 2:56 | 2023-05-01 |  |
 | [ドキメキダイアリー](https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q) | 3:19 | 2023-05-01 |  |
 | [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 | 2023-02-20 | 2023-04-03 |
 | [ドレス](https://open.spotify.com/track/0GtyXOIALhodGAPWAz2r8v) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [ドレス](https://open.spotify.com/album/77xlpcZfxdkDdWoTEHGE3F) | 2:39 | 2022-06-07 | 2022-07-20 |
@@ -568,7 +570,7 @@
 | [リセット](https://open.spotify.com/track/5DfC0daqjnz1iQlOmpv2ib) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [PURE](https://open.spotify.com/album/2TGEJxj260gHLitdF8es0E) | 4:09 | 2022-06-07 | 2022-07-29 |
 | [リセット](https://open.spotify.com/track/7gm59KVXfG8wEAfN3Lv2Xu) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [PURE](https://open.spotify.com/album/71TimGdYvnolc8o298RVxs) | 4:09 | 2022-06-07 |  |
 | [リナリア](https://open.spotify.com/track/6CDwwQF6WjyiYf2YRwjtFk) | [まるりとりゅうが](https://open.spotify.com/artist/6dcd2CUUMnZjue8tgSE68n) | [リナリア](https://open.spotify.com/album/6nHcxKC13BVATxDD5IGkRi) | 3:51 | 2022-06-07 | 2022-07-22 |
-| [リンネ](https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [リンネ](https://open.spotify.com/album/6HAAgNaMddnBwL6u9HOCpX) | 4:15 | 2023-04-13 |  |
+| [リンネ](https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [リンネ](https://open.spotify.com/album/6HAAgNaMddnBwL6u9HOCpX) | 4:15 | 2023-04-13 | 2023-05-04 |
 | [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 | 2023-02-20 |  |
 | [レイメイ](https://open.spotify.com/track/7EZRxYT7qkgNcMIW59POuA) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 5:14 | 2022-08-11 |  |
 | [レイメイ](https://open.spotify.com/track/1s0QbmRVJ6AK4ICc44tJtB) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dawn](https://open.spotify.com/album/7hdGjytOu9ziptlaNwbtwK) | 5:15 | 2022-06-07 | 2022-07-28 |

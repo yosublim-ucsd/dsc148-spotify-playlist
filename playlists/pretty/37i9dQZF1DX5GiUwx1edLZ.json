@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 274546,
+  "num_followers": 274569,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mjc1ZWE2Y2IzMzM0NWEzMTlkZGUwYzdkNmZkMGU1OGY1Mzc5ZGVl",
+  "snapshot_id": "MCw0NmYzNGVkYWI5MTY4YmJhNzhmMTA4ZTQ5OTYwZjYwMmExN2QzN2E2",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Acoustic]",
-        "url": "https://open.spotify.com/album/3vjUqxIylUXnCzjtebAmCg"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 191225,
-      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Acoustic",
-      "url": "https://open.spotify.com/track/0wHwGDYc8nltuYykhZRKln"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Brand New Machine",
         "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 238640,
       "name": "What Is Right",
       "url": "https://open.spotify.com/track/0kmnAeHOhccNv6cCRj1wks"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Acoustic]",
+        "url": "https://open.spotify.com/album/3vjUqxIylUXnCzjtebAmCg"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 191225,
+      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Acoustic",
+      "url": "https://open.spotify.com/track/0wHwGDYc8nltuYykhZRKln"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "King - Acoustic",
+      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 239453,
       "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
       "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "King - Acoustic",
-      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1871,22 +1871,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
-        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 205159,
-      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
-      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
+      "duration_ms": 194594,
+      "name": "Don't Forget My Love - Acoustic",
+      "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1911,22 +1911,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
+        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Don't Forget My Love - Acoustic",
-      "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
+      "duration_ms": 205159,
+      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
+      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1971,22 +1971,18 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
-        "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
+        "name": "Violin Covers Pt. II",
+        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
       },
       "artists": [
         {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Daniel Jang",
+          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
         }
       ],
-      "duration_ms": 201468,
-      "name": "How to Love (feat. Sofia Reyes) - Acoustic",
-      "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
+      "duration_ms": 186754,
+      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
+      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
     }
   ],
   "unique_name": "mint Acoustic",

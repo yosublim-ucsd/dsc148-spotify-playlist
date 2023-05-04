@@ -1,12 +1,12 @@
 {
   "description": "Relax with these timeless tunes. Cover: John Denver",
-  "num_followers": 635832,
+  "num_followers": 636185,
   "original_name": "Mellow Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzhjZjk3YWFlNGFjNjJhZTcwOTk5NzI2Njk4Njg1NWZjNjRjNTA4",
+  "snapshot_id": "MCxjYmMwODI0ZmE5OTEwYzY1ZmEzYmJiYWZhZmQ0OTY3OWFlNzk4Mzcw",
   "tracks": [
     {
       "added_at": "2021-09-30 18:53:37",
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     },
     {
-      "added_at": "2023-05-03 00:17:13",
+      "added_at": "2023-05-04 00:13:01",
       "album": {
         "name": "Silk Purse",
         "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Mona Lisas And Mad Hatters",
-      "url": "https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 235626,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Mona Lisas And Mad Hatters",
+      "url": "https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf"
     },
     {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "The Voice of Scott McKenzie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ"
-      },
-      "artists": [
-        {
-          "name": "Scott McKenzie",
-          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "San Francisco (Be Sure to Wear Some Flowers In Your Hair)",
-      "url": "https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX"
-    },
-    {
       "added_at": "2022-09-13 14:34:43",
       "album": {
         "name": "For Everyman",
@@ -1079,6 +1063,22 @@
       "duration_ms": 284840,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2dcoDVcOc9hGPbtZFtpcw3"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "The Voice of Scott McKenzie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ"
+      },
+      "artists": [
+        {
+          "name": "Scott McKenzie",
+          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "San Francisco (Be Sure to Wear Some Flowers In Your Hair)",
+      "url": "https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX"
     },
     {
       "added_at": "2021-09-30 18:53:37",

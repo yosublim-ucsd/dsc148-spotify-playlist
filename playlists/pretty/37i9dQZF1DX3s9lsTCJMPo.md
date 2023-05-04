@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,541 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,579 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [Gyal You a Party Animal](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal](https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h) | 3:34 |
 | 80 | [Santorini \- Toutouni](https://open.spotify.com/track/0fmLrumawMi4GSc6Am5M22) | [Gamma](https://open.spotify.com/artist/4PNh8FwyFmQmZ8itJT1ZnM) | [Santorini \(Toutouni\)](https://open.spotify.com/album/53HA8pTKzXVuedif71ncAP) | 1:50 |
 
-Snapshot ID: `MCxjOTFlMzM4ZGQ4ODk5MTQwMTBmMzY3MWI1NTcxNGYwZWVjNDE2ODg2`
+Snapshot ID: `MCwxOWYyOWJkYTkxZDcyYTA0ODljMWI0YmJkOTIxMTBmN2Q4ZDIzY2My`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,481 songs - 3 day 7 hr 28 min
+1,482 songs - 3 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,7 @@
 | [LA JOAQUI \| Mission 08](https://open.spotify.com/track/3ZkUgtNi45G8qdmya5UTgV) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| Mission 08](https://open.spotify.com/album/3iB7L3jdv63EAi4TnI59cz) | 2:29 | 2023-01-18 | 2023-01-29 |
 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 | 2022-12-27 | 2023-01-16 |
 | [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/1MDy1pR75sPtgFcUzP407o) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [La Lecon Particuliere](https://open.spotify.com/album/2ZgDbFnLWj6dRwDAwk6WlV) | 1:45 | 2023-03-29 | 2023-03-31 |
-| [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 | 2023-03-28 |  |
+| [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 | 2023-03-28 | 2023-05-04 |
 | [La Maldita Bulla](https://open.spotify.com/track/6Z0USdAMfe3eDQRaye0yF1) | [Many Malon](https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM) | [La Maldita Bulla](https://open.spotify.com/album/24b3NeVqgYWZtwM9LZ7o4L) | 1:23 | 2022-10-10 | 2022-10-19 |
 | [La Seine \- Extrait de la bande originale un monstre à Paris](https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:47 | 2022-02-22 | 2022-03-09 |
 | [LABELS CALLIN'](https://open.spotify.com/track/19s7W71y7IZDAn6X2mnCqr) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [DLOG](https://open.spotify.com/album/4tnNsvUsbJAoI9FESgvkOJ) | 2:38 | 2022-10-31 | 2022-11-23 |
@@ -1286,6 +1286,7 @@
 | [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-16 |  |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-31 | 2023-02-17 |
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-11-08 | 2022-11-23 |
+| [The Wreck of the Edmund Fitzgerald](https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Summertime Dream](https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8) | 6:29 | 2023-05-03 |  |
 | [Therapy](https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 2:44 | 2021-12-30 | 2022-02-02 |
 | [There Is Something on Your Mind](https://open.spotify.com/track/1bSBbbH9KYzwsKosToLeAC) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 3:22 | 2022-02-16 | 2022-03-14 |
 | [Thick Fine Woman](https://open.spotify.com/track/1vuZEWtyQYMivPMKk4ySdX) | [Chalie Boy](https://open.spotify.com/artist/5c6zqnWXNHg6PJrJtAARpk), [Lil Ronny Motha F](https://open.spotify.com/artist/6uft3KriUGneffNm6jyAug), [No Shame](https://open.spotify.com/artist/5e9kOcXnAtmqHbgpqPQ5oF), [Fat Pimp](https://open.spotify.com/artist/74Oeqr5fSxzC9tXkkOAgUv) | [Chalie](https://open.spotify.com/album/3fUrpwGRd2dTAag8hsdXyj) | 4:35 | 2022-07-09 | 2022-08-10 |

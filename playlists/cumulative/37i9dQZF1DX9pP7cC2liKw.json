@@ -2966,6 +2966,24 @@
     {
       "album": {
         "name": "Cenotes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ma\u00f1ana Tepotzlan",
+      "url": "https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp"
+    },
+    {
+      "album": {
+        "name": "Cenotes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
       },
       "artists": [
@@ -5354,7 +5372,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 392250,
       "name": "Urban Birds",
       "url": "https://open.spotify.com/track/5FnQ4dsoSCUUY2LW0UzYdF"

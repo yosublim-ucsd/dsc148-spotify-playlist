@@ -4,7 +4,7 @@
 
 > We just wanna rock you all night long.
 
-183 songs - 17 hr 24 min
+184 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29) | 3:49 | 2022-02-10 | 2022-11-09 |
 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 | 2022-02-10 | 2022-07-29 |
 | [Disco Dancer](https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 6:56 | 2022-02-10 | 2023-04-30 |
+| [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 | 2022-09-05 |  |
 | [Disco Fantasy](https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE) | [Rahaan](https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu) | [Chicago Service](https://open.spotify.com/album/098htENdjaFFSWNegkNoWe) | 5:28 | 2022-02-10 |  |
 | [Disco Hi \- Life](https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx) | 9:00 | 2022-02-10 |  |
 | [Disco Hi\-Life \- Original Version](https://open.spotify.com/track/2WNSDa9fycsYHqH9g0EKqq) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/3T0zrjpgnJeZ86PNWXvD42) | 9:00 | 2022-02-10 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2022-02-10 |  |
 | [Is It All Over My Face? \- Female Vocal](https://open.spotify.com/track/7iOSi3GZFApxC00XL9OPAl) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Larry Levans Classic West End Records Remixes Made Famous At The Legendary Paradise Garage](https://open.spotify.com/album/1Z4ucqR9byZPqqlRUoayIu) | 6:57 | 2022-02-10 | 2022-07-29 |
 | [It Looks Like Love](https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY) | [Goody Goody](https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3) | [Goody Goody](https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC) | 6:23 | 2022-02-10 |  |
-| [It's Like That](https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two \(Expanded Edition\)](https://open.spotify.com/album/4BFwQ2eRqnHJmVo3l0oCeC) | 4:16 | 2022-02-10 |  |
+| [It's Like That](https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two \(Expanded Edition\)](https://open.spotify.com/album/4BFwQ2eRqnHJmVo3l0oCeC) | 4:16 | 2022-02-10 | 2023-05-04 |
 | [It's Like That](https://open.spotify.com/track/1uIberD0UjjZOMxOMQtgXy) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two](https://open.spotify.com/album/1DCp2Xs3vuxv8MZJYIHiOf) | 4:17 | 2022-02-10 | 2022-07-29 |
 | [Just a Touch of Love](https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Just A Touch Of Love](https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg) | 6:32 | 2022-02-10 |  |
 | [Just an Illusion](https://open.spotify.com/track/3o26dzDS061QiDD3bThGtE) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7H8XYReZxtR3OtgaVDWZUo) | 6:25 | 2022-02-10 | 2022-07-29 |

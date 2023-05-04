@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-282 songs - 20 hr 36 min
+283 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Beautiful For Whom \- "The Little Nyonya" Opening Theme Song](https://open.spotify.com/track/6c0EmxRJ58IcR4LQZSLLhP) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [Beautiful For Whom \("The Little Nyonya" Opening Theme Song\)](https://open.spotify.com/album/4VL0iAv3ur1NZXD7XlIGjt) | 4:38 | 2022-06-20 | 2022-07-20 |
 | [Don’t Blow Away](https://open.spotify.com/track/5ZG1HDy7TYzQFUGQ9wQvs2) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [Don’t Blow Away](https://open.spotify.com/album/2HLOi336hZEySin334MKne) | 4:19 | 2022-06-06 | 2022-07-17 |
 | [Feel Wronged ?](https://open.spotify.com/track/0zcLffyaoRviYLL0L0F7Ej) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [Feel Wronged ?](https://open.spotify.com/album/5Pab7v1HR3rqyr2lQRaQaO) | 4:32 | 2022-06-06 | 2022-07-17 |
+| [hard to let you go](https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [hard to let you go](https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2) | 4:40 | 2023-05-01 |  |
 | [Hello\(電影《刻在你心底的名字》宣傳曲\)](https://open.spotify.com/track/6xZ9df7zpAeK1iQxcVBxJF) | [龔言脩](https://open.spotify.com/artist/18luxd1vZzmJ6P13eISD58) | [Hello\(電影《刻在你心底的名字》宣傳曲\)](https://open.spotify.com/album/0glak7pWMpM5TGnxRUUA2Z) | 3:37 | 2022-06-06 | 2022-07-28 |
-| [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 |  |
+| [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 | 2023-05-04 |
 | [I'll Be Missing You](https://open.spotify.com/track/0s46SmBykd4tqLxJ9AT7eB) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I'll Be Missing You](https://open.spotify.com/album/6DdWMOdkrnUORonnh8Xkhk) | 3:08 | 2022-06-06 | 2022-07-21 |
 | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/track/6NSIhIAlPt7ibeTERkiqTc) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/album/6NGi0ac8CqDapbpM1Zqbcq) | 3:12 | 2022-06-20 | 2022-07-28 |
 | [Long Gone](https://open.spotify.com/track/6IAKbyQ5Qc5SOcSVhHv4Bx) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Workers Original Soundtrack EP 2](https://open.spotify.com/album/36rgzYqakTgIpIgO142kOr) | 4:25 | 2022-06-13 | 2022-07-23 |

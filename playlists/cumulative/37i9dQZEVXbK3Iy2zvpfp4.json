@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5GqVngIWBC1vb0Rk8pOdqc"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0GQIQ9SrDcRV7Uhv5dLb09"
+    },
+    {
+      "album": {
         "name": "Polozhenie (Night Lovell)",
         "url": "https://open.spotify.com/album/1yvE4BZmnSe4DQYOBizzJ7"
       },
@@ -788,6 +806,10 @@
         {
           "name": "Dj Belite",
           "url": "https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF"
+        },
+        {
+          "name": "DNDM",
+          "url": "https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA"
         }
       ],
       "date_added": "2023-04-08",
@@ -2358,7 +2380,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 144930,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
@@ -2420,6 +2442,52 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "album": {
+        "name": "Kruhy & Vlny (217 Twins Edition)",
+        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        },
+        {
+          "name": "Zkrat Kratochv\u00edl",
+          "url": "https://open.spotify.com/artist/5zPcA8oC80lt3ykHdP8Dpe"
+        },
+        {
+          "name": "Fobia Kid",
+          "url": "https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta"
+        },
+        {
+          "name": "LUISA",
+          "url": "https://open.spotify.com/artist/7J8NWckBrcIlgoE7Ue8v9H"
+        },
+        {
+          "name": "James Cole",
+          "url": "https://open.spotify.com/artist/4RefYXMwgQ9ygWvQLmcphN"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407714,
+      "name": "Bo\u017e\u00ed Ml\u00fdny Melou Furt",
+      "url": "https://open.spotify.com/track/4uFaGNP4ei0VK7VC7BVbZ2"
     },
     {
       "album": {
@@ -7199,28 +7267,6 @@
     },
     {
       "album": {
-        "name": "hotline bling (billie version)",
-        "url": "https://open.spotify.com/album/5GqVngIWBC1vb0Rk8pOdqc"
-      },
-      "artists": [
-        {
-          "name": "hazel",
-          "url": "https://open.spotify.com/artist/1v41KOBW8UYNxdhKWtXig2"
-        },
-        {
-          "name": "instrumental version",
-          "url": "https://open.spotify.com/artist/5ZhalLwhHDnucjkq8H1Wo7"
-        }
-      ],
-      "date_added": "2023-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 72972,
-      "name": "hotline bling (billie version)",
-      "url": "https://open.spotify.com/track/0GQIQ9SrDcRV7Uhv5dLb09"
-    },
-    {
-      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -10676,6 +10722,24 @@
       "duration_ms": 208694,
       "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
+    },
+    {
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/1LzQ8k1PDyXvy5pjCcfaZT"
+      },
+      "artists": [
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241426,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/32Ky5QCRtwYJJXuLwoGufj"
     },
     {
       "album": {
@@ -14556,7 +14620,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 189800,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n"
@@ -16010,7 +16074,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 149603,
       "name": "Sua amiga vou sarrar",
       "url": "https://open.spotify.com/track/6PyRfJN2K5Sm1vfOuF4Z9z"
@@ -19784,7 +19848,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "\u3059\u305a\u3081",
       "url": "https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR"

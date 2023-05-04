@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-239 songs - 13 hr 36 min
+240 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,9 +110,10 @@
 | [Huapango Flor de Piña](https://open.spotify.com/track/04h7bbC8bBngyEqJk8cEXB) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Viejón de Oro](https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea) | 2:52 | 2022-04-08 |  |
 | [Huapango Flor de Piña](https://open.spotify.com/track/4RVTmFYSCwaJOH3j9vou6Y) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Huapangos 2017](https://open.spotify.com/album/2RcKPrD7jq45BWmb96KdFq) | 2:52 | 2022-04-08 | 2022-07-29 |
 | [Huapangos De Barrio \- En Vivo](https://open.spotify.com/track/2TCBdixeX6MvqCxfvhslhE) | [Antidoto](https://open.spotify.com/artist/2DyXcyLK08q2b7UpBpKIyr) | [Huapangos De Barrio \(En Vivo\)](https://open.spotify.com/album/23v3ofFxa0A2gJZcwfOggx) | 4:20 | 2022-04-08 | 2022-07-29 |
+| [Huapangos Mix 2017](https://open.spotify.com/track/1ovy2FvWabQu3bGdik8g7o) | [Estilo Chihuahua](https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw) | [Huapangos Mix 2017](https://open.spotify.com/album/7s6NmP8nfQCGNXO2ge6Kjn) | 5:14 | 2023-04-21 |  |
 | [Huapangos Perros](https://open.spotify.com/track/0gur2lhu5GZlSWzgm6JPjy) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH) | 5:09 | 2022-04-08 |  |
 | [Huapangos Perros](https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM) | 5:09 | 2022-04-08 | 2022-07-29 |
-| [Huapangos popurrí](https://open.spotify.com/track/0uVWICxtZLCsSmahudDYIi) | [Estilo Chihuahua](https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw) | [Simple y Sencillamente](https://open.spotify.com/album/5gUXeDZJNSAbv8Kdwytqht) | 5:14 | 2022-04-08 |  |
+| [Huapangos popurrí](https://open.spotify.com/track/0uVWICxtZLCsSmahudDYIi) | [Estilo Chihuahua](https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw) | [Simple y Sencillamente](https://open.spotify.com/album/5gUXeDZJNSAbv8Kdwytqht) | 5:14 | 2022-04-08 | 2023-05-04 |
 | [Inmortales Medley: Celoso / Dulcemente Enamorada / Cosas del Amor / Cómo Estás Tú \- En Vivo Desde Monterrey](https://open.spotify.com/track/3B8XAAB1j59uwrCfXntXcO) | [La Casetera](https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM) | [En Vivo Desde Monterrey](https://open.spotify.com/album/2YqXC2fSYZflVMNs3OzI5F) | 6:05 | 2022-12-09 | 2023-02-25 |
 | [Jambalaya](https://open.spotify.com/track/35iVqFnqmcqbIckOYoFnrn) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Arrasando Con Fuego](https://open.spotify.com/album/4gDcs5NsKydsBzvcskgs2g) | 2:35 | 2022-04-08 |  |
 | [Jambalaya](https://open.spotify.com/track/1MDa6p9XrN9IMvKqS4PEm3) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 2:37 | 2022-04-08 | 2022-07-29 |

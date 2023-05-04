@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: Rico Nasty
 
-370 songs - 17 hr 3 min
+371 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,8 @@
 | [Scrape It Off \(feat\. Lil Uzi Vert & Don Toliver\)](https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:32 | 2022-04-22 | 2022-09-24 |
 | [See Red](https://open.spotify.com/track/45tQ0kzQosAuGHn99xmVAF) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z) | [See Red](https://open.spotify.com/album/2IlhT8JBBhHrmQu6z3nKQN) | 4:26 | 2021-11-19 | 2022-03-05 |
 | [Shawty Clap It \(Remix\)](https://open.spotify.com/track/2uY5H6YteSeH80cn1kUTSg) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Shawty Clap It \(Remix\)](https://open.spotify.com/album/6KGiNio1FGRY1HcQv2yo38) | 4:45 | 2022-02-18 | 2022-04-02 |
-| [Shooting & Driving](https://open.spotify.com/track/40oVdESGHpngGCnfLd5DVy) | [Migo Lee](https://open.spotify.com/artist/1mP33Jk5fMXnfDDBWPwm25) | [Wopskino Bin Laden](https://open.spotify.com/album/6tVBPOGsnFfa6i8EDfN9br) | 2:13 | 2023-04-15 |  |
+| [Shooting & Driving](https://open.spotify.com/track/40oVdESGHpngGCnfLd5DVy) | [Migo Lee](https://open.spotify.com/artist/1mP33Jk5fMXnfDDBWPwm25) | [Wopskino Bin Laden](https://open.spotify.com/album/6tVBPOGsnFfa6i8EDfN9br) | 2:13 | 2023-04-15 | 2023-05-04 |
+| [Shooting & Driving](https://open.spotify.com/track/6NlhZkbXhoODUWGB3jtFZj) | [Migo Lee](https://open.spotify.com/artist/1mP33Jk5fMXnfDDBWPwm25) | [Wopskino Bin Laden](https://open.spotify.com/album/3WUFRIq13KZ474GTb5Hzk7) | 2:13 | 2023-04-15 |  |
 | [Show Me Something](https://open.spotify.com/track/6sAic1RifoLBsJApRomgkq) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Show Me Something](https://open.spotify.com/album/0A20gaWH1tTpMLVAwnrIPF) | 3:17 | 2022-02-18 | 2022-03-18 |
 | [Showtime](https://open.spotify.com/track/5zdMnsXUZpwx7jk10mF6ev) | [King Green](https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c) | [Showtime](https://open.spotify.com/album/3L9YpGA1DUmi4mHCrN1zCf) | 3:01 | 2022-07-09 | 2022-09-24 |
 | [SHROOM TRIP](https://open.spotify.com/track/54B9JQXq1Q3oTE9DIp1mHg) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [SHROOM TRIP](https://open.spotify.com/album/10t8VXwMKS8cDq2Pc6rQB7) | 2:23 | 2022-09-09 | 2022-12-03 |

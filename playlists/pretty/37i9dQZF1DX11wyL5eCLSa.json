@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Juan Carlos Bodoque en Portada. ",
-  "num_followers": 146823,
+  "num_followers": 147041,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODAwNjMyMmM5ZWE3M2Q5NzQxMjI3ZGRmMzUyMjQ3YWQ1YzFlZDEz",
+  "snapshot_id": "MCw1Njg1ZmZkZGE2MjVlNjllOGJmZDYzZTkzYjJkZTcxMzc4N2MyNmYw",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Trebol",
         "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 162758,
       "name": "Trebol",
       "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Lattice",
-        "url": "https://open.spotify.com/album/47Z38eMy7Ggl15Xmlhz6QM"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 264725,
-      "name": "Lattice",
-      "url": "https://open.spotify.com/track/4MNPF36soeinIWw2D5QbmM"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "El Eco de la Nada",
         "url": "https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 184533,
       "name": "Nunca te am\u00e9",
       "url": "https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Lattice",
+        "url": "https://open.spotify.com/album/47Z38eMy7Ggl15Xmlhz6QM"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 264725,
+      "name": "Lattice",
+      "url": "https://open.spotify.com/track/4MNPF36soeinIWw2D5QbmM"
     },
     {
       "added_at": "2023-04-21 06:00:00",

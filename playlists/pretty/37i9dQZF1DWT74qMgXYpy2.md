@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 
 > Flute and fiddle, drums and drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,112 likes - 63 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,114 likes - 63 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 | 29 | [Fiasco](https://open.spotify.com/track/7CJv342esjSwejNStEpWW9) | [Mànran](https://open.spotify.com/artist/0okPaVyeEjh0VJtfBdNPho) | [An Dà Là \- The Two Days](https://open.spotify.com/album/6tRjldxDGgnk1uLj9m7Tlg) | 5:27 |
 | 30 | [Morning Nightcap](https://open.spotify.com/track/0phiCWlaRaxCO6N3fCs6P7) | [Lúnasa](https://open.spotify.com/artist/020YMlk8jpd2AKUi5B0OK1) | [The Merry Sisters of Fate](https://open.spotify.com/album/0JUZnN5JpisbUZ31305hVj) | 4:56 |
 | 31 | [Deep Blue](https://open.spotify.com/track/65OZx87QPkV2aUejnqAwXr) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4ffKraZegxQwhKvK69zuk5) | 4:59 |
-| 32 | [Trois Blizzards](https://open.spotify.com/track/2j3M1i5HV6tzQQlUxisU3L) | [Vishtèn](https://open.spotify.com/artist/5EjAi7ZO8Ios2JF5esNoEf) | [Terre Rouge](https://open.spotify.com/album/0PHCsRqofKZzYeEA0mDq7x) | 3:51 |
+| 32 | [Trois blizzards](https://open.spotify.com/track/1abwz0UqwN8J4QyGMcFJjt) | [Vishtèn](https://open.spotify.com/artist/5EjAi7ZO8Ios2JF5esNoEf) | [Terre rouge](https://open.spotify.com/album/3Ib5KmR8NKnwYPFiN6VzsO) | 3:51 |
 | 33 | [Black Widow](https://open.spotify.com/track/6J8i1YypNC0ptPqGFGvvTu) | [MOXIE](https://open.spotify.com/artist/0JMUkKSGKIdDRjy14SVBpJ) | [Planted](https://open.spotify.com/album/0tQ7W6n6nWee0oThxydVWf) | 3:17 |
 | 34 | [Rory Macleod](https://open.spotify.com/track/3dZdwCw2Pcv4PIw2HpqD3t) | [Hò\-rò](https://open.spotify.com/artist/0zqsOJqQ7m8IvHwmouxK6e) | [Hò\-rò](https://open.spotify.com/album/2iYFvATh48DR8wiGy5p4sw) | 5:13 |
 | 35 | [Beyond](https://open.spotify.com/track/7xrZvMUdpMXTJUPl7XObtz) | [Talisk](https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT) | [Beyond](https://open.spotify.com/album/7jtSXw5Ff4tlW3dgac3nvW) | 6:11 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 | 62 | [Uncle Leo’s Jigs](https://open.spotify.com/track/2fuXOf6NMSgNFvb6qWoNBR) | [Còig](https://open.spotify.com/artist/14wzbXrXfprztP82yWdetC) | [Ashlar](https://open.spotify.com/album/3KdOfNMb7diwJuBK78hmVD) | 4:09 |
 | 63 | [Let Ramensky Go](https://open.spotify.com/track/3lJEdmXJRDdCx4AMeGfVqd) | [Claire Hastings](https://open.spotify.com/artist/61AuimKILFw6yaMHOwwfTh) | [Between River and Railway](https://open.spotify.com/album/3AsOLSILgLyvcSNd5NQjHt) | 3:57 |
 
-Snapshot ID: `MCwxMmNhYTg5OGVhMWJiODRlOWYxODM3MGZmZDY3N2NlMDFiYWJmM2Iy`
+Snapshot ID: `MCxjYTY3MDM2NDU5NTE5ZTg5NDhiNjQ0Yjk5OTVlYTQ4OGRhNjAzMzUw`

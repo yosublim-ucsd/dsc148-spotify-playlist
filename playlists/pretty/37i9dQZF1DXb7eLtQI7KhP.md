@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,582 likes - 120 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,618 likes - 120 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,30 +19,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 | 9 | [Stargazer](https://open.spotify.com/track/4jALRfKqKJhEjTslirOvsm) | [Cloudville](https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L) | [Stargazer](https://open.spotify.com/album/0BzSglmfXitjj9f9f2pP1F) | 2:11 |
 | 10 | [Lost in Time](https://open.spotify.com/track/7eMnLdvX83UPtfJKcLDA7l) | [Ambient Renaissance](https://open.spotify.com/artist/0QrVCAg5EvbIo1KfsKH25y) | [Lost in Time](https://open.spotify.com/album/4vIuob5doYBvZeeJ8GLjhE) | 2:11 |
 | 11 | [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 |
-| 12 | [The Journey](https://open.spotify.com/track/3ggOQQZ5MfrayWR9xGluXk) | [Ethereal Bond](https://open.spotify.com/artist/35ov63MauORfX0OvYDq2dK) | [The Journey](https://open.spotify.com/album/4ASRnX67f0ZlVNzWrqesOf) | 6:16 |
-| 13 | [Lonely road](https://open.spotify.com/track/0R58Fl5lvlTEMblnMv96lI) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [Lonely road](https://open.spotify.com/album/7uT4pnKkqhvkQSKDdGn3mK) | 2:11 |
-| 14 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 |
-| 15 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 |
-| 16 | [Solstice](https://open.spotify.com/track/0ewgB7uNpugFobJDS8uhmg) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Solstice](https://open.spotify.com/album/4by0Ro40YozZSueywaBqyr) | 2:53 |
-| 17 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 |
-| 18 | [Final Relaxation](https://open.spotify.com/track/3D4RnotCB06bK7QHlPl2B7) | [Adela Rynsburger](https://open.spotify.com/artist/4SkN6vgI1t8Es1N7KTjc22) | [Final Relaxation](https://open.spotify.com/album/6XelgT98VbSCej4ACD5ILa) | 2:53 |
-| 19 | [Snow beats](https://open.spotify.com/track/48jvCEHvpV7oexBYtvqLBR) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Snow beats](https://open.spotify.com/album/1FZHcB8BTiupHAoKfOMLAj) | 3:25 |
-| 20 | [Durmitor](https://open.spotify.com/track/5ZcsVasCsPNZe1XUBwyMIH) | [Mia Novak](https://open.spotify.com/artist/3W9Z2V5c76hMLPUy3UEpM7) | [Nevidio](https://open.spotify.com/album/2e9oU6dfxCrOfDsTLrHzQX) | 1:58 |
-| 21 | [Illumination Station](https://open.spotify.com/track/0eMyBtn185nGUb0XIRA7l6) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Illumination Station](https://open.spotify.com/album/0VdEKg4JmE9UR3ZaSm9odk) | 2:58 |
-| 22 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 |
-| 23 | [Easy](https://open.spotify.com/track/1OP1Pxj0AeFSkVcqdc9IFQ) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [Easy](https://open.spotify.com/album/4XJPGsxGDxmk8qNylj56gb) | 2:51 |
-| 24 | [per sempre e sempre insieme](https://open.spotify.com/track/688o4iEC23uFzGZ6nNRTt4) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [per sempre e sempre insieme \(Ambient version\)](https://open.spotify.com/album/758jpU3g1OzoIPDTIfMzvl) | 2:07 |
-| 25 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 |
-| 26 | [Warm Fall Sun](https://open.spotify.com/track/7uUvQgAeFawjUD0d9Yzaug) | [Bernward Koch](https://open.spotify.com/artist/3I47W6SIIS24cECbGOeakB) | [Tree Tales](https://open.spotify.com/album/1f8GcZO0ssCZNajCxO1glx) | 3:01 |
-| 27 | [Luminous](https://open.spotify.com/track/0a3yJynCpqxbcoxdI5qLsI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Luminous](https://open.spotify.com/album/1fcPItFxNR27pS3EBcOt0K) | 2:28 |
-| 28 | [Nuevo tiempo](https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 2:53 |
-| 29 | [Hush](https://open.spotify.com/track/7JDULs0oIly6dVLDZLUNkd) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Hush](https://open.spotify.com/album/2Exc7jItLMt5PF3jtqemVE) | 2:28 |
-| 30 | [Wait For Me There](https://open.spotify.com/track/4QzIxJwbhqbUEnaJOZBJxR) | [Xavier H Summers](https://open.spotify.com/artist/18ql1O0CcgLfH59H18jrOc) | [Wait For Me There](https://open.spotify.com/album/6y22baRCRZ2gZtFMU544ec) | 2:45 |
-| 31 | [Wistful](https://open.spotify.com/track/63yPgrn1bfyb12gWzUhRvg) | [Benette](https://open.spotify.com/artist/6HXMmF2G7ZYNyT0J1FAyan) | [Wistful](https://open.spotify.com/album/3DelzkmukAbuP0STlZeGds) | 2:15 |
-| 32 | [Quiet And Its Consequences](https://open.spotify.com/track/19fkav9BQtc6EL75ZRPMjQ) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Quiet And Its Consequences](https://open.spotify.com/album/21E5SUaJvK0AH2GMAuN9UT) | 1:57 |
-| 33 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 |
-| 34 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 |
-| 35 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 |
+| 12 | [Lonely road](https://open.spotify.com/track/0R58Fl5lvlTEMblnMv96lI) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [Lonely road](https://open.spotify.com/album/7uT4pnKkqhvkQSKDdGn3mK) | 2:11 |
+| 13 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 |
+| 14 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 |
+| 15 | [Solstice](https://open.spotify.com/track/0ewgB7uNpugFobJDS8uhmg) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Solstice](https://open.spotify.com/album/4by0Ro40YozZSueywaBqyr) | 2:53 |
+| 16 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 |
+| 17 | [Snow beats](https://open.spotify.com/track/48jvCEHvpV7oexBYtvqLBR) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Snow beats](https://open.spotify.com/album/1FZHcB8BTiupHAoKfOMLAj) | 3:25 |
+| 18 | [Illumination Station](https://open.spotify.com/track/0eMyBtn185nGUb0XIRA7l6) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Illumination Station](https://open.spotify.com/album/0VdEKg4JmE9UR3ZaSm9odk) | 2:58 |
+| 19 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 |
+| 20 | [Easy](https://open.spotify.com/track/1OP1Pxj0AeFSkVcqdc9IFQ) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [Easy](https://open.spotify.com/album/4XJPGsxGDxmk8qNylj56gb) | 2:51 |
+| 21 | [per sempre e sempre insieme](https://open.spotify.com/track/688o4iEC23uFzGZ6nNRTt4) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [per sempre e sempre insieme \(Ambient version\)](https://open.spotify.com/album/758jpU3g1OzoIPDTIfMzvl) | 2:07 |
+| 22 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 |
+| 23 | [The Journey](https://open.spotify.com/track/3ggOQQZ5MfrayWR9xGluXk) | [Ethereal Bond](https://open.spotify.com/artist/35ov63MauORfX0OvYDq2dK) | [The Journey](https://open.spotify.com/album/4ASRnX67f0ZlVNzWrqesOf) | 6:16 |
+| 24 | [Warm Fall Sun](https://open.spotify.com/track/7uUvQgAeFawjUD0d9Yzaug) | [Bernward Koch](https://open.spotify.com/artist/3I47W6SIIS24cECbGOeakB) | [Tree Tales](https://open.spotify.com/album/1f8GcZO0ssCZNajCxO1glx) | 3:01 |
+| 25 | [Luminous](https://open.spotify.com/track/0a3yJynCpqxbcoxdI5qLsI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Luminous](https://open.spotify.com/album/1fcPItFxNR27pS3EBcOt0K) | 2:28 |
+| 26 | [Nuevo tiempo](https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 2:53 |
+| 27 | [Hush](https://open.spotify.com/track/7JDULs0oIly6dVLDZLUNkd) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Hush](https://open.spotify.com/album/2Exc7jItLMt5PF3jtqemVE) | 2:28 |
+| 28 | [Wait For Me There](https://open.spotify.com/track/4QzIxJwbhqbUEnaJOZBJxR) | [Xavier H Summers](https://open.spotify.com/artist/18ql1O0CcgLfH59H18jrOc) | [Wait For Me There](https://open.spotify.com/album/6y22baRCRZ2gZtFMU544ec) | 2:45 |
+| 29 | [Wistful](https://open.spotify.com/track/63yPgrn1bfyb12gWzUhRvg) | [Benette](https://open.spotify.com/artist/6HXMmF2G7ZYNyT0J1FAyan) | [Wistful](https://open.spotify.com/album/3DelzkmukAbuP0STlZeGds) | 2:15 |
+| 30 | [Quiet And Its Consequences](https://open.spotify.com/track/19fkav9BQtc6EL75ZRPMjQ) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Quiet And Its Consequences](https://open.spotify.com/album/21E5SUaJvK0AH2GMAuN9UT) | 1:57 |
+| 31 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 |
+| 32 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 |
+| 33 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 |
+| 34 | [Final Relaxation](https://open.spotify.com/track/3D4RnotCB06bK7QHlPl2B7) | [Adela Rynsburger](https://open.spotify.com/artist/4SkN6vgI1t8Es1N7KTjc22) | [Final Relaxation](https://open.spotify.com/album/6XelgT98VbSCej4ACD5ILa) | 2:53 |
+| 35 | [Durmitor](https://open.spotify.com/track/5ZcsVasCsPNZe1XUBwyMIH) | [Mia Novak](https://open.spotify.com/artist/3W9Z2V5c76hMLPUy3UEpM7) | [Nevidio](https://open.spotify.com/album/2e9oU6dfxCrOfDsTLrHzQX) | 1:58 |
 | 36 | [Where Dreams Begin](https://open.spotify.com/track/6Q3W3lQNWQJ3wGzXlAmHd7) | [Acirassi](https://open.spotify.com/artist/30uYGdJCm0u2mNZzICXAf9) | [Where Dreams Begin](https://open.spotify.com/album/0PsJWHZYcrJYa6TOIBamrD) | 2:43 |
 | 37 | [Night Hours](https://open.spotify.com/track/595IK0mHtBt377GbAtWMwm) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Night Hours](https://open.spotify.com/album/0DHdHcnU3zcZ6SoJDSj3jb) | 2:15 |
 | 38 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 | 119 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 |
 | 120 | [A Pillow For Her Mind](https://open.spotify.com/track/4rJ9FYsLQeB7oi7DSVEeUn) | [Roberta Leontini](https://open.spotify.com/artist/7B8dWi5admMjncLMdbxfns) | [A Pillow For Her Mind](https://open.spotify.com/album/0SVZiy0h2h4ALjd5wueeYw) | 2:19 |
 
-Snapshot ID: `MCxkNTU2MmMzMjE3YjhhZGYzZDdhNmNhNDJkYjkxMjVhY2RhMDk3MDNl`
+Snapshot ID: `MCwyNGIwOWEyZWVhNjdhNTNlYTc5M2Y2NGFlMzA1ODBjZDZmZTBlODQ3`

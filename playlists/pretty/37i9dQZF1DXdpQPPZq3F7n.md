@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Kabir Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,732 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,131 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 10 | [Humdard](https://open.spotify.com/track/1OEmd2iXU8pWG7CrKNpGUg) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ek Villain](https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF) | 4:20 |
 | 11 | [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:49 |
 | 12 | [Kaun Tujhe](https://open.spotify.com/track/5T2ZZiBMDGh3TZDUbxg4rV) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [M.S.Dhoni \- The Untold Story](https://open.spotify.com/album/0UuTH5r9tyFJ2tqnvc1wWm) | 4:01 |
-| 13 | [Mann Mera](https://open.spotify.com/track/2F61pSvZObcSEOjJMwkvE2) | [ronixd](https://open.spotify.com/artist/4fdvt615NKbd5n2s1cLiQZ) | [Mann Mera](https://open.spotify.com/album/57EdVAPDFT7sRrndFBRzUf) | 3:20 |
+| 13 | [Mann Mera](https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ) | 3:20 |
 | 14 | [Bekhayali](https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 6:11 |
 | 15 | [Tere Bin](https://open.spotify.com/track/4Y1Sd0fSSxHEMrWkd2x3EW) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Simmba](https://open.spotify.com/album/3dynRTuVOrAr5O7srr2txN) | 3:50 |
 | 16 | [Tum Hi Aana](https://open.spotify.com/track/5WKOKmJjyVBfZOpdMvNY1V) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Marjaavaan](https://open.spotify.com/album/09vM96nXIMXYnroO5f9IsF) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Humsafar](https://open.spotify.com/track/6TFESXMfJJWwccviaxGAMa) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 4:28 |
 | 75 | [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Agent Vinod](https://open.spotify.com/album/2DqQ34i4uuuZWTScsGIgHr) | 4:03 |
 
-Snapshot ID: `MCxmY2Y4MWNiZGU4ZmRiNGJhMGY4YjE2ODgyZjg3Y2M2MDJlYzgyYzQ3`
+Snapshot ID: `MCw1OWM3ODdiMGRhYzIyZmYzYmZiZGFlYTYwNmQzMTczZDMxNjFlNjI2`

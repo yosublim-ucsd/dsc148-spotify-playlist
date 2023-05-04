@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 3,532 likes - 113 songs - 10 hr 25 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 3,564 likes - 115 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 111 | [Know You Don't](https://open.spotify.com/track/1IimA48MOmziyhRZpxDzD5) | [Jel](https://open.spotify.com/artist/1UlLSnpsaY8RdH6W5BRObN) | [Soft Money](https://open.spotify.com/album/0fzOf2tjmaYCptKw3tecMC) | 3:34 |
 | 112 | [Coral Reef](https://open.spotify.com/track/68UOubR6MwuhCFCabUzFaA) | [Mindseye](https://open.spotify.com/artist/0KnSPZGucOmyk3AnKaUGel) | [Coral Reef](https://open.spotify.com/album/41G14bbn83RzdgkkefN41u) | 4:19 |
 | 113 | [Llwe](https://open.spotify.com/track/29EtlAhaZWwjOziBs3HooV) | [KONDOR](https://open.spotify.com/artist/38v0MI7xPOGq3cet9d5pLg) | [Cyf](https://open.spotify.com/album/6ZuzmGIJxSslpsMOJG640C) | 2:48 |
+| 114 | [Snip & Lick](https://open.spotify.com/track/6GSVklb8NTddCzX4OoNkxg) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Love Pussycats & Carwrecks](https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9) | 1:44 |
+| 115 | [Lost Tape](https://open.spotify.com/track/4f1RbwBCPfOXNoir5e5hzw) | [Mutual Attraction](https://open.spotify.com/artist/7tO7Ua6CcKSW6Kb8asyFdi) | [Lost Tape](https://open.spotify.com/album/02A7KdIVXZSop3lFFfmIGE) | 7:00 |
 
-Snapshot ID: `MTkwLDFmMzQ2YTIyOTY1YWE3NjdlODc4YmRmNzkyYTgyMGE5YjVlZmY3Yjg=`
+Snapshot ID: `MTkyLDU0YzI2N2EwZjczMTFhZDc1YTM0ZDg0Y2I3Y2EwYzMwODE0YTI0NjQ=`

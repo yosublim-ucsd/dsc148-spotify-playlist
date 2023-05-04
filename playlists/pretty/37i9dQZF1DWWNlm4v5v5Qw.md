@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,381 likes - 64 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,394 likes - 64 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 18 | [Still Lit](https://open.spotify.com/track/4Qqnp6THSqgs0XCbDQHJph) | [Q Da Fool](https://open.spotify.com/artist/17kq4sCvn1nVcVvWV9Ribi) | [I'll Be Back](https://open.spotify.com/album/4ZWDx5sAc0PqGs70uNUe8z) | 2:32 |
 | 19 | [Early](https://open.spotify.com/track/7rYZdqQ8AnaRZ6BPa4hYGL) | [A1beam](https://open.spotify.com/artist/5azcshAfQtgPlOOzw2kCvk), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Early](https://open.spotify.com/album/6IBSwD3hXKGV4sO61J0oeb) | 2:35 |
 | 20 | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/track/549FVHJDMSppqOQYg0hvdt) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/album/6vefuCd9t3K2Vwj9fNj1fG) | 3:20 |
-| 21 | [Shooting & Driving](https://open.spotify.com/track/40oVdESGHpngGCnfLd5DVy) | [Migo Lee](https://open.spotify.com/artist/1mP33Jk5fMXnfDDBWPwm25) | [Wopskino Bin Laden](https://open.spotify.com/album/6tVBPOGsnFfa6i8EDfN9br) | 2:13 |
+| 21 | [Shooting & Driving](https://open.spotify.com/track/6NlhZkbXhoODUWGB3jtFZj) | [Migo Lee](https://open.spotify.com/artist/1mP33Jk5fMXnfDDBWPwm25) | [Wopskino Bin Laden](https://open.spotify.com/album/3WUFRIq13KZ474GTb5Hzk7) | 2:13 |
 | 22 | [I Ain't Going Lie](https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [I Ain't Going Lie](https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs) | 2:13 |
 | 23 | [Studio Junkie](https://open.spotify.com/track/2hnijnBaiR6v7NmvYB3me2) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Studio Junkie](https://open.spotify.com/album/7dgC3SvEf9lxsYhbc27Lwm) | 2:26 |
 | 24 | [Cheeks](https://open.spotify.com/track/45jdyOIqPkuBFNy1jaBxe2) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Cheeks](https://open.spotify.com/album/25u938gsY0Rfm9GTe1MXvu) | 2:50 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 63 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 |
 | 64 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MCxjM2Q5MjczYWQ3NTc5YjgzNzQ1OWQyYTIyYTdmYjQwN2Q3MWRlMzk5`
+Snapshot ID: `MCw2Zjg3ZjY3MmI0ZjUwMjczMjFiOWZhOGU4ZTM3YjhiZGVkMmEyYzZl`

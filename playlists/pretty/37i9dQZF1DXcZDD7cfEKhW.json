@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ellie Goulding",
-  "num_followers": 3414254,
+  "num_followers": 3414689,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTIxNzk3MTJhNzU3MDVlZmNlYjQ2YzliNDY4M2RiNjdiZGY2ZDFi",
+  "snapshot_id": "MCxlMDQzMmQ5YjFhY2M1ZjIzYzU5ODkyZTcwMGRiYjk3ZmViZjc3OTJm",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -207,6 +207,26 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Praising You (feat. Fatboy Slim)",
+        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Praising You (feat. Fatboy Slim)",
+      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Praising You (feat. Fatboy Slim)",
-        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -343,6 +343,26 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "More Than A Woman (SG's Paradise Edit)",
+        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 357936,
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "More Than A Woman (SG's Paradise Edit)",
-        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 357936,
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188825,
+      "name": "Sunshine - MOTi Remix",
+      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Believe (feat. Goodboys) [Galantis Remix]",
         "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 174283,
       "name": "Believe (feat. Goodboys) [Galantis Remix]",
       "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188825,
-      "name": "Sunshine - MOTi Remix",
-      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "How Do I Say Goodbye (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/2l9HABqiwDkL7oVGAiW2mV"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 225563,
-      "name": "How Do I Say Goodbye - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1ps5972g02HgOtvjE8OMfz"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
         "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "How Do I Say Goodbye (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/2l9HABqiwDkL7oVGAiW2mV"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 225563,
+      "name": "How Do I Say Goodbye - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1ps5972g02HgOtvjE8OMfz"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Made You Look (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2"
       },
@@ -1063,22 +1083,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+        "name": "Can't Tame Her (The Remixes)",
+        "url": "https://open.spotify.com/album/7F64hNuIf5LtqXCkRJrS90"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         },
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+      "duration_ms": 173333,
+      "name": "Can't Tame Her - VIZE Remix",
+      "url": "https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1103,26 +1123,6 @@
       "duration_ms": 224908,
       "name": "My Universe - Galantis Remix",
       "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Can't Tame Her (The Remixes)",
-        "url": "https://open.spotify.com/album/7F64hNuIf5LtqXCkRJrS90"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Can't Tame Her - VIZE Remix",
-      "url": "https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
         "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 224649,
       "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1427,22 +1427,26 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Lavender Haze (Remixes)",
-        "url": "https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa"
+        "name": "Steal My Clothes",
+        "url": "https://open.spotify.com/album/0Avx0lSSSHNdu5poOJRAzz"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
         },
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 187510,
-      "name": "Lavender Haze - Snakehips Remix",
-      "url": "https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs"
+      "duration_ms": 205440,
+      "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1471,26 +1475,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Steal My Clothes",
-        "url": "https://open.spotify.com/album/0Avx0lSSSHNdu5poOJRAzz"
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa"
       },
       "artists": [
         {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "what would you do? (Galantis Remix)",
-        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "what would you do? - Galantis Remix",
-      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Anti-Hero (Remixes)",
         "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 215696,
       "name": "Anti-Hero - Jayda G Remix",
       "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "what would you do? (Galantis Remix)",
+        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "what would you do? - Galantis Remix",
+      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Questions (Remix Pack)",
-        "url": "https://open.spotify.com/album/0uDuT93S0B5kocmTo582kE"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 259849,
-      "name": "Questions - Deluxe Remix",
-      "url": "https://open.spotify.com/track/0liCVPZBCrl18tC6jSwqJX"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "drunk text me (Shallou Remix)",
         "url": "https://open.spotify.com/album/3TWWc8s7UGI6LZYNHOLsUf"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 162431,
       "name": "drunk text me - Shallou Remix",
       "url": "https://open.spotify.com/track/22w2aLBRJTGTpXSj1X7Dc0"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Questions (Remix Pack)",
+        "url": "https://open.spotify.com/album/0uDuT93S0B5kocmTo582kE"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 259849,
+      "name": "Questions - Deluxe Remix",
+      "url": "https://open.spotify.com/track/0liCVPZBCrl18tC6jSwqJX"
     },
     {
       "added_at": "2023-04-28 04:01:00",

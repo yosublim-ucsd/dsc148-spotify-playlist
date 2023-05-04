@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-229 songs - 9 hr 25 min
+235 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Brighter Days](https://open.spotify.com/track/00QS3WvHXKf0BwZRcKtruO) | [Andrew Lodge](https://open.spotify.com/artist/34k08Wh9fmLzg8Hg3wPS2y) | [Brighter Days](https://open.spotify.com/album/2yo3evs2rNkuRBTDDwW4bw) | 3:25 | 2023-01-09 |  |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2021-12-14 | 2022-07-21 |
 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 | 2021-12-14 |  |
-| [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2021-12-14 |  |
+| [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2021-12-14 | 2023-05-04 |
 | [Bundle of Joy](https://open.spotify.com/track/2Gqko5KvjhQap113vwwP2i) | [Brother James](https://open.spotify.com/artist/5xZglTXVKOkpkC70KMPis9), [John Arndt](https://open.spotify.com/artist/6KeNcLI4wzMU1Pi8dzLQyh) | [Bundle of Joy](https://open.spotify.com/album/6Oe881dbjhl5HkUW8ATKq1) | 1:09 | 2021-12-14 |  |
 | [Butterflies](https://open.spotify.com/track/0AZQYsPjwWB1Zd8KCRCp2m) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Times Gone By](https://open.spotify.com/album/58MF4lru4Nm7MQq7ctCym8) | 2:07 | 2022-12-06 |  |
 | [Calas de Roche](https://open.spotify.com/track/4PdjQqQIf7S5MYE044XugT) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Calas de Roche](https://open.spotify.com/album/3sd2f1RnqLNL39UAU03a3h) | 2:26 | 2021-12-14 |  |
@@ -85,6 +85,7 @@
 | [Infinity clouds](https://open.spotify.com/track/3nWR11uRHUQ2aa6XqtPAfx) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Infinity clouds](https://open.spotify.com/album/4G3fWb6LcxqeOo80HX9O8g) | 2:30 | 2022-12-06 |  |
 | [Inner Peace](https://open.spotify.com/track/4145JIRFoYOykXXnVQpz3F) | [Lianne Steeman](https://open.spotify.com/artist/3U7x7KLCqxl4vE0QC3oQl2) | [Inner Peace](https://open.spotify.com/album/3VwdiiuImq5VJ6mMhlUWBg) | 2:36 | 2022-07-20 |  |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2021-12-14 |  |
+| [Introspective](https://open.spotify.com/track/7d1CXUTMlMxmBWz3Mwsdvk) | [Phlox Sage](https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T) | [Introspective](https://open.spotify.com/album/2Mq0dTijsXUQmTB0A5tPp8) | 2:11 | 2023-05-03 |  |
 | [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2021-12-14 |  |
 | [Je rougis](https://open.spotify.com/track/6TbUya8wunzRxpBF3XXOZ0) | [Zdenek Lemelin](https://open.spotify.com/artist/7z8fwNUZFxgizWrG2GDQt3) | [Je rougis](https://open.spotify.com/album/4Bjq0XHA7ON33c3aoqonUc) | 2:06 | 2022-10-26 |  |
 | [Jeunesse du printemps](https://open.spotify.com/track/7aHWyb1G3SiRMXCMPkPo26) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [Jeunesse du printemps](https://open.spotify.com/album/2NWDEBEAK8JnESZDfykIy7) | 2:24 | 2022-08-30 |  |
@@ -142,6 +143,7 @@
 | [Peaceful Plains](https://open.spotify.com/track/3LAyYOLbeCIndEEOb2ksSJ) | [Neon Riab](https://open.spotify.com/artist/0OkfroQB6K6gfa3TQ9ehim) | [Peaceful Plains](https://open.spotify.com/album/0KAtFzFkJOWnqhEbsEdZ74) | 1:55 | 2021-12-14 | 2022-04-29 |
 | [Personne d'autre que toi](https://open.spotify.com/track/4M7jagkEBHpniJmWdntxNR) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Heaven](https://open.spotify.com/album/3aN17LcVzjDKxp7FXowuhO) | 3:05 | 2021-12-14 | 2022-07-21 |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-14 |  |
+| [Place to Remember](https://open.spotify.com/track/235xEvc5AelB56CsNzYew3) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Place to Remember](https://open.spotify.com/album/57IkfgPpu5NwSW1AKeV9c8) | 1:38 | 2023-05-03 |  |
 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 | 2021-12-14 |  |
 | [Plane Of Incidence](https://open.spotify.com/track/0CpTqfYYWimRxn6qLNyX4O) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Plane Of Incidence](https://open.spotify.com/album/6SjT6FwVn6rgt9I1bqlVEz) | 2:21 | 2021-12-14 |  |
 | [Play](https://open.spotify.com/track/2y2nlOAf1TmyHT1NGHroaA) | [Noël](https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj) | [Play](https://open.spotify.com/album/3JPQiCXgWY2aoBTRiwoHMN) | 2:32 | 2022-07-20 |  |
@@ -159,11 +161,13 @@
 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 | 2021-12-14 |  |
 | [Roseraie](https://open.spotify.com/track/3TV6rwcDHlJOSqmlqjZBJ1) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Roseraie](https://open.spotify.com/album/7iIIBqRWC0fcmyenmgr6D3) | 2:47 | 2021-12-14 |  |
 | [Rêve Du Matin](https://open.spotify.com/track/1E7Dx2R5WByBqQ8OUj9ym1) | [Paul Herfort](https://open.spotify.com/artist/7m2yuNYMuLBtNgcHh9yBpl) | [Rêve Du Matin](https://open.spotify.com/album/77qluZlY1aCefTqVCFJ9fN) | 2:35 | 2022-04-28 |  |
+| [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 | 2023-05-03 |  |
 | [Sanitatem](https://open.spotify.com/track/2zbZlJVyhSb5PDdmFj3BHe) | [Vaalery](https://open.spotify.com/artist/4d3XQvjuqIEVgCErQ0sFdr) | [Sanitatem](https://open.spotify.com/album/5oAhY5CG5BN2Tv9zAkHHAK) | 4:16 | 2021-12-14 | 2022-04-29 |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-14 | 2022-07-21 |
 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 | 2021-12-14 |  |
 | [Schouderklopje](https://open.spotify.com/track/75lSZRCyAUovkaOe3r2cdg) | [Bádji](https://open.spotify.com/artist/45BoSxjlYeE9ApOqoiWkNC) | [Schouderklopje](https://open.spotify.com/album/5FXrD9YWeB5uw3lROmynq0) | 2:26 | 2021-12-14 | 2022-04-29 |
 | [Seashells](https://open.spotify.com/track/6BW4HpfOcd2OhezoeiFvOt) | [Becky Ainge](https://open.spotify.com/artist/0bJuAVWEBon60FPGGtMobF) | [Seashells](https://open.spotify.com/album/1MmQPHEhgMiQllbjkmiM3u) | 1:17 | 2022-08-30 | 2023-02-16 |
+| [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 | 2023-05-03 |  |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-12-14 |  |
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2021-12-14 | 2022-10-27 |
 | [Shimmer](https://open.spotify.com/track/0n9z4lk3UOqimQ4HFlKO72) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Shimmer](https://open.spotify.com/album/0pAIe0jBV1WDL63LKGtInX) | 2:13 | 2023-01-09 |  |
@@ -197,6 +201,7 @@
 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-03-17 | 2023-04-19 |
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2021-12-14 |  |
 | [Sundara](https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Sundara](https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM) | 2:42 | 2023-02-15 |  |
+| [Sunday Morning](https://open.spotify.com/track/7BqiHhhOLJ0GBW29DXfwn7) | [Hope Denison](https://open.spotify.com/artist/5zKGolNyglAbVQUghoIdkZ), [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Sunday Morning](https://open.spotify.com/album/4RvQYoROBAm4R44nWQFVf3) | 2:37 | 2023-05-03 |  |
 | [Sweet Cherie](https://open.spotify.com/track/1ElNuIHucvUavBEg4IFtSx) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Sweet Cherie](https://open.spotify.com/album/3djxMnVkD678tgExMCQqpD) | 3:07 | 2021-12-14 | 2022-07-21 |
 | [Tanken för oss vidare](https://open.spotify.com/track/3C4ZKKPtMbexPnb09lPB6n) | [Melvin Norberg](https://open.spotify.com/artist/4RchcrG8Z6KMGWob3D8Oe0) | [Tanken för oss vidare](https://open.spotify.com/album/6Elc1jsVKdtmqIbnCc0rij) | 2:11 | 2021-12-14 | 2022-04-29 |
 | [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 | 2021-12-14 | 2022-04-29 |
@@ -208,6 +213,7 @@
 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 | 2023-02-15 |  |
 | [This day, a life](https://open.spotify.com/track/6rCXFCdKOrUqlt9enKauGv) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [This day, a life](https://open.spotify.com/album/6lSD6R7V14cPWVlWvPooJJ) | 2:20 | 2022-12-21 |  |
 | [Through the Leaves](https://open.spotify.com/track/5g6w540Qt7z0LZGqV9KBKx) | [Minxz](https://open.spotify.com/artist/3gItTReTbNRqMuCIQGUDc4) | [Through the Leaves](https://open.spotify.com/album/5wvzRGidyZETW8w0HIe2hs) | 3:54 | 2023-01-09 | 2023-04-06 |
+| [Ti sto aspettando](https://open.spotify.com/track/6GsPgwT4H2gJI1aP6auCut) | [Fioretta Rizzo](https://open.spotify.com/artist/3aG2UYHfqXOYEJ9YzHCBqZ) | [Ti sto aspettando](https://open.spotify.com/album/2jtUHaeSxNuLotdxtI4U8u) | 1:53 | 2023-05-03 |  |
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-02 |  |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2022-12-06 |  |
 | [Toujours](https://open.spotify.com/track/1GGPUkn7gZtsxoMdLqwHms) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Toujours](https://open.spotify.com/album/3RRJibUMp8rm9ypwvnPYMs) | 2:14 | 2021-12-14 |  |

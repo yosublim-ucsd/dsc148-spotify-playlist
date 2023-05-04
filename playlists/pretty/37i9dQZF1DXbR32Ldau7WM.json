@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: SHERBETS",
-  "num_followers": 255329,
+  "num_followers": 255432,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGNmZTllNTRhOTQ2Y2U0YjQzYTcyMTcyZGQ2ZjE3YzRjM2ZiOTY0",
+  "snapshot_id": "MCxmMDQ0OTkyNGFkZjJkZjYwOTUzNTcwNGI2YjRmYmY0OTZhZTM2ODli",
   "tracks": [
     {
       "added_at": "2023-04-25 15:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Adapt",
-        "url": "https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Tsuki no Wan",
-      "url": "https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "Adapt",
+        "url": "https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Tsuki no Wan",
+      "url": "https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
-        "url": "https://open.spotify.com/album/3MTSjbVzPw4RF9BqNRkHh4"
-      },
-      "artists": [
-        {
-          "name": "Elephant Kashimashi",
-          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/60oCvPKZvNPeSTMTFKiRDb"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/7MsA39cX1czb1oyPCOnIAo"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Let's go down the street",
-        "url": "https://open.spotify.com/album/4bJs16gpfnH3jr3S4REn5U"
+        "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/3MTSjbVzPw4RF9BqNRkHh4"
       },
       "artists": [
         {
-          "name": "The Birthday",
-          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Let's go down the street",
-      "url": "https://open.spotify.com/track/2OcKkcc650vUnWBW3WI9jr"
+      "duration_ms": 272000,
+      "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/60oCvPKZvNPeSTMTFKiRDb"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 150180,
       "name": "Steady",
       "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "Let's go down the street",
+        "url": "https://open.spotify.com/album/4bJs16gpfnH3jr3S4REn5U"
+      },
+      "artists": [
+        {
+          "name": "The Birthday",
+          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Let's go down the street",
+      "url": "https://open.spotify.com/track/2OcKkcc650vUnWBW3WI9jr"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "THE PROMISE",
-        "url": "https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg"
-      },
-      "artists": [
-        {
-          "name": "DOPING PANDA",
-          "url": "https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "THE PROMISE",
-      "url": "https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 219146,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "THE PROMISE",
+        "url": "https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg"
+      },
+      "artists": [
+        {
+          "name": "DOPING PANDA",
+          "url": "https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "THE PROMISE",
+      "url": "https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u305d\u3070\u306b\u3044\u308b\u304b\u3089",
-        "url": "https://open.spotify.com/album/5KMjcGmHWpQp19SxdlisRf"
-      },
-      "artists": [
-        {
-          "name": "JUN SKY WALKER(S)",
-          "url": "https://open.spotify.com/artist/0dJJhSKpO4ixCTCsCkJxgr"
-        }
-      ],
-      "duration_ms": 283111,
-      "name": "\u305d\u3070\u306b\u3044\u308b\u304b\u3089",
-      "url": "https://open.spotify.com/track/1pkbFbojWxiX0ttqpPhMIl"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
         "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
-        "url": "https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8"
+        "name": "\u305d\u3070\u306b\u3044\u308b\u304b\u3089",
+        "url": "https://open.spotify.com/album/5KMjcGmHWpQp19SxdlisRf"
       },
       "artists": [
         {
-          "name": "Ivy to Fraudulent Game",
-          "url": "https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX"
+          "name": "JUN SKY WALKER(S)",
+          "url": "https://open.spotify.com/artist/0dJJhSKpO4ixCTCsCkJxgr"
         }
       ],
-      "duration_ms": 150595,
-      "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
-      "url": "https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE"
+      "duration_ms": 283111,
+      "name": "\u305d\u3070\u306b\u3044\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/1pkbFbojWxiX0ttqpPhMIl"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
+        "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8"
+      },
+      "artists": [
+        {
+          "name": "Ivy to Fraudulent Game",
+          "url": "https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX"
+        }
+      ],
+      "duration_ms": 150595,
+      "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
         "name": "Bump & Grind",
         "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Sun of Love",
-        "url": "https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I"
-      },
-      "artists": [
-        {
-          "name": "Quruli",
-          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "Sun of Love",
-      "url": "https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
         "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 264390,
       "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
       "url": "https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "Sun of Love",
+        "url": "https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Sun of Love",
+      "url": "https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "In forward",
-        "url": "https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx"
-      },
-      "artists": [
-        {
-          "name": "IF",
-          "url": "https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1"
-        }
-      ],
-      "duration_ms": 225185,
-      "name": "still in me",
-      "url": "https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "A Phenomenal Man",
         "url": "https://open.spotify.com/album/0cyUc2d1JjBj3g6OkLYb99"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 180500,
       "name": "A Phenomenal Man",
       "url": "https://open.spotify.com/track/5hxacLnWr2zD9GDKm2oEYy"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "In forward",
+        "url": "https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx"
+      },
+      "artists": [
+        {
+          "name": "IF",
+          "url": "https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1"
+        }
+      ],
+      "duration_ms": 225185,
+      "name": "still in me",
+      "url": "https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM"
     },
     {
       "added_at": "2023-04-25 15:00:00",

@@ -70,10 +70,28 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 176373,
       "name": "American Attraction",
       "url": "https://open.spotify.com/track/0p8fUOBfWtGcaKGiD9drgJ"
+    },
+    {
+      "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG"
     },
     {
       "album": {

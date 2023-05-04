@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: NEONE the Wonderer Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Cisco Swank Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 242553,
       "name": "#grand",
       "url": "https://open.spotify.com/track/62MM84SKMKe8CJshjy5e2v"
+    },
+    {
+      "album": {
+        "name": "(If You Don\u2019t Leave) The City Will Kill You",
+        "url": "https://open.spotify.com/album/2NDA4o8vqNr0IpwHJIUPXJ"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        },
+        {
+          "name": "Daedelus",
+          "url": "https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "(If You Don't Leave) The City Will Kill You",
+      "url": "https://open.spotify.com/track/1Tyueib4sanXNBBgH59EOr"
     },
     {
       "album": {
@@ -366,6 +388,24 @@
       "duration_ms": 362212,
       "name": "7 Days",
       "url": "https://open.spotify.com/track/2lS1lWpx7k72KD40yTbnNT"
+    },
+    {
+      "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91580,
+      "name": "7PM",
+      "url": "https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk"
     },
     {
       "album": {
@@ -2537,6 +2577,36 @@
     },
     {
       "album": {
+        "name": "Bongo Beep",
+        "url": "https://open.spotify.com/album/4xTQsODP6ERyVNIWRh5WAE"
+      },
+      "artists": [
+        {
+          "name": "Tom Ollendorff",
+          "url": "https://open.spotify.com/artist/5Tfm4B2wKmcUOF5jVo06jf"
+        },
+        {
+          "name": "Ben Wendel",
+          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
+        },
+        {
+          "name": "Marc Michel",
+          "url": "https://open.spotify.com/artist/3swHWgK1FgkuXGZPb45LTc"
+        },
+        {
+          "name": "Conor Chaplin",
+          "url": "https://open.spotify.com/artist/4OL6krKLt3oWc2PA0MTSui"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343753,
+      "name": "Bongo Beep",
+      "url": "https://open.spotify.com/track/4k45sFZLdhIuLOnTPvtc1w"
+    },
+    {
+      "album": {
         "name": "Bonsai Jungle",
         "url": "https://open.spotify.com/album/7pvAyjyMRyk8paONyjpwCV"
       },
@@ -4151,6 +4221,58 @@
     },
     {
       "album": {
+        "name": "Rule of Thirds",
+        "url": "https://open.spotify.com/album/3xSa7hmC7qWcPRfM8mgXbk"
+      },
+      "artists": [
+        {
+          "name": "Alex Weitz",
+          "url": "https://open.spotify.com/artist/6lQ6kYKqnZIG6gy30EzOw8"
+        },
+        {
+          "name": "Marcus Printup",
+          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375013,
+      "name": "Convent Court",
+      "url": "https://open.spotify.com/track/44paiDTjnjl4BMYfRxOKio"
+    },
+    {
+      "album": {
+        "name": "Corner of Memories",
+        "url": "https://open.spotify.com/album/2o29BgF0bfW6uqazMyx0KS"
+      },
+      "artists": [
+        {
+          "name": "Heem",
+          "url": "https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m"
+        },
+        {
+          "name": "Milye",
+          "url": "https://open.spotify.com/artist/27KnUptbEwPYfjC1KMKK9P"
+        },
+        {
+          "name": "flywilliums",
+          "url": "https://open.spotify.com/artist/7uhWdP3433h56j0KPmadTF"
+        },
+        {
+          "name": "Woojinee",
+          "url": "https://open.spotify.com/artist/5VrBgtUUMPP1yGE6mIPUNu"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192353,
+      "name": "Corner of Memories",
+      "url": "https://open.spotify.com/track/29gW43okMTzFR6P9g0yi41"
+    },
+    {
+      "album": {
         "name": "Eixo do Jazz Ensemble Meets M\u00e1rio Laginha",
         "url": "https://open.spotify.com/album/4N6GJRwFB6xoMP0rT5stWl"
       },
@@ -5679,6 +5801,24 @@
     },
     {
       "album": {
+        "name": "Cordillera",
+        "url": "https://open.spotify.com/album/4SWXwidIQA8tUp8Zhxw2o8"
+      },
+      "artists": [
+        {
+          "name": "Jazz the Roots",
+          "url": "https://open.spotify.com/artist/76ugOJNkyTbMFKSWdu0btH"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304750,
+      "name": "El Llamado",
+      "url": "https://open.spotify.com/track/63akBrb1shJFtSZAX4NkIG"
+    },
+    {
+      "album": {
         "name": "El Paso",
         "url": "https://open.spotify.com/album/5pCuSTkyOewDzb2FzaeANw"
       },
@@ -7035,6 +7175,40 @@
     },
     {
       "album": {
+        "name": "Nrg 1",
+        "url": "https://open.spotify.com/album/2grKccYdedT1GvygqBerfD"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Aman\u00e9 Suganami",
+          "url": "https://open.spotify.com/artist/6oUpfsBBLUsGlpMZng9QbT"
+        },
+        {
+          "name": "Yelfris Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/5maB2WqB6U2Mi7DKZQYmcS"
+        },
+        {
+          "name": "Luke Wynter",
+          "url": "https://open.spotify.com/artist/2n5NBtzyUBpq0LuWXyknFk"
+        },
+        {
+          "name": "Temesgen",
+          "url": "https://open.spotify.com/artist/6YpRbuU8Dl3yezRNhM85XN"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216058,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/3YvKlVywx0Tv1WqM4j42H1"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4OO0rwOyvtmnc3bGpnR3uS"
       },
@@ -7728,6 +7902,24 @@
       "duration_ms": 240040,
       "name": "Heart Exam",
       "url": "https://open.spotify.com/track/2oLA1YpnFegoKf14NlBOQO"
+    },
+    {
+      "album": {
+        "name": "HEARTFELT",
+        "url": "https://open.spotify.com/album/1bGkrk5lZJsNKFWrOLMe8l"
+      },
+      "artists": [
+        {
+          "name": "Michael Wilbur",
+          "url": "https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "HEARTFELT",
+      "url": "https://open.spotify.com/track/167HFUcBFU5yREOAwmDjDF"
     },
     {
       "album": {
@@ -8538,6 +8730,24 @@
       "duration_ms": 206117,
       "name": "If I Pray",
       "url": "https://open.spotify.com/track/6JOzu3tXKj3zj3Ieuz3qgU"
+    },
+    {
+      "album": {
+        "name": "If the Answer Isn't Love",
+        "url": "https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "If the Answer Isn't Love",
+      "url": "https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA"
     },
     {
       "album": {
@@ -9694,6 +9904,24 @@
       "duration_ms": 304618,
       "name": "Just Listen",
       "url": "https://open.spotify.com/track/4ktnqilivGQYpgmBsp35nW"
+    },
+    {
+      "album": {
+        "name": "An Instrumental Interlude",
+        "url": "https://open.spotify.com/album/26PmZNfXW8XF66AofXLg6q"
+      },
+      "artists": [
+        {
+          "name": "MAXN",
+          "url": "https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Just Love Me One More Time",
+      "url": "https://open.spotify.com/track/20iMqx5hYnhP4dpcq0rwp0"
     },
     {
       "album": {
@@ -13101,6 +13329,28 @@
     },
     {
       "album": {
+        "name": "No Funny (feat. Yoshi T.)",
+        "url": "https://open.spotify.com/album/7gTEjIRRteHSADZ8uAnaKY"
+      },
+      "artists": [
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        },
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "No Funny (feat. Yoshi T.)",
+      "url": "https://open.spotify.com/track/78Uxd4JjEj0Iy5qtEINWfb"
+    },
+    {
+      "album": {
         "name": "No Goodbyes",
         "url": "https://open.spotify.com/album/58YoLKTRFBsnLSUPljZQQR"
       },
@@ -13920,6 +14170,24 @@
       "duration_ms": 265069,
       "name": "Ornette",
       "url": "https://open.spotify.com/track/6YAV6eiIWkzTJVMWV3XQ2h"
+    },
+    {
+      "album": {
+        "name": "Oropendola",
+        "url": "https://open.spotify.com/album/2Jgj1i5GJf6Qhkw5kmnhq7"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255530,
+      "name": "Oropendola",
+      "url": "https://open.spotify.com/track/6NfjC2ToSc0hq1EdOB4sJK"
     },
     {
       "album": {
@@ -14992,7 +15260,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 283400,
       "name": "Raze",
       "url": "https://open.spotify.com/track/2OffHgNmM7rbTt4oG0YgsU"
@@ -17379,6 +17647,28 @@
     },
     {
       "album": {
+        "name": "Stokes Croft Sleep Clinic",
+        "url": "https://open.spotify.com/album/7dO0IWnadyUaE953AO0Iyv"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        },
+        {
+          "name": "t l k",
+          "url": "https://open.spotify.com/artist/1i3lco9WAy7YqKzCIc3Ahd"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287426,
+      "name": "Stokes Croft Sleep Clinic",
+      "url": "https://open.spotify.com/track/2YdOUJ8DFUSxjMKYfP6UMQ"
+    },
+    {
+      "album": {
         "name": "Songs of a Night",
         "url": "https://open.spotify.com/album/5uBpQ8RpPlQXynptvASybH"
       },
@@ -17916,7 +18206,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 137027,
       "name": "SWEAT",
       "url": "https://open.spotify.com/track/51J6zODpdYccdf3wVi6FTM"
@@ -19731,6 +20021,24 @@
     },
     {
       "album": {
+        "name": "Easy Living",
+        "url": "https://open.spotify.com/album/0PV2U1jDQQECemVxUEvjvP"
+      },
+      "artists": [
+        {
+          "name": "Artis Boris",
+          "url": "https://open.spotify.com/artist/5jrBB1rNDvBqdZ9kUw6Hzf"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236424,
+      "name": "Throwback",
+      "url": "https://open.spotify.com/track/4ZZ8GhP4U1oe66LfSmIhf0"
+    },
+    {
+      "album": {
         "name": "throwback",
         "url": "https://open.spotify.com/album/3EtdidErUtOkJecni5Ds38"
       },
@@ -20983,6 +21291,42 @@
     },
     {
       "album": {
+        "name": "Wash' uMuti",
+        "url": "https://open.spotify.com/album/7IQtLhHR3Q31HW4Q0i8Uxo"
+      },
+      "artists": [
+        {
+          "name": "Vuma Levin",
+          "url": "https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562291,
+      "name": "Wash' uMuti",
+      "url": "https://open.spotify.com/track/2UR2vLrGRL7CAEiaxf5FK6"
+    },
+    {
+      "album": {
+        "name": "Water Dragon",
+        "url": "https://open.spotify.com/album/1rhmqqjnK2xKERevTgoHl7"
+      },
+      "artists": [
+        {
+          "name": "slowstoop",
+          "url": "https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202926,
+      "name": "Water Dragon",
+      "url": "https://open.spotify.com/track/4OjqFq5JurdQJJGINkWqnt"
+    },
+    {
+      "album": {
         "name": "Wave Nature",
         "url": "https://open.spotify.com/album/2489zgIRj9Sqw3yzGt4Ig9"
       },
@@ -22024,6 +22368,24 @@
       "duration_ms": 342062,
       "name": "Yurikamome",
       "url": "https://open.spotify.com/track/5yiO9YPa19e6G0OeDAD5yu"
+    },
+    {
+      "album": {
+        "name": "Zaharan Oasis (Pt 1)",
+        "url": "https://open.spotify.com/album/1xuNs1O767YUPh92HaYhkr"
+      },
+      "artists": [
+        {
+          "name": "Davishmar",
+          "url": "https://open.spotify.com/artist/3TlahIxLK7BPdGY0cpDZOe"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244107,
+      "name": "Zaharan Oasis (Pt 1)",
+      "url": "https://open.spotify.com/track/1D68PsHZ0VFpRAJMeF3it6"
     },
     {
       "album": {

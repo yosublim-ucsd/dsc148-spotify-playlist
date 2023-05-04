@@ -1,12 +1,12 @@
 {
   "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=ULCBcQ9RSM61GgUQl7oKEw\">Nomfundo Moh</a>",
-  "num_followers": 102510,
+  "num_followers": 102584,
   "original_name": "Made In South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTFjNzgxZjQ1OTZlZmE2Nzk1NGQxYmU0NTFhMDU4MmVkYzE1ZWZk",
+  "snapshot_id": "MCw2OWE3ZWIxN2I1ODhhMmE5YjQ4MDA3MGE5ZDNkOWQyZjY0NDU0Nzk5",
   "tracks": [
     {
       "added_at": "2023-04-27 21:59:00",
@@ -947,6 +947,22 @@
       "duration_ms": 248424,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw"
+    },
+    {
+      "added_at": "2023-05-03 15:36:35",
+      "album": {
+        "name": "It's Namhla",
+        "url": "https://open.spotify.com/album/0OpfAkIflzmMf1GeDRrPLQ"
+      },
+      "artists": [
+        {
+          "name": "Namhla Bhadela",
+          "url": "https://open.spotify.com/artist/3cT7EKatUTeGdRu3MfTWjo"
+        }
+      ],
+      "duration_ms": 218192,
+      "name": "Aware",
+      "url": "https://open.spotify.com/track/4cG8G1cMBrh45ZtqWHPQvt"
     },
     {
       "added_at": "2023-04-17 09:57:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1cAHI20k456593GCBNqzw6.md) - [plain]
 
 > an eclectic mix of new and old songs frequently updated  by Danger Mouse.
 
-[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 71,077 likes - 50 songs - 3 hr 4 min
+[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 71,098 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/1cAHI20k456593GCBNqzw6.md) - [plain]
 | 39 | [Maxim's I](https://open.spotify.com/track/6alqJ43xrgxuo18Uz98WGv) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Loud City Song](https://open.spotify.com/album/3JhMmVL9ISUnRaVbrJ72OB) | 6:07 |
 | 40 | [punkt](https://open.spotify.com/track/2jZVRBClSWt3Vc9fPkyRCi) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [punkt](https://open.spotify.com/album/1MZG06naKW8R00sHwVY40y) | 2:25 |
 | 41 | [Cactus People](https://open.spotify.com/track/0ZRYxJAo3UbM0b13AfFjrf) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Cactus People](https://open.spotify.com/album/1iG4hJ4AqbCVOdC7BQ1GMC) | 3:30 |
-| 42 | [Soul and Cigarette](https://open.spotify.com/track/2PmfNjyXAQjyN7BSsm4Tpt) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Milano](https://open.spotify.com/album/3AjY64HDpX4wt3aHgHDwus) | 3:28 |
+| 42 | [Soul and Cigarette](https://open.spotify.com/track/2PmfNjyXAQjyN7BSsm4Tpt) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz) | [Milano](https://open.spotify.com/album/3AjY64HDpX4wt3aHgHDwus) | 3:28 |
 | 43 | [The Weather](https://open.spotify.com/track/6sMmQzaDFSuDxPZmFvorur) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Glorious Game](https://open.spotify.com/album/73IZHjXw93CWjWoDpmQ6Vy) | 2:59 |
 | 44 | [Babylon](https://open.spotify.com/track/1OkHiYsPJBwhR5Jb0hz9Q1) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:24 |
 | 45 | [Foot on Necks](https://open.spotify.com/track/0HPriQ6JuXyYirXccQeRpp) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:11 |

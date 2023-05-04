@@ -1048,10 +1048,32 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 214000,
       "name": "Unsigned",
       "url": "https://open.spotify.com/track/4qk6Ne4UQNOuVCJF6nWbkm"
+    },
+    {
+      "album": {
+        "name": "Unsigned",
+        "url": "https://open.spotify.com/album/1wFYWuovdGU4PJYtebs03j"
+      },
+      "artists": [
+        {
+          "name": "Hardy Caprio",
+          "url": "https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd"
+        },
+        {
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215016,
+      "name": "Unsigned",
+      "url": "https://open.spotify.com/track/09QDTOldsJkM9ykxdTtAlf"
     },
     {
       "album": {

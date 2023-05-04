@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 175955,
+  "num_followers": 176045,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Njg3YzE5OGU4MzU3MGVhMmU1YmU5ZTcwOWMxNjU4MzQzMWQwM2U2",
+  "snapshot_id": "MCw0ZTU0ZmI3YmUwZjhlN2ZjYzU4OWQzYzQ1OGI3ZDI3ZGQwYjc4OGFk",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -187,8 +187,8 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
-        "url": "https://open.spotify.com/album/5av6EgtQOT323PZhk2E8lU"
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T"
         }
       ],
-      "duration_ms": 280346,
+      "duration_ms": 280333,
       "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
-      "url": "https://open.spotify.com/track/5i0eynynsGbrYn3i9MP7LV"
+      "url": "https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Hate Conquers All",
-        "url": "https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Hate Conquers All",
-      "url": "https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Made An America",
         "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
       },
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "The Disease",
-        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "STAINS",
         "url": "https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG"
       },
@@ -1275,6 +1243,42 @@
       "duration_ms": 200080,
       "name": "We Won\u2019t Go Back",
       "url": "https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Bodied",
+        "url": "https://open.spotify.com/album/5KG3In8LsszpAsPSh3OOH7"
+      },
+      "artists": [
+        {
+          "name": "Honors",
+          "url": "https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp"
+        }
+      ],
+      "duration_ms": 178592,
+      "name": "Bodied",
+      "url": "https://open.spotify.com/track/5CoFI2sgWxWACu15DhE3fY"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Weather Strike",
+        "url": "https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Weather Strike",
+      "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"
     }
   ],
   "unique_name": "Rise Up",

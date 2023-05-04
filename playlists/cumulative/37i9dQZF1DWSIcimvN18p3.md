@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-372 songs - 22 hr 41 min
+374 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Move Me](https://open.spotify.com/track/1torCG1rbtUN5ja5lnv7rX) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Young In All The Wrong Ways](https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR) | 5:46 | 2021-03-05 | 2022-10-15 |
 | [Never Chase a Man](https://open.spotify.com/track/69KpdPLbYLx71n0eF25xyJ) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Woman to Woman](https://open.spotify.com/album/7kvhYaWajFQvsaVG3uvKV8) | 2:37 | 2021-03-05 | 2022-07-29 |
 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 | 2022-03-08 |  |
+| [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 | 2023-03-08 |  |
 | [No Reason](https://open.spotify.com/track/1P1nt3zpz3ryHC7Uafckdg) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 2:39 | 2023-03-08 |  |
 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 | 2022-11-30 | 2023-03-09 |
 | [Northern Girl](https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7) | [Cheryl Wheeler](https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ) | [Circles And Arrows](https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo) | 3:46 | 2021-03-05 | 2023-01-18 |
@@ -326,11 +327,12 @@
 | [This Ace I've Burned](https://open.spotify.com/track/0mGqBz2FcLYyUFkfKn4FX3) | [Ellen And The Escapades](https://open.spotify.com/artist/2v0e1UUQYJ5GYQqT0SCKWe) | [This Ace I've Burned](https://open.spotify.com/album/6B0xaSvUB7252D10sriu4z) | 3:12 | 2021-03-05 | 2022-01-20 |
 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 | 2021-03-05 |  |
 | [Thérèse](https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [MOSS](https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl) | 3:27 | 2022-10-14 |  |
-| [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 | 2021-03-05 |  |
+| [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 | 2021-03-05 | 2023-05-04 |
 | [To Rise You Gotta Fall](https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh) | [To Rise You Gotta Fall](https://open.spotify.com/album/4lgm1KUaNO3bp6FYRImcPL) | 4:56 | 2021-03-05 | 2022-07-29 |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 | 2022-03-08 |  |
 | [Train Song](https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Some Things Just Stick In Your Mind \(Singles And Demos 1964 To 1967\)](https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU) | 2:17 | 2022-03-08 |  |
 | [Traveling Alone](https://open.spotify.com/track/3e3g5fhOUw0TxHZ46Qn9uF) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/7qd2PanrJJPmuCdeJCPkwl) | 4:44 | 2021-03-05 | 2022-07-29 |
+| [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 | 2023-03-08 |  |
 | [Traveling Alone](https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone \(Bonus Track Version\)](https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw) | 4:44 | 2021-03-05 | 2023-04-29 |
 | [Treaty](https://open.spotify.com/track/3BoVC4v94xRXq5LUAb12V2) | [Joanne Shenandoah](https://open.spotify.com/artist/1FrutbnuSr4cDQGGf63HDf) | [Eagle Cries](https://open.spotify.com/album/7AnB5seDxYTDwHtbffrb83) | 3:33 | 2021-03-05 | 2022-07-09 |
 | [Turn, Turn, Turn! / To Everything There Is a Season](https://open.spotify.com/track/7bwHniUnXqVp59mCbrNnJc) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [The Very Best Of Judy Collins](https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR) | 3:36 | 2021-03-05 | 2022-07-28 |
@@ -345,7 +347,7 @@
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2021-03-05 | 2022-07-28 |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2021-03-05 |  |
 | [Wax & Wane](https://open.spotify.com/track/35RPFHlFGdNLK0cDKA9V3V) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/2GoRc0TJhQKgrFYnvI8yja) | 4:31 | 2021-03-05 | 2022-07-25 |
-| [Wax & Wane](https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd) | 4:31 | 2021-03-05 |  |
+| [Wax & Wane](https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd) | 4:31 | 2021-03-05 | 2023-05-04 |
 | [What Does It Mean to Travel](https://open.spotify.com/track/2bS67lgFXgl0xQqnJZvDlv) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [What Does It Mean to Travel](https://open.spotify.com/album/7qxqT0ybPE6bOUBq5e0HHA) | 3:09 | 2021-03-05 | 2022-07-25 |
 | [Whatever Fits Together](https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Quiet the Room](https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE) | 3:45 | 2023-03-08 |  |
 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2021-03-05 |  |

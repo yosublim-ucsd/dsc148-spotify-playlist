@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,171 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,162 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Lunar Eclipse](https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Lunar Eclipse](https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC) | 3:14 |
 | 100 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 |
 
-Snapshot ID: `MCw3MzVmZDVjNGUzY2NhZTAxNGUzNDAyMjA0ZThhOWQ4YmM5ZDliNjFj`
+Snapshot ID: `MCw4MTEyNmIxZmRmZGI2Mzc3NjVmYzQzOTI4NDk1MDU2N2IzNGFlMzQ5`

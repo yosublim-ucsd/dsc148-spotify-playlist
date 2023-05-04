@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Gordon Flanders
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,273 likes - 132 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,283 likes - 132 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 |
 | 2 | [煩](https://open.spotify.com/track/4gz8dfi9yCYUmOTYSn49PJ) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [PRESENT](https://open.spotify.com/album/4PkmXFT0XwZqFBPvPImPbW) | 4:18 |
-| 3 | [橋橋](https://open.spotify.com/track/6S5GiwCiruw4YSY8S20zdZ) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [橋橋](https://open.spotify.com/album/4Fm76Jj5H8gq8g5BuLC7bD) | 4:12 |
+| 3 | [橋橋](https://open.spotify.com/track/6S5GiwCiruw4YSY8S20zdZ) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [橋橋](https://open.spotify.com/album/4Fm76Jj5H8gq8g5BuLC7bD) | 4:12 |
 | 4 | [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 |
 | 5 | [be mine](https://open.spotify.com/track/1qlr9q9ub13lCS4OJKcp9t) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [2nd PRE EVOLUTION](https://open.spotify.com/album/2enwJuwD3Tygke0CHEGcS9) | 2:53 |
 | 6 | [麻倉](https://open.spotify.com/track/4oGGzCOYb2z7SLlIqGteSi) | [Potlim](https://open.spotify.com/artist/5uYT7MuoKJtXYjrjOfHTCm) | [麻倉](https://open.spotify.com/album/0l2wMg6OJlfr1jPRLxTbK4) | 3:00 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 131 | [TAITAI \(太太\)](https://open.spotify.com/track/7Gt2XwekPAYXZW79aU835U) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [TAITAI \(太太\)](https://open.spotify.com/album/2TWcKtOpTtyUOjzK9K98EQ) | 3:18 |
 | 132 | [Rosemary](https://open.spotify.com/track/2SVZHdvZX6wLCufft9ybBZ) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Rosemary](https://open.spotify.com/album/2YTZ1JrnsiUwlXArIQYMje) | 4:06 |
 
-Snapshot ID: `MCxiMTZmNzA2NjQ2MmZjMWZkMjdkMWI2NmZiNjViNjU0NGRiZDQ2NTli`
+Snapshot ID: `MCw0Njk5YWMyMzgxYmRlZDNlZGMwMGRiNTRjMzA3M2RjYzFhNDhjOTIy`

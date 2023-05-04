@@ -11004,10 +11004,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 217000,
       "name": "Skeleton Wedding",
       "url": "https://open.spotify.com/track/1UZvI3HkqAwWTiyuhM0WoW"
+    },
+    {
+      "album": {
+        "name": "Skeleton Wedding",
+        "url": "https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Skeleton Wedding",
+      "url": "https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN"
     },
     {
       "album": {

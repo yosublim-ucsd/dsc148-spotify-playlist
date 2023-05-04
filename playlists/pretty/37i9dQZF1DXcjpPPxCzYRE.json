@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 364160,
+  "num_followers": 364230,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDYxYmU5NzgxMWIyMjg1YThlMmZiMWIwYmRmYjFkOGExYjU5NzE0",
+  "snapshot_id": "MCxkZjI0N2ViZjY1OWNlODI1Zjk2ZGY4NzBkNzEzYjU3ZjA5MWQ4ODIy",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+        "name": "Love Is a Four Letter Word (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
       },
       "artists": [
         {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 413826,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+      "duration_ms": 240165,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Love Is a Four Letter Word (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
         }
       ],
-      "duration_ms": 240165,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Song For You",
-      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Goodnight (Go Home)",
         "url": "https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 246453,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Song For You",
+      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "The Bakman Tapes",
-        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
-      },
-      "artists": [
-        {
-          "name": "Susie Suh",
-          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
-        }
-      ],
-      "duration_ms": 212017,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Unchained Melody",
         "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 156000,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "The Bakman Tapes",
+        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
+      },
+      "artists": [
+        {
+          "name": "Susie Suh",
+          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
+        }
+      ],
+      "duration_ms": 212017,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Borneo",
-        "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "Rayito",
-      "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "No Me Merec\u00eda La Pena",
         "url": "https://open.spotify.com/album/4E8avZ7MNKPAhKGmgbcLaH"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 171340,
       "name": "No Me Merec\u00eda La Pena",
       "url": "https://open.spotify.com/track/0lezFXoMcfhkGgWDwYvpJn"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Borneo",
+        "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "Rayito",
+      "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
     }
   ],
   "unique_name": "Relax en casa",

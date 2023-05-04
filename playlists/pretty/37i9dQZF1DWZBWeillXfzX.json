@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 17669,
+  "num_followers": 17685,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjc3OGE5NjRmZjhhZjhmM2QzMDEwZjFhZjk5OWYzNGFmZWVjZDU1",
+  "snapshot_id": "MCwyNmEzMDRhOGQ1ZDFjM2JkZGViMzA2YjU4YmRhMmMzYzZiODZiODk1",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -335,22 +335,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Bookends",
-        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "B. Slade",
-          "url": "https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH"
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Something's Gotta Give",
-      "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
+      "duration_ms": 305253,
+      "name": "Two Steps Forward",
+      "url": "https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -371,18 +367,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi"
+        "name": "The Bookends",
+        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
       "artists": [
         {
-          "name": "Kirk Fletcher",
-          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "B. Slade",
+          "url": "https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH"
         }
       ],
-      "duration_ms": 305253,
-      "name": "Two Steps Forward",
-      "url": "https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd"
+      "duration_ms": 259906,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -451,18 +451,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+        "name": "Roll With the Punches",
+        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
       },
       "artists": [
         {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+          "name": "Martin Harley",
+          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
         }
       ],
-      "duration_ms": 250182,
-      "name": "Brown Gatton",
-      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+      "duration_ms": 191880,
+      "name": "Roll With the Punches",
+      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 250182,
+      "name": "Brown Gatton",
+      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+    },
+    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -501,20 +517,20 @@
       "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "Roll With the Punches",
-        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
+        "name": "Mile End",
+        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
       },
       "artists": [
         {
-          "name": "Martin Harley",
-          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 191880,
-      "name": "Roll With the Punches",
-      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
     },
     {
       "added_at": "2021-04-27 23:04:41",
@@ -547,22 +563,6 @@
       "duration_ms": 315178,
       "name": "Here Comes the Flood",
       "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Unrepentant",
         "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
       },
@@ -649,38 +665,6 @@
       "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Mile End",
-        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "Change In Me (The Rebirth)",
-      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Girls",
@@ -695,6 +679,22 @@
       "duration_ms": 180583,
       "name": "Cry for Me",
       "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -715,18 +715,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Royal Tea",
-        "url": "https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
         }
       ],
-      "duration_ms": 268733,
-      "name": "Royal Tea",
-      "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
+      "duration_ms": 335546,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6WwKPvUMydIJFX0QAZfHYj"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -751,50 +751,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
+        "name": "Royal Tea",
+        "url": "https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i"
       },
       "artists": [
         {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 335546,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/6WwKPvUMydIJFX0QAZfHYj"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Defenestrator",
-        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
-      },
-      "artists": [
-        {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
-        }
-      ],
-      "duration_ms": 428577,
-      "name": "Chief's Blues",
-      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
+      "duration_ms": 268733,
+      "name": "Royal Tea",
+      "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -827,6 +795,38 @@
       "duration_ms": 388893,
       "name": "Pusher",
       "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "What You\u2019re Made Of",
+      "url": "https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn"
     }
   ],
   "unique_name": "Modern Blues Guitar",

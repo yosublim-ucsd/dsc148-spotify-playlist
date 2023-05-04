@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 9420,
+  "num_followers": 9432,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2IxOTVmMDkxN2NiYTVjN2EwYmZjZTQ1YmRhMGQyMjE4NjY4ODRk",
+  "snapshot_id": "MCxkZDkxODczOTU4YTQwYjhiYzJhNGVjYzIwNjE5NWE2MjFlN2E4NzM2",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -547,18 +547,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Alexa!",
-        "url": "https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9"
+        "name": "Empty Estate",
+        "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
       },
       "artists": [
         {
-          "name": "The Cool Greenhouse",
-          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
         }
       ],
-      "duration_ms": 234720,
-      "name": "Alexa!",
-      "url": "https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI"
+      "duration_ms": 205586,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
     },
     {
       "added_at": "2023-03-23 20:53:14",
@@ -579,18 +579,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Empty Estate",
-        "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
+        "name": "Alexa!",
+        "url": "https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9"
       },
       "artists": [
         {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+          "name": "The Cool Greenhouse",
+          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
+      "duration_ms": 234720,
+      "name": "Alexa!",
+      "url": "https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -611,18 +611,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+        "name": "Chinese Restaurant",
+        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
       },
       "artists": [
         {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+          "name": "Krisma",
+          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
         }
       ],
-      "duration_ms": 324333,
-      "name": "Love Builds Up",
-      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
+      "duration_ms": 329786,
+      "name": "C.Rock",
+      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -695,6 +695,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Love Builds Up",
+      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -725,22 +741,6 @@
       "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
     },
     {
-      "added_at": "2023-01-12 03:40:17",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
       "added_at": "2023-01-25 02:05:47",
       "album": {
         "name": "Blackouts",
@@ -755,6 +755,22 @@
       "duration_ms": 410666,
       "name": "77 Slightly Delayed",
       "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+    },
+    {
+      "added_at": "2023-01-12 03:40:17",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -775,22 +791,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Chinese Restaurant",
-        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
-      },
-      "artists": [
-        {
-          "name": "Krisma",
-          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
-        }
-      ],
-      "duration_ms": 329786,
-      "name": "C.Rock",
-      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 434989,
       "name": "Trees",
       "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 266120,
-      "name": "No Spell",
-      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -839,6 +823,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Floating Coffin",
+        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 266120,
+      "name": "No Spell",
+      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Primary Colours",
         "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 478493,
       "name": "Sea Within a Sea",
       "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -919,22 +935,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
-      },
-      "artists": [
-        {
-          "name": "Colder",
-          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
-        }
-      ],
-      "duration_ms": 311600,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Gnod Drop Out With White Hills II",
         "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 661120,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
+      },
+      "artists": [
+        {
+          "name": "Colder",
+          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
+        }
+      ],
+      "duration_ms": 311600,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+    },
+    {
       "added_at": "2022-03-04 01:55:34",
       "album": {
         "name": "Mandatory Enjoyment",
@@ -1113,22 +1129,6 @@
       "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
-    },
-    {
       "added_at": "2022-11-19 05:33:06",
       "album": {
         "name": "Feorm Falorx",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Switched On",
-        "url": "https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 322360,
-      "name": "Super-Electric",
-      "url": "https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Zuckerzeit",
         "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 141160,
       "name": "Hei\u00dfe Lippen",
       "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Switched On",
+        "url": "https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 322360,
+      "name": "Super-Electric",
+      "url": "https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ege Bamyasi (Remastered Version)",
-        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
-      },
-      "artists": [
-        {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
-        }
-      ],
-      "duration_ms": 335199,
-      "name": "One More Night - 2004 Remastered Version",
-      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "F\u00fcr mich",
         "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 566520,
       "name": "F\u00fcr Dich",
       "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Ege Bamyasi (Remastered Version)",
+        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        }
+      ],
+      "duration_ms": 335199,
+      "name": "One More Night - 2004 Remastered Version",
+      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
     },
     {
       "added_at": "2022-01-20 20:59:43",
@@ -1295,6 +1295,22 @@
       "duration_ms": 389869,
       "name": "Ecdysis!",
       "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
+      },
+      "artists": [
+        {
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Motoring",
+      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
     },
     {
       "added_at": "2022-03-18 05:36:55",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
+        "name": "Haha Sound",
+        "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
       },
       "artists": [
         {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 273906,
-      "name": "Motoring",
-      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
+      "duration_ms": 261426,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Haha Sound",
-        "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
+        "name": "II",
+        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
       "artists": [
         {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          "name": "F\u00f6llakzoid",
+          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
         }
       ],
-      "duration_ms": 261426,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL"
+      "duration_ms": 391881,
+      "name": "9",
+      "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6llakzoid",
-          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
-        }
-      ],
-      "duration_ms": 391881,
-      "name": "9",
-      "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
         "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 386173,
       "name": "Sandtrommel",
       "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "NEU!",
+        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "duration_ms": 607426,
+      "name": "Hallogallo",
+      "url": "https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Find The Sun",
-        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
-      },
-      "artists": [
-        {
-          "name": "Deradoorian",
-          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
-        }
-      ],
-      "duration_ms": 426342,
-      "name": "Saturnine Night",
-      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "The Power Out",
         "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
       },
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "NEU!",
-        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
+        "name": "Find The Sun",
+        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
       },
       "artists": [
         {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+          "name": "Deradoorian",
+          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
         }
       ],
-      "duration_ms": 607426,
-      "name": "Hallogallo",
-      "url": "https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH"
+      "duration_ms": 426342,
+      "name": "Saturnine Night",
+      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
     },
     {
       "added_at": "2021-07-30 14:56:06",

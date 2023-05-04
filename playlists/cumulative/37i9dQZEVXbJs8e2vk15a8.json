@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 407573,
       "name": "Adi\u00f3s Amor / Oye Mujer",
       "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
@@ -5167,6 +5167,28 @@
     },
     {
       "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/2a7raFyhZQXTJZBqHkhHcO"
+      },
+      "artists": [
+        {
+          "name": "Deimi",
+          "url": "https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD"
+        },
+        {
+          "name": "TwinStudios",
+          "url": "https://open.spotify.com/artist/568QUEaGvb4nk8WH9k0ozz"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/1VFTF35B6jkkFAXiNCuoEs"
+    },
+    {
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -7316,7 +7338,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 140000,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
@@ -7570,7 +7592,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 133829,
       "name": "I Know - PR1SVX Edit",
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
@@ -8572,7 +8594,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 105560,
       "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
       "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
@@ -9608,7 +9630,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 200341,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/4qa0GxbPdzhH0BVCKmMoMi"

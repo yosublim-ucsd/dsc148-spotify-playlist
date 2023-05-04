@@ -1,12 +1,12 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 309990,
+  "num_followers": 310311,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmM2M2U3YmZkNDY0NzYxYmQxYzllMzk0N2RmOTViYjcxMWM3ZjBm",
+  "snapshot_id": "MCxiODE3YTlmZDRmMjg1OGNiNWI0ZjEyMDFhNzBkOWQwZDY4MzIyYTk2",
   "tracks": [
     {
       "added_at": "2023-01-19 13:21:13",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-01-19 13:21:13",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
-    },
-    {
-      "added_at": "2023-01-19 13:21:13",
-      "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 259959,
       "name": "Metalingus",
       "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
+    },
+    {
+      "added_at": "2023-01-19 13:21:13",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2023-01-19 13:21:13",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-01-19 13:21:13",
       "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "added_at": "2023-01-19 13:21:13",
+      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 233506,
       "name": "Run to the Hills - 2015 Remaster",
       "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
-    },
-    {
-      "added_at": "2023-01-19 13:21:13",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2023-01-19 13:21:13",
@@ -935,22 +935,6 @@
       "duration_ms": 199226,
       "name": "Refuse / Resist",
       "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
-    },
-    {
-      "added_at": "2023-01-19 13:21:13",
-      "album": {
-        "name": "Breakin' Outta Hell",
-        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 232425,
-      "name": "Breakin' Outta Hell",
-      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
     },
     {
       "added_at": "2023-01-19 13:21:13",
@@ -1459,6 +1443,22 @@
       "duration_ms": 373934,
       "name": "Children of the Next Level",
       "url": "https://open.spotify.com/track/5qC1Ly7Ec3fVxVbdpsLh7H"
+    },
+    {
+      "added_at": "2023-01-19 13:21:13",
+      "album": {
+        "name": "Mis-An-Thrope",
+        "url": "https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1"
+      },
+      "artists": [
+        {
+          "name": "DED",
+          "url": "https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa"
+        }
+      ],
+      "duration_ms": 194868,
+      "name": "Anti-Everything",
+      "url": "https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB"
     }
   ],
   "unique_name": "Party Hard",

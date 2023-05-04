@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO?si=AEXpaZzfSqCKzHERReplxQ">Disciples</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,638 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,695 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Blackberry Squash](https://open.spotify.com/track/6hweUFHtudeI3RdwsGD5J2) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Blackberry Squash](https://open.spotify.com/album/4xA6fF7xmaJg7D60M7paoK) | 2:08 |
 | 100 | [Up Now](https://open.spotify.com/track/0qHq9b2uTHw8DxHeNIuLte) | [Cory Ard](https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [Up Now](https://open.spotify.com/album/4Chi5xHfNmg27bv20D33ZK) | 3:02 |
 
-Snapshot ID: `MCw3NjAyNThhOWU2YmJlMTAyNWQwMzljNDk0MTZmOTQ4NTBmYzc5MTQ4`
+Snapshot ID: `MCxmMmVhZWIxMjRmZDJlNmM0NzAzZDE2NDQxOTQ4MDAyYjdhODk2Y2Rm`

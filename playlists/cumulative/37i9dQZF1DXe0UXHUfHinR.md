@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-599 songs - 1 day 23 hr 28 min
+600 songs - 1 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [As Times Goes By](https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 3:07 | 2022-10-27 |  |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2022-10-27 |  |
 | [Audrey](https://open.spotify.com/track/1u1yAXbpeZbObTD7OvaKa3) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Love Songs](https://open.spotify.com/album/33wUoRLQLzB8Q3iDzgQ7Nq) | 3:32 | 2022-10-27 |  |
+| [Autumn In New York](https://open.spotify.com/track/6Ad2BCQGByNSDSYAdn9iEk) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [Young Chet](https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky) | 2:08 | 2023-05-03 |  |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2022-10-27 | 2023-04-09 |
 | [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 | 2022-10-27 |  |
 | [Autumn In New York](https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:37 | 2023-01-18 |  |
@@ -189,7 +190,7 @@
 | [Fools Rush In](https://open.spotify.com/track/7hbpUZY7qsDPBe9X2juJEz) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [The Noble Art Of Teddy Wilson](https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G) | 2:29 | 2022-10-27 |  |
 | [Footprints \- Remastered](https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 7:29 | 2022-10-27 |  |
 | [For All We Know](https://open.spotify.com/track/086RZ0U22i29HR5bj0sWSB) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 2:47 | 2022-10-27 |  |
-| [For Lena And Lennie](https://open.spotify.com/track/5uNtaTmigAubx5fLfO92AW) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Quintessence](https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH) | 4:19 | 2022-12-07 |  |
+| [For Lena And Lennie](https://open.spotify.com/track/5uNtaTmigAubx5fLfO92AW) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Quintessence](https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH) | 4:19 | 2022-12-07 | 2023-05-04 |
 | [For Once In My Life \- Remastered/1994](https://open.spotify.com/track/3cco5vdDFUcGLEB8bf9jmo) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Welcome To My Love](https://open.spotify.com/album/5TdtCKPxkVHmWQWoRXxuXh) | 3:08 | 2022-10-27 |  |
 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 | 2022-10-27 | 2023-03-28 |
 | [Four](https://open.spotify.com/track/2CBfYM9el9Sh15s9NCeYFP) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 7:13 | 2022-10-27 |  |

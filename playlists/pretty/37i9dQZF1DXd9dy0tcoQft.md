@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Ben L'Oncle Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,259 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,263 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 66 | [Suitcase \(Add The Weight\)](https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH) | [GR€Y](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:24 |
 | 67 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 |
 | 68 | [Who Needs Words](https://open.spotify.com/track/3okFhxlqZJxjviCEFX5ZjJ) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Canyons](https://open.spotify.com/album/6zUkROVTx4kzHoWFAYcVr1) | 3:31 |
-| 69 | [New Tree](https://open.spotify.com/track/5fZkN8x1aEwugCkyRh4TH2) | [Midnight Colors](https://open.spotify.com/artist/1UpfSkwgcTmct1trqoCUGk) | [Midnight Colors](https://open.spotify.com/album/3Evem3kHZzf736bCREcOL8) | 4:52 |
-| 70 | [23](https://open.spotify.com/track/4jeUxze0mlpF0DzpyW8bCp) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [23](https://open.spotify.com/album/6dCV8A0XbZ0gcK6L27Se0o) | 2:58 |
+| 69 | [23](https://open.spotify.com/track/4jeUxze0mlpF0DzpyW8bCp) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [23](https://open.spotify.com/album/6dCV8A0XbZ0gcK6L27Se0o) | 2:58 |
+| 70 | [New Tree](https://open.spotify.com/track/5fZkN8x1aEwugCkyRh4TH2) | [Midnight Colors](https://open.spotify.com/artist/1UpfSkwgcTmct1trqoCUGk) | [Midnight Colors](https://open.spotify.com/album/3Evem3kHZzf736bCREcOL8) | 4:52 |
 
-Snapshot ID: `MCw5Mjg5YzRmMjY2NDY3ZDAwZWExMzliZTk3NzZkODk0MjdiY2QzOTEy`
+Snapshot ID: `MCwxNWE0ZWZmM2Y1YWYxNzY5NjlhZmMzMWRhYzE4OGRhMDNiN2Q3ODY4`

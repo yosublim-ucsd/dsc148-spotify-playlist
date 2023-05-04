@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 47362,
+  "num_followers": 47400,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2RhYmM1OGQ4OTY5ZGI2OTE4MzliYTVjMTExMGZhNTkwZDhmODNk",
+  "snapshot_id": "MCwxZWVlZTY5ZTk1NTJkN2E3YjFmZTgyOWM3NWVjYThhMGFlOGIxNjVk",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Un Chingazo",
-        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Un Chingazo",
-      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "\u00bfC\u00f3mo Me Ves?",
         "url": "https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 231496,
       "name": "Te Busqu\u00e9 (feat. Brian Sandoval)",
       "url": "https://open.spotify.com/track/603bEyofTyOeqhFtDLqvdH"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Un Chingazo",
+        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Un Chingazo",
+      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Covers A Mi Estilo",
-        "url": "https://open.spotify.com/album/0fJ40JHtpQP8mZE2qFwYZh"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/24ZUoUcNqEZ9enmLEFLxzd"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Amor Tumbado",
         "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 148750,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Covers A Mi Estilo",
+        "url": "https://open.spotify.com/album/0fJ40JHtpQP8mZE2qFwYZh"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/24ZUoUcNqEZ9enmLEFLxzd"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "H\u00e1blame de Ti",
-        "url": "https://open.spotify.com/album/1w77qD5A199FETNc5k7UBZ"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 258993,
-      "name": "H\u00e1blame de Ti",
-      "url": "https://open.spotify.com/track/0IyiKR4HMc4NMq2TgAXgQl"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Ida y Vuelta (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 220066,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/4Hxos1V3aaBXnJb4grtNMQ"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "H\u00e1blame de Ti",
+        "url": "https://open.spotify.com/album/1w77qD5A199FETNc5k7UBZ"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 258993,
+      "name": "H\u00e1blame de Ti",
+      "url": "https://open.spotify.com/track/0IyiKR4HMc4NMq2TgAXgQl"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mis Versiones Vol. 9",
-        "url": "https://open.spotify.com/album/4Qrz2HwRFKpmhC31fPJea0"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 215909,
-      "name": "La Mejor Versi\u00f3n De Mi",
-      "url": "https://open.spotify.com/track/1VcB8GhQbRap0lLEaNYDzI"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Boleros Que Hicieron Historia",
         "url": "https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 199106,
       "name": "Sabor a mi",
       "url": "https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Mis Versiones Vol. 9",
+        "url": "https://open.spotify.com/album/4Qrz2HwRFKpmhC31fPJea0"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 215909,
+      "name": "La Mejor Versi\u00f3n De Mi",
+      "url": "https://open.spotify.com/track/1VcB8GhQbRap0lLEaNYDzI"
     },
     {
       "added_at": "2022-08-03 16:09:42",

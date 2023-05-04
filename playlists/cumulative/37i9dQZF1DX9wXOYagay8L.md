@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=ULCBcQ9RSM61GgUQl7oKEw">Nomfundo Moh</a>
 
-366 songs - 1 day 2 hr 6 min
+367 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 | 2022-05-05 |  |
 | [Asambeni](https://open.spotify.com/track/7Lr10Tr4OI5SVin9D9VAhf) | [Batundi](https://open.spotify.com/artist/0K2Su3rHagcOMrBnIf2P9I), [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Asambeni](https://open.spotify.com/album/2yfyvCwXbwco8UIjSeYq0T) | 2:57 | 2022-02-17 | 2022-03-25 |
 | [Asyeke](https://open.spotify.com/track/4hje3mzEY1UWmYHv9KaePN) | [Umzulu Phaqa](https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND), [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60) | [Asyeke](https://open.spotify.com/album/6e7ceXPUdyn1t11wdabEY4) | 3:37 | 2022-07-28 | 2022-08-05 |
+| [Aware](https://open.spotify.com/track/4cG8G1cMBrh45ZtqWHPQvt) | [Namhla Bhadela](https://open.spotify.com/artist/3cT7EKatUTeGdRu3MfTWjo) | [It's Namhla](https://open.spotify.com/album/0OpfAkIflzmMf1GeDRrPLQ) | 3:38 | 2023-05-03 |  |
 | [AYE KUWA \(feat\. CK THE DJ\)](https://open.spotify.com/track/2nws7wwvjHpP512xuDAn10) | [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP), [CK THE DJ](https://open.spotify.com/artist/5aghK8xQCkW1oPN0I2xoHP) | [AYE KUWA \(feat\. CK THE DJ\)](https://open.spotify.com/album/6i7TW4LDvICObUfCJ9Jcas) | 4:52 | 2022-11-07 |  |
 | [Ayina Balance](https://open.spotify.com/track/1g6tYKBjl1wNdcjdp8SXtc) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw) | [Ayina Balance](https://open.spotify.com/album/6lvuzxH5bfYY4AYB4JdcEY) | 5:40 | 2023-04-27 |  |
 | [Backroom](https://open.spotify.com/track/1WBvbilb4UNMD8vxNbgZyp) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Backroom](https://open.spotify.com/album/7I6PNSnQ2ScimsJGZ0GnSv) | 4:10 | 2022-07-14 | 2022-10-14 |

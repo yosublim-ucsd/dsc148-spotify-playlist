@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Rodrigo y Gabriela",
-  "num_followers": 280103,
+  "num_followers": 280112,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmJkNzgxN2ZiYjM1ZGExNWQyMzYxMWM0MGYxZjg0OWI5NzBkY2E1",
+  "snapshot_id": "MCw0ZGFlYzY0YTgwOTUxYjhlMTE1NGQxZGE4MjIyMTIxZGVlMmFiOWRh",
   "tracks": [
     {
       "added_at": "2023-04-28 16:33:38",
@@ -247,6 +247,26 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "La \u00daltima Canci\u00f3n",
         "url": "https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy"
       },
@@ -279,22 +299,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "mejores amigos",
         "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
       },
@@ -319,22 +323,18 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         }
       ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Cuenta conmigo",
-        "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
-      },
-      "artists": [
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 166717,
-      "name": "Cuenta conmigo",
-      "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Invulnerables",
         "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 242600,
       "name": "Invulnerables",
       "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Cuenta conmigo",
+        "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 166717,
+      "name": "Cuenta conmigo",
+      "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -439,18 +439,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Flashbacks",
-        "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
+        "name": "S\u00f3lo D\u2019Lira",
+        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
       },
       "artists": [
         {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Flashbacks",
-      "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
+      "duration_ms": 234416,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -467,6 +471,22 @@
       "duration_ms": 211204,
       "name": "No Te Imagin\u00e1s",
       "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Flashbacks",
+        "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Flashbacks",
+      "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -519,26 +539,6 @@
       "duration_ms": 291106,
       "name": "La Petite Mort",
       "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "S\u00f3lo D\u2019Lira",
-        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "Money In The Bank",
-      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "Divergencia",
+        "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Divergencia",
+      "url": "https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Divergencia",
-        "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Divergencia",
-      "url": "https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "San Saltar\u00edn",
         "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "M\u00e1s Tuyo",
         "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
       },
@@ -723,6 +739,22 @@
       "duration_ms": 179891,
       "name": "M\u00e1s Tuyo",
       "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 193567,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -747,18 +779,18 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
+        "name": "Bajo Los \u00c1rboles",
+        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
       },
       "artists": [
         {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 162758,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+      "duration_ms": 247947,
+      "name": "Bajo Los \u00c1rboles",
+      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -811,54 +843,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 193567,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Bajo Los \u00c1rboles",
-        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 247947,
-      "name": "Bajo Los \u00c1rboles",
-      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 177348,
-      "name": "Dos",
-      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Vuelta en U",
         "url": "https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 177348,
+      "name": "Dos",
+      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
         "name": "S\u00f3lo Eres T\u00fa",
         "url": "https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Con los Pies en el Techo",
-        "url": "https://open.spotify.com/album/72aS3wri62UToYS68QLUn4"
-      },
-      "artists": [
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        }
-      ],
-      "duration_ms": 207645,
-      "name": "Con los Pies en el Techo",
-      "url": "https://open.spotify.com/track/6nMllahSeGPicYXH61ray7"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 247375,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Con los Pies en el Techo",
+        "url": "https://open.spotify.com/album/72aS3wri62UToYS68QLUn4"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "duration_ms": 207645,
+      "name": "Con los Pies en el Techo",
+      "url": "https://open.spotify.com/track/6nMllahSeGPicYXH61ray7"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Multiverso",
-        "url": "https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X"
-      },
-      "artists": [
-        {
-          "name": "Rayden",
-          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
-        }
-      ],
-      "duration_ms": 181340,
-      "name": "Multiverso",
-      "url": "https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Guanaco",
         "url": "https://open.spotify.com/album/5NfJb3X3Yr0lAEu3tRdWgr"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Soy Un Guapo",
-        "url": "https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu"
+        "name": "Multiverso",
+        "url": "https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X"
       },
       "artists": [
         {
-          "name": "The Guapos",
-          "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
+          "name": "Rayden",
+          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
         }
       ],
-      "duration_ms": 182780,
-      "name": "Soy Un Guapo",
-      "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
+      "duration_ms": 181340,
+      "name": "Multiverso",
+      "url": "https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -1067,6 +1051,22 @@
       "duration_ms": 262293,
       "name": "Celosa",
       "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Soy Un Guapo",
+        "url": "https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu"
+      },
+      "artists": [
+        {
+          "name": "The Guapos",
+          "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
+        }
+      ],
+      "duration_ms": 182780,
+      "name": "Soy Un Guapo",
+      "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "Traidora",
-        "url": "https://open.spotify.com/album/46yK79DN46OjOnQusajJb0"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 190146,
-      "name": "Traidora",
-      "url": "https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Maldivas",
         "url": "https://open.spotify.com/album/51dVROPWemf4IOiRHVDMrE"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 200693,
       "name": "Maldivas",
       "url": "https://open.spotify.com/track/0dpXgd1OyD0etHnvCodXXZ"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "Traidora",
+        "url": "https://open.spotify.com/album/46yK79DN46OjOnQusajJb0"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 190146,
+      "name": "Traidora",
+      "url": "https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH"
     },
     {
       "added_at": "2023-04-28 16:33:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-04-28 16:33:38",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
-    },
-    {
-      "added_at": "2023-04-28 16:33:38",
-      "album": {
         "name": "Carlangas",
         "url": "https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 126000,
       "name": "Regalao",
       "url": "https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf"
+    },
+    {
+      "added_at": "2023-04-28 16:33:38",
+      "album": {
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-04-28 16:33:38",

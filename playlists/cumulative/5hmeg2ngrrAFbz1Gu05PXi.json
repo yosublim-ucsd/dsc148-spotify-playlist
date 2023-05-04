@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Lost Tape",
+        "url": "https://open.spotify.com/album/02A7KdIVXZSop3lFFfmIGE"
+      },
+      "artists": [
+        {
+          "name": "Mutual Attraction",
+          "url": "https://open.spotify.com/artist/7tO7Ua6CcKSW6Kb8asyFdi"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420063,
+      "name": "Lost Tape",
+      "url": "https://open.spotify.com/track/4f1RbwBCPfOXNoir5e5hzw"
+    },
+    {
+      "album": {
         "name": "Underground Vibes",
         "url": "https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT"
       },
@@ -1566,6 +1584,24 @@
       "duration_ms": 166560,
       "name": "Signals - Remastered 2005",
       "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
+    },
+    {
+      "album": {
+        "name": "Love Pussycats & Carwrecks",
+        "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
+      },
+      "artists": [
+        {
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104093,
+      "name": "Snip & Lick",
+      "url": "https://open.spotify.com/track/6GSVklb8NTddCzX4OoNkxg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,925 likes - 33 songs - 1 hr 51 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,925 likes - 35 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 31 | [The Rhythm](https://open.spotify.com/track/00nvluAXKcXmdr4z8HsbHP) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [The Rhythm](https://open.spotify.com/album/5Uvfmx3R1O88Bt6DdZ5ll2) | 3:03 |
 | 32 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
 | 33 | [Baby](https://open.spotify.com/track/6bAgZ82ueaHXQ8PL0uARXc) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Baby](https://open.spotify.com/album/4zjeXfecjv5DvQr0TNraq3) | 2:38 |
+| 34 | [Lonely](https://open.spotify.com/track/4GO1DpXdNaDR4yvy9n4HmF) | [Hondës](https://open.spotify.com/artist/50ao69rRHg9HiIvhuvwaZc) | [Lonely](https://open.spotify.com/album/5bD1p0e5k1Iy5tzxbA8SXA) | 2:27 |
+| 35 | [Take Ma Advice \- Radio Edit](https://open.spotify.com/track/3oe1hcpJS8ZY319Ojik9uz) | [Since08](https://open.spotify.com/artist/6eq55c3X8PVwAFIN3f3Rv3) | [Advice](https://open.spotify.com/album/0ZNYfSWSoUzc7pNaUZj0qZ) | 3:33 |
 
-Snapshot ID: `NzAxNyxhOGQxZGE1YjIyMjMwMjhmMzhkNWFiMWQzYjVlZmE1MGI0ZDExM2Qy`
+Snapshot ID: `NzAxOSwxYjI5ZDljYjI1MjlmNThjNGFkMWZkNjBmNWZjZDYzNjk1MjIxYjBk`

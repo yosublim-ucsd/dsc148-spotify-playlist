@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/317605?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
+> 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/317879?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,907 likes - 48 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,988 likes - 48 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 2 | [merry\-go\-round](https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [merry\-go\-round](https://open.spotify.com/album/2fGBPXYiquxrRt3fYcRpyt) | 3:09 |
 | 3 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 |
 | 4 | [近い夜明け](https://open.spotify.com/track/2a8183S8N1XtyHBbBOoFYy) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [近い夜明け](https://open.spotify.com/album/5cmjQoKSSl3HdQphqKpLvo) | 4:05 |
-| 5 | [さようなら、サイエンスフィクション](https://open.spotify.com/track/709fp21JsV0sriXSkgMGYC) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [さようなら、サイエンスフィクション](https://open.spotify.com/album/4p5zfHqtZJS66ycg9fqx6d) | 3:27 |
-| 6 | [5/7](https://open.spotify.com/track/6G8TlOVJdJJoOncVNIauAx) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ポートレイト](https://open.spotify.com/album/65VlCYIKXlv7C388M9QvVq) | 3:49 |
-| 7 | [Skeleton Wedding](https://open.spotify.com/track/1UZvI3HkqAwWTiyuhM0WoW) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/1jHtKLztk72l4W2e0dSltd) | 3:37 |
+| 5 | [Sayonara, Science Fiction](https://open.spotify.com/track/02fVrxKTqEXTYoHj6ohNyN) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Sayonara, Science Fiction](https://open.spotify.com/album/3xi7tThfVCD9ly3SYQOFpk) | 3:27 |
+| 6 | [5/7](https://open.spotify.com/track/3PccLRXNz7D3qtm1vPhlao) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Portrait](https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj) | 3:49 |
+| 7 | [Skeleton Wedding](https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq) | 3:37 |
 | 8 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 |
 | 9 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 |
 | 10 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 |
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 37 | [69 Party](https://open.spotify.com/track/1Rd1IWQNTjlep5kcsyZsiq) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [DANCEHALL MAGIC](https://open.spotify.com/album/1FPcu8UL0LfZYnzV0diafu) | 3:23 |
 | 38 | [Down Town](https://open.spotify.com/track/1t1yQipJaCJccbPlmUWjjW) | [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW) | [INTERMISSION](https://open.spotify.com/album/6JseI9dzTfHwtYFC9FQ0AH) | 3:39 |
 | 39 | [Useless](https://open.spotify.com/track/3wxwIsv9Vz3pDXVIYxsVhk) | [CHAPAH](https://open.spotify.com/artist/48I0npVZVKzmMzS4ovC5ZG), [METEOR](https://open.spotify.com/artist/5OBETUt9n7K6ioUHZgQDDc) | [Useless](https://open.spotify.com/album/4oOxe1xHBHpsF6JzC1Ndim) | 3:12 |
-| 40 | [Fluid](https://open.spotify.com/track/63ujiJcwbrwFrsxUUwu79e) | [FLOAT JAM](https://open.spotify.com/artist/133GOLc1uo0WnvEK9oNovO), [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [TIMEKILLA](https://open.spotify.com/artist/5AcbT1lqRHN84A9TSDVdJi) | [THE HIGH END THEORY](https://open.spotify.com/album/1fJcjzsJR1ZUhdWc87bjeu) | 3:46 |
-| 41 | [9th](https://open.spotify.com/track/6vlEAbVpxnloVwZ4BxOlb7) | [ISH\-ONE](https://open.spotify.com/artist/0ywLwPt2AsDYor1f8z9YRP), [delmontestudio](https://open.spotify.com/artist/54IHHNshCadZuXLStuo6N9) | [STARDUST](https://open.spotify.com/album/5a5TBHVirIyefdIKHnyEwU) | 2:06 |
+| 40 | [Fluid](https://open.spotify.com/track/6800dzN1rxmizGnyX4fRMm) | [FLOAT JAM](https://open.spotify.com/artist/133GOLc1uo0WnvEK9oNovO), [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [TIMEKILLA](https://open.spotify.com/artist/5AcbT1lqRHN84A9TSDVdJi) | [THE HIGH END THEORY](https://open.spotify.com/album/2yP81hd7EHhrH3ONvJRz9u) | 3:46 |
+| 41 | [9th](https://open.spotify.com/track/18uzXgsCwG5IIT8nI6JweC) | [ISH\-ONE](https://open.spotify.com/artist/0ywLwPt2AsDYor1f8z9YRP), [delmontestudio](https://open.spotify.com/artist/54IHHNshCadZuXLStuo6N9) | [STARDUST](https://open.spotify.com/album/4xt90TjVP8bUCX3G2kGj1l) | 2:06 |
 | 42 | [Grief](https://open.spotify.com/track/09XxBJrprneCpmO6CQLKrT) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Maxwell Owin](https://open.spotify.com/artist/1BY3jPCSTYtgNJoqSnxt3f), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Grief](https://open.spotify.com/album/7oVN7H11MsBBUybYfC0z7H) | 4:17 |
 | 43 | [Oropendola](https://open.spotify.com/track/6NfjC2ToSc0hq1EdOB4sJK) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Oropendola](https://open.spotify.com/album/2Jgj1i5GJf6Qhkw5kmnhq7) | 4:15 |
 | 44 | [One Foot First](https://open.spotify.com/track/7oMvEDvJmMMOeMOCDtfS3b) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [One Foot First](https://open.spotify.com/album/0OoXmpTER36pcn1LzCassT) | 3:38 |
-| 45 | [ビッグバンに乗って](https://open.spotify.com/track/0UkTnIfrjY0Co11UHXc6Ad) | [シンダサカナノメ](https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh), [プランプラム](https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB) | [ビッグバンに乗って](https://open.spotify.com/album/7KtbWQhDVgGFCxz8PbXMB2) | 5:17 |
+| 45 | [ビッグバンに乗って](https://open.spotify.com/track/7fecqwLRNuN2YzPXNnoQrV) | [プランプラム](https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB), [シンダサカナノメ](https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh) | [ビッグバンに乗って](https://open.spotify.com/album/01eif4G6bvCYmcaNs08zAt) | 5:17 |
 | 46 | [BOMBAY](https://open.spotify.com/track/3ZW3IrLsgXG4yEPcNkgn43) | [Halle](https://open.spotify.com/artist/2hFqbr7kdnY7MLDsVP8Se8) | [BOMBAY](https://open.spotify.com/album/2Ws7G4HuorAFTkjGfRnB3c) | 4:10 |
 | 47 | [好](https://open.spotify.com/track/0NcRwdSdoDIZku1Zs5Yz16) | [ネオンに恋して](https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9) | [好](https://open.spotify.com/album/5Pm4gQZFTTWzN02Q8SuNkl) | 3:48 |
 | 48 | [Beside](https://open.spotify.com/track/63KJH2jYH1bKTqXd6v4ccq) | [CONFVSE](https://open.spotify.com/artist/0jHrkfttn8U65SC5fNYxZT) | [Beside](https://open.spotify.com/album/658P9Mns16YHWleM9DoZLz) | 4:58 |
 
-Snapshot ID: `MCxjYmM3ZTFlMWEyMjYxYTk0ODg1NDlhZmZhMDQ2OTkzMjcxNWRjMTIx`
+Snapshot ID: `MCw2NjQzZDY2Mjc5OTA1YmUyMjY1Mzk1N2Q0Mzg0YmQ4ODU3NjhjZTcz`

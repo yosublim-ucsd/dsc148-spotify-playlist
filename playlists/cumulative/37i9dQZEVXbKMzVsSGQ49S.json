@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -8301,6 +8301,28 @@
     },
     {
       "album": {
+        "name": "Hate On Us",
+        "url": "https://open.spotify.com/album/5CloUeEuOuZWAPGf0KTRTc"
+      },
+      "artists": [
+        {
+          "name": "Smoove Gotti",
+          "url": "https://open.spotify.com/artist/2WC4uCofVAeYSBeen2VeKM"
+        },
+        {
+          "name": "Ybg zy",
+          "url": "https://open.spotify.com/artist/6m1rUhF62bP5O2CQ5BEXYl"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188316,
+      "name": "Hate On Us",
+      "url": "https://open.spotify.com/track/59bMYlszIvqGlkVkSjdZe0"
+    },
+    {
+      "album": {
         "name": "Duet of Dualities",
         "url": "https://open.spotify.com/album/1eFkXkrRQG5v5NThuS8xJa"
       },
@@ -9912,6 +9934,28 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "album": {
+        "name": "I Want a Ferrari",
+        "url": "https://open.spotify.com/album/1HYulOUE0yGhBoWrETUocw"
+      },
+      "artists": [
+        {
+          "name": "Riff Raff",
+          "url": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273905,
+      "name": "I Want a Ferrari",
+      "url": "https://open.spotify.com/track/3FPjqFEYSIlcjh65tMYzlU"
     },
     {
       "album": {
@@ -18004,7 +18048,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -20442,7 +20486,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -22282,7 +22326,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"

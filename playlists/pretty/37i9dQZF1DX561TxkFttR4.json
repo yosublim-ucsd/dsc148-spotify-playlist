@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 330854,
+  "num_followers": 330936,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzhiYzMzMTRlZWVlNWMwMjc3MDg1NTQ5Njk4NDNlZGYwZjM3M2E3",
+  "snapshot_id": "MCwyNTI1YWQ3NDI4M2ZkNDk2NzYxZWIxNGUyMzc3MzYyNDRlZjkxYjM3",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Quietly Quietly",
-        "url": "https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4"
-      },
-      "artists": [
-        {
-          "name": "Peter Cavallo",
-          "url": "https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Quietly Quietly",
-      "url": "https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Quietly Quietly",
+        "url": "https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4"
+      },
+      "artists": [
+        {
+          "name": "Peter Cavallo",
+          "url": "https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Quietly Quietly",
+      "url": "https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Ave",
-        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
-      },
-      "artists": [
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Correlations (on 11 pianos)",
         "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 171615,
       "name": "Hour Glass",
       "url": "https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Ave",
+        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "duration_ms": 130459,
-      "name": "poetry in touch",
-      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "night walk",
         "url": "https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 194517,
       "name": "night walk",
       "url": "https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "duration_ms": 130459,
+      "name": "poetry in touch",
+      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "Moux: how we sleep",
-      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Pr\u00e9lude",
         "url": "https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 187200,
       "name": "Dagdraumur",
       "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Song For Katie",
+        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "duration_ms": 146960,
+      "name": "Song For Katie",
+      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Song For Katie",
-        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
-      },
-      "artists": [
-        {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "Song For Katie",
-      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Lost",
         "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
       },
@@ -983,50 +967,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Any",
-        "url": "https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC"
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
       },
       "artists": [
         {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Any",
-      "url": "https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
-      },
-      "artists": [
-        {
-          "name": "Ben Laver",
-          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Untouched Rainforest, Pt.3",
-        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 193529,
-      "name": "Untouched Rainforest, Pt.3",
-      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
+      "duration_ms": 182805,
+      "name": "Moux: how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1047,6 +999,54 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Any",
+        "url": "https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC"
+      },
+      "artists": [
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Any",
+      "url": "https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Untouched Rainforest, Pt.3",
+        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 193529,
+      "name": "Untouched Rainforest, Pt.3",
+      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Echoes In The Valley",
         "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Life in Process",
-        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
-      },
-      "artists": [
-        {
-          "name": "Masaki Kawasaki",
-          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Quintessence",
         "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 144840,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Life in Process",
+        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
+      },
+      "artists": [
+        {
+          "name": "Masaki Kawasaki",
+          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "An Evening Scene",
-        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 144625,
-      "name": "An Evening Scene",
-      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Void (I Play Mine version)",
         "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 159000,
       "name": "The Void - I Play Mine version",
       "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "An Evening Scene",
+        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "An Evening Scene",
+      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
+      },
+      "artists": [
+        {
+          "name": "The Masked Pianoman",
+          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+        }
+      ],
+      "duration_ms": 129209,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Col",
         "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
+        "name": "We Met in the Garden",
+        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
       },
       "artists": [
         {
-          "name": "The Masked Pianoman",
-          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
         }
       ],
-      "duration_ms": 129209,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
+      "duration_ms": 143585,
+      "name": "We Met in the Garden",
+      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "We Met in the Garden",
-        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
-      },
-      "artists": [
-        {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
-        }
-      ],
-      "duration_ms": 143585,
-      "name": "We Met in the Garden",
-      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "A Cloud Passed",
         "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Asunder",
-        "url": "https://open.spotify.com/album/5yexAB7diAilKX5c3DcKvc"
+        "name": "9-Feb-2022 \"All For E\"",
+        "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
       },
       "artists": [
         {
-          "name": "Glenn Natale",
-          "url": "https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel"
+          "name": "Sebastian Morawietz",
+          "url": "https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT"
         }
       ],
-      "duration_ms": 152200,
-      "name": "Asunder",
-      "url": "https://open.spotify.com/track/0eGyesQQqxL1niUnIAH1gi"
+      "duration_ms": 244937,
+      "name": "9-Feb-2022 \"All For E\"",
+      "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
     }
   ],
   "unique_name": "Soft Piano",

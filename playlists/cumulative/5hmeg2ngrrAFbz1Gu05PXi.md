@@ -4,7 +4,7 @@
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-113 songs - 10 hr 25 min
+115 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Kow Chow](https://open.spotify.com/track/5CGWUQ3asNMDqnYxLmlMGi) | [Sunmonx](https://open.spotify.com/artist/4jIcnlU3POWCKZRYo6UtwQ) | [Power Salad](https://open.spotify.com/album/0F6YKEYXVF9mNhAVlp6q4j) | 7:52 | 2022-10-18 |  |
 | [Leena](https://open.spotify.com/track/02kSuFnlxEW1PlRVTF1DTd) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/36AWYqwFvbAbxxCFgbRfJo) | 3:45 | 2022-10-18 |  |
 | [Llwe](https://open.spotify.com/track/29EtlAhaZWwjOziBs3HooV) | [KONDOR](https://open.spotify.com/artist/38v0MI7xPOGq3cet9d5pLg) | [Cyf](https://open.spotify.com/album/6ZuzmGIJxSslpsMOJG640C) | 2:48 | 2023-04-19 |  |
+| [Lost Tape](https://open.spotify.com/track/4f1RbwBCPfOXNoir5e5hzw) | [Mutual Attraction](https://open.spotify.com/artist/7tO7Ua6CcKSW6Kb8asyFdi) | [Lost Tape](https://open.spotify.com/album/02A7KdIVXZSop3lFFfmIGE) | 7:00 | 2023-05-03 |  |
 | [Mad Blunted Jazz](https://open.spotify.com/track/5DBHf9TJyINVithuciTmic) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 5:10 | 2022-10-18 |  |
 | [Manzanita](https://open.spotify.com/track/3qkRA6vWRJT0XVAbTKCzU2) | [Kalya Scintilla](https://open.spotify.com/artist/4OaiBs44dwDgn9WjDD8jg4) | [Listen to the Trees](https://open.spotify.com/album/3qp0uTYHl6stm55sEVRJMT) | 5:58 | 2022-10-18 |  |
 | [Marta](https://open.spotify.com/track/5tFslwgjPUgLYPl1AlhVSI) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Places \- EP](https://open.spotify.com/album/5NkbQG0TYfFx0gX793yAHO) | 5:36 | 2022-10-18 |  |
@@ -92,6 +93,7 @@
 | [Scribbly Gum Smokehouse](https://open.spotify.com/track/2fdH4VKsltgOGrmRPEtgui) | [Desmond Cheese](https://open.spotify.com/artist/4fpbUiU0gUoOO2S3JGRbXA) | [Peace & Quiet](https://open.spotify.com/album/6Klloq7H5lgSQmL82MoPuT) | 3:21 | 2022-10-18 |  |
 | [Ship Is Not A Child](https://open.spotify.com/track/1aAOinOUcMkhCLaS4njmz4) | [Ott](https://open.spotify.com/artist/1F102kNzMqsmOpF7AfFmm5) | [Fairchildren](https://open.spotify.com/album/2sdhmy5cFS5OdZEWS5y9he) | 10:42 | 2022-10-18 |  |
 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 | 2022-10-18 |  |
+| [Snip & Lick](https://open.spotify.com/track/6GSVklb8NTddCzX4OoNkxg) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Love Pussycats & Carwrecks](https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9) | 1:44 | 2023-05-03 |  |
 | [Something Dark Is Coming](https://open.spotify.com/track/2xcU0xSspcVhUZ1HFW7U6f) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Battlestar Galactica: Season 2 \(Original Soundtrack\) \[Remastered\]](https://open.spotify.com/album/0SUGqrVDi1AxGqS4T2JHRn) | 8:50 | 2022-10-18 |  |
 | [Song 2](https://open.spotify.com/track/6yanRGdN1bj7aYsXnElK0h) | [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Jaku](https://open.spotify.com/album/3dmRqnSSeMcPOrFGAmy2sm) | 4:59 | 2022-10-18 |  |
 | [Stay with Me](https://open.spotify.com/track/1rSbw0Q2lE6hmugfXC8kGB) | [Robert Prizeman](https://open.spotify.com/artist/2G9gEEtYueq2WQqzfzWK0H), [Libera](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) | [Free](https://open.spotify.com/album/0pSbj7jH6ww3dlA9riVwIU) | 3:33 | 2022-10-18 |  |

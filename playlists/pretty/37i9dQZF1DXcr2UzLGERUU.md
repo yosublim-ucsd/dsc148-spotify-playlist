@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,512 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,779 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 43 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
 | 44 | [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 |
 | 45 | [Beautiful Dreamer](https://open.spotify.com/track/04hLjjWhpgE5ir5793nmOY) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 1:51 |
-| 46 | [You've Got a Friend in Me \- Acoustic](https://open.spotify.com/track/05ZcB9Cln3VRHYS7W3bLgo) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Simply Acoustic](https://open.spotify.com/album/5GkuY9Il0OakVEzNyX7mP4) | 2:11 |
-| 47 | [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 |
-| 48 | [momma told me imma be](https://open.spotify.com/track/5oFhakk58OBApacdBhYDkW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:13 |
-| 49 | [Honey](https://open.spotify.com/track/5lLdRp4GpGKAvltZCZ7KRZ) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Honey](https://open.spotify.com/album/779oggvAt1GFSFJP3CYKMi) | 2:27 |
+| 46 | [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 |
+| 47 | [You've Got a Friend in Me \- Acoustic](https://open.spotify.com/track/05ZcB9Cln3VRHYS7W3bLgo) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Simply Acoustic](https://open.spotify.com/album/5GkuY9Il0OakVEzNyX7mP4) | 2:11 |
+| 48 | [Honey](https://open.spotify.com/track/5lLdRp4GpGKAvltZCZ7KRZ) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Honey](https://open.spotify.com/album/779oggvAt1GFSFJP3CYKMi) | 2:27 |
+| 49 | [momma told me imma be](https://open.spotify.com/track/5oFhakk58OBApacdBhYDkW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:13 |
 | 50 | [Kindness Mantra](https://open.spotify.com/track/6BB7WGnYYH690VSE8EYxke) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 2:49 |
 
-Snapshot ID: `MCxiZDQwMzEyMjJiMGIxNzE5M2Q5NzQ0NDU5YjU3ZTI3MTdmN2M3OGZl`
+Snapshot ID: `MCxiZDIwMGM3ZjViNjEwMzFiMTZhMmU0Yjk3ZTk2YjA1OWJmMTFlYTgz`

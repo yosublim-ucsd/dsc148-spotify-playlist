@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Marvvila, Luan Santana, Marina Senna, Lauana Prado com Guilherme & Benuto, Di Propósito e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865,574 likes - 101 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,865,720 likes - 101 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 10 | [Tô Sentindo Falta](https://open.spotify.com/track/2EONSRu7JnCe75ZERnURp3) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Tô Sentindo Falta](https://open.spotify.com/album/008M0S57XJtqyqOlK1H5g6) | 3:10 |
 | 11 | [Bora Tomar Uma](https://open.spotify.com/track/6On0xxXQRrGQPgCG7y7HXG) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Cabaré](https://open.spotify.com/artist/5Mea9nekf726JwgbkKKq7c) | [Cabaré Rouge Vol\. 01](https://open.spotify.com/album/5JCjftIJRdZZtlZTQwzz2s) | 2:35 |
 | 12 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 |
-| 13 | [Festa na Piscina](https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Festa na Piscina](https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO) | 4:28 |
+| 13 | [Festa na Piscina](https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Festa na Piscina](https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO) | 4:28 |
 | 14 | [Laça Nóis](https://open.spotify.com/track/1tMuSVzmZHzmGLa12KMlIS) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [On Fire \- EP 1](https://open.spotify.com/album/5OvVZ7YNf6NHv9UUu2tZKb) | 2:46 |
 | 15 | [Vaza Vaza](https://open.spotify.com/track/0JxgiE8IcXIhw7IDWrema8) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Márcia Fellipe Metalizada](https://open.spotify.com/album/3ZF1YPToWlPIx0lUFiymZl) | 2:54 |
 | 16 | [Isso é Vaquejada](https://open.spotify.com/track/5SBwdQwgcGDJOAFBMKct7s) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Forró Pesado](https://open.spotify.com/album/5VLR96UjrahVBMJH97Mh57) | 3:10 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 100 | [Foi melhor assim](https://open.spotify.com/track/4qNf8KMLEssv9wpDy3Sj2F) | [Raissa](https://open.spotify.com/artist/1RPV7GfUGvfiptfKMTbxya), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Foi melhor assim](https://open.spotify.com/album/5fmpbTZAaguMCbW2BkTBzj) | 2:45 |
 | 101 | [Bunda Pra Lá, Bunda Pra Cá](https://open.spotify.com/track/49Hp8x0nM1INNaBIYT1reL) | [LT](https://open.spotify.com/artist/27EsaYcDfQ1XhSx08LJCNR) | [Bunda Pra Lá, Bunda Pra Cá](https://open.spotify.com/album/5lNqUxbkibKmTiyw9yPvsc) | 2:22 |
 
-Snapshot ID: `MCxlMzFjZWMzYWYwZjBjNTBiNzFmYTRhZDAxNDc4ZWEwNjc0Y2M4NTJj`
+Snapshot ID: `MCw3ZDJmZmE2ZmZjNDkxZmIwYTM3ZDE2MjJhZjZlMmVlZWVjMWYxZmNk`

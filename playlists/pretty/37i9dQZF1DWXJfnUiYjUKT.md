@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Labrinth
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,359 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,841 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:55 |
 | 100 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 
-Snapshot ID: `MCwwYmJjY2EwM2IwYTY0NzI4NTUxZjU1MjM4YmY4Njg2MTQ1NGVkOGZl`
+Snapshot ID: `MCxjNWJlNTlhNWY4YWY5NGQzYmNmMmJiNDYzMzFiZjg5YjEyYTFlZDEw`

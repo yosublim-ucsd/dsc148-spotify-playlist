@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Kenia OS y Gera MX en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,173 likes - 95 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,245 likes - 95 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 94 | [Fango](https://open.spotify.com/track/4cIRzRikDWfeFskgAbC13R) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Fango](https://open.spotify.com/album/31vollZPe01eJhqLhugezp) | 3:03 |
 | 95 | [María](https://open.spotify.com/track/6Pv6rF1V7obyszMFstKp96) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [María Mixtape](https://open.spotify.com/album/74o0avaksGVKPGUZe07QAs) | 2:35 |
 
-Snapshot ID: `MCwyYThkYjkzMjE5YTk0MDdjOThmYTdlZjQxZmNiMGRiNTgwZjdjYTM4`
+Snapshot ID: `MCwwMmMyYWVkMjJmNjMyODA5NmQ0OThjMjY3MzMxNzZmMTJlMTdiYTRh`

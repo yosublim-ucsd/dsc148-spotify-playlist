@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127266,
+  "num_followers": 127265,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE2NiwyM2MwMmRkMDA0M2E2MjdmYzVjZTNkYTUwNjE5Y2FiYTRmZTJkZTRm",
+  "snapshot_id": "NDE2OSw2ZjIwOGRiMGQyYjM0MzRmNWQyMzQ2YzRmZjFlMDQ5YzMyMGFkNGI0",
   "tracks": [
+    {
+      "added_at": "2023-05-03 16:43:43",
+      "album": {
+        "name": "NIGHT",
+        "url": "https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB"
+      },
+      "artists": [
+        {
+          "name": "VESK GREEN",
+          "url": "https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo"
+        }
+      ],
+      "duration_ms": 259862,
+      "name": "NIGHT",
+      "url": "https://open.spotify.com/track/6MvLdr8EU0ROnLBIydewaD"
+    },
     {
       "added_at": "2023-05-02 16:41:25",
       "album": {
@@ -1079,26 +1095,6 @@
       "duration_ms": 180922,
       "name": "No Service",
       "url": "https://open.spotify.com/track/1R2g5R7ckiCczur5kd3BfI"
-    },
-    {
-      "added_at": "2023-02-16 18:54:26",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n"
-      },
-      "artists": [
-        {
-          "name": "Feint",
-          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
-        },
-        {
-          "name": "Josh Rubin",
-          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
-        }
-      ],
-      "duration_ms": 224827,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

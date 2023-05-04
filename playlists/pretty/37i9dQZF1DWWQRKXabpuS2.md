@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: سلطان المرشد
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,030 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,060 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 |
 | 50 | [عن حب](https://open.spotify.com/track/3QEJRUVij90qdzU1AObDZY) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [عن حب](https://open.spotify.com/album/2zLFbF01L9wYqm98OLTKZy) | 3:05 |
 
-Snapshot ID: `MCw1YTU0NzkxMmEyZWY5ZjRmMDcxZDk3ODY3ZDY1M2YyMmYyYTA3NjU4`
+Snapshot ID: `MCw5YTEzNTk0Zjg1NjFjMmExNmY4ZjQ0NzcwZDliZTU0MmU0OGJhMWM5`

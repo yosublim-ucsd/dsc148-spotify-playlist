@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1771962,
+  "num_followers": 1772171,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTAxZWViZTk1ODVmM2Y5ZGFhYzI4ZjRhNWEwNmFmYWNiNGVmMWJi",
+  "snapshot_id": "MCw0YzNiMTRjOTM0Y2RjZDNkZGIyYTFmZTlmY2NkMDk5ZGUyNThjMDM3",
   "tracks": [
     {
       "added_at": "2023-05-01 15:41:59",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 208297,
-      "name": "Dark Four Door",
-      "url": "https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
         "name": "Not Nearly Dark",
         "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 208297,
+      "name": "Dark Four Door",
+      "url": "https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "Ani DiFranco",
-        "url": "https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K"
-      },
-      "artists": [
-        {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Both Hands",
-      "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 207936,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "Ani DiFranco",
+        "url": "https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -1467,6 +1467,22 @@
       "duration_ms": 182293,
       "name": "The One You Love",
       "url": "https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "Kosher",
+        "url": "https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Left for America",
+      "url": "https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "Kosher",
-        "url": "https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Left for America",
-      "url": "https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
         "name": "The Weather Station",
         "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 321120,
-      "name": "Lovers' Eyes",
-      "url": "https://open.spotify.com/track/60XAcN6U4FyH10movaioLz"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
         "name": "B-Sides",
         "url": "https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 193880,
       "name": "Lonelily",
       "url": "https://open.spotify.com/track/4bdjQvuoDBAsxdUPmEIltt"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Lovers' Eyes",
+      "url": "https://open.spotify.com/track/60XAcN6U4FyH10movaioLz"
     },
     {
       "added_at": "2023-05-01 15:41:59",

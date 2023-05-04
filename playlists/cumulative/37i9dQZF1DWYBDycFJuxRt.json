@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: DURDN *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/317605?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: DURDN *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/317879?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "5/7",
+      "url": "https://open.spotify.com/track/3PccLRXNz7D3qtm1vPhlao"
+    },
+    {
+      "album": {
         "name": "\u30dd\u30fc\u30c8\u30ec\u30a4\u30c8",
         "url": "https://open.spotify.com/album/65VlCYIKXlv7C388M9QvVq"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 229720,
       "name": "5/7",
       "url": "https://open.spotify.com/track/6G8TlOVJdJJoOncVNIauAx"
@@ -440,6 +458,28 @@
     {
       "album": {
         "name": "STARDUST",
+        "url": "https://open.spotify.com/album/4xt90TjVP8bUCX3G2kGj1l"
+      },
+      "artists": [
+        {
+          "name": "ISH-ONE",
+          "url": "https://open.spotify.com/artist/0ywLwPt2AsDYor1f8z9YRP"
+        },
+        {
+          "name": "delmontestudio",
+          "url": "https://open.spotify.com/artist/54IHHNshCadZuXLStuo6N9"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126600,
+      "name": "9th",
+      "url": "https://open.spotify.com/track/18uzXgsCwG5IIT8nI6JweC"
+    },
+    {
+      "album": {
+        "name": "STARDUST",
         "url": "https://open.spotify.com/album/5a5TBHVirIyefdIKHnyEwU"
       },
       "artists": [
@@ -454,7 +494,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 126600,
       "name": "9th",
       "url": "https://open.spotify.com/track/6vlEAbVpxnloVwZ4BxOlb7"
@@ -4568,10 +4608,36 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 226522,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/63ujiJcwbrwFrsxUUwu79e"
+    },
+    {
+      "album": {
+        "name": "THE HIGH END THEORY",
+        "url": "https://open.spotify.com/album/2yP81hd7EHhrH3ONvJRz9u"
+      },
+      "artists": [
+        {
+          "name": "FLOAT JAM",
+          "url": "https://open.spotify.com/artist/133GOLc1uo0WnvEK9oNovO"
+        },
+        {
+          "name": "Packed Rich",
+          "url": "https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94"
+        },
+        {
+          "name": "TIMEKILLA",
+          "url": "https://open.spotify.com/artist/5AcbT1lqRHN84A9TSDVdJi"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226522,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/6800dzN1rxmizGnyX4fRMm"
     },
     {
       "album": {
@@ -12111,6 +12177,24 @@
     },
     {
       "album": {
+        "name": "Sayonara, Science Fiction",
+        "url": "https://open.spotify.com/album/3xi7tThfVCD9ly3SYQOFpk"
+      },
+      "artists": [
+        {
+          "name": "Mom",
+          "url": "https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207392,
+      "name": "Sayonara, Science Fiction",
+      "url": "https://open.spotify.com/track/02fVrxKTqEXTYoHj6ohNyN"
+    },
+    {
+      "album": {
         "name": "ANOTHER SUMMER REMIX",
         "url": "https://open.spotify.com/album/2WBgDzIFNojmCZqKgRm3Gy"
       },
@@ -12902,10 +12986,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 217000,
       "name": "Skeleton Wedding",
       "url": "https://open.spotify.com/track/1UZvI3HkqAwWTiyuhM0WoW"
+    },
+    {
+      "album": {
+        "name": "Skeleton Wedding",
+        "url": "https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Skeleton Wedding",
+      "url": "https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN"
     },
     {
       "album": {
@@ -17128,7 +17230,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 207392,
       "name": "\u3055\u3088\u3046\u306a\u3089\u3001\u30b5\u30a4\u30a8\u30f3\u30b9\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/709fp21JsV0sriXSkgMGYC"
@@ -19420,10 +19522,32 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 317333,
       "name": "\u30d3\u30c3\u30b0\u30d0\u30f3\u306b\u4e57\u3063\u3066",
       "url": "https://open.spotify.com/track/0UkTnIfrjY0Co11UHXc6Ad"
+    },
+    {
+      "album": {
+        "name": "\u30d3\u30c3\u30b0\u30d0\u30f3\u306b\u4e57\u3063\u3066",
+        "url": "https://open.spotify.com/album/01eif4G6bvCYmcaNs08zAt"
+      },
+      "artists": [
+        {
+          "name": "\u30d7\u30e9\u30f3\u30d7\u30e9\u30e0",
+          "url": "https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB"
+        },
+        {
+          "name": "\u30b7\u30f3\u30c0\u30b5\u30ab\u30ca\u30ce\u30e1",
+          "url": "https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317333,
+      "name": "\u30d3\u30c3\u30b0\u30d0\u30f3\u306b\u4e57\u3063\u3066",
+      "url": "https://open.spotify.com/track/7fecqwLRNuN2YzPXNnoQrV"
     },
     {
       "album": {

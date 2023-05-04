@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Clodelle
 
-1,824 songs - 4 day 1 hr 48 min
+1,825 songs - 4 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [Déterminé](https://open.spotify.com/track/2kMdmPQV1awZKI3HDOa9kX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Déterminé](https://open.spotify.com/album/2khCRc3fWRPowHBc23mgNg) | 2:55 | 2022-10-14 | 2022-10-29 |
 | [Détestable moi](https://open.spotify.com/track/4VeCmnzBp3VwemAUlN8U4z) | [EXKY](https://open.spotify.com/artist/1arrwgPVY9Qi2aqwZ4elw0) | [Détestable moi](https://open.spotify.com/album/6W3HP0x8nAyFEx80PPQ3mu) | 3:02 | 2022-09-02 | 2022-09-17 |
 | [Détours](https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Snake eyes](https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8) | 2:52 | 2022-02-25 | 2022-03-12 |
-| [Eastside Story](https://open.spotify.com/track/75XxDL422jppGj97qBCVxy) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Eastside Story](https://open.spotify.com/album/6Lk7hHtq1I1pEYcS6ZHZNs) | 2:37 | 2023-04-28 |  |
+| [Eastside Story](https://open.spotify.com/track/75XxDL422jppGj97qBCVxy) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Eastside Story](https://open.spotify.com/album/6Lk7hHtq1I1pEYcS6ZHZNs) | 2:36 | 2023-04-28 |  |
 | [EAU DE MARS](https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [EAU DE MARS](https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu) | 3:26 | 2023-04-28 |  |
 | [Edgar](https://open.spotify.com/track/0Pl5LzGrk8hKhKos4ktUML) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 3:36 | 2022-05-27 | 2022-06-04 |
 | [Effet placebo \- Radio edit](https://open.spotify.com/track/0ABn6ncEQb4KEkFeKabDFm) | [YAO](https://open.spotify.com/artist/5PNm0NnKcFtEKVGlOTWSPT) | [Effet placebo \(Radio edit\)](https://open.spotify.com/album/7ulaVYY2HikloVfJyCcdbv) | 2:26 | 2022-04-15 | 2022-04-23 |
@@ -712,7 +712,7 @@
 | [Issue de secours](https://open.spotify.com/track/0l1l9OjsO4MnMrYGmAs7yY) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [Issue de secours](https://open.spotify.com/album/29ZcoeKtLv9sQIQtYVRlUw) | 3:07 | 2021-12-31 | 2022-01-22 |
 | [J'ai besoin d'air](https://open.spotify.com/track/3zc9tTWeUOswCBVFp6Y7l9) | [Patsy Gallant](https://open.spotify.com/artist/13amDjKz680LMirXzQEqU5) | [J'ai besoin d'air / I Don't Care](https://open.spotify.com/album/72Lb4fOcI5uGHLLdrGPvPr) | 3:39 | 2022-05-27 | 2022-06-11 |
 | [J'ai besoin d'un ami](https://open.spotify.com/track/2MN2ntP1oiESpTGN2p6O4L) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Ginette à ma façon](https://open.spotify.com/album/2sPVS4NxuXhOcc0LFzbKFv) | 3:52 | 2022-02-11 | 2022-02-26 |
-| [J'ai besoin d'un break](https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [J'ai besoin d'un break](https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX) | 3:08 | 2023-03-31 |  |
+| [J'ai besoin d'un break](https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [J'ai besoin d'un break](https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX) | 3:08 | 2023-03-31 | 2023-05-04 |
 | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/track/0P2JU5kn6PpMV3iMoYFLzJ) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/album/5Ezp3SweJKbdqdZ7jn0zXM) | 1:46 | 2021-12-31 | 2022-01-22 |
 | [J'ai mon blick](https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [J'ai mon blick](https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150) | 3:32 | 2022-05-20 | 2022-06-04 |
 | [J'ai pas l'time](https://open.spotify.com/track/7oXiWuQPvywjQgKwoVrDY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [J'ai pas l'time](https://open.spotify.com/album/2Ox36Sou25gwtw8wvA6SUN) | 3:50 | 2022-04-29 | 2022-05-14 |
@@ -1545,6 +1545,7 @@
 | [Sommeil pesant](https://open.spotify.com/track/7iPlZhBBjKJMgyof1FJETR) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Sommeil pesant](https://open.spotify.com/album/7I6qbi6qSOUuVUJ6AavicA) | 3:18 | 2022-07-08 | 2022-07-30 |
 | [Soroche \- Remix](https://open.spotify.com/track/3lOPIBDXdNgWWtfVgUFjtc) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu) | [Soroche](https://open.spotify.com/album/6lgpGcx0Y3AbGz26de8Rre) | 3:01 | 2022-01-14 | 2022-01-29 |
 | [Sorry Not Sorry](https://open.spotify.com/track/5HeVjNJ5Eq4kSoFBjvxNOD) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Sorry Not Sorry](https://open.spotify.com/album/1AsaRWiJEbHZXObXDuGF1u) | 3:50 | 2022-02-18 | 2022-03-05 |
+| [Sosa](https://open.spotify.com/track/1qCRNHFdp6h3IETdTYE3CG) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:37 | 2023-04-28 |  |
 | [Sous les jupes](https://open.spotify.com/track/4vAwwCBbHW4SwXBIZ2qEIh) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Eden](https://open.spotify.com/album/2yRMCemIzq1YWHpgkwvSra) | 3:54 | 2022-04-08 | 2022-04-23 |
 | [Spaceship](https://open.spotify.com/track/2hkCvLdIVI5wJSXDp2fPXZ) | [Kibcha](https://open.spotify.com/artist/1r8ynsGGZtzzS8oVzsT7Hl), [Bawza](https://open.spotify.com/artist/6qnJ0A1QJ8eMdR5AaZ26YU) | [Spaceship](https://open.spotify.com/album/0wQhCjX3MxznqYi0zLAbIy) | 3:55 | 2022-01-14 | 2022-01-29 |
 | [Spéciale](https://open.spotify.com/track/6OxnhCRysP2WZwBBwaTttj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 2:57 | 2022-10-28 | 2022-11-19 |

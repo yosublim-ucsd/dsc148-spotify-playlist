@@ -4,7 +4,7 @@
 
 > Relaxing music and sounds for sleeping.
 
-257 songs - 12 hr 11 min
+258 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Dream Reality](https://open.spotify.com/track/1aRSdvKuD2ZAkkNxWX8WSK) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Dream Reality](https://open.spotify.com/album/5wxnTcXIYBfog4sNDSOeMi) | 3:06 | 2022-01-04 |  |
 | [dreaming](https://open.spotify.com/track/4bcyi361pjcrmOd1nqkUu9) | [33rain](https://open.spotify.com/artist/6KWON7NvYb3KI5m5U1Xyv2) | [dreaming](https://open.spotify.com/album/0AOyxRx5Qt29XWMuQZzP6w) | 1:54 | 2022-11-14 |  |
 | [drifting](https://open.spotify.com/track/0Bkuw9iTcI7JGHnLDcYDiR) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/43XZAnWowTdkO2jEoDxmB8) | 2:45 | 2022-01-04 | 2022-10-13 |
-| [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2022-09-23 |  |
+| [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2022-09-23 | 2023-05-04 |
+| [drifting](https://open.spotify.com/track/6OgdBT8iNZJNmidOy2ImdF) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity, vol\. ii \(sleep\)](https://open.spotify.com/album/4OAWLl91Aso1DTKL4I8AL8) | 2:45 | 2022-11-14 |  |
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2022-02-01 |  |
 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 | 2022-01-04 |  |
 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 | 2022-01-04 |  |

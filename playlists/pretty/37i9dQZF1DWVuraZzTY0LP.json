@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 317432,
+  "num_followers": 317525,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWNmMmYxODY1MDljNDFmMzI5ZWMyZWQ3MjQ0NmNlZjgyNTUzOTZi",
+  "snapshot_id": "MCwxODIyYzIxNTY0YTc3ZDk3NThiYTVlMjU0YzBhYmVlZGI1ZmQ3Yzkx",
   "tracks": [
     {
       "added_at": "2023-03-31 20:17:41",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 266600,
       "name": "If I Ever Feel Better",
       "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2023-03-31 20:17:41",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 175440,
-      "name": "Mardy Bum",
-      "url": "https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
         "name": "Eucalyptus",
         "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 264960,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 175440,
+      "name": "Mardy Bum",
+      "url": "https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6"
     },
     {
       "added_at": "2023-03-31 20:17:41",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
-        "name": "That Life",
-        "url": "https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "That Life",
-      "url": "https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
         "name": "La Historia Sin Fin",
         "url": "https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 297053,
       "name": "Cachito De Galaxia",
       "url": "https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
+        "name": "That Life",
+        "url": "https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "That Life",
+      "url": "https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY"
     },
     {
       "added_at": "2023-03-31 20:17:41",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
         "name": "Song Machine Episode 2",
         "url": "https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 236569,
       "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara)",
       "url": "https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio"
     }
   ],
   "unique_name": "mam\u00e1 cool",

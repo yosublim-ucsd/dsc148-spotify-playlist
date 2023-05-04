@@ -4,7 +4,7 @@
 
 > Relax to the sounds of acoustic blues and folk.
 
-110 songs - 6 hr 59 min
+111 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 | 2021-12-17 |  |
 | [Mississippi Phone Booth](https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:06 | 2021-12-17 |  |
 | [Natural West](https://open.spotify.com/track/2REcTot6y6qEgp5uDQDW06) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/2S8ncEYiSq2bwsCpgbeb0F) | 5:03 | 2021-12-17 | 2022-07-29 |
+| [Natural West](https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7) | 5:03 | 2023-04-07 |  |
 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 | 2022-07-12 | 2023-04-30 |
 | [New Anthem](https://open.spotify.com/track/28Ekirkj9Tf0TwChnvcCWI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/1aHOjEzsRAgR3AyDeDWOhZ) | 2:34 | 2021-12-17 | 2022-07-29 |
 | [New Anthem](https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R) | 2:34 | 2022-07-12 |  |
@@ -99,7 +100,7 @@
 | [Static Orphans](https://open.spotify.com/track/0tdhaGcTo8XtIpizS2sXm9) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 2:04 | 2022-07-12 | 2023-02-28 |
 | [Static Orphans](https://open.spotify.com/track/217H94y73OgLMiT7LswFEn) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 2:04 | 2021-12-17 | 2022-07-29 |
 | [Sunflower Blues](https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [The Guitar Masters Collection: John Fahey](https://open.spotify.com/album/2S8MEqzZMTVa48ZKp4Oayb) | 3:22 | 2021-12-17 |  |
-| [Tell Me Pretty Baby](https://open.spotify.com/track/6pqbK1w6kI8NPTmCldLqsR) | [Fred Davis](https://open.spotify.com/artist/5OsUEYTWiNXmkKn7Sao4B1) | [Tell Me Pretty Baby](https://open.spotify.com/album/1w5cDGWOyVFdkFi9rRLeOE) | 3:29 | 2023-03-03 |  |
+| [Tell Me Pretty Baby](https://open.spotify.com/track/6pqbK1w6kI8NPTmCldLqsR) | [Fred Davis](https://open.spotify.com/artist/5OsUEYTWiNXmkKn7Sao4B1) | [Tell Me Pretty Baby](https://open.spotify.com/album/1w5cDGWOyVFdkFi9rRLeOE) | 3:29 | 2023-03-03 | 2023-05-04 |
 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 | 2022-07-12 | 2023-02-28 |
 | [The Ballad of Barbara Allen](https://open.spotify.com/track/47yKkSXhPH2YG8hmdGqCpW) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix) | 1:43 | 2021-12-17 | 2022-07-27 |
 | [The Drifter Blues](https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:51 | 2022-05-27 |  |

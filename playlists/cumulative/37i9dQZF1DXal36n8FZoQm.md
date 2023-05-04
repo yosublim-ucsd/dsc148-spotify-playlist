@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-165 songs - 9 hr 50 min
+167 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,11 @@
 | [Bigger](https://open.spotify.com/track/3GUMnKnOBMnjJP0d9Sc6A7) | [Steven Cooper](https://open.spotify.com/artist/4qFYJ5Gbp4DpskZDJ7LtAa), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Life & Love](https://open.spotify.com/album/5z3jT6EbMUQnS4Arl7LRVc) | 3:15 | 2022-01-07 |  |
 | [Black](https://open.spotify.com/track/2g6BvZlBNESRZKQkbXnTZh) | [Kari Kimmel](https://open.spotify.com/artist/6w5nIAeqFbZa9qssSwPsyn) | [Black](https://open.spotify.com/album/2bc07yF2kvHSFM3WmhqyaZ) | 3:51 | 2022-01-07 |  |
 | [Blaze Of Glory](https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:40 | 2022-09-09 |  |
-| [Boneshaker](https://open.spotify.com/track/1fvmljBBL2lsyewZBKYj93) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Boneshaker](https://open.spotify.com/album/0qluDo8WVqgdZ4aSm1dm3T) | 3:30 | 2022-09-09 |  |
+| [Boneshaker](https://open.spotify.com/track/1fvmljBBL2lsyewZBKYj93) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Boneshaker](https://open.spotify.com/album/0qluDo8WVqgdZ4aSm1dm3T) | 3:30 | 2022-09-09 | 2023-05-04 |
+| [Boneshaker](https://open.spotify.com/track/1i9mctpfTvkg0Yb1mJDQZE) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Boneshaker](https://open.spotify.com/album/1WEM7Gz0rj7InZfQ8HSnKT) | 3:30 | 2022-09-09 |  |
 | [Bonsai Badass](https://open.spotify.com/track/1Zw7J4bGDMH6eAbdN5Y46V) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 3:34 | 2022-01-11 |  |
-| [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 | 2022-01-06 |  |
+| [Breakin' Outta Hell](https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd) | 3:52 | 2022-01-06 |  |
+| [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 | 2022-01-06 | 2023-05-04 |
 | [Bring The Funk Back](https://open.spotify.com/track/1N5Thcd7ECdY0z2gP7fNpi) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Brighter Future](https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA) | 3:46 | 2022-01-07 |  |
 | [Bring The Funk Back](https://open.spotify.com/track/3O3ZLTGdXxMm5TMpAO8EVj) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Brighter Future \(Deluxe Version\)](https://open.spotify.com/album/2J3wrYqEccRSZ3QzmX5xbU) | 3:46 | 2022-01-07 | 2022-11-13 |
 | [Bring The Funk Back](https://open.spotify.com/track/7lVRyNg6jKsvgrbGkyyBj3) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Brighter Future](https://open.spotify.com/album/39Emg3duoZHR4LrE7gziK3) | 3:46 | 2022-01-07 | 2022-07-29 |

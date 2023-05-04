@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lost x Loud
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,196 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,213 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 |
 | 2 | [Le vide](https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Le vide](https://open.spotify.com/album/2Q9WJzb12fy5MJYdJMS8sk) | 3:49 |
 | 3 | [zzz](https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [zzz](https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP) | 3:07 |
-| 4 | [Eastside Story](https://open.spotify.com/track/75XxDL422jppGj97qBCVxy) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Eastside Story](https://open.spotify.com/album/6Lk7hHtq1I1pEYcS6ZHZNs) | 2:37 |
+| 4 | [Eastside Story](https://open.spotify.com/track/75XxDL422jppGj97qBCVxy) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Eastside Story](https://open.spotify.com/album/6Lk7hHtq1I1pEYcS6ZHZNs) | 2:36 |
 | 5 | [On L'Fait](https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:40 |
 | 6 | [Ensemble](https://open.spotify.com/track/4HS91pybkuw7ulhC7xMvVv) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Ensemble](https://open.spotify.com/album/6Njbud4EL5e04yUVWzDjxt) | 4:37 |
 | 7 | [EAU DE MARS](https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [EAU DE MARS](https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 |
 | 75 | [NHN](https://open.spotify.com/track/0DfrSA7A8vdk8rDCUlBNac) | [Kay Bandz](https://open.spotify.com/artist/0NhcQOX46LVhK8aUc4vmMd), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [NHN](https://open.spotify.com/album/7s2LzVU7OEMJbKW4DUYsBJ) | 3:44 |
 
-Snapshot ID: `MCw0YWIyZWEzZDRhNjYyNTNlODM3OTA1MWFkMDc2YTVmMDcwNTQ0NzQ4`
+Snapshot ID: `MCwzMzNiMzYxMmY3YjUzODE1ZTMzZDBlN2ZmMzUxYTUwMWI1NDI0MzI2`

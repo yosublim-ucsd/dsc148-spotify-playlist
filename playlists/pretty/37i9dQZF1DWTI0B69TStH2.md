@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Daniel Godson \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,893 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,901 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Kino Wolność](https://open.spotify.com/track/6pBFHD3GMaY4A3Ax7wiyoE) | [Ostatni Dzień Lata](https://open.spotify.com/artist/031rW8B8jh30aKYuYkwNVD) | [Kino Wolność](https://open.spotify.com/album/2V4DV8KETUx5OqIbW9f57w) | 3:59 |
 | 100 | [SKÓRA](https://open.spotify.com/track/3HMzMjDKgeO5EGJfgsNQrz) | [KRASTOROCKSTAR](https://open.spotify.com/artist/7s8k81qFCHqXhnsC1x2Jyo), [Białek](https://open.spotify.com/artist/1JyhPB8k3sxZFLmBE7gx3g) | [SKÓRA](https://open.spotify.com/album/1mRHGnEL6S1qd38CSO5Prp) | 2:35 |
 
-Snapshot ID: `MCw4MGI0ZTk4Mjc5YzVkODQzM2Q0NjY0YzQ4OGVkNThjYzIyMDhiY2Ux`
+Snapshot ID: `MCw4ZTFmYjZhMjY5NWNhZTgwMjE4N2Q2MzJiMzg3MjkzOWQ4N2ZmMWM0`

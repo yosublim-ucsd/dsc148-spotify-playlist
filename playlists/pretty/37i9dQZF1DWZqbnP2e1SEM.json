@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 320326,
+  "num_followers": 320358,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzI2MThjMGY1YTBjMzgxMTUwZjM1ZWE4N2RiY2M5MzA0ZDE2ODdm",
+  "snapshot_id": "MCw5ZmM4ODQyZTA2MTQ2NzY1MWE4NTNiMGFkZmFkMjUyMTI2OTZkNGY0",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Still Sleepless",
-        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 162879,
-      "name": "Still Sleepless",
-      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Still Sleepless",
+        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 162879,
+      "name": "Still Sleepless",
+      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Bayside",
-        "url": "https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Bayside - Radio Edit",
-      "url": "https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Temptation (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 172197,
       "name": "Temptation (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Bayside",
+        "url": "https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Bayside - Radio Edit",
+      "url": "https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "BMW",
-        "url": "https://open.spotify.com/album/3U3FSuGS2CXktQD4fU78gM"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "BMW",
-      "url": "https://open.spotify.com/track/0DeCgH8St1bnHVry9gecMp"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Body Groove (feat. Crystxl King)",
         "url": "https://open.spotify.com/album/1JYq2a06tP799ORo2YdBB6"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/3U3FSuGS2CXktQD4fU78gM"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/0DeCgH8St1bnHVry9gecMp"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
         "name": "Sun Came Up",
         "url": "https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 171092,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/6eydzKn9vLC57U9iToAwJD"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 142971,
       "name": "Afraid (feat. HARLEE)",
       "url": "https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/6eydzKn9vLC57U9iToAwJD"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Truth Be Told",
-        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Nice (feat. Blxst)",
-      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Nice (feat. Blxst)",
+      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
       "added_at": "2022-06-20 14:23:17",

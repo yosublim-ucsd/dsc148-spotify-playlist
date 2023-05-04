@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Kim
 
-795 songs - 1 day 17 hr 28 min
+796 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Le Choix](https://open.spotify.com/track/67qvlYI6ywQ935CVBkGijs) | [Angie](https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w) | [Le Choix](https://open.spotify.com/album/6eyU4OhgvwrS5Wc8n56V4y) | 2:55 | 2023-02-28 | 2023-04-05 |
 | [Le ciel en émoi](https://open.spotify.com/track/0AlYYfbyDem5tffuPINkiP) | [Ladylike Lily](https://open.spotify.com/artist/4c9EbrVVm6nlAgkZbtpoTg) | [Le ciel en émoi](https://open.spotify.com/album/047iuW5sevmlbrzXhEta3C) | 3:22 | 2023-02-28 | 2023-04-05 |
 | [Le ciel s'en rappelle](https://open.spotify.com/track/32ZKmrDdhJKMV8Hb9ij303) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Le ciel s'en rappelle](https://open.spotify.com/album/2Tw8WTzH1XNKbQqNq36YVT) | 2:35 | 2023-02-28 | 2023-04-05 |
+| [Le coeur ou la raison](https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Un peu de moi](https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj) | 3:27 | 2023-05-03 |  |
 | [Le désamour](https://open.spotify.com/track/1wfjnuat2Q1Cu26gAFUkkF) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Le désamour](https://open.spotify.com/album/2NVuH0yi3YEkBwUFMSnGj2) | 3:12 | 2022-11-08 | 2022-12-01 |
 | [Le goût de la fête](https://open.spotify.com/track/4fvU90Xl749WNKHpfw4X28) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Folle Machine](https://open.spotify.com/album/2fsg4GacNJr2f4PNfrvjJV) | 3:32 | 2022-05-03 | 2023-01-04 |
 | [Le goût de la fête](https://open.spotify.com/track/5qaoKOBA8sWuvC7gscB5bJ) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Le goût de la fête](https://open.spotify.com/album/437ttLlL3nerSGeSGY6NG5) | 3:32 | 2022-03-07 | 2022-04-06 |

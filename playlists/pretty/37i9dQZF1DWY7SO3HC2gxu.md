@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885 likes - 60 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,890 likes - 60 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 48 | [Sorcerer](https://open.spotify.com/track/6EPUiKgSM3ZWmyUeN5TqcG) | [Vidza](https://open.spotify.com/artist/0AZXckUQ7wQXhFeueG0Vsu), [Dylan\-S](https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O), [Nyabuto](https://open.spotify.com/artist/50v6rP52M84WFXkxCe8x6L) | [Sorcerer](https://open.spotify.com/album/2LaZMF6OYW3equPfzABpXt) | 7:48 |
 | 49 | [Idi Ebube \- Afro Vocal Mix](https://open.spotify.com/track/0XdZvB7vHZu2XTNtwCEXwJ) | [ODASOUL](https://open.spotify.com/artist/2ow3ArrKeVgP3MhDtWOnjo), [Morris Revy](https://open.spotify.com/artist/0rUXMRIDIpyGKuIgHVNmIv) | [Idi Ebube](https://open.spotify.com/album/0u1qFOYm1O7JSk589nl8om) | 7:31 |
 | 50 | [Weekend](https://open.spotify.com/track/47VSYynhzx6dHmBIys0xyy) | [Tokyonite](https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb) | [Weekend](https://open.spotify.com/album/1WK9426nZZXbgZ9twFauko) | 3:08 |
-| 51 | [Mzuzi Park](https://open.spotify.com/track/1CtmlLBB4dAzTdBXNAt4d2) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mzuzi Park](https://open.spotify.com/album/7HyH6hOrjSFGTsg9Y4CeH6) | 8:13 |
+| 51 | [Mzuzi Park](https://open.spotify.com/track/0KHKdCpEbvDyJxvMRVJkZG) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mzuzi Park](https://open.spotify.com/album/1dJXbNR32lgYW7Pr54e2Sk) | 8:13 |
 | 52 | [Power Of You](https://open.spotify.com/track/5fALbPu4XNwQG0N6mXGAXg) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ), [Dylan\-S](https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O), [Foozak](https://open.spotify.com/artist/6bVBQCuQEyT0vgyycuRA4I), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Power Of You](https://open.spotify.com/album/39A7DX7RIY3FRn7a6qXvI9) | 6:33 |
 | 53 | [Mahaba](https://open.spotify.com/track/5Nk6J6i8aA7kno0hhtCMCB) | [ODASOUL](https://open.spotify.com/artist/2ow3ArrKeVgP3MhDtWOnjo) | [Mahaba](https://open.spotify.com/album/2Ok1ptSfkGhzmIavtvY4p4) | 6:47 |
 | 54 | [Your Loving \- DJ Paparazzi Remix](https://open.spotify.com/track/1ReZvOFm70OYQz3TNp2R0r) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [DJ Paparazzi](https://open.spotify.com/artist/6Z4MjOERzDvcj6cS9MzE8s) | [Your Loving \(Remixes\)](https://open.spotify.com/album/2obQSSgoW5F82YSZ6EcLd8) | 4:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [Last Modular](https://open.spotify.com/track/5O9Vh2gpZttbPjhC3Y8qyH) | [Afrorack](https://open.spotify.com/artist/3pKiRvMjWOAkLWLeNq0XPU) | [The Afrorack](https://open.spotify.com/album/4ZpfDwkIXqBWT0B1aZBdtA) | 5:31 |
 | 60 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 |
 
-Snapshot ID: `MCw5YmZhMzYxZDFmZmU4NjFhOTM4NTdlZWQzNmY5YzEyMTQzNWI3NzRi`
+Snapshot ID: `MCw4MjU2MjY2ZTQwNmUyOTk0OTRjNDFjMDM3ZmM5MzZhZWZkOTU2ZTY3`

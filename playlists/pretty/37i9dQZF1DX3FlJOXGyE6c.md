@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FlJOXGyE6c.md) - [plain]
 
 > The world of”TOUKEN RANBU”! PCブラウザ・スマホアプリゲーム「刀剣乱舞\-ONLINE\-」。<br/>Musical、Animation、Movieと広がる革命的な世界を彩る楽曲を一つのプレイリストで！ \(C\)2015 EXNOA LLC/Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,547 likes - 87 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,564 likes - 87 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FlJOXGyE6c.md) - [plain]
 | 86 | [心魂の在処](https://open.spotify.com/track/5GjmkFhEjtY1MF5IGDyz9f) | [へし切長谷部\(CV:新垣樽助\)](https://open.spotify.com/artist/7rNYTxMPMCkqDQU6rXvLEM), [宗三左文字\(CV:泰勇気\)](https://open.spotify.com/artist/02PmNSUpGAJ2h0r8kRlOAo), [薬研藤四郎\(CV:山下誠一郎\)](https://open.spotify.com/artist/4cGZ8RazSokp3IiVGR96aF), [刀剣乱舞\-花丸\-](https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116) | [TVアニメ「刀剣乱舞\-花丸\-」歌詠集 \(其の二\)](https://open.spotify.com/album/7ExK4q11IO8UUVxHLn66q7) | 3:32 |
 | 87 | [UNBROKEN](https://open.spotify.com/track/2CZoAt0yAQbKtgPfEDGdHO) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [SINGularity](https://open.spotify.com/album/0z6d7zSYf9ZFkQA9kFsmEe) | 4:35 |
 
-Snapshot ID: `MCw3MTNiNDgxMjFlYjU0MjM5MzIzNmJlNDdiNDFhNTQzNmNlNDYwY2Fi`
+Snapshot ID: `MCw1ZmY4N2MzMzVjODcxMDJhMjYxMzdmNmZmNWRiNGZlMGE3OGNmY2Mz`

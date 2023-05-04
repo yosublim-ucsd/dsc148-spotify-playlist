@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-225 songs - 13 hr 24 min
+226 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 | 2022-09-09 |  |
 | [B\. Santa Ana, 1986](https://open.spotify.com/track/7lGyt00aS28uPAogGHbGXl) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [B\. Santa Ana, 1986](https://open.spotify.com/album/4R9Ipk3MZLQuxfd2wn9kTs) | 2:34 | 2021-10-01 | 2022-07-29 |
 | [Bad Bad Love](https://open.spotify.com/track/152cWqveFZBFw8zVCeb63k) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Alexander](https://open.spotify.com/album/2HtJQaxA1TLBjMM0utAiVk) | 3:29 | 2021-10-01 | 2022-07-29 |
-| [Bad Bad Love](https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Alexander](https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6) | 3:29 | 2022-06-01 | 2023-05-03 |
+| [Bad Bad Love](https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Alexander](https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6) | 3:29 | 2022-06-01 |  |
 | [Bad Self Portraits](https://open.spotify.com/track/0VPchEe2bplU2IrTZYMjw5) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/1Ie34DR7t2RGL8bWBPNWVF) | 3:24 | 2022-06-01 | 2023-04-29 |
 | [Bad Self Portraits](https://open.spotify.com/track/3CWHWrV0UNbA2kT9xtoI6n) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd) | 3:24 | 2023-04-28 |  |
 | [Bad Self Portraits](https://open.spotify.com/track/4HxFgGOkdeOskzwyTxC5fn) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/6SIib5yrq0saKy08p2IPrB) | 3:24 | 2021-10-01 | 2022-07-29 |
@@ -59,7 +59,7 @@
 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 | 2022-08-02 |  |
 | [Déjà Vu \(ft\. Mavis Staples\)](https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:18 | 2023-04-14 |  |
 | [Easy To Love](https://open.spotify.com/track/4wm3X2FFnbnAAPGgDFQCEN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Easy To Love](https://open.spotify.com/album/0NS8SrZa77R0Vuw2GErCB8) | 3:38 | 2021-10-01 | 2022-07-29 |
-| [Easy to Love](https://open.spotify.com/track/5RSg2bbmjzURvkTGQdgSAB) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 3:38 | 2022-06-01 |  |
+| [Easy to Love](https://open.spotify.com/track/5RSg2bbmjzURvkTGQdgSAB) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 3:38 | 2022-06-01 | 2023-05-04 |
 | [Electric Fever](https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg) | [Them Vibes](https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664) | [Electric Fever](https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5) | 3:47 | 2021-10-01 | 2022-07-29 |
 | [Empty Heart](https://open.spotify.com/track/2eP517crFrL5ggUAEoug16) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Midnight](https://open.spotify.com/album/6vH6hPl0Woh6Cp1EUbpYq7) | 3:15 | 2022-06-01 |  |
 | [Empty Heart](https://open.spotify.com/track/5kcjWwfzttpF185DU04sgh) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Empty Heart](https://open.spotify.com/album/12Aql4tVhr7MXSX3PJfLs4) | 3:15 | 2021-10-01 | 2022-07-29 |
@@ -217,7 +217,8 @@
 | [This Is A Photograph II](https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph II b/w Five Easy Pieces Revisited](https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30) | 2:56 | 2023-04-28 |  |
 | [To the Boys](https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [First Flower](https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup) | 3:47 | 2022-06-01 |  |
 | [To the Boys](https://open.spotify.com/track/52dhb3ZAR5RRN695C7z3UG) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [To the Boys](https://open.spotify.com/album/0NMBhJrx4szULWFv3WxUfA) | 3:47 | 2021-10-01 | 2022-07-29 |
-| [Tower of Babel](https://open.spotify.com/track/6oEgGfkgyslQXUTKdVSNU1) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Tower of Babel](https://open.spotify.com/album/53UYBBZqy38uVoyiUEBcte) | 2:28 | 2023-03-31 |  |
+| [Tower of Babel](https://open.spotify.com/track/2s70AL69BjHU7y9aABGDUL) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Keep Your Courage](https://open.spotify.com/album/1PWQ1uSe3rnRYeaq3BQAoe) | 2:28 | 2023-04-28 |  |
+| [Tower of Babel](https://open.spotify.com/track/6oEgGfkgyslQXUTKdVSNU1) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Tower of Babel](https://open.spotify.com/album/53UYBBZqy38uVoyiUEBcte) | 2:28 | 2023-03-31 | 2023-05-04 |
 | [Trouble in Mind](https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61) | [The Bumper Jacksons](https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN) | [Too Big World](https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2) | 4:37 | 2021-10-01 | 2022-07-29 |
 | [Trouble Is](https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:22 | 2021-10-01 |  |
 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 | 2023-04-28 |  |

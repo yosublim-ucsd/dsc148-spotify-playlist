@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-173 songs - 10 hr 10 min
+175 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/5lZKq1z5jpVu7ha6zklvXS) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/6fsnME3JizGwIc7MgPwxNO) | 2:40 | 2022-07-15 |  |
 | [Shallow](https://open.spotify.com/track/6JTRAVwH9ahy1l9NGkt64s) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2019](https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac) | 3:35 | 2022-11-18 | 2022-11-26 |
 | [Shape of My Heart](https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Shape of My Heart](https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj) | 5:44 | 2021-11-25 |  |
+| [She](https://open.spotify.com/track/31Eo4x87vMeuwWisGXWjIi) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [She](https://open.spotify.com/album/7B2u3XVEjBTonvm1shnpGy) | 2:45 | 2023-05-03 |  |
 | [Silent Lucidity](https://open.spotify.com/track/405UQdWBjsxAjYyHRPVaDM) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Power Ballads](https://open.spotify.com/album/1RGdqBZNNmAqL6jfu6HYEz) | 3:34 | 2022-11-18 | 2022-11-26 |
 | [Skinny Love](https://open.spotify.com/track/4m11ClVp23KZpJl7dnunv7) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Bon Iver](https://open.spotify.com/album/6UAIWIcYacQ7saZDNvk0Gs) | 3:52 | 2022-11-18 | 2022-11-26 |
 | [Somebody That I Used to Know](https://open.spotify.com/track/4C0prnOdpjkYh0cpay5sXj) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Gotye's Somebody That I Used to Know](https://open.spotify.com/album/6ItDt8bkHreshCqpX3zDhF) | 4:04 | 2022-11-18 | 2022-11-26 |
@@ -148,6 +149,7 @@
 | [Sour Times \(arr\. Metcalfe, Assad\)](https://open.spotify.com/track/7hK2z7ph7UHY5kcY0qeBUT) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sour Times](https://open.spotify.com/album/2qOwHnB9gPok5Bp5qLtBef) | 3:17 | 2021-11-25 | 2022-07-29 |
 | [Stand by Me \(Arr\. Z\. Reaves for String Quartet\)](https://open.spotify.com/track/4RlXEaBtwr5yLWKoR5XbAF) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3), [Jerry Leiber](https://open.spotify.com/artist/3oL5CpaC5cBSVmERMXuV7d), [Mike Stoller](https://open.spotify.com/artist/1wsgQOJMWtqd2GF0sGSRUm), [Zachary Reaves](https://open.spotify.com/artist/3PvJOPfvRASwmEQTvNxEdK), [Altius Quartet](https://open.spotify.com/artist/2LLcwkbqzJrcotABcvnktN) | [Dress Code](https://open.spotify.com/album/6PgAziFSFpBCXwuoHW7LhT) | 2:54 | 2021-11-25 | 2023-01-11 |
 | [Stand Inside Your Love](https://open.spotify.com/track/7s04KoVEsVuCOIvf3TocBj) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Smashing Pumpkins](https://open.spotify.com/album/1QAHaP5KYmqmZJu88FxMEF) | 3:10 | 2022-11-18 | 2022-11-26 |
+| [STAY](https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [STAY](https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw) | 3:08 | 2023-05-03 |  |
 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 | 2021-11-25 |  |
 | [Sunflower \(feat\. ThatViolaKid\)](https://open.spotify.com/track/4imin3mUFfFvbU9vbjZRSu) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [ThatViolaKid](https://open.spotify.com/artist/4NUssuHyRMkU7AM6bDU1OC) | [Vitamin String Quartet Performs the Hits of 2019](https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac) | 2:44 | 2022-11-18 | 2022-11-26 |
 | [Sweater Weather](https://open.spotify.com/track/5ipHEp72ur3hB8WVM0hzOX) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 1](https://open.spotify.com/album/4x6udqqWCNOeLqsw6aUnAo) | 4:05 | 2022-11-18 | 2022-11-26 |
@@ -158,7 +160,7 @@
 | [Thinking Out Loud](https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [10](https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB) | 3:52 | 2023-01-10 |  |
 | [Three Times a Lady](https://open.spotify.com/track/043ZNvHtGmYF1uR5q6gD1r) | [Myleene Klass](https://open.spotify.com/artist/63L6NSMY7isrNaziNX2YXX) | [My Lullabies: Motown](https://open.spotify.com/album/6Zx72Eq6focHvSZxljFcyR) | 3:00 | 2022-05-13 |  |
 | [Thunderclouds](https://open.spotify.com/track/4XmcsuS2UKmE0mGexrUXBo) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2018, Vol\. 2](https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u) | 3:09 | 2022-11-18 | 2022-11-26 |
-| [Time After Time](https://open.spotify.com/track/0SjRJvsh0ZccINwUQKsSxj) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Time After Time](https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU) | 4:20 | 2021-11-25 |  |
+| [Time After Time](https://open.spotify.com/track/0SjRJvsh0ZccINwUQKsSxj) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Time After Time](https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU) | 4:20 | 2021-11-25 | 2023-05-04 |
 | [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-01-30 |  |
 | [Transatlanticism](https://open.spotify.com/track/50tq3zkWA7yLEmdKE0kmt5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Death Cab for Cutie: Ghost](https://open.spotify.com/album/4xz9AD7qZEyVoE2Q99551Z) | 3:58 | 2022-11-18 | 2022-11-26 |
 | [True Love Waits](https://open.spotify.com/track/0JFVqqRU2Cm3oKAs3DyGbT) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Radiohead's "True Love Waits" and "Burn the Witch"](https://open.spotify.com/album/7lHx4M8wxfrSKJQGRoXOoc) | 4:35 | 2022-11-18 | 2022-11-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,353,902 likes - 105 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,354,618 likes - 105 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 104 | [OOGA BOOGA!](https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [OOGA BOOGA!](https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt) | 2:19 |
 | 105 | [PERM](https://open.spotify.com/track/61dXty0FR61qyVczdM49F4) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [PERM](https://open.spotify.com/album/43Yx0i7ZGODCJJaJYL3NiB) | 2:10 |
 
-Snapshot ID: `MCxhMzk0OGNlODY2NmRkMDBiZTllMDIwNjdlNThhYjQyZDk5NTBhMGFm`
+Snapshot ID: `MCw3NTAyNmM4Mzg3Yjg2ZTcwMTNiZTc1ODgzZDViZjc1MmY0NjY2MjU4`

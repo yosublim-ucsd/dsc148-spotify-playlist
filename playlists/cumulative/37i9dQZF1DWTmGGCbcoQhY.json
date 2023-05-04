@@ -3734,24 +3734,6 @@
     {
       "album": {
         "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU"
-      },
-      "artists": [
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "date_added": "2022-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272471,
-      "name": "Te Vas Con El o Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/1LSxKDa7iwKI9aHDdfH5Jr"
-    },
-    {
-      "album": {
-        "name": "El Angel Del Amor",
         "url": "https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD"
       },
       "artists": [
@@ -4340,6 +4322,24 @@
       "duration_ms": 267551,
       "name": "Ya No Me Perteneces",
       "url": "https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK"
+    },
+    {
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272471,
+      "name": "Yo Te Perdi",
+      "url": "https://open.spotify.com/track/1LSxKDa7iwKI9aHDdfH5Jr"
     },
     {
       "album": {

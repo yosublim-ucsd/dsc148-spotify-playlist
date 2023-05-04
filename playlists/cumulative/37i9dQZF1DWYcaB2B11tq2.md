@@ -4,7 +4,7 @@
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-188 songs - 14 hr 24 min
+189 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 | 2021-05-21 |  |
 | [Quien Soy Yo \(feat\. Redimi2\)](https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9) | [4 Trinity](https://open.spotify.com/artist/31nSv3P3QAEUk8dtkOJRWT), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [4t](https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB) | 4:15 | 2021-05-21 | 2022-07-28 |
 | [rayo de luz](https://open.spotify.com/track/33ULJeEarw6Ng95cRhwnTE) | [Música De Movimiento](https://open.spotify.com/artist/1qDjgJp4309K5Luv08G0gz) | [rayo de luz](https://open.spotify.com/album/3rFApE2ZS1jCXZbXaEpMf8) | 3:51 | 2021-05-21 | 2022-05-14 |
-| [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 | 2021-05-21 |  |
+| [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 | 2021-05-21 | 2023-05-04 |
 | [Salmo 91](https://open.spotify.com/track/3JrX5k3DgA82l3DJx5l5I1) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Salmo 91](https://open.spotify.com/album/6f6RHYyZDjHUOY1doruoew) | 3:57 | 2021-05-21 | 2022-07-19 |
 | [Salvo Mi Vida](https://open.spotify.com/track/41DEOBFUbfvDuYo83eQrIv) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Salvo Mi Vida](https://open.spotify.com/album/4CGfCeQdHGjWiSaRUNmIEJ) | 4:25 | 2021-05-21 | 2022-07-25 |
 | [Santo Espíritu](https://open.spotify.com/track/6UXRg4mC2k6fxi62XBqDX6) | [Luminos](https://open.spotify.com/artist/1bpVquMOxfsMTepTdGC8lb) | [Santo Espíritu](https://open.spotify.com/album/6C4fOQbnTbb5umJRVUaidp) | 3:25 | 2021-05-21 | 2022-05-02 |
@@ -174,6 +174,7 @@
 | [Tu Poeta](https://open.spotify.com/track/6iJ6tQd4EfPh5fSyuAiUVG) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Te Puedo Sentir](https://open.spotify.com/album/09qqQ5nLmdS5fZlh6w1MeI) | 4:34 | 2021-05-21 | 2022-07-29 |
 | [Tú](https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Tú](https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl) | 5:19 | 2021-05-21 |  |
 | [Tú Eres Mi Gozo](https://open.spotify.com/track/5TrAJENHbxbBXSveIjJkyv) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Tú Eres Mi Gozo](https://open.spotify.com/album/12Z8gkJJGn6NuDfTqFoYOT) | 3:02 | 2021-05-21 | 2022-07-27 |
+| [Tú Eres Mi Gozo](https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Alumbras Mi Vida](https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH) | 3:02 | 2021-05-21 |  |
 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 | 2021-05-21 |  |
 | [Ven te necesito](https://open.spotify.com/track/5zkqh0190NNxbAuRjgytTo) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Yo Sin Ti](https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT) | 5:43 | 2021-05-21 | 2022-07-29 |
 | [Ven, Te Necesito](https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Vuelve a Casa](https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ) | 5:43 | 2021-05-21 |  |

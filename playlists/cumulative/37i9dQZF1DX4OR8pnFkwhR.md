@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー
 
-826 songs - 2 day 2 hr 56 min
+827 songs - 2 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,8 @@
 | [パラノイア](https://open.spotify.com/track/3BXOPG1v6z3augHRkaGyKy) | [UNISH](https://open.spotify.com/artist/1QBOFtlp9NHSmSaJ3ievuS) | [パラノイア](https://open.spotify.com/album/1hu48H4Rz2LG9WoPPvJPWW) | 3:50 | 2022-10-11 | 2022-11-16 |
 | [ヒモと愛](https://open.spotify.com/track/0bYCJFtqOP7Zkf4EFzRka1) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [ヒモと愛](https://open.spotify.com/album/6iCCe0GQhkRgDP2ru8iUtG) | 2:42 | 2023-02-28 | 2023-03-02 |
 | [ビジネスマン \-Businessman\-](https://open.spotify.com/track/5Z9bmURV4B1OsF60Bjq8Ab) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [ビジネスマン \-Businessman\-](https://open.spotify.com/album/2fV0SUEdzqmiIS9SYvnjP5) | 2:57 | 2022-07-26 | 2022-07-29 |
-| [ビッグバンに乗って](https://open.spotify.com/track/0UkTnIfrjY0Co11UHXc6Ad) | [シンダサカナノメ](https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh), [プランプラム](https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB) | [ビッグバンに乗って](https://open.spotify.com/album/7KtbWQhDVgGFCxz8PbXMB2) | 5:17 | 2023-05-02 |  |
+| [ビッグバンに乗って](https://open.spotify.com/track/0UkTnIfrjY0Co11UHXc6Ad) | [シンダサカナノメ](https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh), [プランプラム](https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB) | [ビッグバンに乗って](https://open.spotify.com/album/7KtbWQhDVgGFCxz8PbXMB2) | 5:17 | 2023-05-02 | 2023-05-04 |
+| [ビッグバンに乗って](https://open.spotify.com/track/7fecqwLRNuN2YzPXNnoQrV) | [プランプラム](https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB), [シンダサカナノメ](https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh) | [ビッグバンに乗って](https://open.spotify.com/album/01eif4G6bvCYmcaNs08zAt) | 5:17 | 2023-05-02 |  |
 | [ビードロ](https://open.spotify.com/track/3ZGcf6lq7ffWSS0UcdgFfY) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [root you](https://open.spotify.com/album/4vScBHmc561zaVbdLY68bc) | 2:10 | 2022-05-24 | 2022-07-06 |
 | [ピアス](https://open.spotify.com/track/4q64nWPqTWIVHGHidRaSUm) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [ピアス](https://open.spotify.com/album/29VASKJxI1IvAieKz3hqrU) | 3:56 | 2023-01-05 | 2023-01-13 |
 | [ピンクの髪](https://open.spotify.com/track/56V7casJFyKngwOksqwWD0) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [ピンクの髪](https://open.spotify.com/album/2aBOY6hwasvx0aUj1OI28b) | 2:57 | 2023-02-14 | 2023-02-16 |

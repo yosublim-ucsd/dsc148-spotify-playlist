@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: Jukjae(\uc801\uc7ac)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 252432,
+  "num_followers": 252683,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjhiMWQ2MDQ5OGI2MWFmZmQyZTU2MjE3MTJlYTgwYmUzMGRhNTFk",
+  "snapshot_id": "MCwyZTEzMTk4NjU1OTA3ZDI0ODFjM2VmMDcxOGE5NGQ0M2M5MDViMDAz",
   "tracks": [
     {
       "added_at": "2023-04-27 09:27:36",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-04-27 09:27:36",
       "album": {
-        "name": "H_ello?",
-        "url": "https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B"
+        "name": "Officially Missing You",
+        "url": "https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl"
       },
       "artists": [
         {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+          "name": "Geeks",
+          "url": "https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe"
         }
       ],
-      "duration_ms": 223200,
-      "name": "I want to be a pillow",
-      "url": "https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk"
+      "duration_ms": 210367,
+      "name": "Officially Missing You",
+      "url": "https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o"
     },
     {
       "added_at": "2023-04-27 09:27:36",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-27 09:27:36",
       "album": {
-        "name": "Officially Missing You",
-        "url": "https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl"
-      },
-      "artists": [
-        {
-          "name": "Geeks",
-          "url": "https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe"
-        }
-      ],
-      "duration_ms": 210367,
-      "name": "Officially Missing You",
-      "url": "https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o"
-    },
-    {
-      "added_at": "2023-04-27 09:27:36",
-      "album": {
         "name": "Uncontrollably Fond OST Part.14",
         "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 206854,
       "name": "A Little Braver",
       "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
+    },
+    {
+      "added_at": "2023-04-27 09:27:36",
+      "album": {
+        "name": "H_ello?",
+        "url": "https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "I want to be a pillow",
+      "url": "https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk"
     },
     {
       "added_at": "2023-04-27 09:27:36",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-27 09:27:36",
       "album": {
-        "name": "O_ne",
-        "url": "https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "How's your night",
-      "url": "https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8"
-    },
-    {
-      "added_at": "2023-04-27 09:27:36",
-      "album": {
         "name": "The 3rd EP",
         "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 222826,
       "name": "Yesterday You Left Me",
       "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
+    },
+    {
+      "added_at": "2023-04-27 09:27:36",
+      "album": {
+        "name": "Cape",
+        "url": "https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "duration_ms": 264119,
+      "name": "Cape",
+      "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
     }
   ],
   "unique_name": "K-Pop Acoustic",

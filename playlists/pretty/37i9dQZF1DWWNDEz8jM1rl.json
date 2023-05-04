@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 109746,
+  "num_followers": 109800,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzgwMTJlZTk1NjM0ZjVjNTllYmFiOTc2OWIxZmNhNDQxNmQ4ZGY1",
+  "snapshot_id": "MCwxNzM0ZWE5YzY2NDkwMWM4NTdiM2VkZDQ3OTc1NjJiOWFmMDFhYjUx",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Soldados",
+        "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 224817,
+      "name": "Yo Tierra, T\u00fa Semilla",
+      "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Fragments Of Heaven",
         "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 295360,
       "name": "Espiritu De Dios",
       "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Soldados",
-        "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 224817,
-      "name": "Yo Tierra, T\u00fa Semilla",
-      "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
     },
     {
       "added_at": "2020-09-18 05:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,445 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,559 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [Alegrijes y rebujos](https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae) | [Soundtrack Alegrijes y Rebujos](https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5) | [Alegrije](https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR) | 2:43 |
 | 70 | [Niña Amada Mía](https://open.spotify.com/track/7D9vpiy6FdXDx53fP1ioD7) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/3TVNw5Xt1czL5ZnQ9A5kzM) | 3:12 |
 
-Snapshot ID: `MCw1MTNmYmE5ZDM5MzFmODdkZGNhODZkMGFhZGJiMWVmZTIyYWU1YWZl`
+Snapshot ID: `MCwzYTkzZmIzN2RmZmEyMDFmNTdjMzljY2ViYThiYTRkNGFiMjc5NjRk`

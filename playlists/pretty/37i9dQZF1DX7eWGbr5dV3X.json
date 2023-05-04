@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8147,
+  "num_followers": 8167,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGVlNzAxOTY3MzNjOGUxODAyYWQ0MzI4ZWM2NzM3M2NlYjc3MTQw",
+  "snapshot_id": "MCw4OWE0OTFhZjVhMmQyMjc3YTdlNzY0MTY0NGUzYWEyN2ZmZWQwMDBi",
   "tracks": [
     {
       "added_at": "2023-04-28 18:16:35",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-28 18:16:35",
       "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI"
+      },
+      "artists": [
+        {
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
+        }
+      ],
+      "duration_ms": 203997,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV"
+    },
+    {
+      "added_at": "2023-04-28 18:16:35",
+      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-04-28 18:16:35",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI"
-      },
-      "artists": [
-        {
-          "name": "Somaya",
-          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
-        }
-      ],
-      "duration_ms": 203997,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV"
-    },
-    {
-      "added_at": "2023-04-28 18:16:35",
-      "album": {
         "name": "All I Have To Do Is Dream",
         "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-04-28 18:16:35",
       "album": {
-        "name": "I Won't Envy 2.0",
-        "url": "https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw"
       },
       "artists": [
         {
-          "name": "Vivek Shraya",
-          "url": "https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK"
+          "name": "LEADR",
+          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
         }
       ],
-      "duration_ms": 220821,
-      "name": "I Won't Envy 2.0",
-      "url": "https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY"
+      "duration_ms": 194206,
+      "name": "I'm Alright",
+      "url": "https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD"
     },
     {
       "added_at": "2023-04-28 18:16:35",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-04-28 18:16:35",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw"
+        "name": "I Won't Envy 2.0",
+        "url": "https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN"
       },
       "artists": [
         {
-          "name": "LEADR",
-          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
+          "name": "Vivek Shraya",
+          "url": "https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK"
         }
       ],
-      "duration_ms": 194206,
-      "name": "I'm Alright",
-      "url": "https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD"
+      "duration_ms": 220821,
+      "name": "I Won't Envy 2.0",
+      "url": "https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY"
     },
     {
       "added_at": "2023-04-28 18:16:35",

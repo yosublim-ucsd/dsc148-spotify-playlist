@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Nothing But Thieves
 
-610 songs - 1 day 10 hr 33 min
+611 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,8 +300,9 @@
 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 | 2022-05-06 |  |
 | [Lifetime](https://open.spotify.com/track/6HeaTl38wTgtMgGLTl9d13) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Lifetime](https://open.spotify.com/album/2vSmVwFn4mMHp1G57E9RJK) | 2:56 | 2022-04-15 | 2022-05-07 |
 | [Lightning](https://open.spotify.com/track/2ReaOb4kY5o4h5PHq7K2yO) | [Conor Gains](https://open.spotify.com/artist/3v56uAiWA52So80mU5pBy2) | [Lightning](https://open.spotify.com/album/7jjqldf5ajW5aafm6NiYfP) | 2:44 | 2021-12-31 | 2022-10-15 |
+| [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 | 2023-04-28 |  |
 | [Like A Drug](https://open.spotify.com/track/5VDiBRQ6k1RW7H6HGcyme8) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Like A Drug](https://open.spotify.com/album/4KFtddTAu8FBQ5bwymJxZv) | 3:32 | 2022-04-01 | 2022-08-06 |
-| [Like A Drug](https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:32 | 2022-09-09 |  |
+| [Like A Drug](https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:32 | 2022-09-09 | 2023-05-04 |
 | [Line It Up \(feat\. LP\)](https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:01 | 2022-10-28 |  |
 | [Listen to the Beat](https://open.spotify.com/track/1nNczyQpQI6nwjcnsnctNs) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Listen to the Beat](https://open.spotify.com/album/3Ai5MWXDhzmTdTxxWTMlol) | 4:53 | 2021-12-31 | 2022-04-16 |
 | [Little High Little Low](https://open.spotify.com/track/0OzLuAmu5XNIPhCSsPAYer) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Little High Little Low](https://open.spotify.com/album/4iPzGH8F1IIYz7ktfJ26II) | 3:19 | 2022-04-15 | 2023-02-04 |

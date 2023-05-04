@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"> The Joy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,680 likes - 80 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,696 likes - 80 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 79 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 |
 | 80 | [Okay](https://open.spotify.com/track/03UnPfDS0FvZzi0Z3I7yue) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Okay](https://open.spotify.com/album/7H0fhbJWzN4zP9aPWwSLRl) | 2:35 |
 
-Snapshot ID: `MCxmMjQyZTA4ZmY0MjI5MTYyYTFkY2JjZjFmZTVhOWE2MDlhZWIwMzI4`
+Snapshot ID: `MCwwNGFhZGYzMGZiNjU1MWZjNzQ2YzZmNTJmODgwZjM0YjU2Yzg3OGQ3`

@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 100326,
+  "num_followers": 100386,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjUzMGViMjg1Y2E5MjdiYzQxMzJjNTRmZjNlY2E1NWY0ZGMwMmQ3",
+  "snapshot_id": "MCwwYzc1MzE5YWVlNmEzYzQyMzI5N2I4YWQ5NjQwN2FlOTgzZDI2YzZj",
   "tracks": [
     {
       "added_at": "2023-04-28 19:11:20",
@@ -99,26 +99,6 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "\u00c9 Tudo Sobre Voc\u00ea (M\u00cbDNA Remix)",
-        "url": "https://open.spotify.com/album/7GFrYcpAuj4fCgu5C7fg6e"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        },
-        {
-          "name": "M\u00cbDNA",
-          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - M\u00cbDNA Remix",
-      "url": "https://open.spotify.com/track/38MdsTHfF7KvE48N0T3mjL"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
         "name": "S\u00f3 Quero Queimar (Remix)",
         "url": "https://open.spotify.com/album/4sz7OFQhn3xOZOYjbe8AXE"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 217500,
       "name": "S\u00f3 Quero Queimar - Remix",
       "url": "https://open.spotify.com/track/720ymxcvuttoINPvJ3EXSC"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
+        "name": "\u00c9 Tudo Sobre Voc\u00ea (M\u00cbDNA Remix)",
+        "url": "https://open.spotify.com/album/7GFrYcpAuj4fCgu5C7fg6e"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        },
+        {
+          "name": "M\u00cbDNA",
+          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - M\u00cbDNA Remix",
+      "url": "https://open.spotify.com/track/38MdsTHfF7KvE48N0T3mjL"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -231,30 +231,6 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "A Casa Sou Eu",
-        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "A Casa Sou Eu - Remix",
-      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
         "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
         "url": "https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq"
       },
@@ -275,6 +251,26 @@
       "duration_ms": 168411,
       "name": "Ruja o Le\u00e3o - M\u00cbDNA - Remix",
       "url": "https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
+        "name": "Voc\u00ea Me Mudou",
+        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
+      },
+      "artists": [
+        {
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 183682,
+      "name": "Voc\u00ea Me Mudou",
+      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -303,22 +299,26 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "Voc\u00ea Me Mudou",
-        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
+        "name": "A Casa Sou Eu",
+        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
       },
       "artists": [
         {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         }
       ],
-      "duration_ms": 183682,
-      "name": "Voc\u00ea Me Mudou",
-      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
+      "duration_ms": 225000,
+      "name": "A Casa Sou Eu - Remix",
+      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -431,30 +431,6 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "Deus \u00c9 Bom o Tempo Todo",
-        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
-      },
-      "artists": [
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Dec\u00e3o Renovado",
-          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
-        }
-      ],
-      "duration_ms": 160846,
-      "name": "Deus \u00c9 Bom o Tempo Todo",
-      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
         "name": "Passando pela Prova (Remix)",
         "url": "https://open.spotify.com/album/6YqMXzETgPEmlzcTpaXe75"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 123995,
       "name": "Passando pela Prova - Remix",
       "url": "https://open.spotify.com/track/2B7grlH1c3eXEBCrBdX85D"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
+        "name": "Deus \u00c9 Bom o Tempo Todo",
+        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Dec\u00e3o Renovado",
+          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
+        }
+      ],
+      "duration_ms": 160846,
+      "name": "Deus \u00c9 Bom o Tempo Todo",
+      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
+        "name": "Inunda Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4T4gaya0PRry3FOh8LV1RJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/3YgLDde5Mm54H0f93pNzqz"
+        }
+      ],
+      "duration_ms": 220142,
+      "name": "Inunda Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0Rm97U2wWEzFGHnn8PGvWB"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
-        "name": "Inunda Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4T4gaya0PRry3FOh8LV1RJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/3YgLDde5Mm54H0f93pNzqz"
-        }
-      ],
-      "duration_ms": 220142,
-      "name": "Inunda Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0Rm97U2wWEzFGHnn8PGvWB"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
         "name": "Recome\u00e7o",
         "url": "https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 212571,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
       "added_at": "2023-04-28 19:11:20",

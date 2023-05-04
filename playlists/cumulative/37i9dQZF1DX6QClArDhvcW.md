@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-342 songs - 12 hr 45 min
+347 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [don't worry](https://open.spotify.com/track/2POIuUneUPVgRemmffB4mI) | [pemil](https://open.spotify.com/artist/3b2vVfB2bA0PXXwlbNA7hg) | [don't worry](https://open.spotify.com/album/7yF35ZHUDFD9wHtwAosP2b) | 2:11 | 2023-02-24 |  |
 | [Down](https://open.spotify.com/track/0xVjY67TqBmcKbMAXvbXxj) | [Link Dazel](https://open.spotify.com/artist/4dXSgsuSetXmBSf36iMWPF) | [Princess Z](https://open.spotify.com/album/0GpxSYKMNJVI70VTUsrW1p) | 1:15 | 2022-05-20 | 2022-09-09 |
 | [dreams come true.](https://open.spotify.com/track/4USjqfvjPVm54YaZs6g8uc) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [dreams come true.](https://open.spotify.com/album/62LXbn400PEKpHZwQWsUBf) | 2:13 | 2022-05-20 |  |
+| [Drifting Smoke](https://open.spotify.com/track/1FfpfoaHTO2FxpMSBjLWYi) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Drifting Smoke](https://open.spotify.com/album/6AzZmCJhhE7bmRamjbaIDQ) | 3:05 | 2023-05-03 |  |
 | [Dulces Sueños](https://open.spotify.com/track/5E4J408wkR2hh7nXeK3wPE) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Dulces Sueños](https://open.spotify.com/album/5bD97fxHB9tXjEVjiO9jKz) | 1:15 | 2022-11-25 |  |
 | [dusty dusk](https://open.spotify.com/track/6ds12VXR1FTsDQHgikkdio) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [dusty dusk](https://open.spotify.com/album/4K6VZZP6z42MI1ei3nzvk8) | 2:27 | 2022-09-23 |  |
 | [early birds](https://open.spotify.com/track/0hAVPGHwhiaAfwEQaMVsbG) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [ghost & nature](https://open.spotify.com/album/4GYfLtvKi4R23EBOy2SsV8) | 2:22 | 2022-08-05 |  |
@@ -184,6 +185,7 @@
 | [Meadows](https://open.spotify.com/track/1JfFZNt2JY3hslCny4Nlnv) | [Groovetide](https://open.spotify.com/artist/1WPcKTIAEsxAnyAsfFWZE7) | [Meadows](https://open.spotify.com/album/2SsXBo5fCM1mpBrJfw1oWO) | 2:43 | 2023-01-13 |  |
 | [Meditative State](https://open.spotify.com/track/0YXyIpdq9ZFvCH6ZsaGfwE) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Meditative State](https://open.spotify.com/album/3nSx2XYH36538HeHh8X0SR) | 1:56 | 2023-03-16 |  |
 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 | 2022-05-20 | 2022-09-09 |
+| [Mentor](https://open.spotify.com/track/11tfbPbvwBnDeiB0coMi4G) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Mentor](https://open.spotify.com/album/0XRicJ10jdVBKieWYBZSbY) | 1:51 | 2023-05-03 |  |
 | [Midnight Drive](https://open.spotify.com/track/4As7GSrNZ9KdczyqSP3asZ) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [In My Mind](https://open.spotify.com/album/4625gAejmwqcXrUuuPX3FZ) | 2:03 | 2022-05-20 | 2022-09-09 |
 | [Mint](https://open.spotify.com/track/3X25fIddwnzr7YYooU9bR5) | [Cardamom](https://open.spotify.com/artist/55z2VFr6FxKYEOctgA2ICi) | [Mint](https://open.spotify.com/album/0ClDcnu6twQ1uxxKFTPdOp) | 1:43 | 2022-05-20 |  |
 | [missing title](https://open.spotify.com/track/460zCsgqPJQ5QsIuyFKJGF) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [missing title](https://open.spotify.com/album/6OsnO0s3ZIV4P770J43a0H) | 2:07 | 2022-05-20 | 2022-05-27 |
@@ -268,6 +270,7 @@
 | [sleep cycle](https://open.spotify.com/track/0ypJjoe598qkGubmR32QpS) | [lil frenchie](https://open.spotify.com/artist/1VomLPCcUmzUWELhpgxHZ1) | [sleep cycle](https://open.spotify.com/album/0UFES0XqsK5gtpJF6sAns0) | 1:57 | 2023-01-20 |  |
 | [Slow Dance](https://open.spotify.com/track/55khu0OQgoX1E0aVsrYQMU) | [Spade Brooks](https://open.spotify.com/artist/2GCSNNNTph8mnMlU40Q9ne) | [Night Shift](https://open.spotify.com/album/49uzwqjrLr6gS8KrNiBM4Y) | 1:44 | 2022-11-11 |  |
 | [Slow Lane](https://open.spotify.com/track/709Nfikl8cmZJ5pSJnXAk2) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [Slow Lane](https://open.spotify.com/album/3ocwx1KETdbX9RYHGjUVa7) | 2:29 | 2022-11-25 |  |
+| [Smokey](https://open.spotify.com/track/1dLCk4vPlIGx1r1zSaxhpT) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Smokey](https://open.spotify.com/album/3tbIMM2kel7zGf3yYlgPhv) | 2:32 | 2023-05-03 |  |
 | [snake](https://open.spotify.com/track/350hcXmQ9Hogasz5nb5Nvn) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [snake](https://open.spotify.com/album/5AXVCXJ0JjiC5nYyuTsjJa) | 2:01 | 2023-02-07 |  |
 | [Snowy Park](https://open.spotify.com/track/76GMfML1v13Sg4shz4giDM) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Snowy Park](https://open.spotify.com/album/3oSNz9THKDf4meOrYwnEVq) | 2:14 | 2022-12-09 |  |
 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 | 2022-05-20 |  |
@@ -297,9 +300,11 @@
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2022-05-20 |  |
 | [The Daily News](https://open.spotify.com/track/3CFE8CIX6xG52LolmQWUEt) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:14 | 2022-05-20 |  |
 | [The Dark Corner of The Café](https://open.spotify.com/track/6lsh5gNARARuGCw9aBpJgb) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [The Dark Corner of The Café](https://open.spotify.com/album/3nwLpHk41tCY8v3ozip2At) | 2:13 | 2022-08-19 |  |
+| [The Life](https://open.spotify.com/track/3OHJwtjYZXQ8ls1DM0QeHP) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [The Life](https://open.spotify.com/album/2Uyc6oW1FZyJpii0JUGFkl) | 1:36 | 2023-05-03 |  |
 | [The Rain Said No](https://open.spotify.com/track/0QR9H35hAAIrT3PcBbaqEt) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Weeds](https://open.spotify.com/album/3l6W3WJym9nVX0FNwChUzy) | 2:48 | 2022-05-20 |  |
 | [The Simple Life](https://open.spotify.com/track/5YO3Vqve61SxDVy9kynuas) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [The Simple Life](https://open.spotify.com/album/6gGfQHr7DT0Z52DXDFosgq) | 1:56 | 2023-03-24 |  |
 | [thoughtful](https://open.spotify.com/track/6UxJXmMIwCm8BhUxtlFCft) | [monolog](https://open.spotify.com/artist/6EPLnRqGeSBaydNgjC0Tom) | [thoughtful](https://open.spotify.com/album/6eF3xjASByX8RcuICSHQ55) | 2:18 | 2022-06-10 |  |
+| [Through](https://open.spotify.com/track/6viw5SPvjIBuAhqp8iL6hq) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [Through](https://open.spotify.com/album/5PLs5w57z4hnbJof8uQfvc) | 3:24 | 2023-05-03 |  |
 | [Through the fields](https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Through the fields](https://open.spotify.com/album/4msZok2Vb2B7SG7etPBv2T) | 2:56 | 2022-05-20 |  |
 | [Thumbs Up](https://open.spotify.com/track/7vbSwdXKiVcbhgdhZ9r3O4) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Thumbs Up](https://open.spotify.com/album/4W2lomDjC0oZ9E5rY4acNK) | 2:04 | 2022-05-20 |  |
 | [Tiptop Tiptop](https://open.spotify.com/track/4dsq5vQRu6UJHky5BlE4sl) | [Foro Arlaniq](https://open.spotify.com/artist/7w8gFon3p0E4MMSRSWHmWg) | [Tiptop Tiptop](https://open.spotify.com/album/0tGbqpu1xrvWZS05vjtjnx) | 1:40 | 2022-06-17 |  |

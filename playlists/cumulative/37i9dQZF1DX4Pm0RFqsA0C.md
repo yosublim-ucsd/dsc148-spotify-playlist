@@ -4,7 +4,7 @@
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-157 songs - 10 hr 16 min
+158 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 | 2021-02-01 |  |
 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 | 2021-02-01 |  |
 | [Baekjeonmupae](https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Suprise Party Collection](https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX) | 4:25 | 2021-02-01 |  |
-| [Blue Night on Jeju Island](https://open.spotify.com/track/4vUjWOJEcLhT30k4IetIHW) | [ZOO](https://open.spotify.com/artist/2q3dMJmxOUPFts4UvK9LUh) | [A Tribute To Deulkukhwa \(Dedication Album\)](https://open.spotify.com/album/674T3Fgh1cHewQK6Iv7DK2) | 4:42 | 2021-02-01 |  |
+| [Blue Night on Jeju Island](https://open.spotify.com/track/40AUD1aIbCPhlaf33ysT0W) | [ZOO](https://open.spotify.com/artist/2q3dMJmxOUPFts4UvK9LUh) | [A Tribute To Deulkukhwa, Pt\. 2](https://open.spotify.com/album/7IEiMCYWOQ0FqDKnG9Z2FC) | 4:42 | 2021-02-01 |  |
+| [Blue Night on Jeju Island](https://open.spotify.com/track/4vUjWOJEcLhT30k4IetIHW) | [ZOO](https://open.spotify.com/artist/2q3dMJmxOUPFts4UvK9LUh) | [A Tribute To Deulkukhwa \(Dedication Album\)](https://open.spotify.com/album/674T3Fgh1cHewQK6Iv7DK2) | 4:42 | 2021-02-01 | 2023-05-04 |
 | [Blue Rain](https://open.spotify.com/track/6NZUXr27vdx8gyWxVRrkLS) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:20 | 2021-02-01 |  |
 | [CANDY](https://open.spotify.com/track/0K25zmumCzn2kFmh9zcLWy) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 3:37 | 2021-02-01 |  |
 | [Com\` Back](https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Com\` Back](https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq) | 3:52 | 2021-02-01 |  |

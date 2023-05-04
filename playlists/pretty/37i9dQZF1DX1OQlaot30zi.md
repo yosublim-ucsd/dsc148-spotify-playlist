@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Vale Pain, Shiva, Medy, MV Killa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,377 likes - 87 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,401 likes - 87 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 86 | [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 |
 | 87 | [Affari](https://open.spotify.com/track/20lkVupovafdaIZEJMM20s) | [Faith](https://open.spotify.com/artist/6Dy0TeCFQtJgA3RaC0EBrw) | [Affari](https://open.spotify.com/album/6EM7DUS1bpMYORVrTjszLp) | 2:43 |
 
-Snapshot ID: `MCw4MjkzZDIxMjhiYzc1Yzc2N2QzNTM0Y2NjYmE5NTkzMmQwMzkyYTNi`
+Snapshot ID: `MCw3NzllNjliYWU5MTg1MjFiZTc2YWI4ZWQwNDg3OTk4M2YwY2QyZTk3`

@@ -2774,10 +2774,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 108431,
       "name": "On the Horizon",
       "url": "https://open.spotify.com/track/6LhMfiUFiANHVS6CCsdv9j"
+    },
+    {
+      "album": {
+        "name": "Opulence",
+        "url": "https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9"
+      },
+      "artists": [
+        {
+          "name": "Spherical Harmonics",
+          "url": "https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ"
     },
     {
       "album": {

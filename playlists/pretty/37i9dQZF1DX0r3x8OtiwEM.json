@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 875806,
+  "num_followers": 876371,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzQ5ZTExZDVjNmNhYWYwMTJkY2Q3MGM2YzI4YWM2Zjg1YjgyMmE1",
+  "snapshot_id": "MCw3ZWQ5ZDk0M2M1NDQ1MjIyMTNhYjdjYzJlNjg5N2JkYjljMWFiZTFl",
   "tracks": [
     {
       "added_at": "2023-04-28 15:35:22",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-28 15:35:22",
       "album": {
-        "name": "Apricots",
-        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
-    },
-    {
-      "added_at": "2023-04-28 15:35:22",
-      "album": {
         "name": "Stay There",
         "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 233562,
       "name": "Stay There",
       "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+    },
+    {
+      "added_at": "2023-04-28 15:35:22",
+      "album": {
+        "name": "Apricots",
+        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
     },
     {
       "added_at": "2023-04-28 15:35:22",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-28 15:35:22",
       "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/07iv0tkKefJPUp9RFDOuNQ"
+      },
+      "artists": [
+        {
+          "name": "Gidge",
+          "url": "https://open.spotify.com/artist/7aibxFH8hIlSUlXgshCgAP"
+        }
+      ],
+      "duration_ms": 352215,
+      "name": "Quasar",
+      "url": "https://open.spotify.com/track/4auPkl8KDB2a1kk4zj0HHp"
+    },
+    {
+      "added_at": "2023-04-28 15:35:22",
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-04-28 15:35:22",
       "album": {
-        "name": "New Light",
-        "url": "https://open.spotify.com/album/07iv0tkKefJPUp9RFDOuNQ"
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
       },
       "artists": [
         {
-          "name": "Gidge",
-          "url": "https://open.spotify.com/artist/7aibxFH8hIlSUlXgshCgAP"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 352215,
-      "name": "Quasar",
-      "url": "https://open.spotify.com/track/4auPkl8KDB2a1kk4zj0HHp"
+      "duration_ms": 184040,
+      "name": "I Don't Need You",
+      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
     },
     {
       "added_at": "2023-04-28 15:35:22",
@@ -903,22 +919,6 @@
       "duration_ms": 407000,
       "name": "Plastic (Scheinizzl Remix)",
       "url": "https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP"
-    },
-    {
-      "added_at": "2023-04-28 15:35:22",
-      "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "I Don't Need You",
-      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
     },
     {
       "added_at": "2023-04-28 15:35:22",

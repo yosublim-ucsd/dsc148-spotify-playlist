@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Peso Pluma & Blessd en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,087 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,601 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [The Price](https://open.spotify.com/track/4uJ0uZ5PbRd6gSKBnRX9R0) | [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX) | [The Price](https://open.spotify.com/album/2qtWBDayvIN0zoXhvMp4tB) | 2:06 |
 | 50 | [El Niño](https://open.spotify.com/track/5qBRYiH8i7xHQDMzAQvG8s) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX) | [El Niño](https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1) | 4:54 |
 
-Snapshot ID: `MCxlZDc0NDIyOGFjOWMwMDNhNjU1YThjYTA4MjY1YTAwYjYyNmE2YzI5`
+Snapshot ID: `MCw4NjA3OTdhY2I3Yzg1NGI5NTJhZmM0MmVkYTMyNGQ2NTRmMDUwNTFi`

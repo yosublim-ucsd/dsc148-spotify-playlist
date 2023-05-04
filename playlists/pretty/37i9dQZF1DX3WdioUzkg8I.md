@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 
 > Relaxing music and sounds for sleeping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,593 likes - 206 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,600 likes - 206 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,7 +201,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 | 191 | [Océane](https://open.spotify.com/track/5MO30pVBGibQZ4445ipvvf) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Océane](https://open.spotify.com/album/0hlgpROu1Jxe4IT7nHbwFl) | 2:32 |
 | 192 | [Turndown Service](https://open.spotify.com/track/56y8h73SZXnIzR0fGSQlca) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Turndown Service](https://open.spotify.com/album/1b9QKWx1CGfZ610vf6GHnj) | 1:55 |
 | 193 | [Aurora](https://open.spotify.com/track/6LTIZenP15l2VvkvPF2lFM) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Aurora](https://open.spotify.com/album/3eK38YOTl32ByPy2cgkmoy) | 3:05 |
-| 194 | [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 |
+| 194 | [drifting](https://open.spotify.com/track/6OgdBT8iNZJNmidOy2ImdF) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity, vol\. ii \(sleep\)](https://open.spotify.com/album/4OAWLl91Aso1DTKL4I8AL8) | 2:45 |
 | 195 | [Milky Way](https://open.spotify.com/track/2TUKcLgKAJZSPZWfRBynlV) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Song for Gabriel](https://open.spotify.com/album/7CUNSCyEihuSYjAwRyoLYr) | 3:03 |
 | 196 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 |
 | 197 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 | 205 | [Old Station Atmos](https://open.spotify.com/track/02uEjuRG2GnzUVvyL0KWro) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Old Station Atmos](https://open.spotify.com/album/75tGA9NBEDDoidb2YJbfUv) | 3:31 |
 | 206 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 |
 
-Snapshot ID: `MCxlMzJlMWQxMTFhYWZmZmNhYjE3NzA3MTg3NjViZDgwMDc5ZGUwMmQw`
+Snapshot ID: `MCxmZGM1ODQ2MWNlZDY3OGVhNzg3NzljMGYyZDY3MTIwZDU3Zjg2M2Ey`

@@ -8199,6 +8199,24 @@
     },
     {
       "album": {
+        "name": "Before I Knew It",
+        "url": "https://open.spotify.com/album/6tDyfdOY8bK5Gjtq1nQsDx"
+      },
+      "artists": [
+        {
+          "name": "Moonbit",
+          "url": "https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247560,
+      "name": "Before I Knew It",
+      "url": "https://open.spotify.com/track/2vhWBIK3IlDVOpNvHrYmgm"
+    },
+    {
+      "album": {
         "name": "Before I Met You",
         "url": "https://open.spotify.com/album/5uXmdGhcBBaxmwBtab0Dvq"
       },
@@ -21041,6 +21059,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t be afraid",
+        "url": "https://open.spotify.com/album/6jDyhwsGoBdSvy9H1IC7y4"
+      },
+      "artists": [
+        {
+          "name": "YOON GUN",
+          "url": "https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm"
+        },
+        {
+          "name": "Seogi",
+          "url": "https://open.spotify.com/artist/3UvPHMrmI2MP7VfqYVAHBH"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "Don\u2019t be afraid (feat. SEOGI)",
+      "url": "https://open.spotify.com/track/207cIkf2j8VkBFK362MrIw"
+    },
+    {
+      "album": {
         "name": "Yellow Fever",
         "url": "https://open.spotify.com/album/10gmo6qV4xcvToo4iOyVEv"
       },
@@ -31136,6 +31176,32 @@
       "duration_ms": 166480,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1"
+    },
+    {
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/4emFgFdjGTTGMObQvB3ViD"
+      },
+      "artists": [
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        },
+        {
+          "name": "SKULL",
+          "url": "https://open.spotify.com/artist/7qKWQnE3S7v8m3rLwMVdGg"
+        },
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/6B8X0OE09SNphHrI8h58zT"
     },
     {
       "album": {
@@ -53103,6 +53169,28 @@
     },
     {
       "album": {
+        "name": "Seoul Drive",
+        "url": "https://open.spotify.com/album/0plUsx1XFZ75XjM9zJGQUz"
+      },
+      "artists": [
+        {
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+        },
+        {
+          "name": "BNJX",
+          "url": "https://open.spotify.com/artist/7sI0hy4F4lSuWx8cCqKK0v"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218613,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/72K81ttBz65KEX2NFtJ7L1"
+    },
+    {
+      "album": {
         "name": "C9 Single Album '2022 C9 Christmas'",
         "url": "https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr"
       },
@@ -71129,7 +71217,7 @@
       "artists": [
         {
           "name": "UV",
-          "url": "https://open.spotify.com/artist/5M7KE2pbTmSQL32wD4sTG9"
+          "url": "https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem"
         },
         {
           "name": "YOO BYUNG JAE",
@@ -76266,6 +76354,28 @@
       "duration_ms": 128673,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/0NmyWgwsiMHnGJuncly0ti"
+    },
+    {
+      "album": {
+        "name": "Situationship",
+        "url": "https://open.spotify.com/album/6eNS9PkVzGLovRlkmKBxqf"
+      },
+      "artists": [
+        {
+          "name": "dana kim",
+          "url": "https://open.spotify.com/artist/2G1ujrepZXYkEdlc7HYP4m"
+        },
+        {
+          "name": "meenoi (\ubbf8\ub178\uc774)",
+          "url": "https://open.spotify.com/artist/2OWAKoctpxVDFZWYd53bVl"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185677,
+      "name": "Stay with me (feat. meenoi)",
+      "url": "https://open.spotify.com/track/1CPj6QkxoCau1C1b2Y23SQ"
     },
     {
       "album": {
@@ -83797,6 +83907,24 @@
     },
     {
       "album": {
+        "name": "Time+LOVE+Dream",
+        "url": "https://open.spotify.com/album/0YjsD8RJgTOeykmtCyiBh5"
+      },
+      "artists": [
+        {
+          "name": "Byeol Eun",
+          "url": "https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216867,
+      "name": "Time+LOVE+Dream",
+      "url": "https://open.spotify.com/track/7oLYJ0A0BKMBUQRP92AGBm"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6MqSO6j1uuyWz1zxLwWIgJ"
       },
@@ -90113,6 +90241,24 @@
     },
     {
       "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/0IXJjQbwEaAx1asY1fWiVR"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272026,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf"
+    },
+    {
+      "album": {
         "name": "NEXT",
         "url": "https://open.spotify.com/album/3S7x2DLS1aHbXLDduiIJci"
       },
@@ -93072,6 +93218,24 @@
       "duration_ms": 245202,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0oWMvi59by659nHiCD7MlB"
+    },
+    {
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173187,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/3nW7zEVZamOeAYnWp5LqVh"
     },
     {
       "album": {

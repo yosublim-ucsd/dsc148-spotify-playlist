@@ -4,7 +4,7 @@
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-251 songs - 11 hr 7 min
+252 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Cozy Rain](https://open.spotify.com/track/44REx0lmsZcpfmkKrMvDp0) | [Ray N.Y](https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz) | [Heavy Rain](https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs) | 2:48 | 2022-07-19 |  |
 | [Cozy Thunder And Rain \- Seamless](https://open.spotify.com/track/2QtHxdxJ5Dc2eVHEfPA079) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Nocturnal Cozy Rain](https://open.spotify.com/album/3C4JU2iVIEI5F8B59b7upA) | 2:44 | 2022-07-19 |  |
 | [Crackling Sky](https://open.spotify.com/track/2MLSAw581M4TTjguuua1oV) | [Oblitzy](https://open.spotify.com/artist/10uSPhynSCflghfXy9d11O) | [Deep Rumble](https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz) | 1:36 | 2023-04-07 |  |
-| [Cracks of Thunder And Rainstorm](https://open.spotify.com/track/6GcUI8GPOR0oJActmrRKNE) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 2:54 | 2022-07-19 |  |
+| [Cracks of Thunder And Rainstorm](https://open.spotify.com/track/6GcUI8GPOR0oJActmrRKNE) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 2:54 | 2022-07-19 | 2023-05-04 |
 | [Dark Storm](https://open.spotify.com/track/2bI4BdFdtdDBM2q3xB3IZR) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:00 | 2022-07-19 |  |
 | [Das Unwetter](https://open.spotify.com/track/7D9DQF0eBc7E3OLBNXaKIu) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen und Donner](https://open.spotify.com/album/094KCo8MLAqrfNjBkDkI46) | 3:12 | 2022-07-19 |  |
 | [Deep Rain Thunder](https://open.spotify.com/track/06l4p419P3L42mTUa5KJw4) | [VDWW](https://open.spotify.com/artist/5wVLiKYylh7CoORGyuVgS2) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 1:55 | 2022-07-19 |  |
@@ -79,6 +79,7 @@
 | [Goddess Of Thunder](https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:19 | 2023-04-07 |  |
 | [Golden Thunderstorm](https://open.spotify.com/track/31GNsedPV2m9qB1D2LEdIB) | [NC2 LABORATORIES](https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH) | [Oh, Beautiful Thunder](https://open.spotify.com/album/59sCC7vzp9xwTGPr57HvbD) | 1:32 | 2022-07-19 |  |
 | [Good Night Nature Rain](https://open.spotify.com/track/3XyCMBq2Q11RBeW3n6gRw4) | [Epic Nature](https://open.spotify.com/artist/02dqJlqEiSm6HAU1sA43RY) | [Good Night Nature Rain](https://open.spotify.com/album/5bOIfjWZ3pyS1zTGm11KgG) | 2:14 | 2022-07-19 |  |
+| [Grandfather Thunder](https://open.spotify.com/track/3u4Vwj2lzqYhDC2pPT5qfy) | [Earthly Delights](https://open.spotify.com/artist/3AhSKCMBK1DWhRGvem6prn) | [Iowan Thunder](https://open.spotify.com/album/6CXGmuWIk2y7iMqSL1rz4Y) | 3:47 | 2022-07-19 |  |
 | [Graue Wolken](https://open.spotify.com/track/1SVyDxMo3VtdWz1fzegvDy) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Graue Wolken](https://open.spotify.com/album/6rCYUB4w56TeN96r9qdjK1) | 3:28 | 2022-07-19 |  |
 | [Greek Rain and Thunder](https://open.spotify.com/track/0CYwZoze1eTVaYFZTMu0EV) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 2](https://open.spotify.com/album/4lPzsxOS8SHL3mFg6uZMZa) | 1:42 | 2022-07-19 |  |
 | [Gråa Moln](https://open.spotify.com/track/5hcIHaO2Vy6NmLC704mM8b) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Blixt](https://open.spotify.com/album/5fadcqG9gCtLnafQBJNY27) | 3:28 | 2022-07-19 |  |

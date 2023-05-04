@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
-  "num_followers": 548760,
+  "num_followers": 549116,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzcwOTExMzAyYTMwZGIwMDlkNGFmNDZlNDg0MDM3OTU1ZGJlYTQ4",
+  "snapshot_id": "MCwwYzZiMDg3ZTkwM2JmZWQ0ZmJhM2ZiNTY1ZWI0MjE1MTFiZTI3ZjZm",
   "tracks": [
     {
       "added_at": "2023-04-27 22:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Furia Latina",
-        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+        "name": "Sin Enchufe",
+        "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
       },
       "artists": [
         {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
         }
       ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
+      "duration_ms": 263679,
+      "name": "Carolina - En directo 2000",
+      "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Sin Enchufe",
-        "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
       },
       "artists": [
         {
-          "name": "M-Clan",
-          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
         }
       ],
-      "duration_ms": 263679,
-      "name": "Carolina - En directo 2000",
-      "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Nacha Pop",
-        "url": "https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP"
-      },
-      "artists": [
-        {
-          "name": "Nacha Pop",
-          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Chica de ayer",
-      "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "El Esp\u00edritu Del Vino- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3"
+        "name": "Nacha Pop",
+        "url": "https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "Nacha Pop",
+          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
         }
       ],
-      "duration_ms": 257360,
-      "name": "La sirena varada",
-      "url": "https://open.spotify.com/track/185xDOLU8KPZKqhUICnjRz"
+      "duration_ms": 208026,
+      "name": "Chica de ayer",
+      "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -779,6 +763,22 @@
       "duration_ms": 318986,
       "name": "Salir",
       "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "El Esp\u00edritu Del Vino- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 257360,
+      "name": "La sirena varada",
+      "url": "https://open.spotify.com/track/185xDOLU8KPZKqhUICnjRz"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "La rueca",
+      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "Muy Deficiente",
         "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
       },
@@ -883,34 +899,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "El Mar No Cesa- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
+        "name": "La ley innata",
+        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 241280,
-      "name": "Mar adentro",
-      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "La rueca",
-      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
+      "duration_ms": 462013,
+      "name": "Dulce introducci\u00f3n al caos",
+      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "La ley innata",
-        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
+        "name": "El Mar No Cesa- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 462013,
-      "name": "Dulce introducci\u00f3n al caos",
-      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
+      "duration_ms": 241280,
+      "name": "Mar adentro",
+      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 305253,
+      "name": "Que se joda el viento",
+      "url": "https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "Veneno En La Piel",
         "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 275026,
       "name": "El Limite",
       "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 305253,
-      "name": "Que se joda el viento",
-      "url": "https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "\u00a1Hasta luego!",
-        "url": "https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Dulce condena",
-      "url": "https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Sin Trampa Ni Cart\u00f3n",
         "url": "https://open.spotify.com/album/45ctqDxKNe2QVYVvq0dGRR"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Coces al Aire 1997-2007",
-        "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
+        "name": "\u00a1Hasta luego!",
+        "url": "https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH"
       },
       "artists": [
         {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 337666,
-      "name": "Corazon de mimbre",
-      "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
+      "duration_ms": 281560,
+      "name": "Dulce condena",
+      "url": "https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 134200,
       "name": "Insurreccion (En Directo)",
       "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Coces al Aire 1997-2007",
+        "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 337666,
+      "name": "Corazon de mimbre",
+      "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 400480,
       "name": "Por verte sonre\u00edr",
       "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

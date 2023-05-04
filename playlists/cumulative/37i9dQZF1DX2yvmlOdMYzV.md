@@ -4,11 +4,11 @@
 
 > Indie soul that's highkey fire
 
-367 songs - 20 hr 30 min
+368 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [& That's Alright](https://open.spotify.com/track/1ASixBTwRxUPMVXQ1E4vVC) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Comfortable Enough](https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp) | 3:01 | 2023-03-17 |  |
+| [& That's Alright](https://open.spotify.com/track/1ASixBTwRxUPMVXQ1E4vVC) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Comfortable Enough](https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp) | 3:01 | 2023-03-17 | 2023-05-04 |
 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 | 2021-12-15 | 2022-04-08 |
 | [311 \(with Gwen Bunn\)](https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:31 | 2023-03-03 |  |
 | [69 Camaro](https://open.spotify.com/track/50S52c98UbsIIiG0F1uyat) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL) | 2:34 | 2022-09-29 | 2022-10-13 |
@@ -115,6 +115,7 @@
 | [Fool For You](https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz) | 3:14 | 2022-10-14 | 2023-04-29 |
 | [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 | 2021-12-15 | 2022-10-13 |
 | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 | 2023-04-15 |
+| [Forever In A Song](https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 3:36 | 2023-04-28 |  |
 | [Forgive Them \- Live](https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6) | [Good Compenny](https://open.spotify.com/artist/4FKlCbh9ZcLpAstEEVsUR1), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Forgive Them \(Live\)](https://open.spotify.com/album/01HrHhWzdHjnhHzX57HUTa) | 4:03 | 2023-02-07 |  |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2021-12-15 | 2022-10-15 |
 | [From My Heart and My Soul \(feat\. Phoelix\)](https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:30 | 2021-12-15 |  |

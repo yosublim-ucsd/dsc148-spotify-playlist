@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,315 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,379 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 10 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 |
 | 11 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
 | 12 | [My Way](https://open.spotify.com/track/3ApYSLmZkBGMY7Ahs7PGWM) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Classic Hits](https://open.spotify.com/album/2N8ccUOSYseAHTkBWTmq8e) | 4:38 |
-| 13 | [Boneshaker](https://open.spotify.com/track/1fvmljBBL2lsyewZBKYj93) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Boneshaker](https://open.spotify.com/album/0qluDo8WVqgdZ4aSm1dm3T) | 3:30 |
+| 13 | [Boneshaker](https://open.spotify.com/track/1i9mctpfTvkg0Yb1mJDQZE) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Boneshaker](https://open.spotify.com/album/1WEM7Gz0rj7InZfQ8HSnKT) | 3:30 |
 | 14 | [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 |
 | 15 | [Love Is A Deserter](https://open.spotify.com/track/5tT1aeBgz7kbAugGXNQZ7n) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [No Wow](https://open.spotify.com/album/1wPUWq21gP0rYhaSBqBaEp) | 3:48 |
 | 16 | [Might Find Love](https://open.spotify.com/track/3ygBWDtkVCCoeTQUstWbsT) | [Hero The Band](https://open.spotify.com/artist/2PZZXkVyUo7SV4wfKwa8FW), [Audio Chateau](https://open.spotify.com/artist/4rtX2hxqvqi1IMDmA8dVDD) | [Might Find Love](https://open.spotify.com/album/7fpx2paVple1TBRoXGtxba) | 3:20 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 26 | [Bonsai Badass](https://open.spotify.com/track/1Zw7J4bGDMH6eAbdN5Y46V) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 3:34 |
 | 27 | [Just Reach For The Sky](https://open.spotify.com/track/060rDShhKz9WtjcikdeMmd) | [Julian Emery](https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP), [Cenzo Townshend](https://open.spotify.com/artist/4XQ6r7p6rFvDrE9mPmoQMm), [Jack Joy](https://open.spotify.com/artist/3RZZPXWZw7RAnPIonwMGtJ) | [Believer](https://open.spotify.com/album/54uX7vRtpbNTOwH3OsLU9a) | 3:35 |
 | 28 | [Late Night Jazz](https://open.spotify.com/track/12KH9ouW87OwGbnB16m7gx) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 5:18 |
-| 29 | [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 |
+| 29 | [Breakin' Outta Hell](https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd) | 3:52 |
 | 30 | [Shirts Off](https://open.spotify.com/track/1sjrA6EXjzZApgTRUZgndu) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 1:59 |
 | 31 | [Play With Fire](https://open.spotify.com/track/3OgLpMNvRbbR7ef9a7EUi5) | [Daniel Farrant](https://open.spotify.com/artist/59oUlUYF0ef44qArSKQBgK), [Paul Rawson](https://open.spotify.com/artist/0ui5Du1TnlznRNTSP1psZ8) | [Glam Rock](https://open.spotify.com/album/2rGcNlGZkpdpR9gxTTzvgh) | 3:28 |
 | 32 | [Miyaguel](https://open.spotify.com/track/0wNBYJFmHLxTSbgrNuiOhu) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn) | 1:16 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MCxhZjVhYTJmM2VkNjA2OWMzNDcwMTVmN2IzOWMwODQxMmVmMTAxMmRj`
+Snapshot ID: `MCw4MmQ0OTVmODAxNzAwZjk0NjljMzI1ZDM4ZDg5ZjhhNDBmNzk3ODdl`

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Whyte Fang.",
-  "num_followers": 963092,
+  "num_followers": 963311,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjk2YzQ5NDE0MDcxNWM5MjY3YTU4MTM5OTQ0ZDVlZjk5OGI2Y2Y4",
+  "snapshot_id": "MCxjMTEwNTY2M2UzNjI0YmZlNTBkYjlmMDA4YWFiMDNjMDgyNzUyNmZi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "dashstar* (Yellow Claw Trap Edit)",
         "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 152776,
       "name": "dashstar* - Yellow Claw Trap Edit",
       "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Laserbeam",
+        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Laserbeam",
+      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "PEW PEW",
         "url": "https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 199111,
       "name": "PEW PEW",
       "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Laserbeam",
-        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Laserbeam",
-      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Badman",
-        "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Badman",
-      "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "The Machines",
         "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 202666,
       "name": "The Machines",
       "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1211,22 +1211,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "My Heart Has Teeth (From \u201cResident Evil\u201d)",
-        "url": "https://open.spotify.com/album/0dfwFYOSdC2bDAvepzVZ90"
+        "name": "Eden (feat. fussy)",
+        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         },
         {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
         }
       ],
-      "duration_ms": 289653,
-      "name": "My Heart Has Teeth - From \u201cResident Evil\u201d",
-      "url": "https://open.spotify.com/track/5cLFhtbjth4y4RA8fsXfRZ"
+      "duration_ms": 176761,
+      "name": "Eden (feat. fussy)",
+      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Eden (feat. fussy)",
-        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
+        "name": "My Heart Has Teeth (From \u201cResident Evil\u201d)",
+        "url": "https://open.spotify.com/album/0dfwFYOSdC2bDAvepzVZ90"
       },
       "artists": [
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "fussy",
-          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
         }
       ],
-      "duration_ms": 176761,
-      "name": "Eden (feat. fussy)",
-      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
+      "duration_ms": 289653,
+      "name": "My Heart Has Teeth - From \u201cResident Evil\u201d",
+      "url": "https://open.spotify.com/track/5cLFhtbjth4y4RA8fsXfRZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1299,6 +1299,22 @@
       "duration_ms": 217846,
       "name": "BACK ONLINE",
       "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Rude Boy 22 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 135529,
-      "name": "Rude Boy 22 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
+      "duration_ms": 200339,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "KARMA (With Jazz Cartier)",
         "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
       },
@@ -1407,6 +1407,26 @@
       "duration_ms": 198400,
       "name": "KARMA (With Jazz Cartier)",
       "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Think Of You",
+        "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Blunts & Blondes",
+          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Think Of You",
+      "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1431,26 +1451,6 @@
       "duration_ms": 187186,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Think Of You",
-        "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Blunts & Blondes",
-          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Think Of You",
-      "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Eternity (feat. Dayce Williams)",
+        "url": "https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Dayce Williams",
+          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
+        }
+      ],
+      "duration_ms": 229694,
+      "name": "Eternity (feat. Dayce Williams)",
+      "url": "https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Nightmare On Rezz Street 2 Mix",
         "url": "https://open.spotify.com/album/5aRRt9zSKDEQdWghFvkiEi"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 226400,
       "name": "Laserbeam - Sullivan King Remix",
       "url": "https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Eternity (feat. Dayce Williams)",
-        "url": "https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Dayce Williams",
-          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
-        }
-      ],
-      "duration_ms": 229694,
-      "name": "Eternity (feat. Dayce Williams)",
-      "url": "https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie"
       },
       "artists": [
         {
           "name": "One True God",
           "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
         }
       ],
-      "duration_ms": 143076,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON"
+      "duration_ms": 189230,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1751,78 +1755,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "CHOMP",
-        "url": "https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        },
-        {
-          "name": "CHOMPO",
-          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
-        }
-      ],
-      "duration_ms": 198281,
-      "name": "CHOMP",
-      "url": "https://open.spotify.com/track/6ehkaqY90vXs9noImg2AVT"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "Roniit",
-          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Ding Dong",
-        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "Ding Dong",
-      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz"
-      },
-      "artists": [
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "333",
-      "url": "https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Skydive",
         "url": "https://open.spotify.com/album/0z8yPgvnMcFWNcr7oe0OPC"
       },
@@ -1847,26 +1779,34 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Reason For Fighting (feat. ERV ELLO)",
-        "url": "https://open.spotify.com/album/1Cauh0pJOIIMFZU7eCOALc"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5S0RxgMhMxzza0aOQt8d70"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        },
-        {
-          "name": "ERV ELLO",
-          "url": "https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         }
       ],
-      "duration_ms": 238285,
-      "name": "Reason For Fighting (feat. ERV ELLO)",
-      "url": "https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY"
+      "duration_ms": 143076,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5o0TzTBBSaouG2Yi58ZLON"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1907,6 +1847,66 @@
       "duration_ms": 205714,
       "name": "When I Fall",
       "url": "https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Reason For Fighting (feat. ERV ELLO)",
+        "url": "https://open.spotify.com/album/1Cauh0pJOIIMFZU7eCOALc"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        {
+          "name": "ERV ELLO",
+          "url": "https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Reason For Fighting (feat. ERV ELLO)",
+      "url": "https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "CHOMP",
+        "url": "https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        },
+        {
+          "name": "CHOMPO",
+          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
+        }
+      ],
+      "duration_ms": 198281,
+      "name": "CHOMP",
+      "url": "https://open.spotify.com/track/6ehkaqY90vXs9noImg2AVT"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz"
+      },
+      "artists": [
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "333",
+      "url": "https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2051,6 +2051,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "OH LAWD",
+        "url": "https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "Lemay",
+          "url": "https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "OH LAWD",
+      "url": "https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "MV//MNT",
         "url": "https://open.spotify.com/album/7MRzIoxez1tDxHDnRILJW1"
       },
@@ -2083,26 +2103,6 @@
       "duration_ms": 198399,
       "name": "(Never Gonna) Be Alone",
       "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "OH LAWD",
-        "url": "https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "Lemay",
-          "url": "https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "OH LAWD",
-      "url": "https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2183,26 +2183,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Light Garden",
-        "url": "https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe"
-      },
-      "artists": [
-        {
-          "name": "sumthin sumthin",
-          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
-        },
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "The Uprising",
         "url": "https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0"
       },
@@ -2219,6 +2199,26 @@
       "duration_ms": 197735,
       "name": "The Uprising",
       "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Light Garden",
+        "url": "https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe"
+      },
+      "artists": [
+        {
+          "name": "sumthin sumthin",
+          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
+        },
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "duration_ms": 223961,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "MIDHEAVEN: OPUS 03",
-        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "BDASWY",
-      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Skanka (VIP)",
         "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
       },
@@ -2279,18 +2263,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
+        "name": "MIDHEAVEN: OPUS 03",
+        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
       },
       "artists": [
         {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
+      "duration_ms": 147529,
+      "name": "BDASWY",
+      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2307,6 +2291,22 @@
       "duration_ms": 155330,
       "name": "Profit",
       "url": "https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
+      },
+      "artists": [
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2347,18 +2347,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Amateur",
-        "url": "https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF"
+        "name": "EMBRACE",
+        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
       },
       "artists": [
         {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
         }
       ],
-      "duration_ms": 371612,
-      "name": "Amateur",
-      "url": "https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu"
+      "duration_ms": 196800,
+      "name": "Within The Boundaries",
+      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2403,22 +2407,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "EMBRACE",
-        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF"
       },
       "artists": [
         {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Within The Boundaries",
-      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
+      "duration_ms": 371612,
+      "name": "Amateur",
+      "url": "https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/2Ada1o4AzW1xxBaYniu6xi"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Hum",
-      "url": "https://open.spotify.com/track/2xUV9DYYeUDJ6qhTvMweUZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "DAMAGE",
         "url": "https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 213722,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/2Ada1o4AzW1xxBaYniu6xi"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/2xUV9DYYeUDJ6qhTvMweUZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2599,22 +2599,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Not Giving In",
-        "url": "https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK"
-      },
-      "artists": [
-        {
-          "name": "Culture Code",
-          "url": "https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Not Giving In",
-      "url": "https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Blicky",
         "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
       },
@@ -2631,18 +2615,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Transport God",
-        "url": "https://open.spotify.com/album/5IGurSLvJs2ZOPBqdZtuUF"
+        "name": "Not Giving In",
+        "url": "https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK"
       },
       "artists": [
         {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+          "name": "Culture Code",
+          "url": "https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ"
         }
       ],
-      "duration_ms": 132051,
-      "name": "Transport God",
-      "url": "https://open.spotify.com/track/7mMZlq2vNjjpBVYkMoaNjp"
+      "duration_ms": 187200,
+      "name": "Not Giving In",
+      "url": "https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2663,6 +2647,22 @@
       "duration_ms": 163200,
       "name": "LEVIATHAN",
       "url": "https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Transport God",
+        "url": "https://open.spotify.com/album/5IGurSLvJs2ZOPBqdZtuUF"
+      },
+      "artists": [
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 132051,
+      "name": "Transport God",
+      "url": "https://open.spotify.com/track/7mMZlq2vNjjpBVYkMoaNjp"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2719,6 +2719,26 @@
       "duration_ms": 209677,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF"
+      },
+      "artists": [
+        {
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        },
+        {
+          "name": "SKUM",
+          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2827,38 +2847,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF"
+        "name": "Commencement (feat. Gracie Van Brunt)",
+        "url": "https://open.spotify.com/album/0haPvOsTwtQ0GB329u57d7"
       },
       "artists": [
         {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
         },
         {
-          "name": "SKUM",
-          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
         }
       ],
-      "duration_ms": 169180,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/7BuqieOHw8lBxS316dD6qY"
-      },
-      "artists": [
-        {
-          "name": "Ekali",
-          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx"
+      "duration_ms": 204800,
+      "name": "Commencement (feat. Gracie Van Brunt)",
+      "url": "https://open.spotify.com/track/6rlEjVPAJkvFOG2lPHzxhL"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2879,6 +2883,22 @@
       "duration_ms": 190053,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2g0JzCYReBuozImlug3OWV"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/7BuqieOHw8lBxS316dD6qY"
+      },
+      "artists": [
+        {
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2915,26 +2935,6 @@
       "duration_ms": 152000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Onzeker Kraft Vol.1",
-        "url": "https://open.spotify.com/album/5YjyH1QQ20buSHnLJ3xm65"
-      },
-      "artists": [
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 223565,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/2GVscOY1PbZknTX0lNuxni"
     }
   ],
   "unique_name": "Bass Arcade",

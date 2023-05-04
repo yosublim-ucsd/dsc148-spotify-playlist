@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 424141,
+  "num_followers": 424253,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDg2NjgzN2JiZmYyN2VjZjdhZmY1M2FlOTU1ZTM5NWFiYThiMjYz",
+  "snapshot_id": "MCw3MWM5ZDFmNzJhNjRmMjg0ZjA5YTUxZGRmMzQzNzQ0ZjY2OGIzY2Nh",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "static cruising",
-        "url": "https://open.spotify.com/album/6H1wcIEMZkuTHdJswlnM06"
-      },
-      "artists": [
-        {
-          "name": "_tillus",
-          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
-        }
-      ],
-      "duration_ms": 340645,
-      "name": "static cruising",
-      "url": "https://open.spotify.com/track/7H5PrdZyqVYJTcsZq3a3rj"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Ocean Drift",
         "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "static cruising",
+        "url": "https://open.spotify.com/album/6H1wcIEMZkuTHdJswlnM06"
+      },
+      "artists": [
+        {
+          "name": "_tillus",
+          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
+        }
+      ],
+      "duration_ms": 340645,
+      "name": "static cruising",
+      "url": "https://open.spotify.com/track/7H5PrdZyqVYJTcsZq3a3rj"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -471,26 +471,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "SETRA",
-        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
-      },
-      "artists": [
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        },
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Setra",
-      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "lo-fi_house.zip",
         "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 169000,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "SETRA",
+        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
+      },
+      "artists": [
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Setra",
+      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
+        "name": "10Min JAM_V2",
+        "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
       },
       "artists": [
         {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
+          "name": "Berus",
+          "url": "https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa"
         }
       ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
+      "duration_ms": 99495,
+      "name": "10Min JAM_V2",
+      "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -695,34 +695,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "10Min JAM_V2",
-        "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
       },
       "artists": [
         {
-          "name": "Berus",
-          "url": "https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa"
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
         }
       ],
-      "duration_ms": 99495,
-      "name": "10Min JAM_V2",
-      "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Late Night Basix Vol. 2",
-        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 359793,
-      "name": "Deep -N- Dirty",
-      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -739,6 +723,22 @@
       "duration_ms": 153345,
       "name": "Obscure",
       "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Late Night Basix Vol. 2",
+        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 359793,
+      "name": "Deep -N- Dirty",
+      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Longing For U",
-        "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 349857,
-      "name": "Longing For U",
-      "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Blue Pigments",
         "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 130388,
       "name": "Pigments",
       "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Longing For U",
+        "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 349857,
+      "name": "Longing For U",
+      "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Piano FM",
-        "url": "https://open.spotify.com/album/0wuj9pH3qJKJUNJdZhUxte"
+        "name": "Kindzmarauli",
+        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
       },
       "artists": [
         {
-          "name": "Steve Bug",
-          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
         }
       ],
-      "duration_ms": 199084,
-      "name": "The Moment - Radio Edit",
-      "url": "https://open.spotify.com/track/3MgpEmy2bdafbuJaVEWHiv"
+      "duration_ms": 256695,
+      "name": "Random Places",
+      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -867,22 +867,6 @@
       "duration_ms": 176482,
       "name": "YOU CAN DO IT",
       "url": "https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Kindzmarauli",
-        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 256695,
-      "name": "Random Places",
-      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -923,6 +907,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Piano FM",
+        "url": "https://open.spotify.com/album/0wuj9pH3qJKJUNJdZhUxte"
+      },
+      "artists": [
+        {
+          "name": "Steve Bug",
+          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
+        }
+      ],
+      "duration_ms": 199084,
+      "name": "The Moment - Radio Edit",
+      "url": "https://open.spotify.com/track/3MgpEmy2bdafbuJaVEWHiv"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Dosages, Vol. 2",
         "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 178983,
       "name": "Lofi Vs. House",
       "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Call A Wave (Flute Mix)",
-        "url": "https://open.spotify.com/album/5bG9wlGuwSxrHv4Z9uaczC"
-      },
-      "artists": [
-        {
-          "name": "Rhode & Brown",
-          "url": "https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T"
-        }
-      ],
-      "duration_ms": 296409,
-      "name": "Call A Wave - Flute Mix",
-      "url": "https://open.spotify.com/track/4HiBVaXeFuFuHLaI2TBBYj"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -991,18 +975,38 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Asakusa Light",
-        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
+        "name": "Ltdblbl008",
+        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
       "artists": [
         {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Nephews",
+          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
         }
       ],
-      "duration_ms": 271349,
-      "name": "Diving into Minds",
-      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
+      "duration_ms": 396501,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Call A Wave (Flute Mix)",
+        "url": "https://open.spotify.com/album/5bG9wlGuwSxrHv4Z9uaczC"
+      },
+      "artists": [
+        {
+          "name": "Rhode & Brown",
+          "url": "https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T"
+        }
+      ],
+      "duration_ms": 296409,
+      "name": "Call A Wave - Flute Mix",
+      "url": "https://open.spotify.com/track/4HiBVaXeFuFuHLaI2TBBYj"
     }
   ],
   "unique_name": "Lo-Fi House",

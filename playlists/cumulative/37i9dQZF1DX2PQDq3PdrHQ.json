@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "buffering",
+        "url": "https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L"
+      },
+      "artists": [
+        {
+          "name": "drawn animal",
+          "url": "https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "buffering",
+      "url": "https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp"
+    },
+    {
+      "album": {
         "name": "c l o u d s",
         "url": "https://open.spotify.com/album/4Cjd7F86ns6WnLdfgHHxqT"
       },
@@ -1078,6 +1096,28 @@
       "duration_ms": 151976,
       "name": "charm me",
       "url": "https://open.spotify.com/track/6wnYzqq1yJIPLjO2JcXxup"
+    },
+    {
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/1bfTc2be3K9ndrV9p2LkC3"
+      },
+      "artists": [
+        {
+          "name": "Phonedown",
+          "url": "https://open.spotify.com/artist/6mAZPYwuELJQtdrxvnPg1Q"
+        },
+        {
+          "name": "Tree Climber",
+          "url": "https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Chasing Sunsets",
+      "url": "https://open.spotify.com/track/56zoZSnt5dgM070qP5usz5"
     },
     {
       "album": {
@@ -1288,6 +1328,24 @@
       "duration_ms": 191000,
       "name": "cloudy dreams",
       "url": "https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof"
+    },
+    {
+      "album": {
+        "name": "Cloudy Sleeps",
+        "url": "https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd"
+      },
+      "artists": [
+        {
+          "name": "Flying Demond",
+          "url": "https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Cloudy Sleeps",
+      "url": "https://open.spotify.com/track/3CXXXcD1Yw8W8uTD9ZmR6a"
     },
     {
       "album": {
@@ -2851,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "familiarly",
+        "url": "https://open.spotify.com/album/5juoLYzIhsj5MQhyLWDEH9"
+      },
+      "artists": [
+        {
+          "name": "southlinden",
+          "url": "https://open.spotify.com/artist/35BnARl8sJesME3tMmUow8"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126516,
+      "name": "familiarly",
+      "url": "https://open.spotify.com/track/72srfTazp2zZsgiUeO9Da8"
+    },
+    {
+      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/7biqa6CEDK5J9Lhqs6vsxx"
       },
@@ -2866,6 +2942,24 @@
       "duration_ms": 130750,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/2ZkJGGY5OCcd3AUPZYEx1d"
+    },
+    {
+      "album": {
+        "name": "fingerlock",
+        "url": "https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2"
+      },
+      "artists": [
+        {
+          "name": "Arthur Wu",
+          "url": "https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "fingerlock",
+      "url": "https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg"
     },
     {
       "album": {
@@ -6899,6 +6993,24 @@
     },
     {
       "album": {
+        "name": "Our Quiz",
+        "url": "https://open.spotify.com/album/6UVQciWAmh1SZwlofKX3ge"
+      },
+      "artists": [
+        {
+          "name": "Lysergic Teaparty",
+          "url": "https://open.spotify.com/artist/4cDvlS7pC7dFcg3leCFHNK"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Our Quiz",
+      "url": "https://open.spotify.com/track/35F3lds7g2yMiFUyJeEWtF"
+    },
+    {
+      "album": {
         "name": "Out of the day",
         "url": "https://open.spotify.com/album/51dKFZ52nUS7i7HSmdX2uH"
       },
@@ -8143,6 +8255,28 @@
     },
     {
       "album": {
+        "name": "shaman dreams",
+        "url": "https://open.spotify.com/album/4giCVmRIwtri9btlVcGLou"
+      },
+      "artists": [
+        {
+          "name": "mr_slace",
+          "url": "https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO"
+        },
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "shaman dreams again",
+      "url": "https://open.spotify.com/track/0ma4paR3UywyIlTzceEtOR"
+    },
+    {
+      "album": {
         "name": "Shelter From The Rain",
         "url": "https://open.spotify.com/album/27kIzp2mhfvTRtFU0UDUwA"
       },
@@ -8433,6 +8567,24 @@
     },
     {
       "album": {
+        "name": "Sleepy",
+        "url": "https://open.spotify.com/album/7tFMXi2wpaKTeljmEQYJm6"
+      },
+      "artists": [
+        {
+          "name": "Philphonic",
+          "url": "https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127185,
+      "name": "Sleepy",
+      "url": "https://open.spotify.com/track/2Cz4rYup2tiEdyGX0IWnH7"
+    },
+    {
+      "album": {
         "name": "Sleepy Head",
         "url": "https://open.spotify.com/album/3YnBK7aoWudswh1gfBKk4a"
       },
@@ -8698,6 +8850,24 @@
       "duration_ms": 165551,
       "name": "Sometimes I Feel Lonely",
       "url": "https://open.spotify.com/track/0RHtuoOt8dc1p4raXn1BMX"
+    },
+    {
+      "album": {
+        "name": "sonic massage",
+        "url": "https://open.spotify.com/album/6edBNTAmQZcxHhDOKCmGSL"
+      },
+      "artists": [
+        {
+          "name": "loyCOY",
+          "url": "https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "sonic massage",
+      "url": "https://open.spotify.com/track/2TJC0fB6aBTyVc0K2QGTFL"
     },
     {
       "album": {
@@ -9251,6 +9421,24 @@
     },
     {
       "album": {
+        "name": "tea break",
+        "url": "https://open.spotify.com/album/60HSzGsk9UgpShEVCeP0lk"
+      },
+      "artists": [
+        {
+          "name": "harvest boy",
+          "url": "https://open.spotify.com/artist/2V8pkWIxUczc3E02l6ZQ8J"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "tea break",
+      "url": "https://open.spotify.com/track/3MNwdY69Zi8DC1lAP71bhp"
+    },
+    {
+      "album": {
         "name": "tempo",
         "url": "https://open.spotify.com/album/4RHsBs9MScN7ORZbKk1f5R"
       },
@@ -9756,6 +9944,24 @@
       "duration_ms": 144187,
       "name": "Till The Rain Stops",
       "url": "https://open.spotify.com/track/7FnZzGr1WgcSd94RiB5Ezn"
+    },
+    {
+      "album": {
+        "name": "time twist",
+        "url": "https://open.spotify.com/album/7aoYpp3XszRe3nWsv7ObbP"
+      },
+      "artists": [
+        {
+          "name": "haki donzo",
+          "url": "https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "time twist",
+      "url": "https://open.spotify.com/track/2tTam1DLtJL6hqFd4JIBTu"
     },
     {
       "album": {

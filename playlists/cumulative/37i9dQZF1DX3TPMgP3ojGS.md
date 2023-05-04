@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,693 songs - 3 day 4 hr 1 min
+1,694 songs - 3 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Arrebol](https://open.spotify.com/track/52AH50uB1sJZBRjGJlcW8m) | [Lionel Scardino](https://open.spotify.com/artist/15rfm6rSfsn4RuQQO6BumY) | [Sinestesia](https://open.spotify.com/album/0doAzw09nCA6aH8KVC20Ai) | 1:22 | 2021-04-28 | 2022-04-18 |
 | [Arthur's Theme](https://open.spotify.com/track/2hvJks7wVAgPubs2ngNOwQ) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Arthur's Theme](https://open.spotify.com/album/4OHQ3btk3IX1rXFzcfoLSo) | 3:04 | 2023-01-17 | 2023-04-16 |
 | [As Ballad](https://open.spotify.com/track/42KPF7PhUrDkHc3Zdr3Rd5) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Stay In The Dark](https://open.spotify.com/album/7nGEHv8P2Ys8D7g6Hn1i10) | 4:53 | 2021-03-21 | 2021-07-31 |
-| [As I Dream](https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As I Dream](https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj) | 3:04 | 2022-12-22 |  |
+| [As I Dream](https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As I Dream](https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj) | 3:04 | 2022-12-22 | 2023-05-04 |
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2021-03-16 | 2022-04-21 |
 | [As We Fall In Love Again](https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [As We Fall In Love Again](https://open.spotify.com/album/37lCe2jTM8UEYXcS1tESar) | 2:50 | 2021-03-25 | 2022-07-22 |
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-13 | 2022-07-28 |
@@ -907,6 +907,7 @@
 | [Memory Lane](https://open.spotify.com/track/1z2q4Dmj24cBFnkkV0GPli) | [Niels Saunders](https://open.spotify.com/artist/6nlfg6qBEp3xeCBIkgqOmu) | [Memory Lane](https://open.spotify.com/album/21WNlxDCxJFAZuihLhOPRQ) | 2:18 | 2021-05-27 | 2022-04-17 |
 | [Mending](https://open.spotify.com/track/21Ky8dYEzcp04NJNKyUt1L) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Mending](https://open.spotify.com/album/0V6QaIaGDI7fycgBzUENid) | 2:12 | 2021-03-18 | 2022-04-20 |
 | [Meraviglia](https://open.spotify.com/track/0BoqkSGAGK4hDsf4coC1IE) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Meraviglia](https://open.spotify.com/album/3VxVxOxr4KFHoEvG14mosa) | 1:51 | 2022-07-27 | 2022-12-24 |
+| [Mercury](https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Mercury](https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7) | 3:00 | 2023-04-25 |  |
 | [Merveilleuse](https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB) | [Valeria Henkel](https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN) | [Merveilleuse](https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9) | 2:01 | 2021-03-06\* | 2022-04-11 |
 | [Mesmerizing Eyes](https://open.spotify.com/track/2fnJ1pKdpXSP99iPaLgCfO) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [Mesmerizing Eyes](https://open.spotify.com/album/4jFsouxEeHdq364FjAHQ7d) | 2:10 | 2021-05-16 | 2021-05-17 |
 | [Metronome](https://open.spotify.com/track/5uGY5VV9lZonCaRKm1wwmO) | [Massimo Natali \[IT\]](https://open.spotify.com/artist/5ygNFOnjyFdEe46rdTeB8b) | [Nobody's Home](https://open.spotify.com/album/2JwnW6S4ErnUQG8xT7cB6i) | 2:58 | 2021-03-08 | 2021-05-05 |

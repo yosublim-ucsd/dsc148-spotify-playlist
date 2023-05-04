@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x?si=HOC1fGfVR0248k20kf3SpA">Lady Du</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,639 likes - 50 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,223 likes - 50 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Ring Ring Ring](https://open.spotify.com/track/2m1rSnIazzgbksxAiS4gpk) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Ring Ring Ring](https://open.spotify.com/album/7IZrlKiOYoJrvn6xF2ZZFd) | 5:47 |
 | 50 | [Khulula](https://open.spotify.com/track/6AftB22jhXbTF616yrE8ic) | [The Ascension](https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Koek Sista](https://open.spotify.com/artist/2tE4mCEYtiSvETEVEAYjzv), [Charisse C](https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n), [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV), [S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Reed](https://open.spotify.com/artist/4tCGRoI7zhPtJvKoyZEJES) | [Khulula](https://open.spotify.com/album/2UsFBCob3r7QYzBUV8ta7w) | 6:25 |
 
-Snapshot ID: `MCw2MTBlNDM3YTI0ZWQzZjI5MTcwN2IzMjU2OTAxMDg4ZDRmMmU0NTEy`
+Snapshot ID: `MCxjNmY4OTg3ZjU2OTk0ZDU2NTE1ODgwYjU3NWY0NjVkMzZlY2NhMzhm`

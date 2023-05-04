@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-555 songs - 1 day 13 hr 32 min
+556 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-03-16 |  |
 | [Blue In Green \(Take 2\)](https://open.spotify.com/track/0QjrKKVrUNmxokCLXUkBe2) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:26 | 2022-04-13 | 2022-11-11 |
 | [Blue Light](https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:54 | 2023-02-09 | 2023-04-19 |
+| [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 | 2023-04-27 |  |
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-26 |  |
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-11-10 |  |
 | [Blues for a Lost Love](https://open.spotify.com/track/5ZofcIkLEHUrLQh3TeTlji) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Blues for a Lost Love](https://open.spotify.com/album/1FhT1PEEuKf3ARcIujXGOL) | 2:46 | 2023-03-30 |  |
@@ -444,7 +445,7 @@
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-11-10 |  |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-11-10 |  |
 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-12 |  |
-| [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-03-16 |  |
+| [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-03-16 | 2023-05-04 |
 | [Stormy Weather](https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 10:35 | 2021-12-03 |  |
 | [Stormy Weather \(Keeps Rainin' All The Time\)](https://open.spotify.com/track/5nT91D7XR6gWKuAcTy3IZv) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Modern Sound Of Betty Carter](https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS) | 3:21 | 2022-01-27 | 2022-09-23 |
 | [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 | 2023-02-02 |  |

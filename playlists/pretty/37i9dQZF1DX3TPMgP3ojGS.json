@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 349534,
+  "num_followers": 349736,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzViNzBhNTM1YzcxZGQ3NWQ0MGEzMzA2MTA5MDY5MTE2OTVmZjk3",
+  "snapshot_id": "MCwxOWE4ZjgxYjhlNmRlYzI5M2ViMTIxMzE2ZDY3YTRhMGY5MGIyM2Y1",
   "tracks": [
     {
       "added_at": "2023-04-25 13:35:29",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "The Tree",
-      "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Heart Open & Oak Bluffs",
         "url": "https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 117016,
       "name": "Oaks Bluffs",
       "url": "https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "The Tree",
+      "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Ode to Vivian (Rework)",
-        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 96624,
-      "name": "Ode to Vivian - Rework",
-      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Nouvelles Tentatives",
         "url": "https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Petites danses et r\u00eaveries",
-        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
+        "name": "Ode to Vivian (Rework)",
+        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
       },
       "artists": [
         {
-          "name": "Tom Kristiaan",
-          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 146090,
-      "name": "Un sourire et une larme (valse)",
-      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
+      "duration_ms": 96624,
+      "name": "Ode to Vivian - Rework",
+      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -379,6 +363,22 @@
       "duration_ms": 156705,
       "name": "Liminal ride",
       "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Petites danses et r\u00eaveries",
+        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
+      },
+      "artists": [
+        {
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Un sourire et une larme (valse)",
+      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Release from silence",
-        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Buote",
-          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
-        }
-      ],
-      "duration_ms": 137642,
-      "name": "Release from silence",
-      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Pines and Cedars",
         "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 150898,
       "name": "Pines and Cedars",
       "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Release from silence",
+        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Buote",
+          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
+        }
+      ],
+      "duration_ms": 137642,
+      "name": "Release from silence",
+      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "to god knows where",
-        "url": "https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1"
-      },
-      "artists": [
-        {
-          "name": "BigRicePiano",
-          "url": "https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "to god knows where - silence",
-      "url": "https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Through The Blue (Piano Version)",
         "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "to god knows where",
+        "url": "https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1"
+      },
+      "artists": [
+        {
+          "name": "BigRicePiano",
+          "url": "https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "to god knows where - silence",
+      "url": "https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Act Of Reconciling",
         "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "This Tender Appeal",
+        "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "duration_ms": 168498,
+      "name": "This Tender Appeal",
+      "url": "https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -635,22 +651,6 @@
       "duration_ms": 141451,
       "name": "Quiet Eyes",
       "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "This Tender Appeal",
-        "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 168498,
-      "name": "This Tender Appeal",
-      "url": "https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+        "name": "Chichiro",
+        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
       },
       "artists": [
         {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+          "name": "Kye Wood",
+          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
         }
       ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+      "duration_ms": 109000,
+      "name": "Chichiro",
+      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Chichiro",
-        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
       "artists": [
         {
-          "name": "Kye Wood",
-          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
         }
       ],
-      "duration_ms": 109000,
-      "name": "Chichiro",
-      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Midsommarnatt",
         "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
       },
@@ -991,50 +1007,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
+        "name": "Moondust",
+        "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
       },
       "artists": [
         {
-          "name": "Oscar Mallen",
-          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+          "name": "Nina Fiadh",
+          "url": "https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Cygne Noir",
-        "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
-      },
-      "artists": [
-        {
-          "name": "North Connolly",
-          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
-        }
-      ],
-      "duration_ms": 178634,
-      "name": "Cygne Noir",
-      "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Passages",
-        "url": "https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB"
-      },
-      "artists": [
-        {
-          "name": "Noomi Meerbach",
-          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
-        }
-      ],
-      "duration_ms": 159439,
-      "name": "Days Passing By",
-      "url": "https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw"
+      "duration_ms": 115565,
+      "name": "Moondust",
+      "url": "https://open.spotify.com/track/3Kd4HLl20kMtG64MrdVJ86"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1051,6 +1035,22 @@
       "duration_ms": 128931,
       "name": "Take care",
       "url": "https://open.spotify.com/track/244BGt6n916G7NdoOUKSsX"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Passages",
+        "url": "https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB"
+      },
+      "artists": [
+        {
+          "name": "Noomi Meerbach",
+          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
+        }
+      ],
+      "duration_ms": 159439,
+      "name": "Days Passing By",
+      "url": "https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Moondust",
-        "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
-      },
-      "artists": [
-        {
-          "name": "Nina Fiadh",
-          "url": "https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ"
-        }
-      ],
-      "duration_ms": 115565,
-      "name": "Moondust",
-      "url": "https://open.spotify.com/track/3Kd4HLl20kMtG64MrdVJ86"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Before We Met",
         "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 113285,
       "name": "Before We Met",
       "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Cygne Noir",
+        "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "duration_ms": 178634,
+      "name": "Cygne Noir",
+      "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n \u00dalfur",
-          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
-        }
-      ],
-      "duration_ms": 155704,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Hand in Hand",
         "url": "https://open.spotify.com/album/7fccaa63EUMUZtrhXENmbT"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 108022,
       "name": "Hand in Hand",
       "url": "https://open.spotify.com/track/23yqVbpiJoMHTs0RX4aPE7"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "duration_ms": 155704,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "for you",
-        "url": "https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS"
-      },
-      "artists": [
-        {
-          "name": "Holly Jones",
-          "url": "https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "for you",
-      "url": "https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Gently falling rain",
         "url": "https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 127500,
       "name": "Gently falling rain",
       "url": "https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "for you",
+        "url": "https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS"
+      },
+      "artists": [
+        {
+          "name": "Holly Jones",
+          "url": "https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "for you",
+      "url": "https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Winterfall",
-        "url": "https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX"
-      },
-      "artists": [
-        {
-          "name": "Eric Ville de Soins",
-          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Winterfall",
-      "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Estelle",
         "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
       },
@@ -1403,6 +1387,38 @@
       "duration_ms": 122698,
       "name": "Mist",
       "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Winterfall",
+        "url": "https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX"
+      },
+      "artists": [
+        {
+          "name": "Eric Ville de Soins",
+          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "Winterfall",
+      "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "For the Love of You",
+        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "duration_ms": 107730,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1471,6 +1487,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
+      },
+      "artists": [
+        {
+          "name": "Ivan Malik",
+          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
+        }
+      ],
+      "duration_ms": 180874,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -1515,22 +1547,6 @@
       "duration_ms": 144905,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "For the Love of You",
-        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
-      },
-      "artists": [
-        {
-          "name": "Henriette Fleich",
-          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
-        }
-      ],
-      "duration_ms": 107730,
-      "name": "For the Love of You",
-      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1595,22 +1611,6 @@
       "duration_ms": 176457,
       "name": "Papillon - Solo Piano Version",
       "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "As I Dream",
-        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 184583,
-      "name": "As I Dream",
-      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
     }
   ],
   "unique_name": "Coffee and Piano",

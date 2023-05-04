@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-361 songs - 23 hr 4 min
+362 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Hey Heartbreaker](https://open.spotify.com/track/4GlABUbKd2p5dRvOlGhphU) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:20 | 2022-04-08 |  |
 | [Hey Heartbreaker](https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:20 | 2022-04-08 | 2023-04-30 |
 | [Hey Moon](https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [We Must Become the Pitiless Censors of Ourselves](https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof) | 4:08 | 2021-09-01 |  |
-| [Hierba Mala](https://open.spotify.com/track/697GyFBDJX36FtMiVTPK5F) | [REYKO](https://open.spotify.com/artist/1asECxd7DPIjTLu8NTc3ZA) | [REYKO](https://open.spotify.com/album/1282XufMh56sFYHSmAhPVF) | 3:10 | 2021-09-01 |  |
+| [Hierba Mala](https://open.spotify.com/track/2LgWPts2Z8E70pooD7dhjf) | [REYKO](https://open.spotify.com/artist/1asECxd7DPIjTLu8NTc3ZA) | [REYKO](https://open.spotify.com/album/1HyIkDEJWW9XJZtYHt7V5O) | 3:09 | 2021-09-01 |  |
+| [Hierba Mala](https://open.spotify.com/track/697GyFBDJX36FtMiVTPK5F) | [REYKO](https://open.spotify.com/artist/1asECxd7DPIjTLu8NTc3ZA) | [REYKO](https://open.spotify.com/album/1282XufMh56sFYHSmAhPVF) | 3:10 | 2021-09-01 | 2023-05-04 |
 | [HOPE](https://open.spotify.com/track/1DB4WqlBzijxc8b21Xjl8Y) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Shades of Guilt](https://open.spotify.com/album/4oTVPfIhIHs8PNQMQtkoR3) | 4:12 | 2022-11-24 |  |
 | [Hoy No Me Puedo Levantar](https://open.spotify.com/track/5afJQLK9s5W8LmhjWtcBfk) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Hoy No Me Puedo Levantar](https://open.spotify.com/album/6QTQI32uInC7dOUnY6VQzw) | 2:23 | 2021-09-01 |  |
 | [Humo y Alcohol \- Feat\. Jerv.AGZ, C.Tangana & Steve Lean](https://open.spotify.com/track/0I3YlezU3oUwZTHaEbbnuX) | [Sticky M.A.](https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm), [Jerv.AGZ](https://open.spotify.com/artist/3GDjG6fBhAAB0leAL0aESf), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Steve Lean](https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T) | [Las Pegajosas Aventuras de Sticky M.A.](https://open.spotify.com/album/2OSHvJonf4WkJNv8d75TaB) | 4:27 | 2021-09-01 |  |

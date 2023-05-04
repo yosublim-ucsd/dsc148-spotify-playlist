@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,059 likes - 97 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,062 likes - 97 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 96 | [Kongo Rikishi Statues](https://open.spotify.com/track/5riTEMLGYZl1NAyJ6VDNTz) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [RABBIT STAR ★](https://open.spotify.com/album/2BRgQmmR9jovRrDgkZbtDx) | 3:28 |
 | 97 | [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 |
 
-Snapshot ID: `MCw3Mzg2ODhiZmNiMDQyNmVhY2JkNzU3ODRkYWEyY2ViOWE5Y2JmOTFh`
+Snapshot ID: `MCxmNDA4YjI5MzlkMGQ5Y2ZkOGE1ZTFiYjMxYWE1NWNjNDc1M2MzNDc1`

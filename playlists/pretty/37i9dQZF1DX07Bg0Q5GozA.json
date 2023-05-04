@@ -1,12 +1,12 @@
 {
   "description": "New music off the beaten track. Cover: Chromeo, La Roux",
-  "num_followers": 430953,
+  "num_followers": 430952,
   "original_name": "OFF POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjcxM2E2MjQyMGFlNGI0ODhiNDIwMDc1Mjg3YmZkNTM2MGZiODkx",
+  "snapshot_id": "MCxmODY3ZjJlNGRlZmI5YzM5NzFmNzQ4OWM5ODY2N2ZhNDkxYjQxMTRk",
   "tracks": [
     {
       "added_at": "2023-04-27 22:00:00",
@@ -54,6 +54,10 @@
         {
           "name": "Terr",
           "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
+        },
+        {
+          "name": "Coloray",
+          "url": "https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E"
         }
       ],
       "duration_ms": 252711,

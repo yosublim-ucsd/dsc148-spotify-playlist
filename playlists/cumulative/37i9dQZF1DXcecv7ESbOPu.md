@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-7,631 songs - 16 day 12 hr 34 min
+7,632 songs - 16 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3719,7 +3719,8 @@
 | [KOMPLETTERAD](https://open.spotify.com/track/7Jcb7lAXvOvgDdCj49Awsf) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [KOMPLETTERAD](https://open.spotify.com/album/4zOwZh6nvk9NPjIYH5cVY3) | 2:32 | 2022-10-13 | 2022-10-21 |
 | [Komplicerat](https://open.spotify.com/track/3RCbGcSsPFNn6NbFbLc8QT) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Komplicerat](https://open.spotify.com/album/2okfqXMmvxEi0VlNupJENP) | 2:19 | 2022-05-19 | 2022-05-27 |
 | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/track/23CTXfKqXyz4QkEwCGONhz) | [Ella Hedström](https://open.spotify.com/artist/2yZOGE9w5XZPTWF9e6wYEr) | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/album/3wGLhdFwuUVEpkuswcM5km) | 2:54 | 2022-05-05 | 2022-05-13 |
-| [KONTROLL](https://open.spotify.com/track/3XiTfrOa7690hHyJevFCYH) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MÖRKET](https://open.spotify.com/album/4FIJKB0L75KHLsAThkgHqz) | 2:39 | 2023-04-27 |  |
+| [KONTROLL](https://open.spotify.com/track/3XiTfrOa7690hHyJevFCYH) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MÖRKET](https://open.spotify.com/album/4FIJKB0L75KHLsAThkgHqz) | 2:39 | 2023-04-27 | 2023-05-04 |
+| [KONTROLL](https://open.spotify.com/track/5sIRgBsPFruLgTs6Sx4dju) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MÖRKET](https://open.spotify.com/album/6rprj086y65JMRbeE1k0r8) | 2:39 | 2023-04-28 |  |
 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 | 2022-06-09 | 2022-06-17 |
 | [Korthus](https://open.spotify.com/track/791sTulD9FqjjDlraYYIpT) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/3IiNai4mJpTKP4SGjhJau5) | [Korthus](https://open.spotify.com/album/08oifjJ5L0K7l2a7UaUKBN) | 3:02 | 2022-08-25 | 2022-09-02 |
 | [Krona & Klave](https://open.spotify.com/track/61irpUdlLoK263JMaCYMRJ) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Krona & Klave](https://open.spotify.com/album/6suQQaqzcfkzo9T8HSHK2x) | 2:32 | 2022-05-19 | 2022-05-27 |

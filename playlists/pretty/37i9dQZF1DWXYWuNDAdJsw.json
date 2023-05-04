@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 829550,
+  "num_followers": 829698,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OThlMDFkMTNkM2NjMTlhZTg4NDc3ZDI3YzdjZTNhODQ4Mzc2OTRh",
+  "snapshot_id": "MCwxNjgyYmIzNzY4NDJkMDg0NGFkM2FlOTllODc0Mjk3NTA3YWMxNjkx",
   "tracks": [
     {
       "added_at": "2023-04-21 23:09:47",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
+        "name": "Te Busco",
+        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 233639,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
+    },
+    {
+      "added_at": "2023-04-21 23:09:47",
+      "album": {
         "name": "Los Vaqueros Wild Wild Mixes",
         "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
-    },
-    {
-      "added_at": "2023-04-21 23:09:47",
-      "album": {
-        "name": "Te Busco",
-        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 233639,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+    },
+    {
+      "added_at": "2023-04-21 23:09:47",
+      "album": {
         "name": "te kiero ver",
         "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 147224,
       "name": "te kiero ver",
       "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
-    },
-    {
-      "added_at": "2023-04-21 23:09:47",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+        "name": "El Amor y Yo",
+        "url": "https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 219226,
-      "name": "Ya Me Enter\u00e9 (feat. Nicky Jam) - Urban Version",
-      "url": "https://open.spotify.com/track/2SSYqDX8KTgy01NlqtUo0F"
+      "duration_ms": 207272,
+      "name": "Canci\u00f3n Para Mi Ex",
+      "url": "https://open.spotify.com/track/4I15CRYk0tzJOYAqRwZ1BS"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1651,18 +1647,22 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
-        "name": "El Amor y Yo",
-        "url": "https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf"
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Canci\u00f3n Para Mi Ex",
-      "url": "https://open.spotify.com/track/4I15CRYk0tzJOYAqRwZ1BS"
+      "duration_ms": 219226,
+      "name": "Ya Me Enter\u00e9 (feat. Nicky Jam) - Urban Version",
+      "url": "https://open.spotify.com/track/2SSYqDX8KTgy01NlqtUo0F"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
+        "name": "Viendo el Techo",
+        "url": "https://open.spotify.com/album/4ikugcbfJKooYlQACL2MUN"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 188954,
+      "name": "Viendo el Techo",
+      "url": "https://open.spotify.com/track/0iWxrdjwEGOrTC9AszgAJk"
+    },
+    {
+      "added_at": "2023-04-21 23:09:47",
+      "album": {
         "name": "Me Gusta (Remix)",
         "url": "https://open.spotify.com/album/1D7lFbv4p8DjJVKOcHfX1r"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 202893,
       "name": "D\u00e9jalo",
       "url": "https://open.spotify.com/track/4VTTpwcAxVSQNzEZLi75d0"
-    },
-    {
-      "added_at": "2023-04-21 23:09:47",
-      "album": {
-        "name": "Viendo el Techo",
-        "url": "https://open.spotify.com/album/4ikugcbfJKooYlQACL2MUN"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 188954,
-      "name": "Viendo el Techo",
-      "url": "https://open.spotify.com/track/0iWxrdjwEGOrTC9AszgAJk"
     },
     {
       "added_at": "2023-04-21 23:09:47",

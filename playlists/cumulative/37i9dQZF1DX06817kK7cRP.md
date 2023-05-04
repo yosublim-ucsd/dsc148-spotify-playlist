@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-121 songs - 5 hr 34 min
+122 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amethyst](https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:20 | 2023-01-13 |  |
 | [Around Me](https://open.spotify.com/track/3i4AOqloOwc33r7pwJGLXh) | [Soulstance](https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur) | [The Jazz Art Of Relax](https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd) | 4:34 | 2023-01-13 |  |
 | [As We Are](https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5) | [Soulstance](https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur) | [The Jazz Art Of Relax](https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd) | 5:20 | 2023-01-17 |  |
+| [Battery Park](https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp) | [Zacky Yazz](https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv) | [Battery Park](https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq) | 2:24 | 2023-04-27 |  |
 | [Bergamot](https://open.spotify.com/track/6WNRv5EhU3pi2kH71qoYuw) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:04 | 2023-01-12 |  |
 | [Billow](https://open.spotify.com/track/6hd9qmlnzXQrRpZR6IWsxq) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Billow](https://open.spotify.com/album/2QJi553WjqaZVMKdGD9pog) | 2:31 | 2023-03-23 |  |
 | [Blessings](https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Blessings](https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB) | 2:26 | 2023-01-12 |  |
@@ -38,7 +39,7 @@
 | [Fade Away](https://open.spotify.com/track/788O8dH7FJlO7SebmtLqj4) | [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Fade Away](https://open.spotify.com/album/5T3fTXo9oHhsE1NzN45vQj) | 2:12 | 2023-01-12 |  |
 | [Fever, Fever](https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Fever, Fever](https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz) | 2:44 | 2023-01-12 |  |
 | [For the Homies](https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [yuckgod](https://open.spotify.com/artist/53FJ7kvKR7Nk7nOo5yGRK7), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Thank You for Waiting](https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe) | 2:03 | 2023-01-12 |  |
-| [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 | 2023-01-12 |  |
+| [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 | 2023-01-12 | 2023-05-04 |
 | [Freeway](https://open.spotify.com/track/4ZyRWLgtHGZAOSeH5W4mes) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Freeway](https://open.spotify.com/album/35H7Dzbib14P3ZarPwh0E0) | 2:30 | 2023-01-12 |  |
 | [Friends](https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Friends](https://open.spotify.com/album/19hBcwOsKTRuOclZ5bDoXP) | 1:44 | 2023-01-12 | 2023-04-14 |
 | [Full Wet's](https://open.spotify.com/track/5ZwZXIPPrM8tglWmUHq60a) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Full Wet's](https://open.spotify.com/album/59q8662jceuRnzPeEgxhbs) | 2:20 | 2023-04-13 |  |

@@ -2,9 +2,9 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover: Akriti Kakkar
+> Listen to Indian women, at full volume\. Cover: Harshdeep Kaur
 
-187 songs - 10 hr 49 min
+188 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/5zP4OuD73f42dogIjNid68) | 3:11 | 2022-02-01 | 2023-03-03 |
 | [Narazgi](https://open.spotify.com/track/2cQWIUStEam8XUu3qZlNye) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Sonal Pradhan](https://open.spotify.com/artist/47rEN0r2cbsuTWxV9pH6gd) | [Narazgi](https://open.spotify.com/album/0FXkV0ersuq1iXtWXGbchi) | 4:53 | 2022-03-07 | 2023-01-04 |
 | [Ni Jana](https://open.spotify.com/track/4YxsJyL48q7NZiiCj0uib0) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f), [Radhika Madan](https://open.spotify.com/artist/3YdyN1kW3803p2ovKeuPel) | [Ni Jana](https://open.spotify.com/album/14AM22a3ypN7tCMH89RXYj) | 3:25 | 2021-12-10 | 2022-02-02 |
+| [Ni Main Jaana](https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0) | [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Ni Main Jaana](https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK) | 4:17 | 2023-05-03 |  |
 | [O Sajna](https://open.spotify.com/track/1SVE8yjAt2m9JWjeOaGG4Q) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [O Sajna](https://open.spotify.com/album/1TXJwhaxqLrY0xaHkkDHfK) | 4:05 | 2022-10-07 |  |
 | [O Saki Saki](https://open.spotify.com/track/1K8zYNuDywMknSJuNGoWy0) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Batla House](https://open.spotify.com/album/5GUbtvq6lcq1nTQEHq2BKe) | 3:11 | 2022-03-07 | 2022-05-05 |
 | [O Saki Saki \(From "Batla House"\)](https://open.spotify.com/track/5djZm1zFGcJUSUqbBjrAZH) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Mesmeric Voice \- Tulsi Kumar](https://open.spotify.com/album/4ImAT6aKzDUu41c3cetBOE) | 3:11 | 2022-11-30 | 2023-01-04 |

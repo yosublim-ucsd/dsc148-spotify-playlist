@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,323 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,328 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 42 | [Karenai](https://open.spotify.com/track/2WnLirfXdCS0tcSNoHUZKp) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Bandit](https://open.spotify.com/album/4kgeOVKTBb6Ng0Cz4ehinv) | 2:21 |
 | 43 | [Gensou](https://open.spotify.com/track/1CXHyiojJVoZFDBtrhqWvz) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Gensou](https://open.spotify.com/album/6cn5LTnUmif9ro3cgI3Va6) | 3:03 |
 | 44 | [僕らの純情](https://open.spotify.com/track/0fvF0nkcnCpyi80PpVn2Fq) | [髙橋多聞](https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs) | [僕らの純情](https://open.spotify.com/album/32SnAdmGCALw68HG00Gg5F) | 4:00 |
-| 45 | [ビッグバンに乗って](https://open.spotify.com/track/0UkTnIfrjY0Co11UHXc6Ad) | [シンダサカナノメ](https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh), [プランプラム](https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB) | [ビッグバンに乗って](https://open.spotify.com/album/7KtbWQhDVgGFCxz8PbXMB2) | 5:17 |
+| 45 | [ビッグバンに乗って](https://open.spotify.com/track/7fecqwLRNuN2YzPXNnoQrV) | [プランプラム](https://open.spotify.com/artist/4X3j8WQI7jBr8VYPIVIzRB), [シンダサカナノメ](https://open.spotify.com/artist/6mFmmYDWfkrnl51SxqOlzh) | [ビッグバンに乗って](https://open.spotify.com/album/01eif4G6bvCYmcaNs08zAt) | 5:17 |
 | 46 | [メロディー!](https://open.spotify.com/track/1gdYC7zGOFf0sRPwkkqbf5) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [メロディー!](https://open.spotify.com/album/3XmO2Vdj0gzXIG6qg98sZQ) | 3:35 |
 | 47 | [未明](https://open.spotify.com/track/1B4cltbGuv8o0Rq7PN5V6O) | [poor man's rose](https://open.spotify.com/artist/63OLmcaJaxBiEEq9JRl7E1) | [I'm Fine](https://open.spotify.com/album/7kp13qXZJCTqIizbBKwR2n) | 3:56 |
 | 48 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [Good luck ga kikoenai](https://open.spotify.com/track/55glgkUrI4v10ThfniBh0B) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Good luck ga kikoenai](https://open.spotify.com/album/73C2HGiOsmEmgnYeZLQwAT) | 2:31 |
 | 70 | [ASANINATTARA](https://open.spotify.com/track/3KjbxzHS3lcHfnhimI9I3g) | [umitachi](https://open.spotify.com/artist/6M3JzDIG1BTMQ7eDTrIJTI) | [ASANINATTARA](https://open.spotify.com/album/07YeKVqGvknr3fh6o94g2w) | 2:49 |
 
-Snapshot ID: `MCw4MWEwOTgzYTNiZjE2MDk5ZjFlYTRkYmY2ODczYmQ5YjQyZTZjMmVl`
+Snapshot ID: `MCwxODNlZmM1NDI4ZjRiZGFjODlkYTc3ZDU4ODM3N2I0NzlhOWUxMjQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,572 likes - 106 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,895 likes - 106 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 24 | [Reine de musette \(Valse\)](https://open.spotify.com/track/0zpr01yVgTrjoC2jJgIFMl) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [l'essentiel 2003](https://open.spotify.com/album/1iSZEiigZrhfcOAQkWFAH8) | 2:53 |
 | 25 | [Under Paris Skies](https://open.spotify.com/track/1IT59rLa3oUTJ3FF9sOUAc) | [The Paris Musette](https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0) | [Café Francaise](https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh) | 2:08 |
 | 26 | [Creme de Jour](https://open.spotify.com/track/39d0MxCV40J97M338FfSXG) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Chez Paul](https://open.spotify.com/album/17RJUjnv1A6wW91S9r20gS) | 2:56 |
-| 27 | [Alone](https://open.spotify.com/track/1LLvGyC6OfyrE06zrdkZg2) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/3B9vXnaS3md9FibgkwyczM) | 3:30 |
+| 27 | [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 |
 | 28 | [L'indifférence](https://open.spotify.com/track/0pkL7GfHF6iyAdyQujyRnK) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [La Vie En Rose](https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs) | 2:30 |
 | 29 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 |
 | 30 | [Valse violette](https://open.spotify.com/track/7xwWj1c8EgNPS8ez6xmOjd) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:34 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 105 | [Moon River](https://open.spotify.com/track/4P902IvZ9cyL3HiiuzNzYn) | [Cafe Accordion Orcherstra](https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc) | [Cinema](https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V) | 3:09 |
 | 106 | [Happy Go Lucky](https://open.spotify.com/track/1pi75PZXe1OGVX6RRUXfLx) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Paris Nights: French Gyspy Jazz](https://open.spotify.com/album/03Winiv70Ae2uEgNgDkjvN) | 1:38 |
 
-Snapshot ID: `MCw1YTdlMzNlYzg5OTJlZTlmY2RiNTQ2MDQyYmMwZGYxMzY3MWE3YzNi`
+Snapshot ID: `MCw4NWUxZjg4NjUzMmYxOWIzM2MwMTE4OWEyZDE3ZjcxNjc4YWY2MjZl`

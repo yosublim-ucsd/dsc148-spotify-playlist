@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-527 songs - 1 day 5 hr 49 min
+528 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Reasons](https://open.spotify.com/track/4FQqwtrVJFsliLCrlN0zrz) | [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [Reasons](https://open.spotify.com/album/0rHdJzccejp5TytlhCMP5Q) | 2:48 | 2020-10-13\* | 2021-10-16 |
 | [red hot winter](https://open.spotify.com/track/7BQ99tXeS5sSz5CjplV6YY) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [red hot winter](https://open.spotify.com/album/3av2LlMoOFIJKjEW11SL1o) | 3:57 | 2022-05-27 | 2022-07-29 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2021-07-10 | 2022-03-09 |
+| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-04-28 |  |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2021-06-19 | 2021-07-17 |
 | [Ripped Up T\-Shirts](https://open.spotify.com/track/2CK4P116Q5fc1QlvZTM4D3) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Ripped Up T\-Shirts](https://open.spotify.com/album/3lbqV25ud1OAok1D5dIR4E) | 2:45 | 2022-06-24 | 2022-07-19 |
 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 | 2021-06-26 | 2021-07-17 |
@@ -513,7 +514,7 @@
 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 | 2022-05-16 |  |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-07-17 | 2021-11-20 |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2021-07-17 | 2021-08-23 |
-| [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-05-27 |  |
+| [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-05-27 | 2023-05-04 |
 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 | 2020-10-13\* | 2021-07-10 |
 | [Where U Belong](https://open.spotify.com/track/2myef7k6ycOeDwRuC9pAGc) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [BRDGS](https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT) | [Where U Belong](https://open.spotify.com/album/0RicE717prGI2LHVBrQEod) | 3:58 | 2020-11-18 | 2021-07-10 |
 | [Who](https://open.spotify.com/track/0qTBo7ExHHGI7RLCk3CwDS) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Who](https://open.spotify.com/album/4d1xo2PYAhvn7Udjo1rBxs) | 3:08 | 2020-10-13\* | 2021-06-19 |

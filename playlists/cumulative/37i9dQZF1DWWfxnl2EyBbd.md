@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-484 songs - 1 day 13 hr 33 min
+485 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Babycat Please Come Back Home](https://open.spotify.com/track/5Z2jx1UikCHMjtjzPkjG5l) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Babycat Please Come Back Home](https://open.spotify.com/album/57jw52zfyQVp57sbVhdUCQ) | 5:12 | 2022-06-03 |  |
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 | 2023-02-17 |
 | [Based On Gustav](https://open.spotify.com/track/03CuJU4nQBANkiHpRrazC9) | [Sir Roland Hanna Trio](https://open.spotify.com/artist/0nZO7OnpC74SRJQDxTWf7O) | [Apres Un Reve](https://open.spotify.com/album/1hbf0va1E55xuy2vssn0D3) | 6:36 | 2022-02-10 |  |
+| [Bathtub Bourbon](https://open.spotify.com/track/6LGK2OFycwxM4ulvpEYNdt) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Bathtub Bourbon](https://open.spotify.com/album/3QPvb7pwKL9PdIqhOpmm1G) | 4:28 | 2023-04-27 |  |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-11-12 |  |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 |  |
 | [Being There](https://open.spotify.com/track/3Tx609w6szOPbdas8CYdSt) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Ground](https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu) | 4:11 | 2022-02-10 | 2023-01-11 |
@@ -413,7 +414,7 @@
 | [The Last Verse](https://open.spotify.com/track/3kmQxusMYqIaXIoWeatRDh) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:01 | 2022-02-10 | 2022-11-12 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-11-12 |  |
 | [The Longing](https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 2:35 | 2022-04-07 |  |
-| [The Lovely Image](https://open.spotify.com/track/4KXGGJ6NCYx8nQPE7RiD8y) | [VEIN Trio](https://open.spotify.com/artist/0F0UvN1yusVNSzKi5EeQMW) | [OUR ROOTS](https://open.spotify.com/album/2dhoduoGWms1qKQHcUY1V4) | 6:01 | 2022-03-17 |  |
+| [The Lovely Image](https://open.spotify.com/track/4KXGGJ6NCYx8nQPE7RiD8y) | [VEIN Trio](https://open.spotify.com/artist/0F0UvN1yusVNSzKi5EeQMW) | [OUR ROOTS](https://open.spotify.com/album/2dhoduoGWms1qKQHcUY1V4) | 6:01 | 2022-03-17 | 2023-05-04 |
 | [The Molly Pitchers](https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [The Molly Pitchers](https://open.spotify.com/album/6Ey92khwHvKwIyzRC87n38) | 2:36 | 2023-03-02 |  |
 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-11-12 |  |
 | [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-02-16 |  |

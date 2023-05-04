@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5GqVngIWBC1vb0Rk8pOdqc"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0GQIQ9SrDcRV7Uhv5dLb09"
+    },
+    {
+      "album": {
         "name": "Big boys",
         "url": "https://open.spotify.com/album/50yqUyt7aBiffET4A5nsjw"
       },
@@ -1458,6 +1476,10 @@
         {
           "name": "Dj Belite",
           "url": "https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF"
+        },
+        {
+          "name": "DNDM",
+          "url": "https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA"
         }
       ],
       "date_added": "2023-04-11",
@@ -5494,6 +5516,24 @@
       "duration_ms": 237798,
       "name": "Cria Da Ivete - Ao Vivo",
       "url": "https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu"
+    },
+    {
+      "album": {
+        "name": "CRYSTALS",
+        "url": "https://open.spotify.com/album/4QEU39Ov79qOM6oBC013Uc"
+      },
+      "artists": [
+        {
+          "name": "PR1SVX",
+          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68250,
+      "name": "CRYSTALS",
+      "url": "https://open.spotify.com/track/5bYFgV2KMMC6IVQ2gUyMGg"
     },
     {
       "album": {
@@ -10925,28 +10965,6 @@
     },
     {
       "album": {
-        "name": "hotline bling (billie version)",
-        "url": "https://open.spotify.com/album/5GqVngIWBC1vb0Rk8pOdqc"
-      },
-      "artists": [
-        {
-          "name": "hazel",
-          "url": "https://open.spotify.com/artist/1v41KOBW8UYNxdhKWtXig2"
-        },
-        {
-          "name": "instrumental version",
-          "url": "https://open.spotify.com/artist/5ZhalLwhHDnucjkq8H1Wo7"
-        }
-      ],
-      "date_added": "2023-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 72972,
-      "name": "hotline bling (billie version)",
-      "url": "https://open.spotify.com/track/0GQIQ9SrDcRV7Uhv5dLb09"
-    },
-    {
-      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -13724,7 +13742,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 105560,
       "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
       "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
@@ -13804,7 +13822,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -25610,7 +25628,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 165527,
       "name": "Todo Contigo",
       "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"

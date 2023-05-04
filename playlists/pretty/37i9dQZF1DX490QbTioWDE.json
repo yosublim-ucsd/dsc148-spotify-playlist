@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Luck Ra.",
-  "num_followers": 596989,
+  "num_followers": 597263,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmRmM2JjZDZhMTI5NDI1MGNiNjRkMmI4Y2I4YTIwMjI3N2I0NjE4",
+  "snapshot_id": "MCw2YWIxNWIxNGE4NjZiOTIxZWJjZTc2NTA1NDJjMTgwOGVkNTczYjhl",
   "tracks": [
     {
       "added_at": "2023-04-28 14:35:22",
@@ -851,38 +851,34 @@
     {
       "added_at": "2023-04-28 14:35:22",
       "album": {
-        "name": "Amor Secreto",
-        "url": "https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2"
+        "name": "Ven Pa' La Rumba",
+        "url": "https://open.spotify.com/album/2kqD9KotSt8IaeIrwqAIJi"
       },
       "artists": [
         {
           "name": "Banda XXI",
           "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        },
-        {
-          "name": "Facu Y La Fuerza",
-          "url": "https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU"
         }
       ],
-      "duration_ms": 184375,
-      "name": "Amor Secreto",
-      "url": "https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd"
+      "duration_ms": 277173,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/1l3xyA0rIKdin3AKyDyVDj"
     },
     {
       "added_at": "2023-04-28 14:35:22",
       "album": {
-        "name": "A Toda Fiesta",
-        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Amor Infiel",
-      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
+      "duration_ms": 283933,
+      "name": "Te Pido Que La Dejes",
+      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
     },
     {
       "added_at": "2023-04-28 14:35:22",
@@ -903,18 +899,18 @@
     {
       "added_at": "2023-04-28 14:35:22",
       "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
+        "name": "A Toda Fiesta",
+        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
       },
       "artists": [
         {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 283933,
-      "name": "Te Pido Que La Dejes",
-      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
+      "duration_ms": 208906,
+      "name": "Amor Infiel",
+      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
     },
     {
       "added_at": "2023-04-28 14:35:22",
@@ -987,6 +983,22 @@
     {
       "added_at": "2023-04-28 14:35:22",
       "album": {
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+    },
+    {
+      "added_at": "2023-04-28 14:35:22",
+      "album": {
         "name": "La Bachata (En Vivo)",
         "url": "https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds"
       },
@@ -1031,22 +1043,6 @@
       "duration_ms": 246600,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
-    },
-    {
-      "added_at": "2023-04-28 14:35:22",
-      "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
     },
     {
       "added_at": "2023-04-28 14:35:22",
@@ -1123,22 +1119,6 @@
     {
       "added_at": "2023-04-28 14:35:22",
       "album": {
-        "name": "La Pupera",
-        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez / los caligaris",
-          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
-        }
-      ],
-      "duration_ms": 148797,
-      "name": "La Pupera",
-      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
-    },
-    {
-      "added_at": "2023-04-28 14:35:22",
-      "album": {
         "name": "Fiesta Inolvidable Con La Barra",
         "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
       },
@@ -1151,6 +1131,22 @@
       "duration_ms": 245000,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+    },
+    {
+      "added_at": "2023-04-28 14:35:22",
+      "album": {
+        "name": "La Pupera",
+        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez / los caligaris",
+          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
+        }
+      ],
+      "duration_ms": 148797,
+      "name": "La Pupera",
+      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
     },
     {
       "added_at": "2023-04-28 14:35:22",
@@ -1475,26 +1471,6 @@
     {
       "added_at": "2023-04-28 14:35:22",
       "album": {
-        "name": "Qui\u00e9reme (Cuarteto)",
-        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Qui\u00e9reme - Cuarteto",
-      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
-    },
-    {
-      "added_at": "2023-04-28 14:35:22",
-      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
       },
@@ -1511,6 +1487,26 @@
       "duration_ms": 242950,
       "name": "Perfecto Idiota",
       "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
+    },
+    {
+      "added_at": "2023-04-28 14:35:22",
+      "album": {
+        "name": "Qui\u00e9reme (Cuarteto)",
+        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Qui\u00e9reme - Cuarteto",
+      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
     },
     {
       "added_at": "2023-04-28 14:35:22",
@@ -1687,18 +1683,18 @@
     {
       "added_at": "2023-04-28 14:35:22",
       "album": {
-        "name": "A Pura Sangre",
-        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+        "name": "Con Toda la Fuerza",
+        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
       },
       "artists": [
         {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 246360,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP"
+      "duration_ms": 187220,
+      "name": "Ma\u00f1ana sin vos",
+      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2023-04-28 14:35:22",
@@ -1719,22 +1715,6 @@
     {
       "added_at": "2023-04-28 14:35:22",
       "album": {
-        "name": "Con Toda la Fuerza",
-        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 187220,
-      "name": "Ma\u00f1ana sin vos",
-      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
-    },
-    {
-      "added_at": "2023-04-28 14:35:22",
-      "album": {
         "name": "Si Pudiera Tenerte - Camina y Ven",
         "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
       },
@@ -1747,6 +1727,22 @@
       "duration_ms": 348876,
       "name": "Si Pudiera Tenerte - Camina y Ven",
       "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
+    },
+    {
+      "added_at": "2023-04-28 14:35:22",
+      "album": {
+        "name": "A Pura Sangre",
+        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+      },
+      "artists": [
+        {
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP"
     },
     {
       "added_at": "2023-04-28 14:35:22",
@@ -1775,6 +1771,26 @@
     {
       "added_at": "2023-04-28 14:35:22",
       "album": {
+        "name": "Que Agon\u00eda / Carne y Hueso",
+        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 291313,
+      "name": "Que Agonia - Carne y Hueso",
+      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
+    },
+    {
+      "added_at": "2023-04-28 14:35:22",
+      "album": {
         "name": "Ta' Buenisimo",
         "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 235920,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
-    },
-    {
-      "added_at": "2023-04-28 14:35:22",
-      "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 196588,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
     }
   ],
   "unique_name": "100% Cuarteto",

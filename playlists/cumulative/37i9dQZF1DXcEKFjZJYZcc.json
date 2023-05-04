@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 193264,
       "name": "Bulles \u00e0 facettes",
       "url": "https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb"
@@ -1404,6 +1404,24 @@
       "duration_ms": 151561,
       "name": "Interstellar Seasons",
       "url": "https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX"
+    },
+    {
+      "album": {
+        "name": "Introspective",
+        "url": "https://open.spotify.com/album/2Mq0dTijsXUQmTB0A5tPp8"
+      },
+      "artists": [
+        {
+          "name": "Phlox Sage",
+          "url": "https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131411,
+      "name": "Introspective",
+      "url": "https://open.spotify.com/track/7d1CXUTMlMxmBWz3Mwsdvk"
     },
     {
       "album": {
@@ -2437,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Place to Remember",
+        "url": "https://open.spotify.com/album/57IkfgPpu5NwSW1AKeV9c8"
+      },
+      "artists": [
+        {
+          "name": "Rich Mortimer",
+          "url": "https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98403,
+      "name": "Place to Remember",
+      "url": "https://open.spotify.com/track/235xEvc5AelB56CsNzYew3"
+    },
+    {
+      "album": {
         "name": "Placid",
         "url": "https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63"
       },
@@ -2743,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143879,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
+    },
+    {
+      "album": {
         "name": "Sanitatem",
         "url": "https://open.spotify.com/album/5oAhY5CG5BN2Tv9zAkHHAK"
       },
@@ -2830,6 +2884,32 @@
       "duration_ms": 77400,
       "name": "Seashells",
       "url": "https://open.spotify.com/track/6BW4HpfOcd2OhezoeiFvOt"
+    },
+    {
+      "album": {
+        "name": "Secret Language (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Santos",
+          "url": "https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS"
+        },
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        },
+        {
+          "name": "The Shivers",
+          "url": "https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157521,
+      "name": "Secret Language (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL"
     },
     {
       "album": {
@@ -3435,6 +3515,28 @@
     },
     {
       "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/4RvQYoROBAm4R44nWQFVf3"
+      },
+      "artists": [
+        {
+          "name": "Hope Denison",
+          "url": "https://open.spotify.com/artist/5zKGolNyglAbVQUghoIdkZ"
+        },
+        {
+          "name": "Affinity88",
+          "url": "https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/7BqiHhhOLJ0GBW29DXfwn7"
+    },
+    {
+      "album": {
         "name": "Sweet Cherie",
         "url": "https://open.spotify.com/album/3djxMnVkD678tgExMCQqpD"
       },
@@ -3630,6 +3732,24 @@
       "duration_ms": 234116,
       "name": "Through the Leaves",
       "url": "https://open.spotify.com/track/5g6w540Qt7z0LZGqV9KBKx"
+    },
+    {
+      "album": {
+        "name": "Ti sto aspettando",
+        "url": "https://open.spotify.com/album/2jtUHaeSxNuLotdxtI4U8u"
+      },
+      "artists": [
+        {
+          "name": "Fioretta Rizzo",
+          "url": "https://open.spotify.com/artist/3aG2UYHfqXOYEJ9YzHCBqZ"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113416,
+      "name": "Ti sto aspettando",
+      "url": "https://open.spotify.com/track/6GsPgwT4H2gJI1aP6auCut"
     },
     {
       "album": {

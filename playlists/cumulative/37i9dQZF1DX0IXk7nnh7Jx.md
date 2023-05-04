@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-329 songs - 20 hr 10 min
+331 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Dying Dance](https://open.spotify.com/track/6JiJFQa5bqPHLksMcanUrv) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Dying Dance](https://open.spotify.com/album/4M4SLrXtGzkhE6qoFUFMLH) | 4:33 | 2023-03-10 | 2023-04-22 |
 | [Eloise](https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Finch](https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo) | 2:48 | 2020-12-18 | 2023-02-19 |
 | [Eloise](https://open.spotify.com/track/6J1Rk8WkZ6KOFUtlTVMoJd) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Eloise](https://open.spotify.com/album/1y72knBCC5iPB75Syr3P40) | 2:48 | 2020-12-18 | 2022-07-29 |
-| [Empty Room](https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/4kYXvyGX55u96HFpkpCMI1) | 3:11 | 2023-02-19 |  |
+| [Empty Room](https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/4kYXvyGX55u96HFpkpCMI1) | 3:11 | 2023-02-19 | 2023-05-04 |
+| [Empty Room](https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 3:11 | 2023-04-21 |  |
 | [Ese](https://open.spotify.com/track/7lNo5JKa9o3Z7hFCnLoJWu) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Ese](https://open.spotify.com/album/4tRwplns0Oy4hQZsoVQWdR) | 2:37 | 2023-02-19 |  |
 | [Even On The Worst Days](https://open.spotify.com/track/1kAKjJ8T5MRqDbSe3N1Jk6) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Even On The Worst Days](https://open.spotify.com/album/2BqoIv37AtLX7wa8ia5dve) | 3:39 | 2023-02-19 | 2023-04-09 |
 | [everything and more \- live from exit/in](https://open.spotify.com/track/4MS6fEzhIR7UYg6DL6uvec) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [i can't find the edges of you \(deluxe\)](https://open.spotify.com/album/43h54fGs1dbImmbzWrd2dX) | 3:34 | 2023-04-21 |  |
@@ -105,7 +106,8 @@
 | [Ghost of a King // Summer Sessions](https://open.spotify.com/track/0Iv7KAC1XQqEj69CQxcSRS) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Ghost of a King // Summer Sessions](https://open.spotify.com/album/4hhMQ42AlCPWq2QxXAgMMh) | 3:48 | 2023-02-24 | 2023-04-22 |
 | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 | 2020-12-18 | 2022-09-19 |
 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 | 2020-12-18 | 2023-02-19 |
-| [Good God](https://open.spotify.com/track/2qgYWwsLHakKwgR6CLArfy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Good God](https://open.spotify.com/album/03UkgWNWGbM50qfR77lBaj) | 2:42 | 2023-02-24 |  |
+| [Good God](https://open.spotify.com/track/2qgYWwsLHakKwgR6CLArfy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Good God](https://open.spotify.com/album/03UkgWNWGbM50qfR77lBaj) | 2:42 | 2023-02-24 | 2023-05-04 |
+| [Good God](https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:42 | 2023-04-21 |  |
 | [Good God](https://open.spotify.com/track/5j9qyTzGm87m41stQi6i4w) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Good God](https://open.spotify.com/album/1eNFSWubs0WkDEme69zu4j) | 2:40 | 2023-04-07 |  |
 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 | 2023-02-19 | 2023-04-22 |
 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 | 2023-03-10 |  |

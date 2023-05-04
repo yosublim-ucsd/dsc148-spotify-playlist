@@ -4,7 +4,7 @@
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-56 songs - 3 hr 31 min
+57 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Grace Lee](https://open.spotify.com/track/7em3bV28UtlFrCIrtMZk1N) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Grace Lee](https://open.spotify.com/album/7vl5GDFnXRxlviqI5APoBe) | 2:54 | 2021-06-11 |  |
 | [History of Violence](https://open.spotify.com/track/5bRpUXPoJ8DWXtD6Vx6zHd) | [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Foreigner](https://open.spotify.com/album/3WSRyaMurTii4ExUkKr9zn) | 4:00 | 2021-06-11 |  |
 | [I Am Not a Virus](https://open.spotify.com/track/0Js0zMozqoPq2jpdtnLghs) | [Jordan Vanhemert](https://open.spotify.com/artist/2Evoan7fHtMomWN9ONOsNB), [Rob Smith](https://open.spotify.com/artist/09NsR9F3P1Q9ocmJ0ULb7v), [Lisa Sung](https://open.spotify.com/artist/3L0ZbGmFzTiPaygVqAAFdg), [Kazuki Takemura](https://open.spotify.com/artist/1nu6AnXuhLN5VE8YK3Cv2x), [Andy Wheelock](https://open.spotify.com/artist/1fdOyp1kPBFm0K3ksV6sku) | [I Am Not a Virus](https://open.spotify.com/album/4ZXwN59UAoFksXPPqUyOop) | 8:42 | 2021-06-11 |  |
-| [I Belong](https://open.spotify.com/track/7wMBGhGNboFnTAibRWA1Wj) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [I Belong](https://open.spotify.com/album/39F9vuP4yAsLcp1WM8sC30) | 2:34 | 2021-06-11 |  |
+| [I Belong](https://open.spotify.com/track/6slwh87KWXC9w9ByZB24uZ) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [I Belong](https://open.spotify.com/album/4P0ZcfjazOZsKsIvGa4gEF) | 2:34 | 2021-06-11 |  |
+| [I Belong](https://open.spotify.com/track/7wMBGhGNboFnTAibRWA1Wj) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [I Belong](https://open.spotify.com/album/39F9vuP4yAsLcp1WM8sC30) | 2:34 | 2021-06-11 | 2023-05-04 |
 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 | 2021-06-11 |  |
 | [Kenji](https://open.spotify.com/track/6H503HrJOogVycvQkq2SuG) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:51 | 2021-06-11 |  |
 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 | 2021-06-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 117623,
+  "num_followers": 117811,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGQ4YTllMzY4MWU3NWVkMzBmOTM3NDI5ZDU1MDZmOTg2N2E2ZDEx",
+  "snapshot_id": "MCxjZWVkN2Y5NTI5NWM5YzA5NzgwMDM4Y2RjZGYzZmZkNjkzYjM5MDgz",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 277373,
-      "name": "The Sweetest Taboo",
-      "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
+      "duration_ms": 277373,
+      "name": "The Sweetest Taboo",
+      "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -463,6 +447,22 @@
       "duration_ms": 199179,
       "name": "Whoa",
       "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -663,22 +663,6 @@
       "duration_ms": 188242,
       "name": "Peak (Fed Up)",
       "url": "https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Love Soul",
-        "url": "https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m"
-      },
-      "artists": [
-        {
-          "name": "MoKenStef",
-          "url": "https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "He's Mine",
-      "url": "https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -999,22 +983,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "1st Born Second",
-        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
-      },
-      "artists": [
-        {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Soul Sista",
-      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -1027,6 +995,22 @@
       "duration_ms": 279360,
       "name": "Can U Handle It?",
       "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1391,6 +1375,26 @@
       "duration_ms": 249106,
       "name": "Movies",
       "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Jill Scott (feat. Jill Scott)",
+      "url": "https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL"
     }
   ],
   "unique_name": "floating",

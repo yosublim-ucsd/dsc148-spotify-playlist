@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633583,
+  "num_followers": 633561,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjhkOTBhOGJiZjAzZmUxMzBlNWRhNmExYzNlMmIwZTUxODg1MGNi",
+  "snapshot_id": "MCxkNmIzMzhmZmE0MmY0MTlmNTRmYjYzZWZhN2M2NGI5M2I1ZTU4ZWRh",
   "tracks": [
     {
       "added_at": "2023-04-28 17:17:01",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
+        "name": "The East Wind",
+        "url": "https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW"
+      },
+      "artists": [
+        {
+          "name": "Warren Blues",
+          "url": "https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Always Sleepy",
+      "url": "https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us"
+    },
+    {
+      "added_at": "2023-04-28 17:17:01",
+      "album": {
         "name": "Jubran's Lake (432hz)",
         "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 226833,
       "name": "Gleam",
       "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
-    },
-    {
-      "added_at": "2023-04-28 17:17:01",
-      "album": {
-        "name": "The East Wind",
-        "url": "https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW"
-      },
-      "artists": [
-        {
-          "name": "Warren Blues",
-          "url": "https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Always Sleepy",
-      "url": "https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us"
     },
     {
       "added_at": "2023-04-28 17:17:01",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
+        "name": "Our Powers",
+        "url": "https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6"
+      },
+      "artists": [
+        {
+          "name": "Ramel Alloy",
+          "url": "https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc"
+        }
+      ],
+      "duration_ms": 156795,
+      "name": "Our Powers",
+      "url": "https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD"
+    },
+    {
+      "added_at": "2023-04-28 17:17:01",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 172000,
       "name": "Prism",
       "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
-    },
-    {
-      "added_at": "2023-04-28 17:17:01",
-      "album": {
-        "name": "Our Powers",
-        "url": "https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6"
-      },
-      "artists": [
-        {
-          "name": "Ramel Alloy",
-          "url": "https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc"
-        }
-      ],
-      "duration_ms": 156795,
-      "name": "Our Powers",
-      "url": "https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD"
     },
     {
       "added_at": "2023-04-28 17:17:01",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
-        "name": "432 hz Frequency of Universe",
-        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
-      },
-      "artists": [
-        {
-          "name": "Binaural Landscapes",
-          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
-        }
-      ],
-      "duration_ms": 160345,
-      "name": "Precious 432 hz",
-      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
-    },
-    {
-      "added_at": "2023-04-28 17:17:01",
-      "album": {
         "name": "You're Filled With Courage",
         "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 157200,
       "name": "You're Filled With Courage",
       "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
+    },
+    {
+      "added_at": "2023-04-28 17:17:01",
+      "album": {
+        "name": "432 hz Frequency of Universe",
+        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
+      },
+      "artists": [
+        {
+          "name": "Binaural Landscapes",
+          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
+        }
+      ],
+      "duration_ms": 160345,
+      "name": "Precious 432 hz",
+      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
     },
     {
       "added_at": "2023-04-28 17:17:01",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
-        "name": "Upwards",
-        "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
-      },
-      "artists": [
-        {
-          "name": "Aiyden",
-          "url": "https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Upwards",
-      "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
-    },
-    {
-      "added_at": "2023-04-28 17:17:01",
-      "album": {
         "name": "Long Time Gone",
         "url": "https://open.spotify.com/album/66cbRBo9HSrZJjIzTGWYOM"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 153325,
       "name": "Long Time Gone",
       "url": "https://open.spotify.com/track/2ttiWUOOJeaPDsKrQlHnhJ"
+    },
+    {
+      "added_at": "2023-04-28 17:17:01",
+      "album": {
+        "name": "Upwards",
+        "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
+      },
+      "artists": [
+        {
+          "name": "Aiyden",
+          "url": "https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Upwards",
+      "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
     },
     {
       "added_at": "2023-04-28 17:17:01",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
-        "name": "Meadow / Forests",
-        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Winskog",
-          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
-        }
-      ],
-      "duration_ms": 140878,
-      "name": "Forests",
-      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
-    },
-    {
-      "added_at": "2023-04-28 17:17:01",
-      "album": {
         "name": "Amorous Rebound",
         "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 109440,
       "name": "Amorous Rebound",
       "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
+    },
+    {
+      "added_at": "2023-04-28 17:17:01",
+      "album": {
+        "name": "Meadow / Forests",
+        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Winskog",
+          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
+        }
+      ],
+      "duration_ms": 140878,
+      "name": "Forests",
+      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
     },
     {
       "added_at": "2023-04-28 17:17:01",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
-        "name": "Dreams of Mercury",
-        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
+        "name": "Time Capsule",
+        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
       },
       "artists": [
         {
-          "name": "Chim Suri",
-          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+          "name": "Moments Of Divinity",
+          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
         }
       ],
-      "duration_ms": 192748,
-      "name": "Dreams of Mercury",
-      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+      "duration_ms": 129274,
+      "name": "Time Capsule",
+      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
     },
     {
       "added_at": "2023-04-28 17:17:01",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
-        "name": "Time Capsule",
-        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
+        "name": "Dreams of Mercury",
+        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
       },
       "artists": [
         {
-          "name": "Moments Of Divinity",
-          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
         }
       ],
-      "duration_ms": 129274,
-      "name": "Time Capsule",
-      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
+      "duration_ms": 192748,
+      "name": "Dreams of Mercury",
+      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
     },
     {
       "added_at": "2023-04-28 17:17:01",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
-        "name": "Distant Voices",
-        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
-      },
-      "artists": [
-        {
-          "name": "Billie Mercedez",
-          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Distant Voices",
-      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
-    },
-    {
-      "added_at": "2023-04-28 17:17:01",
-      "album": {
         "name": "Would I Bother",
         "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 160941,
       "name": "Would I Bother",
       "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
+    },
+    {
+      "added_at": "2023-04-28 17:17:01",
+      "album": {
+        "name": "Distant Voices",
+        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
+      },
+      "artists": [
+        {
+          "name": "Billie Mercedez",
+          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Distant Voices",
+      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
     },
     {
       "added_at": "2023-04-28 17:17:01",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
-        "name": "Into Gratitude",
-        "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Into Gratitude - Stripped",
-      "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
-    },
-    {
-      "added_at": "2023-04-28 17:17:01",
-      "album": {
         "name": "Open Sky",
         "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 267756,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
+    },
+    {
+      "added_at": "2023-04-28 17:17:01",
+      "album": {
+        "name": "Into Gratitude",
+        "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Into Gratitude - Stripped",
+      "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
     },
     {
       "added_at": "2023-04-28 17:17:01",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-04-28 17:17:01",
       "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 205505,
-      "name": "Oriental Journey",
-      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
-    },
-    {
-      "added_at": "2023-04-28 17:17:01",
-      "album": {
         "name": "Dramatique Musique Classique",
         "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 208596,
       "name": "Pavane, Op. 50",
       "url": "https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo"
+    },
+    {
+      "added_at": "2023-04-28 17:17:01",
+      "album": {
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "duration_ms": 205505,
+      "name": "Oriental Journey",
+      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
     },
     {
       "added_at": "2023-04-28 17:17:01",

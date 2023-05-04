@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Benden Bir Tane Daha Yok",
+        "url": "https://open.spotify.com/album/1hFtzZ9LgsPTjKdiTAAil0"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139304,
+      "name": "Benden Bir Tane Daha Yok",
+      "url": "https://open.spotify.com/track/38t5dhK8APbBXzqGpPgTJP"
+    },
+    {
+      "album": {
         "name": "beni beni",
         "url": "https://open.spotify.com/album/7MxTviVQPnWa4GLQNjJ1fH"
       },
@@ -6908,7 +6926,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-04",
       "duration_ms": 179054,
       "name": "Kor",
       "url": "https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh"

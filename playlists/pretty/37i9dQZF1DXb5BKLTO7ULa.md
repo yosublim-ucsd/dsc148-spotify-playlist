@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Kevin & Yade Lauren
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,691 likes - 103 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,712 likes - 103 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 102 | [Stopped In My Tracks](https://open.spotify.com/track/7rnxdzeSBN96h7OZN9rhk5) | [George & the Rams](https://open.spotify.com/artist/0PQGHTjxmDXwTOq6a5AS4z) | [George & the Rams](https://open.spotify.com/album/4tgoT62h2i1ZAtxLaW7mS4) | 4:23 |
 | 103 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 
-Snapshot ID: `MCw2OWVkNzY3MDI4NjhkNTg2OTY3NTJhMTBkNDFkM2NkMDE3OGQyN2Mx`
+Snapshot ID: `MCxlOThmN2MwN2IxZjNlOTAzZmFkN2RiYjI3ZTVhMzNmNTcwNjQ5MDEz`

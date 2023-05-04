@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,891 likes - 51 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,996 likes - 51 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 50 | [Bad Attitude](https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 4:46 |
 | 51 | [April \- 2000 Remaster](https://open.spotify.com/track/242juCDbq2XKb7FaPALYfO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple](https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc) | 12:10 |
 
-Snapshot ID: `MjgwNTA1MDYsMDAwMDAwMDBmNTQyNTAzMjZlMWFiNzI0MDYzMzJlYzNhNWZhYmY3YQ==`
+Snapshot ID: `MjgwNTE5MzMsMDAwMDAwMDA1ZGUzMWM0NGY4ZTBjYmNlNzZjYjA5MzJiOWY2NGVhMQ==`
