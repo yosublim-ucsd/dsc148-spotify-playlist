@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz, Maxximal, Mc Hollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,197 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,305 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Expression \- Original Mix](https://open.spotify.com/track/58xbGEktCH3q4LGYDqycZR) | [Andre Longo](https://open.spotify.com/artist/4lyER8wnQt2Im68h4PEVK3) | [Expression](https://open.spotify.com/album/72nnT5nIwBECGvbJYewzQ9) | 4:22 |
 | 50 | [Falling for You](https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Briana](https://open.spotify.com/artist/4EK5SSlytCE7of3wEUqiDE) | [Falling for You](https://open.spotify.com/album/3PlHIJHpzzxNtRzzCy5YUr) | 2:20 |
 
-Snapshot ID: `MCxjMDU4MGEzNzU3MjE1MWQxZTQxNTg0MjhiODgzNzFiMjQ1Zjc1NmQw`
+Snapshot ID: `MCxlMjIzZWJiMTA2MmYwMmU3ZTUwMDA1MTY5NWFlY2JhYjVkMjk1Zjgw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mazyn\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,174 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,265 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 |
 | 50 | [Mermaid datni l'darha](https://open.spotify.com/track/5DUguL7lB4cREG7LUjntlU) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [ODE.](https://open.spotify.com/album/0pZ3DLUZg5QWIFHTpRUmWM) | 3:16 |
 
-Snapshot ID: `MCw1NmY2NDhjODFiY2Q5YjA2NGQ3NzA5ZGNjMmU2OWUzMTI2MjVlNzEz`
+Snapshot ID: `MCxmMzI5NjliODAyYmU1MDA0YmVlNjhhNDE2ZjUxOTNmYzRlMGViM2Nj`

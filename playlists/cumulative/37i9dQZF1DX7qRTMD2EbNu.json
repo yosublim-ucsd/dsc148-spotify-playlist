@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel?si=e3jjRqncRZ6se2uZ1rfzKA\"> E.L</a> ",
+  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=B-gkqPYAQ3CDQqrj40ZpDQ\"> Kwesi Arthur</a> ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -679,6 +679,28 @@
     },
     {
       "album": {
+        "name": "BEEN ONE",
+        "url": "https://open.spotify.com/album/3nhemfoUj5gWPmzAwg6nHg"
+      },
+      "artists": [
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        },
+        {
+          "name": "Trig Triga",
+          "url": "https://open.spotify.com/artist/1B9BzKM9kFTw5vjRsXUdff"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "Call My Name (Odoyewu)",
+      "url": "https://open.spotify.com/track/661N1vOxyokH5dQwNqlryC"
+    },
+    {
+      "album": {
         "name": "Straight Outta Kumerica 2",
         "url": "https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv"
       },
@@ -1319,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/78CIzED6KQqMbQPikwzVVL"
+      },
+      "artists": [
+        {
+          "name": "Modulo Thegabwoy",
+          "url": "https://open.spotify.com/artist/2EY9vekjnom42RBLKigfwX"
+        },
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216058,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/63yk7vrJHUo3BiQIwI35tV"
+    },
+    {
+      "album": {
         "name": "Drunkard",
         "url": "https://open.spotify.com/album/5GqCEW2VDzGSu9Mtdud9bm"
       },
@@ -1546,6 +1590,28 @@
       "duration_ms": 122517,
       "name": "Feelingx",
       "url": "https://open.spotify.com/track/5xYLT71o8zWLyyiwIraq9v"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2hlL9lYpRlJrjtlUeazYz4"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/75PVJ4G4p6lBGSIOn1jhoc"
     },
     {
       "album": {
@@ -2130,7 +2196,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 161427,
       "name": "Jeje (Easy)",
       "url": "https://open.spotify.com/track/6siJBdHjgN9jy9n04yxA9y"
@@ -2296,10 +2362,36 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 167999,
       "name": "Kiddie Time",
       "url": "https://open.spotify.com/track/2LHTgvLZjSNNyq7nREUcqL"
+    },
+    {
+      "album": {
+        "name": "King Talk (feat. Shaquille O'Neal)",
+        "url": "https://open.spotify.com/album/3oPsodjt0shk7vNLkFJIz1"
+      },
+      "artists": [
+        {
+          "name": "Blackway",
+          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        {
+          "name": "KoKo ",
+          "url": "https://open.spotify.com/artist/1A4NyrcivdiIQ0INQm6ICx"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188416,
+      "name": "King Talk (feat. Shaquille O'Neal)",
+      "url": "https://open.spotify.com/track/38I6Pi2BlPTlLklfEfAfb7"
     },
     {
       "album": {
@@ -2570,7 +2662,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 179915,
       "name": "Maame Water",
       "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
@@ -2778,7 +2870,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 146571,
       "name": "Nana Ama",
       "url": "https://open.spotify.com/track/29JngRGlhaIXZac2GqFae8"
@@ -2976,7 +3068,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 146808,
       "name": "Odorkor",
       "url": "https://open.spotify.com/track/4mqdVcOKUmpHwsyoeovGxn"
@@ -3233,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
+    },
+    {
+      "album": {
         "name": "The.rap.y",
         "url": "https://open.spotify.com/album/5imTQerf20f3s4TkWwlKaY"
       },
@@ -3408,7 +3518,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 211200,
       "name": "REAP",
       "url": "https://open.spotify.com/track/5Vyk1ZOgNJ7bNHEYNTbjjh"
@@ -3934,6 +4044,24 @@
       "duration_ms": 256782,
       "name": "Streets Ayeshi",
       "url": "https://open.spotify.com/track/0wPU1eNyf9rT9oPnOUdVad"
+    },
+    {
+      "album": {
+        "name": "SUV",
+        "url": "https://open.spotify.com/album/54RojlSYjybyjnpiwy18tE"
+      },
+      "artists": [
+        {
+          "name": "Sofie",
+          "url": "https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178003,
+      "name": "SUV",
+      "url": "https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN"
     },
     {
       "album": {

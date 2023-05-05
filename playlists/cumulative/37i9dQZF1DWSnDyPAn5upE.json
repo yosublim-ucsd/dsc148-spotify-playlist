@@ -852,6 +852,28 @@
     {
       "album": {
         "name": "Eyeline",
+        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
+      },
+      "artists": [
+        {
+          "name": "LEYA",
+          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104544,
+      "name": "DOG",
+      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
+    },
+    {
+      "album": {
+        "name": "Eyeline",
         "url": "https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx"
       },
       "artists": [
@@ -2630,7 +2652,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 260199,
       "name": "Sudany",
       "url": "https://open.spotify.com/track/2zY9uXtDJ5Qf4XVXwDlc78"

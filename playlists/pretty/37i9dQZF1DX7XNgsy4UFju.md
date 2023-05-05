@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Thundercat, Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,124 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,119 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Friends \(feat\. Tim Ayre\)](https://open.spotify.com/track/0i4XXy3wOWpDHmFIO0jyTC) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Friends \(feat\. Tim Ayre\)](https://open.spotify.com/album/1XYpFKvCy2bL6XyuhAJKVl) | 3:19 |
 | 100 | [Far From Here](https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Far From Here](https://open.spotify.com/album/31INlZI8RSHleg9Tiq5aF1) | 4:27 |
 
-Snapshot ID: `MCwxZTVjNDliN2FmN2E4ZDYxY2E4ZTc1M2YyZDAxZTU5MWZmNGZiNGRj`
+Snapshot ID: `MCw4NjVkOTZiNjVjMjFmMzIzN2EwM2RjZjYzYzFlM2UzZmIyN2Y5MzQy`

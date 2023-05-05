@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ellie Goulding",
-  "num_followers": 3414689,
+  "num_followers": 3415096,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDQzMmQ5YjFhY2M1ZjIzYzU5ODkyZTcwMGRiYjk3ZmViZjc3OTJm",
+  "snapshot_id": "MCwzZTIxNzk3MTJhNzU3MDVlZmNlYjQ2YzliNDY4M2RiNjdiZGY2ZDFi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "How Do I Say Goodbye (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/2l9HABqiwDkL7oVGAiW2mV"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 225563,
-      "name": "How Do I Say Goodbye - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1ps5972g02HgOtvjE8OMfz"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Dawn FM (Alternate World)",
         "url": "https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 238032,
       "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
       "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "How Do I Say Goodbye (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/2l9HABqiwDkL7oVGAiW2mV"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 225563,
+      "name": "How Do I Say Goodbye - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1ps5972g02HgOtvjE8OMfz"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1279,6 +1279,30 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Moth To A Flame (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 389956,
+      "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
+      "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Million Dollar Baby (Nathan Dawe Remix)",
         "url": "https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T"
       },
@@ -1315,30 +1339,6 @@
       "duration_ms": 187923,
       "name": "Original Sin - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/0bczsNCHpJzjUnI45UShrx"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Moth To A Flame (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 389956,
-      "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
-      "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1475,8 +1475,8 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Lavender Haze (Remixes)",
-        "url": "https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa"
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
       },
       "artists": [
         {
@@ -1484,13 +1484,13 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 187510,
-      "name": "Lavender Haze - Snakehips Remix",
-      "url": "https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs"
+      "duration_ms": 215696,
+      "name": "Anti-Hero - Jayda G Remix",
+      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1603,6 +1603,46 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "what would you do? (Galantis Remix)",
+        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "what would you do? - Galantis Remix",
+      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Feels This Good (feat. Stefflon Don) [Jodie Harsh Remix]",
         "url": "https://open.spotify.com/album/5bfEnAB7cl2twqMQoS03jG"
       },
@@ -1635,66 +1675,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Anti-Hero (Remixes)",
-        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 215696,
-      "name": "Anti-Hero - Jayda G Remix",
-      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "what would you do? (Galantis Remix)",
-        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "what would you do? - Galantis Remix",
-      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Pointless (Strings Acoustic)",
-        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Pointless - Madism Remix",
-      "url": "https://open.spotify.com/track/5vNLeQEw1F9tcHC3CR7WeA"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Let Somebody Go (Kygo Remix)",
         "url": "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF"
       },
@@ -1719,26 +1699,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Cool Girl (Nora En Pure Remix)",
-        "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Cool Girl - Nora En Pure Remix",
-      "url": "https://open.spotify.com/track/1iJmr8jaTgrFThewtwrLoF"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "You Only Love Me (Shift K3Y Remix)",
         "url": "https://open.spotify.com/album/5iyHHHVkXMwu0apCuk1VCl"
       },
@@ -1755,6 +1715,46 @@
       "duration_ms": 143594,
       "name": "You Only Love Me - Shift K3Y Remix",
       "url": "https://open.spotify.com/track/2ROiwPRPiUzrS1fRNX5z8Y"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Pointless (Strings Acoustic)",
+        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Pointless - Madism Remix",
+      "url": "https://open.spotify.com/track/5vNLeQEw1F9tcHC3CR7WeA"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Cool Girl (Nora En Pure Remix)",
+        "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 187804,
+      "name": "Cool Girl - Nora En Pure Remix",
+      "url": "https://open.spotify.com/track/1iJmr8jaTgrFThewtwrLoF"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1995,30 +1995,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Don't Forget My Love - John Summit Remix",
-      "url": "https://open.spotify.com/track/1iKiLPkFnYhbCm5uvaDwjS"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Attention (with Justin Bieber) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
       },
@@ -2043,6 +2019,30 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Don't Forget My Love - John Summit Remix",
+      "url": "https://open.spotify.com/track/1iKiLPkFnYhbCm5uvaDwjS"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "So Good (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
       },
@@ -2059,26 +2059,6 @@
       "duration_ms": 189143,
       "name": "So Good - Jax Jones Remix",
       "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Heart Wants What It Wants (MK Remix)",
-        "url": "https://open.spotify.com/album/6CYK3bpNK3hudFmMwVuQas"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 220916,
-      "name": "Heart Wants What It Wants - MK Remix",
-      "url": "https://open.spotify.com/track/5Mm3kAVo1cDWwdiciiwsJP"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -2107,6 +2087,26 @@
       "duration_ms": 159375,
       "name": "Caught Up (feat. Olivia O'Brien) - Zack Martino x Leondis Remix",
       "url": "https://open.spotify.com/track/6rHJ268lwbpsIvdljb9lKR"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Heart Wants What It Wants (MK Remix)",
+        "url": "https://open.spotify.com/album/6CYK3bpNK3hudFmMwVuQas"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 220916,
+      "name": "Heart Wants What It Wants - MK Remix",
+      "url": "https://open.spotify.com/track/5Mm3kAVo1cDWwdiciiwsJP"
     },
     {
       "added_at": "2023-04-28 04:01:00",

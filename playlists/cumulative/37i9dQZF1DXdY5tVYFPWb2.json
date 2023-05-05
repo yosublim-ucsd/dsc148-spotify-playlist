@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 250400,
       "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
       "url": "https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25"
@@ -5588,6 +5588,28 @@
       "duration_ms": 229250,
       "name": "SUMMER SUNDAY SMILE",
       "url": "https://open.spotify.com/track/2kiAazf1PebCp7zLTmvXTr"
+    },
+    {
+      "album": {
+        "name": "Sunday Cruisin'",
+        "url": "https://open.spotify.com/album/1yhQHrMfcwUcblVzmsTqAR"
+      },
+      "artists": [
+        {
+          "name": "Funkindustry",
+          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
+        },
+        {
+          "name": "JiLL-Decoy association",
+          "url": "https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "Sunday Cruisin'",
+      "url": "https://open.spotify.com/track/6PqeczYy3ZEvRwYPUK3tk6"
     },
     {
       "album": {

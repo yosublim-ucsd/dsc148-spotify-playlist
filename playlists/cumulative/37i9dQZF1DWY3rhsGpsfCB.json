@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 182400,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m"
@@ -2076,6 +2076,32 @@
       "duration_ms": 152523,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
+    },
+    {
+      "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/5yt8yhFIRTXMtBnnqcD3Ul"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155550,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/6LVQaE9vOEGxFKQ3tTWU0B"
     },
     {
       "album": {
@@ -2400,7 +2426,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 202372,
       "name": "Jane",
       "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
@@ -3014,7 +3040,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 156494,
       "name": "Many Man",
       "url": "https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S"
@@ -3545,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "O.D",
+        "url": "https://open.spotify.com/album/3OrliCsJYTkwGotMIsXNZk"
+      },
+      "artists": [
+        {
+          "name": "Basthma",
+          "url": "https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv"
+        },
+        {
+          "name": "Unjust",
+          "url": "https://open.spotify.com/artist/30sxUUgPGms8IEMzdFTl9k"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183233,
+      "name": "O.D",
+      "url": "https://open.spotify.com/track/3nmMU6AXk6Sok53h1QTMlR"
+    },
+    {
+      "album": {
         "name": "Riddim 5",
         "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
       },
@@ -3662,6 +3710,28 @@
       "duration_ms": 195213,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
+    },
+    {
+      "album": {
+        "name": "WOIIYOIE VOL. 2 - INTENSE CITY",
+        "url": "https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "Our Souls Cry (feat. Obongjayar)",
+      "url": "https://open.spotify.com/track/7cnlFOceSNmLDJVsIffrGd"
     },
     {
       "album": {
@@ -4356,7 +4426,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 194285,
       "name": "Secret",
       "url": "https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw"
@@ -4559,6 +4629,28 @@
     },
     {
       "album": {
+        "name": "So Dizzy So High",
+        "url": "https://open.spotify.com/album/4UDf0aIXNVUHEgAw6ECpXj"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "jamie.",
+          "url": "https://open.spotify.com/artist/4z9CjI5S486NxVYEf1H4Qz"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "So Dizzy So High",
+      "url": "https://open.spotify.com/track/4iLm65EXAB13FG1fp8JSS3"
+    },
+    {
+      "album": {
         "name": "Sober (With Jeremih)",
         "url": "https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq"
       },
@@ -4614,6 +4706,24 @@
       "duration_ms": 259673,
       "name": "Somali Rose",
       "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
+    },
+    {
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157722,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
       "album": {
@@ -5450,7 +5560,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 165161,
       "name": "Why",
       "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"

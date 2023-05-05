@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "4CERTAIN",
+        "url": "https://open.spotify.com/album/6zdsWREkyCF7iK4UKaPKyG"
+      },
+      "artists": [
+        {
+          "name": "XREDO",
+          "url": "https://open.spotify.com/artist/2mwnvaTg1PpXVLTOV35uat"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "4CERTAIN",
+      "url": "https://open.spotify.com/track/7127v7qeXWKa1ACWIJS9fo"
+    },
+    {
+      "album": {
         "name": "5FT FREESTYLE",
         "url": "https://open.spotify.com/album/3lSf2OiUqvh5VQUHo27fxv"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 151048,
       "name": "Drug Me",
       "url": "https://open.spotify.com/track/6vxHk7yvqt2BwVJxYHHibG"
@@ -5751,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "Independent",
+        "url": "https://open.spotify.com/album/1r5LnMShpbHLrgLQgTk8fS"
+      },
+      "artists": [
+        {
+          "name": "That Kid Kearve",
+          "url": "https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246214,
+      "name": "One of the Best",
+      "url": "https://open.spotify.com/track/5DYSXdN7ZNVhLricOEHC2N"
+    },
+    {
+      "album": {
         "name": "Only Gang (Members Only)",
         "url": "https://open.spotify.com/album/7lGMGfjwexvAV9hxsM4k4A"
       },
@@ -6064,6 +6100,24 @@
       "duration_ms": 134265,
       "name": "Playing For Keeps",
       "url": "https://open.spotify.com/track/1vF8QBmwJqzaB3AQkRqiBP"
+    },
+    {
+      "album": {
+        "name": "plug call",
+        "url": "https://open.spotify.com/album/6mUqZUlaAaHlWEfdm39k3j"
+      },
+      "artists": [
+        {
+          "name": "Baby Lane",
+          "url": "https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154215,
+      "name": "plug call",
+      "url": "https://open.spotify.com/track/59hWa9eLP3jw1eIycAx28H"
     },
     {
       "album": {
@@ -8231,6 +8285,24 @@
     },
     {
       "album": {
+        "name": "Turn Me Up",
+        "url": "https://open.spotify.com/album/2K62QWxt9PRLH5unXFeGXb"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126073,
+      "name": "Turn Me Up",
+      "url": "https://open.spotify.com/track/5l9OQXFhZaaA80JCz0fPwr"
+    },
+    {
+      "album": {
         "name": "U AIN'T SH!T",
         "url": "https://open.spotify.com/album/7sAsB5uv491bSuYw6ZsOwm"
       },
@@ -8340,6 +8412,24 @@
       "duration_ms": 124542,
       "name": "Up The Score",
       "url": "https://open.spotify.com/track/3ny6FNv232uXYHEEKyZjxp"
+    },
+    {
+      "album": {
+        "name": "VANDETTA",
+        "url": "https://open.spotify.com/album/1saatmjyBqJUu2WA29HI3H"
+      },
+      "artists": [
+        {
+          "name": "Tmk",
+          "url": "https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176748,
+      "name": "VANDETTA",
+      "url": "https://open.spotify.com/track/1qhvll21IN5QWvE9lzLMb3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2866,
+  "num_followers": 2880,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDVmZTliNzMxZjA2YmExYzAyNzYzNDNjNzQ5OTg1MDA5ODZiMTZi",
+  "snapshot_id": "MCxmOTA0MGIwMDg3MWY1ZDRlNDcyMmQwY2I5NTE4YTExMWIwMzk5NzNh",
   "tracks": [
     {
       "added_at": "2023-04-27 22:01:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "When Times Get Rough",
-        "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
-      },
-      "artists": [
-        {
-          "name": "Jana Mila",
-          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
-        }
-      ],
-      "duration_ms": 136416,
-      "name": "When Times Get Rough",
-      "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "I Feel Alright",
         "url": "https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 176346,
       "name": "Feel Alright",
       "url": "https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "When Times Get Rough",
+        "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
+      },
+      "artists": [
+        {
+          "name": "Jana Mila",
+          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
+        }
+      ],
+      "duration_ms": 136416,
+      "name": "When Times Get Rough",
+      "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Ballad Of Easy Rider",
-        "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
-      },
-      "artists": [
-        {
-          "name": "Mell & Vintage Future",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 125800,
-      "name": "Ballad Of Easy Rider",
-      "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Buck",
         "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 124986,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Ballad Of Easy Rider",
+        "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
+      },
+      "artists": [
+        {
+          "name": "Mell & Vintage Future",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "Ballad Of Easy Rider",
+      "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -435,38 +435,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
       },
@@ -503,6 +471,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -587,38 +587,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
-      },
-      "artists": [
-        {
-          "name": "Rich McFeather",
-          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
-        }
-      ],
-      "duration_ms": 215553,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Burning Down the Prairie",
-        "url": "https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Burning Down the Prairie",
-      "url": "https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Down Every Road",
         "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
       },
@@ -639,6 +607,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
+      },
+      "artists": [
+        {
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
+        }
+      ],
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 228431,
       "name": "This Time",
       "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Burning Down the Prairie",
+        "url": "https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Burning Down the Prairie",
+      "url": "https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Once Upon A Town",
-        "url": "https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Once Upon A Town",
-      "url": "https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "In The Morning, When We Rise",
         "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 232725,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Once Upon A Town",
+        "url": "https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Once Upon A Town",
+      "url": "https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3"
     },
     {
       "added_at": "2023-04-27 22:01:00",

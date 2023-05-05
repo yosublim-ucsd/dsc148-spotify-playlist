@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-277 songs - 16 hr 12 min
+278 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [So Good](https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [So Good](https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD) | 3:16 | 2021-05-21 |  |
 | [Someone New](https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Someone New](https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy) | 2:56 | 2022-06-10 |  |
 | [Something Serious](https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Reinwald Kranner](https://open.spotify.com/artist/5QcpYyN9rZK1f6X7Z1JBid), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Something Serious](https://open.spotify.com/album/1IqEauUVodVfkZDadKJ4mg) | 3:10 | 2022-07-15 |  |
-| [Speed Dating An Arsonist](https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Speed Dating An Arsonist](https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9) | 5:30 | 2021-10-22 |  |
+| [Speed Dating An Arsonist](https://open.spotify.com/track/2FhInxwW01SyhpDp9LbInt) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Swagger & Stroll Down The Rabbit Hole](https://open.spotify.com/album/3ZAWIIIWwe5ZmfY4fLZ8Y0) | 5:30 | 2022-11-07 |  |
+| [Speed Dating An Arsonist](https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Speed Dating An Arsonist](https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9) | 5:30 | 2021-10-22 | 2023-05-05 |
 | [Spook](https://open.spotify.com/track/2B93XfJsX1F2wnisPmtHhF) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Spooktober: Halloween Electro Swing](https://open.spotify.com/album/40m7XojB60MxvDnpsUtoj7) | 4:17 | 2022-10-12 | 2022-11-08 |
 | [Spooky \(Duke Skellington Remix\)](https://open.spotify.com/track/6XSKfR48lYGFOaaBWEMWOb) | [Kumiho](https://open.spotify.com/artist/4t0HSuBBnJfGBkQe4cAaCm), [Duke Skellington](https://open.spotify.com/artist/6L0Fw5vMpxxtYcjzxr9Wtk) | [Nine Tails: Retold](https://open.spotify.com/album/1LzVHIVmnN1pEXRN1SpVC8) | 3:47 | 2022-10-12 | 2022-11-08 |
 | [Spooky Swing \- Electro Swing Mix](https://open.spotify.com/track/5a7eIngUFfHLOXYYB4ntTt) | [Captain Matt](https://open.spotify.com/artist/69Am3YopMiUjB26YuV7M0B), [Electro Swing Thing](https://open.spotify.com/artist/4UyuEEQeOMTpWGZH3u9XzZ) | [Spooky Swing](https://open.spotify.com/album/49Cw0kwcQeScZc8oHlyYf2) | 2:24 | 2022-10-12 | 2022-11-08 |

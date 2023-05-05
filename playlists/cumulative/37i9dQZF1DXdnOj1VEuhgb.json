@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: G\u00fcne\u015f ",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive x Ohash",
   "name": "NKVT",
   "tracks": [
     {
@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "Anlamak Zor",
+        "url": "https://open.spotify.com/album/0uNDV20goA1DSqBV0fhaUw"
+      },
+      "artists": [
+        {
+          "name": "Diego",
+          "url": "https://open.spotify.com/artist/6N1nFVV7Uz1vCl2uPxdF27"
+        },
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157184,
+      "name": "Anlamak Zor",
+      "url": "https://open.spotify.com/track/2tuvKXp73LMr5RGemLqf0Q"
+    },
+    {
+      "album": {
         "name": "ANLAR ANLAYAN D\u0130L\u0130MDEN",
         "url": "https://open.spotify.com/album/0dTlgsIBAc93WHZE89WZUW"
       },
@@ -132,7 +154,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 178378,
       "name": "ANLARSIN",
       "url": "https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK"
@@ -234,7 +256,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 141818,
       "name": "BBS",
       "url": "https://open.spotify.com/track/1VuCRbsBKkwjA50kwOQVvT"
@@ -318,6 +340,24 @@
       "duration_ms": 129929,
       "name": "DACIA",
       "url": "https://open.spotify.com/track/0okYvXKPqzZpj3iZrJH6JK"
+    },
+    {
+      "album": {
+        "name": "DEFOL",
+        "url": "https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm"
+      },
+      "artists": [
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173987,
+      "name": "DEFOL",
+      "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
     },
     {
       "album": {
@@ -574,7 +614,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 188680,
       "name": "Gelmelisin",
       "url": "https://open.spotify.com/track/5E8dUYbcE3sAfwKcVOyp0h"
@@ -719,6 +759,28 @@
     },
     {
       "album": {
+        "name": "Gospel",
+        "url": "https://open.spotify.com/album/12vgIrujNtdV2yZEyNm6WZ"
+      },
+      "artists": [
+        {
+          "name": "Ohash",
+          "url": "https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/4cUBqMp6n4B2L4Mmr1JcLr"
+    },
+    {
+      "album": {
         "name": "g\u00f6zlerindeki ay",
         "url": "https://open.spotify.com/album/3TMj9dY2lRO6TriDsDQWr6"
       },
@@ -792,7 +854,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 178560,
       "name": "G\u00fcc\u00fcm Yerinde",
       "url": "https://open.spotify.com/track/6uVRxLkozk0qSdqCrdeP3P"
@@ -922,7 +984,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 161857,
       "name": "Inzaghi",
       "url": "https://open.spotify.com/track/4k0WSfjrFeVMMrGg6CEAH5"
@@ -940,7 +1002,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 119189,
       "name": "\u0130llegale",
       "url": "https://open.spotify.com/track/0YypAwSTM49KfC5bgHKgZ6"
@@ -1173,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Kanguru & Korkma",
+        "url": "https://open.spotify.com/album/4gE93TmnTMHh2dUqLdHnWC"
+      },
+      "artists": [
+        {
+          "name": "BEGE",
+          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Korkma",
+      "url": "https://open.spotify.com/track/4PHNtKeSSLIaT2sl36pGfH"
+    },
+    {
+      "album": {
         "name": "KUM SAAT\u0130",
         "url": "https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8"
       },
@@ -1202,7 +1282,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 211040,
       "name": "Ku\u011fulu Park",
       "url": "https://open.spotify.com/track/4BeGu2WQNlpiREpmWGHD8U"
@@ -1430,7 +1510,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 124173,
       "name": "olsun",
       "url": "https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A"
@@ -1532,7 +1612,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 176708,
       "name": "PARA",
       "url": "https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21"
@@ -1572,6 +1652,24 @@
       "duration_ms": 110500,
       "name": "Patron",
       "url": "https://open.spotify.com/track/7HBvkEYHY8rhn4puR1TcjV"
+    },
+    {
+      "album": {
+        "name": "KAPITAL",
+        "url": "https://open.spotify.com/album/34TsaH9wHudgsQqrSGj1VT"
+      },
+      "artists": [
+        {
+          "name": "masthon",
+          "url": "https://open.spotify.com/artist/7sEM2coB7d8PGVKBbyBWD8"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150961,
+      "name": "PAVYON",
+      "url": "https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J"
     },
     {
       "album": {
@@ -1815,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "S\u00d6YLENEYD\u0130BU?",
+        "url": "https://open.spotify.com/album/6CC3P0r7TWplXSDtFycHfU"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125973,
+      "name": "S\u00d6YLENEYD\u0130BU?",
+      "url": "https://open.spotify.com/track/3Z3R4NcwpanDzsnZccpnoc"
+    },
+    {
+      "album": {
         "name": "TALIBANA",
         "url": "https://open.spotify.com/album/4wvjyNp47Q9uvY62To3fYq"
       },
@@ -1972,7 +2088,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 156636,
       "name": "UNUTTUM",
       "url": "https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU"
@@ -2142,7 +2258,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 187333,
       "name": "yok muydu vaktin bana?",
       "url": "https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm"

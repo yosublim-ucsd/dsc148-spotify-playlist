@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-615 songs - 1 day 13 hr 42 min
+616 songs - 1 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Frozen \- Full Fire Mix](https://open.spotify.com/track/2ZWdUSlnSgHv2pxqMieKWM) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Frozen \(Full Fire Mix\)](https://open.spotify.com/album/0igSa7slNSqLnSlAIYFhMb) | 4:26 | 2022-01-07 | 2023-03-04 |
 | [Future Fantasy](https://open.spotify.com/track/3HBbA4NCnqin4hI1oDG9UP) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW) | [Future Fantasy](https://open.spotify.com/album/6Toau64CPMcbI0TMCMISpn) | 3:36 | 2021-12-17 | 2023-02-25 |
 | [Galactica](https://open.spotify.com/track/7DCNxTtxQpyO08du0nvdxM) | [Arctic Moon](https://open.spotify.com/artist/1uAQR5uku7pQGEiaG7VqiE), [Bruno Oloviani](https://open.spotify.com/artist/1JLm7d4tLJiFzxCwgngt2i) | [Galactica](https://open.spotify.com/album/03Tfcxq7RR3UYNoR7EbYvI) | 3:56 | 2021-12-17 | 2022-03-12 |
-| [Gardenland \- Radio Edit](https://open.spotify.com/track/1cqwOJCE6Yz3xBhO6sX9fH) | [Eugenio Tokarev](https://open.spotify.com/artist/0ExSQUT5mJ2vFIBe7GqLM4) | [Gardenland / Hypnodance](https://open.spotify.com/album/1GWE8hZDqbBp1FPfdLVRGs) | 3:17 | 2023-04-07 |  |
+| [Gardenland \- Radio Edit](https://open.spotify.com/track/1cqwOJCE6Yz3xBhO6sX9fH) | [Eugenio Tokarev](https://open.spotify.com/artist/0ExSQUT5mJ2vFIBe7GqLM4) | [Gardenland / Hypnodance](https://open.spotify.com/album/1GWE8hZDqbBp1FPfdLVRGs) | 3:17 | 2023-04-07 | 2023-05-05 |
 | [Gasoline](https://open.spotify.com/track/1EJaXrMHJK1yYZ9P1NHRA6) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [Crowd+Ctrl](https://open.spotify.com/artist/2Jgx1nqdBfRJCktEPjLreh), [88Birds](https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1) | [Gasoline](https://open.spotify.com/album/01dCdpLI5TmGvoNPEGl6Z8) | 3:48 | 2022-11-04 | 2023-01-14 |
 | [Get A Little Closer](https://open.spotify.com/track/2P0gnl6h8zELPa7XVPY4Qm) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [Get A Little Closer](https://open.spotify.com/album/7cbCU90ZYkNCzHU7zYgq36) | 2:29 | 2023-04-21 |  |
 | [Getaway](https://open.spotify.com/track/06RW6PBKunCdTedqINIvJi) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Getaway](https://open.spotify.com/album/0xIEYlvRICX8Q6NDj2yFFV) | 4:01 | 2022-03-25 | 2023-04-09 |
@@ -500,6 +500,7 @@
 | [Spacedust](https://open.spotify.com/track/4jzxzmKVYfkYH7Zkfa91VK) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE) | [Spacedust](https://open.spotify.com/album/5POG2CUEY8wwtSFOJU0mDV) | 3:18 | 2021-12-17 | 2022-08-27 |
 | [Sparkles](https://open.spotify.com/track/7qdHfpOoLCvuP5QekGr1av) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Sparkles](https://open.spotify.com/album/4t0wxkDz42FrLolITAkGa3) | 3:32 | 2021-12-17 | 2022-03-12 |
 | [Spirit](https://open.spotify.com/track/4Get5ZiY8kJAWaqkPhSGb1) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f) | [Spirit](https://open.spotify.com/album/13ITIgtm08BvjIHUnDziCG) | 3:59 | 2022-06-17 | 2022-08-27 |
+| [Standing On the Edge Of Space \- Cold Blue Remix](https://open.spotify.com/track/3FPRzuZBjsjduQbFWtSGlI) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Hydra](https://open.spotify.com/artist/40hrrmQKZYEN0ipPy6h8pU), [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Standing On the Edge of Space \(Cold Blue Remix\)](https://open.spotify.com/album/4YCi6v64BwQxuWzUhFAnxc) | 3:19 | 2023-04-29 |  |
 | [Stars Collide \- XiJaro & Pitch Remix](https://open.spotify.com/track/0K2C5JHVbS9UkqbAPoxTRj) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Jennifer Rene](https://open.spotify.com/artist/44RB2EcmMwG4gC8EH75Ix1), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Beside You \[Deluxe\]](https://open.spotify.com/album/54Sgvc93MjdG7o2099JlN6) | 3:59 | 2021-12-17 | 2022-02-26 |
 | [Start Again](https://open.spotify.com/track/37lDLLICQiM2RJuFy76mdn) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Start Again](https://open.spotify.com/album/74xlb5GJLWk7tce1Hgxm4L) | 3:13 | 2022-04-08 |  |
 | [Stay With Me](https://open.spotify.com/track/0yEctvo3LdkBADPZT7cMmr) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Nikhil Prakash](https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT), [CeCe Mix](https://open.spotify.com/artist/57xlBOg4rGYpipwpaIKv1W) | [Stay With Me](https://open.spotify.com/album/0G8MmWlyUz0P8yF74xDJz5) | 3:57 | 2022-04-01 | 2022-05-14 |

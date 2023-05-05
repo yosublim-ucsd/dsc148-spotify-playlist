@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:57n1OF36WvtOeATY6WQ6iw">Digga D</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,773,975 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,774,260 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 59 | [High Price \(with Lil Tjay\)](https://open.spotify.com/track/2OvqbosjvY48JgqmySJ2l2) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [High Price \(with Lil Tjay\)](https://open.spotify.com/album/0e72MQklCxJo0IJXGmbz8Y) | 3:12 |
 | 60 | [Blast Off](https://open.spotify.com/track/0lfVhOvKOPILinrrahAz6p) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Blast Off](https://open.spotify.com/album/5mfmkBq7JGuNgU4OOMIlbM) | 1:45 |
 | 61 | [Vision Blurry](https://open.spotify.com/track/2d88S13urqCz2WgWonX48Z) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT) | [Trench Baby](https://open.spotify.com/album/7fBPTnVPQVPJBMCx7SZxEf) | 3:00 |
-| 62 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
+| 62 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in the House of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
 | 63 | [WICKED!](https://open.spotify.com/track/3zGXKyFESzcbenBMfOieOQ) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [WICKED!](https://open.spotify.com/album/4ufYMoVqW8cssqqYdRx5nP) | 1:07 |
 | 64 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 |
 | 65 | [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [100 or Nun \(feat\. Tony Shhnow\)](https://open.spotify.com/track/0U6ZKypkSptN2Zlhtkbvj6) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [3](https://open.spotify.com/album/1t2lMi1AXxPMo8bbCjaa3g) | 3:19 |
 | 100 | [Backstreet](https://open.spotify.com/track/0l46PJoxf13srgUYSjkBXM) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Backstreet \(feat\. Luh Tyler\)](https://open.spotify.com/album/4vT9WJbEs4xBKqjAcytrDt) | 3:15 |
 
-Snapshot ID: `MCxmNmFmZTFiMGI4ZGQ1MmE1M2M5MzNjNjU5ZmNjNDJiZWZjYzA4NzM1`
+Snapshot ID: `MCwxYTc2YWMzNWYzYjNlYWNlMjljMDE3MzVmOTgzNDc5Nzg2ZGI2OTI1`

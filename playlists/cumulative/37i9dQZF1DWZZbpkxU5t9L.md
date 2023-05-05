@@ -2,7 +2,7 @@
 
 ### [Weekly Buzz Tokyo: Golden Week Edition](https://open.spotify.com/playlist/37i9dQZF1DWZZbpkxU5t9L)
 
-> いま話題の曲をまとめてチェック。ゴールデンウィーク特別版！Cover: YOASOBI
+> いま話題の曲をまとめてチェック。こどもの日特別版！Cover: \(こどもの時の\)YOASOBI
 
 507 songs - 1 day 6 hr 9 min
 

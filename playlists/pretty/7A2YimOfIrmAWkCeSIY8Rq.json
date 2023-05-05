@@ -1,6 +1,6 @@
 {
   "description": "Breathe in, breathe out and let this relaxing playlist help you focus on the task at hand.",
-  "num_followers": 32438,
+  "num_followers": 32439,
   "original_name": "Calm Classics",
   "owner": {
     "name": "Peaceful Classics",
@@ -1464,20 +1464,20 @@
       },
       "artists": [
         {
+          "name": "Dan Jones",
+          "url": "https://open.spotify.com/artist/3iADiUHE1zNtXMd8ZGLQho"
+        },
+        {
           "name": "Esther Yoo",
           "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
         },
         {
           "name": "BBC National Orchestra Of Wales",
           "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
-        },
-        {
-          "name": "Dan Jones",
-          "url": "https://open.spotify.com/artist/3iADiUHE1zNtXMd8ZGLQho"
         }
       ],
       "duration_ms": 96986,
-      "name": "Jones: Solemn Love",
+      "name": "Solemn Love",
       "url": "https://open.spotify.com/track/2nwX1J90shV6dJk2zGkJuW"
     },
     {

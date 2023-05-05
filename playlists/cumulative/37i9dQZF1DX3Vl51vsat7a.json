@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: LIE NING",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: My Ugly Clementine",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Are You In",
+        "url": "https://open.spotify.com/album/2lyN14f6FTtvCL0ztt6Sxg"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171392,
+      "name": "Are You In",
+      "url": "https://open.spotify.com/track/5vVqAE6Y9LLXj7YoCxbeRM"
+    },
+    {
+      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo"
       },
@@ -388,7 +406,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 207646,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/7aIAOHBLDuh2IKJPM97VBb"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 200752,
       "name": "I'm Boring",
       "url": "https://open.spotify.com/track/3ctzBJ2yOva67pX2PSaS1o"
@@ -1802,6 +1820,24 @@
       "duration_ms": 230568,
       "name": "leave a light on",
       "url": "https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/2Me4REF5L047CVTl7KrjuI"
+      },
+      "artists": [
+        {
+          "name": "Keir",
+          "url": "https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219140,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1dH4rjcOt0AZ948RDnEFoc"
     },
     {
       "album": {

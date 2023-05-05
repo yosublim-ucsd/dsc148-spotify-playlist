@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: grentperez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,115 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,176 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 101 | [⟡ solitude ⟡](https://open.spotify.com/track/0085Y1oLaWiAB94I4iQo8N) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [⟡ solitude ⟡](https://open.spotify.com/album/13zX2as4ggekSgaZEVYEIv) | 1:57 |
 | 102 | [Notice Me](https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Notice Me](https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID) | 2:32 |
 
-Snapshot ID: `MCw0ZjgyZTM3NTk5ZjhmZGQxMmM5NDRkOThjMWM0MWEzNzZiZjE3MDU4`
+Snapshot ID: `MCw4YmEwZWRlZDhjOTJhMTJiZmZjMDY5ZWY1YWY5M2JjNDhiMTA1NzNh`

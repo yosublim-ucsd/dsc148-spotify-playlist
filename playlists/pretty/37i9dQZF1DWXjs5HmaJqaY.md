@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,479 likes - 67 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,610 likes - 67 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 66 | [Sinner \- Edit](https://open.spotify.com/track/35t7T8LuKoCrjjAu0niN7M) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Sinner](https://open.spotify.com/album/4AG9M2nwdpNWi365BGaGu8) | 4:15 |
 | 67 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 
-Snapshot ID: `MCxiOGRmOWY2ZDI2ODQwMGU5ZTIyNjJiZWMyMzIwZjQ1OWNjOTkzZDk3`
+Snapshot ID: `MCw2MWE2ODgzZDNmMTMyMGJhNWYwMTQ0NDliYmIxZjhmZWRjMzIzYTg2`

@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Scott McMicken and THE EVER\-EXPANDING
 
-392 songs - 1 day 0 hr 10 min
+393 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Blindsided](https://open.spotify.com/track/7j6rS4xEI6tVqVnkzuP4Hn) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/0TubWPHVUNb0sSzMxpFkyW) | 3:42 | 2021-11-12 | 2022-07-28 |
 | [Blue](https://open.spotify.com/track/1MrElax7day41jzoztYk2k) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3iIrKF9cVzG0sctCOOgP3U) | 2:36 | 2021-11-12 | 2022-07-28 |
 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 | 2022-07-11 |  |
+| [Blue Over Blue](https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [Blue Over Blue](https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7) | 3:16 | 2023-04-28 |  |
 | [Bodies](https://open.spotify.com/track/5pJdonxbRs57P0u97HsDE5) | [Tunng](https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa) | [This Is Tunng...Magpie Bites and Other Cuts](https://open.spotify.com/album/3jFj7aN2yVSNxZrpMzWfb2) | 4:27 | 2021-11-12 | 2022-07-25 |
 | [Bottle It Up](https://open.spotify.com/track/6Kevag30eZxaL3MBo6dIdL) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up](https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg) | 3:05 | 2022-07-11 |  |
 | [Bottle It Up \(feat\. Greta Stanley\)](https://open.spotify.com/track/3IcHXc3pAio3wozwIlB5Gv) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up \(feat\. Greta Stanley\)](https://open.spotify.com/album/6EMVG0qdIGTTp31HLtHcX9) | 3:05 | 2021-11-12 | 2022-07-28 |
@@ -190,7 +191,7 @@
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I \(motsi\)](https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G) | 3:17 | 2021-11-12 |  |
 | [Just For Love](https://open.spotify.com/track/2246ZUM5h7YS1Lz9AokksS) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Dixie Blur](https://open.spotify.com/album/2J7ySwyyvdBeP8EcNYrgZv) | 3:15 | 2021-11-12 | 2022-07-21 |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/3XnpvaKBaEhdzDbLdIhcKs) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/60XvBfx16DrRu5GKrH4E5E) | 2:53 | 2021-11-12 | 2022-07-29 |
-| [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2022-07-11 |  |
+| [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2022-07-11 | 2023-05-05 |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-05-25 |  |
 | [Keeps Me Light](https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Keeps Me Light](https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6) | 3:46 | 2022-07-11 | 2023-01-15 |
 | [Keeps Me Light](https://open.spotify.com/track/5l43igI28lTXnPK0KQsHQc) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Keeps Me Light](https://open.spotify.com/album/48WCft0nRsNOfquczKAH04) | 3:46 | 2021-11-12 | 2022-07-28 |

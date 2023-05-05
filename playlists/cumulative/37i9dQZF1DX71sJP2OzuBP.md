@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-727 songs - 1 day 23 hr 33 min
+728 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [不相忘 \(電視劇《歡樂頌3》插曲\)](https://open.spotify.com/track/2uaGMBZSbq9HcBNhHJaUvW) | [Hu Xia](https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR) | [不相忘 \(電視劇《歡樂頌3》插曲\)](https://open.spotify.com/album/3Wb0j1pr4oUNrjrF9whkTE) | 4:12 | 2022-08-29 | 2022-09-13 |
 | [不管不管](https://open.spotify.com/track/74hxoezAepjCoeS00RJiMg) | [有感覺](https://open.spotify.com/artist/7uSnXddSw3Vrj8tM7tynMy) | [不管不管](https://open.spotify.com/album/38qDgU8zWIgem0RJGbiuok) | 4:08 | 2022-06-06 | 2022-06-28 |
 | [为什么难过一直在重播](https://open.spotify.com/track/6cWuYLFdn5gkS6hXIi4hCJ) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [为什么难过一直在重播](https://open.spotify.com/album/6OMkSOtOhj1sR52yOyyIDo) | 4:24 | 2022-11-28 | 2022-12-20 |
-| [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/track/6k01KDiuu7qbh4q2biY5rJ) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/album/7cK697UhfDbeRtMzPL5XPj) | 3:24 | 2023-04-24 |  |
+| [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/track/1o2YahIfTmz9ibLLdkDe2X) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/album/1wfjNR1UkthScF5MhsAef6) | 3:24 | 2023-05-01 |  |
+| [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/track/6k01KDiuu7qbh4q2biY5rJ) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/album/7cK697UhfDbeRtMzPL5XPj) | 3:24 | 2023-04-24 | 2023-05-05 |
 | [也好](https://open.spotify.com/track/1w8JPShwztW9NcssiI8R9M) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [也好](https://open.spotify.com/album/4o0n3poq816u6Ec2BFNiJj) | 3:46 | 2022-08-01 | 2022-10-04 |
 | [也許是愛情](https://open.spotify.com/track/7MgIkl2sYuyp5f5cz9sJ4f) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 3:29 | 2022-12-26 | 2023-01-17 |
 | [也許路很長](https://open.spotify.com/track/2h8nkZW9vo6ikAPnY6z4xi) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [也許路很長](https://open.spotify.com/album/78aNvZpHJiGL8Z8DkohZLh) | 3:55 | 2023-04-24 |  |

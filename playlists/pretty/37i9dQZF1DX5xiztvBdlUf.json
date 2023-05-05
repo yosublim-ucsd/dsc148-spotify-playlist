@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 571075,
+  "num_followers": 571304,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTQwNWYxNmYxOTc5MzIxZjYzMDFmMmQxZmVhOTcwNjgxYmUxZmZi",
+  "snapshot_id": "MCxkZjg0NWIxNDI0OTdkZjc2ZGI4MzcyMmE3NDg5ZjRmOTU2MjczYWM2",
   "tracks": [
     {
       "added_at": "2023-04-28 16:23:10",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
-    },
-    {
-      "added_at": "2023-04-28 16:23:10",
-      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
+    },
+    {
+      "added_at": "2023-04-28 16:23:10",
+      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -597,7 +597,7 @@
         }
       ],
       "duration_ms": 307889,
-      "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
+      "name": "DAWN - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
     },
     {
@@ -699,22 +699,18 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "Nefertari",
-        "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
       },
       "artists": [
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Patrice B\u00e4umel",
-          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
         }
       ],
-      "duration_ms": 241160,
-      "name": "Nefertari",
-      "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
+      "duration_ms": 193064,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
     },
     {
       "added_at": "2023-04-28 16:23:10",
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+        "name": "Nefertari",
+        "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
       "artists": [
         {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Patrice B\u00e4umel",
+          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
         }
       ],
-      "duration_ms": 193064,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
+      "duration_ms": 241160,
+      "name": "Nefertari",
+      "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
     },
     {
       "added_at": "2023-04-28 16:23:10",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
-    },
-    {
-      "added_at": "2023-04-28 16:23:10",
-      "album": {
         "name": "Noso",
         "url": "https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
+    },
+    {
+      "added_at": "2023-04-28 16:23:10",
+      "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2023-04-28 16:23:10",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
+        "name": "Come Back Around",
+        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 231349,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
+    },
+    {
+      "added_at": "2023-04-28 16:23:10",
+      "album": {
         "name": "If We Only Had",
         "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "Come Back Around",
-        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
         }
       ],
-      "duration_ms": 231349,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-04-28 16:23:10",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+        "name": "Donde Chile",
+        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
       },
       "artists": [
         {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
         }
       ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+      "duration_ms": 434406,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "added_at": "2023-04-28 16:23:10",
@@ -1151,22 +1167,6 @@
       "duration_ms": 241010,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
-    },
-    {
-      "added_at": "2023-04-28 16:23:10",
-      "album": {
-        "name": "Donde Chile",
-        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 434406,
-      "name": "Pura Vida",
-      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "added_at": "2023-04-28 16:23:10",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 373487,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
+    },
+    {
+      "added_at": "2023-04-28 16:23:10",
+      "album": {
         "name": "Orbits of Dust",
         "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 360071,
       "name": "Orbits of Dust",
       "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
-    },
-    {
-      "added_at": "2023-04-28 16:23:10",
-      "album": {
-        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
-        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
-      },
-      "artists": [
-        {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
-        }
-      ],
-      "duration_ms": 446079,
-      "name": "ut i rommet",
-      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
       "added_at": "2023-04-28 16:23:10",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
+        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
+        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
       },
       "artists": [
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
         }
       ],
-      "duration_ms": 373487,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
+      "duration_ms": 446079,
+      "name": "ut i rommet",
+      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
       "added_at": "2023-04-28 16:23:10",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "Deeper Feelings EP",
-        "url": "https://open.spotify.com/album/6BRrbrzkM4igreHoesdlHr"
-      },
-      "artists": [
-        {
-          "name": "Fiona Kraft",
-          "url": "https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt"
-        }
-      ],
-      "duration_ms": 442622,
-      "name": "Deeper Feelings",
-      "url": "https://open.spotify.com/track/1gOq7cUABzUJa4Bo17vR6r"
-    },
-    {
-      "added_at": "2023-04-28 16:23:10",
-      "album": {
         "name": "Downtown EP",
         "url": "https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl"
       },
@@ -1471,18 +1455,34 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "Future Disco: Poolside Sounds Vol. 10",
-        "url": "https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6"
+        "name": "Deeper Feelings EP",
+        "url": "https://open.spotify.com/album/6BRrbrzkM4igreHoesdlHr"
       },
       "artists": [
         {
-          "name": "Midnight Sky",
-          "url": "https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP"
+          "name": "Fiona Kraft",
+          "url": "https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt"
         }
       ],
-      "duration_ms": 228187,
-      "name": "All That Glitters",
-      "url": "https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI"
+      "duration_ms": 442622,
+      "name": "Deeper Feelings",
+      "url": "https://open.spotify.com/track/1gOq7cUABzUJa4Bo17vR6r"
+    },
+    {
+      "added_at": "2023-04-28 16:23:10",
+      "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     },
     {
       "added_at": "2023-04-28 16:23:10",
@@ -1503,18 +1503,22 @@
     {
       "added_at": "2023-04-28 16:23:10",
       "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+        "name": "Diving Into Minds",
+        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
       },
       "artists": [
         {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
         }
       ],
-      "duration_ms": 377225,
-      "name": "Psilocybin",
-      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
+      "duration_ms": 387302,
+      "name": "Diving Into Minds - Club Mix",
+      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
     }
   ],
   "unique_name": "Deep House Blend",

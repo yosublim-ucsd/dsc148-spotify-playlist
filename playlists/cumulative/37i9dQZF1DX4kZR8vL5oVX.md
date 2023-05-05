@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Kim
 
-796 songs - 1 day 17 hr 32 min
+801 songs - 1 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Au voleur](https://open.spotify.com/track/7sRrhdGXx8CCsB8PxqwBzH) | [Maud Lübeck](https://open.spotify.com/artist/4IBVixLpdQQyQjvB1PIAoj) | [Au voleur](https://open.spotify.com/album/2NkPm7eyv8qom6IIEjen2e) | 3:03 | 2022-02-01 | 2022-03-08 |
 | [Aura](https://open.spotify.com/track/5KlrAjhvGGi4hcsaxagCfj) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Aura](https://open.spotify.com/album/7uTr0JAZXBRXQ3UY8jQce6) | 1:54 | 2023-01-31 | 2023-03-01 |
 | [Aussi fou](https://open.spotify.com/track/44KgBXNkTTeoUOxdIMx8Df) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Aussi fou](https://open.spotify.com/album/62oW0RbQHKayXG1sYDkoI6) | 2:27 | 2023-02-28 | 2023-04-05 |
+| [Autour de toi](https://open.spotify.com/track/4Hqku4GYlVDyXhpb6LnFbC) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Autour de toi](https://open.spotify.com/album/59LLEdXEcyErIKoUP71tEQ) | 2:47 | 2023-05-02 |  |
 | [Autour de toi](https://open.spotify.com/track/38xSxOPW6mqqosiWxttId3) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Autour de toi](https://open.spotify.com/album/5EWc1VBeB0UTxyOJwVhSe7) | 2:40 | 2022-06-01 | 2022-07-06 |
 | [Avalanche](https://open.spotify.com/track/03xPGqhzSxcTGtWQYdE0RG) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Avalanche](https://open.spotify.com/album/78D5bJfpIQi6bEUM0ev4Nw) | 3:26 | 2022-05-03 | 2022-06-01 |
 | [Avant ou après](https://open.spotify.com/track/6hA8rl7PJa05qrYwGP2gsd) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Cinérama](https://open.spotify.com/album/5P2ENyl9oYsqKXVdyhJkcc) | 2:24 | 2023-01-31 | 2023-03-01 |
@@ -165,6 +166,7 @@
 | [Dans la Chaleur](https://open.spotify.com/track/027KMnt9OZofLLFvJeGTWZ) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [Dans la Chaleur](https://open.spotify.com/album/2tYY9qw3JkrNrlEfUToQ2U) | 3:48 | 2022-10-05 | 2022-11-09 |
 | [Dans La Neige](https://open.spotify.com/track/2Q72FAtGOzphNpdY2bmaLn) | [Le Paon](https://open.spotify.com/artist/2JGuBoiuoXvEI3A7CF1buF) | [Dans La Neige](https://open.spotify.com/album/2YTcYREKouFNyEhhYVGmyR) | 2:56 | 2022-02-01 | 2022-03-08 |
 | [Dans ma tête](https://open.spotify.com/track/5utHnP9FfVEMUL0028gECs) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [Dans ma tête](https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW) | 2:44 | 2022-09-06 | 2022-10-05 |
+| [Dans ma tête](https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Dans ma tête](https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L) | 2:42 | 2023-05-02 |  |
 | [Dans mon dos](https://open.spotify.com/track/1O7RIzTY1bz1ma7JfSkl7m) | [Camille Schneyder](https://open.spotify.com/artist/2jPO50YbPAgwG8D7kGWGVn) | [Dans mon dos](https://open.spotify.com/album/1EznXF8vOZ8zTjdzvigkdO) | 2:51 | 2022-04-05 | 2022-05-04 |
 | [Dans un fou rire](https://open.spotify.com/track/04F5pEWp5yVNTjRQcUnjaB) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:51 | 2022-11-30 | 2023-01-04 |
 | [Dans un fou rire](https://open.spotify.com/track/6Rnz3N2IgUJO7Hl1j8BmuJ) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Dans un fou rire](https://open.spotify.com/album/30O5UTZO0crZdklnMZpQyX) | 3:51 | 2022-02-01 | 2022-03-08 |
@@ -202,6 +204,7 @@
 | [Doudou mets ta robe rouge](https://open.spotify.com/track/54bz9UmXdkI6zpZwJJWeSQ) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Soleil la](https://open.spotify.com/album/3fbuYQnRRZcu85w9BDR2pz) | 3:37 | 2022-08-02 | 2022-09-07 |
 | [Douillé](https://open.spotify.com/track/3blojRFR71HztUj5mHqBb9) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 2:45 | 2023-05-02 |  |
 | [Doué](https://open.spotify.com/track/5RA8lfUpypk40aqp1CIYSQ) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [EGO](https://open.spotify.com/album/451uEKAXSbMJ5Pry6mIANM) | 2:47 | 2022-11-08 | 2023-01-04 |
+| [Drama Drama](https://open.spotify.com/track/6a8AfFmpVuA5wkiFMTep6G) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Adieu les monstres](https://open.spotify.com/album/0UrbIea2sXlvZfMhD9PkFA) | 3:13 | 2023-05-02 |  |
 | [Drôle d'idée](https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Drôle d'idée](https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h) | 2:37 | 2022-01-05 | 2022-02-02 |
 | [Du love et de l'eau](https://open.spotify.com/track/7Kw007ZdpJK64xwI5GHDsa) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Du love et de l'eau](https://open.spotify.com/album/2TobEk26m7VGC1MVMUMBSk) | 3:28 | 2022-10-04 | 2022-11-09 |
 | [Dégainer](https://open.spotify.com/track/1UoK36U5MQNSZsNWb1X8XA) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:36 | 2022-03-07 | 2023-01-04 |
@@ -342,6 +345,7 @@
 | [L'angle mort](https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [L'angle mort](https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28) | 2:22 | 2023-02-28 | 2023-04-05 |
 | [L'appétit](https://open.spotify.com/track/1vOprAwZqZLHGt5H9ATza1) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [L'appétit](https://open.spotify.com/album/26PdACHB87VnkxaLEQitT2) | 2:57 | 2022-06-01 | 2022-07-06 |
 | [L'art de la guerre](https://open.spotify.com/track/4mRgkfUochziQ02g1lVmPP) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [L'art de la guerre](https://open.spotify.com/album/2Kr09zgLEEeU2v1OXkvPzM) | 2:29 | 2022-09-06 | 2022-10-05 |
+| [L'autorisation](https://open.spotify.com/track/74CnAAhblj4ZXk7d1I3ng9) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [L'autorisation](https://open.spotify.com/album/2MHqQIakehgXlnPNSsF9Gw) | 3:30 | 2023-05-02 |  |
 | [L'exil](https://open.spotify.com/track/0mw25aHnLvnssYESKn1YMD) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [L'exil](https://open.spotify.com/album/2FCRPQX5o6CQkiB0jT1P78) | 3:42 | 2022-04-07 | 2022-05-04 |
 | [L'impromptu](https://open.spotify.com/track/4sZYEhggoilJ0t1fRKqMon) | [Stéphanie d'Oro](https://open.spotify.com/artist/5K1N9ke3dgGnrWmasCHQT3) | [L'impromptu](https://open.spotify.com/album/7euVlwXWzDrdDJtZCebKWD) | 2:54 | 2022-10-04 | 2022-11-09 |
 | [L'océan](https://open.spotify.com/track/4WutcheedbzII83QtSUu67) | [Luxie](https://open.spotify.com/artist/46vs9UZGRcEdKbS8jTTP9k) | [Les Flots](https://open.spotify.com/album/1K8LYXCo7bMT5vHd40AiFV) | 3:21 | 2023-01-03 | 2023-02-01 |
@@ -565,6 +569,7 @@
 | [Partout](https://open.spotify.com/track/02sGdgawjvohUO5otZVLJC) | [Loïse](https://open.spotify.com/artist/3nmiCKhHVrYLvdhBs37t4c) | [Partout](https://open.spotify.com/album/17Ame1SOeGU7yk5IO1UDkx) | 2:58 | 2022-03-07 | 2022-04-06 |
 | [PARTOUT OÙ JE VAIS](https://open.spotify.com/track/58cFRhvTGwoVBNsCdDcNAZ) | [Sally](https://open.spotify.com/artist/2rX5le9Bn1XdQwPsXA8aPP) | [PARTOUT OÙ JE VAIS](https://open.spotify.com/album/2sHhSNmscfQC890SMtw4WC) | 2:24 | 2022-03-07 | 2022-04-06 |
 | [Pas le temps](https://open.spotify.com/track/7DqBmgSQZJJrKAYqjyDkFB) | [Dina](https://open.spotify.com/artist/40OywkN721WGbrgf7BCB13) | [Pas le temps](https://open.spotify.com/album/2dtYu9dDymWmkf4OFDYoAv) | 3:09 | 2022-08-02 | 2022-09-07 |
+| [Pas Pareil](https://open.spotify.com/track/6kgPzslcxPM94SR08j2nZ6) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Pas Pareil](https://open.spotify.com/album/2LkLTnCZHBsIjB5dZTTWYs) | 3:41 | 2023-05-02 |  |
 | [Pas sans toi \- \#UnZoukAvecVous](https://open.spotify.com/track/7gXQpl662hsWEiJQjWJqPF) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Pas sans toi \(\#UnZoukAvecVous\)](https://open.spotify.com/album/3D6XfeDD1DtnjMj2gSg59s) | 3:03 | 2022-09-06 | 2022-10-05 |
 | [Pas vu pas pris](https://open.spotify.com/track/3QwzJmYiEWQV2kwQU8r9bo) | [Sophie Tapie](https://open.spotify.com/artist/4l7xxKksMSxsKFSVcs5mPg) | [Pas vu pas pris](https://open.spotify.com/album/3uDaYM21i4swV97AYNMQ5n) | 2:58 | 2022-03-07 | 2022-04-06 |
 | [Pay the Rent](https://open.spotify.com/track/4ZmU90qeI1vRuUoGAcmfu4) | [La Battue](https://open.spotify.com/artist/1beQgGMe1g3tnaTa2lwMnL) | [In the Attic](https://open.spotify.com/album/5lOUNMITlbR9GzOqWiMLOM) | 2:55 | 2022-05-03 | 2022-06-01 |

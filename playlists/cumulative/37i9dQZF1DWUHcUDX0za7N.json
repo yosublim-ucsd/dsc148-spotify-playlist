@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=wdv_pNx6QqO9cmAr0l4x4g\"> Zlatan</a> ",
+  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX?si=d0hf2IO-T9m3Boh8CcZn7A\"> A-Q</a> and <a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=GLVEnDSgRv6NWAaIdIM-wg\"> Ruger</a> ",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 178599,
       "name": "Blessed Sinner",
       "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 142613,
       "name": "EARTH ANGEL",
       "url": "https://open.spotify.com/track/408jhAwjl6IvdoQMN29t7O"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 171891,
       "name": "Highest Student",
       "url": "https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H"
@@ -1929,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "Madam De Madam",
+        "url": "https://open.spotify.com/album/3bMvPUkqDhLz4rJ39ysnHr"
+      },
+      "artists": [
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262693,
+      "name": "Madam De Madam",
+      "url": "https://open.spotify.com/track/0ZsbFYlRLuxPiz0geTzUTZ"
+    },
+    {
+      "album": {
         "name": "Mama Maradona",
         "url": "https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y"
       },
@@ -2166,6 +2188,28 @@
       "duration_ms": 150260,
       "name": "New Wave",
       "url": "https://open.spotify.com/track/7HEvEpAXXzeqyb4VWbrGUS"
+    },
+    {
+      "album": {
+        "name": "NI NIGERIA",
+        "url": "https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K"
+      },
+      "artists": [
+        {
+          "name": "Tomi Tribe",
+          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
+        },
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "NI NIGERIA",
+      "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
     },
     {
       "album": {
@@ -2730,6 +2774,28 @@
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+    },
+    {
+      "album": {
+        "name": "GOD'S ENGINEERING 2",
+        "url": "https://open.spotify.com/album/7Ml0G3q46jK8eDDtVTp2Ul"
+      },
+      "artists": [
+        {
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "PS2",
+      "url": "https://open.spotify.com/track/360eQCVMiXHI9zqkduxbVf"
     },
     {
       "album": {
@@ -3304,7 +3370,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 249286,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
@@ -3546,6 +3612,32 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
+    },
+    {
+      "album": {
+        "name": "Color Blind",
+        "url": "https://open.spotify.com/album/2u0YrATRVSaGfjArfIshdX"
+      },
+      "artists": [
+        {
+          "name": "Tena Tenpo",
+          "url": "https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN"
+        },
+        {
+          "name": "benmaelen",
+          "url": "https://open.spotify.com/artist/7rQenKdDeM6d5o7GOBwWnq"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/17mf9XIYI25YOaBolVvZXB"
     },
     {
       "album": {

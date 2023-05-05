@@ -4,7 +4,7 @@
 
 > Relax to the sound of classical guitar.
 
-42 songs - 3 hr 4 min
+43 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Cancion de cuna](https://open.spotify.com/track/2WfTVYdHjDvFaaVLGN1wEO) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Vicente Coves](https://open.spotify.com/artist/4T4Kpco9Elfm3HvFVVLJif) | [Latin\-American Music for Guitar](https://open.spotify.com/album/6mNnvVKDa9EMkRQNBSnbn6) | 4:42 | 2021-06-28 |  |
 | [Canciones Castellanas](https://open.spotify.com/track/3KgdTCMN9V5XPX7icisnyf) | [Regino Sáinz de la Maza](https://open.spotify.com/artist/4IDnRdiIVKS0ylECWh8t2V), [Franz Halász](https://open.spotify.com/artist/6u7TanQ3Tv1dx5RmaERfdV) | [Sáinz de la Maza: Guitar Music](https://open.spotify.com/album/3rMQ4eOWBraORsb3rCrN2z) | 5:20 | 2021-06-28 |  |
 | [Concerto for Lute, 2 Violins and Continuo in D Major, RV 93 \- Arr\. for 4 Guitars: II\. Largo](https://open.spotify.com/track/0g3yuLnrlrpjgLe2xuxm5g) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Angel Romero](https://open.spotify.com/artist/6qqiGoXhL3gjX1QH6MgmdT), [Celedonio Romero](https://open.spotify.com/artist/3MrHF5OuH8MoEuzMI50rUf), [Celin Romero](https://open.spotify.com/artist/2gn4g9mmcTLNbHxTZCJs2n), [Pepe Romero](https://open.spotify.com/artist/2uaXicUC7B0nIKCFaxlTHj) | [Vivaldi: Guitar Concertos](https://open.spotify.com/album/0gAYmLP8jf2qhn3SNVMvy1) | 3:40 | 2021-06-28 |  |
+| [Dance of the Orient](https://open.spotify.com/track/0gVh7rovZhz00UTwcME08u) | [Mark Houghton](https://open.spotify.com/artist/4Ea5PMxvKtI6BUhrBvzrc4), [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Dance of the Orient](https://open.spotify.com/album/3pp4uPI0g7aPrY5uUpdFYK) | 4:20 | 2023-05-04 |  |
 | [Druga Sonata Za Violinu Solo U A\-Molu](https://open.spotify.com/track/3K7YkHqCJHA7OTPvdHeA1i) | [Ana Vidović](https://open.spotify.com/artist/7yXC9t8JOSJx6TkLZsl4sE) | [Gitara](https://open.spotify.com/album/2DKwha77ngWfSgAHmCxplF) | 21:27 | 2021-06-28 |  |
 | [El Noy De La Mare](https://open.spotify.com/track/5nJbq6tLA1tvxV7XA562Kf) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu) | [Relaxing Guitar for Insomnia, Dreaming and Romance](https://open.spotify.com/album/720bY37FzXk2RHn7soZuPi) | 2:02 | 2021-06-28 |  |
 | [Fantasy for Guitar Op\. 107: III\. Arietta 1](https://open.spotify.com/track/5EEYKvwrOhDDKTR2yeaxD7) | [Malcolm Arnold](https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Dreams and Fancies: English Music for Solo Guitar](https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH) | 2:03 | 2021-06-28 |  |

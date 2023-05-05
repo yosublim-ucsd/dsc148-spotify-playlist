@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: KAYTRAMINÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,121 likes - 105 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,185 likes - 105 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 6 | [FOCUSED](https://open.spotify.com/track/3IdXc5Yfz1pdsv5NfbKldV) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [GENERATIONAL CURSE](https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs) | 4:28 |
 | 7 | [Whiskey In My Coffee \(feat\. King Louie\)](https://open.spotify.com/track/5WnhBk2bFlmIPxLHQgPgbK) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [King Louie](https://open.spotify.com/artist/7yd1ITel4z3jXwEFinWmGN) | [CLUSTERFUNK](https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT) | 3:01 |
 | 8 | [Liu Kang](https://open.spotify.com/track/6VAf9bOL9WyDRH6mP6OgBo) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB) | [Abhi Vs\. Kato II: Gold Standard](https://open.spotify.com/album/0ysfcaZlzhgNqeu7UHtBAZ) | 1:39 |
-| 9 | [advantages](https://open.spotify.com/track/67GD5DfgXGSGfnUaOOjd6u) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:08 |
+| 9 | [advantages](https://open.spotify.com/track/67GD5DfgXGSGfnUaOOjd6u) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in the House of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:08 |
 | 10 | [Westside Story \(with Duckwrth\)](https://open.spotify.com/track/11tIIx1IhWCa4CzMtKhvai) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ESCAPISM](https://open.spotify.com/album/5UnNsDfzwec5DDlSYKD03p) | 3:41 |
 | 11 | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn) | 3:45 |
 | 12 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 21 | [Holy Smokes!](https://open.spotify.com/track/3k3QTuKUK6qMV9x8Cy5gES) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [Holy Smokes!](https://open.spotify.com/album/1MN43LtRSspvDxDocojiA9) | 1:39 |
 | 22 | [captain](https://open.spotify.com/track/1B0b9oyKZiFnJM2Mkr1IxN) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [playing w/ fire](https://open.spotify.com/album/1i6QtZmXNIsUQ3MqKJDv8U) | 3:22 |
 | 23 | [lonrwrld \(freestyle\)](https://open.spotify.com/track/3zg2NCd83m0Y9gL5wKd6Q5) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [lonrwrld \(freestyle\)](https://open.spotify.com/album/6UL5LlM8QQ8aY2kQqoqQ7N) | 2:32 |
-| 24 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
+| 24 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in the House of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
 | 25 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 |
 | 26 | [HowCome?](https://open.spotify.com/track/3ppnoMXZa6vJOmQoHID04G) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9), [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD) | [ALLGASNOBRAKEZ!](https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t) | 2:25 |
 | 27 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 104 | [wake up](https://open.spotify.com/track/2oDZ1JaqdgbWzZJubJmYTT) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [wake up](https://open.spotify.com/album/1Ccs6phqIKRsl43VHLSpOs) | 2:40 |
 | 105 | [lo$t kid.](https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [$hook](https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM) | 2:28 |
 
-Snapshot ID: `MCwwOWQ1Yjg1NmVkYmRiOTVmZjE2MjlhMmQwNWRkNjQwNzRkY2RmNGQ5`
+Snapshot ID: `MCwwOTJiMjEyMGIxNTU4NGNjNWU0MDgwMWFhMzdlNGYwODNjM2Q2MmMx`

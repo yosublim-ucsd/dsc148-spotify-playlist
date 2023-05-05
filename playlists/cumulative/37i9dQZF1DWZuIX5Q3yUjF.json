@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: cura",
+  "description": "Il meglio dell'R&B italiano. Cover: Kaze",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 184714,
       "name": "Come se Ballassimo",
       "url": "https://open.spotify.com/track/4aLp3lEAzKtMMbpYICQYEZ"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 202310,
       "name": "Equilibri",
       "url": "https://open.spotify.com/track/5BWq3Kgyj543Izg2dkghB6"
@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 168000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/38zBWUqKuUgXRgP7xIvE2s"
@@ -3836,7 +3836,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 188400,
       "name": "O'tiempo",
       "url": "https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ"
@@ -4629,6 +4629,24 @@
     },
     {
       "album": {
+        "name": "Ridicolo",
+        "url": "https://open.spotify.com/album/4FM5ysDiqTdM5ziU4oeFWj"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Ridicolo",
+      "url": "https://open.spotify.com/track/64OHcMEI1bgf5T0znQd1uq"
+    },
+    {
+      "album": {
         "name": "Il Mondo Invisibile",
         "url": "https://open.spotify.com/album/7e5ovM8Sy8TgcibIa1iUom"
       },
@@ -5110,7 +5128,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 184338,
       "name": "Solo Io e Te",
       "url": "https://open.spotify.com/track/6C4vU6dtVR30RWuRvqtJqz"
@@ -5128,7 +5146,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 199771,
       "name": "SOLO PER TE",
       "url": "https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5"
@@ -5146,7 +5164,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 189026,
       "name": "Sopra Una Mustang",
       "url": "https://open.spotify.com/track/25HgfzXOze0RTThzab9Ix4"
@@ -5262,6 +5280,32 @@
       "duration_ms": 212250,
       "name": "Stai tra fra",
       "url": "https://open.spotify.com/track/0bP9y38PARMlFUrT984lp0"
+    },
+    {
+      "album": {
+        "name": "Stand by",
+        "url": "https://open.spotify.com/album/29S37owZPBfL0m5qjcCM7H"
+      },
+      "artists": [
+        {
+          "name": "Martina May",
+          "url": "https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR"
+        },
+        {
+          "name": "Nico Kyni",
+          "url": "https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9"
+        },
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185633,
+      "name": "Stand by",
+      "url": "https://open.spotify.com/track/4RiCyzImlul2OVb7nWWNQ3"
     },
     {
       "album": {
@@ -5426,6 +5470,28 @@
       "duration_ms": 170322,
       "name": "Sul fondo",
       "url": "https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX"
+    },
+    {
+      "album": {
+        "name": "Sulla Luna",
+        "url": "https://open.spotify.com/album/4ZcG7ZzJOKZ1ktq4p5x7h3"
+      },
+      "artists": [
+        {
+          "name": "Frank Popa",
+          "url": "https://open.spotify.com/artist/4SPpe4O4oC7aOkmwTVXel1"
+        },
+        {
+          "name": "Alex 3o5",
+          "url": "https://open.spotify.com/artist/4VdjUTSvydHinOuZON5DX4"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160408,
+      "name": "Sulla Luna",
+      "url": "https://open.spotify.com/track/0vWEOcl15vxBCJDYtILBhA"
     },
     {
       "album": {
@@ -6198,7 +6264,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 171000,
       "name": "\u00c8 tutto un caos",
       "url": "https://open.spotify.com/track/3mqVYZ2gRrOIWuFTDX0mNy"

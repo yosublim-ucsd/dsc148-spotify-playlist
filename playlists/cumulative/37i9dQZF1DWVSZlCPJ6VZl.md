@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVSZlCPJ6VZl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVSZlCPJ6VZl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVSZlCPJ6VZl)
 
-### [8 Hours of Sleep Brown Noise](https://open.spotify.com/playlist/37i9dQZF1DWVSZlCPJ6VZl)
+### [8 Hours of Brown Noise Sleep](https://open.spotify.com/playlist/37i9dQZF1DWVSZlCPJ6VZl)
 
 > Deep brown noise sleep frequencies to beat insomnia and help you sleep all night.
 

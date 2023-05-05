@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO?si=AEXpaZzfSqCKzHERReplxQ">Disciples</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,695 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,753 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 31 | [The Valley](https://open.spotify.com/track/5BqSRR4n9MCT3XQdKjrybi) | [Zethray](https://open.spotify.com/artist/6bc4cn1cTEkKMmIUmXB7PQ), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [The Valley](https://open.spotify.com/album/5TFWWcNwSIuZpN9GH7hyjY) | 3:15 |
 | 32 | [Bible on Me](https://open.spotify.com/track/11oWVqK3dXF1WUv8R1jYgd) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Bible on Me](https://open.spotify.com/album/68Zj7U4OqH6Cv2Ms3P59pf) | 2:36 |
 | 33 | [Stay Lit Up](https://open.spotify.com/track/6A59x6Ks7wltD9dfB4Dsjm) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Stay Lit Up](https://open.spotify.com/album/2h7Ew9UteXFQFdqUcfZPyI) | 2:50 |
-| 34 | [Paid In Full](https://open.spotify.com/track/1Kb4wQ2Q9TXs5xgtyO5mGs) | [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly), [Made](https://open.spotify.com/artist/0DKYIjP7Wschwb9SP0dkUc) | [Paid In Full](https://open.spotify.com/album/3w6wU3afkvu5aPikb9dFJb) | 3:13 |
+| 34 | [Paid In Full](https://open.spotify.com/track/1Kb4wQ2Q9TXs5xgtyO5mGs) | [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly), [Made](https://open.spotify.com/artist/3rpMFsPJ2Kz9diHGS0amYd) | [Paid In Full](https://open.spotify.com/album/3w6wU3afkvu5aPikb9dFJb) | 3:13 |
 | 35 | [Type Of Love](https://open.spotify.com/track/30rdwxo87Po465oFBc8z2H) | [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Type Of Love](https://open.spotify.com/album/0Kk1jX4iTIq53IVjZ0rpDU) | 2:00 |
 | 36 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Trust In God / More Than Able](https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj) | 7:22 |
 | 37 | [window for glory to slide in](https://open.spotify.com/track/5b9CS1RBIm14N7iwkNagCi) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [window for glory to slide in](https://open.spotify.com/album/5wZB2DqroDkDKsdvPtZpHN) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Blackberry Squash](https://open.spotify.com/track/6hweUFHtudeI3RdwsGD5J2) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Blackberry Squash](https://open.spotify.com/album/4xA6fF7xmaJg7D60M7paoK) | 2:08 |
 | 100 | [Up Now](https://open.spotify.com/track/0qHq9b2uTHw8DxHeNIuLte) | [Cory Ard](https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [Up Now](https://open.spotify.com/album/4Chi5xHfNmg27bv20D33ZK) | 3:02 |
 
-Snapshot ID: `MCxmMmVhZWIxMjRmZDJlNmM0NzAzZDE2NDQxOTQ4MDAyYjdhODk2Y2Rm`
+Snapshot ID: `MCw3NjAyNThhOWU2YmJlMTAyNWQwMzljNDk0MTZmOTQ4NTBmYzc5MTQ4`

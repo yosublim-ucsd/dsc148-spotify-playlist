@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Listen to the finest Jazz made in Belgium. Cover: L\u0169p\u1e01GangGang\n",
+  "description": "Listen to the finest Jazz made in Belgium. Cover: ECHT!\n",
   "name": "Belgo-Jazz",
   "tracks": [
     {
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 213066,
       "name": "Hubert",
       "url": "https://open.spotify.com/track/1h2KLGLh0M2U4vvgs3jaCY"
@@ -1986,10 +1986,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 401333,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/7i09pfaygJs6QkxWYfHc2q"
+    },
+    {
+      "album": {
+        "name": "Ostend",
+        "url": "https://open.spotify.com/album/6zDX7WsgITFRx7OvoMjom5"
+      },
+      "artists": [
+        {
+          "name": "KVR",
+          "url": "https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262460,
+      "name": "Ostend",
+      "url": "https://open.spotify.com/track/7qL6fzjiN5TZ8ULxKbbmcA"
     },
     {
       "album": {
@@ -2383,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Sink-Along",
+        "url": "https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT"
+      },
+      "artists": [
+        {
+          "name": "ECHT!",
+          "url": "https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208955,
+      "name": "Rouf-rouf",
+      "url": "https://open.spotify.com/track/17QU94mEoN2moywNnBohht"
+    },
+    {
+      "album": {
         "name": "IRONEYE",
         "url": "https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C"
       },
@@ -2532,7 +2568,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 357360,
       "name": "Steam - Live at Flagey",
       "url": "https://open.spotify.com/track/1gkQOLuTbGJeMDUtx1Rzul"
@@ -2724,6 +2760,24 @@
       "duration_ms": 679960,
       "name": "Terra",
       "url": "https://open.spotify.com/track/6z4iG45MiRRTnnXutPvi6A"
+    },
+    {
+      "album": {
+        "name": "Call Of The Quagga Quagga",
+        "url": "https://open.spotify.com/album/2EvdjR9ghHhHNtypwGB8S8"
+      },
+      "artists": [
+        {
+          "name": "Echoes of Zoo",
+          "url": "https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410293,
+      "name": "The Call of the Quagga Quagga",
+      "url": "https://open.spotify.com/track/3mKokrtZqNAPfiAg0Jo30P"
     },
     {
       "album": {

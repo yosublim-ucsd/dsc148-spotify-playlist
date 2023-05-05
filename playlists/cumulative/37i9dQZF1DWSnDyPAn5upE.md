@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-148 songs - 11 hr 31 min
+149 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dawn of Awakening](https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Dawn of Awakening](https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd) | 4:00 | 2022-12-02 |  |
 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 | 2022-05-18 |  |
 | [does it have to be beautiful](https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 1:59 | 2022-05-18 | 2023-02-28 |
+| [DOG](https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7) | 1:44 | 2023-04-28 |  |
 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 | 2022-09-30 | 2023-04-30 |
 | [Dots](https://open.spotify.com/track/0vaI72djhPZn4qH2zjZNmL) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:05 | 2022-05-18 | 2023-03-19 |
 | [Dreamchild](https://open.spotify.com/track/5PG5banaDkXJ4bUnGeMC6B) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Dreamchild](https://open.spotify.com/album/00Wj5Pefdv1vohBqX8zjFG) | 2:54 | 2023-01-20 | 2023-02-03 |
@@ -137,7 +138,7 @@
 | [Strong, Calm, Slow](https://open.spotify.com/track/04hxiOfjtsfxidKASQX7dr) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Strong, Calm, Slow](https://open.spotify.com/album/5BElDhjtRPpJhkDp8cFeK0) | 3:58 | 2022-05-18 | 2022-07-28 |
 | [Strong, Calm, Slow](https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Cliodynamics](https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6) | 3:58 | 2022-05-18 |  |
 | [Stöltzle](https://open.spotify.com/track/6g54j22O79y49NTtcPG6LV) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q), [Daniel Lentz](https://open.spotify.com/artist/1ZQoNPK02AD5iWU6HcPb1f) | [FRKWYS Vol\. 16: In a Word](https://open.spotify.com/album/4LzT4gnORzaNTIwAngpCgK) | 8:04 | 2022-05-18 | 2022-07-28 |
-| [Sudany](https://open.spotify.com/track/2zY9uXtDJ5Qf4XVXwDlc78) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Sudany](https://open.spotify.com/album/3LAoQzv2tyJVNuf2amKTCp) | 4:20 | 2022-10-10 |  |
+| [Sudany](https://open.spotify.com/track/2zY9uXtDJ5Qf4XVXwDlc78) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Sudany](https://open.spotify.com/album/3LAoQzv2tyJVNuf2amKTCp) | 4:20 | 2022-10-10 | 2023-05-05 |
 | [Tendril](https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL) | 4:36 | 2022-05-18 |  |
 | [The 90s Was A Feeling](https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O), [Party Store](https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2) | [The 90s Was A Feeling](https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw) | 6:50 | 2023-01-20 | 2023-03-09 |
 | [The Journey](https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:55 | 2022-10-10 |  |

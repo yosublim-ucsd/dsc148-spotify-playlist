@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-118 songs - 14 hr 9 min
+119 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 | 2022-05-29 |  |
 | [Police & Thieves](https://open.spotify.com/track/5EbS1wLlc1w3SqrgvWPdva) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:50 | 2022-06-28 | 2022-09-30 |
 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 | 2022-05-29 |  |
-| [prism](https://open.spotify.com/track/4hLvu9C8Dgilg8ROt2j80D) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [prism](https://open.spotify.com/album/3paJmYEdE6EDpMBdv8rTTw) | 9:43 | 2023-02-25 |  |
+| [prism](https://open.spotify.com/track/02muX0Vgv0DvAapP1k5vtw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [H.O.M.E\. \(high orbs mini earths\)](https://open.spotify.com/album/5evNpD3p6s9dqWEsdLPrfT) | 9:43 | 2023-05-04 |  |
+| [prism](https://open.spotify.com/track/4hLvu9C8Dgilg8ROt2j80D) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [prism](https://open.spotify.com/album/3paJmYEdE6EDpMBdv8rTTw) | 9:43 | 2023-02-25 | 2023-05-05 |
 | [Promis](https://open.spotify.com/track/43V7oxArZZrZZWDABM3FpX) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Cydonia](https://open.spotify.com/album/104kapJ0A7RBMaNKzL4oD6) | 5:27 | 2022-07-28 | 2022-10-06 |
 | [Ripples](https://open.spotify.com/track/65lvKJ480u9XNFACkKsPII) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Okie Dokie It´s The Orb On Kompakt](https://open.spotify.com/album/3m3V6T3l7IczkqgMKy5QVI) | 5:51 | 2022-06-12 | 2022-08-16 |
 | [Rush Hill Road](https://open.spotify.com/track/0pk2tbLN4rVB0fKTTW9VYL) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 5:55 | 2022-06-02 | 2022-08-27 |

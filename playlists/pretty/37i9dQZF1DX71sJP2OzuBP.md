@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,653 likes - 109 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,658 likes - 109 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 90 | [如果沒有你](https://open.spotify.com/track/4pUL8mEr7uFj0auuqWc82i) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [不如在歌裡遇見](https://open.spotify.com/album/7bJpER8m82kNz2y2vM7PC5) | 3:48 |
 | 91 | [我們的故事](https://open.spotify.com/track/1DeRXF3wGmB1jiAL6BCxDG) | [Yuki Hsu](https://open.spotify.com/artist/06w51RzkHkpkp2x09REY7v) | [我們的故事](https://open.spotify.com/album/3DFNVxLXMH1GVWghVivBFs) | 4:24 |
 | 92 | [也許路很長](https://open.spotify.com/track/2h8nkZW9vo6ikAPnY6z4xi) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [也許路很長](https://open.spotify.com/album/78aNvZpHJiGL8Z8DkohZLh) | 3:55 |
-| 93 | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/track/6k01KDiuu7qbh4q2biY5rJ) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/album/7cK697UhfDbeRtMzPL5XPj) | 3:24 |
+| 93 | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/track/1o2YahIfTmz9ibLLdkDe2X) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [为时已晚\(《龙城》影视剧插曲\)](https://open.spotify.com/album/1wfjNR1UkthScF5MhsAef6) | 3:24 |
 | 94 | [迷宮](https://open.spotify.com/track/6tQI5p9KkqpAxyKBxi8Oai) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD) | [迷宮](https://open.spotify.com/album/4rFrfDXSwj87JqvJKmptxD) | 3:37 |
 | 95 | [情歌沒說的事](https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [情歌沒說的事](https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY) | 3:54 |
 | 96 | [出沒在恆久的我們](https://open.spotify.com/track/3XMtu1hYDWgqNgOyGu1ioO) | [Lucas 盧子翔](https://open.spotify.com/artist/4xzJhLwj8iD6dnNLM1NUVe), [葉柔](https://open.spotify.com/artist/3kCo5hH1MFJ4EgXARlmWb0) | [出沒在恆久的我們](https://open.spotify.com/album/0QIMOnJ58b90Fr2z8B0cLF) | 4:02 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 108 | [你是我的歌 \- 《不二兄弟》電影主題曲](https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [你是我的歌 \(《不二兄弟》電影主題曲\)](https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW) | 3:37 |
 | 109 | [最美的地方](https://open.spotify.com/track/4NFWjLRDqcCdOGmMRg4hmL) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [最美的地方](https://open.spotify.com/album/6KWYn8amTApFMCwpuABBF5) | 3:58 |
 
-Snapshot ID: `MCxmYjc0OGI5ODczMWY3Mzg5YmNiZmFiNjIyYTQ5MTg1NjI4NzIxYjM2`
+Snapshot ID: `MCxiMWYyN2ZlZjI5NTExMWY4YTgyMDMwNDZlOGE0ODJhYzI4ZDhiNjlm`

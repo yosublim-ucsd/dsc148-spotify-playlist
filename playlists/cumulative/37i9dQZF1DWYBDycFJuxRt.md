@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/317879?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-1,253 songs - 3 day 4 hr 9 min
+1,254 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [I'm ready to die for my friends](https://open.spotify.com/track/2CQVZQ31zugcnfaxCkuR2N) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [I'm ready to die for my friends](https://open.spotify.com/album/3iy3EnIGs1JF8diFJrBJCF) | 3:50 | 2023-04-12 | 2023-04-19 |
 | [I'm ready to die for my friends feat\. VIGORMAN](https://open.spotify.com/track/5DuVjqdlAK1NclYlmPG5Kr) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [I'm ready to die for my friends feat\. VIGORMAN](https://open.spotify.com/album/7c3JvsgBgxuMBi6d1q9Rd3) | 3:50 | 2023-04-11 | 2023-04-13 |
 | [i.e.](https://open.spotify.com/track/56D1XjLDRNIl2J6MDxBBHe) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [i.e.](https://open.spotify.com/album/56m3Rh00xKiMl6gOowxBV5) | 4:52 | 2023-05-02 |  |
+| [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral Version](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 | 2023-05-03 |  |
 | [If the Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If the Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 | 2023-05-02 |  |
 | [In Da Club](https://open.spotify.com/track/5ygbawTd45qE7v0b3nm5UM) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [GREEN KIDS](https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE), [acha](https://open.spotify.com/artist/2dGmHsaMrg4ugaPitdCLDA), [Flight\-A](https://open.spotify.com/artist/1THqfAAgE7cG20VwdMu0dh), [Swag\-A](https://open.spotify.com/artist/1rsNd66RgHfpsr8poImDDm), [Crazy\-K](https://open.spotify.com/artist/5plEGylcB4vrDbh3CdLUMN), [BARCO](https://open.spotify.com/artist/5zhO8Dv5JVs3P9bnFVRIgR) | [In Da Club](https://open.spotify.com/album/7rwlJ483BMKLF8eHnQOikM) | 3:01 | 2023-02-21 | 2023-03-01 |
 | [Inner Flight](https://open.spotify.com/track/1FyZDPAWN0ZonSt95lvxGr) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ), [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [Inner Flight](https://open.spotify.com/album/47rJv4QQ7AsIdiDlpiDWNr) | 3:53 | 2023-03-01 | 2023-03-08 |

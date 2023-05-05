@@ -4,7 +4,7 @@
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-143 songs - 6 hr 33 min
+144 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [I <3 Harajuku](https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [I <3 Harajuku](https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF) | 2:26 | 2022-05-12 |  |
 | [i don't want that many friends in the first place](https://open.spotify.com/track/3V0fqhKmCjm6UbS8ARgyCs) | [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7), [cody06](https://open.spotify.com/artist/2UTGurWdxcnfsCAK0FopWO), [omur](https://open.spotify.com/artist/6aqOypoPT8W9AYVhWYTfQA) | [i don't want that many friends in the first place](https://open.spotify.com/album/1h4ajFGG4S3RZQNG33LLtv) | 1:49 | 2022-11-29 | 2023-02-25 |
 | [I Don't Want That Many Friends in the First Place](https://open.spotify.com/track/490OK7QdkPnqAxOCUI2iHF) | [richiequinn](https://open.spotify.com/artist/1qc4Ie27sWHNYeFgAkvwjd) | [I Don't Want That Many Friends in the First Place](https://open.spotify.com/album/2ka4LLM77O00KdcLNxLgui) | 1:49 | 2022-11-29 | 2023-03-25 |
+| [i dont want that many friends in the first place](https://open.spotify.com/track/1xFuBxI09SRHgGqWXhQD1r) | [Cardingfraud](https://open.spotify.com/artist/7dlJAAr67mxtAK8wT96aR7) | [i dont want that many friends in the first place](https://open.spotify.com/album/3KgJ3C3LTkIGjn7uqY42My) | 1:50 | 2023-04-27 |  |
 | [I dont want that many friends in the first place](https://open.spotify.com/track/7kXnHbV1EaQD1atCzRmfMq) | [Poorasike](https://open.spotify.com/artist/7Dg4tAfFLdPR5v0PAbdYZe) | [I dont want that many friends in the first place](https://open.spotify.com/album/6jmZMFNROzYBpDgPW2hFGR) | 1:49 | 2022-11-29 | 2023-04-19 |
 | [i dont want that many friends in the first place](https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv) | 1:49 | 2021-09-23 | 2022-10-25 |
 | [i dont want that many friends in the first place](https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt) | 1:49 | 2022-10-21 | 2023-01-05 |
@@ -106,7 +107,7 @@
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2021-12-21 |  |
 | [Koi](https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Riot Boi](https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W) | 3:48 | 2021-09-23 | 2022-10-31 |
 | [Kyoto](https://open.spotify.com/track/0w5q3dNRtPitKiaLLmUxVV) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto](https://open.spotify.com/album/4SxJz95wjshU0vPZkwss4J) | 2:41 | 2021-09-23 | 2022-05-13 |
-| [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 | 2022-01-18 |  |
+| [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 | 2022-01-18 | 2023-05-05 |
 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 | 2022-05-12 |  |
 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 | 2022-01-18 | 2022-10-14 |
 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 | 2021-09-23 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda & Soolking",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : L2B",
   "name": "R&Bae",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 170539,
       "name": "Br\u00fbler",
       "url": "https://open.spotify.com/track/1ruP1lNZ6OqgEm4oPsjz4G"
@@ -350,6 +350,24 @@
       "duration_ms": 176213,
       "name": "CHOUCHOU",
       "url": "https://open.spotify.com/track/1XzdJhNSc3GGvdQ6aBAi1V"
+    },
+    {
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/0H8PSYkG1CXQna6ycNcMAM"
+      },
+      "artists": [
+        {
+          "name": "Nina Rossell",
+          "url": "https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165737,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/6Wgq0Mr4D7BsYwhCfU3JGt"
     },
     {
       "album": {
@@ -846,7 +864,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 189299,
       "name": "GUEST LIST",
       "url": "https://open.spotify.com/track/5vEvOtrShrpAUcDsv8WxjA"
@@ -1041,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Johanna",
+        "url": "https://open.spotify.com/album/18sdgENHGeQXaUUStl9TBR"
+      },
+      "artists": [
+        {
+          "name": "Royce",
+          "url": "https://open.spotify.com/artist/7vIfh9cz4s4vKX8QWggX8a"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130280,
+      "name": "Johanna",
+      "url": "https://open.spotify.com/track/6IsuxiMJ6L0Qc90EAHIKjZ"
+    },
+    {
+      "album": {
         "name": "Joujou",
         "url": "https://open.spotify.com/album/5afNscbokNL1uq52RKHO3m"
       },
@@ -1190,6 +1226,24 @@
       "duration_ms": 155000,
       "name": "Le ciel s'en rappelle",
       "url": "https://open.spotify.com/track/32ZKmrDdhJKMV8Hb9ij303"
+    },
+    {
+      "album": {
+        "name": "Un peu de moi",
+        "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Le coeur ou la raison",
+      "url": "https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609"
     },
     {
       "album": {

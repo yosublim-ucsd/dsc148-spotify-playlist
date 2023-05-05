@@ -4,7 +4,7 @@
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-147 songs - 20 hr 21 min
+148 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Celestial Valley \- Instrumental](https://open.spotify.com/track/0qoFbRRIO9V8Pz99TkFk0H) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: Shri Camel](https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6) | 11:31 | 2022-05-29 |  |
 | [Chorale of the Blessed Day](https://open.spotify.com/track/4D7PdsN9vnlJTKVhg7m7dg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:26 | 2022-05-29 | 2022-11-25 |
 | [Church of Anthrax](https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 9:05 | 2022-05-29 |  |
-| [Conversation with the Sirocco](https://open.spotify.com/track/4RFcJpJZt6NorK6jLAK2kM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 7:05 | 2023-02-12 |  |
+| [Conversation with the Sirocco](https://open.spotify.com/track/4RFcJpJZt6NorK6jLAK2kM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 7:05 | 2023-02-12 | 2023-05-05 |
 | [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 | 2022-05-29 | 2023-05-04 |
 | [Danzero](https://open.spotify.com/track/6s5fuddspiuGL9jY4G66Oc) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Paul Dresher Ensemble](https://open.spotify.com/artist/59OLF0W5mXpXwjfnAhpIWF) | [Banana Humberto](https://open.spotify.com/album/4F8QZyltxqZJXe7UtvWGBY) | 13:20 | 2023-02-24 | 2023-05-03 |
 | [Dark Queen](https://open.spotify.com/track/5GGEurc6TiBvLliZJhiNvG) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7) | 13:47 | 2023-03-26 | 2023-03-28 |
@@ -145,6 +145,7 @@
 | [The Philosopher's Hand](https://open.spotify.com/track/4NdbeJcRUUPbeB8J0pNfv8) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Terry Riley: Requiem for Adam](https://open.spotify.com/album/2BY9zLwj9NoeciIPeFLbg5) | 5:50 | 2023-02-25 | 2023-03-14 |
 | [The Pipes Of Medb](https://open.spotify.com/track/7llIs9Vk75pI5HsDXPg75x) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Chanting The Light Of Foresight](https://open.spotify.com/album/2nqvQX2JMumuvwVvA0WPqp) | 7:06 | 2022-05-29 | 2023-03-20 |
 | [The Protege](https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 2:54 | 2022-06-12 |  |
+| [The Room Of Remembrance, Part I](https://open.spotify.com/track/179FOrkHvW9gtlK64Wd0tu) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Intuitive Leaps: Zeitgeist Plays Terry Riley](https://open.spotify.com/album/3kqjx7WXd8t4850BJfhz7b) | 13:09 | 2023-05-04 |  |
 | [The Room Of Remembrance, Part II](https://open.spotify.com/track/5yJJm4i3TmshnYgajZP3mg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Intuitive Leaps: Zeitgeist Plays Terry Riley](https://open.spotify.com/album/3kqjx7WXd8t4850BJfhz7b) | 6:03 | 2023-04-04 | 2023-04-06 |
 | [The Soul of Patrick Lee](https://open.spotify.com/track/0GaT82s6CpgvesuSpV8nZg) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 2:48 | 2022-05-29 |  |
 | [The War on the Poor](https://open.spotify.com/track/0QzXHnMXyxyMei1sYboG6E) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 8:30 | 2022-06-03 | 2023-03-25 |

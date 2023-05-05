@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGEzM2ZjN2ZkYjE3NWI3YTcyNTMzM2UzY2MwNDYzNjJkNTEzZjA5",
+  "snapshot_id": "MCxmNmQzYmViNWZmYzkzZDZkMmNlYjk5MTk0NzAwMTU3MjA1YmNlMjA0",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
       },
       "artists": [
         {
-          "name": "Timecop1983",
-          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 358200,
-      "name": "It Was Only a Dream",
-      "url": "https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn"
+      "duration_ms": 409066,
+      "name": "Melancholia II",
+      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
       },
       "artists": [
         {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "Timecop1983",
+          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
         }
       ],
-      "duration_ms": 409066,
-      "name": "Melancholia II",
-      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+      "duration_ms": 358200,
+      "name": "It Was Only a Dream",
+      "url": "https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 126091,
+      "name": "In McDonalds",
+      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Black Corner Den",
         "url": "https://open.spotify.com/album/10flibooBjjwWKy02B5obV"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+        "name": "Lost Themes",
+        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
       },
       "artists": [
         {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
         }
       ],
-      "duration_ms": 126091,
-      "name": "In McDonalds",
-      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
+      "duration_ms": 284640,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -759,22 +775,6 @@
       "duration_ms": 244813,
       "name": "The Experience Of Swimming - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Lost Themes",
-        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
     },
     {
       "added_at": "2022-07-06 17:58:03",

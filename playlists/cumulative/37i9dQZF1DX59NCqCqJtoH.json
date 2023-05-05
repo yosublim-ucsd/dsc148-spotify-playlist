@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 249704,
       "name": "Forever & Always",
       "url": "https://open.spotify.com/track/2keT649m2xIywngAVJHsuC"
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 230615,
       "name": "freckles,",
       "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
@@ -6628,7 +6628,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 60869,
       "name": "my fault",
       "url": "https://open.spotify.com/track/36WabQN781ejYiSWKQAzDD"
@@ -7788,6 +7788,24 @@
       "duration_ms": 123428,
       "name": "Quarantined from My Love",
       "url": "https://open.spotify.com/track/0jltLZz2X5uuBNY4ujWafX"
+    },
+    {
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161201,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
     },
     {
       "album": {
@@ -9279,6 +9297,24 @@
     },
     {
       "album": {
+        "name": "the dog",
+        "url": "https://open.spotify.com/album/0UEP9M5UNKJNGlqYlybXA0"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165354,
+      "name": "the dog",
+      "url": "https://open.spotify.com/track/0KtSVKfc0uDd7b0dpjIqer"
+    },
+    {
+      "album": {
         "name": "some boring love stories pt 5",
         "url": "https://open.spotify.com/album/26JLBgmg9yNxBcdBhX0f63"
       },
@@ -10452,7 +10488,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 91200,
       "name": "what does he have that i don't?",
       "url": "https://open.spotify.com/track/24ryJISwrqnR9GARIFUMTZ"

@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1465,
+  "num_followers": 1469,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Q3YWVkM2VlNzE4NTJiYjE3OWE5OTIwOTkyOTNmZWMxYWQ4NmVl",
+  "snapshot_id": "MCxlYTc5OGNkY2JhNGI0MzZlMzQ1ZTM2OWE4MGFmZGE2NDVmNWY3MWYw",
   "tracks": [
     {
       "added_at": "2023-04-27 21:59:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
-      },
-      "artists": [
-        {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+      },
+      "artists": [
+        {
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
         "name": "Chai Mata",
         "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
       },
@@ -555,94 +555,6 @@
       "duration_ms": 175000,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Kitooke Kyagonja",
-        "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
-      },
-      "artists": [
-        {
-          "name": "B2c",
-          "url": "https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Kitooke Kyagonja",
-      "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Bulamu",
-        "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
-      },
-      "artists": [
-        {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Bulamu",
-      "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Say your Mine",
-        "url": "https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg"
-      },
-      "artists": [
-        {
-          "name": "Jaye Major",
-          "url": "https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S"
-        },
-        {
-          "name": "Anamie",
-          "url": "https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb"
-        },
-        {
-          "name": "Dubem K",
-          "url": "https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU"
-        }
-      ],
-      "duration_ms": 226478,
-      "name": "Say your Mine",
-      "url": "https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Omwana",
-        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
-      },
-      "artists": [
-        {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Omwana",
-      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Baibe",
-        "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
-      },
-      "artists": [
-        {
-          "name": "Henry Tigan",
-          "url": "https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo"
-        }
-      ],
-      "duration_ms": 254850,
-      "name": "Baibe",
-      "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -671,6 +583,94 @@
       "duration_ms": 222309,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Kitooke Kyagonja",
+        "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
+      },
+      "artists": [
+        {
+          "name": "B2c",
+          "url": "https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Kitooke Kyagonja",
+      "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Omwana",
+        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+      },
+      "artists": [
+        {
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Omwana",
+      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Bulamu",
+        "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
+      },
+      "artists": [
+        {
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "Bulamu",
+      "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Baibe",
+        "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
+      },
+      "artists": [
+        {
+          "name": "Henry Tigan",
+          "url": "https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo"
+        }
+      ],
+      "duration_ms": 254850,
+      "name": "Baibe",
+      "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Say your Mine",
+        "url": "https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg"
+      },
+      "artists": [
+        {
+          "name": "Jaye Major",
+          "url": "https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S"
+        },
+        {
+          "name": "Anamie",
+          "url": "https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb"
+        },
+        {
+          "name": "Dubem K",
+          "url": "https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU"
+        }
+      ],
+      "duration_ms": 226478,
+      "name": "Say your Mine",
+      "url": "https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Don't Stopp",
+      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
         "name": "Sikwebela",
         "url": "https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe"
       },
@@ -727,26 +743,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Bega Bega",
-        "url": "https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 172016,
-      "name": "Bega Bega",
-      "url": "https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "4 U",
         "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
       },
@@ -759,22 +755,6 @@
       "duration_ms": 135965,
       "name": "4 U",
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Don't Stopp",
-      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -795,18 +775,22 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Plan Ki",
-        "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
+        "name": "Bega Bega",
+        "url": "https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9"
       },
       "artists": [
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Plan Ki",
-      "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
+      "duration_ms": 172016,
+      "name": "Bega Bega",
+      "url": "https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -843,6 +827,38 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
+        "name": "Plan Ki",
+        "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Plan Ki",
+      "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Byowaba",
+        "url": "https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 224947,
+      "name": "Byowaba",
+      "url": "https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
         "name": "Saving My Love",
         "url": "https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg"
       },
@@ -867,38 +883,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Byowaba",
-        "url": "https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 224947,
-      "name": "Byowaba",
-      "url": "https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "Geza Bugeza",
         "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
       },
@@ -911,6 +895,26 @@
       "duration_ms": 140822,
       "name": "Geza Bugeza",
       "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px"
+      },
+      "artists": [
+        {
+          "name": "Mugaba",
+          "url": "https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6"
+        },
+        {
+          "name": "Amani Greene",
+          "url": "https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO"
+        }
+      ],
+      "duration_ms": 184778,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
     }
   ],
   "unique_name": "Made In Uganda",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,394 likes - 64 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,409 likes - 64 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 3 | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/album/0Ow1LzDAS3hCPzGNK9TeOT) | 3:39 |
 | 4 | [Chemical Warfare](https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [The Postlude](https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0) | 2:06 |
 | 5 | [Vibrant](https://open.spotify.com/track/0fTyX9kIwMaB721WRrFUy0) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Vibrant](https://open.spotify.com/album/0RQ0KNhY7zQ4XN7z5m4KPi) | 2:48 |
-| 6 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
+| 6 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in the House of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
 | 7 | [Forever In A Song](https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 3:36 |
 | 8 | [Steppin On Ants](https://open.spotify.com/track/5YDASTvCBw2TcJAchOuojX) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Steppin On Ants](https://open.spotify.com/album/36cZEt9NeWpgB9AYaK7CxI) | 2:17 |
 | 9 | [Hit the Crowd](https://open.spotify.com/track/5RbBo1PdfAuLZpD3FctWcl) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Hit the Crowd](https://open.spotify.com/album/4SR6zUuMlHQwneQdaKaSMI) | 2:19 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 63 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 |
 | 64 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MCw2Zjg3ZjY3MmI0ZjUwMjczMjFiOWZhOGU4ZTM3YjhiZGVkMmEyYzZl`
+Snapshot ID: `MCxjM2Q5MjczYWQ3NTc5YjgzNzQ1OWQyYTIyYTdmYjQwN2Q3MWRlMzk5`

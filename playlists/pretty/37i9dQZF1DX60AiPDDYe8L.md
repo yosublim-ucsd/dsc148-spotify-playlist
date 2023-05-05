@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 
 > Las mejores canciones de la reina del pop argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,908 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,014 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 | 59 | [Fascinada](https://open.spotify.com/track/1soSE5sLiMwQQpvz1ptnMC) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Fascinada](https://open.spotify.com/album/0aBNYLhlzYQUC9iryfd1Ld) | 2:43 |
 | 60 | [Besarte Mucho](https://open.spotify.com/track/7xaWEr1KWGBI4IdzVwXUzz) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:18 |
 
-Snapshot ID: `MCwwM2RiNjUzYzIxZGRhZGVlNjQ5NzI0NTRmYmIwZTQxMWZlYTUyNDI5`
+Snapshot ID: `MCwzZTUyZWUxMTMzNDNlMTI4MWE3NmVjYzExZmJmMDFjMTg5Mjc5OTAz`

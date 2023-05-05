@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 213106,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
@@ -6865,6 +6865,40 @@
     },
     {
       "album": {
+        "name": "LEFT RIGHT REMIXX (FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS)",
+        "url": "https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        },
+        {
+          "name": "CIARA",
+          "url": "https://open.spotify.com/artist/0tOYEdn7eVhu3S1eUKff36"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "JAKOPS",
+          "url": "https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE"
+        },
+        {
+          "name": "Jackson",
+          "url": "https://open.spotify.com/artist/7BNHznQrUoZRBlr3aijk7n"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271893,
+      "name": "LEFT RIGHT REMIXX - FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS",
+      "url": "https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar"
+    },
+    {
+      "album": {
         "name": "Lemon Soda",
         "url": "https://open.spotify.com/album/18JumQQ3R2RxhN9GuxO2Ux"
       },
@@ -11923,6 +11957,28 @@
     },
     {
       "album": {
+        "name": "Sunday Cruisin'",
+        "url": "https://open.spotify.com/album/1yhQHrMfcwUcblVzmsTqAR"
+      },
+      "artists": [
+        {
+          "name": "Funkindustry",
+          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
+        },
+        {
+          "name": "JiLL-Decoy association",
+          "url": "https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "Sunday Cruisin'",
+      "url": "https://open.spotify.com/track/6PqeczYy3ZEvRwYPUK3tk6"
+    },
+    {
+      "album": {
         "name": "Falling into your eyes Record",
         "url": "https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz"
       },
@@ -14622,6 +14678,24 @@
       "duration_ms": 165826,
       "name": "\u3042\u308a\u304c\u3068\u3046\u3055\u3088\u306a\u3089",
       "url": "https://open.spotify.com/track/6vTPnDeVmVmY2EtdLc8oVV"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3044\u3058\u3083\u3093",
+        "url": "https://open.spotify.com/album/7AqKS4Zd6YRpuTDumR75HN"
+      },
+      "artists": [
+        {
+          "name": "\u4e95\u624b\u7dbe\u9999",
+          "url": "https://open.spotify.com/artist/2fNTb2FBI4pvPWSxazrNBV"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184107,
+      "name": "\u3044\u3044\u3058\u3083\u3093",
+      "url": "https://open.spotify.com/track/7hKALgOCxMAHD9XkU5rt08"
     },
     {
       "album": {
@@ -17968,7 +18042,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 252546,
       "name": "\u30d2\u30c8\u30df\u30ca\u30ab",
       "url": "https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW"
@@ -21090,7 +21164,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 217874,
       "name": "\u5c4a\u304f\u3001\u672a\u6765\u3078",
       "url": "https://open.spotify.com/track/5iw7azKfMgpeXmkTMJWWmb"

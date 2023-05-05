@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Beartooth
 
-770 songs - 1 day 22 hr 10 min
+771 songs - 1 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Deny the Sun](https://open.spotify.com/track/4imE4U6GmWCOzaWV6r7haj) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Deny the Sun](https://open.spotify.com/album/1DmFgV1PER3DY0cfV4PKf0) | 3:14 | 2023-02-03 |  |
 | [Depression Season](https://open.spotify.com/track/0d2yuOqkP2rtimQ7OHJBex) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Depression Season](https://open.spotify.com/album/7DuxU5W6e3w5wCBsD3pKZr) | 2:55 | 2022-12-09 | 2023-01-28 |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2021-11-26 | 2022-07-02 |
-| [Devastate](https://open.spotify.com/track/5DK1PzaTVvPtINfiywGg9H) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Extrovert](https://open.spotify.com/album/716AG0CLrpw0sP54u1aWvy) | 3:32 | 2023-03-08 |  |
+| [Devastate](https://open.spotify.com/track/5DK1PzaTVvPtINfiywGg9H) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Extrovert](https://open.spotify.com/album/716AG0CLrpw0sP54u1aWvy) | 3:32 | 2023-03-08 | 2023-05-05 |
+| [Devastate](https://open.spotify.com/track/7vxqsIF0X2BrYKazuIWzoh) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Extrovert](https://open.spotify.com/album/2rv0XADiy2bRhJ2ROPAqFy) | 3:32 | 2023-04-28 |  |
 | [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 | 2022-10-21 | 2022-12-17 |
 | [Devil That You Know](https://open.spotify.com/track/5Gq2lezOCHN5rIqIlUkvJ7) | [NHC](https://open.spotify.com/artist/5NkZhEvaFqUeNVwXseoeS3) | [Devil That You Know / Lazy Eyes](https://open.spotify.com/album/6cpjKpQiWtvoDV4gWqARFb) | 3:15 | 2021-11-12 | 2022-01-22 |
 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 | 2022-07-29 | 2023-01-21 |

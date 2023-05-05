@@ -4,7 +4,7 @@
 
 > Just chill.
 
-485 songs - 1 day 3 hr 52 min
+486 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Hate That I Love You](https://open.spotify.com/track/31ShnB0jPGQB2xySyuhtQZ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Hate That I Love You](https://open.spotify.com/album/7Kkj3M3Nq9Rf1ELfTCTcBx) | 3:32 | 2020-02-28 | 2022-07-29 |
 | [Hate That I Love You](https://open.spotify.com/track/3b1hMSra86BaMQRROVk4JD) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:32 | 2022-06-10 | 2022-11-26 |
 | [Haze](https://open.spotify.com/track/5exIfj2rzMhySsDBSrFUih) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Haze](https://open.spotify.com/album/1yIdC4MzIeBaetGPU765Du) | 3:47 | 2019-09-26 | 2022-01-22 |
-| [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 | 2023-02-10 |  |
+| [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 | 2023-02-10 | 2023-05-05 |
 | [Heartache](https://open.spotify.com/track/0u8BOpD24WHSldmmZudHxQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 2:27 | 2022-06-10 | 2022-10-08 |
 | [Heartache](https://open.spotify.com/track/6tP6nwGCCApQUavYO4PFad) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Heartache](https://open.spotify.com/album/0xwb8hxhPBRogt7gG9Pqng) | 2:27 | 2020-07-31 | 2022-07-29 |
 | [Heavenly](https://open.spotify.com/track/6dwNcWigdxPUcqfz2zM6GL) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/7kFz92XFqgJ1mAOlbZT3ky) | 4:48 | 2019-09-06 | 2022-01-22 |
@@ -426,6 +426,7 @@
 | [Tetris People](https://open.spotify.com/track/51sZWHGW1PXyATnMsHxE78) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Tetris People EP](https://open.spotify.com/album/5MiTTycfjIfhePXay7ui0z) | 2:57 | 2021-11-19 | 2022-01-22 |
 | [Thanks Again](https://open.spotify.com/track/6ilACBUGWBHjHugUdYzhtT) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Thanks Again](https://open.spotify.com/album/7xrTBBDHk3tsPLVgQWoqxR) | 3:30 | 2022-04-29 | 2023-04-22 |
 | [that's us](https://open.spotify.com/track/1anxX1NLxxdIjVzomBJK45) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [The Nicholas](https://open.spotify.com/artist/2HOeKK6JSrvz00FoQk0biZ), [rei so la](https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF) | [that's us](https://open.spotify.com/album/7tmJkPTraTuKBJPxQPp4fY) | 2:42 | 2020-10-02 | 2022-08-06 |
+| [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-05-04 |  |
 | [The City](https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [The City](https://open.spotify.com/album/7aOqSME6hWSephSVHYIsxt) | 4:11 | 2020-04-02 | 2022-08-03 |
 | [The Modern Western World](https://open.spotify.com/track/30bLh2OQSfIvDpdu8ckzRg) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM) | 2:21 | 2022-12-22 |  |
 | [The Most Beautiful Thing](https://open.spotify.com/track/7EncNzyGs8uJiQittB38ef) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Most Beautiful Thing](https://open.spotify.com/album/1HPfv8XBrL0EiWOcNPr9q9) | 3:55 | 2020-05-01 | 2022-01-22 |

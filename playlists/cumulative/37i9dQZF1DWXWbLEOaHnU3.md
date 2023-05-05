@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-246 songs - 21 hr 42 min
+247 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Control Machine](https://open.spotify.com/track/71c8wiCCTK63JzK8pLDXGJ) | [No Comment](https://open.spotify.com/artist/7aoZZu8CEJr9f9LUcPv3OP), [Alegro](https://open.spotify.com/artist/276G95zDrERCk7mDdcUCxp) | [Control Machine](https://open.spotify.com/album/6BXKQtklGRXEi7ESkrc90U) | 5:26 | 2022-04-15 | 2022-07-26 |
 | [Counterpoint \- Original Mix](https://open.spotify.com/track/3hX0SqNgTAHfqlNOs4RELC) | [One Function](https://open.spotify.com/artist/2VdxcRZenJ5qgyMjZv5wOI), [Mindbenderz](https://open.spotify.com/artist/1KEtCbyKRdK3yGj7t9EfB2) | [Harmony](https://open.spotify.com/album/44RNAyeyQ50omsKJQMoP6r) | 7:22 | 2022-05-06 | 2022-07-18 |
 | [Crash & Burn](https://open.spotify.com/track/1pmuzoDKupFOcxHkMzpsvY) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Crash & Burn](https://open.spotify.com/album/1N1pSoFlNFVQUaxcfVVDN7) | 3:08 | 2022-05-06 | 2022-07-29 |
+| [Crash & Burn](https://open.spotify.com/track/2BaYYrCKr6Uv8Vs1TD0xHS) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Crash & Burn](https://open.spotify.com/album/2bF58OdXln8I3ZqpAxGDjS) | 3:08 | 2023-03-15 |  |
 | [Crossroads \(Remix\)](https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Major7](https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V), [Rexalted](https://open.spotify.com/artist/6QXNQ8OQ9hbHzg88culdya) | [Crossroads](https://open.spotify.com/album/6KslRrpR7Bao2FZskC5MWI) | 5:43 | 2022-12-22 |  |
 | [Crysis](https://open.spotify.com/track/63QmPu78mNPRloQFVMdM81) | [WoZa](https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej), [Natika](https://open.spotify.com/artist/3fVMekTlDXQulpKvrvGjFG) | [Crysis](https://open.spotify.com/album/1jzuL78QHyNlYdyhiP5PiR) | 5:35 | 2022-05-19 | 2022-05-21 |
 | [DAMN!](https://open.spotify.com/track/2bV1OZj91uEq2RilwkqsgK) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [DAMN!](https://open.spotify.com/album/0O5Zb4KeCunPnXlNOYYHmf) | 2:57 | 2022-06-03 | 2022-06-25 |
@@ -137,7 +138,7 @@
 | [Main Computer](https://open.spotify.com/track/6ut3Xc9Yn5tp9ki4Bg78rl) | [Rinkadink](https://open.spotify.com/artist/06ldxpPnHY1OEWgxglSHA4), [Prohecht](https://open.spotify.com/artist/0cFShzShlfaiIg7ZyzbiZe) | [Main Computer](https://open.spotify.com/album/5ZEFGQ4lEtm8vVneaBP1vt) | 6:29 | 2022-05-19 | 2022-06-08 |
 | [Mantra](https://open.spotify.com/track/63Yiik2JPGd9UzuL0AhjUs) | [MARKZ](https://open.spotify.com/artist/0hNfuXJDUdFMIuNJ2a0KSB) | [Mantra](https://open.spotify.com/album/6aUwD7H6ZDFL7NDuc0QwtK) | 2:52 | 2023-01-12 | 2023-03-31 |
 | [Meditatiohm](https://open.spotify.com/track/20Lvy05zDo3yJOA3nVp1uQ) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Major7](https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V), [Rexalted](https://open.spotify.com/artist/6QXNQ8OQ9hbHzg88culdya) | [Meditatiohm](https://open.spotify.com/album/4pS0TGMoSyifWzHBZyAnYY) | 5:46 | 2022-07-28 | 2022-09-24 |
-| [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 | 2022-07-28 |  |
+| [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 | 2022-07-28 | 2023-05-05 |
 | [Move](https://open.spotify.com/track/1V6KX61KpHJ9Z4mtGeroUO) | [Alchimyst](https://open.spotify.com/artist/2yrruLNIgKetksilWBdJHy), [Coexist](https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf), [Jasmine Knight](https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh) | [Move](https://open.spotify.com/album/5bTj4TS8SQsL4t2ID7Gglr) | 3:10 | 2022-06-03 | 2023-02-28 |
 | [Music Is My Remedy](https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [livicious](https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx) | [Music Is My Remedy](https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v) | 5:06 | 2022-04-15 |  |
 | [My Generation](https://open.spotify.com/track/28ILF9GmA4DYQxKFG1iYLU) | [Krama](https://open.spotify.com/artist/6fz3m9HgQ3s7171AZHvk0j) | [My Generation](https://open.spotify.com/album/5RRAXhC9ve6cnyicgNF4oZ) | 5:23 | 2022-04-15 | 2022-07-28 |

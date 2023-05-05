@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-97 songs - 5 hr 53 min
+98 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 | 2022-12-01 |  |
 | [Careless Whisper](https://open.spotify.com/track/7xIO7GPKco0eG3kxpQpDku) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf) | [Careless Whisper](https://open.spotify.com/album/0mfeqXYenUaDj6jJYHxOOR) | 2:42 | 2022-12-01 | 2023-01-13 |
 | [Changes \- Timmy Trumpet Remix](https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Changes \(Timmy Trumpet Remix\)](https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J) | 2:26 | 2022-12-01 |  |
+| [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4) | 4:18 | 2023-05-04 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-12-01 |  |
 | [Counting Sheep \(V2\) \[2018 Export Wav\] feat\. Injury Reserve](https://open.spotify.com/track/28C8KsOvTwTSrsAN9rcm96) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 2:26 | 2023-02-09 | 2023-04-11 |
 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 | 2022-12-01 |  |
@@ -48,7 +49,7 @@
 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 | 2023-02-23 |  |
 | [How I Like It](https://open.spotify.com/track/1sJ4nhnygOzSqDXqObbweD) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [How I Like It](https://open.spotify.com/album/3bYHBEbMs2B0v3uadisq4C) | 3:11 | 2022-12-01 |  |
 | [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 | 2022-12-01 |  |
-| [Into You \- Vienna Nights Mix](https://open.spotify.com/track/461hznkAq17ywDHFzqA34b) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH), [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [Into You \(Vienna Nights Mix\)](https://open.spotify.com/album/62hKvNCLBrYA7z0zzSRKGj) | 2:45 | 2023-03-31 |  |
+| [Into You \- Vienna Nights Mix](https://open.spotify.com/track/461hznkAq17ywDHFzqA34b) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH), [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [Into You \(Vienna Nights Mix\)](https://open.spotify.com/album/62hKvNCLBrYA7z0zzSRKGj) | 2:45 | 2023-03-31 | 2023-05-05 |
 | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/track/06ETw1BcQZSbimPaKjdB5Z) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/album/7HwXrG10cc8BqUfZtQOLHR) | 4:45 | 2022-12-01 | 2022-12-16 |
 | [Keep Up](https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Keep Up](https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39) | 3:30 | 2022-12-01 |  |
 | [Kryptonite \(feat\. Julia Temos\)](https://open.spotify.com/track/2uMP2WzQTyU4uyOEdfm2WY) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Kryptonite](https://open.spotify.com/album/5vaQxSQf6pano3BHr9VQzG) | 2:10 | 2022-12-01 | 2023-01-13 |

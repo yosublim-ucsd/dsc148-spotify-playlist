@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9M0XCg3OHJ6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9M0XCg3OHJ6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9M0XCg3OHJ6)
 
-### [8 Hours of Sleep White Noise](https://open.spotify.com/playlist/37i9dQZF1DX9M0XCg3OHJ6)
+### [8 Hours of White Noise Sleep](https://open.spotify.com/playlist/37i9dQZF1DX9M0XCg3OHJ6)
 
 > Sail away to dreamland and sleep all night with fluffy and relaxing white noise.
 

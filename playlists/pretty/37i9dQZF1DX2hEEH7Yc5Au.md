@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 彭佳慧 \(Julia Peng\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,944 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,969 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [愛你](https://open.spotify.com/track/3DQLU0VzAgXX1OyUBHw1Iv) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [愛你](https://open.spotify.com/album/3LW2lXe7H1THUSa5t3BJjF) | 3:44 |
 | 50 | [我不祝福](https://open.spotify.com/track/5Ug1fHBI0dOwkRZlQpViPx) | [陶晶莹](https://open.spotify.com/artist/1nLHiAOrjLbc0Pju8elCu0) | [真的假的](https://open.spotify.com/album/0eg1sbVqtUcNZDrPnURNJO) | 4:24 |
 
-Snapshot ID: `MCw1MWQ1M2UwN2Y4YTJjNGVjZDJlMzIwNmE2OTliOGY5MGJmNDk3NjUx`
+Snapshot ID: `MCxhNzM1ZTA1MTI4NTgyZDYzN2E1YWY5Njc2YjIyNjY2NmE5NDE2OWRi`

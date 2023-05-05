@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=fL99jsIQS3OdQLYrAT5RlA\"> Sut\u00e9 Iwar</a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=vjDDUivWQb604vAkRuI_dw\"> Fireboy DML</a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 186947,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/052blcya1EJNErdYq2HHbA"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 147091,
       "name": "Balablu",
       "url": "https://open.spotify.com/track/60Sewwrwex32vWYXNi6zgJ"
@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Co-Star",
+        "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166533,
+      "name": "Co-Star",
+      "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
+    },
+    {
+      "album": {
         "name": "Satin Cassette",
         "url": "https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV"
       },
@@ -1659,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Girls Only Want One Thing",
+        "url": "https://open.spotify.com/album/5jpo31VrGoSFBYQNkqjx37"
+      },
+      "artists": [
+        {
+          "name": "Gye",
+          "url": "https://open.spotify.com/artist/25XKqqjQWYuC2WCVTa3yAz"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117860,
+      "name": "Corned Beef Gespatcho",
+      "url": "https://open.spotify.com/track/33QRzhLuDm2XxYLMsS6FWn"
+    },
+    {
+      "album": {
         "name": "Crazy Tings",
         "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
       },
@@ -1870,7 +1906,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
@@ -2572,7 +2608,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 224000,
       "name": "Gettin' Hot",
       "url": "https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ"
@@ -3200,6 +3236,32 @@
       "duration_ms": 258000,
       "name": "I Would Hope",
       "url": "https://open.spotify.com/track/3n1X0Ej7DxCVQQqoPd8GYV"
+    },
+    {
+      "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/5yt8yhFIRTXMtBnnqcD3Ul"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155550,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/6LVQaE9vOEGxFKQ3tTWU0B"
     },
     {
       "album": {
@@ -5233,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "ACT 3",
+        "url": "https://open.spotify.com/album/4qcKBpbjvMZFJIZwDSs1ez"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220740,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb"
+    },
+    {
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/21FZqC9TeNYqgJJFEOMaRU"
       },
@@ -5810,7 +5890,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 220894,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
@@ -6411,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157722,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
+    },
+    {
+      "album": {
         "name": "sorry it didn't work out",
         "url": "https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw"
       },
@@ -6524,7 +6622,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 214666,
       "name": "STAR PLAYER",
       "url": "https://open.spotify.com/track/0rwITaQrtUGTb4NwihJihM"
@@ -6692,6 +6790,24 @@
       "duration_ms": 332307,
       "name": "SUSHI STAND!",
       "url": "https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP"
+    },
+    {
+      "album": {
+        "name": "SUV",
+        "url": "https://open.spotify.com/album/54RojlSYjybyjnpiwy18tE"
+      },
+      "artists": [
+        {
+          "name": "Sofie",
+          "url": "https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178003,
+      "name": "SUV",
+      "url": "https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN"
     },
     {
       "album": {
@@ -7150,7 +7266,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 148800,
       "name": "TROUBLE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
@@ -7318,6 +7434,32 @@
       "duration_ms": 143484,
       "name": "Up",
       "url": "https://open.spotify.com/track/5GTXa4WXtncHY5Ztbb8yX2"
+    },
+    {
+      "album": {
+        "name": "Color Blind",
+        "url": "https://open.spotify.com/album/2u0YrATRVSaGfjArfIshdX"
+      },
+      "artists": [
+        {
+          "name": "Tena Tenpo",
+          "url": "https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN"
+        },
+        {
+          "name": "benmaelen",
+          "url": "https://open.spotify.com/artist/7rQenKdDeM6d5o7GOBwWnq"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/17mf9XIYI25YOaBolVvZXB"
     },
     {
       "album": {

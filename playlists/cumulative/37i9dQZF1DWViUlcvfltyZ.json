@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Sidea in cover!",
+  "description": "La playlist che \u00e8 come andare ai concerti. Federico Dragogna in cover!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -424,6 +424,24 @@
       "duration_ms": 249626,
       "name": "around my neck",
       "url": "https://open.spotify.com/track/42UjxTXLgUAgBTjBoUiBpo"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/4TLZiuTm8s3CAaW8UbdqVb"
+      },
+      "artists": [
+        {
+          "name": "Klidas",
+          "url": "https://open.spotify.com/artist/2hR1G6mVtRjuPOHEPutdtP"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416603,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4Ne74jsYB7Jx87rk97SzzD"
     },
     {
       "album": {
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 225676,
       "name": "Castelli di sabbia",
       "url": "https://open.spotify.com/track/2SPCnoU0hUdcWdpfwu8tYL"
@@ -2267,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "Fading Away",
+        "url": "https://open.spotify.com/album/1nCZzNHlTrBURvqWZzHd3s"
+      },
+      "artists": [
+        {
+          "name": "Dance! No Thanks",
+          "url": "https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141195,
+      "name": "Fading Away",
+      "url": "https://open.spotify.com/track/4yhwX1xznY4gHKw8JqglUl"
+    },
+    {
+      "album": {
         "name": "Fading into Day",
         "url": "https://open.spotify.com/album/0lcTfY7Bazk27HmeMTguXx"
       },
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 173519,
       "name": "Figli dei Fuori",
       "url": "https://open.spotify.com/track/7mJnXY68DYA1ewp1QF6AiK"
@@ -3134,7 +3170,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 214000,
       "name": "Il desiderio che mi frega",
       "url": "https://open.spotify.com/track/3RAtWzNMmlfMmSNc5jJBVk"
@@ -3394,7 +3430,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 205293,
       "name": "Jap'n Cazz",
       "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
@@ -4216,7 +4252,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 198989,
       "name": "Minotauro",
       "url": "https://open.spotify.com/track/0LBVX7wOR1PBThlKHpoyLW"
@@ -4508,6 +4544,24 @@
       "duration_ms": 200237,
       "name": "Noi, i cani, le pere",
       "url": "https://open.spotify.com/track/7aTvnIzo5nzneTH8fZbv1F"
+    },
+    {
+      "album": {
+        "name": "Noia",
+        "url": "https://open.spotify.com/album/0qpN3bryoImwQnTZ3SX2b4"
+      },
+      "artists": [
+        {
+          "name": "SPEAKEASY",
+          "url": "https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181635,
+      "name": "Noia",
+      "url": "https://open.spotify.com/track/58U67g9ULmIfNxZn5WoKzT"
     },
     {
       "album": {
@@ -5765,6 +5819,42 @@
     },
     {
       "album": {
+        "name": "Dove Nascere",
+        "url": "https://open.spotify.com/album/5IQuptSUz3npCcpJcjVypI"
+      },
+      "artists": [
+        {
+          "name": "Federico Dragogna",
+          "url": "https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156576,
+      "name": "Scomparire il rumore",
+      "url": "https://open.spotify.com/track/640HPkDgsy0HXv9AkWPhrE"
+    },
+    {
+      "album": {
+        "name": "Seduci",
+        "url": "https://open.spotify.com/album/6fiurr1oyIS6QJyt1NDoVp"
+      },
+      "artists": [
+        {
+          "name": "Ibisco",
+          "url": "https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197722,
+      "name": "Seduci",
+      "url": "https://open.spotify.com/track/4tDdBZoyhIgvyUueCEMxvG"
+    },
+    {
+      "album": {
         "name": "Senza Fine",
         "url": "https://open.spotify.com/album/2SlwwWFm3wZ9xFMwwntgup"
       },
@@ -6032,6 +6122,24 @@
       "duration_ms": 159706,
       "name": "sober",
       "url": "https://open.spotify.com/track/1LmM5Y3OnbNAeTVKg73Jgc"
+    },
+    {
+      "album": {
+        "name": "Something Is Not Right",
+        "url": "https://open.spotify.com/album/5btnTuoNpS1zzeEKegid1g"
+      },
+      "artists": [
+        {
+          "name": "MILANOSPORT",
+          "url": "https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194611,
+      "name": "Something Is Not Right",
+      "url": "https://open.spotify.com/track/3hivAsteiv2WRxrKYftutV"
     },
     {
       "album": {
@@ -6762,7 +6870,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 140975,
       "name": "Tipi a posto",
       "url": "https://open.spotify.com/track/7dhM6cmSACQt53M0T7Vnqb"

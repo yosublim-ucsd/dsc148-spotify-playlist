@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,469 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,497 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 39 | [Drift](https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Drift](https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J) | 2:44 |
 | 40 | [Free Falling Love](https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Free Falling Love](https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE) | 2:35 |
 | 41 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
-| 42 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 |
-| 43 | [Botanica](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Botanica](https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81) | 3:07 |
-| 44 | [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 |
-| 45 | [Live In The Moment](https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Live In The Moment](https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn) | 3:00 |
+| 42 | [Botanica](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Botanica](https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81) | 3:07 |
+| 43 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 |
+| 44 | [Live In The Moment](https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Live In The Moment](https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn) | 3:00 |
+| 45 | [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 |
 | 46 | [In The Sun](https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [In The Sun](https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy) | 2:32 |
 | 47 | [2 Much](https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH) | [Cookie Crumble](https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [2 Much](https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc) | 2:18 |
 | 48 | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM) | 2:37 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 75 | [Heartbreak In Seychelles](https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Heartbreak In Seychelles](https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL) | 2:56 |
 | 76 | [Come Along](https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Come Along](https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY) | 2:44 |
 | 77 | [Put Your Lips On Mine](https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Put Your Lips On Mine](https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8) | 2:44 |
-| 78 | [Eye Of The Storm](https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Eye Of The Storm](https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey) | 2:27 |
-| 79 | [From The Start \(feat\. Veronica\)](https://open.spotify.com/track/4z7hu5mSYlAfqjD1JICi76) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Veronica](https://open.spotify.com/artist/6yNer6qvaSzSUpOezir835) | [From The Start \(feat\. Veronica\)](https://open.spotify.com/album/577sI6lMQhUBeP7BiK0Plt) | 3:03 |
+| 78 | [From The Start \(feat\. Veronica\)](https://open.spotify.com/track/4z7hu5mSYlAfqjD1JICi76) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Veronica](https://open.spotify.com/artist/6yNer6qvaSzSUpOezir835) | [From The Start \(feat\. Veronica\)](https://open.spotify.com/album/577sI6lMQhUBeP7BiK0Plt) | 3:03 |
+| 79 | [Eye Of The Storm](https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Eye Of The Storm](https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey) | 2:27 |
 | 80 | [Motorcycle](https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk) | [Motorcycle](https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri) | 3:13 |
 
-Snapshot ID: `MCwxYmFjMzk4MWE5NDFiMmJmZGMzNjA2OTVlMmI1OTk4ZTI5YTQxNjBm`
+Snapshot ID: `MCw2ZjllYzI0MWYzYmE2YThhZDRhOTEyMjRjM2IxNjQ2OWNmZmI3NjE2`

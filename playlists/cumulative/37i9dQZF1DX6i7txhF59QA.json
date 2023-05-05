@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 241653,
       "name": "Dancing queen",
       "url": "https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3"
@@ -14552,6 +14552,24 @@
       "duration_ms": 168437,
       "name": "\ube68\ub9ac\uc624\uc624",
       "url": "https://open.spotify.com/track/2dv2MWzqKnvJ7J4zT0FpZ1"
+    },
+    {
+      "album": {
+        "name": "Love & Sorrow",
+        "url": "https://open.spotify.com/album/7h4RemoeFUhIciBd9XwSuA"
+      },
+      "artists": [
+        {
+          "name": "Hye Ri Jang",
+          "url": "https://open.spotify.com/artist/79WoLuXNEK6BdjaYiJxDIH"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\uc0ac\ub791 \uadf8\uac8c \ubb54\ub370",
+      "url": "https://open.spotify.com/track/68J4lQX1gDzuNvYwlckkme"
     },
     {
       "album": {

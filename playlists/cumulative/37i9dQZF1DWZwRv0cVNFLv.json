@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 130000,
       "name": "Asmr City Ambience",
       "url": "https://open.spotify.com/track/2FK1e6foXVW84jKCNt8stP"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 176000,
       "name": "Asmr: Sound of Traffic",
       "url": "https://open.spotify.com/track/4mqmV5x0NzWTLXqjlX2lQr"
@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Embrace The Nature",
+        "url": "https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ"
+      },
+      "artists": [
+        {
+          "name": "The Land Seven",
+          "url": "https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "City Birds",
+      "url": "https://open.spotify.com/track/68AA2srlqdz5enxmU8hKWY"
+    },
+    {
+      "album": {
         "name": "Soundscape in the Cityscape",
         "url": "https://open.spotify.com/album/0FTk0ze5ZOYe6mJzhfCJhC"
       },
@@ -914,7 +932,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 218000,
       "name": "City Noise From the Roof",
       "url": "https://open.spotify.com/track/4yDQAqEZJX0fhLOjyfnPPq"
@@ -968,7 +986,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 147000,
       "name": "City Pulse",
       "url": "https://open.spotify.com/track/4zGzrto9FY9wfHuX6gAq9e"
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 143675,
       "name": "City Rain Sounds For Sleep",
       "url": "https://open.spotify.com/track/4Rx7kkpakaOqklhQDWGsdh"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 174000,
       "name": "City Traffic In Rain",
       "url": "https://open.spotify.com/track/32PtRlfB2dh7PeX2yQyCyp"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 179943,
       "name": "City Traffic with Birds from Park in Melbourne, Australia",
       "url": "https://open.spotify.com/track/01xY1H6J6LUdUhkrSLejsT"
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 259993,
       "name": "Downtown NYC (Part II)",
       "url": "https://open.spotify.com/track/3xblqaLt9Bsrk1IjNTi6rA"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 214148,
       "name": "Exotic Bids & Light Traffic",
       "url": "https://open.spotify.com/track/0kC1rJ8vGmjrvpO2GlI1FD"
@@ -1580,10 +1598,28 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 225205,
       "name": "Forest Avenue",
       "url": "https://open.spotify.com/track/6t0TUsR4GBmafNhQ1qr4aZ"
+    },
+    {
+      "album": {
+        "name": "Streets Of Brooklyn",
+        "url": "https://open.spotify.com/album/1C6UqdLwi3cnzndBgdOBgI"
+      },
+      "artists": [
+        {
+          "name": "Street Smart",
+          "url": "https://open.spotify.com/artist/6VS3SXj0s0s6V8b1rliSHz"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80949,
+      "name": "Franklin Avenue",
+      "url": "https://open.spotify.com/track/2POfSpfxyOjn9IHGzl2OQc"
     },
     {
       "album": {
@@ -1670,7 +1706,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 417494,
       "name": "Gramercy Park, New York City Sounds",
       "url": "https://open.spotify.com/track/6882qigZoLfowYzTny3d9N"
@@ -1688,7 +1724,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 180000,
       "name": "Hanzomon Backstreet Vibe - Seamless",
       "url": "https://open.spotify.com/track/2MNVDTRhy4NCvLRe1bDfLh"
@@ -1713,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "New York City on a Warm Spring Day",
+        "url": "https://open.spotify.com/album/5mGgnJp4617ESb03R0u5G3"
+      },
+      "artists": [
+        {
+          "name": "The Urban Ambience",
+          "url": "https://open.spotify.com/artist/60qVetkhprVt1tm5sz0o83"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Helicopters Over New York City",
+      "url": "https://open.spotify.com/track/7kaDMF1dZ9oOkijet5ACLz"
+    },
+    {
+      "album": {
         "name": "Sonidos De Riviera Maya",
         "url": "https://open.spotify.com/album/4L4NhyU5kOqqxWo9Q31nbg"
       },
@@ -1728,6 +1782,42 @@
       "duration_ms": 175569,
       "name": "Highways & Insects",
       "url": "https://open.spotify.com/track/1kCLW7DbPKniQImqlaAqE2"
+    },
+    {
+      "album": {
+        "name": "WIDE-EMPTY",
+        "url": "https://open.spotify.com/album/0IgIEPoYbcipEdc3rhTRU3"
+      },
+      "artists": [
+        {
+          "name": "WIDE-EMPTY",
+          "url": "https://open.spotify.com/artist/2nS6i8yv9RBsfrtMIayDL6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108320,
+      "name": "Industrial City",
+      "url": "https://open.spotify.com/track/1VH1XeAPZaY8wrCdsL2cQA"
+    },
+    {
+      "album": {
+        "name": "WIDE-EMPTY",
+        "url": "https://open.spotify.com/album/0IgIEPoYbcipEdc3rhTRU3"
+      },
+      "artists": [
+        {
+          "name": "WIDE-EMPTY",
+          "url": "https://open.spotify.com/artist/2nS6i8yv9RBsfrtMIayDL6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89334,
+      "name": "Industrial City - Pt. 2",
+      "url": "https://open.spotify.com/track/78sxt5ksM9GL5FldgYd6zV"
     },
     {
       "album": {
@@ -1814,7 +1904,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 193000,
       "name": "Late Summer Night",
       "url": "https://open.spotify.com/track/5rnM6b7BK5nacJJg6JL1op"
@@ -1868,7 +1958,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 112472,
       "name": "Madison Square Park, Manhattan New York City",
       "url": "https://open.spotify.com/track/1rxO8pqdeKWz1j9VNHWLRm"
@@ -2070,6 +2160,24 @@
       "duration_ms": 174500,
       "name": "Mumbai City Sound",
       "url": "https://open.spotify.com/track/6uInCpBfieKTuI0PhQOLVa"
+    },
+    {
+      "album": {
+        "name": "New York City on a Warm Spring Day",
+        "url": "https://open.spotify.com/album/5mGgnJp4617ESb03R0u5G3"
+      },
+      "artists": [
+        {
+          "name": "The Urban Ambience",
+          "url": "https://open.spotify.com/artist/60qVetkhprVt1tm5sz0o83"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "New York City on a Warm Spring Day",
+      "url": "https://open.spotify.com/track/40cBuZ4MgXnlrlbD9nWOkp"
     },
     {
       "album": {
@@ -2649,6 +2757,42 @@
     },
     {
       "album": {
+        "name": "San Diego",
+        "url": "https://open.spotify.com/album/4Z84n5Mec3GOLchDhYGX2i"
+      },
+      "artists": [
+        {
+          "name": "Night Time Outside",
+          "url": "https://open.spotify.com/artist/7lzAX6NnJRXwEqdaxPqzOe"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "San Diego Evening",
+      "url": "https://open.spotify.com/track/2mAUDg4W1GMsK8TbDwNEiy"
+    },
+    {
+      "album": {
+        "name": "San Diego",
+        "url": "https://open.spotify.com/album/4Z84n5Mec3GOLchDhYGX2i"
+      },
+      "artists": [
+        {
+          "name": "Night Time Outside",
+          "url": "https://open.spotify.com/artist/7lzAX6NnJRXwEqdaxPqzOe"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "San Diego Midnight",
+      "url": "https://open.spotify.com/track/5Q87QXu9YuIk385PWnKqbW"
+    },
+    {
+      "album": {
         "name": "Tokyo Night Streets",
         "url": "https://open.spotify.com/album/0y2b7qJD8gnorRoD0Av0dD"
       },
@@ -2786,7 +2930,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 171333,
       "name": "Soft Berlin Sounds",
       "url": "https://open.spotify.com/track/7rtFf7PSIzZQyDhCmUjQf3"
@@ -3110,7 +3254,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 178000,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/1oxqDw9dJxqqmtZuuGEpwN"
@@ -3240,6 +3384,24 @@
       "duration_ms": 173554,
       "name": "The Heart Of Barcelona",
       "url": "https://open.spotify.com/track/3TYdLQWwZRZCxX98eL87db"
+    },
+    {
+      "album": {
+        "name": "New York City on a Warm Spring Day",
+        "url": "https://open.spotify.com/album/5mGgnJp4617ESb03R0u5G3"
+      },
+      "artists": [
+        {
+          "name": "The Urban Ambience",
+          "url": "https://open.spotify.com/artist/60qVetkhprVt1tm5sz0o83"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "The Sun is Out in NYC",
+      "url": "https://open.spotify.com/track/0x1is2jRjsfRZ0pxhjVGon"
     },
     {
       "album": {
@@ -3456,6 +3618,24 @@
       "duration_ms": 139198,
       "name": "Tribeca, 9th Street and 6th Avenue",
       "url": "https://open.spotify.com/track/6jCVnx036DPO9dQcaNo2OZ"
+    },
+    {
+      "album": {
+        "name": "WIDE-EMPTY",
+        "url": "https://open.spotify.com/album/0IgIEPoYbcipEdc3rhTRU3"
+      },
+      "artists": [
+        {
+          "name": "WIDE-EMPTY",
+          "url": "https://open.spotify.com/artist/2nS6i8yv9RBsfrtMIayDL6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87144,
+      "name": "Underneath the Overpass",
+      "url": "https://open.spotify.com/track/6kTAQkIqfAxZk67Tc0btbk"
     },
     {
       "album": {

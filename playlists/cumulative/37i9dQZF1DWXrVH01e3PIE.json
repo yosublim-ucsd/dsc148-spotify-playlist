@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "aPoLLo13",
+        "url": "https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160547,
+      "name": "aPoLLo13",
+      "url": "https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4"
+    },
+    {
+      "album": {
         "name": "AYER",
         "url": "https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49"
       },
@@ -638,7 +656,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 146106,
       "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
       "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
@@ -1032,6 +1050,28 @@
       "duration_ms": 200347,
       "name": "Dreamsfreebars",
       "url": "https://open.spotify.com/track/4CdYp2FYwarB2soaxirdBJ"
+    },
+    {
+      "album": {
+        "name": "Drill Ar 6",
+        "url": "https://open.spotify.com/album/2DjDPmqIYeVYb6UdPkc6x1"
+      },
+      "artists": [
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        },
+        {
+          "name": "Despu\u00e9s de la fiesta",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102669,
+      "name": "Drill Ar 6",
+      "url": "https://open.spotify.com/track/4WDbhOoYYizdcM0ifB62wp"
     },
     {
       "album": {
@@ -1450,7 +1490,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 210937,
       "name": "GELATO",
       "url": "https://open.spotify.com/track/7Go3Ftz3ogFCeuy7PIO6Su"
@@ -1702,7 +1742,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 162000,
       "name": "Humilde pero Cotizado",
       "url": "https://open.spotify.com/track/4K8LtrJP6kxbwuTvSqpQCf"
@@ -1886,7 +1926,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 160180,
       "name": "Killer Bomb\u00f3n",
       "url": "https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1"
@@ -2778,7 +2818,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 149845,
       "name": "Pico Y Pala",
       "url": "https://open.spotify.com/track/3JLLtB5gBo94OKM2fmCrqv"
@@ -3686,7 +3726,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 231249,
       "name": "TNT",
       "url": "https://open.spotify.com/track/4ld82JEAVNp87NWWslgPJc"
@@ -4218,7 +4258,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 192676,
       "name": "VUO (OvO)",
       "url": "https://open.spotify.com/track/4o91jzdQwj2hQOsYeMuk6M"

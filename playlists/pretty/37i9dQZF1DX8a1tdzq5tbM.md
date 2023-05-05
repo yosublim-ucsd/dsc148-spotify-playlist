@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341,611 likes - 120 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,342,203 likes - 120 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 93 | [Swoon](https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb) | 6:05 |
 | 94 | [The Big Fake](https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI) | [Traffic Signs](https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92) | [I Like Your Booty / The Big Fake](https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3) | 6:24 |
 | 95 | [Step One Two](https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc) | 3:20 |
-| 96 | [Only One \(Radio Edit\)](https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:40 |
-| 97 | [Strange Condition \- Inpetto Radio Edit](https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Strange Condition](https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI) | 3:33 |
-| 98 | [You Make Me Feel](https://open.spotify.com/track/5yjKR9RIBWixx9Cjz6FUft) | [AnnaGrace](https://open.spotify.com/artist/1gGy6vCfc2Q2rAe1uhCCIs) | [Ready to Dare](https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9) | 3:06 |
-| 99 | [Addiction \- Radio Edit](https://open.spotify.com/track/6bUSZYa1aaVXSk7HFzizTm) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Addiction \(Radio Edit\)](https://open.spotify.com/album/1uUn4H2JoPGyDYpqmoBY52) | 2:53 |
+| 96 | [Addiction \- Radio Edit](https://open.spotify.com/track/6bUSZYa1aaVXSk7HFzizTm) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Addiction \(Radio Edit\)](https://open.spotify.com/album/1uUn4H2JoPGyDYpqmoBY52) | 2:53 |
+| 97 | [You Make Me Feel](https://open.spotify.com/track/5yjKR9RIBWixx9Cjz6FUft) | [AnnaGrace](https://open.spotify.com/artist/1gGy6vCfc2Q2rAe1uhCCIs) | [Ready to Dare](https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9) | 3:06 |
+| 98 | [Only One \(Radio Edit\)](https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:40 |
+| 99 | [Strange Condition \- Inpetto Radio Edit](https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Strange Condition](https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI) | 3:33 |
 | 100 | [Imagination \- Tiësto Radio Edit](https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Disconnect \(Platinum Edition\)](https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y) | 3:45 |
 | 101 | [Faded](https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Perfect Day](https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV) | 2:48 |
 | 102 | [Beautiful](https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 5:54 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 115 | [Crush \(Radio Edit\)](https://open.spotify.com/track/7mafch6fDbXB2on5mxijln) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA) | 3:25 |
 | 116 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
 | 117 | [Star 69 \- Timo Maas Mix](https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Star 69](https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ) | 6:11 |
-| 118 | [Summerfish \- Scandall Sunset On Ibiza Instrumental](https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi) | [Leonid Rudenko](https://open.spotify.com/artist/5rFOQi6066JvXPMQWxB5BJ) | [Nervous Nitelife: Vegas](https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62) | 5:57 |
-| 119 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
-| 120 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Ron Reeser](https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY), [Dan Saenz](https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8) | [Awaken \(Part 2\)](https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT) | 3:44 |
+| 118 | [Lady](https://open.spotify.com/track/24eUDw1BAkji6zFVYLIsTf) | [Murphy Byrne](https://open.spotify.com/artist/5lhrJEVrHemuSHKZRCQxBq) | [Lady](https://open.spotify.com/album/5NL2Y4QXc26ljYFNhQFxTq) | 4:34 |
+| 119 | [Summerfish \- Scandall Sunset On Ibiza Instrumental](https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi) | [Leonid Rudenko](https://open.spotify.com/artist/5rFOQi6066JvXPMQWxB5BJ) | [Nervous Nitelife: Vegas](https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62) | 5:57 |
+| 120 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
 
-Snapshot ID: `MCxhMjQ3ZWZjNGVkYzI4MDdiZWZlMjVkMjlkNzRlNDU5MDI4MmVjZGJi`
+Snapshot ID: `MCw2YzM0YTA3ZTYyN2NmZmFlNDdhNjUyN2YyN2IwZDBlZTYzY2I0ZDZk`

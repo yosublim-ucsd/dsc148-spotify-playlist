@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: FendiAlone\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,657 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,662 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [calling](https://open.spotify.com/track/1nT4kjm7Z0STWawhfKCeVd) | [Majent](https://open.spotify.com/artist/6pTVLPzvYW3SvwfyjDxtXX), [Aria Wood](https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK) | [calling](https://open.spotify.com/album/5x6QFQT9SLHOpXY2Sp1TO0) | 2:56 |
 | 100 | [better than home](https://open.spotify.com/track/7MQaz5lj3D7cawOnELwROm) | [Taylor Roche](https://open.spotify.com/artist/6YwDZ1txRytZuE9Zvx5Pl0) | [better than home](https://open.spotify.com/album/5JMFI6pAeXq5ONtiUMrqaw) | 3:08 |
 
-Snapshot ID: `MCwwMDQ4N2MzN2E3Y2YzZTlkYTdjZDE3ZDkxNDI0ZmI5NTk3MzU2YmFj`
+Snapshot ID: `MCwyM2Q2YWVlYWE1MGQxZjdkMTdjNWM4NTdhNzQ2ZDVlOGM2MDRjYWY0`

@@ -2,7 +2,7 @@
 
 ### [Deep Dive: 70s Rock](https://open.spotify.com/playlist/37i9dQZF1DX0XK1VdFMbTA)
 
-> Any songs you forgot existed? Let's go deep into 70s rock!
+> Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
 850 songs - 2 day 11 hr 22 min
 

@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-187 songs - 9 hr 28 min
+188 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2020-12-07 |  |
 | [Loving You Is a Mountain](https://open.spotify.com/track/0SkEBMQtYIJod3piPJMQeZ) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Three](https://open.spotify.com/album/0ZXvg7lMTyzDpEeY09Yqxg) | 3:28 | 2020-12-07 |  |
 | [Loving You Is a Mountain](https://open.spotify.com/track/4tqZET1gHOGWY6UbHv6qWf) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Three](https://open.spotify.com/album/2lEk0vfHvGzrM9xbhUvxfu) | 3:28 | 2020-12-07 | 2022-07-29 |
-| [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2020-12-07 |  |
+| [Lucky](https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI) | 3:12 | 2020-12-07 |  |
+| [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2020-12-07 | 2023-05-05 |
 | [Mad at Disney](https://open.spotify.com/track/3JGnevG7tLMY3UQFU8JinB) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Chill On The Beach](https://open.spotify.com/album/5MyS2ruaCIY0EHeuZkuici) | 2:16 | 2020-12-07 | 2022-11-13 |
 | [Mad at Disney](https://open.spotify.com/track/6JLLacP83oixoe33bWjuCC) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/4000RUfplZt5LYKb3VuyUp) | 2:16 | 2020-12-07 | 2022-07-29 |
 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 | 2020-12-07 |  |

@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 493800,
       "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 138409,
       "name": "Dear Sunshine",
       "url": "https://open.spotify.com/track/1NMaqQLHNlLY6Ryy0FlpON"
@@ -1413,6 +1413,28 @@
     },
     {
       "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/6qmhfgJbhUzovh7CFJkI8u"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Priscilla Ahn",
+          "url": "https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/6nBlbZBSMEgawmi7nF7H1Y"
+    },
+    {
+      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/3ousrkrjhpoRMrDySi6h0K"
       },
@@ -1428,6 +1450,24 @@
       "duration_ms": 177104,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/4TatlP4d0ntvkJ48v6iE7D"
+    },
+    {
+      "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321910,
+      "name": "Dust Collects",
+      "url": "https://open.spotify.com/track/3lDs1vZgQm1YMzMU6x8LXz"
     },
     {
       "album": {
@@ -1620,7 +1660,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 287992,
       "name": "Everything Is Going to Be OK",
       "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
@@ -1714,6 +1754,24 @@
       "duration_ms": 173069,
       "name": "Far from Me, a Memory",
       "url": "https://open.spotify.com/track/3M863setj5BJ1P6gaz5sdp"
+    },
+    {
+      "album": {
+        "name": "Faraway",
+        "url": "https://open.spotify.com/album/393oMLUHh6Nh2Htlm60a9S"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149452,
+      "name": "Faraway",
+      "url": "https://open.spotify.com/track/0QjruwWxe5CipAcRGb9fln"
     },
     {
       "album": {
@@ -2210,7 +2268,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 198971,
       "name": "Haze Garden (Prayer)",
       "url": "https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd"
@@ -2228,7 +2286,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 269466,
       "name": "Henry St.",
       "url": "https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh"
@@ -2524,7 +2582,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 199784,
       "name": "Ieta",
       "url": "https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml"
@@ -2842,7 +2900,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 599547,
       "name": "Last Days",
       "url": "https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7"
@@ -3574,7 +3632,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 275319,
       "name": "Mermaids",
       "url": "https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY"
@@ -4820,7 +4878,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 254750,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/1jgIwjmw5e4JEEcE28XyHC"
@@ -4962,7 +5020,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 215013,
       "name": "Shadow In The Storm",
       "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
@@ -5622,7 +5680,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 198108,
       "name": "The Forever Now - From \"This Is Us: Season 6\"",
       "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"
@@ -5702,6 +5760,24 @@
       "duration_ms": 254583,
       "name": "The Rip Tide - BER-ABQ Version",
       "url": "https://open.spotify.com/track/5Rj08pbmKK9kpxgCWw18Bj"
+    },
+    {
+      "album": {
+        "name": "Theme of \"Life is Climbing\"",
+        "url": "https://open.spotify.com/album/336RBsESEoPbt71FeIT0yw"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Theme of \"Life is Climbing\"",
+      "url": "https://open.spotify.com/track/72QD2eOduUtm3P4csHCnaV"
     },
     {
       "album": {
@@ -7008,7 +7084,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 299533,
       "name": "\u30d9\u30eb\u30ac\u30de\u30b9\u30af\u7d44\u66f2~\u7b2c3\u66f2: \u6708\u306e\u5149(\u30c1\u30a7\u30ed\u3068\u30cf\u30fc\u30d7\u7de8)",
       "url": "https://open.spotify.com/track/4cjkR3dxVYVSPBZ1YWhu2G"

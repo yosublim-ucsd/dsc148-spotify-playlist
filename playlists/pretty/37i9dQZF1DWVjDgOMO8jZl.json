@@ -1,15 +1,15 @@
 {
   "description": "Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Asteria",
-  "num_followers": 20759,
+  "num_followers": 20762,
   "original_name": "RADAR Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2Q0ZjRjZjMwZmNiYjQ5NjRmYmNlMGNjMjYyNWM5YjVjMTAyMjQx",
+  "snapshot_id": "MCw0YzhhYzhmNTFkNGNkNTIyZTAzZTQzNjZmOTQyOGI1NzU1ZDEyNzYx",
   "tracks": [
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "PROFUMO",
         "url": "https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X"
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "La mia stanza",
+        "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "a Nessuno",
+      "url": "https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "Figlie della Luna",
+        "url": "https://open.spotify.com/album/1giRCe6gmKUv65zEkREofg"
+      },
+      "artists": [
+        {
+          "name": "Assurdit\u00e8",
+          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
+        }
+      ],
+      "duration_ms": 168300,
+      "name": "Figlie della Luna",
+      "url": "https://open.spotify.com/track/2e0EbWEyOvWaeoopakkZWn"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
@@ -41,23 +73,7 @@
       "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "a Testa in gi\u00f9",
-        "url": "https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "a Testa in gi\u00f9",
-      "url": "https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "HOE + HARD (feat. Tony Effe)",
         "url": "https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Amore&casino",
         "url": "https://open.spotify.com/album/3sNEQxM6ZYqeEScouZ1733"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/4cz1tnar27zWx8H56ASrd6"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Jack e Lacrime",
         "url": "https://open.spotify.com/album/7cau5ANQLaau3sH4tqH8Qw"
@@ -113,7 +129,23 @@
       "url": "https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "a Testa in gi\u00f9",
+        "url": "https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "a Testa in gi\u00f9",
+      "url": "https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Pressione bassa",
         "url": "https://open.spotify.com/album/7IymFkEORToOb49LSg5495"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/3pxIA51RPAMQnsbuArdp1G"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "IL FUMO UCCIDE",
         "url": "https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU"
@@ -145,7 +177,23 @@
       "url": "https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "La mia stanza",
+        "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 157175,
+      "name": "Non me ne frega un cazzo",
+      "url": "https://open.spotify.com/track/0tvs7lrwKuIfP9PCewV8AD"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "ANCORA",
         "url": "https://open.spotify.com/album/4LjYaprNELvWNeqE9hIszw"
@@ -161,7 +209,7 @@
       "url": "https://open.spotify.com/track/2XxrTkLS3YxDp0HRDPMlsM"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Sottozero",
         "url": "https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w"
@@ -177,7 +225,7 @@
       "url": "https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Per sentirsi meno soli",
         "url": "https://open.spotify.com/album/3wy8IYXn4kEco6DoCn0imf"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/23C3f0TckAwl0PFWXqDDKz"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Assurdit\u00e8",
         "url": "https://open.spotify.com/album/6tZ6zLONbRGUBZPoh0g9ha"
@@ -217,7 +265,7 @@
       "url": "https://open.spotify.com/track/7F5OZLcNPOJHdQ3a9ld96C"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "KANYE WEST (feat. Bresh)",
         "url": "https://open.spotify.com/album/599Ef02IOqtzkVBd1sFlfo"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/76V4fmBYiVqpOJB6GC3SHA"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Cattiva",
         "url": "https://open.spotify.com/album/4PWXnJIUU11RbIHnDIv9LL"
@@ -253,7 +301,7 @@
       "url": "https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "MUJER",
         "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "30\u00b0 ALL'OMBRA",
         "url": "https://open.spotify.com/album/6zpJu8hfJqExVM3ttaUGN2"
@@ -289,7 +337,7 @@
       "url": "https://open.spotify.com/track/1Bdy8e8p3vaf3Kr6F97Ai3"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "CLUB BLU",
         "url": "https://open.spotify.com/album/4dnD2Nz51WpxBXx87Izty6"
@@ -309,7 +357,7 @@
       "url": "https://open.spotify.com/track/1mwtk1gaJ8NlcHON0f22Tk"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "AFTERPARTY",
         "url": "https://open.spotify.com/album/5DQx0TobK6zTBz6RLcgMmS"
@@ -325,7 +373,7 @@
       "url": "https://open.spotify.com/track/0NfsvBOFmD84c6qvpy3nkS"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/2GJ2PdGfXMM1w4Y68djdGt"
@@ -341,7 +389,7 @@
       "url": "https://open.spotify.com/track/1JoU93qhttHC3wBXWAdPLR"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V"
@@ -357,7 +405,7 @@
       "url": "https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "DOMOPAK",
         "url": "https://open.spotify.com/album/0X5vpAP31bfEor3gikJyM3"
@@ -373,7 +421,7 @@
       "url": "https://open.spotify.com/track/5rGlJkkDiERrqPP1bJ9mIe"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "Demo 14_02_daeliminare.mp3",
         "url": "https://open.spotify.com/album/6NeVjxs2Jg6e83nMTpjFcP"
@@ -393,7 +441,7 @@
       "url": "https://open.spotify.com/track/4KYe7UW8G9LQqGTn8V52cf"
     },
     {
-      "added_at": "2023-04-20 22:01:00",
+      "added_at": "2023-05-04 22:01:00",
       "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V"

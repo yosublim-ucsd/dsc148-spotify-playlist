@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-80 songs - 4 hr 26 min
+81 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Hoping](https://open.spotify.com/track/40cR5aBJrfrfsDVFEKhdFJ) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Regnig Jazz](https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp) | 3:25 | 2023-04-27 |  |
 | [Hoppet](https://open.spotify.com/track/2BaO1C4HWolgBawfyhr1NC) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Regnig Jazz](https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp) | 2:38 | 2023-04-27 |  |
 | [How High Is the Moon](https://open.spotify.com/track/49F5FzKXM1htgixJFaD7rM) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [How High Is the Moon](https://open.spotify.com/album/2UEkb0VLEZWU1c6U1waxxF) | 2:23 | 2023-04-27 |  |
+| [Hudson Square](https://open.spotify.com/track/4vdbfxd6ds6YeOHb5ZD6r2) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Hudson Square](https://open.spotify.com/album/3FqzYXSENE2fCy1bm78FVC) | 3:35 | 2023-05-04 |  |
 | [I Can't Get Started](https://open.spotify.com/track/6CJ14vzBSBk0C3FsfdkOtj) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [I Can't Get Started](https://open.spotify.com/album/2w15Chr6cX4ReS1qmZZO5e) | 2:25 | 2023-04-27 |  |
 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/0PcZFOrXlv0nJugncqh4za) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:20 | 2023-04-27 |  |
 | [I've Never Been in Love Before](https://open.spotify.com/track/4k7mJbTrcpwGlcwBMYlgmW) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:07 | 2023-04-27 |  |

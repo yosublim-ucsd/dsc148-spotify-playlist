@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "4AM in Karachi",
       "url": "https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 192052,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/45Q8gSNJeCimX9VnyfXlBY"
@@ -1212,6 +1212,28 @@
       "duration_ms": 219092,
       "name": "Don't Forgive Me",
       "url": "https://open.spotify.com/track/5J3qCUclRF7NnIgA6VzNiZ"
+    },
+    {
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Downers At Dusk",
+      "url": "https://open.spotify.com/track/5qolX8ncpZ8R6TfKbvTzbA"
     },
     {
       "album": {
@@ -3446,6 +3468,28 @@
       "duration_ms": 202173,
       "name": "Secret (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/2ozAOPkM0rYqQweAhuXMry"
+    },
+    {
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE"
     },
     {
       "album": {

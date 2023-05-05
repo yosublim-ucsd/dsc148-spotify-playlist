@@ -379,6 +379,28 @@
     },
     {
       "album": {
+        "name": "Aweah",
+        "url": "https://open.spotify.com/album/7a3orr69j9ELHkG8JntROz"
+      },
+      "artists": [
+        {
+          "name": "Yo Maps",
+          "url": "https://open.spotify.com/artist/6ctMiUYEAd4cy0CaH355Hk"
+        },
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240535,
+      "name": "Aweah - Remix",
+      "url": "https://open.spotify.com/track/15sjENkzoBcOb2t4xk7SO4"
+    },
+    {
+      "album": {
         "name": "Back To Sender",
         "url": "https://open.spotify.com/album/0rThnN5X2Ktwkh8qEid6eH"
       },
@@ -438,7 +460,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 198857,
       "name": "Badder",
       "url": "https://open.spotify.com/track/638SbxuoeJB1xfUHBsa4r4"
@@ -1508,7 +1530,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 124720,
       "name": "Eye Red",
       "url": "https://open.spotify.com/track/0pcit4bh35Ki3Ff5Y9ohG3"
@@ -1718,6 +1740,28 @@
       "duration_ms": 126331,
       "name": "Finesse - feat. French Montana",
       "url": "https://open.spotify.com/track/1K1nl1dGNDX5LuLcDbT9ED"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2hlL9lYpRlJrjtlUeazYz4"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/75PVJ4G4p6lBGSIOn1jhoc"
     },
     {
       "album": {
@@ -2082,7 +2126,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 400500,
       "name": "God Abeg (feat. Kwesi Arthur, Joey B & Kay T)",
       "url": "https://open.spotify.com/track/5WZXhQL346sTAQ4WKPUJpJ"
@@ -2204,6 +2248,28 @@
       "duration_ms": 162377,
       "name": "H.G.P",
       "url": "https://open.spotify.com/track/18iGUgdPv3j0JAt7dkceip"
+    },
+    {
+      "album": {
+        "name": "HALLELUJAH (feat. Blaqbonez)",
+        "url": "https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "HALLELUJAH (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
     },
     {
       "album": {
@@ -3632,7 +3698,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 166974,
       "name": "OKAY",
       "url": "https://open.spotify.com/track/3Xt6axkCM9aYQgaYA2531B"
@@ -3915,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
+    },
+    {
+      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/0K0z0pnqfYiY8jy5FOW4lo"
       },
@@ -4110,6 +4194,24 @@
       "duration_ms": 177600,
       "name": "Pray Hard",
       "url": "https://open.spotify.com/track/49CQhcJkjozkJqlWcaQUpC"
+    },
+    {
+      "album": {
+        "name": "YUSFUL MUSIC",
+        "url": "https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/0VQtntLAI7GJAO4CG42WcX"
     },
     {
       "album": {
@@ -4514,7 +4616,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 158000,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7gWFSP72DdxHAPyXerIHln"
@@ -4602,7 +4704,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 162000,
       "name": "Smackdown",
       "url": "https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH"
@@ -4884,6 +4986,24 @@
       "duration_ms": 174500,
       "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
       "url": "https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2"
+    },
+    {
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "album": {
@@ -5243,6 +5363,24 @@
     },
     {
       "album": {
+        "name": "Who Knows Tomorrow",
+        "url": "https://open.spotify.com/album/7JfSTfghTIKpBgb8TBVTw1"
+      },
+      "artists": [
+        {
+          "name": "Mike Akox",
+          "url": "https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181978,
+      "name": "Who Knows Tomorrow",
+      "url": "https://open.spotify.com/track/2eWUSvBfYbiMU4Ihk4yKrj"
+    },
+    {
+      "album": {
         "name": "Green With Envy",
         "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
@@ -5400,7 +5538,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 258081,
       "name": "Yeni Abre",
       "url": "https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ"

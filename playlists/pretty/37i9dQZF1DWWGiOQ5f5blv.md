@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 
 > Listen to the soundtracks of the drama Doctor Cha\. \(드라마 닥터 차정숙의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs  selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,679 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,539 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 | 31 | [Spring Breeze \(feat.Naul of Brown Eyed Soul\)](https://open.spotify.com/track/2LD3U3IY43B9wIW7V1DEiO) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [NEW DIRECTION](https://open.spotify.com/album/1Un7DnzEdn9Q5RrTDGilJ5) | 3:36 |
 | 32 | [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 |
 | 33 | [Song Is Universal](https://open.spotify.com/track/261levqvyy1gnEuMut93Pi) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [No More Encore.](https://open.spotify.com/album/2utEmutXyshGTAiom7eRBB) | 7:02 |
-| 34 | [International Love Song](https://open.spotify.com/track/3CVWdo53SX1WNqENdXXcrR) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Don't You Worry Baby \(I'm Only Swimming\)](https://open.spotify.com/album/3gjS7c1wEOAqPXRcTbHFUZ) | 4:19 |
+| 34 | [International Love Song](https://open.spotify.com/track/3R3cXK6BHZ5JDAgPOAHPQw) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Don't You Worry Baby \(I'm Only Swimming\)](https://open.spotify.com/album/6CaKnIXQnlLAqU4WOALBM9) | 4:19 |
 | 35 | [JUST KOREAN POP](https://open.spotify.com/track/28tTv9ZOz2eYWNv2arkzWU) | [Hoochus](https://open.spotify.com/artist/3bEQ3MsehZrVvM6vNKQTmF) | [JUST KOREAN POP](https://open.spotify.com/album/13s4xolZv7TTUI5JImwMNB) | 3:30 |
 | 36 | [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 |
 | 37 | [Curated by Min Woo Hyuk](https://open.spotify.com/track/6C1Oq0dmgpHz2ARz3n6dSP) | [Min Woo Hyuk](https://open.spotify.com/artist/6bxlijVemHgiCTJAQ6RFsI) | [Doctor Cha](https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR) | 0:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 | 49 | [Shine Like a Star \- Instrumental](https://open.spotify.com/track/2LlAjmC9tzqtB7ni4mtXxh) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1UqsxHnWTmlyYgKHFTGWUX) | 2:43 |
 | 50 | [Breath \- Instrumental](https://open.spotify.com/track/18imXhFiJgGNzRuSzkMLe5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z) | 3:41 |
 
-Snapshot ID: `MCxkOTM3YWRhODAyZjcyNTBhYzIzOThhYzFjODQ3MDczZmQ5ODAzM2Ex`
+Snapshot ID: `MCw2ZmM0ZTY3MWJlNjY5NDQyNDkyNTBkODJlZWI4NjNjMDUwZDE2NjBk`

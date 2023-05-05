@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,064 songs - 2 day 1 hr 21 min
+1,065 songs - 2 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [ВЫКЛЮЧАТЕЛЬ](https://open.spotify.com/track/3oIvvpkmjxdzd7NYNg5fxm) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/4GuYZRioUTTM3OSDEUFCbV) | 1:34 | 2022-02-19 | 2022-03-27 |
 | [Выпей меня](https://open.spotify.com/track/5O1Y35vDQQjCXTFo8BEBrr) | [Kambulat](https://open.spotify.com/artist/4ENNw1y7XuWPt7tvzoQ8Pz) | [Выпей меня](https://open.spotify.com/album/3PZkGXmFOEhSmqPdIyF6GD) | 2:42 | 2022-02-05 | 2022-02-12 |
 | [Выстрелы](https://open.spotify.com/track/0WXJnzwQSpPk7Vwq6d3Zoo) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO), [WormGanger](https://open.spotify.com/artist/086P64oKI020Z4jiNCmYwf) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:55 | 2022-04-30 | 2022-05-02 |
+| [Відриваючись](https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Відриваючись](https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g) | 2:29 | 2023-05-04 |  |
 | [Відьми](https://open.spotify.com/track/7mCemRaeeezaB97MPPkhfG) | [BALKON](https://open.spotify.com/artist/3mRaoamjAyrixUbbej4KFu) | [Відьми](https://open.spotify.com/album/5BI2Pp4JUcfe47Dlbyp8Ah) | 3:21 | 2022-12-16 | 2023-01-24 |
 | [ГАНЬГ Аутро \(feat\. Bushido Zho, Scally Milano, MAYOT, Magnum Opus, SEEMEE, YUNGWAY\)](https://open.spotify.com/track/3MfoVUFEXWX6bxbACLVZEG) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [Magnum Opus](https://open.spotify.com/artist/0WCOJtjn0LNnc0pLh2S6gu), [SEEMEE](https://open.spotify.com/artist/2ngiK5FQchV4i7eOyXOXKt), [YUNGWAY](https://open.spotify.com/artist/69S11q66dsnK9gQUQo68IZ) | [FREERIO](https://open.spotify.com/album/5zkFFXDh9W9457YNxel2gO) | 1:45 | 2021-05-18 | 2021-08-15 |
 | [Гарно так](https://open.spotify.com/track/3yRDM5tBS7H8HG64y3x9kw) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Drama](https://open.spotify.com/album/4LLQjoYb7W1dBNkAX2eifI) | 3:02 | 2022-07-05 | 2022-09-07 |
@@ -866,7 +867,7 @@
 | [Очі](https://open.spotify.com/track/7tHooYkoaE0myuzkPjyNHX) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0) | [Очі](https://open.spotify.com/album/1gFQCbmedauc3NNMRk1gMS) | 3:19 | 2023-05-03 |  |
 | [Пантеллерия](https://open.spotify.com/track/1YMS907LqEnDcp83MNnEXP) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:53 | 2021-12-04 | 2021-12-10 |
 | [ПАПИН ТАНК](https://open.spotify.com/track/09w8NWGkVQKOWjFhuQBNIV) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:06 | 2021-05-30 | 2021-06-08 |
-| [Папина любовница](https://open.spotify.com/track/0tdRgufTWFxk2QgYyIifQH) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Декоративно\-прикладное искусство](https://open.spotify.com/album/5i7O30Eh932xLB6RmaJAPp) | 3:28 | 2023-04-05 |  |
+| [Папина любовница](https://open.spotify.com/track/0tdRgufTWFxk2QgYyIifQH) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Декоративно\-прикладное искусство](https://open.spotify.com/album/5i7O30Eh932xLB6RmaJAPp) | 3:28 | 2023-04-05 | 2023-05-05 |
 | [Партизанское радио](https://open.spotify.com/track/2zVCL13WYujgOtm3q8dwIx) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:45 | 2021-12-03 | 2021-12-07 |
 | [Пассивка](https://open.spotify.com/track/11fFxtXXRgYFtuKvljFqLg) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Jetix](https://open.spotify.com/artist/7adgUDgTmqp5vXp8tDkUV4) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:54 | 2022-04-30 | 2022-05-02 |
 | [Патрон](https://open.spotify.com/track/3uCth4TIWyeQDnj3YbAVQB) | [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3) | [Патрон](https://open.spotify.com/album/0OsTkx8LstoMvRkHGaarkj) | 3:45 | 2021-04-04 | 2022-02-13 |

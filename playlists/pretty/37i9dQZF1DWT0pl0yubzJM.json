@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 13199,
+  "num_followers": 13209,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTY2MTY3ODQ4OTk4MTViM2NmNGUyNWE0Mjg4YzQ1ZjVlZmYwOGU2",
+  "snapshot_id": "MCxkOGU5ZmYxZjUyYWFhMjQ4NjAyY2E2MDA0ZWQ3MWI4YTU2MjM1NmM2",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Manzana de Metal",
-        "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
-      },
-      "artists": [
-        {
-          "name": "Altocamet",
-          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "Atl\u00e1ntico",
-      "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Cabeza",
         "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 240333,
       "name": "Lo Que Se Ve No Es Lo Real",
       "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Manzana de Metal",
+        "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
+      },
+      "artists": [
+        {
+          "name": "Altocamet",
+          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "Atl\u00e1ntico",
+      "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -531,18 +531,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Nada Es Exacto Salvo la Medida de los Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM"
+        "name": "Chaco (Serie Rock Nacional 2004)",
+        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
       },
       "artists": [
         {
-          "name": "Altocamet",
-          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 318453,
-      "name": "Manzana de Metal",
-      "url": "https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE"
+      "duration_ms": 202800,
+      "name": "Remisero",
+      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
     },
     {
       "added_at": "2020-03-13 13:21:28",

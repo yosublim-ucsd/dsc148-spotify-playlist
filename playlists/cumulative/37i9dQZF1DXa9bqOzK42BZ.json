@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-26",
-  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover <a href=\"https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX\">Lord Dombo</a>",
+  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover <a href=\"https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO\">Walter Chilambo</a>",
   "name": "Swahili Praise",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 295784,
       "name": "Asante Yesu",
       "url": "https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D"
+    },
+    {
+      "album": {
+        "name": "Beba Nuru",
+        "url": "https://open.spotify.com/album/1VOv6kempfsry0X3LgZBT6"
+      },
+      "artists": [
+        {
+          "name": "Mgasa George",
+          "url": "https://open.spotify.com/artist/0UzzhS3G4a2c4jINaSAEhy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227343,
+      "name": "Beba Nuru",
+      "url": "https://open.spotify.com/track/3X7Ebfhg0rl0DWN3UErhfw"
     },
     {
       "album": {
@@ -336,6 +354,24 @@
       "duration_ms": 410906,
       "name": "I Have Tasted / Nimeonja",
       "url": "https://open.spotify.com/track/3BlvopHOGCh134vhugmiyv"
+    },
+    {
+      "album": {
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/4YPYAwVq1Bi9KWQW3iOMnK"
+      },
+      "artists": [
+        {
+          "name": "Walter Chilambo",
+          "url": "https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260346,
+      "name": "I'm Blessed",
+      "url": "https://open.spotify.com/track/0FEjctsiNnY7QSY2xvIpLI"
     },
     {
       "album": {
@@ -750,7 +786,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 272275,
       "name": "NI Wewe",
       "url": "https://open.spotify.com/track/3PcSE2kEXuQDIUGdzsMpF2"
@@ -952,7 +988,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 320880,
       "name": "Niwe Ngwenda",
       "url": "https://open.spotify.com/track/57chzVhBuTUqixdfALG5ft"
@@ -1242,7 +1278,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 293120,
       "name": "Utukuzwe",
       "url": "https://open.spotify.com/track/1v2QEyebDcGuDyhfJPpInb"

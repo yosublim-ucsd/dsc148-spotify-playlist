@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 27848,
+  "num_followers": 27878,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDlmZTM3ZmNkYmQwZDIxNTM4YTU5Mjk0NWY1NDc0OTRlNmM1NjQ4",
+  "snapshot_id": "MCxkMTFmOTM1NzRmYWQ1ZDM0ZTRmNzcwNzljNzUzNGVlMGVlNjFkNjlj",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "B2B / Black Roses",
-        "url": "https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 224541,
-      "name": "B2B",
-      "url": "https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 139701,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "B2B / Black Roses",
+        "url": "https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 224541,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Banter",
         "url": "https://open.spotify.com/album/2CrWMemgMF8qnp8r2dg814"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 150000,
       "name": "Banter - Sak Noel, Franklin Dam Remix",
       "url": "https://open.spotify.com/track/6BcgLpYUrgWdupgoq3pNIQ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
+        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
+      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+        }
+      ],
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Another Chance (SBF17)",
         "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 157870,
       "name": "Nzinga",
       "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
-        }
-      ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rhythm Chronicles",
-        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
-      },
-      "artists": [
-        {
-          "name": "Gina Jeanz",
-          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Body Bend",
-      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "WORK",
         "url": "https://open.spotify.com/album/6jhqBMKKpjSUNGaUv3Ar6Y"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Rhythm Chronicles",
+        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
+      },
+      "artists": [
+        {
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Body Bend",
+      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 178652,
       "name": "Banter",
       "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "TWITCH",
+        "url": "https://open.spotify.com/album/37FPdxNsW9wwfbsrxhiRT6"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 190639,
+      "name": "TWITCH",
+      "url": "https://open.spotify.com/track/6gZZoJwDXTYWiUIVs7ERxW"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Hector's Revenge",
-        "url": "https://open.spotify.com/album/3vt6iwhqMYXs1gh1sgLpRl"
-      },
-      "artists": [
-        {
-          "name": "GIDE\u00d6N",
-          "url": "https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5"
-        }
-      ],
-      "duration_ms": 452475,
-      "name": "Hector's Revenge",
-      "url": "https://open.spotify.com/track/7e9Rxyq7s3JMvGMQ3kWy3c"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Tabasco",
         "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
       },
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "TWITCH",
-        "url": "https://open.spotify.com/album/37FPdxNsW9wwfbsrxhiRT6"
+        "name": "Hector's Revenge",
+        "url": "https://open.spotify.com/album/3vt6iwhqMYXs1gh1sgLpRl"
       },
       "artists": [
         {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+          "name": "GIDE\u00d6N",
+          "url": "https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5"
         }
       ],
-      "duration_ms": 190639,
-      "name": "TWITCH",
-      "url": "https://open.spotify.com/track/6gZZoJwDXTYWiUIVs7ERxW"
+      "duration_ms": 452475,
+      "name": "Hector's Revenge",
+      "url": "https://open.spotify.com/track/7e9Rxyq7s3JMvGMQ3kWy3c"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1443,6 +1443,30 @@
       "duration_ms": 118282,
       "name": "Wash Yo Handz",
       "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "STAND BACK (RELOADED)",
+        "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "93rd",
+          "url": "https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx"
+        },
+        {
+          "name": "Killa Kherk Cobain",
+          "url": "https://open.spotify.com/artist/2cYXDFsvkmjGSkMPBlRf3K"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "STAND BACK (RELOADED)",
+      "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1483,30 +1507,6 @@
       "duration_ms": 166500,
       "name": "Switch",
       "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "STAND BACK (RELOADED)",
-        "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "93rd",
-          "url": "https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx"
-        },
-        {
-          "name": "Killa Kherk Cobain",
-          "url": "https://open.spotify.com/artist/2cYXDFsvkmjGSkMPBlRf3K"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "STAND BACK (RELOADED)",
-      "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Baukey Beats, Vol.1",
-        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
+        "name": "Get Freaky",
+        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
       "artists": [
         {
-          "name": "Ben Hauke",
-          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
+          "name": "TateKo",
+          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
+        },
+        {
+          "name": "Da Yo Boyz",
+          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
         }
       ],
-      "duration_ms": 556363,
-      "name": "Dep First Draft - Extended Mix",
-      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
+      "duration_ms": 178872,
+      "name": "Get Freaky",
+      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1631,22 +1635,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Get Freaky",
-        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
+        "name": "Baukey Beats, Vol.1",
+        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
       },
       "artists": [
         {
-          "name": "TateKo",
-          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
-        },
-        {
-          "name": "Da Yo Boyz",
-          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
+          "name": "Ben Hauke",
+          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
         }
       ],
-      "duration_ms": 178872,
-      "name": "Get Freaky",
-      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+      "duration_ms": 556363,
+      "name": "Dep First Draft - Extended Mix",
+      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1703,30 +1703,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Impossible (Roska Remix)",
-        "url": "https://open.spotify.com/album/11yIOT6Gaqn2T4c1Lusgi4"
-      },
-      "artists": [
-        {
-          "name": "Nina Las Vegas",
-          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
-        },
-        {
-          "name": "Thai Chi Ros\u00e8",
-          "url": "https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR"
-        },
-        {
-          "name": "Roska",
-          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Impossible - Roska Remix",
-      "url": "https://open.spotify.com/track/5y8vPSQJqelX46gjX0KYmi"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Bombtrack (Roska Remix)",
         "url": "https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C"
       },
@@ -1755,6 +1731,30 @@
       "duration_ms": 268057,
       "name": "Bombtrack (Roska Remix)",
       "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Impossible (Roska Remix)",
+        "url": "https://open.spotify.com/album/11yIOT6Gaqn2T4c1Lusgi4"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "Thai Chi Ros\u00e8",
+          "url": "https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR"
+        },
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Impossible - Roska Remix",
+      "url": "https://open.spotify.com/track/5y8vPSQJqelX46gjX0KYmi"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Eyes On Me (Solardo Remix)",
-        "url": "https://open.spotify.com/album/3t7TCJ10JcLJR6ZYqbRONr"
-      },
-      "artists": [
-        {
-          "name": "Chelley",
-          "url": "https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "Eyes On Me - Solardo Remix",
-      "url": "https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 146311,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3fgbDLcBPZlpvpuQh3RqCL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Eyes On Me (Solardo Remix)",
+        "url": "https://open.spotify.com/album/3t7TCJ10JcLJR6ZYqbRONr"
+      },
+      "artists": [
+        {
+          "name": "Chelley",
+          "url": "https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "Eyes On Me - Solardo Remix",
+      "url": "https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1999,22 +1999,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/3e2suSs2luyHB3Dy5FNCDZ"
+        "name": "Let Me Catch My Breath (Baltimega Remix)",
+        "url": "https://open.spotify.com/album/318sp40nw0rYQapfTwUz0Z"
       },
       "artists": [
         {
-          "name": "Rene Amesz",
-          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+          "name": "DJ Phinesse",
+          "url": "https://open.spotify.com/artist/1kKYhBkBmPwu2Yj8LVbyM3"
         },
         {
-          "name": "Divine",
-          "url": "https://open.spotify.com/artist/11ycSvFZCC0BFloxOAaray"
+          "name": "Baltimega",
+          "url": "https://open.spotify.com/artist/2rMchIS8V6g5z0YP6UAlwh"
         }
       ],
-      "duration_ms": 192292,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR"
+      "duration_ms": 209076,
+      "name": "Let Me Catch My Breath - Baltimega Remix",
+      "url": "https://open.spotify.com/track/31szi24yMz41kl2oz87mlW"
     }
   ],
   "unique_name": "Global Club Music",

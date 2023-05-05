@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ATLAS
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
 
-326 songs - 19 hr 40 min
+327 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [JUST DANCE](https://open.spotify.com/track/0yk8huYYGt1SHHxlI8hnGc) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [JUST DANCE](https://open.spotify.com/album/6l64wDsFlpzZsQvtWjqDfs) | 3:32 | 2023-01-26 | 2023-02-03 |
 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 | 2022-07-01 | 2022-07-15 |
 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 | 2022-05-26 | 2022-08-26 |
+| [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/album/5jteqptiESbFUa4kEPwiqK) | 3:20 | 2023-05-04 |  |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2022-05-26 | 2022-08-26 |
 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 | 2022-12-08 |  |
 | [My Angel \(The Original Soundtrack ”Boyband The Series”\)](https://open.spotify.com/track/55b97MkUuNNL0rRbgqYqR0) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [My Angel \(The Original Soundtrack ”Boyband The Series”\)](https://open.spotify.com/album/4w1kRtxK4swO4nagj3sgOd) | 4:34 | 2023-02-10 | 2023-02-17 |
@@ -89,7 +90,7 @@
 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 | 2022-05-26 |  |
 | [คนเก่าเขาทำไว้ดี \(Can’t win\)](https://open.spotify.com/track/1qkIG72UU08DBiLyCL3vLH) | [Chilling Sunday](https://open.spotify.com/artist/5UjfkANGRdbB6a6aLQHoz9) | [คนเก่าเขาทำไว้ดี \(Can’t win\)](https://open.spotify.com/album/3JGHfNlmX8ERpggp9G39oA) | 3:30 | 2022-05-26 | 2022-08-26 |
 | [คนเราจะแอบรักใครสักคนได้นานแค่ไหน](https://open.spotify.com/track/3IPtnAYykrWz9EPjPWx2D7) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC), [AUTTA](https://open.spotify.com/artist/7kM2bHp9WgqwOE4VUKAlRv) | [คนเราจะแอบรักใครสักคนได้นานแค่ไหน](https://open.spotify.com/album/5ti3g7BuA74lw5zapYIWvJ) | 3:21 | 2022-05-26 | 2022-09-01 |
-| [คนใหม่เขาดูแลอยู่](https://open.spotify.com/track/0EMa3PEf3tHITHyGYQmWV9) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [คนใหม่เขาดูแลอยู่](https://open.spotify.com/album/7uPVwd1sqU67W1sUf9oAQm) | 4:16 | 2023-03-23 |  |
+| [คนใหม่เขาดูแลอยู่](https://open.spotify.com/track/0EMa3PEf3tHITHyGYQmWV9) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [คนใหม่เขาดูแลอยู่](https://open.spotify.com/album/7uPVwd1sqU67W1sUf9oAQm) | 4:16 | 2023-03-23 | 2023-05-05 |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-05-26 | 2023-04-22 |
 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 | 2022-08-31 |  |
 | [คนไม่น่ารัก](https://open.spotify.com/track/6pfGrakHsgPI8MPssDISPB) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [คนไม่น่ารัก](https://open.spotify.com/album/3WtbzeNwhOqF0lYFn2WQuk) | 3:13 | 2022-07-14 | 2022-07-23 |

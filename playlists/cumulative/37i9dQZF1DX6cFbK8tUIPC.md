@@ -4,7 +4,7 @@
 
 > it's a cinnamon infused kind of mood
 
-224 songs - 13 hr 57 min
+225 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Change](https://open.spotify.com/track/5WZGUtMLcqOMPem9J7PzVs) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Change](https://open.spotify.com/album/0RmOC132NVM3iENECtcmYb) | 6:04 | 2021-12-03 | 2022-08-16 |
 | [Cherry](https://open.spotify.com/track/6hrH6nUOPoB9kW2dT4GXzy) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Cherry](https://open.spotify.com/album/1tC67mJvSOPmzKqglQKrzw) | 3:32 | 2022-06-22 | 2022-08-27 |
 | [Chin Up](https://open.spotify.com/track/4ej7HdyF2slBRORpkxbC1J) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [Revolving Doors](https://open.spotify.com/album/10W7EP88lFtvz3uiNof1DR) | 3:47 | 2022-09-16 | 2022-09-24 |
-| [Cinnamon](https://open.spotify.com/track/7pJ8EpupQvfomVNPtfneql) | [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Tunnels](https://open.spotify.com/album/7LhNffG8tDqV6o1vnjY88E) | 3:24 | 2021-12-03 |  |
+| [Cinnamon](https://open.spotify.com/track/4XT9wAQ1malGGztBCmVX3m) | [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Tunnels](https://open.spotify.com/album/5ecZDJWYsd0RFfUJ7NeBFX) | 3:24 | 2022-10-06 |  |
+| [Cinnamon](https://open.spotify.com/track/7pJ8EpupQvfomVNPtfneql) | [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Tunnels](https://open.spotify.com/album/7LhNffG8tDqV6o1vnjY88E) | 3:24 | 2021-12-03 | 2023-05-05 |
 | [Cinnamon](https://open.spotify.com/track/2zSEmJVzrXxcCKFXWvlCtz) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 2:50 | 2022-09-23 |  |
 | [Coffee](https://open.spotify.com/track/15FZPfLobYj9kBE80LtxIx) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/6KxHGgfpM8uPotxK5iNEJG) | 2:06 | 2021-12-03 | 2022-07-29 |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2022-06-22 |  |

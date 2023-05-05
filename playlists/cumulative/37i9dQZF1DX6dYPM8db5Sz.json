@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=KDRnLQ71TTKPrX5qGUd50Q\">Nakhane</a>",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=1kNmBf4xQU626usgoqJWDg\">Bongeziwe Mabandla</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "amaXesha",
+        "url": "https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "hlala",
+      "url": "https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq"
+    },
+    {
+      "album": {
         "name": "Double Moon",
         "url": "https://open.spotify.com/album/2tvu05twUtcPg5S3YARanf"
       },
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 240857,
       "name": "Karma Arcade",
       "url": "https://open.spotify.com/track/0J9bAWjeOafeNtKO6DqeXx"
@@ -4076,7 +4094,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 108631,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/3356dkgock4bD4j7a0fec6"
@@ -4138,6 +4156,24 @@
       "duration_ms": 173853,
       "name": "Somewhere In The Hills",
       "url": "https://open.spotify.com/track/5PpyIT1WNnOktnE21J2S7t"
+    },
+    {
+      "album": {
+        "name": "Sorry Like You Mean It",
+        "url": "https://open.spotify.com/album/1j2YF9cYbGQZiTg8aTE7WE"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209401,
+      "name": "Sorry Like You Mean It",
+      "url": "https://open.spotify.com/track/503iuUPKIXQLSmLsMQDYIN"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 147891,
+  "num_followers": 147982,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjBiNDZiZGYyMzA0NGM1NmQxMTIwYmY5MGI0MTAxYTcxODZkYmVh",
+  "snapshot_id": "MCwyNjg5Y2I4YjE0Y2Y3YjU5MTkyMmM4MjdkMjY5ZWVkOTZjM2U4MWI2",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
+        "name": "Rockabilly Gold Masters",
+        "url": "https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ"
       },
       "artists": [
         {
-          "name": "Tex Ritter",
-          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Deck Of Cards",
-      "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
+      "duration_ms": 165986,
+      "name": "Hot Rod Lincoln",
+      "url": "https://open.spotify.com/track/2FvpvjHX32OLvendFImN9N"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Rockabilly Gold Masters",
-        "url": "https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
       },
       "artists": [
         {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+          "name": "Tex Ritter",
+          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
         }
       ],
-      "duration_ms": 165986,
-      "name": "Hot Rod Lincoln",
-      "url": "https://open.spotify.com/track/2FvpvjHX32OLvendFImN9N"
+      "duration_ms": 185533,
+      "name": "Deck Of Cards",
+      "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 152733,
-      "name": "Bouquet of Roses",
-      "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Late Great - 14 Greatest Hits",
         "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
         }
       ],
-      "duration_ms": 140866,
-      "name": "Stay a Little Longer",
-      "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
+      "duration_ms": 152733,
+      "name": "Bouquet of Roses",
+      "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -755,6 +739,22 @@
       "duration_ms": 157733,
       "name": "Jingle Jangle Jingle",
       "url": "https://open.spotify.com/track/2aBoUu846J4ILDXmgc9tQ3"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "The Columbia Singles Collection (1949-1964)",
+        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
+      },
+      "artists": [
+        {
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Candy Kisses - 78 rpm Version",
+      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Columbia Historic Edition",
         "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Columbia Singles Collection (1949-1964)",
-        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
       },
       "artists": [
         {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
         }
       ],
-      "duration_ms": 172733,
-      "name": "Candy Kisses - 78 rpm Version",
-      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
+      "duration_ms": 146733,
+      "name": "Straighten Up And Fly Right",
+      "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Straighten Up And Fly Right",
-      "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Columbia Country Classics Volume 2: Honky Tonk Heroes",
         "url": "https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Country Hoedown",
-        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee King",
-          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Slowpoke",
-      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 135933,
       "name": "Divorce Me C.O.D.",
       "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Country Hoedown",
+        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee King",
+          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
+        }
+      ],
+      "duration_ms": 176573,
+      "name": "Slowpoke",
+      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Cotton Eyed Joe - Single Version",
+      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Columbia Country Classics Volume 1: The Golden Age",
         "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
         }
       ],
-      "duration_ms": 157373,
-      "name": "Cotton Eyed Joe - Single Version",
-      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
+      "duration_ms": 174053,
+      "name": "My Poncho Pony",
+      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1031,22 +1047,6 @@
       "duration_ms": 167826,
       "name": "Take an Old Cold 'Tater (and Wait)",
       "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Presenting Patsy Montana",
-        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
-      },
-      "artists": [
-        {
-          "name": "Patsy Montana",
-          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "My Poncho Pony",
-      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
     },
     {
       "added_at": "2023-01-02 21:50:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,287 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,737 likes - 45 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 33 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Unaccompanied Cello Suites \(Remastered\)](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) | 2:31 |
 | 34 | [Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/track/72CwEwj0LHNDMgH2zXCa1f) | [Johann Christian Bach](https://open.spotify.com/artist/0ebni9QrrWMvEgH40nOWZQ), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [J.C\. Bach: Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/album/1CxdegOyg36oudEmc71yB5) | 3:38 |
 | 35 | [Peter \- Finding Neverland/Soundtrack Version](https://open.spotify.com/track/5yrUw3CtVT8BQuhsDdniW1) | [Jan A.P\. Kaczmarek](https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT), [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Finding Neverland](https://open.spotify.com/album/04J43Yr17N9A9uNcFVSTKx) | 2:20 |
-| 36 | [Mozart: Adagio in E Flat \(Arr\. Ólafsson from String Quintet No\. 3 in G Minor, K\. 516\)](https://open.spotify.com/track/1pcsXJHyzP8YXVOMH3Noox) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Mozart: Adagio in E Flat \(Arr\. Ólafsson from String Quintet No\. 3 in G Minor, K\. 516\)](https://open.spotify.com/album/2I4kned3lywzMzR6WcNgoo) | 8:04 |
+| 36 | [Adagio in E Flat \(Arr\. Ólafsson from String Quintet No\. 3 in G Minor, K\. 516\)](https://open.spotify.com/track/1pcsXJHyzP8YXVOMH3Noox) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Mozart: Adagio in E Flat \(Arr\. Ólafsson from String Quintet No\. 3 in G Minor, K\. 516\)](https://open.spotify.com/album/2I4kned3lywzMzR6WcNgoo) | 8:04 |
 | 37 | [leaves and trees](https://open.spotify.com/track/4fm8QxhBYRmmxU3Kp1pi3p) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 5:57 |
 | 38 | [The Princess Diaries Waltz \- Score](https://open.spotify.com/track/60vDJQPOMYUkL388zPpuNT) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Princess Diaries](https://open.spotify.com/album/5kLlsgivbVFDYAngLjfEZZ) | 2:09 |
 | 39 | [I Waited For You](https://open.spotify.com/track/3gpLoUSz1JsLb97VXUTtB5) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Best Of Me \(Original Motion Picture Score\)](https://open.spotify.com/album/1EVM5W3wBvfAW7LXfPSsMT) | 1:30 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 44 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 |
 | 45 | [Adore You \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Adore You \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq) | 3:18 |
 
-Snapshot ID: `MCxkNWU1NDA5YTFkM2M2ZWNiMmQxYzBhNDFkNDBiOGU5MWJjMTlmMTgz`
+Snapshot ID: `MCwxNmU2NmM4ZGMzMzlmNjk5YjUzZDJlNzVjMTNlN2M4MTk0YzIwMjcw`

@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 235961,
+  "num_followers": 236185,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTYzODQwN2EyNDNlMWVhOTcyMzhlYjViZDU0YmNkM2Y5M2NlOThm",
+  "snapshot_id": "MCw5MmRiMjJmNmI5MzUzNjYxODYwNWIwY2RjN2JjNzY4MDhjMDY1NzZi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        }
-      ],
-      "duration_ms": 174758,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61"
-    },
-    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "Cheaper Than Therapy",
@@ -555,6 +539,22 @@
       "duration_ms": 288002,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "LXVE",
-        "url": "https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        }
-      ],
-      "duration_ms": 191301,
-      "name": "LXVE",
-      "url": "https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Downer",
         "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 153931,
       "name": "Diazepam",
       "url": "https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "LXVE",
+        "url": "https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        }
+      ],
+      "duration_ms": 191301,
+      "name": "LXVE",
+      "url": "https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Kosmik",
-        "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
-      },
-      "artists": [
-        {
-          "name": "Violet Cold",
-          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Camel Dancefloor",
         "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 193066,
       "name": "Camel Dancefloor",
       "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Kosmik",
+        "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
+      },
+      "artists": [
+        {
+          "name": "Violet Cold",
+          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
+        }
+      ],
+      "duration_ms": 214250,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
-      },
-      "artists": [
-        {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Telescope",
         "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Rust on the Gates of Heaven",
-        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
       },
       "artists": [
         {
-          "name": "Wear Your Wounds",
-          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
         }
       ],
-      "duration_ms": 331015,
-      "name": "Shrinking Violet",
-      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Rust on the Gates of Heaven",
+        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
+      },
+      "artists": [
+        {
+          "name": "Wear Your Wounds",
+          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
+        }
+      ],
+      "duration_ms": 331015,
+      "name": "Shrinking Violet",
+      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Into The Void",
-        "url": "https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 210927,
-      "name": "Into The Void - Single Edit",
-      "url": "https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 212530,
       "name": "Envy",
       "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Into The Void",
+        "url": "https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 210927,
+      "name": "Into The Void - Single Edit",
+      "url": "https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "be no one",
-        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
-      },
-      "artists": [
-        {
-          "name": "Sepha.",
-          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
-        }
-      ],
-      "duration_ms": 261206,
-      "name": "be no one",
-      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 202105,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "be no one",
+        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
+      },
+      "artists": [
+        {
+          "name": "Sepha.",
+          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
+        }
+      ],
+      "duration_ms": 261206,
+      "name": "be no one",
+      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Pyroclasts",
-        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
-      },
-      "artists": [
-        {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
-        }
-      ],
-      "duration_ms": 656933,
-      "name": "Frost (C)",
-      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "\u00c1mr",
-        "url": "https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y"
-      },
-      "artists": [
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Arcana Imperii",
-      "url": "https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Demon Supreme",
         "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
       },
@@ -1323,6 +1291,22 @@
       "duration_ms": 211759,
       "name": "Demon Supreme",
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Pyroclasts",
+        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
+      },
+      "artists": [
+        {
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
+        }
+      ],
+      "duration_ms": 656933,
+      "name": "Frost (C)",
+      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1375,6 +1359,22 @@
       "duration_ms": 235954,
       "name": "Kings Today",
       "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Full Spectrum",
+        "url": "https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ"
+      },
+      "artists": [
+        {
+          "name": "The Chronicles of Manimal and Samara",
+          "url": "https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8"
+        }
+      ],
+      "duration_ms": 461306,
+      "name": "Love in the Time of Pestilence",
+      "url": "https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX"
     }
   ],
   "unique_name": "Alternative Metal",

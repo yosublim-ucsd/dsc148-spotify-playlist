@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 184745,
       "name": "Again",
       "url": "https://open.spotify.com/track/6zDZvJJRxofaA7c9ombPIH"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 164075,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5h9qLZBQSuSrpNlOQldU86"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 137872,
       "name": "Feels",
       "url": "https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 196712,
       "name": "mmadu",
       "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
@@ -3155,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/6YgxiCboIdgym01sRlyGix"
+      },
+      "artists": [
+        {
+          "name": "D Jay",
+          "url": "https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182654,
+      "name": "Necessary",
+      "url": "https://open.spotify.com/track/7smcI2O4mrVzrb9X1B2u26"
+    },
+    {
+      "album": {
         "name": "Laughter, Tears & Goosebumps",
         "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
       },
@@ -3224,6 +3242,28 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "album": {
+        "name": "Global Party",
+        "url": "https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y"
+      },
+      "artists": [
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        },
+        {
+          "name": "OmoAkin",
+          "url": "https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "No Money",
+      "url": "https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy"
     },
     {
       "album": {
@@ -3966,6 +4006,32 @@
       "duration_ms": 212639,
       "name": "SHOWING OFF HER BODY (with Davido)",
       "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
+    },
+    {
+      "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg"
+      },
+      "artists": [
+        {
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+        },
+        {
+          "name": "BZ",
+          "url": "https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/0zf4pn9VXgQkXw784xZica"
     },
     {
       "album": {
@@ -4996,7 +5062,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"

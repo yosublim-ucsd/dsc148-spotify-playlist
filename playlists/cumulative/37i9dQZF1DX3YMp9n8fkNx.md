@@ -2,7 +2,7 @@
 
 ### [90s Pop Rock](https://open.spotify.com/playlist/37i9dQZF1DX3YMp9n8fkNx)
 
-> The essential pop rock songs from the 1990s\. Cover: Third Eye Blind.
+> The essential pop rock songs from the 1990s\. Cover: Matchbox Twenty
 
 158 songs - 10 hr 18 min
 

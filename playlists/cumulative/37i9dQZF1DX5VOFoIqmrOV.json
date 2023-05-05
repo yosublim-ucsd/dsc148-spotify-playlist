@@ -220,7 +220,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 253773,
       "name": "Ay Pilla - Telugu",
       "url": "https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5"
@@ -551,6 +551,36 @@
     },
     {
       "album": {
+        "name": "Chamkeela Angeelesi (From \"Dasara\") - Single",
+        "url": "https://open.spotify.com/album/35UNTC9xxXUCYSjwDbmBYb"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203052,
+      "name": "Chamkeela Angeelesi (From \"Dasara\")",
+      "url": "https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa"
+    },
+    {
+      "album": {
         "name": "118",
         "url": "https://open.spotify.com/album/3B6ahyXhT47jUXBBvSXNav"
       },
@@ -646,7 +676,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 250971,
       "name": "Choolenge Aasma",
       "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
@@ -967,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Raahu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/708ZYfQX8GZEPozWVe0mqm"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242412,
+      "name": "Emo Emo",
+      "url": "https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n"
+    },
+    {
+      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc"
       },
@@ -1252,7 +1300,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 168600,
       "name": "Idhe Kadha Nee Katha",
       "url": "https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX"
@@ -1779,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Jaanu",
+        "url": "https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364375,
+      "name": "Life Of Ram",
+      "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
+    },
+    {
+      "album": {
         "name": "Sarkaru Vaari Paata (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4k1eyhV232FplXyv3nnv9q"
       },
@@ -2028,6 +2094,28 @@
       "duration_ms": 238230,
       "name": "Mass Biriyani",
       "url": "https://open.spotify.com/track/0WoXNjPmNxccicpCj1LPtu"
+    },
+    {
+      "album": {
+        "name": "Petta (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4gtt8h7YGortJoVjb42k2H"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Massu Maranam - From \"Petta (Telugu)\"",
+      "url": "https://open.spotify.com/track/1Nh7gea2bnOt9i3HQI1JCB"
     },
     {
       "album": {
@@ -2678,7 +2766,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 217875,
       "name": "Prema Vennela",
       "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
@@ -3313,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Brochevarevarura",
+        "url": "https://open.spotify.com/album/6e7xxoyqjr3XRtl4N2BWJK"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263741,
+      "name": "Vagalaadi",
+      "url": "https://open.spotify.com/track/6OrCZLjCmT13fD7U4Rjavv"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/0LZ7Syqm3P0rk1obKwMGI2"
       },
@@ -3376,6 +3482,24 @@
       "duration_ms": 194551,
       "name": "Ye Chota Nuvvunna (From \"Saaho\") (feat. Tulsi Kumar, Haricharan Seshadri)",
       "url": "https://open.spotify.com/track/499rs8fMaltXk2BOlq9P0m"
+    },
+    {
+      "album": {
+        "name": "18 Pages",
+        "url": "https://open.spotify.com/album/2R30N8Q00fVGnHdyZhTccV"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252775,
+      "name": "Yedurangula Vaana",
+      "url": "https://open.spotify.com/track/2Q9QGlZC5J5rPeeU8oWpHX"
     },
     {
       "album": {

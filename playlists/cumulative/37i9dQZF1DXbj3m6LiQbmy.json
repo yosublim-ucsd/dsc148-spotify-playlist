@@ -518,7 +518,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 513170,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/7fVmuHYUd7L3aaANhzhkvr"
@@ -639,6 +639,32 @@
     },
     {
       "album": {
+        "name": "Build a House feat. Hard Ton",
+        "url": "https://open.spotify.com/album/2RB90FBzn0vC9MJSlNRIEY"
+      },
+      "artists": [
+        {
+          "name": "Discodromo",
+          "url": "https://open.spotify.com/artist/1nvefHp4R7sDmeEgNXSYgw"
+        },
+        {
+          "name": "Hard Ton",
+          "url": "https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK"
+        },
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431776,
+      "name": "Build a House feat. Hard Ton - Prins Thomas Edit",
+      "url": "https://open.spotify.com/track/5iX0WM4HW74LC98Ak5AfBD"
+    },
+    {
+      "album": {
         "name": "ASOKO, Vol. 1",
         "url": "https://open.spotify.com/album/3aE5XAAjsQxdTiyncxy3S7"
       },
@@ -654,6 +680,28 @@
       "duration_ms": 110370,
       "name": "BUONASERA KATUXA",
       "url": "https://open.spotify.com/track/4vwq05nYEihZSsUutticOi"
+    },
+    {
+      "album": {
+        "name": "CAGNE VERE (feat. BigMama)",
+        "url": "https://open.spotify.com/album/0ibfSraWZl7Sjj2YZ3X0uI"
+      },
+      "artists": [
+        {
+          "name": "Queen of Saba",
+          "url": "https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW"
+        },
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182707,
+      "name": "CAGNE VERE (feat. BigMama)",
+      "url": "https://open.spotify.com/track/2WOvvcycQn5AAvwa61Zm3W"
     },
     {
       "album": {
@@ -910,7 +958,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 277714,
       "name": "Cicciolina",
       "url": "https://open.spotify.com/track/5cefK6l4Sj8ExWsX8xNFzn"
@@ -1914,7 +1962,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 204426,
       "name": "Godi",
       "url": "https://open.spotify.com/track/6XpjLXTgXl3gHbrd5gM29p"
@@ -3258,7 +3306,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 233584,
       "name": "Ogni pensiero vola",
       "url": "https://open.spotify.com/track/5827FRbvRNgF7F1yNuvUbw"
@@ -3552,6 +3600,28 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "album": {
+        "name": "See You in Paradise",
+        "url": "https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        },
+        {
+          "name": "Curses",
+          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372631,
+      "name": "Pepper on the Tongue",
+      "url": "https://open.spotify.com/track/0pBhLio0KuHjWI1AOHL4H6"
     },
     {
       "album": {
@@ -3854,7 +3924,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Repito - Populous Remix",
       "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"

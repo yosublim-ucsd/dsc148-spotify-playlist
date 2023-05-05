@@ -3177,6 +3177,28 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/1GzgxeEcTboo4Qkr1IvFgs"
+      },
+      "artists": [
+        {
+          "name": "Chek1",
+          "url": "https://open.spotify.com/artist/3sue3eld1sfBM1Xchbj3zW"
+        },
+        {
+          "name": "Chulo",
+          "url": "https://open.spotify.com/artist/11hF0a5lZflu8mIotDhRAZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268079,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4YoPbAFWUAQojBrSxJ51dE"
+    },
+    {
+      "album": {
         "name": "IN.TEMP.",
         "url": "https://open.spotify.com/album/4NNnzLC4OAWwlOe0tHeVFl"
       },
@@ -3384,7 +3406,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 130175,
       "name": "GULA",
       "url": "https://open.spotify.com/track/6Ell1v2NnVuLMkMvep1DB8"
@@ -3515,6 +3537,44 @@
     },
     {
       "album": {
+        "name": "Horas Extra",
+        "url": "https://open.spotify.com/album/7nrFtPvZjim9mzmCali9u1"
+      },
+      "artists": [
+        {
+          "name": "Caixa Cart\u00e3o Collective",
+          "url": "https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk"
+        },
+        {
+          "name": "UEST.",
+          "url": "https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5"
+        },
+        {
+          "name": "Rilha",
+          "url": "https://open.spotify.com/artist/2qd9JIzESChvdBRKMjFmHJ"
+        },
+        {
+          "name": "Big Jony",
+          "url": "https://open.spotify.com/artist/6wrMJAqosSbDU8Zq0kt08M"
+        },
+        {
+          "name": "Beiro",
+          "url": "https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn"
+        },
+        {
+          "name": "Pedra",
+          "url": "https://open.spotify.com/artist/0pqtHEnbvxrph9Rg21qqBa"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127457,
+      "name": "Horas Extra",
+      "url": "https://open.spotify.com/track/2JnAYf8cKtS0V6ZIRa8LAY"
+    },
+    {
+      "album": {
         "name": "Hot Or Fire",
         "url": "https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW"
       },
@@ -3548,7 +3608,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 206511,
       "name": "I Can\u2019t Lie",
       "url": "https://open.spotify.com/track/5EbVX8t7GCTnyhNJxJb0Jp"
@@ -3672,6 +3732,28 @@
       "duration_ms": 171110,
       "name": "Inc\u00eandio Na Floresta",
       "url": "https://open.spotify.com/track/7B672wb6D5HhamLcyv9Gwz"
+    },
+    {
+      "album": {
+        "name": "Indispon\u00edvel",
+        "url": "https://open.spotify.com/album/2CnvRuBpvZiajlmZfMGHaR"
+      },
+      "artists": [
+        {
+          "name": "OhPi",
+          "url": "https://open.spotify.com/artist/0swKxw2ys5Lak5HunibuuF"
+        },
+        {
+          "name": "Cintia",
+          "url": "https://open.spotify.com/artist/08EG4hzh5F0tPNADtYNFrs"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Indispon\u00edvel",
+      "url": "https://open.spotify.com/track/6Zfl243pwUUPcixqROVLnu"
     },
     {
       "album": {
@@ -4602,7 +4684,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 153600,
       "name": "Meu Tipo",
       "url": "https://open.spotify.com/track/6F5DmnTcwugg7KErGQ3aa9"
@@ -4678,6 +4760,24 @@
       "duration_ms": 141230,
       "name": "MOIS\u00c9S",
       "url": "https://open.spotify.com/track/7FRLKyhv0TyMoI9lASUFx7"
+    },
+    {
+      "album": {
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kgOyrUuu0kiqMnqW6ZWEF"
+      },
+      "artists": [
+        {
+          "name": "Walter 4reignr",
+          "url": "https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210374,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/7lpuxNMONrQKAvwTAuzIBT"
     },
     {
       "album": {
@@ -5164,7 +5264,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 210840,
       "name": "NIKES",
       "url": "https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D"
@@ -5470,7 +5570,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 210052,
       "name": "N\u00e3o",
       "url": "https://open.spotify.com/track/3BoOl2GNbhf9an8wsRHhF0"
@@ -6183,6 +6283,24 @@
     },
     {
       "album": {
+        "name": "Pista",
+        "url": "https://open.spotify.com/album/3LgMjN0E4FrYAni7H1j9xY"
+      },
+      "artists": [
+        {
+          "name": "Baby Creezy",
+          "url": "https://open.spotify.com/artist/1AM4PssW6WPHrhcx1Xty57"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Pista",
+      "url": "https://open.spotify.com/track/5rKkdhPxJkvD1KME7ZgZmZ"
+    },
+    {
+      "album": {
         "name": "Pode Deixar",
         "url": "https://open.spotify.com/album/47lfTSKfrswDdNhFYby5nx"
       },
@@ -6198,7 +6316,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 166887,
       "name": "Pode Deixar",
       "url": "https://open.spotify.com/track/5TlW9CmJgxWTmhUTwgwuVZ"
@@ -6714,7 +6832,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 185429,
       "name": "Recome\u00e7os pt. 2",
       "url": "https://open.spotify.com/track/3Q0kPrhXlxVJGwkMwZZi0G"
@@ -7342,7 +7460,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 134110,
       "name": "Sente a Pose",
       "url": "https://open.spotify.com/track/0EsAFX2pzFf3negTeCbURp"
@@ -7515,6 +7633,24 @@
     },
     {
       "album": {
+        "name": "SNIPER",
+        "url": "https://open.spotify.com/album/0A8u7VQjok0dWGVMjv4ZgB"
+      },
+      "artists": [
+        {
+          "name": "Bala G",
+          "url": "https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177928,
+      "name": "SNIPER",
+      "url": "https://open.spotify.com/track/546GgCnIgXIXGZS2ZzVY84"
+    },
+    {
+      "album": {
         "name": "So Sick",
         "url": "https://open.spotify.com/album/23KPZXrBoAA6Jmloc5rwex"
       },
@@ -7606,6 +7742,24 @@
       "duration_ms": 314929,
       "name": "Sonhei Que No Meu Bairro",
       "url": "https://open.spotify.com/track/09fPAsoOHwaMCIFnWJ9EU5"
+    },
+    {
+      "album": {
+        "name": "Sopro",
+        "url": "https://open.spotify.com/album/4bmd6mBVRkKeincXlUaHza"
+      },
+      "artists": [
+        {
+          "name": "Cap\u00e3o",
+          "url": "https://open.spotify.com/artist/1V86kXTwC0BxS5InOpVsVY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193972,
+      "name": "Sopro",
+      "url": "https://open.spotify.com/track/0uaEyf97Q8WcUJNDnq6Cn1"
     },
     {
       "album": {

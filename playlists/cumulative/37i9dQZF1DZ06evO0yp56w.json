@@ -214,10 +214,32 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 250860,
       "name": "Compliance",
       "url": "https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O"
+    },
+    {
+      "album": {
+        "name": "Compliance (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/7wKiQy5WoppfuiRGltIogr"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196846,
+      "name": "Compliance (Purple Disco Machine Remix) - Edit",
+      "url": "https://open.spotify.com/track/4tLB7Y41bkQSnJRqfJ7k4x"
     },
     {
       "album": {
@@ -358,7 +380,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 217034,
       "name": "Ghosts (How Can I Move On)",
       "url": "https://open.spotify.com/track/0C5U4go8KKWHmAipujRH6I"

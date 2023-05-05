@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=ULCBcQ9RSM61GgUQl7oKEw">Nomfundo Moh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,584 likes - 51 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,682 likes - 51 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 50 | [Ewallet](https://open.spotify.com/track/3dnalT0K3cynUUcxLGT6gZ) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [AB Crazy](https://open.spotify.com/artist/2AV7bayWSUDsA3Iwb7b7UN), [Nhlonipho](https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW) | [Ewallet](https://open.spotify.com/album/5waXBwSbwwRqd4s0eJZmPy) | 2:55 |
 | 51 | [Singabonani](https://open.spotify.com/track/61Y3X6S5A856GEOTVXfxC2) | [LUNGA](https://open.spotify.com/artist/7810xgWOLCvaMyaFtnOeQa), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Dj Radix](https://open.spotify.com/artist/1e1wEtfkiETX9bghMZnU4x) | [Singabonani](https://open.spotify.com/album/0RqXMw2gDKkqPLKoKJDKbZ) | 4:05 |
 
-Snapshot ID: `MCw2OWE3ZWIxN2I1ODhhMmE5YjQ4MDA3MGE5ZDNkOWQyZjY0NDU0Nzk5`
+Snapshot ID: `MCwwNjE3NzZhZTYwZWI0OWYzZGU1MWJkNzkzMDQ3OTgwODdiNGMyMTgx`

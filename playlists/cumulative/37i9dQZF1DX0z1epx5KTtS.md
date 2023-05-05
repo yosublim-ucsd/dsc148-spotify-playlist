@@ -2,12 +2,13 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
+> African dance party music from Paris to Abidjan\. Photo : Didi B
 
-124 songs - 7 hr 24 min
+126 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 à 1](https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [1 à 1](https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy) | 3:32 | 2023-05-04 |  |
 | [225](https://open.spotify.com/track/6f7yT22j7VT5KrYLFBdmbk) | [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [+225](https://open.spotify.com/album/2HS0I5VJWUnsDOdEBeYr5K) | 3:51 | 2023-01-05 | 2023-02-03 |
 | [Abacou](https://open.spotify.com/track/0BevQ6RCp7uHdi2s0GmtWn) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [Aboutou Roots](https://open.spotify.com/artist/4Mg9ctyuvtX852SAMNfLso) | [Abacou](https://open.spotify.com/album/5oko0ARkOH4fnLFuABsdqR) | 4:02 | 2022-09-15 | 2022-12-09 |
 | [Abidjan puissance](https://open.spotify.com/track/2VnVzVwCt4oNK1nkMRMQ9E) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Abidjan puissance](https://open.spotify.com/album/70c8O1zxFqTPuR6AI8fckj) | 4:24 | 2021-12-20 | 2022-12-16 |
@@ -51,6 +52,7 @@
 | [Enjaillement](https://open.spotify.com/track/1wmrKgGI7jHvsNUqJqMsQF) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Mix Premier](https://open.spotify.com/artist/7E4tPSohzAp4dXEnNuab75) | [Enjaillement](https://open.spotify.com/album/3kX7u6RihaZK11a5plv3LO) | 3:30 | 2022-09-29 | 2022-10-28 |
 | [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 | 2022-09-09 |
 | [Gbêssê](https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Gbêssê](https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee) | 3:16 | 2021-12-20 | 2023-04-28 |
+| [Gnamakoro Kakoh](https://open.spotify.com/track/5tpJQotwRNHhSbiEHYOZeO) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Gnamakoro Kakoh](https://open.spotify.com/album/1w6s8QQC0VQNV4af7uCYJD) | 2:51 | 2023-05-04 |  |
 | [Godo Godo](https://open.spotify.com/track/1o7k5eUEA0m6Q7H0A1tvyU) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Godo Godo](https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV) | 2:39 | 2022-02-18 | 2022-12-25 |
 | [Godokou](https://open.spotify.com/track/6gvANR4MUDjSjETEXRfO08) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Les Patrons](https://open.spotify.com/artist/1nsZMNRP1vmtIat8hD4bHg) | [Godokou](https://open.spotify.com/album/2tJsVMOI29MOKatOUJqMET) | 3:50 | 2022-12-01 | 2023-01-27 |
 | [Godomoué](https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h) | [JN LE BOSS](https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs), [Yanik Jones](https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG) | [Godomoué](https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y) | 2:48 | 2021-12-20 | 2022-05-21 |
@@ -58,7 +60,7 @@
 | [Grimper](https://open.spotify.com/track/1MhIUr4BPM6djNmuyIRmFm) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Grimper](https://open.spotify.com/album/0CBbnnVg6MP4rtmHH8ocBf) | 3:17 | 2023-04-27 |  |
 | [Hippy Dance](https://open.spotify.com/track/6zYr2POno0mWqu8kr7EeMp) | [Pikatchou Le Moine](https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2) | [Hippy Dance](https://open.spotify.com/album/5YG6ZxsQMr7w9Mt2JJRUSR) | 3:08 | 2022-10-27 | 2023-02-17 |
 | [Il est La](https://open.spotify.com/track/6zblCpRhFYqF3yP9HBdMKq) | [Indira](https://open.spotify.com/artist/3CJLLE7BahDjeTeHVtdRdP), [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Il est La](https://open.spotify.com/album/6Y6MoYzQ5addwNF2LbrND1) | 3:41 | 2022-08-25 | 2022-12-02 |
-| [Ils n'ont pas cru](https://open.spotify.com/track/4NmG4x6MnVtv1SPDYkYf7b) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [Ils n'ont pas cru](https://open.spotify.com/album/5DlZKO83y2BTB7iDCWzuvd) | 3:58 | 2023-01-26 |  |
+| [Ils n'ont pas cru](https://open.spotify.com/track/4NmG4x6MnVtv1SPDYkYf7b) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [Ils n'ont pas cru](https://open.spotify.com/album/5DlZKO83y2BTB7iDCWzuvd) | 3:58 | 2023-01-26 | 2023-05-05 |
 | [Ils Sont Où?](https://open.spotify.com/track/3uNyP0B7IietcPg91GXqAT) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Ils Sont Où?](https://open.spotify.com/album/03HpoLkthTOHlr8pLLD42l) | 3:32 | 2023-04-27 |  |
 | [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 | 2022-05-21 |
 | [Jonathan](https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Best Of DJ Arafat](https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK) | 4:36 | 2022-08-11 |  |
@@ -84,7 +86,7 @@
 | [Ma Place](https://open.spotify.com/track/3UMKpuoJeemcDHxZepnIH7) | [Anderson 1er](https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp) | [Ma Place](https://open.spotify.com/album/3cevtx8WGwucUcmrP9toVk) | 3:55 | 2022-09-01 | 2022-12-02 |
 | [Mademoiselle](https://open.spotify.com/track/3Vt5QZrsmeOESKmpciE4ks) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Mademoiselle](https://open.spotify.com/album/2vA35OUTpM5gVmTPnTGSnC) | 2:19 | 2022-12-28 |  |
 | [Mami Wata](https://open.spotify.com/track/07KaEXxno8BhXI6UKZcy1U) | [Tenor](https://open.spotify.com/artist/6yroy4hk9Daq02TQAWl778), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mami Wata](https://open.spotify.com/album/7GaRPIyFR0pD6kZNlgbbh6) | 2:52 | 2022-05-26 | 2022-08-26 |
-| [Manger la vie](https://open.spotify.com/track/6DCVOdL5lk2FxHXZ54T5Eb) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Manger la Vie & Garçon Djandjou](https://open.spotify.com/album/7dcAf4da4ajOExJSD7N8Lr) | 3:13 | 2023-01-19 |  |
+| [Manger la vie](https://open.spotify.com/track/6DCVOdL5lk2FxHXZ54T5Eb) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Manger la Vie & Garçon Djandjou](https://open.spotify.com/album/7dcAf4da4ajOExJSD7N8Lr) | 3:13 | 2023-01-19 | 2023-05-05 |
 | [Mapouka](https://open.spotify.com/track/6WT4eFi2jTFNuN8UkVGFLO) | [TNT Family](https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6) | [12 Raisons](https://open.spotify.com/album/50VVd86np0xlYcTpibU37n) | 3:03 | 2022-06-02 | 2022-09-02 |
 | [MEME](https://open.spotify.com/track/6jq8XCdFOgVU1xb83EZ7NC) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [MEME](https://open.spotify.com/album/3F5WzTfqrtSpIDJNnvtzG9) | 3:20 | 2021-12-20 | 2022-06-17 |
 | [Misu na misu](https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Misu na misu](https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i) | 3:28 | 2021-12-20 | 2022-02-19 |

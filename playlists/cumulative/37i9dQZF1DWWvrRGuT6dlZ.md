@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Gaston Pong\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: mersie\. Artwork: Isu Kim.
 
-402 songs - 22 hr 6 min
+409 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All With Me](https://open.spotify.com/track/7D23uHGIu3lK2LMGQXPgng) | [Derick.T](https://open.spotify.com/artist/7tUh2r1hb4PmWjZNQfON3G), [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [All With Me](https://open.spotify.com/album/6JxSExNrzPecEqTzoZMRRQ) | 2:50 | 2022-09-09 | 2023-02-10 |
 | [alone < /3](https://open.spotify.com/track/7sKh83nj5qdw1bnXX6RY3r) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [alone < /3](https://open.spotify.com/album/3LpPVjsnxjU1OjQr5AETxc) | 3:01 | 2021-12-01 | 2023-01-13 |
 | [ALONE TOGETHER](https://open.spotify.com/track/53fjWjjGJDqm1M79W7fHT3) | [UTCPLUS8](https://open.spotify.com/artist/368mLOChWZCXPkEfIRx3or), [jimmy\_thegoat](https://open.spotify.com/artist/47guwsdQUnnKYOEInCv42p), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [ALONE TOGETHER](https://open.spotify.com/album/16FyV3LsShp44hfdFe9jTk) | 3:58 | 2023-03-09 |  |
+| [always summertime](https://open.spotify.com/track/6DRhRdtVHMPnc2amhMiWSy) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [The Morning After](https://open.spotify.com/album/6y8NCfY19sEVFahTwtnlnt) | 3:05 | 2023-05-04 |  |
 | [Anima Bella](https://open.spotify.com/track/0PjdhMgWgx3IJ5cUT13tiz) | [Mia Lateefa](https://open.spotify.com/artist/2iPmNcNNer1SRignvfsjQE) | [Anima Bella](https://open.spotify.com/album/4zzVg82fXthMeN3BZf6Kel) | 3:13 | 2022-01-13 | 2022-06-17 |
 | [Anxious In The Daytime](https://open.spotify.com/track/0OhaGOmebd12R1YgizXObP) | [Astor Walk](https://open.spotify.com/artist/6eCaI5ppOeDrr7zs2VZtVg) | [Anxious In The Daytime](https://open.spotify.com/album/3do4OVA2U4zsc1sgiIWyRJ) | 2:57 | 2022-06-30 | 2022-09-23 |
 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 | 2022-03-17 |  |
@@ -45,6 +46,7 @@
 | [bittersweet](https://open.spotify.com/track/2VhCaIbw36S8NXi6734ehU) | [CLARY](https://open.spotify.com/artist/0cvCbPXZzELIrIYQl2yxLm), [zeauk](https://open.spotify.com/artist/6lSwya9NXVN29RnQqQCHnE) | [bittersweet](https://open.spotify.com/album/6JrE0n1iAvsxx1ae2V2j6P) | 3:01 | 2022-01-13 | 2022-06-17 |
 | [bittersweet](https://open.spotify.com/track/3rIFI3Qr5F6ZMAeX1R8bzh) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps) | [bittersweet](https://open.spotify.com/album/5FO2kVPKiicZfH0ypjWrBx) | 2:38 | 2022-10-27 |  |
 | [BLAZE](https://open.spotify.com/track/0ckAdNFaRgNYboKjJ7iBv3) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [camp](https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX) | 3:09 | 2022-03-17 | 2023-03-10 |
+| [Bloom Again \(다시 봄이 올거야\)](https://open.spotify.com/track/4tnRKtVtNrc0cb7YDxkk7n) | [mersie](https://open.spotify.com/artist/6NiLEHNy66fQkD5PNoQqoH) | [Bloom Again \(다시 봄이 올거야\)](https://open.spotify.com/album/2hOEr1X3NFImMZ8YSVkvCt) | 3:23 | 2023-05-04 |  |
 | [Bonfire](https://open.spotify.com/track/4F2Hm9Iu84ribXJf0ZUDpl) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Bonfire](https://open.spotify.com/album/3WK4vTqkm7A5LNeajoqFRh) | 3:05 | 2022-04-14 | 2022-07-08 |
 | [Born to Lose](https://open.spotify.com/track/5Ztgeay2dTHRcqxSRRsPJ1) | [Boycaught](https://open.spotify.com/artist/5RGPbinFDJxKSpBoktzT6K) | [Born to Lose](https://open.spotify.com/album/6XLhTlx7lrGgH5s5xAuojs) | 3:51 | 2023-03-09 |  |
 | [Bossa Trippin'](https://open.spotify.com/track/79pGOUU4NvIMt47CCaj7V0) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Bossa Trippin'](https://open.spotify.com/album/0z84ie5iKLg19JLHaOlcao) | 3:16 | 2023-03-30 |  |
@@ -63,6 +65,7 @@
 | [Change Your Mind](https://open.spotify.com/track/0PfHYUyIkw55EztJ13P9fQ) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [Maya Diegel](https://open.spotify.com/artist/3hzkGIJ8l5mkn2L7XhSCxW) | [Caryatid EP](https://open.spotify.com/album/1GjK8gU15W82DQbXmhpvNZ) | 2:36 | 2022-01-13 |  |
 | [Cherry Wine](https://open.spotify.com/track/7pCoMYTUu4RhyhheULLdr5) | [The Lounette](https://open.spotify.com/artist/638WE7BEtItPvh25YbeMGM) | [Cherry Wine](https://open.spotify.com/album/1I2JWR6cDtINzyusW8n4kK) | 4:34 | 2022-01-27 | 2023-01-13 |
 | [cigarettes](https://open.spotify.com/track/56pjUTbjQQAvMGK97U01lv) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [ALN](https://open.spotify.com/artist/7tQmpZdpsmgXdJNatZgy88) | [cigarettes](https://open.spotify.com/album/5ybfSO3a1mFrdLST3kEuCL) | 4:00 | 2022-01-13 | 2022-06-17 |
+| [CINNAMON](https://open.spotify.com/track/7wp6i0aBomwDrmim65xhZA) | [P\_NEDA](https://open.spotify.com/artist/45NB3nfn6wOMwJApY4xUOy) | [CINNAMON](https://open.spotify.com/album/3wjo6ctFVmOPQqHWQ1NoLa) | 3:37 | 2023-05-04 |  |
 | [Close Enough](https://open.spotify.com/track/7z4e9pBBxzUQGxrGogD3ad) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [Close Enough](https://open.spotify.com/album/63ZHJkXV6NuCdW3naAeSXL) | 3:46 | 2022-08-25 | 2022-09-23 |
 | [Closer](https://open.spotify.com/track/5GSBtTk0ixAo3cVz6D1oSr) | [SATINA](https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0) | [Closer](https://open.spotify.com/album/4uRcOcIaEvFEfNtr38tgY7) | 2:32 | 2021-12-01 | 2023-01-13 |
 | [coffee at midnight](https://open.spotify.com/track/16FGUMyTeEdhWnWG8i8lBA) | [JENE](https://open.spotify.com/artist/31feOFDWzpOFbZvZjh8D7o) | [coffee at midnight](https://open.spotify.com/album/2crYIvE0ZXhSnNkhZ3ejpS) | 3:34 | 2021-12-01 | 2022-01-14 |
@@ -190,6 +193,7 @@
 | [Just Another Minute](https://open.spotify.com/track/6AEmZBWGYlI6nsuWB5qViN) | [Maneloren](https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2) | [Just Another Minute](https://open.spotify.com/album/4C6UwXY2vG00aX9u5wPIcI) | 4:00 | 2022-01-13 | 2022-06-17 |
 | [Keep On Smiling](https://open.spotify.com/track/3NYBXsmtc2kWPYKSBDX7bB) | [Drichulous](https://open.spotify.com/artist/1XeAeRWILDePCKo2OSvjjB) | [Keep On Smiling](https://open.spotify.com/album/5pjQPnr9OwEcuQ4T2LffmX) | 2:48 | 2022-07-07 | 2022-09-23 |
 | [Keeping Love](https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love](https://open.spotify.com/album/0uplHKgYixtwWOb5eZc5VL) | 1:56 | 2023-03-30 |  |
+| [kid](https://open.spotify.com/track/6UPSUyqX0ofQhs9ompDzHa) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [kid](https://open.spotify.com/album/3MtzL6M8tVCojmQzokuSSU) | 2:25 | 2023-05-04 |  |
 | [Kiss Me In The Rain](https://open.spotify.com/track/54G8T1sofBKaxNDTvbmNFY) | [RINES](https://open.spotify.com/artist/2FquRCgJvkUVwoDNrnsgAD) | [Kiss Me In The Rain](https://open.spotify.com/album/0Yi9xC5oEUCnM5hDSvGYxE) | 3:24 | 2021-12-01 | 2023-01-13 |
 | [Laid Back](https://open.spotify.com/track/6Y39zm7oEs5xcJlli8Z7td) | [Kyle Waves](https://open.spotify.com/artist/4JI8Ua08Ilxh3BVUZTSdiR), [Noelle Muñoz](https://open.spotify.com/artist/5w7ZC1RjknvlXHOQGVc7GD) | [Laid Back](https://open.spotify.com/album/5FBwTYL8eY7txbcZpPwPqn) | 3:06 | 2022-08-25 | 2023-03-10 |
 | [Last Bus](https://open.spotify.com/track/46PIzwv3Ezp5WqcTfa3zUx) | [CURB](https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V) | [Last Bus](https://open.spotify.com/album/1OqSJqgCUyFTlkbJiBJ9Sj) | 2:30 | 2022-09-15 |  |
@@ -210,6 +214,7 @@
 | [Love Like You](https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj) | [Love Like You](https://open.spotify.com/album/1omPIAZK12fqM3qxcwdfQK) | 2:30 | 2022-05-05 | 2023-02-10 |
 | [Love Quizzes](https://open.spotify.com/track/3AnCQUv83JUHosFh9OVmLp) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Love Quizzes](https://open.spotify.com/album/3bhofzk3jj1AH0mzuksbDK) | 3:32 | 2022-11-10 |  |
 | [Love You Slow](https://open.spotify.com/track/3oeKRcdiEzV9hU5IzsG7zK) | [T.A](https://open.spotify.com/artist/7K4ui8t9ZfvDNX5sA3dmc9) | [Love You Slow](https://open.spotify.com/album/3ENs4KdplQ045ZxQyioUEA) | 3:06 | 2022-06-30 | 2022-09-23 |
+| [love..\. at first sight?](https://open.spotify.com/track/6VeYLbQeExx8mVcLM4g2Lk) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [love..\. at first sight?](https://open.spotify.com/album/7L9YLMRT0JN6QYiOG5Y28z) | 4:01 | 2023-05-04 |  |
 | [lovelost](https://open.spotify.com/track/4UKFs8uaTDY9LATeFW30OF) | [motifs](https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB) | [lovelost](https://open.spotify.com/album/0t4z06E9od6mkiAZo4n7cM) | 5:08 | 2022-10-27 |  |
 | [Lover's Dream](https://open.spotify.com/track/7wmxK5k0oFNrCJlTppQlNW) | [Saints Amongst Sinners](https://open.spotify.com/artist/5CNHIyCLT2jMGpO3re7Mjf) | [Y/OURS](https://open.spotify.com/album/2qDawRZFkl6s4Mt1xuGFHd) | 5:35 | 2021-12-01 | 2022-01-14 |
 | [Lovesick Blues](https://open.spotify.com/track/1DWWMZn2WY2rX9SuvtI0Xq) | [jun](https://open.spotify.com/artist/2fPotAbyJW12ngcBGKw8J8) | [Lovesick Blues](https://open.spotify.com/album/6eQwpV7xAs35n8XtWDPGVg) | 4:08 | 2022-03-10 | 2023-01-13 |
@@ -287,6 +292,7 @@
 | [Ready to Breathe](https://open.spotify.com/track/6aafpnwXqPrl7tLyu1d9jG) | [Rahul Advani](https://open.spotify.com/artist/4ol2EjDnh4lRaTk3lfFtQb) | [Ready to Breathe](https://open.spotify.com/album/2yWlVmAyQ6E57G1mRArgKC) | 4:03 | 2022-09-09 | 2022-09-23 |
 | [Reckless](https://open.spotify.com/track/60l7qW1hphyq0Aj7yvNpOl) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Eternal Atrophy](https://open.spotify.com/album/4QI8dPnl9s6jj0hr3jqA0n) | 3:37 | 2022-06-30 | 2022-09-23 |
 | [Remember Me](https://open.spotify.com/track/0Hb5wXGFUp7UDXb0LW6mmE) | [Celeste Syn](https://open.spotify.com/artist/5iDUKJ7OHv9qOmvxAbLnHK) | [I Long To See Your Face](https://open.spotify.com/album/7rb3G65p2QMTNnGQlKzXVO) | 2:29 | 2022-09-09 |  |
+| [Ride or Die](https://open.spotify.com/track/61r9UkhMDvzpbaSvBLyscX) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Ride or Die](https://open.spotify.com/album/1p1Px5AEBiqiKzZbI0q5dC) | 3:40 | 2023-05-04 |  |
 | [ride or die \- Punk Version](https://open.spotify.com/track/0B44Xmh102iDiri93Y9Ymx) | [Emellyn Hasrin](https://open.spotify.com/artist/78ushdjOVNNN857JZ1jmOQ) | [ride or die \(Punk Version\)](https://open.spotify.com/album/3OGpsPma8sHHUzreXbb4DC) | 2:13 | 2022-09-22 | 2023-03-18 |
 | [Ride with Me](https://open.spotify.com/track/4RewDJvnH6EEmuJz2LNIEb) | [Maqyl](https://open.spotify.com/artist/1TsQNoSAfBuzmgHN0475Sw), [Kalyan Rath](https://open.spotify.com/artist/1bdzqJILHZDRI49lqMS5mc) | [Ride with Me](https://open.spotify.com/album/05s3PEx8pGlodj3gvSgm2y) | 2:58 | 2022-01-13 | 2022-06-17 |
 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-02-09 |  |
@@ -342,6 +348,7 @@
 | [The Hardest Pill To Swallow](https://open.spotify.com/track/1GoAAsmyjNAbyuSAeMrO18) | [Capt'n Trips and The Kid](https://open.spotify.com/artist/2LotVsfwkoFhqeQW8ae6PN) | [The Hardest Pill To Swallow](https://open.spotify.com/album/5wuWE1wSqzbUEadCU6Ye6J) | 3:34 | 2022-09-15 |  |
 | [The Lights Have Gone Down](https://open.spotify.com/track/1R0bl70zBoKukkB0qUnJZ1) | [Heady Eves](https://open.spotify.com/artist/4Sme4edA0CsHJTNJvtfBjU) | [Drench](https://open.spotify.com/album/55FhvfGFbND8HAbe0B0EtR) | 4:02 | 2023-02-17 |  |
 | [the moon](https://open.spotify.com/track/0RetyWjqdLJrSy3JvJqiPj) | [dylan chan](https://open.spotify.com/artist/3mKBWcBH58qiZXLs4ojPdK) | [the moon](https://open.spotify.com/album/34seKNYvo6iJFzVddkKJCw) | 4:03 | 2022-02-24 | 2022-07-08 |
+| [THE RAIN](https://open.spotify.com/track/2A0FKNwmhilh0eYdN9eZp4) | [MAYA RAISHA](https://open.spotify.com/artist/0Q4E5MxwF7eQoizTpAxixD) | [THE RAIN](https://open.spotify.com/album/5u7C8RV8rtFP2DV1XGq6we) | 3:56 | 2023-05-04 |  |
 | [things i can't forget.](https://open.spotify.com/track/1cDIqkV2xOLHYgsL0CG1t4) | [MAYABAYU](https://open.spotify.com/artist/0FHRUJgD0f1jDgAti7uvgI) | [things i can't forget.](https://open.spotify.com/album/1wTO3qDBr2A63MIWPwUBZk) | 3:42 | 2021-12-01 | 2022-01-14 |
 | [Things I Should've Said](https://open.spotify.com/track/52NLPbXmv5FJ26mwZAwLoo) | [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [Things I Should've Said](https://open.spotify.com/album/3yeyRBKGNmgAIApfUXcylF) | 2:23 | 2022-02-24 | 2022-06-17 |
 | [things will be okay](https://open.spotify.com/track/35Feq1SAHCfZRNqdwICtCJ) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [things will be okay](https://open.spotify.com/album/6yKaFwXJAP7LO37E1ugRMX) | 2:14 | 2021-12-01 | 2022-01-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Armaan Malik, Mithoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,589 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,651 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 2 | [Meherbaan](https://open.spotify.com/track/0wJ9ScQ2fMJspiwOU1oO12) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Amjad Bagadwa](https://open.spotify.com/artist/1ShV4w1KY1Sofk04H6qzdL) | [Meherbaan](https://open.spotify.com/album/0YxC1L4SSsWUrg5OgoyTEi) | 2:56 |
 | 3 | [Tere Bin Laage](https://open.spotify.com/track/5GfZTeR24ugCddSRj0BKU9) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Tere Bin Laage](https://open.spotify.com/album/6qDbMxoh61bYMbBwKdrssP) | 3:29 |
 | 4 | [Phone Mila Ke \(feat\. Aroosa Khan\)](https://open.spotify.com/track/7cwKXX5ieP7YcHvKJmZUfJ) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Aroosa Khan](https://open.spotify.com/artist/5HAVkeaB3Aj9TtSkGepqLf) | [Phone Mila Ke \(feat\. Aroosa Khan\)](https://open.spotify.com/album/0Y3n8uUIxd9dzXLqrJOGnh) | 3:00 |
-| 5 | [Jannatein](https://open.spotify.com/track/4R38KUfcNLG7aamnBu8i8r) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Jannatein \(From 'Jannatein'\)](https://open.spotify.com/album/2u9QAF3s8tHux9OUeBUKCa) | 2:29 |
+| 5 | [Jannatein \- From 'Jannatein'](https://open.spotify.com/track/4R38KUfcNLG7aamnBu8i8r) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA), [Rachit Rojha](https://open.spotify.com/artist/5Y8cD4NMVXORhNrkHhTbxv), [Sibbu Giri](https://open.spotify.com/artist/2m9w66Ytmhz19WCxaRiXTU) | [Jannatein \(From 'Jannatein'\)](https://open.spotify.com/album/2u9QAF3s8tHux9OUeBUKCa) | 2:29 |
 | 6 | [KHAMAKHA](https://open.spotify.com/track/5FkjF7TgxbrlgHQ10hTgSx) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [KHAMAKHA](https://open.spotify.com/album/5Rkvua8NhXXIlb6lRJE4Ln) | 4:47 |
 | 7 | [Ni Main Jaana](https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0) | [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Ni Main Jaana](https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK) | 4:17 |
 | 8 | [Majbooriyaan](https://open.spotify.com/track/0N2BXjfbhRTOeJvhMcvyZn) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Majbooriyaan](https://open.spotify.com/album/6yx3zPwlC3vmN1N7SJ2v7w) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 |
 | 50 | [Choo Liya](https://open.spotify.com/track/3CCKZEmtnCCbq2jrEihxgr) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [MEER](https://open.spotify.com/artist/4Qtx4aI2TxoK7IDTDZgvti), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Choo Liya](https://open.spotify.com/album/0bm7EwOK7BLJUrrx0J9Sm6) | 3:03 |
 
-Snapshot ID: `MCw4NzgzNTljOTNhM2NkY2NmNjM5ODM4MWIzNDZlNTg3Njg5MjE3NmE5`
+Snapshot ID: `MCw4NGJlZGUwMThmMDAzNzg5Y2M3ZmIyYzVlYjM1MDcxMWRkZjJiMTdm`

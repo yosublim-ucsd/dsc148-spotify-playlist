@@ -4,7 +4,7 @@
 
 > 
 
-184 songs - 10 hr 29 min
+185 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [I Think I'm Normal](https://open.spotify.com/track/3eDH2cJuiZPibbBzkoF1Cw) | [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [I Think I'm Normal](https://open.spotify.com/album/4dJ4cJBhffQiZ8XkJ4Decg) | 3:16 | 2021-12-18 |  |
 | [I'd Rather Sleep](https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 1:55 | 2021-12-20 |  |
 | [I'm Going Back to 5 0 5](https://open.spotify.com/track/7eRGCHdvoDold2JNJjbVjq) | [nightcore spedup](https://open.spotify.com/artist/1z4hWDC0V0M2CQVKb5OMnV) | [I'm Going Back to 5 0 5](https://open.spotify.com/album/6vBLraTKjmH2VMt8Nq10gY) | 3:13 | 2022-06-23 |  |
+| [if god didnt want us to snort worms he wouldn't have made them cylindrical!](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 0:58 | 2023-05-04 |  |
 | [In My Head](https://open.spotify.com/track/2nr9WZdKntw9a5muEC3gOk) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/6Jtk9BCHUN8FICezPZghEJ) | 5:54 | 2022-03-12 |  |
 | [In New York I Milly Rock](https://open.spotify.com/track/16YKfdQJNNlbje3XXi9LRJ) | [Lil Homeslice](https://open.spotify.com/artist/32NtUaodQlyEydg8QWfr0i) | [In New York I Milly Rock](https://open.spotify.com/album/32DdZUqs5wXY2LajD4p5Wa) | 2:47 | 2022-01-31 |  |
 | [Insomniac](https://open.spotify.com/track/62JzTgFcJ4BX07AktKmB1S) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:32 | 2022-09-07 |  |

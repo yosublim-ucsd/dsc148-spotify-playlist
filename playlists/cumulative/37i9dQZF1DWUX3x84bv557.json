@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Paul Sinha op de cover van d\u00e9 Nederpop playlist",
+  "description": "Bente op de cover van d\u00e9 Nederpop playlist",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Ze Is Pas Net Begonnen (Leerstage / Werkstage)",
+        "url": "https://open.spotify.com/album/6dCuGy0Vmc6QQkeW5zZroi"
+      },
+      "artists": [
+        {
+          "name": "De Jeugd Van Tegenwoordig",
+          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251140,
+      "name": "Ze Is Pas Net Begonnen (Leerstage / Werkstage)",
+      "url": "https://open.spotify.com/track/3oZYSdQ1tCqi8uoRqGAext"
+    },
+    {
+      "album": {
         "name": "Ze Redt Zich Wel",
         "url": "https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy"
       },
@@ -3240,6 +3258,24 @@
       "duration_ms": 183598,
       "name": "Zij Heeft Alles",
       "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"
+    },
+    {
+      "album": {
+        "name": "Zolang Dit Liedje Duurt",
+        "url": "https://open.spotify.com/album/06dgQlNUalqNxkOC2t73bl"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163435,
+      "name": "Zolang Dit Liedje Duurt",
+      "url": "https://open.spotify.com/track/4yzvrn5hlJBTbLvOrjGSvv"
     },
     {
       "album": {

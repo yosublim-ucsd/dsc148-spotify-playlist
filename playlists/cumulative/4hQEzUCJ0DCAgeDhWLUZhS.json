@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Don't Get Me Wrong",
+        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173132,
+      "name": "Don't Get Me Wrong",
+      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+    },
+    {
+      "album": {
         "name": "Kind (Deluxe)",
         "url": "https://open.spotify.com/album/5eKfSbsVTRHvUI7r7DdyYR"
       },
@@ -4999,6 +5017,24 @@
     },
     {
       "album": {
+        "name": "I Saw The Future",
+        "url": "https://open.spotify.com/album/2m9fGyYjgPmS2xU0ugLHyc"
+      },
+      "artists": [
+        {
+          "name": "The Hard Aches",
+          "url": "https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209188,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/4mNb2xRwNv3Kg9iA6FVwUb"
+    },
+    {
+      "album": {
         "name": "All These Countless Nights (Reworked)",
         "url": "https://open.spotify.com/album/2ERh42P9SszlEESjnV6cQp"
       },
@@ -5392,6 +5428,24 @@
       "duration_ms": 205473,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/07wX6N12kg4zZ2gI8IrB1y"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187228,
+      "name": "Strawberry Daydream",
+      "url": "https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE"
     },
     {
       "album": {

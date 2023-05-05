@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:6VQUyaRqUl5BCTJS0cCEki">KIWI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,481 likes - 45 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,489 likes - 45 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 44 | [Dinozaury](https://open.spotify.com/track/5XAFPMqtAlO4uKKAwgdw7z) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm) | [Polska Floryda](https://open.spotify.com/album/76Tg6vW5sCt2x6vLawvHsc) | 3:44 |
 | 45 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCxhMjFhNTQyZjA5ZTVkOTNjYzdiNzU3MTFhOWMxYWYyNDM5ZTEzZmMz`
+Snapshot ID: `MCwyNGIzNmVlNmYxYmQ1YzY3MGI4YmVkODk4NTM0MDQ0MTZlMDY0MmMw`

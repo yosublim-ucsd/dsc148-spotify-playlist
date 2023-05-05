@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: blond",
+  "description": "The best French indie tracks right now. Cover: Alice et Moi",
   "name": "Made in France",
   "tracks": [
     {
@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L"
+      },
+      "artists": [
+        {
+          "name": "Nell Widmer",
+          "url": "https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "Dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t"
+    },
+    {
+      "album": {
         "name": "Dans mes r\u00eaves",
         "url": "https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha"
       },
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 143338,
       "name": "Flight To Vienna",
       "url": "https://open.spotify.com/track/3CoBGFdnpBTVv4gbf5H1Km"
@@ -4011,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "Nu.e",
+        "url": "https://open.spotify.com/album/2h3p6rosTEpGrPdrcAbBIS"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Fever",
+          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Nu.e",
+      "url": "https://open.spotify.com/track/1Q8zfQSuxdnCay1qjkPuMA"
+    },
+    {
+      "album": {
         "name": "Nuits Agit\u00e9es",
         "url": "https://open.spotify.com/album/25f4SfEIX7hktBVYtfAqL1"
       },
@@ -4911,6 +4947,24 @@
     },
     {
       "album": {
+        "name": "aupitape 1: hortensia",
+        "url": "https://open.spotify.com/album/3I1vs7XOz164tMAaICcxi7"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173286,
+      "name": "sois en s\u00fbre",
+      "url": "https://open.spotify.com/track/4og5X5Y2gvX3UN80eWe46p"
+    },
+    {
+      "album": {
         "name": "Ultra Dramatic Kid",
         "url": "https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD"
       },
@@ -5118,7 +5172,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 220948,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/0FiuPK0P2AkuBnhcW4Ahmu"
@@ -5313,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d"
+      },
+      "artists": [
+        {
+          "name": "Peter Dallas",
+          "url": "https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "The Devil I Know",
+      "url": "https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w"
+    },
+    {
+      "album": {
         "name": "The Eyes",
         "url": "https://open.spotify.com/album/5nSoESAt2L5B0bZuuWshJV"
       },
@@ -5400,7 +5472,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 119925,
       "name": "TNT",
       "url": "https://open.spotify.com/track/4U6rMXd8plvspnNy7Iihwe"
@@ -5418,7 +5490,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 221823,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"

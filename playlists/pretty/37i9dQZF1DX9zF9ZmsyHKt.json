@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 321899,
+  "num_followers": 321927,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2E5NTU5MDM2ODZhNWFmMGFiNTUzMDY3MTA1MzExZjAxNGU2OGM2",
+  "snapshot_id": "MCxhMzFlNjhkM2QwZDRiNGIwODI2Mjc3YmExODI3ZDEzZjFiZTkzYWQx",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "No Pagode",
-        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Andan\u00e7a",
-      "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "N\u00e3o sou obrigada",
         "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 148340,
       "name": "N\u00e3o sou obrigada",
       "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "No Pagode",
+        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Andan\u00e7a",
+      "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        }
-      ],
-      "duration_ms": 204221,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        }
+      ],
+      "duration_ms": 204221,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
+        "url": "https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        }
+      ],
+      "duration_ms": 137608,
+      "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
+      "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "S\u00f3 o Amor",
         "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 178105,
       "name": "S\u00f3 o Amor",
       "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
-        "url": "https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        }
-      ],
-      "duration_ms": 137608,
-      "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
-      "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Me Toca",
-        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 186042,
-      "name": "Me Toca",
-      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "LoveSong",
         "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 142268,
       "name": "LoveSong",
       "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Me Toca",
+        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186042,
+      "name": "Me Toca",
+      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Letrux em Noite de Clim\u00e3o",
-        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
+        "name": "Ambulante",
+        "url": "https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV"
       },
       "artists": [
         {
-          "name": "Letrux",
-          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Boss in Drama",
+          "url": "https://open.spotify.com/artist/3vayFOuOTSUgqcrdoyjZWB"
         }
       ],
-      "duration_ms": 321647,
-      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
-      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
+      "duration_ms": 151520,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Ambulante",
-        "url": "https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV"
+        "name": "Letrux em Noite de Clim\u00e3o",
+        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
       },
       "artists": [
         {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
-          "name": "Boss in Drama",
-          "url": "https://open.spotify.com/artist/3vayFOuOTSUgqcrdoyjZWB"
+          "name": "Letrux",
+          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
         }
       ],
-      "duration_ms": 151520,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC"
+      "duration_ms": 321647,
+      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Silencia",
-        "url": "https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF"
-      },
-      "artists": [
-        {
-          "name": "Ceumar",
-          "url": "https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Encantos de Sereia",
-      "url": "https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Little Electric Chicken Heart",
         "url": "https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 220451,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/0JCHY20eQD4FvXmoTPwCXz"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Silencia",
+        "url": "https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF"
+      },
+      "artists": [
+        {
+          "name": "Ceumar",
+          "url": "https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Encantos de Sereia",
+      "url": "https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob"
     },
     {
       "added_at": "2022-10-07 03:01:33",

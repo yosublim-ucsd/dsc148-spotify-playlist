@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Lidna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,277 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,294 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Ensueño](https://open.spotify.com/track/6H157iwBmbNPAI2a1JwVn0) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Ensueño](https://open.spotify.com/album/1FLeHla2Ogq4ervtM91qoC) | 2:49 |
 | 50 | [DORITOS](https://open.spotify.com/track/7l11eT4KtwY5z1q12KNOdF) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj) | [DORITOS](https://open.spotify.com/album/4UVMJhGrI6yP5eDgZfIrn8) | 1:32 |
 
-Snapshot ID: `MCw1MjY2NTQ4MGQ3OTdiMjVlZThmMTc2M2E3NjJlZDFlNmM0YzgyNjMy`
+Snapshot ID: `MCwxZDdiOTljNTUwY2EyOWZkMTk3YTA5ZjRlNzIyOTRmYzdhYThlNjkx`

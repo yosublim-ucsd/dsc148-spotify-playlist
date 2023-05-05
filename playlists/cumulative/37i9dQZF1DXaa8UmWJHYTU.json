@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 155295,
       "name": "Campfire Lullaby",
       "url": "https://open.spotify.com/track/66IlKyWu89zjer6aXUGdSR"
@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Down The Chimney",
+        "url": "https://open.spotify.com/album/1Yl1NHzGIJpskKYMS9BreE"
+      },
+      "artists": [
+        {
+          "name": "ASMR Doze",
+          "url": "https://open.spotify.com/artist/2LQxmUm6LgVqKlTWuiFp2D"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Down The Chimney",
+      "url": "https://open.spotify.com/track/5xkTQFYCCMSLEbKmCYfiak"
+    },
+    {
+      "album": {
         "name": "Summer Flame",
         "url": "https://open.spotify.com/album/4BbZaVnaFkB2eXYZpWoMt5"
       },
@@ -716,6 +734,24 @@
       "duration_ms": 161239,
       "name": "Falling Asleep To The Sparks",
       "url": "https://open.spotify.com/track/1Wyi9eRdZ2fkLDBD9bxWXG"
+    },
+    {
+      "album": {
+        "name": "Fire And Flames",
+        "url": "https://open.spotify.com/album/5H75razmEKUz4LXQTj5IhC"
+      },
+      "artists": [
+        {
+          "name": "The Matchman",
+          "url": "https://open.spotify.com/artist/0S8JFG8qTWlPrUQihbUhtc"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Fire And Flames",
+      "url": "https://open.spotify.com/track/2s2OBfPCpkVKXVoXWPHgum"
     },
     {
       "album": {
@@ -928,7 +964,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 116736,
       "name": "Fire on the Campsight",
       "url": "https://open.spotify.com/track/2ZMUhS4Dli8SNzlTwsHT7p"
@@ -1332,7 +1368,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 242062,
       "name": "Glowing Spark",
       "url": "https://open.spotify.com/track/0de2lrDai09wpJXUrbCytb"
@@ -1566,7 +1602,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 200000,
       "name": "Igniting Flames",
       "url": "https://open.spotify.com/track/54TeEymLvZ898jcWZYTd0j"
@@ -1782,7 +1818,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 200000,
       "name": "Light that Flame",
       "url": "https://open.spotify.com/track/2l9ozKmObiVpfD08W6E9OC"
@@ -2204,7 +2240,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 182456,
       "name": "Peaceful Flames",
       "url": "https://open.spotify.com/track/3ay6LFArsCrxFbJfsMLzga"
@@ -2392,7 +2428,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 186056,
       "name": "Sizzling Fire",
       "url": "https://open.spotify.com/track/0WxJ0R83SabMRVr39yv4nD"
@@ -2432,6 +2468,24 @@
       "duration_ms": 164000,
       "name": "Sleep Close To The Fire",
       "url": "https://open.spotify.com/track/1anOM3NUTrYjscG65fityh"
+    },
+    {
+      "album": {
+        "name": "Slept Like A Log",
+        "url": "https://open.spotify.com/album/1qMKC9gOdCyIabDoJYMPvv"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Sound Machine",
+          "url": "https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Slept Like A Log",
+      "url": "https://open.spotify.com/track/3I2HKmtAHRUF0WRcxzb5SX"
     },
     {
       "album": {

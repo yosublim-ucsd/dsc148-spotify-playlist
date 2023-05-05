@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODk0ODk5OTlkZTI4N2Y2ZjRhODk4NjcwYWZkOGQ3NDkyNzk5MTZk",
+  "snapshot_id": "MCwyMDExMjdkZWFmYWRjOGJhNjA3MDVmNzM0ZmVhNzlkNjBhM2QxOWM5",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
       },
       "artists": [
         {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
         }
       ],
-      "duration_ms": 204490,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
+      "duration_ms": 193452,
+      "name": "Romper Platos",
+      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
       },
       "artists": [
         {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 193452,
-      "name": "Romper Platos",
-      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
+      "duration_ms": 204490,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "No Le Bajes",
         "url": "https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 177272,
       "name": "No Le Bajes",
       "url": "https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Casa Sola",
-        "url": "https://open.spotify.com/album/3AxQRFzSpDQAbJI0Qdaptm"
-      },
-      "artists": [
-        {
-          "name": "Gigi Caro",
-          "url": "https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8"
-        },
-        {
-          "name": "Dimelo Yepo",
-          "url": "https://open.spotify.com/artist/6Ow7CkDp2FoHmZ1ZDHiZF7"
-        }
-      ],
-      "duration_ms": 169138,
-      "name": "Casa Sola",
-      "url": "https://open.spotify.com/track/4YYSXN3iq5qnhfLypUdxYf"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "\u00c0 plus",
         "url": "https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 265952,
       "name": "MARIPOSAS",
       "url": "https://open.spotify.com/track/57vFoxxvfJQKg5P2dLfGQb"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Casa Sola",
+        "url": "https://open.spotify.com/album/3AxQRFzSpDQAbJI0Qdaptm"
+      },
+      "artists": [
+        {
+          "name": "Gigi Caro",
+          "url": "https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8"
+        },
+        {
+          "name": "Dimelo Yepo",
+          "url": "https://open.spotify.com/artist/6Ow7CkDp2FoHmZ1ZDHiZF7"
+        }
+      ],
+      "duration_ms": 169138,
+      "name": "Casa Sola",
+      "url": "https://open.spotify.com/track/4YYSXN3iq5qnhfLypUdxYf"
     },
     {
       "added_at": "2023-05-03 03:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Dance and electronic Arabic songs. Cover: A Loop.",
+  "description": "Dance and electronic Arabic songs. Cover: Salma Rachid and R3hab.",
   "name": "mint \u0646\u0639\u0646\u0639",
   "tracks": [
     {
@@ -1444,6 +1444,28 @@
       "duration_ms": 145333,
       "name": "One More Dance (with Carmen Soliman) [Arabic Version]",
       "url": "https://open.spotify.com/track/2j0jeaXrBMb6h0SHIk0TEI"
+    },
+    {
+      "album": {
+        "name": "Nar",
+        "url": "https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd"
+      },
+      "artists": [
+        {
+          "name": "Salma Rachid",
+          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Party Every Day",
+      "url": "https://open.spotify.com/track/2TMBACl98EE97KJOmjiXG3"
     },
     {
       "album": {

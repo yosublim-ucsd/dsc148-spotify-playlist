@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-99 songs - 4 hr 43 min
+103 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,8 @@
 | [Bipolar](https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig) | 2:36 | 2022-10-13 |  |
 | [Bitter](https://open.spotify.com/track/35NDUYJIRkuYsAw7h8Zbrr) | [Yoe Mase](https://open.spotify.com/artist/4IuWSIEfIed8aZb49YA4Cj), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bitter](https://open.spotify.com/album/2e4yd8Fv3mYfpaIYeCAfzQ) | 3:17 | 2022-05-29 |  |
 | [Blue](https://open.spotify.com/track/4FSVM0jbDn8cspWfuJ3srv) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Blue](https://open.spotify.com/album/1yATfEBCy2ZuTSDpixl6VM) | 2:10 | 2022-05-29 |  |
+| [body](https://open.spotify.com/track/1AOyWQleFNAagx0LPJQPUF) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2fvjwp4UBq2wsvU8sDsZZR) | 3:12 | 2023-05-04 |  |
+| [burn to dust](https://open.spotify.com/track/5fSG6RaEL2YA2nr4mCfjUt) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 3:31 | 2023-05-04 |  |
 | [california queen](https://open.spotify.com/track/56PlKUHEtipIDiHbcZkU50) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:36 | 2022-05-29 |  |
 | [come over](https://open.spotify.com/track/7sg07HUwalXexpb0i0QPIm) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:50 | 2022-05-29 |  |
 | [crydancing](https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 3:02 | 2022-05-29 |  |
@@ -90,6 +92,8 @@
 | [Still Healing](https://open.spotify.com/track/53VZW4XxtnqlMLI08YrmYb) | [is this Cam?](https://open.spotify.com/artist/3AHAHKIu0YYH3pWRo32PlS), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/4DwTCENDrvdFJVB5odaxiI) | 2:15 | 2022-08-21 |  |
 | [Still Healing \(feat\. JAMiiSON\)](https://open.spotify.com/track/5pzQ6SHl5ZzsYnWSZaaXwF) | [OFF TOP](https://open.spotify.com/artist/1qfVE7DbB6U9djizm6Qtsl), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/6N44nmfMlrEp1vHV9mRmMC) | 2:15 | 2022-05-29 | 2022-08-22 |
 | [stockholm's a ghost town](https://open.spotify.com/track/7cdXnczyweF4F6v7lfB8xh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [stockholm's a ghost town](https://open.spotify.com/album/7yv0GU6bkJGMBxI0C4H6W1) | 2:50 | 2022-05-29 |  |
+| [Sugar Cane \- Finalidade Remix](https://open.spotify.com/track/0AgCGHfbad4oDu4njD9kJN) | [Luna Nixx](https://open.spotify.com/artist/1FRJaYuLRq22rOG8YKoTHc), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Sugar Cane \(Finalidade Remix\)](https://open.spotify.com/album/5hT1b2jkSe4jW5PaSE7Va5) | 2:33 | 2023-05-04 |  |
+| [swerve](https://open.spotify.com/track/5bzOuMKNSQkZ06rr0ubaNF) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:45 | 2023-05-04 |  |
 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 | 2022-05-29 |  |
 | [There for You](https://open.spotify.com/track/38IkWM27SIOSsJXOUpTMFh) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/6Mg4BvozVs7H9L6QGl5tJB) | 2:37 | 2022-05-29 | 2022-07-29 |
 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 | 2022-07-28 |  |

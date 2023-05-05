@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 312842,
       "name": "Cristo Vive En Mi",
       "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
@@ -1896,6 +1896,24 @@
       "duration_ms": 339233,
       "name": "Te Deseo",
       "url": "https://open.spotify.com/track/6DialW5HyoOppXovC3CwCw"
+    },
+    {
+      "album": {
+        "name": "Tengo Sed de Ti",
+        "url": "https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh"
+      },
+      "artists": [
+        {
+          "name": "Celines",
+          "url": "https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302146,
+      "name": "Tengo Sed de Ti",
+      "url": "https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y"
     },
     {
       "album": {

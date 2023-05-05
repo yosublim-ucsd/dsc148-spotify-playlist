@@ -4,13 +4,14 @@
 
 > Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Asteria
 
-112 songs - 5 hr 28 min
+115 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['99](https://open.spotify.com/track/69wEOSLds5SSKy4lUVbaS2) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC) | [Personale](https://open.spotify.com/album/7h6T5PwDffabt7N6xBQh3Q) | 3:03 | 2022-08-31 | 2023-04-12 |
 | [30° ALL'OMBRA](https://open.spotify.com/track/1Bdy8e8p3vaf3Kr6F97Ai3) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [30° ALL'OMBRA](https://open.spotify.com/album/6zpJu8hfJqExVM3ttaUGN2) | 1:50 | 2023-04-11 |  |
 | [7 su 7](https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 2:27 | 2023-04-11 |  |
+| [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 | 2023-05-04 |  |
 | [a Testa in giù](https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [a Testa in giù](https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J) | 2:46 | 2023-04-11 |  |
 | [Abbagli](https://open.spotify.com/track/7Fo4H8E05oL7czxsEaHLo1) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 3:32 | 2022-08-31 | 2023-04-12 |
 | [Abbi cura di te](https://open.spotify.com/track/0GNs56eb5LSYISdi3akjeR) | [Highsnob](https://open.spotify.com/artist/47RMRcPX8zWGaiMSZRuOd4), [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Abbi cura di te](https://open.spotify.com/album/6XSxwHFDbUJ45wNnn6JklQ) | 3:19 | 2022-08-31 | 2023-04-12 |
@@ -45,6 +46,7 @@
 | [Don Dada \(Freestyle\)](https://open.spotify.com/track/6jo48Qtrytwsr8kQeWxxAO) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Don Dada \(Freestyle\)](https://open.spotify.com/album/5GxifqmiUiBmR2T4kZFuWX) | 3:24 | 2022-08-31 | 2023-04-12 |
 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 | 2022-08-31 | 2023-04-12 |
 | [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 | 2023-04-11 |  |
+| [Figlie della Luna](https://open.spotify.com/track/2e0EbWEyOvWaeoopakkZWn) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Figlie della Luna](https://open.spotify.com/album/1giRCe6gmKUv65zEkREofg) | 2:48 | 2023-05-04 |  |
 | [Flora](https://open.spotify.com/track/1JoU93qhttHC3wBXWAdPLR) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Flora](https://open.spotify.com/album/2GJ2PdGfXMM1w4Y68djdGt) | 3:16 | 2023-04-11 |  |
 | [Foot Forward](https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Foot Forward](https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK) | 2:34 | 2022-08-31 | 2023-04-12 |
 | [Forever Young](https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Forever Young](https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd) | 2:33 | 2023-04-13 |  |
@@ -77,6 +79,7 @@
 | [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 | 2023-04-11 |  |
 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 | 2022-08-31 | 2023-04-12 |
 | [Next Big Thing](https://open.spotify.com/track/3kkvWnuim3d3n9qXCBg9mT) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Goedi](https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 3:19 | 2022-08-31 | 2023-04-12 |
+| [Non me ne frega un cazzo](https://open.spotify.com/track/0tvs7lrwKuIfP9PCewV8AD) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 2:37 | 2023-05-04 |  |
 | [Non mi fa dormire \(feat\. Caffellatte\)](https://open.spotify.com/track/3V2nxW0jTVF60OKbNepxUn) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Non mi fa dormire \(feat\. Caffellatte\)](https://open.spotify.com/album/535CWlyiMJgJOgRvbyDF4R) | 2:46 | 2022-08-31 | 2023-04-12 |
 | [Nonchalance](https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Nonchalance](https://open.spotify.com/album/0y3WjIF2bIH5BrbFRsKzZG) | 3:02 | 2022-08-31 | 2022-12-09 |
 | [Obligé \(feat\. Axell\)](https://open.spotify.com/track/3ylACUPfBSPxP7KE1QRvxP) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Obligé \(feat\. Axell\)](https://open.spotify.com/album/6SYrKjw00rrplLbusba2Cn) | 2:45 | 2022-08-31 | 2023-04-12 |

@@ -3127,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "C\u00e1i \u0110\u1ea7u Ti\u00ean",
+        "url": "https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5"
+      },
+      "artists": [
+        {
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127114,
+      "name": "Xin L\u1ed7i",
+      "url": "https://open.spotify.com/track/1K3CXUYKhLYN7koLW5WQjX"
+    },
+    {
+      "album": {
         "name": "Y\u00eau M\u1ed9t Ng\u01b0\u1eddi C\u00f3 L\u1ebd",
         "url": "https://open.spotify.com/album/5ct4cb4xmcTrd9hfLFVQXb"
       },

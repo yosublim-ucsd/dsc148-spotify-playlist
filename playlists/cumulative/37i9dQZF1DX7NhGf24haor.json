@@ -1071,6 +1071,36 @@
     },
     {
       "album": {
+        "name": "Designer Love (Dimatik and Colin Hennerz Remix)",
+        "url": "https://open.spotify.com/album/16dzovDnWoo6akiW6zUstY"
+      },
+      "artists": [
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        },
+        {
+          "name": "ALYSSA",
+          "url": "https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "Colin Hennerz",
+          "url": "https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Designer Love (Dimatik and Colin Hennerz Remix) - Colin Hennerz & Dimatik Remix",
+      "url": "https://open.spotify.com/track/2RT0B4D26dDARuG1OjocSQ"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0jWqcc5qM4dlZihYYXmDjQ"
       },
@@ -1326,6 +1356,32 @@
       "duration_ms": 189011,
       "name": "ECHOES",
       "url": "https://open.spotify.com/track/0XcpGTkuGzXdp3CXb85uRt"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/2riMTUMIgVSmOZ4lcWXn5T"
+      },
+      "artists": [
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "MNO",
+          "url": "https://open.spotify.com/artist/2foy6N7zaWQTrapKApYJvn"
+        },
+        {
+          "name": "DV8",
+          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257032,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0eabtLcfZxAa28WvUig7KV"
     },
     {
       "album": {
@@ -2398,6 +2454,24 @@
       "duration_ms": 172507,
       "name": "Hold Me Near",
       "url": "https://open.spotify.com/track/5Up7EGjmxNwVFHKk2A8HCX"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4OKLO23B3pJv95xUxb0oeD"
+      },
+      "artists": [
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2usGUwNBOdZ4fhbK0xU1By"
     },
     {
       "album": {
@@ -4127,6 +4201,28 @@
     },
     {
       "album": {
+        "name": "Number 1 Supplier",
+        "url": "https://open.spotify.com/album/6vdcczofUUzAkLkWxnJQoM"
+      },
+      "artists": [
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        },
+        {
+          "name": "Phrantic",
+          "url": "https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230150,
+      "name": "Number 1 Supplier",
+      "url": "https://open.spotify.com/track/5gIWhy1gmgYO3vt6sbXEQk"
+    },
+    {
+      "album": {
         "name": "Oceans (Where Feet May Fail)",
         "url": "https://open.spotify.com/album/2336S58pdv6vJP8WVjtFSG"
       },
@@ -4150,6 +4246,28 @@
       "duration_ms": 161032,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5jFahLzsbxvHJVgjktiDbY"
+    },
+    {
+      "album": {
+        "name": "OH SHIT",
+        "url": "https://open.spotify.com/album/7gVEdgzeVxx3KGKxUC1sqm"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167062,
+      "name": "OH SHIT",
+      "url": "https://open.spotify.com/track/2SwZwthOSKcdsqBn2mfsur"
     },
     {
       "album": {
@@ -4740,6 +4858,24 @@
       "duration_ms": 219870,
       "name": "Reevolution",
       "url": "https://open.spotify.com/track/6fBjnNhmNgAAVt5D30mFtQ"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1lYXabkqizoZa0Ke8EbaH1"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182709,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/4yuqtzwV5flMo1HkXOMSu1"
     },
     {
       "album": {
@@ -5467,6 +5603,24 @@
     },
     {
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/0ej4wkm6Xw28HVeFS4Otkc"
+      },
+      "artists": [
+        {
+          "name": "Demi Kanon",
+          "url": "https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211354,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/45rQylJyBrOHRzDE53x8OQ"
+    },
+    {
+      "album": {
         "name": "Stop the Time",
         "url": "https://open.spotify.com/album/7MEWDIupZlzznyiH3aMH7L"
       },
@@ -6075,6 +6229,24 @@
     },
     {
       "album": {
+        "name": "The Remedy",
+        "url": "https://open.spotify.com/album/79ypf6AEAJrqpcxOY4hhrC"
+      },
+      "artists": [
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191519,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/6cvjpsHCih5fVlKTuuZFCH"
+    },
+    {
+      "album": {
         "name": "The Shadows",
         "url": "https://open.spotify.com/album/741Fd6iewyCCkljnldU3RS"
       },
@@ -6226,6 +6398,28 @@
       "duration_ms": 197199,
       "name": "Tik Tak",
       "url": "https://open.spotify.com/track/7277PblCcj63DLEWVooyAI"
+    },
+    {
+      "album": {
+        "name": "Titan",
+        "url": "https://open.spotify.com/album/5j8wo9GpuT3U6w0y0irWSh"
+      },
+      "artists": [
+        {
+          "name": "Neolux",
+          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
+        },
+        {
+          "name": "Octatonez",
+          "url": "https://open.spotify.com/artist/204pjm9u80prCIkfKCfo3A"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246175,
+      "name": "Titan",
+      "url": "https://open.spotify.com/track/17j1N1J7blwiShIwzwlh0n"
     },
     {
       "album": {
@@ -7000,6 +7194,24 @@
       "duration_ms": 198775,
       "name": "With You",
       "url": "https://open.spotify.com/track/2qR8jsXwHJccStxQUQFXyx"
+    },
+    {
+      "album": {
+        "name": "Your Loss",
+        "url": "https://open.spotify.com/album/1GdBYoJXkrCP3Uk2x57wsF"
+      },
+      "artists": [
+        {
+          "name": "D-Tunez",
+          "url": "https://open.spotify.com/artist/2gLQzj2nX1H6jPDArKA9nb"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178554,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/7vTKkc9WLUFgaFRcOn02J2"
     },
     {
       "album": {

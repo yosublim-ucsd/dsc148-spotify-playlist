@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,342 likes - 64 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,834 likes - 64 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 9 | [Notturno for Strings and Harp](https://open.spotify.com/track/7nGA1sRfLDWXYb3VPstnZf) | [Arnold Schoenberg](https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM), [Jane Berthe](https://open.spotify.com/artist/54IIxBw0yvR4zHHxE8GG5d) | [Schoenberg: Notturno for Strings and Harp](https://open.spotify.com/album/4rCx7dnAgXhes9ckGrMXA4) | 3:12 |
 | 10 | [Natural Light](https://open.spotify.com/track/2zM7Ato6xDOi8ten4qn7Cm) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Natural Light](https://open.spotify.com/album/43wcKhgYUpeh2cwvBtqDYc) | 5:35 |
 | 11 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/518hKWxnCK1L1fsYRl0OB5) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Sheku Kanneh\-Mason](https://open.spotify.com/album/59gnfcIkUBrYpXwsN5YWax) | 2:56 |
-| 12 | [Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 |
+| 12 | [Préludes / Book 2, L\. 123: 5\. Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 |
 | 13 | [Henry V: Henry V: Touch her soft lips and part](https://open.spotify.com/track/5WEmDvDiRpE7p3y8SMMAPJ) | [William Walton](https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe) | [This is the Day: Music on Royal Occasions](https://open.spotify.com/album/1EbxP2aC9lpKRDk5lhcO5Y) | 1:33 |
 | 14 | [Losar](https://open.spotify.com/track/0bCSGdS5SRvzoz4IBTD55W) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Losar](https://open.spotify.com/album/6Fearn2XRW9LK2WNX22FUN) | 3:41 |
 | 15 | [Beach: By the Still Waters, Op\. 114](https://open.spotify.com/track/3qLZnIVAiGexuNuG8Aptrq) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Beach: By the Still Waters, Op\. 114](https://open.spotify.com/album/52E1rqtwQBOPBGIq07YTHn) | 3:07 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 63 | [Seven Days Walking / Day 1: Ascent](https://open.spotify.com/track/4NqknSuLbtn77F73YzNVBf) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking](https://open.spotify.com/album/5Otajf16kZ0zkVZWhu7LtO) | 5:37 |
 | 64 | [Suite d'orchestre dans le style ancien, Op\. 2: II\. Sarabande\. Mesto](https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1) | [Albéric Magnard](https://open.spotify.com/artist/6vXWehXddAhqxqCAbUeQYa), [Philharmonisches Orchester Freiburg](https://open.spotify.com/artist/7zW6AJzj7refzE8uu9W8jA), [Fabrice Bollon](https://open.spotify.com/artist/3TatLwCeXp89VYjOQVyJjZ) | [Magnard: Orchestral Works](https://open.spotify.com/album/5cNzmh737G2dscX93MDeZh) | 2:09 |
 
-Snapshot ID: `MCw3MTUwNWNjMGNkZjU5ZDA2YjM5NTI5YzVhNmEwMDQ1M2U4YWQwYzE5`
+Snapshot ID: `MCw5Njc3NWRkZmQ5ZjgwYjE3ZGY0NjM1ODMxNDEwYzRlYTA0M2ZkMzVh`

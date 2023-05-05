@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 148024,
+  "num_followers": 148042,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTUyMzA2NDZiOGUwNzc3OTQ5M2FjYTlkNGU4MDBkYWJmN2MyOGE3",
+  "snapshot_id": "MCw0OTA4YjhiYTNjMjkxNTY3YmQ4Y2Q1NDVjNWUxNDFhYzZhMWFmMzRh",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "We The People, Vol. 1",
-        "url": "https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x"
-      },
-      "artists": [
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 191669,
-      "name": "Back to Them Backroads",
-      "url": "https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Still The King",
         "url": "https://open.spotify.com/album/58yc5Wx0ShmeAsJjParire"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 209058,
       "name": "Country Made",
       "url": "https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 191669,
+      "name": "Back to Them Backroads",
+      "url": "https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR"
     },
     {
       "added_at": "2023-04-28 04:01:00",

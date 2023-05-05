@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 202849,
       "name": "L'ULTIMA CANZONE (feat. Giorgia)",
       "url": "https://open.spotify.com/track/74zkabIZ8moMuJUuxTQcCR"
@@ -2097,6 +2097,32 @@
     },
     {
       "album": {
+        "name": "Sincer (feat. Lele Blade & Icy Subzero)",
+        "url": "https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221204,
+      "name": "Sincer (feat. Lele Blade & Icy Subzero)",
+      "url": "https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI"
+    },
+    {
+      "album": {
         "name": "Mercurio",
         "url": "https://open.spotify.com/album/3pXSt0UQJINOx5GP6NORLj"
       },
@@ -2404,6 +2430,28 @@
       "duration_ms": 194106,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+    },
+    {
+      "album": {
+        "name": "Vida Mala (feat. Medy)",
+        "url": "https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154778,
+      "name": "Vida Mala (feat. Medy)",
+      "url": "https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=_Z6tjKSOQ0Cm5b-xElnpPg\"> KiDi </a>  ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs?si=zxfZPV6EQNan_NsMi928PQ\"> D Jay</a>  ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 172972,
       "name": "A B C D",
       "url": "https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H"
@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7tJEnqHqnGK0JZDXyP4Lf5"
+      },
+      "artists": [
+        {
+          "name": "Lois Mae",
+          "url": "https://open.spotify.com/artist/2vgFTLuEZtAiSGcAOb5cfQ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1tlXtYaeSI5S9HV6KQ8F4h"
+    },
+    {
+      "album": {
         "name": "Friday Night",
         "url": "https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 196306,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/5ueJRYPP0DVeTsBmUAlZlk"
@@ -1854,6 +1872,24 @@
       "duration_ms": 186580,
       "name": "My Woman",
       "url": "https://open.spotify.com/track/5T62GNroDX4ZwfMUerq0mM"
+    },
+    {
+      "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/6YgxiCboIdgym01sRlyGix"
+      },
+      "artists": [
+        {
+          "name": "D Jay",
+          "url": "https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182654,
+      "name": "Necessary",
+      "url": "https://open.spotify.com/track/7smcI2O4mrVzrb9X1B2u26"
     },
     {
       "album": {
@@ -2350,6 +2386,24 @@
       "duration_ms": 158746,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4R6CUDujx3BU6bzKksg191"
+    },
+    {
+      "album": {
+        "name": "Promo",
+        "url": "https://open.spotify.com/album/22Cx4gMihN09B7btRS0B5a"
+      },
+      "artists": [
+        {
+          "name": "ChuloWorldwide",
+          "url": "https://open.spotify.com/artist/6WgEtQJUmNTVvypGsW3z6S"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149173,
+      "name": "Promo",
+      "url": "https://open.spotify.com/track/6KepFxtuNsCH8mGcpPuujz"
     },
     {
       "album": {
@@ -3256,7 +3310,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 174432,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/7Iro07haSFYU2yVx149Tcu"

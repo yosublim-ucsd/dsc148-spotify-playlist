@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-585 songs - 1 day 1 hr 30 min
+587 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Julieta](https://open.spotify.com/track/2INWzibx7vOzJzI7117HXq) | [Almudena Senza](https://open.spotify.com/artist/6tVnjpRX2xCJzaLr7XID1v) | [Julieta](https://open.spotify.com/album/5QZhzlKhVTJ1rIsjRSaWKb) | 2:23 | 2022-10-07 |  |
 | [Just Dipping My Toe](https://open.spotify.com/track/3Q97tyLwBoqT3hgpXC9h42) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Just Dipping My Toe](https://open.spotify.com/album/5bexksdhIDIVk8vDVaHpgq) | 3:47 | 2022-09-09 |  |
 | [Just One Step At A Time](https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:08 | 2021-12-08 | 2022-04-06 |
-| [Kaelyn](https://open.spotify.com/track/09Q3JqzvLtzR0uXOCoMeDn) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/3Ip0IFlSeCG0Ys3Ii7LU7T) | 2:09 | 2022-10-28 |  |
+| [Kaelyn](https://open.spotify.com/track/09Q3JqzvLtzR0uXOCoMeDn) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/3Ip0IFlSeCG0Ys3Ii7LU7T) | 2:09 | 2022-10-28 | 2023-05-05 |
+| [Kaelyn](https://open.spotify.com/track/1gjaqScZGsobRdXQv4WzUq) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/5lTjGbTDkbn0eD0Ai94i5l) | 2:09 | 2023-04-21 |  |
 | [Kaelyn](https://open.spotify.com/track/5ApECtcgQM42gHHHg0ZH0H) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/6Q8TmOw56qUXF8bnTwRhCm) | 2:09 | 2022-09-02 | 2022-11-05 |
 | [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2022-09-16 |  |
 | [Kenopsia](https://open.spotify.com/track/7eUW8Gu9S1RbPJvTAvz2g8) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Kenopsia](https://open.spotify.com/album/3ZoaDy4bxmkqMl1xScyShd) | 1:29 | 2022-09-02 |  |
@@ -321,8 +322,9 @@
 | [Lovers](https://open.spotify.com/track/4KYoSAttyUqmzYisjrK8WR) | [Marc Holland](https://open.spotify.com/artist/4DxiFVzQ4xv4YqS7eow6Mn) | [Lovers](https://open.spotify.com/album/2NKE6ENQqre2SzfA4NAy8E) | 2:36 | 2021-12-08 | 2022-11-18 |
 | [luminous](https://open.spotify.com/track/0jR7590uCLfEK8pe8bZAMC) | [Zé Barreto](https://open.spotify.com/artist/2O6o9mCeoLTDmsYBamVWBl) | [luminous](https://open.spotify.com/album/02BK5YS4DVi2adBR0grygQ) | 3:14 | 2021-12-08 | 2022-05-11 |
 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 | 2022-09-02 |  |
-| [Madeline](https://open.spotify.com/track/0jXI8KkVrQpZaHtKOpoSJ2) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/6pq0RlmMLCrhAKPNPKobJX) | 2:10 | 2022-10-28 |  |
+| [Madeline](https://open.spotify.com/track/0jXI8KkVrQpZaHtKOpoSJ2) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/6pq0RlmMLCrhAKPNPKobJX) | 2:10 | 2022-10-28 | 2023-05-05 |
 | [Madeline](https://open.spotify.com/track/4GNgHIkp3jZLZItPYY1vt9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2uQ9zlH6Ti2wUgPIydEaL7) | 2:10 | 2022-08-19 | 2022-11-04 |
+| [Madeline](https://open.spotify.com/track/51c0wJWXcH4CLcRtmeghK9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2dC5WIOAtSstDRiNwjDOHi) | 2:10 | 2023-04-21 |  |
 | [Magnolia](https://open.spotify.com/track/5PpiRTT6BA1XXDE9lSXmG9) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Magnolia](https://open.spotify.com/album/6fFlxjUIMESz9VejXNmHYD) | 2:22 | 2021-12-08 | 2022-07-08 |
 | [Make Believe](https://open.spotify.com/track/3PBroeekLgQrZShp9mnR4S) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Make Believe](https://open.spotify.com/album/2mPBIOqwG4I9uMQFstaEO9) | 3:03 | 2022-06-10 | 2022-07-22 |
 | [Manzanilla](https://open.spotify.com/track/0LbZg654PnwFu7lcj5aPtb) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Swatches](https://open.spotify.com/album/6kjbiriERthwWKCpa9H9pX) | 3:13 | 2022-11-18 |  |

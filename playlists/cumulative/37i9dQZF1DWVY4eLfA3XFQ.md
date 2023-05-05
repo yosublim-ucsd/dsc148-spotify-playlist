@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Wax Motif
 
-1,044 songs - 2 day 13 hr 26 min
+1,045 songs - 2 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Coming Home \(feat\. Anabel Englund\)](https://open.spotify.com/track/6V59f06aj9W103sjzIwIGE) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Coming Home \(feat\. Anabel Englund\)](https://open.spotify.com/album/3uOhFuyYOALAPA8Phtpqkw) | 3:16 | 2022-01-21 | 2022-02-26 |
 | [Como Shakira](https://open.spotify.com/track/6OqRcecS47ph02u2R3Jvl2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Como Shakira](https://open.spotify.com/album/1p7L1UICmzr4ivD5xZ97Iz) | 2:09 | 2023-03-24 |  |
 | [Concentrate](https://open.spotify.com/track/3RGCgtTX3J8lnZGf97oVip) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Concentrate](https://open.spotify.com/album/2neWCkyM66Pf8sjRSRwmHh) | 3:23 | 2022-07-08 | 2022-08-13 |
+| [Concrete Jungle](https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Concrete Jungle](https://open.spotify.com/album/3amdSKG2ydGodVwnWUx9OZ) | 2:36 | 2023-04-28 |  |
 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 | 2023-01-03 | 2023-01-06 |
 | [Control](https://open.spotify.com/track/5XpTjQLyd94CPDk7RiLCKx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Stimulate](https://open.spotify.com/album/6HXJjUKTpltXMGgVidh1bB) | 5:54 | 2022-05-13 | 2022-06-04 |
 | [Cosmic Kiss \(Gorgon City Remix\)](https://open.spotify.com/track/7bGSTIWYqujWLj8ERO1oBy) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Cosmic Kiss \(Gorgon City Remix\)](https://open.spotify.com/album/3TSx2tNu8lNaDdJKjL0BbP) | 4:00 | 2021-11-26 | 2022-01-14 |
@@ -590,7 +591,7 @@
 | [Move Your Body](https://open.spotify.com/track/3YXIVMQLRRq2K7kxC7UYx6) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Move Your Body](https://open.spotify.com/album/7KrVkLXp05Tn5MoZYVEhop) | 3:16 | 2021-11-26 | 2022-01-06 |
 | [Movin](https://open.spotify.com/track/00iUcyIQ1EkAmk0QTrCSy5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Movin](https://open.spotify.com/album/6L1s0fu9jyF7aSCpvGoarm) | 4:00 | 2021-12-10 | 2022-04-23 |
 | [Movin'](https://open.spotify.com/track/0YlRqNyRkUHzjDlzSMMhUu) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Movin'](https://open.spotify.com/album/2AMOcFCKIBuojv3eaDeN5x) | 3:28 | 2022-06-10 | 2022-09-17 |
-| [Moving 2 The Future](https://open.spotify.com/track/2r6u6Xz39eOTL39bwtqi7Z) | [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Moving 2 The Future](https://open.spotify.com/album/5YZUATxg4gASYVkzixcF8g) | 6:08 | 2023-03-10 |  |
+| [Moving 2 The Future](https://open.spotify.com/track/2r6u6Xz39eOTL39bwtqi7Z) | [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Moving 2 The Future](https://open.spotify.com/album/5YZUATxg4gASYVkzixcF8g) | 6:08 | 2023-03-10 | 2023-05-05 |
 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \- John Summit Remix](https://open.spotify.com/track/1rTBuBSEMuG2rsl5BPwP1M) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \[John Summit Remix\]](https://open.spotify.com/album/6MStv7RvNjGnx3OuGeuLOU) | 3:26 | 2023-02-03 | 2023-04-22 |
 | [Moving Blind \- Gorgon City Remix](https://open.spotify.com/track/34R7dDteJvbpKQEFQgPVgO) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Moving Blind \(Gorgon City Remix\)](https://open.spotify.com/album/6zKv3AVjT24VgcF9d93ShW) | 3:23 | 2021-11-26 | 2022-02-26 |
 | [Moving Up](https://open.spotify.com/track/42R4QvzLx9RjoZERFzgmA1) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Moving Up](https://open.spotify.com/album/03Af0MKeD3CmqM1G00iaAl) | 3:12 | 2023-04-14 |  |

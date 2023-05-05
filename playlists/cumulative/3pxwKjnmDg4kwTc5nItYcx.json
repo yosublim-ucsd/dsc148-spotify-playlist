@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/6Bdt1oU6mqRFhFroAopJOb"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180755,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/6mXHM9VN5p5Z9kWgtQsm2e"
+    },
+    {
+      "album": {
         "name": "Backseat of My Mind",
         "url": "https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU"
       },
@@ -2196,6 +2214,24 @@
       "duration_ms": 244859,
       "name": "Crying Over You \u25d0 (feat. RM & BEKA)",
       "url": "https://open.spotify.com/track/3NULjteyVVY9F7WrAXOZIG"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224803,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
     },
     {
       "album": {
@@ -6679,6 +6715,24 @@
     },
     {
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195277,
+      "name": "Little Runaway",
+      "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
+    },
+    {
+      "album": {
         "name": "Locking Eyes",
         "url": "https://open.spotify.com/album/4cyuiSDnfjOX7RESklzpFu"
       },
@@ -8906,6 +8960,24 @@
       "duration_ms": 207213,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/4Xlt7aWeALTty1MLs7Cetb"
+    },
+    {
+      "album": {
+        "name": "Practically Strangers",
+        "url": "https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob"
+      },
+      "artists": [
+        {
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130173,
+      "name": "Practically Strangers",
+      "url": "https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL"
     },
     {
       "album": {
@@ -12398,6 +12470,24 @@
       "duration_ms": 193667,
       "name": "What If I Told You That I Love You",
       "url": "https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi"
+    },
+    {
+      "album": {
+        "name": "What More Can I Say",
+        "url": "https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141141,
+      "name": "What More Can I Say",
+      "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"
     },
     {
       "album": {

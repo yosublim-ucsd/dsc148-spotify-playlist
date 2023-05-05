@@ -1,12 +1,12 @@
 {
   "description": "Soul classics to keep you company in the kitchen.",
-  "num_followers": 26951,
+  "num_followers": 26979,
   "original_name": "Cooking with Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmUwMDZiN2M2NTgwMjc5MTYxOGIzNTgzODY3YWU5YjM5MTY5OWNh",
+  "snapshot_id": "MCw1NzBjODI5MDJiOGIwODMwYzNjNTMzNzNmNjdjYmE5MzA0ZWU0NTUw",
   "tracks": [
     {
       "added_at": "2022-03-28 20:22:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Tough Guys",
-        "url": "https://open.spotify.com/album/5QPYYcI8rmWC47nNAtOYj8"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
-        }
-      ],
-      "duration_ms": 377639,
-      "name": "Hung Up On My Baby",
-      "url": "https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Swing Low",
         "url": "https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 155173,
       "name": "Chain Gang",
       "url": "https://open.spotify.com/track/7v1858htfU0srTDwhxeka8"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "Tough Guys",
+        "url": "https://open.spotify.com/album/5QPYYcI8rmWC47nNAtOYj8"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+        }
+      ],
+      "duration_ms": 377639,
+      "name": "Hung Up On My Baby",
+      "url": "https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4"
     },
     {
       "added_at": "2022-03-28 20:22:14",

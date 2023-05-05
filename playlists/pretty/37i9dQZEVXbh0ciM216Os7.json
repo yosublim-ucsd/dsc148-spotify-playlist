@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNDQyNDAsMDAwMDAwMDA2OGU2ZmVkNDZkODhjM2RlMmExNWI2YTQ1MmZiN2UyNA==",
+  "snapshot_id": "MjgwNDQyNDAsMDAwMDAwMDA2ZTVkZDc3YjcyMTJhZGE0NTgxODE4MjVhNjUxZjY1OA==",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -27,26 +27,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Please Take a Step Back",
-        "url": "https://open.spotify.com/album/0qcIsdY8AQS0XkdaSp75ag"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "GaryVee",
-          "url": "https://open.spotify.com/artist/1S2KSo7xLd5okhXnUkTy88"
-        }
-      ],
-      "duration_ms": 205424,
-      "name": "Please Take a Step Back",
-      "url": "https://open.spotify.com/track/2MSa8kf0unz5ZYoDwKSvNn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/2PHZo9XEoXtXH04JiY4Qsc"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 250667,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/10uxiQ0BCHOmUgnkSF5MgN"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Please Take a Step Back",
+        "url": "https://open.spotify.com/album/0qcIsdY8AQS0XkdaSp75ag"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "GaryVee",
+          "url": "https://open.spotify.com/artist/1S2KSo7xLd5okhXnUkTy88"
+        }
+      ],
+      "duration_ms": 205424,
+      "name": "Please Take a Step Back",
+      "url": "https://open.spotify.com/track/2MSa8kf0unz5ZYoDwKSvNn"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
         }
       ],
-      "duration_ms": 359288,
-      "name": "Stay - JR Version",
-      "url": "https://open.spotify.com/track/1a7eacaVhQwDgibGLTDqsX"
+      "duration_ms": 334208,
+      "name": "Stay - JR Radio Version",
+      "url": "https://open.spotify.com/track/5RoHc9oCF9TNjmf6HwohY2"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -151,30 +151,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Don't Let The Devil [Feat. thankugoodsir]",
-        "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        },
-        {
-          "name": "thankugoodsir",
-          "url": "https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN"
-        }
-      ],
-      "duration_ms": 164894,
-      "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
-      "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Damn (You\u2019ve Got Me Saying) [East & Young Remix]",
         "url": "https://open.spotify.com/album/0j5LQIFpyIZaPIMvr5u74t"
       },
@@ -199,18 +175,46 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Blades",
-        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+        "name": "Walking on Sunshine (Metal Version)",
+        "url": "https://open.spotify.com/album/2TQ59UB1pvxvmZ2jACjcp2"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 221092,
-      "name": "Blades",
-      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
+      "duration_ms": 208312,
+      "name": "Walking on Sunshine (Metal Version)",
+      "url": "https://open.spotify.com/track/0pc94WOnAQaMxRQenwlCDD"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Abbado: Schumann \u2013 Tchaikovsky",
+        "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
+      },
+      "artists": [
+        {
+          "name": "Carl Maria von Weber",
+          "url": "https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 452000,
+      "name": "Konzertst\u00fcck in F Minor, Op. 79: Adagio - Tempo di marcia - Pi\u00f9 mosso - Presto giocoso",
+      "url": "https://open.spotify.com/track/0uMwn3iVIQ9DwwQU6wmLbS"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -239,62 +243,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 403933,
-      "name": "Foreword",
-      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Abbado: Schumann \u2013 Tchaikovsky",
-        "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 948461,
-      "name": "Piano Concerto in A Minor, Op. 54: 1. Allegro affettuoso",
-      "url": "https://open.spotify.com/track/0VbgxKHLT0AODoNG0e5rfy"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/3xPchYxzLZMB0v9QilXjiG"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/2qpO61VYdgYDYrrXGfA2yi"
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -335,18 +295,58 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Walking on Sunshine (Metal Version)",
-        "url": "https://open.spotify.com/album/2TQ59UB1pvxvmZ2jACjcp2"
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 208312,
-      "name": "Walking on Sunshine (Metal Version)",
-      "url": "https://open.spotify.com/track/0pc94WOnAQaMxRQenwlCDD"
+      "duration_ms": 403933,
+      "name": "Foreword",
+      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/3xPchYxzLZMB0v9QilXjiG"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/2qpO61VYdgYDYrrXGfA2yi"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Don't Let The Devil [Feat. thankugoodsir]",
+        "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "thankugoodsir",
+          "url": "https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN"
+        }
+      ],
+      "duration_ms": 164894,
+      "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
+      "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -515,6 +515,42 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Cult of Personality (Re-Recorded - Sped Up)",
+        "url": "https://open.spotify.com/album/2GrhRj3q9UuIbKhK7opZXK"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "duration_ms": 396564,
+      "name": "Cult of Personality - Re-Recorded - Slowed",
+      "url": "https://open.spotify.com/track/6ZFJTLRVmMLP0yuv5SvvyP"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/66yZzWmZViMvBqYpf0gLNL"
+      },
+      "artists": [
+        {
+          "name": "M.I.M.E",
+          "url": "https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 109241,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/0ctvAQSD8kcQP6VUYF5yLf"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Enigmatic Society",
         "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
@@ -551,42 +587,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Cult of Personality (Re-Recorded - Sped Up)",
-        "url": "https://open.spotify.com/album/2GrhRj3q9UuIbKhK7opZXK"
-      },
-      "artists": [
-        {
-          "name": "Living Colour",
-          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
-        }
-      ],
-      "duration_ms": 237912,
-      "name": "Cult of Personality - Re-Recorded - Sped Up",
-      "url": "https://open.spotify.com/track/0eNAwfluEGtgbdURTceEtx"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "No Tomorrow",
-        "url": "https://open.spotify.com/album/66yZzWmZViMvBqYpf0gLNL"
-      },
-      "artists": [
-        {
-          "name": "M.I.M.E",
-          "url": "https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 109241,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/0ctvAQSD8kcQP6VUYF5yLf"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Stories From The Western Front",
         "url": "https://open.spotify.com/album/7x74AsZWhJloc6tKOF7Nty"
       },
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 108583,
-      "name": "New Millennium (Basic Tracks)",
-      "url": "https://open.spotify.com/track/4KTFtsadHOMKnxX5fCcucu"
+      "duration_ms": 175987,
+      "name": "Anna Lee (Mellotron and Leslie Guitars, Slide Guitar Overdubs)",
+      "url": "https://open.spotify.com/track/3K4p3Mx6Lu2YX4mRaplHYM"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

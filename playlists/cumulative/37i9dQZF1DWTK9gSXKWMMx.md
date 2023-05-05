@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-60 songs - 3 hr 18 min
+62 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,9 @@
 | [Low Brow Blues](https://open.spotify.com/track/1aFzzG00a8cLNEWBHAzUWh) | [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [Piano Blues](https://open.spotify.com/album/5PEUpIzxhMR4G7mTD0z62H) | 3:23 | 2021-12-03 |  |
 | [Major Omar](https://open.spotify.com/track/6yAnhS7j590JoBPTBUltdy) | [Kevin G\. Pace](https://open.spotify.com/artist/2xiNCnt5ncRZ90Gmvluky7) | [Piano Major Blues \(Playing Major Blues Scales & Songs on the Piano for Moderate Level Pianists\)](https://open.spotify.com/album/6UhMk0Z2lwzbXpEnKmlPlh) | 1:02 | 2021-12-03 |  |
 | [Me and My Company](https://open.spotify.com/track/2AzEZNSkt9NDfDgNrO6AtH) | [Eximo Blue](https://open.spotify.com/artist/4lA30wTihw90nvQdV78pjm) | [Sunday Blues Piano](https://open.spotify.com/album/5PaoMcY6LaWaYToobjUrzp) | 1:39 | 2021-12-03 |  |
+| [Midnight Blues](https://open.spotify.com/track/2SDYKeI9wNzOFvTHJa7f3Z) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [Midnight Blues](https://open.spotify.com/album/6iKowQ8n8B47QDAVD35YmC) | 2:18 | 2023-05-05 |  |
 | [Midnight Hour Blues](https://open.spotify.com/track/2AS1aJkVBvyJSe8eVPYA84) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 2:42 | 2021-12-03 |  |
+| [My Melancholy Heart](https://open.spotify.com/track/5OVADw8JDZ54OTzowQSKwP) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [My Melancholy Heart](https://open.spotify.com/album/6WkggAsIwH4zEwWTGvcgwc) | 2:10 | 2023-05-05 |  |
 | [Past Midnight](https://open.spotify.com/track/1Zp0GjOlty47ruJj6URQXS) | [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [Piano Blues](https://open.spotify.com/album/5PEUpIzxhMR4G7mTD0z62H) | 3:45 | 2021-12-03 |  |
 | [Piano Blues: 100% Blues](https://open.spotify.com/track/1xJo9dOq8D3EguvNEjQAvQ) | [Background Instrumental Music Collective](https://open.spotify.com/artist/3DA9ZQAHHWQ2xFawOLaMPj), [Marcus Frye](https://open.spotify.com/artist/74YUYrxRyPvgtyMIWNOSH1) | [Memories of Piano Blues: Quiet Piano Blues, Greatest Dinner Jazz Piano Blues](https://open.spotify.com/album/3T86jLfPsO9z0yWY975jQc) | 4:25 | 2021-12-03 |  |
 | [Piano Blues: A Hope Street](https://open.spotify.com/track/7sQnsrPA2Vfk8YzY5pnFiS) | [Background Instrumental Music Collective](https://open.spotify.com/artist/3DA9ZQAHHWQ2xFawOLaMPj), [Yoanna Sky](https://open.spotify.com/artist/43CnN37rnQJXnxGOv7O89M) | [Memories of Piano Blues: Quiet Piano Blues, Greatest Dinner Jazz Piano Blues](https://open.spotify.com/album/3T86jLfPsO9z0yWY975jQc) | 4:29 | 2021-12-03 |  |

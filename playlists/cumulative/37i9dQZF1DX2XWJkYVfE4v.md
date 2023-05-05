@@ -4,7 +4,7 @@
 
 > Soft, shimmering strings to help you relax.
 
-95 songs - 6 hr 11 min
+96 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/6Ud2eoIWr1PlHZjBulf0fG) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 2:44 | 2022-07-15 |  |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/7JDWgXllpyJqPlxGnaY80u) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers – Pt\. 5](https://open.spotify.com/album/3KTMP9GcFuVttRKCzWf3T6) | 2:44 | 2022-07-01 | 2022-08-11 |
 | [Musik zur Nacht: Siziliano \(Carl Orff\) für Violine und Violoncello, Klavier\-Übung I, Nr\. 7, 1933](https://open.spotify.com/track/49iOUdXkwZeYtPaYvazDIt) | [Carl Orff](https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze), [Karl Peinkofer Percussion Ensemble](https://open.spotify.com/artist/5w6G3f80G50o2sktPdb2pL) | [Orff\-Schulwerk, Vol\. 1: Musica Poetica](https://open.spotify.com/album/3ybwlLIILt1Ojow4PHS10j) | 1:34 | 2022-01-25 |  |
+| [Naruto: Alone Theme](https://open.spotify.com/track/7iV3JqPBRtXEFka2Uhh9Uj) | [Toshio Masuda](https://open.spotify.com/artist/78JmbZfna6DOfhSoxccZZw), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko) | [Naruto: Alone Theme](https://open.spotify.com/album/5idXBK7HISXS4p353XlrCf) | 1:38 | 2023-05-04 |  |
 | [Near Light](https://open.spotify.com/track/49kvaxWkvLCNHka049HuVF) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Hakon Samuelsen](https://open.spotify.com/artist/0PveFynDT0XrxSZFPnm40C), [TrondheimSolistene](https://open.spotify.com/artist/7rXCWLNIVc3gBq0DhhffbQ) | [Nordic Noir](https://open.spotify.com/album/3S914IqSilV9a7671uKIJG) | 2:59 | 2021-12-17 |  |
 | [Nocturnes, Op\. 9: No\. 2 in E Flat Major \(Transcr\. Sarasate for Violin and Piano\)](https://open.spotify.com/track/7eDoOV9srhIGSQibD1jmS5) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bomsori](https://open.spotify.com/artist/6eg0Lhwxk31hrFEAXfpCd1), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: Nocturnes, Op\. 9: No\. 2 in E Flat Major \(Transcr\. Sarasate for Violin and Piano\) \[Musical Moments\]](https://open.spotify.com/album/4vcDNy1IEMR0UxT1vbknLS) | 4:32 | 2022-01-17 |  |
 | [Norma, Act I: Casta Diva \(Arr\. for Cello & Orchestra by Jan Vogler\) \- Radio Edit](https://open.spotify.com/track/5P0cab6Rz0wXVYKYBDj1LY) | [Vincenzo Bellini](https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV), [Jan Vogler](https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X), [Omer Meir Wellber](https://open.spotify.com/artist/7CeJRRbAEt37jrWOYX6ZMd) | [Norma, Act I: Casta Diva \(Arr\. for Cello & Orchestra by Jan Vogler\) \[Radio Edit\]](https://open.spotify.com/album/5LIdKUGkLqavzctaj1Jo9X) | 5:31 | 2022-05-25 |  |

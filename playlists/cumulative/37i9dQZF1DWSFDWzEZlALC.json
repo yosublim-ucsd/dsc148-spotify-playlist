@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: BRUCKNER",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Dominik Hartz",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 159163,
       "name": "1000 songs",
       "url": "https://open.spotify.com/track/3jXA5jKVV8qwFrHLlqYN0e"
@@ -74,6 +74,24 @@
       "duration_ms": 142124,
       "name": "27",
       "url": "https://open.spotify.com/track/7E20kJmoke3aQhtzZrKimq"
+    },
+    {
+      "album": {
+        "name": "Was ich will",
+        "url": "https://open.spotify.com/album/544ks9m4BfuUljraaQ336a"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "2x blinzeln",
+      "url": "https://open.spotify.com/track/6wFoisGUixXSsIZIy9vKpD"
     },
     {
       "album": {
@@ -172,7 +190,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 152673,
       "name": "7SD",
       "url": "https://open.spotify.com/track/0uSPEMHkNHifMbwYUP4LwH"
@@ -432,7 +450,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 194302,
       "name": "Bet\u00e4ub mich",
       "url": "https://open.spotify.com/track/2Qdgf2Cc3BjlfBdtnQtIFf"
@@ -454,6 +472,24 @@
       "duration_ms": 212480,
       "name": "Bialetti",
       "url": "https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2"
+    },
+    {
+      "album": {
+        "name": "Bitte Bitte",
+        "url": "https://open.spotify.com/album/0ZjjSQNPUwuzbxGv7VOiQf"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Bitte Bitte",
+      "url": "https://open.spotify.com/track/1jeFAGnFiB961m9IrLhnLg"
     },
     {
       "album": {
@@ -522,7 +558,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 179456,
       "name": "Blaues Licht",
       "url": "https://open.spotify.com/track/0UEXA9stQx2gRsXq0bWDx4"
@@ -782,7 +818,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 144076,
       "name": "Der neue Stil meiner Generation",
       "url": "https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM"
@@ -970,6 +1006,28 @@
       "duration_ms": 178546,
       "name": "Du tust mir nie mehr weh",
       "url": "https://open.spotify.com/track/6HNyXYZijMzIdykDQRLC9N"
+    },
+    {
+      "album": {
+        "name": "Du wartest",
+        "url": "https://open.spotify.com/album/0uEqVvkXEukoi3vNapr1DR"
+      },
+      "artists": [
+        {
+          "name": "Fatoni",
+          "url": "https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt"
+        },
+        {
+          "name": "Tristan Brusch",
+          "url": "https://open.spotify.com/artist/2XbRunIT35jrB8HRsISPgT"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172136,
+      "name": "Du wartest",
+      "url": "https://open.spotify.com/track/1stpx89jWVwK5twH4g9xBB"
     },
     {
       "album": {
@@ -1702,7 +1760,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 174637,
       "name": "He Nur Da",
       "url": "https://open.spotify.com/track/1nLdZdM4RT2wCw2hYxz9uA"
@@ -1918,6 +1976,24 @@
       "duration_ms": 221767,
       "name": "Im Walzerschritt Fahrradfahren",
       "url": "https://open.spotify.com/track/7DxjsdLPvzWgScr1XggOBe"
+    },
+    {
+      "album": {
+        "name": "Immer wenn du tr\u00e4umst",
+        "url": "https://open.spotify.com/album/4TVSqFuHp9HrhDkQrHbkrB"
+      },
+      "artists": [
+        {
+          "name": "Pannakotta",
+          "url": "https://open.spotify.com/artist/0KZvih5KsKy0qUMUDAEPfD"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131919,
+      "name": "Immer wenn du tr\u00e4umst",
+      "url": "https://open.spotify.com/track/2RyLPFDH8utWpqJmTwgs90"
     },
     {
       "album": {
@@ -2968,7 +3044,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 206459,
       "name": "Plattenbaum",
       "url": "https://open.spotify.com/track/1bgKBky1AoCemIAHEDDSAU"
@@ -3499,6 +3575,24 @@
     },
     {
       "album": {
+        "name": "Toskana",
+        "url": "https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj"
+      },
+      "artists": [
+        {
+          "name": "Ottolien",
+          "url": "https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "Toskana",
+      "url": "https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf"
+    },
+    {
+      "album": {
         "name": "Trotzdem",
         "url": "https://open.spotify.com/album/21E0iNCqzuN4wQsdvCAE2e"
       },
@@ -3871,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "Weil mein Herz ein L\u00fcgner ist",
+        "url": "https://open.spotify.com/album/0oWjd42XhGoe0jSyr9ng6P"
+      },
+      "artists": [
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "Weil mein Herz ein L\u00fcgner ist",
+      "url": "https://open.spotify.com/track/3g5OUIfHdyB09rIvWa9zYk"
+    },
+    {
+      "album": {
         "name": "Wein",
         "url": "https://open.spotify.com/album/3lUgsGEHXNJGlOnBVBPScX"
       },
@@ -4020,6 +4132,24 @@
       "duration_ms": 136373,
       "name": "Wien",
       "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"
+    },
+    {
+      "album": {
+        "name": "Wir haben den Winter \u00fcberlebt",
+        "url": "https://open.spotify.com/album/16j5gY7gqDM1phRVqzgrbL"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213851,
+      "name": "Wir haben den Winter \u00fcberlebt",
+      "url": "https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj"
     },
     {
       "album": {

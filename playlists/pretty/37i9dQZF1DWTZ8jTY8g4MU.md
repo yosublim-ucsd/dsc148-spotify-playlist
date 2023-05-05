@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا و غريب المخلص
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,448 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,519 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 4 | [ياوقت](https://open.spotify.com/track/639jQrPyDSLttOX5wym9zk) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [ياوقت](https://open.spotify.com/album/78hVLUZy6yTNZwSnshEJyj) | 6:07 |
 | 5 | [اخيه](https://open.spotify.com/track/4P6D9ROkAtysEWiZRcNzuM) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [اخيه](https://open.spotify.com/album/4Z10ZUHno1gQnstT585x93) | 3:49 |
 | 6 | [النظره قتّاله](https://open.spotify.com/track/4hANvcj9NmqkDS0cXMQzBo) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [النظره قتّاله](https://open.spotify.com/album/1gQi4Kqw3oJZQvPlGeQbG6) | 3:12 |
-| 7 | [وينها أيامك](https://open.spotify.com/track/04TqNXSCZQwFmsR2CW3deb) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [وينها أيامك](https://open.spotify.com/album/6oxPZ7NoFWbv8FI1KbUD41) | 4:04 |
-| 8 | [خاويت ذكراه](https://open.spotify.com/track/73xOibl20hlunR0U0oYBA0) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [خاويت ذكراه](https://open.spotify.com/album/64jWjJ9jxpM4spXX9QDqaf) | 3:40 |
-| 9 | [الغربة](https://open.spotify.com/track/6AKDz8CoUy5pB28gSZ7CqJ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [الغربة](https://open.spotify.com/album/3DZnSoRRssXDyf50hcX3DI) | 4:02 |
+| 7 | [خاويت ذكراه](https://open.spotify.com/track/73xOibl20hlunR0U0oYBA0) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [خاويت ذكراه](https://open.spotify.com/album/64jWjJ9jxpM4spXX9QDqaf) | 3:40 |
+| 8 | [الغربة](https://open.spotify.com/track/6AKDz8CoUy5pB28gSZ7CqJ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [الغربة](https://open.spotify.com/album/3DZnSoRRssXDyf50hcX3DI) | 4:02 |
+| 9 | [فتنة عيونك](https://open.spotify.com/track/35sb7Ir5pEN7F97lxQiwIy) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فتنة عيونك](https://open.spotify.com/album/240qQA5TlhhGus2MUMTgWW) | 4:09 |
 | 10 | [من الغلطان](https://open.spotify.com/track/1jIz4svTFgvaQXCa04T5ZK) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH), [ناصر السبيعي](https://open.spotify.com/artist/270gPRLXHuw2r2XyNlPOrK) | [من الغلطان](https://open.spotify.com/album/718bx8uiKIayDFAQ6nb44f) | 4:07 |
 | 11 | [آخر امالي](https://open.spotify.com/track/4VUMevwK5WhDrEjxH7okJL) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch), [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [آخر امالي](https://open.spotify.com/album/61PakJUPIbdvuMBPk8ZcOY) | 3:22 |
 | 12 | [اسرقني بعينك](https://open.spotify.com/track/2btTUVu43lXrCQzHLGbg6S) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [اسرقني بعينك](https://open.spotify.com/album/6KTTNe2nEBWO8dQjHk1HGA) | 3:56 |
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 15 | [صوره مع عطر](https://open.spotify.com/track/1XF1YnaPNTuR4pmi66qBhm) | [سلطان بن مريع](https://open.spotify.com/artist/5fdMXGDe0P3wV5TbCowG5g) | [صوره مع عطر](https://open.spotify.com/album/2Cd7G567Nt0gLbAtppLUmf) | 2:32 |
 | 16 | [الحلا والرقة](https://open.spotify.com/track/2I0JqlIwvI8AtR3M3v0oGe) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [الحلا والرقة](https://open.spotify.com/album/1g5O0y3SyVcyQ5EyVjErTq) | 4:02 |
 | 17 | [حلوه ذيك الأيام](https://open.spotify.com/track/7G9FvCGsh9sLMyKwcNudid) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [حلوه ذيك الأيام](https://open.spotify.com/album/0Lc1i8HzW08AGNG6Oy5l3R) | 4:09 |
-| 18 | [سهير العين](https://open.spotify.com/track/2zZf1Wm2ywhK3g72JrnXT3) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [سهير العين](https://open.spotify.com/album/52shbS4MEusvwpe4paLGC9) | 3:54 |
-| 19 | [لاتسولف](https://open.spotify.com/track/2uV7vMIRLxYleQpkHLBxIf) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [لاتسولف](https://open.spotify.com/album/1Y2q50EkNiy8ptFVujS2pd) | 3:44 |
-| 20 | [وعد مني](https://open.spotify.com/track/2869XYduH4Dp3YfUwvroOe) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وعد مني](https://open.spotify.com/album/5adznLBvnzA9GgW76kLOpD) | 3:26 |
-| 21 | [مركب هوانا](https://open.spotify.com/track/3s8CTencXxfmKex6E5SU2S) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [مركب هوانا](https://open.spotify.com/album/4ZdqBiuajEZTUzbb6yEezB) | 4:44 |
-| 22 | [Koon Insan](https://open.spotify.com/track/2hLkOauE0bNHoIDwJ45dFj) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koon Insan](https://open.spotify.com/album/7E3LtuiAJK99BU9RPPPmUl) | 3:00 |
-| 23 | [ودي ارتاح](https://open.spotify.com/track/0yUb1n9E4tp3uf6hd6xvlM) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ودي ارتاح](https://open.spotify.com/album/2L824hI35nFE6g47DlImJp) | 4:13 |
-| 24 | [ماني مصدقها](https://open.spotify.com/track/0fIKhy4BBJJ5flq3GwySkD) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ماني مصدقها](https://open.spotify.com/album/5dP4DRjie6bVwsxXyqeQw5) | 4:35 |
-| 25 | [وينه](https://open.spotify.com/track/4gYCz0aEcywZ3yY5HStjCn) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [وينه](https://open.spotify.com/album/23LvBPe1UpqU3KQUelauno) | 3:36 |
-| 26 | [Basmetak Lee](https://open.spotify.com/track/5Yf4UF6cYLsoG6ePHDC1ec) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Basmetak Lee](https://open.spotify.com/album/73clqKMKrQ3WZOBZbqPYOU) | 3:37 |
-| 27 | [يامجرمة](https://open.spotify.com/track/1ZsJGnLQ6Dz8IKGdjlwsz6) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يامجرمة](https://open.spotify.com/album/3qGwl0Gu4UGJqjekXuGs6S) | 2:55 |
+| 18 | [لاتسولف](https://open.spotify.com/track/2uV7vMIRLxYleQpkHLBxIf) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [لاتسولف](https://open.spotify.com/album/1Y2q50EkNiy8ptFVujS2pd) | 3:44 |
+| 19 | [وعد مني](https://open.spotify.com/track/2869XYduH4Dp3YfUwvroOe) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وعد مني](https://open.spotify.com/album/5adznLBvnzA9GgW76kLOpD) | 3:26 |
+| 20 | [مركب هوانا](https://open.spotify.com/track/3s8CTencXxfmKex6E5SU2S) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [مركب هوانا](https://open.spotify.com/album/4ZdqBiuajEZTUzbb6yEezB) | 4:44 |
+| 21 | [Koon Insan](https://open.spotify.com/track/2hLkOauE0bNHoIDwJ45dFj) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koon Insan](https://open.spotify.com/album/7E3LtuiAJK99BU9RPPPmUl) | 3:00 |
+| 22 | [ودي ارتاح](https://open.spotify.com/track/0yUb1n9E4tp3uf6hd6xvlM) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ودي ارتاح](https://open.spotify.com/album/2L824hI35nFE6g47DlImJp) | 4:13 |
+| 23 | [ماني مصدقها](https://open.spotify.com/track/0fIKhy4BBJJ5flq3GwySkD) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ماني مصدقها](https://open.spotify.com/album/5dP4DRjie6bVwsxXyqeQw5) | 4:35 |
+| 24 | [وينه](https://open.spotify.com/track/4gYCz0aEcywZ3yY5HStjCn) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [وينه](https://open.spotify.com/album/23LvBPe1UpqU3KQUelauno) | 3:36 |
+| 25 | [Basmetak Lee](https://open.spotify.com/track/5Yf4UF6cYLsoG6ePHDC1ec) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Basmetak Lee](https://open.spotify.com/album/73clqKMKrQ3WZOBZbqPYOU) | 3:37 |
+| 26 | [يامجرمة](https://open.spotify.com/track/1ZsJGnLQ6Dz8IKGdjlwsz6) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يامجرمة](https://open.spotify.com/album/3qGwl0Gu4UGJqjekXuGs6S) | 2:55 |
+| 27 | [وينها أيامك](https://open.spotify.com/track/04TqNXSCZQwFmsR2CW3deb) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [وينها أيامك](https://open.spotify.com/album/6oxPZ7NoFWbv8FI1KbUD41) | 4:04 |
 | 28 | [يازين يابو الخلاخيل](https://open.spotify.com/track/3FvDdjshs2Jn1nEx4OvUnJ) | [Ahmad Al Shamlan Iاحمد ال شملان](https://open.spotify.com/artist/0gx2Hvx3UF3qteLYY3c4YV) | [يازين يابو الخلاخيل](https://open.spotify.com/album/4H9DKcjhgjuCGYxi2AoFQG) | 4:43 |
 | 29 | [طبطب](https://open.spotify.com/track/34iXouLD9DE3bBa2pmInEF) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [طبطب](https://open.spotify.com/album/46Eugjxm41rG3MfPB0c5VC) | 3:50 |
 | 30 | [شبه الظبي](https://open.spotify.com/track/5ualLmOR4a5jJJnnITLtYc) | [ناجي بن باصم](https://open.spotify.com/artist/3QoDkgQ6jQvy610IiOqPiR) | [شبه الظبي](https://open.spotify.com/album/35nYR6qG6EiBqtSaB9vrDa) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 49 | [مسموح](https://open.spotify.com/track/47vhMaoRykFM1C4HspBXG0) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [مسموح](https://open.spotify.com/album/2sE39ge2pRfWG4UGdaqd0Q) | 3:21 |
 | 50 | [فيني مايكفيني](https://open.spotify.com/track/5np7Iyt9i8EDmKSpSVJR58) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [فيني مايكفيني](https://open.spotify.com/album/3x0qCf5FPJ96XQS1X4xUvt) | 3:25 |
 
-Snapshot ID: `MCxmMTc3Mzg1ZGZmNmM0ZDA2YmZmZTU4OGZkMjcxYjY1YjRlZWM4M2Ez`
+Snapshot ID: `MCwwY2UzOGEzMDA1NTgxNTc3YjRmMjUxMjgxNTY2NGY1ZWEwYWIyYWJh`

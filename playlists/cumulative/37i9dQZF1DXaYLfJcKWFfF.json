@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=81n9mypdRAuVUB7T2rtLfg\"> Baaba J</a> ",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=5urS1m_MR3WHF5XTyvcO1w\"> Bongeziwe Mabandla</a> ",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -104,6 +104,28 @@
       "duration_ms": 235425,
       "name": "African Dreams - Remix",
       "url": "https://open.spotify.com/track/1AzyicgmCSykHZPdoD4bne"
+    },
+    {
+      "album": {
+        "name": "Love Lane",
+        "url": "https://open.spotify.com/album/0xBtN0vikhUPmTsItssUkF"
+      },
+      "artists": [
+        {
+          "name": "Dwin, The Stoic",
+          "url": "https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC"
+        },
+        {
+          "name": "Rhaffy",
+          "url": "https://open.spotify.com/artist/58jbbV6giNbHypaihxigEL"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Allez",
+      "url": "https://open.spotify.com/track/041kBHDzMPUuePMKJy1RdB"
     },
     {
       "album": {
@@ -581,6 +603,24 @@
     },
     {
       "album": {
+        "name": "amaXesha",
+        "url": "https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "hlala",
+      "url": "https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq"
+    },
+    {
+      "album": {
         "name": "The Ghana Live Sessions",
         "url": "https://open.spotify.com/album/0B5DMQdDvi7IJpPu7AUYfc"
       },
@@ -924,7 +964,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 270147,
       "name": "Mali (feat. Nathi)",
       "url": "https://open.spotify.com/track/3UgjNSWv99ez4z2B5ARgZI"
@@ -1268,6 +1308,24 @@
       "duration_ms": 199066,
       "name": "OYA",
       "url": "https://open.spotify.com/track/2SklWzNh4XgOuRoAvWI4mF"
+    },
+    {
+      "album": {
+        "name": "ACT 3",
+        "url": "https://open.spotify.com/album/4qcKBpbjvMZFJIZwDSs1ez"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220740,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb"
     },
     {
       "album": {
@@ -1760,7 +1818,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 171291,
       "name": "Thunder in My Arms",
       "url": "https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t"
@@ -2090,7 +2148,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 176443,
       "name": "Working on You",
       "url": "https://open.spotify.com/track/20elM8EhWy52VmxbjEWCkn"

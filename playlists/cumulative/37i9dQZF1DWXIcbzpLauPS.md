@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Veil Of Maya
 
-681 songs - 1 day 18 hr 55 min
+682 songs - 1 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,7 +615,8 @@
 | [There’s Fear In Letting Go](https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:54 | 2023-01-27 |  |
 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 | 2022-05-27 |  |
 | [Thinking in Tongues](https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Thinking in Tongues](https://open.spotify.com/album/4rWZPzKJnGLtNyTxVGLFEh) | 3:24 | 2022-07-13 | 2022-07-23 |
-| [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 | 2022-08-12 |  |
+| [This Means War](https://open.spotify.com/track/2ccZzNAvtr6dDzvTbfhQGf) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:55 | 2023-04-21 |  |
+| [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 | 2022-08-12 | 2023-05-05 |
 | [Throne](https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Throne](https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA) | 3:27 | 2022-06-24 | 2023-03-18 |
 | [Through Life and Death](https://open.spotify.com/track/3WQBZ03AEnce4fHmLyEcy4) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Through Life and Death](https://open.spotify.com/album/1FSSug8vSM8W1oCR61ZWfA) | 3:46 | 2021-12-17 | 2022-02-18 |
 | [Tidal Wave](https://open.spotify.com/track/6vLIcvjjLPftlcadH1hbTu) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Tidal Wave](https://open.spotify.com/album/2e766ojr5NmFTOtULHrZGN) | 4:16 | 2022-04-08 | 2022-06-11 |
@@ -632,8 +633,8 @@
 | [Two Towers](https://open.spotify.com/track/7hfqSLe4P7w8Xhf5FWpWIX) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Two Towers](https://open.spotify.com/album/42FnKt94WapVmqUVK7gMtD) | 5:46 | 2022-07-13 | 2022-07-23 |
 | [UFO Party](https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [UFO Party](https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2) | 4:02 | 2022-05-20 | 2022-10-25 |
 | [UGLY](https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [UGLY](https://open.spotify.com/album/3XKm3EFzoIjbGmL95cx5aS) | 3:33 | 2022-02-11 | 2022-05-06 |
-| [Ultraviolet](https://open.spotify.com/track/0gukK40IEqCb6arYVQxMtl) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/1gQRMfDzWuQ4J2BCjuvWAS) | 3:52 | 2023-01-20 | 2023-05-04 |
-| [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 | 2023-04-21 |  |
+| [Ultraviolet](https://open.spotify.com/track/0gukK40IEqCb6arYVQxMtl) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/1gQRMfDzWuQ4J2BCjuvWAS) | 3:52 | 2023-01-20 |  |
+| [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 | 2023-04-21 | 2023-05-05 |
 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 | 2022-02-25 | 2022-05-14 |
 | [Unconquered](https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Unconquered](https://open.spotify.com/album/0zx4zzB4EheppuadoyXLN0) | 3:35 | 2022-03-11 | 2022-05-14 |
 | [Unholy](https://open.spotify.com/track/1QposYqMrnrYKWRUqQT1WW) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Unholy](https://open.spotify.com/album/2Bezp0tXu6vUeMwtMJ1G9w) | 2:35 | 2022-11-04 | 2023-01-21 |

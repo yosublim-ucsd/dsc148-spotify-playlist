@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 
 > Caterina Barbieri's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,799 likes - 29 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,828 likes - 29 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 | 28 | [Agalma VI](https://open.spotify.com/track/67oHNuPeVcPe0mM97wYQra) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Agalma](https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6) | 5:48 |
 | 29 | [Fantas](https://open.spotify.com/track/0fjYD3Tx5XHuI4yfCjhUfU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Ecstatic Computation](https://open.spotify.com/album/1hOgPjM2AP2zUJnaXmmEGb) | 10:31 |
 
-Snapshot ID: `MCxjM2FiM2I5ODRiZDk1ODgxMGM0NThjNjVkMzY0MzUwOTIwNGNmMzdl`
+Snapshot ID: `MCwyY2RiMTA5ODE2YWJkZjJhMmQ4MjI4NTExYzgwNTg5ZDUxOGFmZDVk`

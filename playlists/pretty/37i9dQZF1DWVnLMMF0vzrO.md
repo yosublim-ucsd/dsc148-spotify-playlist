@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,848 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,853 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 39 | [Tell You in the Morning](https://open.spotify.com/track/2rVhASuWovWkDzerA4Kaeq) | [Scott Vaughn](https://open.spotify.com/artist/3f6Svs2xyWyJyBw3zTBqLX) | [She's Just a Woman / Tell You in the Morning \(Digital 45\)](https://open.spotify.com/album/19sXEVTAF5RyjSzV5yTb4X) | 3:32 |
 | 40 | [Plante y Patra](https://open.spotify.com/track/6vCLrOeBc0yU6fNUaWy0hs) | [John Lewis](https://open.spotify.com/artist/5lFsQ6pOHgWG8HHqcKaLGn) | [Blue Steel \- Catwalk Music](https://open.spotify.com/album/0AiboZLACSsuU2DGCh4s4x) | 5:03 |
 | 41 | [Todo tiene su fin](https://open.spotify.com/track/5Su0gsK3nkTGEkN5Dq5QUT) | [Modulos](https://open.spotify.com/artist/3OdecN7ul5DNrWs1zGjBnl) | [Grandes Exitos](https://open.spotify.com/album/3asgOSWOccesPh0ZyDXdzF) | 5:08 |
-| 42 | [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 |
+| 42 | [El Matador](https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Lo Esencial](https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio) | 4:34 |
 | 43 | [Only Memories](https://open.spotify.com/track/0GTJRZEHoE1nssjhtJVuTd) | [Bill Morgan](https://open.spotify.com/artist/3JBT77qabs9oEGFBYVvQ8T) | [The Color of Music: Only Memories](https://open.spotify.com/album/6pNck3BD4P9TtEOy0WqTd6) | 3:06 |
 | 44 | [Me Estas Olvidando](https://open.spotify.com/track/118Zh7ww83PyF7hhZEsdf1) | [Cuarteto Marcano](https://open.spotify.com/artist/1PWkaV1kTFlXVYodv5j1UV) | [Canciones Inolvidables, Vol\. 2](https://open.spotify.com/album/1Pga8T5ol5la7NajABysjX) | 2:47 |
 | 45 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/0f7VY69zhtS20Xm5PVYCm5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 3:26 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 166 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 167 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCwwMTRhZjk0NmRjNjFiZDhjZDRjMWNjMDk2ZTBiYWU5YzU4MzU1ZDY1`
+Snapshot ID: `MCwwZWI4NTdhZDQ0NmVmODNhZmU2MjhhOTFjMzBiNjRjZmQ2MDgwYTU5`

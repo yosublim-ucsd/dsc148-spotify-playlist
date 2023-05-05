@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 190720,
       "name": "Drown",
       "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
@@ -1964,6 +1964,24 @@
       "duration_ms": 227681,
       "name": "For You",
       "url": "https://open.spotify.com/track/0mNRaUObyWNDQmCkeKhivy"
+    },
+    {
+      "album": {
+        "name": "Twin Heavy",
+        "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227681,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
     },
     {
       "album": {

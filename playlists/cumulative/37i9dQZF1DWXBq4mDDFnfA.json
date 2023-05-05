@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "Dance of the Orient",
+        "url": "https://open.spotify.com/album/3pp4uPI0g7aPrY5uUpdFYK"
+      },
+      "artists": [
+        {
+          "name": "Mark Houghton",
+          "url": "https://open.spotify.com/artist/4Ea5PMxvKtI6BUhrBvzrc4"
+        },
+        {
+          "name": "Xuefei Yang",
+          "url": "https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260972,
+      "name": "Dance of the Orient",
+      "url": "https://open.spotify.com/track/0gVh7rovZhz00UTwcME08u"
+    },
+    {
+      "album": {
         "name": "Gitara",
         "url": "https://open.spotify.com/album/2DKwha77ngWfSgAHmCxplF"
       },

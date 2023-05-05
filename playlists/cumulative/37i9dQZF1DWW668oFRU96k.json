@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: R3HAB x INNA",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Sasha Alex Sloan",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 134634,
       "name": "All For You",
       "url": "https://open.spotify.com/track/4dLOcxDpoENRLSbzhelti8"
@@ -436,7 +436,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me (feat. Coi Leray)",
+      "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 201834,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/6teP1VUZrWtMJW6uCosu5a"
@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "16BOOSTERZ",
+        "url": "https://open.spotify.com/album/0IrkJnF8UKtYPLR5pnqpgW"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217633,
+      "name": "BIONIC",
+      "url": "https://open.spotify.com/track/6ysOLRnQtxTEGMGBiJqUzI"
+    },
+    {
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
       },
@@ -650,6 +668,28 @@
       "duration_ms": 118110,
       "name": "Break Up Your Back",
       "url": "https://open.spotify.com/track/6GXD2z18wCfVFvwmNgTjx0"
+    },
+    {
+      "album": {
+        "name": "Burn It Up",
+        "url": "https://open.spotify.com/album/4GgBJHcrifhSNL8oLwhWDI"
+      },
+      "artists": [
+        {
+          "name": "Drifter5",
+          "url": "https://open.spotify.com/artist/4h0g2CXX0lQauuR7Vsk7TU"
+        },
+        {
+          "name": "David White",
+          "url": "https://open.spotify.com/artist/4sQ7XS59ZQebv14J404ZSn"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162556,
+      "name": "Burn It Up",
+      "url": "https://open.spotify.com/track/4pPnL57rYaq9Iaw0B7sGLQ"
     },
     {
       "album": {
@@ -910,7 +950,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 192586,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/2IXVuAMYYSslZ2bdkGKlxN"
@@ -932,7 +972,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 291692,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/4Xog5MwTrBLlgNOJoy1UC4"
@@ -1072,7 +1112,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 276190,
       "name": "Daily Treasure Hunt",
       "url": "https://open.spotify.com/track/5Jge72ivXnRfDg08XO8Vve"
@@ -1488,7 +1528,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 180517,
       "name": "Faster",
       "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
@@ -1524,7 +1564,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 198750,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/1bmZvvwtKSdLp8q71VJQiI"
@@ -1716,10 +1756,36 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 204067,
       "name": "Fly",
       "url": "https://open.spotify.com/track/5uPQX5QN2bOfK00CwQqH2r"
+    },
+    {
+      "album": {
+        "name": "Fool 4 U (feat. Enisa)",
+        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146076,
+      "name": "Fool 4 U (feat. Enisa)",
+      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
     },
     {
       "album": {
@@ -1912,7 +1978,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 214685,
       "name": "free fallin'",
       "url": "https://open.spotify.com/track/5zJrBEEx3K3b6RXz13eDmU"
@@ -1934,7 +2000,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 185760,
       "name": "Get On Down",
       "url": "https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY"
@@ -2087,6 +2153,28 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2yOsOQFGEI7Va1WYdm53J8"
+      },
+      "artists": [
+        {
+          "name": "PRMGH",
+          "url": "https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9"
+        },
+        {
+          "name": "bad narrator",
+          "url": "https://open.spotify.com/artist/47GNF7Kf5NvKu7diVeHmCh"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137343,
+      "name": "Heart of Mine",
+      "url": "https://open.spotify.com/track/6vqHbooVnSkuAkPdWljmko"
+    },
+    {
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/4c5sBt3wSeoCiXWnVPW62B"
       },
@@ -2142,6 +2230,28 @@
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "album": {
@@ -2340,7 +2450,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/7JhAss3J9U99ZO2BsEZCE9"
@@ -2530,7 +2640,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 195004,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/5UTqHC0FtWx9zPKvva8i9v"
@@ -3465,6 +3575,24 @@
     },
     {
       "album": {
+        "name": "NIGHT",
+        "url": "https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB"
+      },
+      "artists": [
+        {
+          "name": "VESK GREEN",
+          "url": "https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259862,
+      "name": "NIGHT",
+      "url": "https://open.spotify.com/track/6MvLdr8EU0ROnLBIydewaD"
+    },
+    {
+      "album": {
         "name": "Night Away",
         "url": "https://open.spotify.com/album/3onIxV1cj4GOkGwfkVxe6z"
       },
@@ -3506,7 +3634,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 187062,
       "name": "No Explanations",
       "url": "https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub"
@@ -3708,7 +3836,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 170282,
       "name": "nudis",
       "url": "https://open.spotify.com/track/6nPWtU2DiWOyuqCB2WGtgB"
@@ -3786,7 +3914,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
@@ -4096,7 +4224,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 189250,
       "name": "Pressure - Radio Edit",
       "url": "https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT"
@@ -4582,7 +4710,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 175150,
       "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
@@ -4608,6 +4736,28 @@
       "duration_ms": 191641,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "album": {
+        "name": "Shit We Do For Love",
+        "url": "https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167566,
+      "name": "Shit We Do For Love",
+      "url": "https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn"
     },
     {
       "album": {
@@ -4748,6 +4898,32 @@
       "duration_ms": 198037,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/0Peztel5LfvggoPNNsbjaM"
+    },
+    {
+      "album": {
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222624,
+      "name": "Sometimes\u2026 (with Daya & Earthgang)",
+      "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
     },
     {
       "album": {
@@ -5050,7 +5226,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 142200,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA"
@@ -5402,6 +5578,28 @@
       "duration_ms": 133714,
       "name": "Want U (For My Own)",
       "url": "https://open.spotify.com/track/3dFtdPB9z5Pb9dGj1W5hcr"
+    },
+    {
+      "album": {
+        "name": "We Are All Equal",
+        "url": "https://open.spotify.com/album/5PdRSh9BkRFPyGDsy9j3mu"
+      },
+      "artists": [
+        {
+          "name": "LTN",
+          "url": "https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3"
+        },
+        {
+          "name": "Ghostbeat",
+          "url": "https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "We Are All Equal",
+      "url": "https://open.spotify.com/track/5B1NXRJoU4Bs1D74Qdsokg"
     },
     {
       "album": {

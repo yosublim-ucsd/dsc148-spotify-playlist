@@ -1,12 +1,12 @@
 {
   "description": "New music from popular Hindi artists. Cover- Armaan Malik, Mithoon",
-  "num_followers": 25589,
+  "num_followers": 25651,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzgzNTljOTNhM2NkY2NmNjM5ODM4MWIzNDZlNTg3Njg5MjE3NmE5",
+  "snapshot_id": "MCw4NGJlZGUwMThmMDAzNzg5Y2M3ZmIyYzVlYjM1MDcxMWRkZjJiMTdm",
   "tracks": [
     {
       "added_at": "2023-04-28 05:35:19",
@@ -110,10 +110,18 @@
         {
           "name": "Sanjeev Chaturvedi",
           "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        },
+        {
+          "name": "Rachit Rojha",
+          "url": "https://open.spotify.com/artist/5Y8cD4NMVXORhNrkHhTbxv"
+        },
+        {
+          "name": "Sibbu Giri",
+          "url": "https://open.spotify.com/artist/2m9w66Ytmhz19WCxaRiXTU"
         }
       ],
       "duration_ms": 149049,
-      "name": "Jannatein",
+      "name": "Jannatein - From 'Jannatein'",
       "url": "https://open.spotify.com/track/4R38KUfcNLG7aamnBu8i8r"
     },
     {

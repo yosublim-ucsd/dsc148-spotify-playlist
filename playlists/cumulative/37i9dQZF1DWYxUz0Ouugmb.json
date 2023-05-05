@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Anggi Marito",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Maulana Ardiansyah",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -1679,6 +1679,28 @@
     },
     {
       "album": {
+        "name": "Orang Ketiga (Live)",
+        "url": "https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Ochi Alvira",
+          "url": "https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279455,
+      "name": "Orang Ketiga - Live",
+      "url": "https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx"
+    },
+    {
+      "album": {
         "name": "Patah Hati",
         "url": "https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE"
       },
@@ -1748,6 +1770,24 @@
       "duration_ms": 234285,
       "name": "Penghapus Pensil",
       "url": "https://open.spotify.com/track/018kPIAzYiX8rZefBIyHdI"
+    },
+    {
+      "album": {
+        "name": "Pergi",
+        "url": "https://open.spotify.com/album/5QA8BDu7U9tNe0AnOMXTfu"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277107,
+      "name": "Pergi",
+      "url": "https://open.spotify.com/track/3HdO5YJpavQSC3pZybEqGb"
     },
     {
       "album": {

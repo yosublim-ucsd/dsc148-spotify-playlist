@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,821 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,809 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 85 | [Third Way](https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Begin Again \- EP](https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN) | 4:47 |
 | 86 | [Nowhere Near](https://open.spotify.com/track/39w0PWHKuw8LkmH13dQGvh) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Nowhere Near](https://open.spotify.com/album/760pl4rm6bi8ig4PBS31Wn) | 4:07 |
 | 87 | [In The Missed](https://open.spotify.com/track/5tWhNXtbgk5WkxBI3H0xO7) | [Joseph Lawrence & The Garden](https://open.spotify.com/artist/16t4Yq2I231X5bIwcFtRC4) | [Goodbye, Hello](https://open.spotify.com/album/0jFQGJxxXpKtd4G25EvDFJ) | 4:51 |
-| 88 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 |
+| 88 | [Lucky](https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI) | 3:12 |
 | 89 | [Ash and Orange](https://open.spotify.com/track/0u05XeBLM5UWw6KlN8EqRU) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Ash and Orange](https://open.spotify.com/album/7t5iy351t4GH2rutWtl6U0) | 3:48 |
 | 90 | [Somewhere Not Real](https://open.spotify.com/track/5kj38BAjlr6rXhD6GYglz0) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [Hometime](https://open.spotify.com/album/6niZSnemfDke5ITcAYPK1c) | 2:45 |
 | 91 | [Sirens](https://open.spotify.com/track/1EVus1vgkvjSZ7AGXTjMbX) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Sirens](https://open.spotify.com/album/2Hl1GmsR6cRLFmQUqpdPZ5) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [On The Way There](https://open.spotify.com/track/1cwV9KDoWoL2espNeeibvb) | [RolledBack](https://open.spotify.com/artist/1XZkIY1rC0QNcjpSIdMCoU), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [On The Way There](https://open.spotify.com/album/47SYiqJbww6E7jwvXscLSR) | 2:25 |
 | 100 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 
-Snapshot ID: `MCxkMjU4N2FiZGE4NjFmMDEyYzg5NjRmNmFmMDhmNmU3MmY5YjQ0YzY2`
+Snapshot ID: `MCwyMWFlN2NiODk2YjNiNDhmNmQ0ZjJjNDEzYzYxNDkxYWU5MmQwYWMx`

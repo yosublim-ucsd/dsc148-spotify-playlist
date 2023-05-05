@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Organic Plastic Music",
+        "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
+      },
+      "artists": [
+        {
+          "name": "Orange Pekoe",
+          "url": "https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220040,
+      "name": "Happy Valley",
+      "url": "https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu"
+    },
+    {
+      "album": {
         "name": "Hatsukoi no Akuma -Dance With The Devil-",
         "url": "https://open.spotify.com/album/4FbryMi5ALp0suonMQW3la"
       },
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 293920,
       "name": "MotherLake",
       "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"

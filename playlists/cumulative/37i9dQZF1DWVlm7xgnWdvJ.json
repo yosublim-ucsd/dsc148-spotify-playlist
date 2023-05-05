@@ -825,6 +825,28 @@
     },
     {
       "album": {
+        "name": "A Day In Essaouira",
+        "url": "https://open.spotify.com/album/2i8W94b7HDbxCc4dD9isYA"
+      },
+      "artists": [
+        {
+          "name": "Parallelle",
+          "url": "https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag"
+        },
+        {
+          "name": "Omar Hayat",
+          "url": "https://open.spotify.com/artist/6CNB6WbUT0xyr4SsORJYUh"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398055,
+      "name": "Hiriza",
+      "url": "https://open.spotify.com/track/39RCxlfSmKmGCJ5XzrfMGB"
+    },
+    {
+      "album": {
         "name": "Hope EP",
         "url": "https://open.spotify.com/album/6y8QCJsupQ5TN3gjGaA0LQ"
       },

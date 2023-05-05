@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,264 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,286 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 64 | [Pawela Kodu Akase](https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Samitha Mudunkotuwa](https://open.spotify.com/artist/4JZtZyM8iEjVLR56DgrI4c) | [Pawela Kodu Akase](https://open.spotify.com/album/5yM7fEWom6JO1g780noZ3d) | 3:57 |
 | 65 | [Heena Maka](https://open.spotify.com/track/1dC7Q5yBpQ063UrIWpAB3N) | [Harshadewa Ariyasinghe](https://open.spotify.com/artist/40v9sLBiwQOZdLwRhTUjQL), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Heena Maka](https://open.spotify.com/album/6Et4v4uBSdKMFYkGtIYLkm) | 4:17 |
 
-Snapshot ID: `MCw0YTQ5NzYyMWQ0MmU3MTA1OTY1ZDFjZWU0NzZjYWVjMGVkMDcwN2M3`
+Snapshot ID: `MCw2NDUyOWRhOTJiNWE3NmY4YjA1NjFhNThlMjc4ZjRhZGVjODJiNGYz`

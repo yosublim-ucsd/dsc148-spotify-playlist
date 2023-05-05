@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,133 likes - 138 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,501 likes - 138 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 6 | [Hillsmiota \(Binaural Alpha 73.6 Hz \- 81 Hz\)](https://open.spotify.com/track/26DCohYR7X4PJGRQoEVn6c) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Hillsmiota](https://open.spotify.com/album/2fKzE71lVCPhSi7h9tnk6i) | 2:50 |
 | 7 | [Binaural Alpha Sinus 300 Hz \- L 308 Hz \- R](https://open.spotify.com/track/2UhpilHNO7eleMYswgCNUP) | [Electonic Arts](https://open.spotify.com/artist/4eUGeFDwIOaHPNz6Sh2liB) | [Binaural Beta Sinus 200 Hz \- L 230 Hz \- R](https://open.spotify.com/album/65mXuLi5O8iLkLO9qkmTSX) | 1:52 |
 | 8 | [Alpha Horizon 128 + 130 Hz](https://open.spotify.com/track/4o4y2ZK2pso1lHYAGwhbLN) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 3:27 |
-| 9 | [Alpha Relief 94 Hz](https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Relief 94 Hz](https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR) | 3:08 |
+| 9 | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR) | 3:08 |
 | 10 | [Cycles \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1JY5XG8cu7ly1fYlDhhpSL) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Cycles \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/album/2WQPXMgT7qgMMrZjBiMD14) | 2:10 |
 | 11 | [Alpha Sinus \- The Shrine \- 146 Hz \-153 Hz](https://open.spotify.com/track/0Z5OXX6LKeN85fm3MyMJiS) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Alpha Sinus \- The Shrine \- 146 Hz \-153 Hz](https://open.spotify.com/album/4bsjDI58pp3cRNTpdzjBtH) | 2:20 |
 | 12 | [Fantasia \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry) | [Binaural Movements](https://open.spotify.com/artist/7qgmuFa8s0woxvn8Tnl84Q) | [Access to the Subconcious](https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m) | 2:41 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 137 | [Gamma Waves 89 + 86 hz](https://open.spotify.com/track/1C5ODl6oza5zRbwngivAK8) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:01 |
 | 138 | [Binaural Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/6DLK0gTnZnWa1eh1oiFQri) | [Maroon Skies](https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU) | 2:24 |
 
-Snapshot ID: `MCw1YjBkZjhhYTYxZmQ2N2FhMjQ0MDZhNzc4ZDVkMTgwN2FmM2NkZDdi`
+Snapshot ID: `MCxmNDhiZjRkYmM1ZDk3MTZhOTcxNjVmZDZkYWE2MmE0Y2MxMWIxN2Ey`

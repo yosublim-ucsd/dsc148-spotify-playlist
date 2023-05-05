@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 263897,
       "name": "Little Sunflower",
       "url": "https://open.spotify.com/track/6EBzxEkM0l4UkRBhqj3JWn"
@@ -1878,6 +1878,24 @@
       "duration_ms": 288021,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/7tQUCA9GrJry8j3mIXfO77"
+    },
+    {
+      "album": {
+        "name": "Ondas Cintilantes",
+        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178123,
+      "name": "Ondas Cintilantes",
+      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
     },
     {
       "album": {

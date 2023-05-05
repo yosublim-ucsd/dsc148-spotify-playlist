@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-149 songs - 8 hr 36 min
+151 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dance of the Moonlight Jellies](https://open.spotify.com/track/1qHX3JQefKOvy64bIWEAhS) | [ConcernedApe](https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2) | [Stardew Valley \(Original Game Soundtrack\)](https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk) | 1:50 | 2022-01-04 |  |
 | [Dark Souls 3](https://open.spotify.com/track/2xIRBmAuVk6s7ZoukykRqS) | [Yuka Kitamura](https://open.spotify.com/artist/3nIELxtRA56U1AXqJFzyDw) | [Dark Souls 3](https://open.spotify.com/album/3zSvk9thQMwQDrKMD0kJJv) | 2:46 | 2021-12-15 |  |
 | [Days Gone](https://open.spotify.com/track/0o2Sdhds3vTjXRfJZBTzLm) | [Nathan Whitehead](https://open.spotify.com/artist/1H74HYtrgoflUgbNupSbdP) | [Days Gone \(Original Soundtrack\)](https://open.spotify.com/album/2koUTJvJTFzOs8mresqtle) | 3:41 | 2021-12-15 |  |
+| [Dearly Beloved \- KINGDOM HEARTS II Version\-](https://open.spotify.com/track/6Tkn4gwyqVcpU0ecgtU3bw) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \-HD 2.5 ReMIX\- \(Original Soundtrack\)](https://open.spotify.com/album/6eVWdfj3yizOc8qtEmF00P) | 4:19 | 2023-05-04 |  |
 | [Demacia Rising](https://open.spotify.com/track/6Q6G9OIyiehtUDmSOGCLCF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 4:07 | 2021-12-15 |  |
 | [Dianoia](https://open.spotify.com/track/4eKttBFjxz3qF2ByEv5tol) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Immortals Fenyx Rising \(Original Game Soundtrack\)](https://open.spotify.com/album/5j30b8wiK6MbEbmxnB8CmI) | 4:24 | 2021-12-15 |  |
 | [Dragonborn](https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 3:55 | 2021-12-15 |  |
@@ -118,6 +119,7 @@
 | [Saber's Edge \(Final Fantasy XIII\)](https://open.spotify.com/track/6yt8SuNkqup43idePXmKt2) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds V: More Music from Final Fantasy](https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD) | 4:15 | 2021-12-15 | 2022-07-16 |
 | [Save Room](https://open.spotify.com/track/3zudlPMpi7uCXuaAQiyd9D) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 0:41 | 2021-12-15 |  |
 | [Shadow of the Colossus®](https://open.spotify.com/track/7azgc6j5E6XhEDAfwW3Zrr) | [Video Games Live](https://open.spotify.com/artist/6dZAVi5PugDwlAnH8KMEGl) | [Level 3](https://open.spotify.com/album/2KHrrZCAkI8HOIJpOqLzET) | 3:02 | 2021-12-15 |  |
+| [SIMPLE AND CLEAN \- KINGDOM Orchestra Instrumental Version\-](https://open.spotify.com/track/4WyvlOC3qntGmX64E7kWmF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [KINGDOM HEARTS \-HD 1.5 ReMIX\- \(Original Soundtrack\)](https://open.spotify.com/album/59xa0duBH2doywRKohAqIY) | 3:41 | 2023-05-04 |  |
 | [Skalitz 1403](https://open.spotify.com/track/1GraDYg4bSZYIV7AOqc1ls) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 2:21 | 2021-12-15 |  |
 | [Sogno di Volare \(“The Dream of Flight”\)](https://open.spotify.com/track/1miPwGI7xUKfHj6vIpMfP3) | [Christopher Tin](https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2) | [Sogno di Volare \(Civilization VI Main Theme\)](https://open.spotify.com/album/3Mlu8nz19IlADr2IK85VJa) | 3:53 | 2021-12-15 |  |
 | [Star Guardian 2022 \- Official Orchestral Theme](https://open.spotify.com/track/0VNqKLUyplTxCPZbIaVKls) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Star Guardian 2022 \(Official Orchestral Theme\)](https://open.spotify.com/album/3bxxma5xoyxqMaE3l4YHl5) | 5:09 | 2022-06-24 |  |

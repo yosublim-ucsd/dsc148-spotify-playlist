@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW?si=kQ8-gA6lRaqt14KC3UKIRQ\">Kiddo CSA</a>.",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5?si=--hxqmT-R7CVS4n0t5NXmA\">DJ Sliqe</a>.",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 168256,
       "name": "Amadlozi",
       "url": "https://open.spotify.com/track/4pHdZenBKRDOpredaVILeG"
@@ -900,6 +900,28 @@
       "duration_ms": 97522,
       "name": "Batshele",
       "url": "https://open.spotify.com/track/4uq0IOVkX6OXt9Ua7zGuRj"
+    },
+    {
+      "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/0FZL0u9VZf4fmIP77dKtRV"
+      },
+      "artists": [
+        {
+          "name": "Dali Danger",
+          "url": "https://open.spotify.com/artist/5uS7Vl0LAEz2Rj7oDeeM4Y"
+        },
+        {
+          "name": "ZULO",
+          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268085,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/0gnZj2ZJIdSZ87W43RapTr"
     },
     {
       "album": {
@@ -1800,7 +1822,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 186357,
       "name": "Changed",
       "url": "https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9"
@@ -1982,7 +2004,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 182125,
       "name": "CONTRABAND",
       "url": "https://open.spotify.com/track/5TrejjHSxvWwl2mXjcvhcV"
@@ -2310,7 +2332,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 109773,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5tlZjXxSeaaJEd4aYrHkHg"
@@ -2540,6 +2562,36 @@
       "duration_ms": 243944,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/1e5O3SrnSLWnj47I29Arj0"
+    },
+    {
+      "album": {
+        "name": "Ekhoneni",
+        "url": "https://open.spotify.com/album/7nDucmYO951ZQkK3uOrXxe"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        },
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        },
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Ekhoneni",
+      "url": "https://open.spotify.com/track/6Poyt13mWsJMIBC6o5dKz1"
     },
     {
       "album": {
@@ -3002,6 +3054,32 @@
       "duration_ms": 204750,
       "name": "For My Sanity",
       "url": "https://open.spotify.com/track/5niAmm5V1bj0wY4IVcwd3u"
+    },
+    {
+      "album": {
+        "name": "FOR THE GRAM",
+        "url": "https://open.spotify.com/album/4Hw394CxXXA7PliWlabWAv"
+      },
+      "artists": [
+        {
+          "name": "RAF DON",
+          "url": "https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq"
+        },
+        {
+          "name": "Manu WorldStar",
+          "url": "https://open.spotify.com/artist/4P9liSYQDYgABacn43YzV4"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220968,
+      "name": "FOR THE GRAM",
+      "url": "https://open.spotify.com/track/5p3ZL4uT77rMoougGp96TT"
     },
     {
       "album": {
@@ -3914,7 +3992,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 192000,
       "name": "HELL OF A NIGHT",
       "url": "https://open.spotify.com/track/2ELY1HHLenJu04h7UmAf1I"
@@ -4094,7 +4172,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 264615,
       "name": "Homeground",
       "url": "https://open.spotify.com/track/7iAAVGVJ59SR7t2nL2VdY3"
@@ -5694,6 +5772,28 @@
       "duration_ms": 172773,
       "name": "Mask On [Feat. Joey BadA$$]",
       "url": "https://open.spotify.com/track/3ICvetSViYp5NedhfHCq6i"
+    },
+    {
+      "album": {
+        "name": "Days Before The Heist",
+        "url": "https://open.spotify.com/album/3AkBjY1dU3eNyIB3KTIRPx"
+      },
+      "artists": [
+        {
+          "name": "Mark Akol",
+          "url": "https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb"
+        },
+        {
+          "name": "Sipho the Gift",
+          "url": "https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168316,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/2kVqDqNIMSpbgDnbwq2QX0"
     },
     {
       "album": {
@@ -9451,6 +9551,32 @@
     },
     {
       "album": {
+        "name": "The Second Kind",
+        "url": "https://open.spotify.com/album/3w59SKiZBq2MdS0GdibdfF"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        },
+        {
+          "name": "Naleli",
+          "url": "https://open.spotify.com/artist/49hIn96kDC6AF4Ks5AglNU"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266898,
+      "name": "The Second Kind",
+      "url": "https://open.spotify.com/track/7sxN6DpvFJoa2cZTiVLbLW"
+    },
+    {
+      "album": {
         "name": "The She Can Anthem",
         "url": "https://open.spotify.com/album/0JCLc8FpytB6xiOsyzW17a"
       },
@@ -10062,6 +10188,24 @@
       "duration_ms": 271017,
       "name": "umoya",
       "url": "https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC"
+    },
+    {
+      "album": {
+        "name": "uMuthi (Voodoo)",
+        "url": "https://open.spotify.com/album/2EsVQTWJweTPwyaOMv3F3Z"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "uMuthi (Voodoo)",
+      "url": "https://open.spotify.com/track/54n22WyyizzqQyXyKG2wkp"
     },
     {
       "album": {

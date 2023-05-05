@@ -4,14 +4,14 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-268 songs - 19 hr 59 min
+269 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Moon River"](https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | ["Moon River"](https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf) | 2:52 | 2023-03-16 |  |
 | ['Round Midnight](https://open.spotify.com/track/11Ixvu6JuymPvgpOhQlR1M) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 5:51 | 2021-12-17 | 2022-07-29 |
 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 | 2021-12-17 |  |
-| ['Tis Autumn](https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Pat LaBarbera](https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja) | ['Tis Autumn](https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD) | 4:35 | 2022-09-27 |  |
+| ['Tis Autumn](https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Pat LaBarbera](https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja) | ['Tis Autumn](https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD) | 4:35 | 2022-09-27 | 2023-05-05 |
 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 | 2022-02-18 |  |
 | [A Bad Case Of The Blues](https://open.spotify.com/track/6Mdh8mHdajX5slhofHJkKB) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Gold](https://open.spotify.com/album/1H1HA3q5mq61SFUs9HIhoT) | 2:37 | 2021-12-17 |  |
 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2021-12-17 | 2022-03-05 |
@@ -24,6 +24,7 @@
 | [All My Life](https://open.spotify.com/track/66lXU76DwetHysKwFyLLQd) | [Georgia Mancio](https://open.spotify.com/artist/7dZ9DyEqGCUqf50Lk7Eriw), [Alan Broadbent](https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1) | [All My Life](https://open.spotify.com/album/2UcfJYKN2HaU3eUAzcQtif) | 2:46 | 2021-12-17 |  |
 | [Always and Forever](https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX) | [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq), [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Mårten Lundgren](https://open.spotify.com/artist/0SnwpOHFkjrgXRZ0QBRfUU), [Martin SjÖstedt](https://open.spotify.com/artist/6bdkZsFJke5IhwIe7MEK8Y), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Roots](https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP) | 6:04 | 2022-02-24 |  |
 | [And So It Goes](https://open.spotify.com/track/703WlQONsXodIABGbGvF6M) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Return To You](https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj) | 5:12 | 2021-12-17 |  |
+| [April Fooled Me](https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [April Fooled Me](https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid) | 3:51 | 2023-05-04 |  |
 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2021-12-17 | 2022-11-23 |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2021-12-17 |  |
 | [Because I Love You](https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 4:10 | 2022-02-18 |  |

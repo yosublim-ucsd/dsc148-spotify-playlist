@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,415 likes - 201 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,429 likes - 201 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 200 | [Bottas](https://open.spotify.com/track/5G5Xl4HHGJM6MrMAUIb538) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:28 |
 | 201 | [PortoBello](https://open.spotify.com/track/4HXcnBfKuqGC2fIYXquurs) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:46 |
 
-Snapshot ID: `MCw4NmQ4NmM0MmFjMTRjZjVjZDI5Mjg1YmIwM2I4YjYyYWIyZTYzYjkz`
+Snapshot ID: `MCw4MTNhNzdhNTM5NjBlZDc0OWE5Y2YzZmJkZTM0Mjc0OTQ4NzM3NTc3`

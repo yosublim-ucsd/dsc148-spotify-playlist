@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: ERRE
 
-380 songs - 19 hr 43 min
+381 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Como Quiera](https://open.spotify.com/track/0WaFzSRnJzAIyKY5jmcuFw) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Como Quiera](https://open.spotify.com/album/6DrGqqLabbWi10BHJf7a6d) | 3:50 | 2022-05-14 | 2022-08-06 |
 | [Comprobado](https://open.spotify.com/track/6Bc611lAS5IxW05vlJ8xYv) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Pinch3 Polo](https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR) | 2:36 | 2022-09-09 | 2023-02-18 |
 | [Confiar En Mi](https://open.spotify.com/track/3wVm1plAjtErQGzWeAsNT4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Confiar En Mi](https://open.spotify.com/album/07pKI6CF1hD9kTgLGQrNhp) | 4:44 | 2022-05-14 | 2022-08-27 |
+| [Corazon Romantico](https://open.spotify.com/track/5y4Tuz6zZE0J3tokR8YRLS) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Corazon Romantico](https://open.spotify.com/album/3KSSAeH5WvviOZZWXnSMVd) | 3:14 | 2023-04-21 |  |
 | [Cuestiones De Amor \(Tus Ojitos\)](https://open.spotify.com/track/4jNmKg4JVMGi24oTWsuvfA) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Cuestiones De Amor \(Tus Ojitos\)](https://open.spotify.com/album/4RHL2l7iXTD8daKZXAxh4K) | 4:08 | 2022-05-27 | 2022-09-09 |
 | [Culpables](https://open.spotify.com/track/30Up8qgwk0CiwpoSt4IAK6) | [Luis Aguirre](https://open.spotify.com/artist/5QZhXymFQfZZkb8UE09RMB) | [Culpables](https://open.spotify.com/album/0IVy7jUm9adIBg3n3IKUD1) | 2:45 | 2022-07-22 | 2022-09-09 |
 | [Cupido](https://open.spotify.com/track/7dr8cs4y5pcLBPecOYGgjX) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj) | [Cupido](https://open.spotify.com/album/50RoQVDyXvF4jCrXUEO7NM) | 2:26 | 2022-05-14 | 2022-06-04 |

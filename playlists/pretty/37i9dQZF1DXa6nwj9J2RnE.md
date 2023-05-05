@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,573 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,574 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 59 | [Suicide Club](https://open.spotify.com/track/0pnED1pCTIMwyyeAEoux2g) | [GIAN](https://open.spotify.com/artist/5T9IzVTXZRCWuaEZzInXP3), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Suicide Club](https://open.spotify.com/album/1NiAQnXZVBbldqwJDv5GAe) | 3:00 |
 | 60 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 |
 
-Snapshot ID: `MCwyOWE1ZTliNTJjYjRhYzc0NTk3MjUyM2YxMTU4ZDRjOGQxYjgxYzMw`
+Snapshot ID: `MCxlYzFiNjFiM2UzNjQ4MTMyMmE2MWRhZDIwMTg3MDZiOTIzOTFjZmRk`

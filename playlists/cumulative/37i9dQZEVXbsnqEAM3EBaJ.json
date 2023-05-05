@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 188132,
       "name": "I Follow You",
       "url": "https://open.spotify.com/track/2MG6yDcAFpTmdl3tmc761e"
@@ -3688,7 +3688,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 229743,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/4NUayEJmjPpiRYdges96lA"
@@ -4434,6 +4434,24 @@
       "duration_ms": 51693,
       "name": "Remember...",
       "url": "https://open.spotify.com/track/0nTGTdfcCSlVWjGK2jHZGq"
+    },
+    {
+      "album": {
+        "name": "Two Rooms",
+        "url": "https://open.spotify.com/album/2A3RyDWQbBQQmuHXmh8vhB"
+      },
+      "artists": [
+        {
+          "name": "Human Tetris",
+          "url": "https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363879,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/3ucZdykApaZi532zaNPbgi"
     },
     {
       "album": {
@@ -6294,7 +6312,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 423013,
       "name": "You Must Burn!",
       "url": "https://open.spotify.com/track/1ALXFmNr7lrTug2LAE989q"

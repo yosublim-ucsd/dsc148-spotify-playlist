@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nines",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Tion Wayne",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2496,6 +2496,28 @@
       "duration_ms": 188333,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq"
+    },
+    {
+      "album": {
+        "name": "Back 2 Back (feat. Potter Payper)",
+        "url": "https://open.spotify.com/album/2vbR7MuRmXGWfIm3zEQpdf"
+      },
+      "artists": [
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        },
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151176,
+      "name": "Back 2 Back (feat. Potter Payper)",
+      "url": "https://open.spotify.com/track/6fRWobvU9232QJsfZi2Bnp"
     },
     {
       "album": {
@@ -10410,7 +10432,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 159183,
       "name": "Four Bricks",
       "url": "https://open.spotify.com/track/7tq6BXqv4FjpIALV3yraZ4"
@@ -11788,6 +11810,24 @@
       "duration_ms": 156000,
       "name": "Hate You, I Love You",
       "url": "https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160519,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0"
     },
     {
       "album": {
@@ -14850,7 +14890,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 169795,
       "name": "Loaf Man",
       "url": "https://open.spotify.com/track/3x5oROGRU3kHEAttcZo5bw"
@@ -16693,6 +16733,28 @@
     },
     {
       "album": {
+        "name": "MOP",
+        "url": "https://open.spotify.com/album/5KZLDvg135ffnDcl6IRaja"
+      },
+      "artists": [
+        {
+          "name": "Squeeks",
+          "url": "https://open.spotify.com/artist/52jwaLGrYTCFAEwDW0rI52"
+        },
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212218,
+      "name": "MOP",
+      "url": "https://open.spotify.com/track/6vKzxT4FXGHECZEw3tIIge"
+    },
+    {
+      "album": {
         "name": "Norf Face",
         "url": "https://open.spotify.com/album/7o6bhqYxz0nWyjwCYsmARy"
       },
@@ -17728,7 +17790,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 212920,
       "name": "No Difference",
       "url": "https://open.spotify.com/track/5LtruwKEsXHdOareYrBklX"
@@ -18802,7 +18864,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 170958,
       "name": "One Take",
       "url": "https://open.spotify.com/track/2mqsbs01P5yuxd1jveySmt"
@@ -20394,7 +20456,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 150573,
       "name": "Pray 4 Me (feat. Clavish)",
       "url": "https://open.spotify.com/track/0q7K2kXH3S3pJxhDO5EeMx"
@@ -22957,6 +23019,24 @@
     },
     {
       "album": {
+        "name": "Shot Caller",
+        "url": "https://open.spotify.com/album/5zYCqvXuubHbcl2jippuyf"
+      },
+      "artists": [
+        {
+          "name": "TS Lagga",
+          "url": "https://open.spotify.com/artist/5VqUF315E3edZbVxgRn7FO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Shot Caller",
+      "url": "https://open.spotify.com/track/56icWYK58EFvIarTZ8MBDP"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/4lD3pSqSVQRbkk4DDRnW78"
       },
@@ -24722,7 +24802,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 129229,
       "name": "Survival Freestyle",
       "url": "https://open.spotify.com/track/2gj1sVUJJZ155lBOpBLCGK"
@@ -27778,6 +27858,24 @@
       "duration_ms": 264861,
       "name": "Welcome To The Hood",
       "url": "https://open.spotify.com/track/1befpLovh2OI2Z5cb9CnLG"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Strip",
+        "url": "https://open.spotify.com/album/7FTjTrPWYZpf41HeUwY8Md"
+      },
+      "artists": [
+        {
+          "name": "HAZEY",
+          "url": "https://open.spotify.com/artist/6IJaUfq4P3Zjifp4YIJ8oG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108936,
+      "name": "Welcome To The Strip",
+      "url": "https://open.spotify.com/track/3qXvl17Lw4dgUiBbry2Krk"
     },
     {
       "album": {

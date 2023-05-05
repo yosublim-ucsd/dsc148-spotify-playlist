@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. delilah bon",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. bring me the horizon",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -381,6 +381,28 @@
     },
     {
       "album": {
+        "name": "anything u want",
+        "url": "https://open.spotify.com/album/73CV9zUvuDoKWkBCnBFzIV"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "anything u want",
+      "url": "https://open.spotify.com/track/4iV9i4oVWpJdwnI86VPh5o"
+    },
+    {
+      "album": {
         "name": "Archon",
         "url": "https://open.spotify.com/album/28f8Dn5kYQQKmUoJx74V0Y"
       },
@@ -688,7 +710,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 183016,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C"
@@ -1626,6 +1648,24 @@
       "duration_ms": 132631,
       "name": "complicated",
       "url": "https://open.spotify.com/track/4J65QmTZvsq9SCvuY8ej3W"
+    },
+    {
+      "album": {
+        "name": "Cops and robbers",
+        "url": "https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265959,
+      "name": "Cops and robbers",
+      "url": "https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW"
     },
     {
       "album": {
@@ -3112,7 +3152,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 132300,
       "name": "Freak Baby",
       "url": "https://open.spotify.com/track/4Nf3j6BzVhqf0AFTQPgaTC"
@@ -4930,7 +4970,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 125454,
       "name": "KILL ALL PREDATORS",
       "url": "https://open.spotify.com/track/116m1FqbddR1KEFTw7ZItH"
@@ -5339,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "album": {
         "name": "Stay Ugly EP",
         "url": "https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7"
       },
@@ -5585,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "MEN ARE TRASH (WAH WAH)",
+        "url": "https://open.spotify.com/album/169f0dzayXAYQi9722uM0N"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "MEN ARE TRASH (WAH WAH)",
+      "url": "https://open.spotify.com/track/1mTllBEUL4B3eispIVxtdO"
+    },
+    {
+      "album": {
         "name": "MENTHOL*",
         "url": "https://open.spotify.com/album/4fdI8lc6iPhJrsNi7pBgPl"
       },
@@ -5778,7 +5854,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 178263,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0"
@@ -6596,7 +6672,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 233000,
       "name": "Pigs",
       "url": "https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV"
@@ -7995,6 +8071,24 @@
     },
     {
       "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150440,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi"
+    },
+    {
+      "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
       },
@@ -8010,6 +8104,24 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "album": {
+        "name": "SPYD4 K1NG",
+        "url": "https://open.spotify.com/album/1xkuGHZ4eWoZGO7XZQoN4Q"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192648,
+      "name": "SPYD4 K1NG",
+      "url": "https://open.spotify.com/track/0u1inKbr4lCWrjn11W9ydh"
     },
     {
       "album": {

@@ -496,10 +496,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 259466,
       "name": "International Love Song",
       "url": "https://open.spotify.com/track/3CVWdo53SX1WNqENdXXcrR"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry Baby (I'm Only Swimming)",
+        "url": "https://open.spotify.com/album/6CaKnIXQnlLAqU4WOALBM9"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "International Love Song",
+      "url": "https://open.spotify.com/track/3R3cXK6BHZ5JDAgPOAHPQw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-349 songs - 21 hr 45 min
+350 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 | 2020-08-09 |  |
 | [Drown](https://open.spotify.com/track/3bGmob8nw4PPfOQTwIirIS) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5yoQ1d6TathCxE8EJzG3dW) | 4:04 | 2022-04-01 | 2022-08-26 |
 | [Drown](https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP) | 4:04 | 2022-07-06 | 2023-03-13 |
-| [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 | 2022-07-06 |  |
+| [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 | 2022-07-06 | 2023-05-05 |
 | [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 | 2021-03-26 | 2022-10-14 |
 | [Du pouvoir/Power](https://open.spotify.com/track/2Y0xdEsWhfDAsvtMzFqJ73) | [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Du pouvoir](https://open.spotify.com/album/5otAnfZLjI3n5zsx8eOPKY) | 3:20 | 2019-11-19\* | 2020-08-09 |
 | [Dumb](https://open.spotify.com/track/6kCQsjFV3SubIrNTDkGrdr) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Dumb](https://open.spotify.com/album/0N42Coxg2wBuzP1LyB2mkq) | 3:21 | 2019-11-19\* | 2020-08-09 |
@@ -115,6 +115,7 @@
 | [Find Home](https://open.spotify.com/track/2JeIlGQoHJslh4fzQPLQzM) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Find Home](https://open.spotify.com/album/0hAsKiGT8M3NmCgk1aiVdi) | 3:13 | 2021-04-30 | 2022-07-29 |
 | [Floating Free](https://open.spotify.com/track/6jKDR323PynjvTkoWTNbqx) | [Sleep Habits](https://open.spotify.com/artist/5LHhcikDiP8mvjarcsaz9O) | [Sleep Habits](https://open.spotify.com/album/487rgVFo2vmrtiG3bTMTYK) | 2:45 | 2019-11-19\* | 2020-12-22 |
 | [For You](https://open.spotify.com/track/0mNRaUObyWNDQmCkeKhivy) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/7scLEhIuAJaCp6qUhQqLAy) | 3:47 | 2022-07-06 | 2023-04-02 |
+| [For You](https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC) | 3:47 | 2023-03-24 |  |
 | [For You](https://open.spotify.com/track/7FX5YbkSnFCOLASH7MLxjU) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V) | 3:47 | 2020-08-09 | 2022-11-09 |
 | [Fortunes](https://open.spotify.com/track/0sKMqfLQfT5py9Rzo3w0ge) | [HANYA](https://open.spotify.com/artist/3Wx8eakM1zk8tWXy2HOGT9) | [Fortunes](https://open.spotify.com/album/2LJ33cu5e1lxnZVBdZbH2B) | 3:46 | 2021-10-13 | 2022-07-14 |
 | [French Movie](https://open.spotify.com/track/5neke7wAgH6BT43KoYgowg) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [French Movie](https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb) | 3:19 | 2023-03-24 |  |

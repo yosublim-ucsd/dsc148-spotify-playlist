@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 196884,
       "name": "Anuragada Teru Sagide (From \"Ragavendra The Warrior\")",
       "url": "https://open.spotify.com/track/1qLTLzUbUmZZezWpO4gD6m"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 279259,
       "name": "Bandebudthu Urabdange Nadeyo Electionu",
       "url": "https://open.spotify.com/track/5nK7PZrNHVeDCz2mjPmsKq"
@@ -5616,7 +5616,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 242261,
       "name": "Idu Nanna Ninna (From \"Parimala D'souza\")",
       "url": "https://open.spotify.com/track/3jJe3ZPOATQcKAnEE7d4rb"
@@ -6966,6 +6966,32 @@
       "duration_ms": 212993,
       "name": "Kareyade",
       "url": "https://open.spotify.com/track/1Z6A1twrpQDZa4uaBl3Zuf"
+    },
+    {
+      "album": {
+        "name": "Kayyaale (From \"Takkar\")",
+        "url": "https://open.spotify.com/album/7w1v13SK7iRuO7XSfqj06H"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        },
+        {
+          "name": "Niranjana Ramanan",
+          "url": "https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211219,
+      "name": "Kayyaale - From \"Takkar\"",
+      "url": "https://open.spotify.com/track/6uRZx67UeDqyDs39Bo7Am2"
     },
     {
       "album": {
@@ -11916,7 +11942,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 183111,
       "name": "PS Anthem (From \u201cPS-2\") [Kannada]",
       "url": "https://open.spotify.com/track/0xf1Yhdwv1HTuv6oyHrRn3"
@@ -12874,6 +12900,28 @@
       "duration_ms": 233419,
       "name": "Sanna Sanna Kanasu",
       "url": "https://open.spotify.com/track/74U35eUUi95rWLtLFG14Zw"
+    },
+    {
+      "album": {
+        "name": "Saraayi Kududre Jhum Anthade (from \"Bad Manners\")",
+        "url": "https://open.spotify.com/album/3DfUtpm8CciNdGp9wikC88"
+      },
+      "artists": [
+        {
+          "name": "Charanraj",
+          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
+        },
+        {
+          "name": "MS.Umesh",
+          "url": "https://open.spotify.com/artist/0AEPcRWWVLW0T1TLBDfqEI"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189698,
+      "name": "Saraayi Kududre Jhum Anthade (from \"Bad Manners\")",
+      "url": "https://open.spotify.com/track/3jUnmjfouWTI2oZbhbuMcH"
     },
     {
       "album": {
@@ -14804,6 +14852,28 @@
       "duration_ms": 212857,
       "name": "Yavano Namage Custody (From \"Maha Purusha\")",
       "url": "https://open.spotify.com/track/3QfTbzFTXKxBYnF4i9rv6w"
+    },
+    {
+      "album": {
+        "name": "Yen Chanda Kaansthavle (from \"Dheera Samrat\")",
+        "url": "https://open.spotify.com/album/03os9WIC1aumHduX1k98Ax"
+      },
+      "artists": [
+        {
+          "name": "Tippu",
+          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
+        },
+        {
+          "name": "Raghav Subhash",
+          "url": "https://open.spotify.com/artist/7G0A91tkDOhQmW5HbHJlpR"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286207,
+      "name": "Yen Chanda Kaansthavle (from \"Dheera Samrat\")",
+      "url": "https://open.spotify.com/track/45m6b8LCBhaioxiJEhSZTI"
     },
     {
       "album": {

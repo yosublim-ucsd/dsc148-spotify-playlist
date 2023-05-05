@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 231733,
       "name": "Existing Closer or Deeper in Space",
       "url": "https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU"
@@ -3390,7 +3390,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 231760,
       "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
       "url": "https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC"
@@ -3574,7 +3574,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 241447,
       "name": "Fervedouro Dois",
       "url": "https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4"
@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 339348,
       "name": "Into The Blue",
       "url": "https://open.spotify.com/track/2Ou5fxpYTS1t0mNCDVzsKx"
@@ -8936,6 +8936,24 @@
     {
       "album": {
         "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225289,
+      "name": "Sunshine in 1929",
+      "url": "https://open.spotify.com/track/4b4HuNGu6nNAsyNwID91nb"
+    },
+    {
+      "album": {
+        "name": "People On Sunday",
         "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
       },
       "artists": [
@@ -9518,6 +9536,24 @@
       "duration_ms": 208000,
       "name": "The Sudden Rush",
       "url": "https://open.spotify.com/track/1BWAnAegNKJpjeaIq4oTMv"
+    },
+    {
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "The Sudden Rush",
+      "url": "https://open.spotify.com/track/7ic8N154Eqo5Gd5fU38Zku"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-364 songs - 21 hr 40 min
+367 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [DESTRUCTION](https://open.spotify.com/track/2PUdwSaySDli3XLtHpnuBj) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Destruction](https://open.spotify.com/album/4P3PkLlYaGzBdpbCX8O0vS) | 2:40 | 2020-10-10\* | 2021-02-25 |
 | [Dinosaur](https://open.spotify.com/track/5oGACsJ9GXJlWVdyC7vvI0) | [Merpire](https://open.spotify.com/artist/4oTaPrNvNtZW1MwNmmhxuY) | [Dinosaur](https://open.spotify.com/album/6GbEynYvLcantK7mmVAynD) | 3:38 | 2021-03-16 | 2022-03-18 |
 | [Do U Connect?](https://open.spotify.com/track/74gGE4jJOIBdTZTDdn57KN) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [I Just Do What God Tells Me To Do](https://open.spotify.com/album/0op8vjTkaatdmpqIjm46Ix) | 2:27 | 2020-10-10\* | 2021-05-13 |
+| [Don't Get Me Wrong](https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Don't Get Me Wrong](https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm) | 2:53 | 2023-05-05 |  |
 | [Don't Let the Devil Take Another Day](https://open.spotify.com/track/50mvz2sHxx13JZ2qwy8W71) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Kind \(Deluxe\)](https://open.spotify.com/album/5eKfSbsVTRHvUI7r7DdyYR) | 3:04 | 2020-10-10\* | 2021-02-25 |
 | [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 | 2022-08-19 |  |
 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 | 2020-10-10\* | 2021-05-13 |
@@ -277,6 +278,7 @@
 | [Shut It Down](https://open.spotify.com/track/4tRR0oqkIFjs39wC5cAuK6) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Colorado](https://open.spotify.com/album/47EbZp22zR6rGhKJJsuZBv) | 3:44 | 2020-10-10\* | 2021-02-25 |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-13 | 2022-03-18 |
 | [Sick of The Silence](https://open.spotify.com/track/2x9Hr7Fuf9E8Z7vONIHPyM) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Sick of The Silence](https://open.spotify.com/album/1Twv557qLgnS0hpVQLwDYD) | 3:08 | 2021-06-12 |  |
+| [Simple](https://open.spotify.com/track/4mNb2xRwNv3Kg9iA6FVwUb) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [I Saw The Future](https://open.spotify.com/album/2m9fGyYjgPmS2xU0ugLHyc) | 3:29 | 2023-05-05 |  |
 | [Sing \- Reworked](https://open.spotify.com/track/1NCxmZdBcaaV7D4fc6NdKk) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights \(Reworked\)](https://open.spotify.com/album/2ERh42P9SszlEESjnV6cQp) | 2:47 | 2020-10-10\* | 2021-02-25 |
 | [Sing Along](https://open.spotify.com/track/5Q2gtn5mYtdlqu76kp20sR) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Sing Along](https://open.spotify.com/album/78jC17cW2py0Yw3NPSJIAG) | 2:54 | 2020-10-10\* | 2021-02-25 |
 | [Sinner](https://open.spotify.com/track/7z21IYXNRcxdmubc6YG13B) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:27 | 2020-10-10\* | 2021-02-25 |
@@ -299,6 +301,7 @@
 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 | 2020-10-10\* | 2021-02-25 |
 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-07-04 |  |
 | [Strangers](https://open.spotify.com/track/07wX6N12kg4zZ2gI8IrB1y) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Strangers / History of Violence](https://open.spotify.com/album/0cQzfaeCuMomU3OfhzPEW7) | 3:25 | 2020-10-10\* | 2021-02-25 |
+| [Strawberry Daydream](https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS) | 3:07 | 2023-05-05 |  |
 | [Stupid Is As Stupid Does \(feat\. K.Flay\)](https://open.spotify.com/track/7gpftvWH71HcwbYPe4CgMB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Hurry Up And Wait](https://open.spotify.com/album/42pD3Dn7Oa7L3XLEzWYvDz) | 3:00 | 2020-10-10\* | 2021-05-13 |
 | [Sugar Shack](https://open.spotify.com/track/2znRvlKPf9UWTLM6H3N0JQ) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Sugar Shack](https://open.spotify.com/album/0TUHKmsD9J2d0vVepO3jqP) | 3:58 | 2020-10-10\* | 2021-02-25 |
 | [Surrounded By Spies](https://open.spotify.com/track/5LXezNuUE2SRJhoqiwTs3P) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Surrounded By Spies](https://open.spotify.com/album/1oXC9xTnpHTqZ4zupV54Md) | 5:14 | 2021-11-12 |  |

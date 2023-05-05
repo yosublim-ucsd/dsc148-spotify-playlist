@@ -6739,6 +6739,28 @@
     },
     {
       "album": {
+        "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) [Orchestral - from Queen Charlotte: A Bridgerton Story [Covers from the Netflix Series]]",
+        "url": "https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Queen Charlotte's Global Orchestra",
+          "url": "https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294250,
+      "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) - Orchestral Version",
+      "url": "https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD"
+    },
+    {
+      "album": {
         "name": "If the Answer Isn't Love",
         "url": "https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3"
       },

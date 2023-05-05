@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Beartooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,161 likes - 151 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,364 likes - 151 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 37 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
 | 38 | [Never Ending Moment](https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Never Ending Moment](https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW) | 4:17 |
 | 39 | [Crying While You're Dancing](https://open.spotify.com/track/2Qw2kYG5hVmmPmu0JWTiyk) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/0DY5kJhDXPfDjVdSKNvWlL) | 3:35 |
-| 40 | [Devastate](https://open.spotify.com/track/5DK1PzaTVvPtINfiywGg9H) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Extrovert](https://open.spotify.com/album/716AG0CLrpw0sP54u1aWvy) | 3:32 |
+| 40 | [Devastate](https://open.spotify.com/track/7vxqsIF0X2BrYKazuIWzoh) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Extrovert](https://open.spotify.com/album/2rv0XADiy2bRhJ2ROPAqFy) | 3:32 |
 | 41 | [Soul On Fire](https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX) | 4:05 |
 | 42 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 |
 | 43 | [Superstar \(feat\. Remington Leith\)](https://open.spotify.com/track/0k7V0datb9PpWRDGkB0xzq) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO), [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [Remington Leith](https://open.spotify.com/artist/5b5pXiq8oJIyU8OZWpwOWL) | [DOGMA](https://open.spotify.com/album/3Pjw4lSnuJesklPH3g3JcE) | 3:08 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [Blow \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/3YqJ7QhsNbmluU3qzbd3ns) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Love, Drugs & Misery](https://open.spotify.com/album/0P49eFNrsqjfnz4txLvFe6) | 2:45 |
 | 151 | [One More Day](https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 4:28 |
 
-Snapshot ID: `MCxkMGFlY2Q5Zjc2MzIzMDdlNDg2ZTJiMjlmZGQ3ZjYxMGY5MzJiZGU2`
+Snapshot ID: `MCxkMmJkNDU5MWUzZTc3ZGQ3NGI3NjEzODk2YzUxNWU5NjU1Zjc3Mzdj`

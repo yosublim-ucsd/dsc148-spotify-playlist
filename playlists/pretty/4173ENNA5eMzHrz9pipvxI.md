@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  R3HAB, INNA, Sash!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,690 likes - 36 songs - 1 hr 40 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,701 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 35 | [Move Your Body \(RAIZHELL Remix\) \- Slowed Version](https://open.spotify.com/track/02FA8U1HALz84ty4W6XZFw) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Move Your Body \(RAIZHELL Remix\) \[Slowed Version\]](https://open.spotify.com/album/0TlEL0XAPhHyTJXB6Tc944) | 2:52 |
 | 36 | [Move Your Body \(RAIZHELL Remix\) \- Sped Up Version](https://open.spotify.com/track/1bapyODGIVM0PpTay7kxh5) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Move Your Body \(RAIZHELL Remix\) \[Sped Up Version\]](https://open.spotify.com/album/71qg3j99p4f9yqPDiWmmrF) | 2:07 |
 
-Snapshot ID: `NjUxMCw0ODA0MmFhNmMxMjFhMmUyZjk2YjVlZDczM2RiZGUyMDFmMzFhNjE2`
+Snapshot ID: `NjUxMSxhZmNlMWU3ZTAyMmU4Mjg0YzgzZjRkODIwZmVhZjE2YWM1MGQ0YjM2`

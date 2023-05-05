@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Sorai",
+        "url": "https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278333,
+      "name": "Sorai",
+      "url": "https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf"
+    },
+    {
+      "album": {
         "name": "Sudah (Story of Kale - Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6PDnmCt2aYEQF3YHaCOVHI"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 241763,
       "name": "Takkan Terganti",
       "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"

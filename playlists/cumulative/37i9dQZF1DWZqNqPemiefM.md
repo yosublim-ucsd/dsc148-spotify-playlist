@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-461 songs - 1 day 12 hr 44 min
+463 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,10 +159,11 @@
 | [H2O FRM Faucet](https://open.spotify.com/track/7xug23Y2R1XliELQ5a8jv6) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [mb\_s\_4\_ch](https://open.spotify.com/album/0redlBmPu1BWruATZuidTV) | 4:39 | 2022-04-07 | 2022-06-23 |
 | [Hair Air](https://open.spotify.com/track/62x6xXMy8stPbofzR9zQMb) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 8:23 | 2022-04-07 | 2022-07-22 |
 | [Happy](https://open.spotify.com/track/7KJww1VbQBMYAXlXSQrvYk) | [Gutevolk](https://open.spotify.com/artist/3q0Z5NCEUBupppTF8ivRTR) | [Happy](https://open.spotify.com/album/4k0foLomaTwzgbZXJ31yUP) | 4:16 | 2022-03-31 | 2022-07-19 |
-| [Haru](https://open.spotify.com/track/1UYQz9iqSCdLNc9UVkJo0o) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 4:39 | 2022-04-16 |  |
+| [Haru](https://open.spotify.com/track/1UYQz9iqSCdLNc9UVkJo0o) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 4:39 | 2022-04-16 | 2023-05-05 |
 | [Hawaii SETI](https://open.spotify.com/track/6wJ1OrQPMg0PPlJ9FGtCWz) | [Reliq](https://open.spotify.com/artist/30105PqPSXuO4sQxPwWAR0) | [Lab Story](https://open.spotify.com/album/5ouJMoEKwD0tVAx5yFqzRO) | 4:01 | 2022-04-07 | 2022-05-05 |
 | [Haze](https://open.spotify.com/track/5FWxDuuGMsNBZj3R9Eltwd) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK), [Shushi Matsuura](https://open.spotify.com/artist/5yBmc1Cewr6L2KsxuMU3QP) | [Pale](https://open.spotify.com/album/0vFSmKPhft7GcADTEypWpA) | 2:12 | 2022-04-16 | 2022-07-09 |
 | [Haze Garden \(Prayer\)](https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Haze Garden \(Prayer\)](https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ) | 3:18 | 2022-07-28 |  |
+| [Hearsay](https://open.spotify.com/track/1ijxEsdn2IqzjesRbdROHt) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m) | [Sparse Memory](https://open.spotify.com/album/3sXf7vC0g92GljNNdWmHX6) | 6:36 | 2023-05-04 |  |
 | [Help Ourselves](https://open.spotify.com/track/2fB8ajWM371hTqHezuAomb) | [Minamo](https://open.spotify.com/artist/1dl7cSR3edNJ0oPaApQIb7) | [Durée](https://open.spotify.com/album/7L9FIEhH3Ph0YskG8F6QOp) | 7:03 | 2022-03-31 | 2022-04-09 |
 | [Hikari To Mizu](https://open.spotify.com/track/5AyQfkapcdfE6nl89mY1cp) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Broken Belief](https://open.spotify.com/album/3goyDdPVoNpBK5OroPcHfv) | 4:37 | 2022-03-31 | 2022-08-30 |
 | [Hiljaa Metsässä](https://open.spotify.com/track/67j6OYmt7hgNEtU0rst4hV) | [Sora](https://open.spotify.com/artist/4Ni1PrBRTgC0Lyq2evf56R) | [Fade to What](https://open.spotify.com/album/0PdzxZ7ixEz59r4CJYseEN) | 9:32 | 2022-03-31 | 2022-04-13 |
@@ -281,7 +282,7 @@
 | [pause \(almost equal to\) play](https://open.spotify.com/track/4LB8iSej8QryIZ3Vk0XNmS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Pause \(almost equal to\) Play](https://open.spotify.com/album/634uEr8wlpH7CVq52UQTgW) | 4:45 | 2022-05-26 |  |
 | [perfect drawing](https://open.spotify.com/track/6To87kWCF7WHTV1JnPuOVn) | [birds humming the beat](https://open.spotify.com/artist/1uDjTj9C93enyzFd5lJ0sZ) | [perfect drawing](https://open.spotify.com/album/1Bc92sRV3kRlmRaI80tnk1) | 4:51 | 2022-04-28 | 2022-07-29 |
 | [Photosynthese](https://open.spotify.com/track/5qYwa7b6oBMg3L1Lrr7bib) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 8:02 | 2022-03-31 | 2022-07-27 |
-| [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-09-22 |  |
+| [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-09-22 | 2023-05-05 |
 | [Pink Liquid Cotton Candy](https://open.spotify.com/track/2vAOthypGXJj4Tnu6F3Nm3) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [Hum](https://open.spotify.com/album/4sYguh1IQBO3eArXtcVQIG) | 5:55 | 2022-04-07 | 2022-04-20 |
 | [Pollen](https://open.spotify.com/track/1jcyEOv0oyOGxI7pvVmKzp) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 7:50 | 2022-03-31 | 2022-07-26 |
 | [Positive ID](https://open.spotify.com/track/23HGlosDhFrB0Ik5mSKpno) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [Psychic Music](https://open.spotify.com/album/4jhyEiQeCLjOGM3tiGVRmD) | 3:58 | 2022-03-31 | 2022-07-28 |
@@ -384,6 +385,7 @@
 | [The Town](https://open.spotify.com/track/6a44FbHM1X3SErE2gbQSkJ) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [2 \| Favourite Places](https://open.spotify.com/album/0fTqNmy4y8aS2a0EatQN8x) | 4:18 | 2022-03-31 | 2022-04-21 |
 | [The Voice of a Fish](https://open.spotify.com/track/257qOSfCSNJVjwaT12F29Y) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 6:14 | 2022-04-16 | 2022-07-28 |
 | [The Voice of Flowers](https://open.spotify.com/track/4OxzkLFGrZuOHytUJaClGS) | [aspidistrafly](https://open.spotify.com/artist/4ze7HHThfzYo15SuunBKhd) | [The Voice of Flowers](https://open.spotify.com/album/5BWx3WSGA7Sa6PdXdEdD6J) | 5:24 | 2022-04-07 | 2022-07-29 |
+| [Theme of "Life is Climbing"](https://open.spotify.com/track/72QD2eOduUtm3P4csHCnaV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Theme of "Life is Climbing"](https://open.spotify.com/album/336RBsESEoPbt71FeIT0yw) | 4:55 | 2023-05-04 |  |
 | [Tickling Water](https://open.spotify.com/track/7CvACzbp9qEyqhGE04rshR) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 3:33 | 2022-04-07 | 2022-07-14 |
 | [Time](https://open.spotify.com/track/65eO3LoBH2o85VEugWR0KX) | [Stomu Yamash'ta](https://open.spotify.com/artist/4PQtFdguSmlMb31LGJHBKm), [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1), [Sen Izumi](https://open.spotify.com/artist/6dy5iUJmTB3CJBdeehbJmM) | [Asia Music](https://open.spotify.com/album/0OfTUjO2mqTfJR2Ty3vEjA) | 7:39 | 2022-04-07 | 2022-07-28 |
 | [tiny](https://open.spotify.com/track/5tq6goAwXGws2kEIYZpJBa) | [yutakayanagi](https://open.spotify.com/artist/05Aa898vfDabqUeSXCoYc2) | [flicker](https://open.spotify.com/album/50TqXX0YGw5BXiVkGPGgXc) | 1:47 | 2022-03-31 | 2022-07-23 |

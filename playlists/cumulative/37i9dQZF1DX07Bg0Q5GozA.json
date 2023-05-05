@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Chromeo, La Roux",
+  "description": "New music off the beaten track. Cover: Christian L\u00f6ffler, Mogli",
   "name": "OFF POP",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 233203,
       "name": "ALL I WANT",
       "url": "https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G"
@@ -1621,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242140,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
+    },
+    {
+      "album": {
         "name": "error",
         "url": "https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7"
       },
@@ -1719,6 +1741,42 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267842,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
+    },
+    {
+      "album": {
+        "name": "Shield",
+        "url": "https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208482,
+      "name": "Feels Like My Hands Are On Fire",
+      "url": "https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0lTVQwPiUOS7ut4U01nl1Y"
       },
@@ -1807,6 +1865,28 @@
     },
     {
       "album": {
+        "name": "Finally Dancing",
+        "url": "https://open.spotify.com/album/0ohn99T1dBbsBaegkf53NU"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        },
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210645,
+      "name": "Finally Dancing - Radio Edit",
+      "url": "https://open.spotify.com/track/0yXAPv7nVDyXxmCvah6Nlc"
+    },
+    {
+      "album": {
         "name": "Best Off",
         "url": "https://open.spotify.com/album/0kAEWs07cajZqzJqb0b4YN"
       },
@@ -1876,7 +1956,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 335383,
       "name": "Fold",
       "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
@@ -3099,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "Love Invention",
+        "url": "https://open.spotify.com/album/27EBdWkxelrRDYitkJgH4W"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259105,
+      "name": "Love Invention",
+      "url": "https://open.spotify.com/track/7xn5k1DSJrEIXYAE824Xvm"
+    },
+    {
+      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -3402,7 +3500,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 208780,
       "name": "Milestones - Radio Edit",
       "url": "https://open.spotify.com/track/22VKMqizOl64Gk0E5csJSS"
@@ -3718,7 +3816,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 274773,
       "name": "NeverStop",
       "url": "https://open.spotify.com/track/7nGMJUPdpRyiTjkTnFCkta"
@@ -5042,7 +5140,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 153374,
       "name": "Sunday by the River",
       "url": "https://open.spotify.com/track/5SjdXpQqq54uRrlSXv12i4"
@@ -5392,7 +5490,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 172826,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/6zbDTSasU5dhlAH3knfyjA"
@@ -5810,6 +5908,24 @@
       "duration_ms": 343663,
       "name": "Wet Cement - Kareem Ali Remix",
       "url": "https://open.spotify.com/track/0ifI6yZ047szP2E252EJUY"
+    },
+    {
+      "album": {
+        "name": "What Happened To Us?",
+        "url": "https://open.spotify.com/album/6fvCRtknLGb0NIsjJ0JBdE"
+      },
+      "artists": [
+        {
+          "name": "Paper Idol",
+          "url": "https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150818,
+      "name": "What Happened To Us?",
+      "url": "https://open.spotify.com/track/5VCG1lt7k6UEVvTSU6Tnvj"
     },
     {
       "album": {

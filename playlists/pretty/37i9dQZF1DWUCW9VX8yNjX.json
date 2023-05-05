@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 76387,
+  "num_followers": 76389,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDlkZWMwOTk4MGRhNmJmYmJjYTA2N2E4NDNiMTQ4YTUyZDE5YmRl",
+  "snapshot_id": "MCwwNThmOTBhYWJiY2M1NjI5ODFkN2I5YmY4YzEyYzQ1MmY5NWNkY2E2",
   "tracks": [
     {
       "added_at": "2021-12-14 16:21:13",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Te Acostumbraste",
-        "url": "https://open.spotify.com/album/020dEMnyiM4BjXunnmAHDh"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 157093,
-      "name": "Te Acostumbraste",
-      "url": "https://open.spotify.com/track/0KduQ09oGlWG27Y0W2wMD4"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "El Ni\u00f1o M\u00e1s Grande",
         "url": "https://open.spotify.com/album/73huhdqRQ4a9z47yIVLNKV"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 237133,
       "name": "El Ni\u00f1o M\u00e1s Grande",
       "url": "https://open.spotify.com/track/1MmATLgKp0Q8aNbph1FV37"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/020dEMnyiM4BjXunnmAHDh"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 157093,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/0KduQ09oGlWG27Y0W2wMD4"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "De Que Manera Te Olvido",
-        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0mLSnzvqwlq9hhrgJucGJs"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Viento A Favor",
         "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 250226,
       "name": "Te Voy a Perder",
       "url": "https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "De Que Manera Te Olvido",
+        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0mLSnzvqwlq9hhrgJucGJs"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 222360,
-      "name": "Cuando Yo Quer\u00eda Ser Grande",
-      "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Quiero Que Vuelvas",
         "url": "https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 156893,
       "name": "Quiero Que Vuelvas",
       "url": "https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Cuando Yo Quer\u00eda Ser Grande",
+      "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/1dsIlMbsQao9WntC9SrwvO"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 167000,
       "name": "Que Seas Muy Feliz",
       "url": "https://open.spotify.com/track/0Zyy54PmcZ2wUUhtDLaKkJ"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/1dsIlMbsQao9WntC9SrwvO"
     },
     {
       "added_at": "2021-12-14 16:21:13",

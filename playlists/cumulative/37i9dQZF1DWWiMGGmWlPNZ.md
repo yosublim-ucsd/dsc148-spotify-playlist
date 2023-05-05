@@ -4,7 +4,7 @@
 
 > Reach inner tranquility with peaceful Hang and ambient.
 
-84 songs - 5 hr 29 min
+85 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Hang Drum Sounds](https://open.spotify.com/track/7IJWIhiNqYAk8Fo3zfpz4n) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [The Hang Drum Project](https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music](https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg) | 2:38 | 2022-09-08 |  |
 | [Hangdrum Meditation](https://open.spotify.com/track/6rAgZR06iejAxUq8cpdEmN) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Hangdrum Meditation](https://open.spotify.com/album/3Bqc3cKLJo8O4VW3dxOIJI) | 2:33 | 2022-09-08 |  |
 | [Harmony & Balance](https://open.spotify.com/track/5TfL4ciYgo0tv89aTe1ZCk) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon), [Sounds Effects Academy](https://open.spotify.com/artist/7mHb8vvFWhMlBlbuNeY8DX) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 2:50 | 2022-09-08 |  |
-| [Harmony and Balance](https://open.spotify.com/track/24EZiSH1BoECa8CqdcpPEJ) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Breath of Life](https://open.spotify.com/album/5m5QieU8LlAgHmJH88z4iE) | 2:15 | 2023-04-28 |  |
+| [Harmony and Balance](https://open.spotify.com/track/24EZiSH1BoECa8CqdcpPEJ) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Breath of Life](https://open.spotify.com/album/5m5QieU8LlAgHmJH88z4iE) | 2:15 | 2023-04-28 | 2023-05-05 |
 | [Homeopat](https://open.spotify.com/track/1GvvgUzaFTeRGn7tCEs6R7) | [Tian Taylor](https://open.spotify.com/artist/0N6kUvm8XIRQd9G36AIuV1) | [Homeopat](https://open.spotify.com/album/3KWiD2DPrTHR5XnJ5fDqp2) | 3:54 | 2022-09-08 |  |
 | [Horizon](https://open.spotify.com/track/5ywfmESxQzrKS8FMIfUAfU) | [Atlas Handpan](https://open.spotify.com/artist/0leqbWOblVOTuK270ZDM0W) | [Atlas One](https://open.spotify.com/album/5Vq540UmAvWuutX2uJI3ks) | 2:16 | 2022-09-08 |  |
 | [Increasing Obviousness](https://open.spotify.com/track/0NDw9Cof8cplOb2hsd4IDU) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Beats for Your Feet](https://open.spotify.com/album/554SueuROwZikUIy6PTVdz) | 4:36 | 2022-09-08 |  |
@@ -70,6 +70,7 @@
 | [Sati Bowl](https://open.spotify.com/track/4jgvF7VdROvGudjZCFsQv7) | [Dhyāna One](https://open.spotify.com/artist/0UFdIjW2UB80v8wuOMUrYC) | [Dhyāna](https://open.spotify.com/album/4aJArtbJHKy4F88Wy2pMn9) | 3:53 | 2022-09-08 |  |
 | [Sense of Pleasure](https://open.spotify.com/track/4HcQNQSyeKObpGIA9toSkU) | [Hang Drum Massive](https://open.spotify.com/artist/3lpZeqTTNu13wr7duqX8zb) | [Great Bliss \(The Cosmic Sounds and Magical Dreamscape of Hangpan\)](https://open.spotify.com/album/6qZZyULSyPxsHChJMBIfAI) | 5:26 | 2022-09-08 |  |
 | [Song of the Morning](https://open.spotify.com/track/4fqfpPg6umah8ZSgCJtXtT) | [Jeremy Arndt](https://open.spotify.com/artist/7KZzcubMLbaEJMPIHw9Q1T) | [Journeys: Handpan Solo](https://open.spotify.com/album/32VPq59sHG028ot4awVMUW) | 3:56 | 2022-09-08 |  |
+| [Soulful Sanctuary \- Percussive Version](https://open.spotify.com/track/79SNpd4P1sCzSKsEf2Jb6u) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Peaceful Dreams \(Percussive Version\)](https://open.spotify.com/album/7DDDPNBpk48Ox8OFmSy9nk) | 2:16 | 2023-05-04 |  |
 | [Spa](https://open.spotify.com/track/5zovUvBU8EfPESIeZghjAz) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX), [Hang Drum](https://open.spotify.com/artist/06ar3VcFwsFQkQImv8ihDf) | [Hang Drum Music: Background Music For Spa, Massage, Yoga, Meditation, Mindfulness, Sleeping Music, Healing and Wellness](https://open.spotify.com/album/7phDZ00m9XG0otmPhyhPB2) | 2:37 | 2022-09-08 |  |
 | [Spa Relaxation](https://open.spotify.com/track/61XlrBX0wIJNoTAzlNsCZx) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [The Hang Drum Project](https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music](https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg) | 2:28 | 2022-09-08 |  |
 | [Spiritual Journey](https://open.spotify.com/track/1sBIlq2mIQCLVTiyp8RHIs) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:24 | 2022-09-08 |  |

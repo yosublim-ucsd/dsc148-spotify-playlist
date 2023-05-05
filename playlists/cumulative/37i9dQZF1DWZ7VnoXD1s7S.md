@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-124 songs - 5 hr 35 min
+125 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [It's Playtime](https://open.spotify.com/track/36t2yFEbWl2afvMnAmMU3p) | [MOB Games](https://open.spotify.com/artist/4y9Xz75B3sXI2P8eOYwjpn) | [Poppy Playtime Ch\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/4SgR6aQmDkviqC0AyYfFEu) | 0:57 | 2022-08-22 | 2023-01-05 |
 | [Just Monika.](https://open.spotify.com/track/58D0rgpXlThmJDml7VltUt) | [Dan Salvato](https://open.spotify.com/artist/1i0Yz0IcoZXlZOk0kAnw5B) | [Doki Doki Literature Club! \(Original Soundtrack\)](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) | 3:22 | 2022-08-22 | 2022-08-31 |
 | [Key](https://open.spotify.com/track/7K7E7LKK51PezScgsvVg9Y) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 1:05 | 2022-09-20 | 2023-01-18 |
-| [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2022-08-22 |  |
+| [Let Go](https://open.spotify.com/track/07mdQUH1Cy5j4mTpyG6IOe) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/2jyHYK0byP7L61nlSJf4Wn) | 4:08 | 2022-09-06 |  |
+| [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2022-08-22 | 2023-05-05 |
 | [Level 4 Abandoned Office](https://open.spotify.com/track/4XdvQE2cXhbGxCtEDVamXj) | [Iwakura](https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv) | [The Backrooms Original Soundtrack](https://open.spotify.com/album/0GB4VKnUoTKSBbWzZc8rV0) | 3:41 | 2022-11-09 | 2023-01-12 |
 | [Main Title \(The Shining\)](https://open.spotify.com/track/4WnuHIJTLrFkAQdpryLDe7) | [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB), [Rachel Elkind](https://open.spotify.com/artist/26WQwAYoinO6Cda6Gwy7yR) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 3:24 | 2023-01-03 |  |
 | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/track/2mei1NCzlPpkh98PzEqc4N) | [Maria Pseftoga](https://open.spotify.com/artist/0eiGR5RtOEfEFqRhSp6mIa), [May Roosevelt](https://open.spotify.com/artist/3Fs0Rcn2Ss2fqbrLvLN4Kt) | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/album/5bQrNKusEFt4fgS5z0Pjog) | 1:57 | 2022-08-22 |  |

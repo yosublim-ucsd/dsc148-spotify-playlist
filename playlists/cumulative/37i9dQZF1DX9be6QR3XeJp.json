@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Jim Legxacy ",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Tia Kofi",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2734,6 +2734,24 @@
       "duration_ms": 173740,
       "name": "Same Old",
       "url": "https://open.spotify.com/track/3YWZPpLVGeEq8VvNLaB55f"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
     },
     {
       "album": {

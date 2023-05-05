@@ -424,7 +424,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 316048,
       "name": "Dodge City",
       "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
@@ -1368,6 +1368,24 @@
       "duration_ms": 339320,
       "name": "Plains Of Waterloo / James Connolly",
       "url": "https://open.spotify.com/track/4LQTu75E30lxao3W0FSXbS"
+    },
+    {
+      "album": {
+        "name": "Bootleg USA",
+        "url": "https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p"
+      },
+      "artists": [
+        {
+          "name": "Martin Simpson",
+          "url": "https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339320,
+      "name": "Plains of Waterloo / James Connolly",
+      "url": "https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy"
     },
     {
       "album": {

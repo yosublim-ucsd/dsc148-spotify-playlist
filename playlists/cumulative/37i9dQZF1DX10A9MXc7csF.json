@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Corazon Romantico",
+        "url": "https://open.spotify.com/album/3KSSAeH5WvviOZZWXnSMVd"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194822,
+      "name": "Corazon Romantico",
+      "url": "https://open.spotify.com/track/5y4Tuz6zZE0J3tokR8YRLS"
+    },
+    {
+      "album": {
         "name": "Cuestiones De Amor (Tus Ojitos)",
         "url": "https://open.spotify.com/album/4RHL2l7iXTD8daKZXAxh4K"
       },

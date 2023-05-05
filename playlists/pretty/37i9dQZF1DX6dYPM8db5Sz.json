@@ -1,13 +1,45 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=KDRnLQ71TTKPrX5qGUd50Q\">Nakhane</a>",
-  "num_followers": 5841,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=1kNmBf4xQU626usgoqJWDg\">Bongeziwe Mabandla</a> ",
+  "num_followers": 5851,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWIzODhlMDA1NzZiNWQ2YzM1NmYzOTNjM2M0ZjNjNjc2YmJjZGI1",
+  "snapshot_id": "MCw0YmI4NzFhYmRjYTgzNmE4OWI0ZmFkNWM4Nzk1MzhiODBkNDE1MGY3",
   "tracks": [
+    {
+      "added_at": "2023-05-04 21:59:00",
+      "album": {
+        "name": "amaXesha",
+        "url": "https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 222253,
+      "name": "hlala",
+      "url": "https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq"
+    },
+    {
+      "added_at": "2023-05-04 21:59:00",
+      "album": {
+        "name": "Sorry Like You Mean It",
+        "url": "https://open.spotify.com/album/1j2YF9cYbGQZiTg8aTE7WE"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 209401,
+      "name": "Sorry Like You Mean It",
+      "url": "https://open.spotify.com/track/503iuUPKIXQLSmLsMQDYIN"
+    },
     {
       "added_at": "2023-03-30 21:59:00",
       "album": {
@@ -239,22 +271,6 @@
       "duration_ms": 163200,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3"
-    },
-    {
-      "added_at": "2023-04-21 04:18:52",
-      "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/1pcYiOqAuPm8FnJy6cxmoO"
-      },
-      "artists": [
-        {
-          "name": "Talicia",
-          "url": "https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP"
-        }
-      ],
-      "duration_ms": 108631,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/3356dkgock4bD4j7a0fec6"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -1263,22 +1279,6 @@
       "duration_ms": 281103,
       "name": "Midnight Fox",
       "url": "https://open.spotify.com/track/6fot9PD8atqMvbeeOhwamA"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Karma Arcade",
-        "url": "https://open.spotify.com/album/6LpMhbgNRNHVlon4bkHakM"
-      },
-      "artists": [
-        {
-          "name": "Lakkabrah",
-          "url": "https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR"
-        }
-      ],
-      "duration_ms": 240857,
-      "name": "Karma Arcade",
-      "url": "https://open.spotify.com/track/0J9bAWjeOafeNtKO6DqeXx"
     },
     {
       "added_at": "2023-03-02 21:59:00",

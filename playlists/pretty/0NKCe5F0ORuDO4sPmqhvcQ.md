@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,032 likes - 126 songs - 7 hr 7 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,032 likes - 128 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 124 | [Phoenix](https://open.spotify.com/track/70V8LBQ8v5PlyYf5itw3ye) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Phoenix](https://open.spotify.com/album/1mHvPJ7RAPcIitGgrq31Kc) | 2:05 |
 | 125 | [Feel Something](https://open.spotify.com/track/5S2ZZBs451CuI81g9WjJIL) | [Late Night Therapy](https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I) | [Feel Something](https://open.spotify.com/album/3vHOxtVgvCeGR82IVwaDV6) | 4:15 |
 | 126 | [Lavender \(feat\. Jolina Elísh\)](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 |
+| 127 | [Mr\. Taxi Driver](https://open.spotify.com/track/0FdpgvEYDLBt9nZeFL3krA) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Mr\. Taxi Driver](https://open.spotify.com/album/0x0lFRnJAg1S7kqnXeef06) | 3:31 |
+| 128 | [hold the world in your hands](https://open.spotify.com/track/2QJc1U3fWRA1fNfsCzuno0) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [hold the world in your hands](https://open.spotify.com/album/5pjBgBD67DAdelFMJnCb20) | 2:39 |
 
-Snapshot ID: `MTAzMDUsNGU2Nzc5NzNkZGFiZWEwMmY3NDI0ZGM4MmRhMGQ0MmVmZWExN2JkNg==`
+Snapshot ID: `MTAzMDcsMjNhM2VjNmQ2YjA3NWYxNTg1OTRjZjEzZWU5MGE2NTZlMWM4ZGNkNQ==`

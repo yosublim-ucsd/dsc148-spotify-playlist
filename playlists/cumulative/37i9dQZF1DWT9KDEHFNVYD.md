@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-330 songs - 1 day 6 hr 36 min
+331 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Focus on the Magick](https://open.spotify.com/track/42mfiQMMj0d0M1J8ej8x2n) | [JEFF The Brotherhood](https://open.spotify.com/artist/1yhtlCNnRgCNGnsy2K7mHm) | [Magick Songs](https://open.spotify.com/album/0WQfrgaiaG37mDU4e5shOt) | 5:40 | 2021-07-30 | 2022-07-29 |
 | [Focus on the Magick](https://open.spotify.com/track/6hKBt7A9eOAEwDbLerLYEJ) | [JEFF The Brotherhood](https://open.spotify.com/artist/1yhtlCNnRgCNGnsy2K7mHm) | [Magick Songs](https://open.spotify.com/album/3Jwzv57SMQbXKIbCDs37YW) | 5:40 | 2021-07-30 | 2023-01-26 |
 | [Footsteps](https://open.spotify.com/track/3EtjS7DEL3A4Keq82vsC2r) | [Modern Nature](https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms) | [How To Live](https://open.spotify.com/album/4uUhmFHwJVcfGbRWjcfVUf) | 5:19 | 2021-07-30 | 2022-07-29 |
-| [Footsteps](https://open.spotify.com/track/5WOAj3m0NWLiteJUEsbdmy) | [Modern Nature](https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms) | [How To Live](https://open.spotify.com/album/0Dws98dPcBFr4xXKfX57Dg) | 5:19 | 2021-07-30 |  |
+| [Footsteps](https://open.spotify.com/track/5WOAj3m0NWLiteJUEsbdmy) | [Modern Nature](https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms) | [How To Live](https://open.spotify.com/album/0Dws98dPcBFr4xXKfX57Dg) | 5:19 | 2021-07-30 | 2023-05-05 |
 | [French Disko](https://open.spotify.com/track/4Zb88sF1Qj778KV5lstVxT) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid) | 3:35 | 2021-07-30 |  |
 | [French Disko](https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 3:35 | 2021-07-30 | 2023-02-10 |
 | [French Disko](https://open.spotify.com/track/0C03B3oqKkoGVrNqgWjkqB) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6e9SIhpwUY4B3oyVT2W7bW) | 3:35 | 2021-07-30 | 2022-07-29 |
@@ -235,6 +235,7 @@
 | [Red Sails \- 2017 Remaster](https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Lodger \(2017 Remaster\)](https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK) | 3:45 | 2021-07-30 |  |
 | [Reflexiones](https://open.spotify.com/track/4PffHOzKe9Pjs0Eb7U4cex) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8) | [Reflexiones](https://open.spotify.com/album/126pKzWhG6jBlX1JXZHyOs) | 6:01 | 2021-07-30 | 2023-01-26 |
 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 | 2021-07-30 | 2023-04-30 |
+| [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt) | 3:43 | 2021-07-30 |  |
 | [Ride](https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Empty Estate](https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq) | 3:25 | 2021-07-30 |  |
 | [Ride](https://open.spotify.com/track/4YUzACDU0QphTcToL8E6hw) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Empty Estate](https://open.spotify.com/album/4PVnDJ6pWSfWbPNXKCkwDb) | 3:25 | 2021-07-30 | 2022-07-29 |
 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 | 2021-07-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20262,
+  "num_followers": 20273,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2YwNmI3Yjk2ZjJjZDFiMzU3ZTlkNDZjNjA4ZGZhNGMyNTBiYTcw",
+  "snapshot_id": "MCwyZjdmN2NjY2ZhN2RkODUyY2FmODI4ZGNkZTMwMjhiOWI5NmZiODg0",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Ay, Amor",
         "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 225834,
       "name": "Clap Clap",
       "url": "https://open.spotify.com/track/4vUIReErgckFJjhncayvWI"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "No Sentir Nada",
-        "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
-      },
-      "artists": [
-        {
-          "name": "Marem Ladson",
-          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
-        }
-      ],
-      "duration_ms": 224608,
-      "name": "No Sentir Nada",
-      "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Cristales",
         "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 225362,
       "name": "Cristales",
       "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "No Sentir Nada",
+        "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
+      },
+      "artists": [
+        {
+          "name": "Marem Ladson",
+          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
+        }
+      ],
+      "duration_ms": 224608,
+      "name": "No Sentir Nada",
+      "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Panoramas",
+        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
+      },
+      "artists": [
+        {
+          "name": "Klaatu Suuns",
+          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
+        }
+      ],
+      "duration_ms": 304901,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Verte Antes de Fin de A\u00f1o",
         "url": "https://open.spotify.com/album/7koEe8boQfsuzueElXW1bb"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 218423,
       "name": "Cuando Quieres Jugar Conmigo",
       "url": "https://open.spotify.com/track/7w7FKUvuYrXojcMjHyQbgc"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Panoramas",
-        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
-      },
-      "artists": [
-        {
-          "name": "Klaatu Suuns",
-          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
-        }
-      ],
-      "duration_ms": 304901,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Pong",
-        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Pong",
-      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Azulmagenta",
         "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 218354,
       "name": "Azulmagenta",
       "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Pong",
+        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Pong",
+      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Puede Ser Mortal",
-        "url": "https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2"
-      },
-      "artists": [
-        {
-          "name": "Feroe",
-          "url": "https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Puede Ser Mortal",
-      "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Corte Superior",
         "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 236000,
       "name": "Corte Superior",
       "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Puede Ser Mortal",
+        "url": "https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2"
+      },
+      "artists": [
+        {
+          "name": "Feroe",
+          "url": "https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a"
+        }
+      ],
+      "duration_ms": 254834,
+      "name": "Puede Ser Mortal",
+      "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
     },
     {
       "added_at": "2020-12-01 05:03:00",

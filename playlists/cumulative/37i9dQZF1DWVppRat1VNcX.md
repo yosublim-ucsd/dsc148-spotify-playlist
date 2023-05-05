@@ -4,7 +4,7 @@
 
 > Get all your kids' amigos together and play while listening to these awesome tunes!
 
-64 songs - 2 hr 24 min
+65 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Juguemos En El Bosque](https://open.spotify.com/track/18lHY5LtQVBDfq3q2oF4Uz) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas 3D](https://open.spotify.com/album/7hcSrHjyQfVv8nsIHoKuB4) | 2:27 | 2020-04-22 |  |
 | [Jungle Boogie](https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:40 | 2020-04-22 |  |
 | [Juntos](https://open.spotify.com/track/6mP3f9TRvhCFk3Oxzi2Ft4) | [Isabella Castillo](https://open.spotify.com/artist/1VMbsWJQQaRlubXsKcEOcL) | [Vikki RPM \(Música Original de la Serie\)](https://open.spotify.com/album/02bck1ND40mmCJ6aY2PkDW) | 2:05 | 2020-04-22 |  |
-| [Just Like a Palmera](https://open.spotify.com/track/66zKHZvy5jXxGP7twXooEg) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Just Like a Palmera](https://open.spotify.com/album/6IL8qdXbRqyV4iPTAn2ukW) | 2:55 | 2021-12-29 |  |
+| [Just Like a Palmera](https://open.spotify.com/track/6zwtzQXhqheFKmaLVQ9FhT) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Just Like a Palmera](https://open.spotify.com/album/7mAZe2W6k3jvYMijjCjixo) | 2:55 | 2021-12-29 |  |
+| [Just Like a Palmera](https://open.spotify.com/track/66zKHZvy5jXxGP7twXooEg) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Just Like a Palmera](https://open.spotify.com/album/6IL8qdXbRqyV4iPTAn2ukW) | 2:55 | 2021-12-29 | 2023-05-05 |
 | [Kung Fu Fighting](https://open.spotify.com/track/7eGAQnxbIHHFtS1p9rmAZ0) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Kung Fu Fighting](https://open.spotify.com/album/1e1TXaL2BLrWwtLD3vteNo) | 2:29 | 2020-04-22 |  |
 | [La Amistad](https://open.spotify.com/track/5qKp7KpIu23B5AEsw5n4ny) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Equestria Girls \- EP \(Español / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5JJsZFJqyY1t0nJwI6BnQM) | 2:26 | 2020-04-22 |  |
 | [La Sirenita: Bajo El Mar](https://open.spotify.com/track/0RG1UtnzOljJFHMaOtQUbJ) | [Animation Soundtrack Ensemble](https://open.spotify.com/artist/1Wi3vrwRk2FyBDk90QI01C) | [Música para los niños](https://open.spotify.com/album/6nDSDr7vMnrJD99JCIbDwv) | 3:10 | 2020-04-22 |  |

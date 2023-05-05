@@ -1,12 +1,12 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Budjerah",
-  "num_followers": 5722,
+  "num_followers": 5720,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTYzMywxNzAxOWRmZjFkYWIzMTk5ODU3OTQ3ODA4ZGEzMWU4NWUzZGUyMjAw",
+  "snapshot_id": "MTYzOSw1OWY2MjE1NzgyZTVhYzMzMGNjMDY5OTI2MzZjODAyMDc2OTQ1ZTU0",
   "tracks": [
     {
       "added_at": "2023-04-19 23:27:59",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
     },
     {
+      "added_at": "2023-05-05 00:43:11",
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/6Bdt1oU6mqRFhFroAopJOb"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 180755,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/6mXHM9VN5p5Z9kWgtQsm2e"
+    },
+    {
       "added_at": "2023-04-21 02:05:35",
       "album": {
         "name": "War Is Love",
@@ -113,6 +129,22 @@
       "url": "https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS"
     },
     {
+      "added_at": "2023-05-05 00:47:39",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 195277,
+      "name": "Little Runaway",
+      "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
+    },
+    {
       "added_at": "2023-04-28 03:47:29",
       "album": {
         "name": "Bebe",
@@ -133,10 +165,10 @@
       "url": "https://open.spotify.com/track/6sbqpXpDBb6MNv93lhqKvl"
     },
     {
-      "added_at": "2023-04-21 02:16:56",
+      "added_at": "2023-05-05 00:42:17",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS"
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
       },
       "artists": [
         {
@@ -144,9 +176,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 185675,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
+      "duration_ms": 224803,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
     },
     {
       "added_at": "2023-04-27 23:54:27",
@@ -179,6 +211,22 @@
       "duration_ms": 215217,
       "name": "What Was",
       "url": "https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6"
+    },
+    {
+      "added_at": "2023-05-05 00:44:15",
+      "album": {
+        "name": "Practically Strangers",
+        "url": "https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob"
+      },
+      "artists": [
+        {
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "Practically Strangers",
+      "url": "https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL"
     },
     {
       "added_at": "2023-04-19 23:27:59",
@@ -231,6 +279,22 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "added_at": "2023-05-05 00:53:36",
+      "album": {
+        "name": "What More Can I Say",
+        "url": "https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 141141,
+      "name": "What More Can I Say",
+      "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"
     },
     {
       "added_at": "2023-04-19 23:27:59",
@@ -367,6 +431,22 @@
       "duration_ms": 171063,
       "name": "P STANDS 4 PLAYA",
       "url": "https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj"
+    },
+    {
+      "added_at": "2023-04-21 02:16:56",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185675,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
     },
     {
       "added_at": "2023-04-19 23:27:59",

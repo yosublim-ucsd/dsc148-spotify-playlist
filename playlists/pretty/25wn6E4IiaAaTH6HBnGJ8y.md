@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,058 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,057 likes - 239 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,11 +247,5 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 237 | [Lovemark](https://open.spotify.com/track/6rmDkH15ehDm0ACui0qqTQ) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Loners Diary](https://open.spotify.com/album/3qHkt08GHRGESDmamPhMbl) | 3:39 |
 | 238 | [Fell Too Far](https://open.spotify.com/track/3wT2sBMJHXCkSexVBBhrCH) | [Nick Bonin](https://open.spotify.com/artist/6kFCeHJQ1sK1fgBrqMK3G9) | [Fell Too Far](https://open.spotify.com/album/7lfbvs8EGoZipYfavWhT0P) | 3:45 |
 | 239 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
-| 240 | [Luv Deluxe](https://open.spotify.com/track/5gwvcn7uttTrxXpuKKllI6) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [A Million Miles from Home](https://open.spotify.com/album/7hhNaVrtLQJyydb59BuYbN) | 4:33 |
-| 241 | [I Remember](https://open.spotify.com/track/6V7SBJsDG9B4iVywka4koo) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title](https://open.spotify.com/album/0jIGcf2ycn8eLfXhD3J5Ny) | 9:07 |
-| 242 | [Man Of The Year](https://open.spotify.com/track/1uA914Md6wsy9NDryyBypH) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 2:16 |
-| 243 | [Get To Know \(feat\. Winston Surfshirt\)](https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 4:03 |
-| 244 | [Thru My Hair](https://open.spotify.com/track/0SL3t6hWTxesu7A3z2prmV) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5ZMyvrspO5En45LxoipYkS) | 1:40 |
-| 245 | [When It Lands](https://open.spotify.com/track/16ro1is6DmDKkarlJMBbzV) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 4:29 |
 
 Snapshot ID: `MTExNSw5MjU3Nzk5OGFhYzMyYjVlMmE2NjU5OTk1OGQ1OWNlYzk1ZjE2Yzhm`

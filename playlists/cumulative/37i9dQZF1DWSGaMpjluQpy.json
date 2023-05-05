@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Hudson Square",
+        "url": "https://open.spotify.com/album/3FqzYXSENE2fCy1bm78FVC"
+      },
+      "artists": [
+        {
+          "name": "Eric Merlino",
+          "url": "https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215530,
+      "name": "Hudson Square",
+      "url": "https://open.spotify.com/track/4vdbfxd6ds6YeOHb5ZD6r2"
+    },
+    {
+      "album": {
         "name": "I Can't Get Started",
         "url": "https://open.spotify.com/album/2w15Chr6cX4ReS1qmZZO5e"
       },

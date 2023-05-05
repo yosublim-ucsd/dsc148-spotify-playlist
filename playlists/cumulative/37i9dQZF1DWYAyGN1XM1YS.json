@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Relationship Of Command",
+        "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260306,
+      "name": "One Armed Scissor",
+      "url": "https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii"
+    },
+    {
+      "album": {
         "name": "The Complete Collection (1994-1998)",
         "url": "https://open.spotify.com/album/4kXgXFJH3Vn7cwHsYsfckI"
       },
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 167400,
       "name": "Travel By Telephone",
       "url": "https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E"

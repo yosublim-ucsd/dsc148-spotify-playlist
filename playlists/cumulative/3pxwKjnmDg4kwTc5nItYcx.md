@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-680 songs - 1 day 12 hr 42 min
+685 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Awake](https://open.spotify.com/track/77qXcM6Jugh0NANOsuAgJH) | [Cecily](https://open.spotify.com/artist/4wR8IGlAgXfIRFPUezlq6H) | [Awake](https://open.spotify.com/album/6Y4GhIDmGC0yO8CCkZ465E) | 2:51 | 2019-09-27 | 2020-05-19 |
 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 | 2019-08-27\* | 2019-11-11 |
 | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/track/4WwfMajCmOe3ApD9eF5B15) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/album/5bAoNisJV6KVdJ3puwJ54B) | 2:53 | 2021-10-09 |  |
+| [Backbone](https://open.spotify.com/track/6mXHM9VN5p5Z9kWgtQsm2e) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/6Bdt1oU6mqRFhFroAopJOb) | 3:00 | 2023-05-05 |  |
 | [Backseat of My Mind \- Radio Edit](https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Backseat of My Mind](https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU) | 3:30 | 2022-05-26 |  |
 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2019-08-27\* | 2019-11-11 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-26 |  |
@@ -121,6 +122,7 @@
 | [Crush](https://open.spotify.com/track/5stsHsQTNRp8guy8Y6AJmQ) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Crush](https://open.spotify.com/album/1heXxMqKYRntAtRRKSu6I5) | 2:46 | 2020-08-30 | 2021-05-12 |
 | [CRYBABY :\*\(](https://open.spotify.com/track/0psWKCR3qW2qqyCTAbCFtO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [CRYBABY :\*\(](https://open.spotify.com/album/6LPTa6WxHqzA5E9ohh1JoN) | 2:48 | 2019-11-01 | 2020-02-12 |
 | [Crying Over You ◐ \(feat\. RM & BEKA\)](https://open.spotify.com/track/3NULjteyVVY9F7WrAXOZIG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Crying Over You ◐ \(feat\. RM & BEKA\)](https://open.spotify.com/album/7xHrsxMVGd7EcObn6Kew1o) | 4:04 | 2019-08-27\* | 2019-11-11 |
+| [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-05 |  |
 | [Daddy](https://open.spotify.com/track/06paPnT9vsd9qonDCsOzTX) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Daddy](https://open.spotify.com/album/0IrcO4h2IURsFVFiyciNiO) | 2:50 | 2021-01-15 | 2022-06-17 |
 | [Damn Bean](https://open.spotify.com/track/3eZReaCGyJoXQvXCN9HuG9) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Damn Bean](https://open.spotify.com/album/0L6Wmjz8QhjXqKn8ZNaTtl) | 2:54 | 2021-03-16 |  |
 | [Dance](https://open.spotify.com/track/0MP2SUdqSFDl9tcytBpF8h) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Dance](https://open.spotify.com/album/0ka6ChDCJFiNeA4UW9OLW7) | 2:59 | 2020-11-03 |  |
@@ -357,6 +359,7 @@
 | [Life Lessons in the Parking Lot](https://open.spotify.com/track/3Pzwe21HinvcRIE9Cdw9hN) | [Julia Kahn](https://open.spotify.com/artist/2QwOKaXwgYtPBG99jbwc3L) | [Life Lessons in the Parking Lot](https://open.spotify.com/album/1WhkhRCL0vcmI02grjAaTa) | 3:32 | 2021-01-23 |  |
 | [Lifestyle](https://open.spotify.com/track/32z22TqvJ9YaFo2FAG78Sx) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [For Now…](https://open.spotify.com/album/72Zhf96qOiglgGKf8Q8Drv) | 2:19 | 2022-09-15 |  |
 | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6XemQkX3lgqDC21nNdbdVw) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3WsN9dZsEjTvA1bBQF0nZc) | 2:46 | 2019-08-27\* | 2019-11-11 |
+| [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 | 2023-05-05 |  |
 | [Locking Eyes](https://open.spotify.com/track/7dSIUPVTTqUkdy6GOaWxzZ) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Locking Eyes](https://open.spotify.com/album/4cyuiSDnfjOX7RESklzpFu) | 2:49 | 2021-02-06 |  |
 | [London](https://open.spotify.com/track/4q6kvDd16UTfNHXLc5a923) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [London](https://open.spotify.com/album/63GgFXDeK5LlZbvyb5Yt0Y) | 2:54 | 2019-08-27\* | 2019-11-11 |
 | [Lonely](https://open.spotify.com/track/4FnSCrqa0lzbJUF1TRoCkQ) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu), [Blossom Caldarone](https://open.spotify.com/artist/0BrUMx34x84azYCP7QvEU0) | [Lonely](https://open.spotify.com/album/7JYEia78Au9reCguu5Kjmn) | 3:05 | 2020-10-09 | 2021-05-12 |
@@ -476,6 +479,7 @@
 | [Play With Me](https://open.spotify.com/track/4PPSZf5D7lc36EGzZ4HO3p) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [KIN](https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY) | 3:35 | 2019-10-18 | 2020-04-06 |
 | [Please Don't Make Me Cry](https://open.spotify.com/track/46LXErxjs0JgFiaUshrSBI) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 5:14 | 2020-07-18 | 2021-05-12 |
 | [Plot Twist](https://open.spotify.com/track/4Xlt7aWeALTty1MLs7Cetb) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW) | 3:27 | 2020-09-11 | 2021-05-12 |
+| [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-05-05 |  |
 | [Pray](https://open.spotify.com/track/1QvwRDNlk5q7FHI3EJDf5a) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Pray](https://open.spotify.com/album/04r2SEXW3ikdKuHfnjKABw) | 3:53 | 2021-10-09 |  |
 | [Pretty](https://open.spotify.com/track/4QkgqaiQWl7dRfrDRSz2hx) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Pretty](https://open.spotify.com/album/6w0yoQrlqUXnHqsI1Sz3q3) | 2:34 | 2021-10-16 |  |
 | [Promise](https://open.spotify.com/track/5GdAVnwxzMNSRThQsawXsQ) | [KAZE](https://open.spotify.com/artist/6OHqKdDMYupavebNP9azHD), [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Promise](https://open.spotify.com/album/734KErFJszhXqsENb9IRiU) | 2:55 | 2022-12-15 |  |
@@ -658,6 +662,7 @@
 | [What I Need](https://open.spotify.com/track/0qyfYXjepbunLl3yXA1oVK) | [Obseen](https://open.spotify.com/artist/0Etiec11R22uUoMaI0hEDR) | [What I Need](https://open.spotify.com/album/0pDFiloNRZ5OMBXLxqTioy) | 3:12 | 2021-10-07 |  |
 | [What If I Can't \(feat\. Mikey Dam\)](https://open.spotify.com/track/1tpsVMxfqMYGoHGUoFtzNb) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV), [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [What If I Can't \(feat\. Mikey Dam\)](https://open.spotify.com/album/0ZVkE2kVAzLZYhr5L2oKWV) | 2:36 | 2022-02-04 |  |
 | [What If I Told You That I Love You](https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/5pxH5JnBRw3Dc7CCxESMWM) | 3:13 | 2020-02-18 | 2021-05-12 |
+| [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 | 2023-05-05 |  |
 | [What Should I Do?](https://open.spotify.com/track/4SNfTLPMEiti4Qn8WZmyk8) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [What Should I Do?](https://open.spotify.com/album/3DcCA6i22n27K5oxO76JD4) | 3:37 | 2022-02-25 |  |
 | [What Was](https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [What Was](https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T) | 3:35 | 2023-04-14 |  |
 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 | 2019-09-06 | 2020-02-12 |

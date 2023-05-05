@@ -2,9 +2,9 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> Dance and electronic Arabic songs\. Cover: A Loop.
+> Dance and electronic Arabic songs\. Cover: Salma Rachid and R3hab.
 
-104 songs - 6 hr 57 min
+105 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Ohebuka Raghman \- Always April Remix](https://open.spotify.com/track/6TMz1cbXzWFk5WA9oKwNQl) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Ohebuka Raghman \(Always April Remix\)](https://open.spotify.com/album/2Jy7QVorfZVcjvNXHVMGNo) | 2:03 | 2022-06-30 |  |
 | [Omry Maak](https://open.spotify.com/track/19aRbRcZzJTm1RbJWqMXb7) | [A Loop](https://open.spotify.com/artist/50RtnCeYKbJzZ88uW3vKAq) | [Omry Maak](https://open.spotify.com/album/1AqaW9SMNszibKJ78X2Kq9) | 3:17 | 2023-03-17 |  |
 | [One More Dance \(with Carmen Soliman\) \[Arabic Version\]](https://open.spotify.com/track/2j0jeaXrBMb6h0SHIk0TEI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [One More Dance \(with Carmen Soliman\) \[Arabic Version\]](https://open.spotify.com/album/3ETOtpHXlQTP3yKIc2ncAm) | 2:25 | 2022-03-30 |  |
+| [Party Every Day](https://open.spotify.com/track/2TMBACl98EE97KJOmjiXG3) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 2:36 | 2023-05-04 |  |
 | [Raina Rai](https://open.spotify.com/track/0MPpH8PpO8uOqQB7NyaH4F) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2WnZTH37xIN3HTUAsMoiqc) | 3:34 | 2022-03-30 | 2022-07-29 |
 | [Raina Rai](https://open.spotify.com/track/6uXkNygGn4fIMSitwP47wa) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2kPkBpH8Mnu89fomCSUPfP) | 3:34 | 2022-06-30 | 2022-11-26 |
 | [Route 55](https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp) | [Mr Oasis](https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex) | [Route 55](https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR) | 4:38 | 2022-03-30 | 2022-11-26 |

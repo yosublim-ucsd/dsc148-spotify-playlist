@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Elisapie
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,139 likes - 101 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,154 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 100 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 |
 | 101 | [Light in Me](https://open.spotify.com/track/26a0XK6phpV2mCZ6LlMFFy) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc), [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [Light in Me](https://open.spotify.com/album/7Dvwbd49vsYVL1oPezhsDp) | 2:52 |
 
-Snapshot ID: `MCxjZGZjOWU5OGM5YTE2OTA5MWY0NmJjNDU0OWIwNTRhY2RmMTM0MWVj`
+Snapshot ID: `MCxmNTg0NGFlOTE5ZTk5NTFiODFhYzlhNmVkOGExNzZhOTRlNTkzMjAw`

@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-208 songs - 11 hr 59 min
+209 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2021-10-11 | 2023-04-21 |
 | [Anybody](https://open.spotify.com/track/59m6kW2uMfVN2htib54Z7b) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Happy Hits](https://open.spotify.com/album/2SGaiEBfGSAdJYgvsDLTuY) | 3:08 | 2021-10-11 | 2022-11-14 |
 | [Anybody](https://open.spotify.com/track/4cyUTdVRJNxjcI9W4TezDW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Anybody](https://open.spotify.com/album/5DPMC3g3iWqpWFzg7NoIG4) | 3:09 | 2021-10-11 | 2022-07-29 |
-| [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-28 |  |
+| [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-28 | 2023-05-05 |
 | [Ayele](https://open.spotify.com/track/0x9boesXCFnB1EJflJObae) | [Mr Leo](https://open.spotify.com/artist/0sfURdhcmXyrcFEWaJ2IJI) | [Ayele](https://open.spotify.com/album/1cXxGJjjYJUgyoAxLFA0IJ) | 3:31 | 2023-04-20 |  |
 | [Bad Influence](https://open.spotify.com/track/2RaHreAi8lXvQOM0prMvXT) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/7udDaiv9Mgh1LrHvObls1I) | 2:18 | 2021-10-11 |  |
 | [Bad Man Wicked](https://open.spotify.com/track/7FMQObjJyy8iEOnhgrjRyb) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:51 | 2022-08-26 | 2022-11-04 |
@@ -181,6 +181,7 @@
 | [Sexting](https://open.spotify.com/track/1znPVhURyqTfyRpEYK7xxO) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Sexting](https://open.spotify.com/album/5uhsC5W2nibe1ucp2d6hnH) | 4:16 | 2022-11-04 | 2022-11-14 |
 | [Sexting](https://open.spotify.com/track/3NZt7jQJEaY5Hv1kG6ESRQ) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Super Morio](https://open.spotify.com/album/07WaRFUKEhfl4fAhq4Z6rJ) | 4:16 | 2022-11-04 | 2022-11-11 |
 | [She Knows](https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [She Knows](https://open.spotify.com/album/6NnBWm7RUGtAFfVwiLhW40) | 3:18 | 2021-12-09 | 2022-03-04 |
+| [Shy](https://open.spotify.com/track/0zf4pn9VXgQkXw784xZica) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [BZ](https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Shy](https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg) | 2:57 | 2023-05-04 |  |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-06-30 | 2022-10-14 |
 | [Smoke & Mirrors \(feat\. Ami Faku\)](https://open.spotify.com/track/4DKkkquLEKqiVMQ7ua5gaf) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Motion](https://open.spotify.com/album/1jm8BNnsdpEjCKRmgS7gZh) | 3:53 | 2021-10-15 | 2023-01-28 |
 | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Spotless](https://open.spotify.com/artist/7zd8O0lGS5sHftyvnhtWD1), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo) | 4:15 | 2021-10-11 | 2022-04-22 |

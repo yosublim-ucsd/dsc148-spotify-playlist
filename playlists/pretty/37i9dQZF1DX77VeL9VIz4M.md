@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77VeL9VIz4M.md) - [plain]
 
 > Découvrez le mix exclusif d’Andy4000 avec des titres de Gazo, Laylow, Lala &ce et bien d’autres!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079 likes - 27 songs - 57 min 7 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,085 likes - 27 songs - 57 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77VeL9VIz4M.md) - [plain]
 | 26 | [GTA \#26 \- Mixed](https://open.spotify.com/track/1wVHmfUbGFU9U7v3m7nLQp) | [Lp2.0](https://open.spotify.com/artist/6zlQfBvgeOVTjootwzBTZq) | [GTA \#26 \(Mixed\)](https://open.spotify.com/album/2UdzTOWArB2PH7YVcpAv2U) | 2:42 |
 | 27 | [Tookah 4 \- Mixed](https://open.spotify.com/track/2zBVZ6iTK6FJn3eFyu8e76) | [i300](https://open.spotify.com/artist/5crOTgkcDtgMTCoatASEBs) | [Tookah 4 \(Mixed\)](https://open.spotify.com/album/240Ul8gGZBj07rTomt3qQy) | 2:57 |
 
-Snapshot ID: `MCxhNjQ3MWYwMWM2NGYyNjA2NDhlYzU2YmZkZmY3M2ZiNTAxMDdjMDc0`
+Snapshot ID: `MCxlNDk2OGE1ZGRlZDc0M2RhZTM3ZTc3ZTI0MDVjMTZhN2EzOWNjYWIw`

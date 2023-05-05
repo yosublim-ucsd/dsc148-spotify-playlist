@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Maulana Ardiansyah
 
-148 songs - 9 hr 16 min
+150 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,10 +97,12 @@
 | [MR.MARIPOSA \(feat\. Kinder Bloomen\)](https://open.spotify.com/track/4oo3ypLKPl3deKmVkPdqpx) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [Kinder Bloomen](https://open.spotify.com/artist/6Myz6IelnH81UoSa6rvd7K) | [MR.MARIPOSA \(feat\. Kinder Bloomen\)](https://open.spotify.com/album/3IuTpdxmQvltSh2DEYFRXn) | 2:49 | 2023-04-13 |  |
 | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/track/1tZMXvm4sgTDpG9BptQei2) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/album/3d0aSpkoNMqbygyv6no75f) | 5:20 | 2021-11-25 | 2022-03-25 |
 | [Obat Rindu](https://open.spotify.com/track/688SOzohXB8IEWPLlMoHsR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Kucaimars](https://open.spotify.com/artist/2qf0FNIDmfNQ3bTi9Gyj90) | [Obat Rindu](https://open.spotify.com/album/61QED0aYIkhiHdt0GC7GK4) | 3:47 | 2022-03-03 | 2022-03-25 |
+| [Orang Ketiga \- Live](https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Orang Ketiga \(Live\)](https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU) | 4:39 | 2023-05-04 |  |
 | [Patah Hati](https://open.spotify.com/track/5P86ensnQKHQNfSOdUZ2Vf) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Patah Hati](https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE) | 4:49 | 2021-11-25 | 2022-03-25 |
 | [Pelangi](https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Pelangi](https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN) | 4:16 | 2021-11-25 | 2022-03-25 |
 | [Pendengar Setiamu](https://open.spotify.com/track/3T4FKXFkBOfohf1nrekWmX) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [The Folk: Side A](https://open.spotify.com/album/2VyQdTnx5nwU97ZGb9J1qn) | 4:19 | 2023-04-13 |  |
 | [Penghapus Pensil](https://open.spotify.com/track/018kPIAzYiX8rZefBIyHdI) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Penghapus Pensil](https://open.spotify.com/album/4ZIA1vi2rfeVt80IGbh2fK) | 3:54 | 2021-11-25 | 2022-03-25 |
+| [Pergi](https://open.spotify.com/track/3HdO5YJpavQSC3pZybEqGb) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Pergi](https://open.spotify.com/album/5QA8BDu7U9tNe0AnOMXTfu) | 4:37 | 2023-05-04 |  |
 | [Perlahan](https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Perlahan](https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG) | 5:00 | 2021-11-25 | 2022-03-25 |
 | [Pernah Salah](https://open.spotify.com/track/1DLIKbsOcsNAoRLlGq6nJM) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Pernah Salah](https://open.spotify.com/album/3I2QEgfVkBOKLLJAqaegoB) | 4:18 | 2021-11-25 | 2022-03-25 |
 | [Pilihan Ati](https://open.spotify.com/track/3ODS3N2Pdtacr7Jxllky2c) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Pilihan Ati](https://open.spotify.com/album/5GWUfo0ZgDB2Gt0n4CTjUZ) | 4:59 | 2021-11-25 | 2022-03-25 |

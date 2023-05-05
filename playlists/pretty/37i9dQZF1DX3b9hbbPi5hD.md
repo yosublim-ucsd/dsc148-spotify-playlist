@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 
 > Tarantino not only produces great movies, he produces great soundtracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,377 likes - 46 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,746 likes - 46 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 | 45 | [I Want Your Body](https://open.spotify.com/track/5keVHhRytkZTQ6tukYtXS9) | [Nymphomania](https://open.spotify.com/artist/2gA8mpcqoWuwlXBmtBrxH1) | [True Romance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG) | 4:18 |
 | 46 | [Winged](https://open.spotify.com/track/5WRPV0uLJz0tVUqHb79f3X) | [James Russo](https://open.spotify.com/artist/2Gp78IIBNqoiSUlPGP67P4) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 0:08 |
 
-Snapshot ID: `MCxhZDkyYmQ4ZmYwN2UyYTgyMDBhZWY2ZGJkOWZkNzE5Nzg1MTQ4ZjBk`
+Snapshot ID: `MCwwMDQ2M2E3NjRjZGM1ZmI0OTljMjVkM2JkYjgxNWVlMzM0OWQxMjBl`

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-258 songs - 13 hr 0 min
+259 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Follow Me](https://open.spotify.com/track/2C0igIAegVxnQ11AMCqcyR) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Follow Me](https://open.spotify.com/album/4hafkA50kP0LGQ95eRejCE) | 2:45 | 2022-09-14 |  |
 | [For You](https://open.spotify.com/track/1uDsU3oY2XBYGKMe0i7BLB) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby) | [For You](https://open.spotify.com/album/4ctt7ZN6LoY2Brr7efh52M) | 4:29 | 2022-10-06 | 2023-04-28 |
 | [For You](https://open.spotify.com/track/004GETE44RiciWPNPUGqZK) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Eline Mann](https://open.spotify.com/artist/7B68JAWDHgVV7OiLmtjxtu) | [For You](https://open.spotify.com/album/2dOfeD6IChI72iXCkNRQAE) | 2:44 | 2023-01-12 | 2023-04-28 |
+| [Forever Finally Ends](https://open.spotify.com/track/4FPx5Erta743sI6elzwMB9) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Laney](https://open.spotify.com/artist/3WQxYOqxLper87sp8bxtAU) | [Forever Finally Ends](https://open.spotify.com/album/53yUbDnc8QdFVhm7h3ca5T) | 3:20 | 2023-05-04 |  |
 | [Forget](https://open.spotify.com/track/4AvIxgGf0NeC0vBKHGYBP1) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Forget](https://open.spotify.com/album/10BF8MKRZo0ECoym9qxIbu) | 3:24 | 2022-11-04 |  |
 | [Freak Show](https://open.spotify.com/track/6V2tuX3ytBIvY9hSQYboIw) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Lucky Low](https://open.spotify.com/artist/1riI2N4BJfRupJPfYyLpQN), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [Freak Show](https://open.spotify.com/album/6DuhoEadO7782XFHKgKZgA) | 2:17 | 2023-03-03 |  |
 | [Freedom](https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Freedom](https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f) | 3:45 | 2022-09-02 | 2023-04-28 |

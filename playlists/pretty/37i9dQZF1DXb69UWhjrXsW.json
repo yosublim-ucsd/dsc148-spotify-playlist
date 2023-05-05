@@ -1,12 +1,12 @@
 {
   "description": "Songs from some of the greatest films in the history of cinema.",
-  "num_followers": 640188,
+  "num_followers": 640488,
   "original_name": "Hits From The Movies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTliZmI3NWM3NGE2OTkwZWMwYjI5NzU1ZmZlYzVjYzhhMGEzYjg5",
+  "snapshot_id": "MCw1OTc0M2VlZTU0MjY3ZmMzMWQ1NmNhNjE1NjZmNDM5MmYxYTIwOTdl",
   "tracks": [
     {
       "added_at": "2021-07-08 23:00:00",
@@ -823,22 +823,30 @@
     {
       "added_at": "2021-07-08 23:00:00",
       "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+        "name": "Lady Marmalade",
+        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
       "artists": [
         {
-          "name": "Bill Medley",
-          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         },
         {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 290333,
-      "name": "(I've Had) The Time Of My Life - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F"
+      "duration_ms": 267960,
+      "name": "Lady Marmalade - Single Edit",
+      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
     }
   ],
   "unique_name": "Hits From The Movies",

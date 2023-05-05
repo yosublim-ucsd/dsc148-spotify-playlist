@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 3795,
+  "num_followers": 3806,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDBhYzgxMjQ1MTVlNGVmNDJhOTAzNTJhMDUwMTY1NjM3YjQzYzFj",
+  "snapshot_id": "MCwxMDYyZjRhYmIzNzNjNTUyZDY3NzA1MDFlYWI1NTBmM2IwZTY5NDRm",
   "tracks": [
     {
       "added_at": "2023-05-02 09:13:04",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-02 09:13:04",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 244806,
-      "name": "Merry And The Witch\u2019s Flower",
-      "url": "https://open.spotify.com/track/55tdBGmnhA3pPqn9Ih4vzb"
-    },
-    {
-      "added_at": "2023-05-02 09:13:04",
-      "album": {
         "name": "Dearest (feat. Sllo)",
         "url": "https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 167786,
       "name": "Dearest (feat. Sllo)",
       "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
+    },
+    {
+      "added_at": "2023-05-02 09:13:04",
+      "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 244806,
+      "name": "Merry And The Witch\u2019s Flower",
+      "url": "https://open.spotify.com/track/55tdBGmnhA3pPqn9Ih4vzb"
     },
     {
       "added_at": "2023-05-02 09:13:04",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-02 09:13:04",
       "album": {
-        "name": "LOVIN'",
-        "url": "https://open.spotify.com/album/2CMfMvcjtBXHT3XhLCvgyH"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "Spring Flowers",
-      "url": "https://open.spotify.com/track/0FAI7639ZRr1bJfFgy0Q9O"
-    },
-    {
-      "added_at": "2023-05-02 09:13:04",
-      "album": {
         "name": "Spring Is Gone by chance (2021)",
         "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 210386,
       "name": "Spring Is Gone by chance (2021)",
       "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
+    },
+    {
+      "added_at": "2023-05-02 09:13:04",
+      "album": {
+        "name": "LOVIN'",
+        "url": "https://open.spotify.com/album/2CMfMvcjtBXHT3XhLCvgyH"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 216493,
+      "name": "Spring Flowers",
+      "url": "https://open.spotify.com/track/0FAI7639ZRr1bJfFgy0Q9O"
     },
     {
       "added_at": "2023-05-02 09:13:04",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-05-02 09:13:04",
       "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
+    },
+    {
+      "added_at": "2023-05-02 09:13:04",
+      "album": {
         "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
         "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 167800,
       "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
       "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
-    },
-    {
-      "added_at": "2023-05-02 09:13:04",
-      "album": {
-        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
-        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "First Love Story",
-      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     },
     {
       "added_at": "2023-05-02 09:13:04",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-05-02 09:13:04",
       "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+      },
+      "artists": [
+        {
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+    },
+    {
+      "added_at": "2023-05-02 09:13:04",
+      "album": {
         "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
         "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 207613,
       "name": "Spring Is Come By Chance",
       "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
-    },
-    {
-      "added_at": "2023-05-02 09:13:04",
-      "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
-      },
-      "artists": [
-        {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     },
     {
       "added_at": "2023-05-02 09:13:04",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-05-02 09:13:04",
       "album": {
+        "name": "AFTER THE LIGHT",
+        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
+      },
+      "artists": [
+        {
+          "name": "Kang Butter",
+          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "AFTER THE LIGHT",
+      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+    },
+    {
+      "added_at": "2023-05-02 09:13:04",
+      "album": {
         "name": "Paints (feat. 1ho)",
         "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-05-02 09:13:04",
       "album": {
-        "name": "AFTER THE LIGHT",
-        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
-      },
-      "artists": [
-        {
-          "name": "Kang Butter",
-          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "AFTER THE LIGHT",
-      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
-    },
-    {
-      "added_at": "2023-05-02 09:13:04",
-      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-02 09:13:04",
       "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s"
-      },
-      "artists": [
-        {
-          "name": "Zitten",
-          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
-        }
-      ],
-      "duration_ms": 220116,
-      "name": "Night train",
-      "url": "https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7"
-    },
-    {
-      "added_at": "2023-05-02 09:13:04",
-      "album": {
         "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
         "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 222173,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
+    },
+    {
+      "added_at": "2023-05-02 09:13:04",
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s"
+      },
+      "artists": [
+        {
+          "name": "Zitten",
+          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
+        }
+      ],
+      "duration_ms": 220116,
+      "name": "Night train",
+      "url": "https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7"
     },
     {
       "added_at": "2023-05-02 09:13:04",

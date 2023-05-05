@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM?si=9lfBy7EcSuae-NXDzDKmEA\">Caroline Grace</a> ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=Q4cJpGKLTVO_ZhJLq_8clQ\">JAN JAN JAN</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
+    {
+      "album": {
+        "name": "#23",
+        "url": "https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2"
+      },
+      "artists": [
+        {
+          "name": "Lisie Basson",
+          "url": "https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162810,
+      "name": "#23",
+      "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
+    },
     {
       "album": {
         "name": "Die Onbekende",
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 192000,
       "name": "Beskerm Jou Hart",
       "url": "https://open.spotify.com/track/6L7t6WouMiMp03T6IocgBQ"
@@ -920,6 +938,24 @@
       "duration_ms": 194183,
       "name": "Hier Gaat Ons Alweer",
       "url": "https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv"
+    },
+    {
+      "album": {
+        "name": "Braaf",
+        "url": "https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196530,
+      "name": "Hy's 'n Lekker Ou",
+      "url": "https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO"
     },
     {
       "album": {
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 242169,
       "name": "Ons Twee Genoeg (feat. Marissa)",
       "url": "https://open.spotify.com/track/6e91EOUzqp7CITax2iB4rd"

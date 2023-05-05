@@ -1,12 +1,12 @@
 {
   "description": "Les femmes montent le son. Photo : Kim",
-  "num_followers": 195039,
+  "num_followers": 195069,
   "original_name": "EQUAL France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2RiNzc2ODQ4MWM5NTkyYWRhOGIwYjkyYzVhMmViMDQ0ODkwN2Ri",
+  "snapshot_id": "MCxiODBmNjdjOWRiZGMyNDI2MzkyZjQyOWM4ZmFjOGVjOTFmYWQxYjBm",
   "tracks": [
     {
       "added_at": "2023-05-02 22:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "Autour de toi",
+        "url": "https://open.spotify.com/album/59LLEdXEcyErIKoUP71tEQ"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Autour de toi",
+      "url": "https://open.spotify.com/track/4Hqku4GYlVDyXhpb6LnFbC"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "ES",
         "url": "https://open.spotify.com/album/5bT9GQUm75kJaslmrX5LpH"
       },
@@ -363,6 +379,22 @@
       "duration_ms": 188933,
       "name": "Secret",
       "url": "https://open.spotify.com/track/6oDkvRV9A9OGmRCQpo6paO"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "Adieu les monstres",
+        "url": "https://open.spotify.com/album/0UrbIea2sXlvZfMhD9PkFA"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Drama Drama",
+      "url": "https://open.spotify.com/track/6a8AfFmpVuA5wkiFMTep6G"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -383,6 +415,22 @@
       "duration_ms": 228054,
       "name": "J'apaise",
       "url": "https://open.spotify.com/track/3aoGepSHtgHJdQJKomIvgz"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "L'autorisation",
+        "url": "https://open.spotify.com/album/2MHqQIakehgXlnPNSsF9Gw"
+      },
+      "artists": [
+        {
+          "name": "Ehla",
+          "url": "https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp"
+        }
+      ],
+      "duration_ms": 210450,
+      "name": "L'autorisation",
+      "url": "https://open.spotify.com/track/74CnAAhblj4ZXk7d1I3ng9"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -579,6 +627,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "Dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L"
+      },
+      "artists": [
+        {
+          "name": "Nell Widmer",
+          "url": "https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "c'est comme \u00e7a",
         "url": "https://open.spotify.com/album/7f9HykYAfFOaa1GtPKb5oE"
       },
@@ -719,6 +783,22 @@
       "duration_ms": 143000,
       "name": "game over",
       "url": "https://open.spotify.com/track/5giEe3TDM0SdK0Smt24G7o"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "Pas Pareil",
+        "url": "https://open.spotify.com/album/2LkLTnCZHBsIjB5dZTTWYs"
+      },
+      "artists": [
+        {
+          "name": "Margane",
+          "url": "https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb"
+        }
+      ],
+      "duration_ms": 221367,
+      "name": "Pas Pareil",
+      "url": "https://open.spotify.com/track/6kgPzslcxPM94SR08j2nZ6"
     },
     {
       "added_at": "2023-05-02 22:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: WOODZ",
+  "description": "Future K-Pop hits! Cover: ATEEZ",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -5458,6 +5458,24 @@
       "duration_ms": 181480,
       "name": "GUNSHOT",
       "url": "https://open.spotify.com/track/4qMt92hgQlJMyJjdI0Nw2h"
+    },
+    {
+      "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197025,
+      "name": "HALAZIA",
+      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
     },
     {
       "album": {

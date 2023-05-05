@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 137848,
       "name": "Abby",
       "url": "https://open.spotify.com/track/0ASns2TRZsE0V1ocDD79qJ"
@@ -164,6 +164,24 @@
       "duration_ms": 137848,
       "name": "Abby",
       "url": "https://open.spotify.com/track/0o8mGza0TMFgTf9E9DuZhs"
+    },
+    {
+      "album": {
+        "name": "Abby",
+        "url": "https://open.spotify.com/album/5ZUCaTaVUN9xyeOvu15CtN"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137848,
+      "name": "Abby",
+      "url": "https://open.spotify.com/track/5Aifh9LNXmccnTqRiDxlmr"
     },
     {
       "album": {

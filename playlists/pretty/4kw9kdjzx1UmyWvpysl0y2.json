@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127265,
+  "num_followers": 127267,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE2OSw2ZjIwOGRiMGQyYjM0MzRmNWQyMzQ2YzRmZjFlMDQ5YzMyMGFkNGI0",
+  "snapshot_id": "NDE3MixjZTMxYWU4YTRjOTEzYWRkMDY4NGQ2ODE3ZWJiNjhiNTQzMjdiNGMx",
   "tracks": [
+    {
+      "added_at": "2023-05-04 16:27:11",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        },
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk"
+    },
     {
       "added_at": "2023-05-03 16:43:43",
       "album": {
@@ -1075,26 +1095,6 @@
       "duration_ms": 214000,
       "name": "Tourmaline",
       "url": "https://open.spotify.com/track/1yX1uaq2rWDEURrREEmyIM"
-    },
-    {
-      "added_at": "2023-02-16 18:59:06",
-      "album": {
-        "name": "No Service",
-        "url": "https://open.spotify.com/album/5XvkGrC973JZubUWp20vYD"
-      },
-      "artists": [
-        {
-          "name": "Vindata",
-          "url": "https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT"
-        },
-        {
-          "name": "Ozer",
-          "url": "https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp"
-        }
-      ],
-      "duration_ms": 180922,
-      "name": "No Service",
-      "url": "https://open.spotify.com/track/1R2g5R7ckiCczur5kd3BfI"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

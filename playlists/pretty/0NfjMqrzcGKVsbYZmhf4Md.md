@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,207 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,204 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 | 2 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Look What Thoughts Will Do](https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx) | 2:53 |
 | 3 | [The Wild Side Of Life](https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Songs Of The Brazos Valley](https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc) | 2:44 |
 | 4 | [There Stands The Glass](https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:26 |
-| 5 | [Honky Tonk Man](https://open.spotify.com/track/2FjF4NEH5vw69RjnPKCnM0) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [Johnny Horton \- 16 Biggest Hits](https://open.spotify.com/album/4Hg4BiDIaZGPJDfNpfYImZ) | 2:11 |
+| 5 | [Honky Tonk Man](https://open.spotify.com/track/2FjF4NEH5vw69RjnPKCnM0) | [Johnny Horton](https://open.spotify.com/artist/3c8KOAqNYpCPM1x8u9PLDL) | [Johnny Horton \- 16 Biggest Hits](https://open.spotify.com/album/4Hg4BiDIaZGPJDfNpfYImZ) | 2:11 |
 | 6 | [Pass The Booze](https://open.spotify.com/track/0U68NlRFhZpak0GEL2jBMZ) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [Retrospective, Volume 2](https://open.spotify.com/album/6ErAAsTU7CrybTUInlkDfh) | 2:43 |
 | 7 | [One By One](https://open.spotify.com/track/1eLuPIA4KPWuEL16owyqCS) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX), [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [20th Century Masters: The Millennium Collection: Best of Kitty Wells](https://open.spotify.com/album/7f2LfXaJOt4tbhE564gTPW) | 2:56 |
 | 8 | [I Can't Go Home Like This](https://open.spotify.com/track/3yJvlCiSh1pBXgW2GLRSNF) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price 1951\-1962](https://open.spotify.com/album/7J25g8TiR9qoez4a2oM4FA) | 2:11 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 | 22 | [Walking The Floor Over You \- 1941 Single Version](https://open.spotify.com/track/4M8z4TSbSekrYDw7I3iOYy) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [The Definitive Collection](https://open.spotify.com/album/2ZhUboUqR3M68xvJRrl8Mp) | 2:35 |
 | 23 | [It Wasn't God Who Made Honky Tonk Angels](https://open.spotify.com/track/6uMB2D7bytHE904AGNekNB) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [20th Century Masters: The Millennium Collection: Best of Kitty Wells](https://open.spotify.com/album/7f2LfXaJOt4tbhE564gTPW) | 2:30 |
 | 24 | [Honky Tonkitis](https://open.spotify.com/track/1jTk5rndbrJIfBPN9XuvsB) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:44 |
-| 25 | [Honky\-Tonk Hardwood Floor](https://open.spotify.com/track/7MVkdV4LpOlI31hUrlnG3t) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [The Essential Johnny Horton](https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN) | 2:18 |
+| 25 | [Honky\-Tonk Hardwood Floor](https://open.spotify.com/track/7MVkdV4LpOlI31hUrlnG3t) | [Johnny Horton](https://open.spotify.com/artist/3c8KOAqNYpCPM1x8u9PLDL) | [The Essential Johnny Horton](https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN) | 2:18 |
 | 26 | [Hillbilly Fever](https://open.spotify.com/track/5yiBMRROFq27FDiFdgSOil) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [The Essential "Little" Jimmy Dickens](https://open.spotify.com/album/2zw9Dcasmd1uhLe5toAd1f) | 2:53 |
 | 27 | [Are You Teasing Me](https://open.spotify.com/track/2xe74jATEUyGEVrNRTYJms) | [Carl Smith](https://open.spotify.com/artist/4FmgWM5kNxZ8ibCNPS6hHN) | [The Essential Carl Smith 1950\-1956](https://open.spotify.com/album/7mY4EUy9WdYB4hZ1XWVycZ) | 2:34 |
 | 28 | [Who Will Buy The Wine \- Single Version](https://open.spotify.com/track/5Uvzm5SgQL2mts6XkiHlkn) | [Charlie Walker](https://open.spotify.com/artist/3tsk4jo72o6tDjCGaMJUGF) | [Charlie Walker: Greatest Honky Tonk Hits](https://open.spotify.com/album/6KUUQoxIu4qp3Ug526mTi3) | 2:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,188 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,357 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 74 | [Sing Sing Sing \- Extra Medium Remix](https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC) | [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs), [Extra Medium](https://open.spotify.com/artist/4kCp7egBIcDpMGdlnsPv4I) | [Dance, Dance, Dance \(Extra Steps\)](https://open.spotify.com/album/1uXmunFGuc2alC1IIL2MoS) | 4:18 |
 | 75 | [Doo uap, doo uap, doo uap \- Radio edit](https://open.spotify.com/track/68j2rXimsXQYezvQn2Ot4c) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ) | [Hôtel Costes 5](https://open.spotify.com/album/4yuBlJyKxO1AcBFQ9umCIS) | 3:35 |
 | 76 | [Let Yourself Go](https://open.spotify.com/track/7unnkEMBqth617Q8DyhsFd) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Long Legs](https://open.spotify.com/album/24LwsnJl1E5hxRxUWTcTRn) | 3:42 |
-| 77 | [Speed Dating An Arsonist](https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Speed Dating An Arsonist](https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9) | 5:30 |
+| 77 | [Speed Dating An Arsonist](https://open.spotify.com/track/2FhInxwW01SyhpDp9LbInt) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Swagger & Stroll Down The Rabbit Hole](https://open.spotify.com/album/3ZAWIIIWwe5ZmfY4fLZ8Y0) | 5:30 |
 | 78 | [Taking You with Me](https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Taking You with Me](https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj) | 3:19 |
 | 79 | [The Jungle Jive](https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [Bongo Chic](https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052) | 3:51 |
 | 80 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0) | 3:44 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/track/0FilMYb2ATvOOmJPtEH0t3) | [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/album/1a3Ce15aKCM4me0RqMLIUZ) | 4:10 |
 | 120 | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu) | [Player2](https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy), [A\_A\_RonHD](https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS) | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g) | 3:53 |
 
-Snapshot ID: `MCw0MmM4NDI3MTVhYjQ3ZTFlOGNlOGZhM2UxZjI4ZjA0OTYxODYyZTI3`
+Snapshot ID: `MCw0NTkzZTRhNjk0M2JjMjFmOTFlMWIwOGI0N2IzM2NlYTdlYmVmOTQ3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: DURDN (Japan/South Korea)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: The Chairs (Taiwan)",
   "name": ".ORG",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 179627,
       "name": "ANDA KATAKAN",
       "url": "https://open.spotify.com/track/5KEqkZsq2kXZoZwMlWCCBq"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 185066,
       "name": "BITTER!",
       "url": "https://open.spotify.com/track/6lqHpjXM9Mm8AQ4hy9Dr9K"
@@ -2697,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/6FEmt8gMAOzA0NA3W57hbl"
+      },
+      "artists": [
+        {
+          "name": "Dizzyboy",
+          "url": "https://open.spotify.com/artist/5zWSUSKh2p9JPAgKulSxvj"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "dawn",
+      "url": "https://open.spotify.com/track/68mGHr1JQQNjIJXaz1y7hu"
+    },
+    {
+      "album": {
         "name": "Trail Mix Tape",
         "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
       },
@@ -4017,6 +4035,24 @@
     },
     {
       "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/5fZmcavpVB5MZ8U6s0ghan"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180495,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/0T8vJjMDkL6I0ED3Tw8qBi"
+    },
+    {
+      "album": {
         "name": "Repossession (Repo Version)",
         "url": "https://open.spotify.com/album/5N1ZXNF7jbacOvJvUN21Zt"
       },
@@ -4952,6 +4988,24 @@
       "duration_ms": 258596,
       "name": "Heroik",
       "url": "https://open.spotify.com/track/2sRXa0KzHvIsUuN7zYBEd4"
+    },
+    {
+      "album": {
+        "name": "Hey Aries",
+        "url": "https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257221,
+      "name": "Hey Aries",
+      "url": "https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I"
     },
     {
       "album": {
@@ -6434,7 +6488,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 116033,
       "name": "Keeping Love",
       "url": "https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX"
@@ -8758,7 +8812,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 138173,
       "name": "Out To Eat",
       "url": "https://open.spotify.com/track/7ElUAFXBTExwiK9I3fZqRh"
@@ -9402,7 +9456,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 121159,
       "name": "Pull My Hair",
       "url": "https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA"
@@ -9652,7 +9706,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 226866,
       "name": "Room for You (Feat. 10CM)",
       "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
@@ -10305,6 +10359,24 @@
     },
     {
       "album": {
+        "name": "C\u00e1i \u0110\u1ea7u Ti\u00ean",
+        "url": "https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5"
+      },
+      "artists": [
+        {
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129440,
+      "name": "Sober Song",
+      "url": "https://open.spotify.com/track/6QiE9xVHfGT1s3ilFo2lVu"
+    },
+    {
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/2lv3jXwprDdxCMFo1op1hX"
       },
@@ -10338,6 +10410,28 @@
       "duration_ms": 278632,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/1QXJAUb8ncWqjwNMbq9a8z"
+    },
+    {
+      "album": {
+        "name": "Something About You and Me",
+        "url": "https://open.spotify.com/album/1l8zKcGI0fpTpLT1UmdgGG"
+      },
+      "artists": [
+        {
+          "name": "LilithQueenB",
+          "url": "https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m"
+        },
+        {
+          "name": "JNYBeatz",
+          "url": "https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Something About You and Me",
+      "url": "https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8"
     },
     {
       "album": {
@@ -13905,6 +13999,24 @@
     },
     {
       "album": {
+        "name": "\u6200\u4eba\u7d6e\u8a9e",
+        "url": "https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220341,
+      "name": "\u6200\u4eba\u7d6e\u8a9e",
+      "url": "https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o"
+    },
+    {
+      "album": {
         "name": "\u6211\u6bcb\u662f\u5201\u6545\u610f (\u99ac\u5d17\u6f01\u6751 Version) - WINDIE \u6536OUT!",
         "url": "https://open.spotify.com/album/1aGF7rNcF1TSi3pf69PaSA"
       },
@@ -13952,7 +14064,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 294826,
       "name": "\u62c9\u9eb5\u516c\u5b50 Ramen Boy",
       "url": "https://open.spotify.com/track/6gn8E9FPBNbrrb6tKS14av"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WTGgxIlIhQ.md) - [plain]
 
 > Sing along to these Vacation Bible School favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,258 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,263 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WTGgxIlIhQ.md) - [plain]
 | 50 | [Jesus Loves Me](https://open.spotify.com/track/29YSih94JCET2h8VCiWK4J) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 4:00 |
 | 51 | [How Far Love Goes](https://open.spotify.com/track/7KglTwKZVspJa1tDC84MFh) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [Top 50 VBS Favorites](https://open.spotify.com/album/4wyrd1mPa0FWPMamEzox9V) | 2:33 |
 
-Snapshot ID: `MCxmNDc0MzBiMTlhZGIwNGNiYzNhM2Y3MTNkODVjNmIzNDhkOTNlZTNl`
+Snapshot ID: `MCw2NDM5ZDEwM2QzNTc5ZDY0MzhiZjg4NGIzZDNmY2ZjNjkxNmU4NWY3`

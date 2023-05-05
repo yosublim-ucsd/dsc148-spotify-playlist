@@ -4,7 +4,7 @@
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-168 songs - 10 hr 13 min
+169 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [El Combate](https://open.spotify.com/track/0ajTD1hm6KzQmVD6reoxYD) | [Marimba Orquesta Corona De Tapachula](https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb) | [Temas Juguemos A Cantar Con La Marimba Orquesta Corona De Tapachula](https://open.spotify.com/album/3Ujpe24gvXe53o5y33Ixfm) | 2:32 | 2021-11-17 |  |
 | [El Corrido de Amado Carrillo Fuentes](https://open.spotify.com/track/17WcGtPpnoNwg9bFG5UUVr) | [Tomas Sevilla](https://open.spotify.com/artist/2W9olsomJwIGlMySC3XX6D), [Melquiades Sevilla](https://open.spotify.com/artist/7fGwbz4M8GucLHxDATtjzh) | [The Devils Swing: El Columpio Del Diablo](https://open.spotify.com/album/2gI2fheXjJyx9uxI9aPCcF) | 4:05 | 2021-11-17 |  |
 | [El Mariachi \- Remastered](https://open.spotify.com/track/44jBSFAc7qfldyuRpLNMls) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:06 | 2021-11-17 |  |
-| [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 | 2021-11-17 |  |
+| [El Matador](https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Lo Esencial](https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio) | 4:34 | 2021-11-17 |  |
+| [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 | 2021-11-17 | 2023-05-05 |
 | [El mil amores](https://open.spotify.com/track/4NHbX4msV8GH4smQZ9Cvf0) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Adios a Mis Chorreadas](https://open.spotify.com/album/5ne1zw6JDkeGtHVOWD60zm) | 2:20 | 2021-11-17 |  |
 | [El Palo Verde](https://open.spotify.com/track/4jzlAIMYXH7KXyO7ldkn9l) | [Banda Sinaloense MM](https://open.spotify.com/artist/6fgCB45zXDURhJVchnPA0S) | [Puras de Lazo y Reata](https://open.spotify.com/album/6t9CdnNOVz5HTjd3kXjNsc) | 2:14 | 2021-11-17 |  |
 | [El Polvo y la Marijuana](https://open.spotify.com/track/5YBKx8PBUSn9Pqj4mg0BOA) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Regalito](https://open.spotify.com/album/0G0GXV4LrxzCvjwCTIQiHE) | 2:47 | 2021-11-17 |  |

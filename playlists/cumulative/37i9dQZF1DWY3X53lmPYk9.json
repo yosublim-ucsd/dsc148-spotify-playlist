@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 248500,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/1DfNHZVzrwezNXui3BKlYR"
@@ -3073,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Mellow Moments",
+        "url": "https://open.spotify.com/album/6EPzhXnwWDGF1We8Qqk8cI"
+      },
+      "artists": [
+        {
+          "name": "Tina Wellbeck",
+          "url": "https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152167,
+      "name": "Mellow Moments",
+      "url": "https://open.spotify.com/track/05mDaFGo2L11McsbZ0xLRR"
+    },
+    {
+      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/6mSvYvkESutbofwdQ59pM3"
       },
@@ -3228,7 +3246,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 169877,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/2A6qg2En98HEsRYEOk51fi"
@@ -3430,6 +3448,24 @@
       "duration_ms": 171250,
       "name": "Night Mood",
       "url": "https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f"
+    },
+    {
+      "album": {
+        "name": "Oh Lady Be Good",
+        "url": "https://open.spotify.com/album/2pnrqa6WnHe2cJUG3dPwAi"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "Oh Lady Be Good",
+      "url": "https://open.spotify.com/track/2ksjtAUVYC6vZ64GRhQn2h"
     },
     {
       "album": {
@@ -4261,6 +4297,24 @@
     },
     {
       "album": {
+        "name": "St. James's At Night",
+        "url": "https://open.spotify.com/album/6MWPtVkygLoin1DrP14M2G"
+      },
+      "artists": [
+        {
+          "name": "Roland Wilder",
+          "url": "https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149771,
+      "name": "St. James's At Night",
+      "url": "https://open.spotify.com/track/3XrKJFEORrqhHLYvGZTqux"
+    },
+    {
+      "album": {
         "name": "You must believe in spring",
         "url": "https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf"
       },
@@ -4524,7 +4578,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 344775,
       "name": "tea for two",
       "url": "https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8"
@@ -4582,6 +4636,24 @@
       "duration_ms": 182677,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/121BsQV03zxG11taJmpnUe"
+    },
+    {
+      "album": {
+        "name": "The Green Sky",
+        "url": "https://open.spotify.com/album/6JP6ibLclaGutANJnGS1ec"
+      },
+      "artists": [
+        {
+          "name": "Charles Blake",
+          "url": "https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "The Green Sky",
+      "url": "https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN"
     },
     {
       "album": {
@@ -5320,6 +5392,24 @@
       "duration_ms": 212250,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5"
+    },
+    {
+      "album": {
+        "name": "You can handle it",
+        "url": "https://open.spotify.com/album/3DH1zOPlkITnfkZ0cLRUIk"
+      },
+      "artists": [
+        {
+          "name": "Winola Weber",
+          "url": "https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "You can handle it",
+      "url": "https://open.spotify.com/track/26iIjzdLwmSFyXNv75DR0e"
     },
     {
       "album": {

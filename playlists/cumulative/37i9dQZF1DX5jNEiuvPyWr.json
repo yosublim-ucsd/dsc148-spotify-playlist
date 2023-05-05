@@ -354,7 +354,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 148487,
       "name": "AUDIOWAVE",
       "url": "https://open.spotify.com/track/7wodZKwS4F2IB1lPjHTMWx"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 154280,
       "name": "Bataille (Affam\u00e9 #18)",
       "url": "https://open.spotify.com/track/61b4BnxFsR4RrhHBv1KZqz"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 174853,
       "name": "Dehors Part 2",
       "url": "https://open.spotify.com/track/3BX8ris74IVRx9ySBdoKES"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 150000,
       "name": "Infect\u00e9",
       "url": "https://open.spotify.com/track/07mCQ6sRZzT5XoSqnA2fOW"
@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8"
+      },
+      "artists": [
+        {
+          "name": "Enolevrai",
+          "url": "https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x"
+    },
+    {
+      "album": {
         "name": "OPAQUE",
         "url": "https://open.spotify.com/album/4Nkl8GoDDewl9lcvuyVqdk"
       },
@@ -2686,6 +2704,46 @@
       "duration_ms": 212509,
       "name": "Perdu",
       "url": "https://open.spotify.com/track/2YPxuRn3QTh4vQ6Qfh2EpG"
+    },
+    {
+      "album": {
+        "name": "PERDU",
+        "url": "https://open.spotify.com/album/1W1QqDVrF4rMqE2O7OnVYg"
+      },
+      "artists": [
+        {
+          "name": "Vadek",
+          "url": "https://open.spotify.com/artist/40m5FHZCGhyfN6eMi1oJPv"
+        },
+        {
+          "name": "Demas",
+          "url": "https://open.spotify.com/artist/6jgxd1BrkpYObThse9uhfG"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195145,
+      "name": "PERDU",
+      "url": "https://open.spotify.com/track/43bfTCUSTBAJNWCourc7Mb"
+    },
+    {
+      "album": {
+        "name": "PERDU D'AVANCE",
+        "url": "https://open.spotify.com/album/1FsjyKZzdKLKfRW3qjSykW"
+      },
+      "artists": [
+        {
+          "name": "HAKAI",
+          "url": "https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180834,
+      "name": "PERDU D'AVANCE",
+      "url": "https://open.spotify.com/track/32CtvOn0vsV5VlGk5JeZpg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-256 songs - 11 hr 41 min
+257 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [A Sky Full of Stars](https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [A Sky Full of Stars](https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1) | 2:36 | 2022-12-09 |  |
 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 | 2023-03-31 |  |
 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 | 2023-02-24 |  |
-| [Abby](https://open.spotify.com/track/0ASns2TRZsE0V1ocDD79qJ) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7Fc96phdrEEBlOPcTgtADd) | 2:17 | 2022-10-28 |  |
+| [Abby](https://open.spotify.com/track/0ASns2TRZsE0V1ocDD79qJ) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7Fc96phdrEEBlOPcTgtADd) | 2:17 | 2022-10-28 | 2023-05-05 |
 | [Abby](https://open.spotify.com/track/0o8mGza0TMFgTf9E9DuZhs) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7fpYo14NmrothLMregmtyT) | 2:17 | 2022-07-15 | 2022-11-05 |
+| [Abby](https://open.spotify.com/track/5Aifh9LNXmccnTqRiDxlmr) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/5ZUCaTaVUN9xyeOvu15CtN) | 2:17 | 2023-04-28 |  |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0IZNL7FV89WdMnQI9b5Cn5) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/1AU1wDXZ56cN9WYT1XVDWA) | 4:15 | 2023-03-31 | 2023-04-28 |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-05-13 | 2023-04-12 |
 | [Afterglow](https://open.spotify.com/track/4ZliE8PtQ1qgnPkFdOeqQ8) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Afterglow](https://open.spotify.com/album/4HGCzPumUHchGQpJJYHsPl) | 3:05 | 2022-05-13 |  |

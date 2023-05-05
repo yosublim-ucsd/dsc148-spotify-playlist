@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-439 songs - 1 day 0 hr 39 min
+441 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [High](https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [High](https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ) | 3:12 | 2022-02-15 | 2022-03-10 |
 | [High On That New Love](https://open.spotify.com/track/1QH1Lhz1GFShACuoKgFcL9) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Tiina](https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8) | [High On That New Love](https://open.spotify.com/album/5DwUisYZRsiWTmRc8v2TEO) | 2:46 | 2022-09-16 | 2022-10-06 |
 | [Higher](https://open.spotify.com/track/53WYJw5FaSCUOzmQar0Jdy) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Higher](https://open.spotify.com/album/12mtnd8EWS3IN6ORdX99yy) | 4:45 | 2023-03-21 | 2023-04-01 |
+| [hold the world in your hands](https://open.spotify.com/track/2QJc1U3fWRA1fNfsCzuno0) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [hold the world in your hands](https://open.spotify.com/album/5pjBgBD67DAdelFMJnCb20) | 2:39 | 2023-05-04 |  |
 | [Hold You](https://open.spotify.com/track/6Ufvp94t2S8UkGUNZNhSVl) | [Serion](https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs) | [Hold You](https://open.spotify.com/album/3waQCZkpnLhT3XGeYludH4) | 3:19 | 2021-11-19 | 2022-01-08 |
 | [Holding Me Like Water](https://open.spotify.com/track/4syc4i3rzqFprXY951pnNl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Holding Me Like Water](https://open.spotify.com/album/0h1dy10B22tfqpTw4iKG2M) | 3:56 | 2023-01-19 |  |
 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 | 2022-01-28 | 2022-02-16 |
@@ -266,6 +267,7 @@
 | [Move Up](https://open.spotify.com/track/1wyg0x1IvNNSWv8JWxKpRn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Move Up](https://open.spotify.com/album/0iX0mDDPY7A5ayoPza4tpK) | 2:59 | 2022-02-11 | 2022-03-10 |
 | [Movin' On](https://open.spotify.com/track/5gVS85OUfWUX2kaORjc5J3) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j), [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Movin' On](https://open.spotify.com/album/4KXrOxYRj4OsVIgixVU30l) | 3:24 | 2022-06-24 |  |
 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 | 2022-01-21 | 2022-02-16 |
+| [Mr\. Taxi Driver](https://open.spotify.com/track/0FdpgvEYDLBt9nZeFL3krA) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Mr\. Taxi Driver](https://open.spotify.com/album/0x0lFRnJAg1S7kqnXeef06) | 3:31 | 2023-05-04 |  |
 | [Ms\. Intentions](https://open.spotify.com/track/0cV5T2pHqsc7xeA0O8e91X) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Couchsurfing](https://open.spotify.com/album/3VlbUTneAskcOcBmeZjD3F) | 3:29 | 2021-11-22 | 2022-01-08 |
 | [My Everything](https://open.spotify.com/track/0Qq4NdNUkHBD887Dpozvhn) | [Sulvida](https://open.spotify.com/artist/0phDitF6QOKVk0ALx5d9wI), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [My Everything](https://open.spotify.com/album/1drSpyjhFJf9XCtS09BUBX) | 3:34 | 2022-07-22 | 2022-09-19 |
 | [My Heart](https://open.spotify.com/track/2tinYknqBborA5kYv07aKX) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [My Heart](https://open.spotify.com/album/0ntarsVywCQ1WDApCRJJMK) | 3:20 | 2022-03-24 |  |

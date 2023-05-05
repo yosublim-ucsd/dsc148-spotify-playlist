@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 733344,
+  "num_followers": 733551,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWE0ZGFmMjZkMWNiYWExZWRhZDQyYjc1YmQ0Y2Q2MmRiMmMxMmNi",
+  "snapshot_id": "MCwzNTEwOGYzNzgzOThkOGEzNmYyNzA3NGU5MDRlYmJhZjE1NTBkZDNm",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Noonday Dream",
-        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 394320,
-      "name": "Nica Libres At Dusk",
-      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Agape",
         "url": "https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 285677,
       "name": "When You Break",
       "url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Noonday Dream",
+        "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 394320,
+      "name": "Nica Libres At Dusk",
+      "url": "https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
-        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
-      },
-      "artists": [
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
-      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 277653,
       "name": "It Will Come Back",
       "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
+        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
+      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Burgh Island EP",
-        "url": "https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 284548,
-      "name": "Esmerelda",
-      "url": "https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 278600,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Burgh Island EP",
+        "url": "https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 284548,
+      "name": "Esmerelda",
+      "url": "https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Yarrow",
-        "url": "https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH"
-      },
-      "artists": [
-        {
-          "name": "The Deep Dark Woods",
-          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Drifting on a Summer's Night",
-      "url": "https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Cathedrals - EP",
         "url": "https://open.spotify.com/album/5pMbkSjNGEcKjnRwbF8kwv"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 223759,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/49gE0a0YPRMXRp43QhnHH8"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Yarrow",
+        "url": "https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH"
+      },
+      "artists": [
+        {
+          "name": "The Deep Dark Woods",
+          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Drifting on a Summer's Night",
+      "url": "https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Gamble for a Rose",
         "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 242253,
       "name": "Loose Change for the Boatman",
       "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 276488,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1627,6 +1611,54 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "duration_ms": 276488,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/0b1pEut6nYAQhX6EMzXGGv"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "duration_ms": 222859,
+      "name": "Sausalito",
+      "url": "https://open.spotify.com/track/7dbkkve2z5PQ0Jy3e1KixE"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Bravado",
+        "url": "https://open.spotify.com/album/3ZkPIFsMYL7cALJr2LPohi"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 247631,
+      "name": "The Swimmer (To Be an Old Man)",
+      "url": "https://open.spotify.com/track/4nlDcud1pcNcvWEbPH4it1"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "William Crighton",
         "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
       },
@@ -1639,38 +1671,6 @@
       "duration_ms": 362280,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Speaking With Trees",
-        "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Speaking With Trees",
-      "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Blue Film",
-        "url": "https://open.spotify.com/album/7D8AeZSOdO2eO2Htuyubd8"
-      },
-      "artists": [
-        {
-          "name": "Lo-Fang",
-          "url": "https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Boris",
-      "url": "https://open.spotify.com/track/1rfSdNJodNnBxLlPok0YFB"
     }
   ],
   "unique_name": "Dark & Stormy",

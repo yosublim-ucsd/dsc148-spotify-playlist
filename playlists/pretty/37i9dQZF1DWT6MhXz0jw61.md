@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,415 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,045 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 9 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
 | 10 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 11 | [Burn Bridges \(with Lute, Cozz, REASON & Arin Ray\)](https://open.spotify.com/track/5CRnOqHHcREG9NPtq7xHge) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 4:13 |
-| 12 | [open letter](https://open.spotify.com/track/4MqLfcbzg95ocHYw6MLfMc) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:06 |
+| 12 | [open letter](https://open.spotify.com/track/4MqLfcbzg95ocHYw6MLfMc) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in the House of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:06 |
 | 13 | [Spicy Tuna Yellow Tail Freestyle](https://open.spotify.com/track/0yvxyLOcl9q2cnOj35MtLO) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Spicy Tuna Yellow Tail Freestyle](https://open.spotify.com/album/0mar8M4lUZgMyDkc73IWFd) | 2:24 |
 | 14 | [Goner!](https://open.spotify.com/track/7cmR3b3IPNVgUoqivTJmtj) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9), [Deniro Farrar](https://open.spotify.com/artist/3xXtYXTUWYuJpJXub1Up5p), [Emani](https://open.spotify.com/artist/4V45KUnlhpjQQjsGuh0dVd), [Breanna Burks](https://open.spotify.com/artist/65RKpATWQlBu3TY2G9z9XF) | [ALLGASNOBRAKEZ!](https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t) | 4:37 |
 | 15 | [Hootz](https://open.spotify.com/track/4Q0QCJid9Sg0EKFfewCgw6) | [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Love Without Conditions](https://open.spotify.com/album/3pKvcDR1KlZ2uxRDVegJej) | 3:09 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 28 | [Cruel](https://open.spotify.com/track/360TreSWJw9WXgu3aGE9Oq) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Cruel](https://open.spotify.com/album/6l2GmTQIZkDZpQuGXQqcNP) | 2:57 |
 | 29 | [Shimmy \(feat\. Joey Bada$$\)](https://open.spotify.com/track/7vL9rAHS2fLo8EjvGvtWr7) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 2:35 |
 | 30 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
-| 31 | [driving scenes \(feat\. Cocoa Sarai\)](https://open.spotify.com/track/1NNfFaDrZRcpphOhp85Dwt) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:44 |
+| 31 | [driving scenes \(feat\. Cocoa Sarai\)](https://open.spotify.com/track/1NNfFaDrZRcpphOhp85Dwt) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [LACUNA in the House of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:44 |
 | 32 | [Slipping Into Darkness](https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Slipping Into Darkness](https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N) | 4:16 |
 | 33 | [SHIPS N LUV](https://open.spotify.com/track/7CZAzS3p7NGO4MkO4BO47Y) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 4:14 |
 | 34 | [Hiiigh Viibratiiions](https://open.spotify.com/track/7tGLBmtZbUpwt2ZCaclO89) | [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Hiiigh Viibratiiions](https://open.spotify.com/album/1e8im5U2O7v0wEAXY4wEgp) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Broke](https://open.spotify.com/track/4PuK5qsM9yF2x4MhM5sjkT) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Broke](https://open.spotify.com/album/0xZKaOjDHI0Kx3IfS2eb0M) | 2:59 |
 | 100 | [PARIS](https://open.spotify.com/track/52LNZKzoEyx0KzV0IMclnc) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 4](https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3) | 2:24 |
 
-Snapshot ID: `MCw3M2Y1MjY2MWJiNDBiNDVmMGQ5NTFiNzgyNGU1YzcxOWM2MTMwMDYw`
+Snapshot ID: `MCw1OTIyNTNmNjFlNWI0OTk3NjhlNjc3NWVhYjRmYzJkYTg4YjQyNjkw`

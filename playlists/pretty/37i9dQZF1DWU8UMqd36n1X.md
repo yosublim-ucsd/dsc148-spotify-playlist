@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 
 > Music from that amazing era\. Cover: Teddy Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,270 likes - 56 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,312 likes - 56 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 | 55 | [Under Pressure](https://open.spotify.com/track/3mcbFloFZLeAWJYFR0HITA) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 4:13 |
 | 56 | [Call Me A Mack](https://open.spotify.com/track/32dRq8sTlXLGbDgZ3ZSKQO) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 4:06 |
 
-Snapshot ID: `MCxlMjZlNjdlMzgwOTgyZGYyNjFlODU0ZDg2NWZjMDI1Y2Q1MjUyZWVl`
+Snapshot ID: `MCwxMjc0ZDk1ZTU2YzM2NWVlZmYxODJjODk1YmIyNjUxNDczNmQzZDAx`

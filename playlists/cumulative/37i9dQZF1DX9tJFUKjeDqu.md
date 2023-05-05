@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-124 songs - 8 hr 2 min
+126 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Don't Be Fooled](https://open.spotify.com/track/2CAIdlGCNRSDyJ8Y2UdQVo) | [Lada](https://open.spotify.com/artist/4GerVbgFLWZCwwnz6tE1EN) | [Don't Be Fooled](https://open.spotify.com/album/1ziVR6or0rA1lj4cbMxjQy) | 2:31 | 2023-01-06 |  |
 | [Donna](https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 7:23 | 2022-10-14 |  |
 | [Donna](https://open.spotify.com/track/2pypgWd8ZbLYwyMsPXPai1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 7:23 | 2022-04-15 | 2022-11-13 |
+| [Drifting](https://open.spotify.com/track/0irjHj7XcqD1jZ3zageihG) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [Drifting](https://open.spotify.com/album/7aEZFxmIvlxSIAnNxnZQIx) | 2:36 | 2023-05-05 |  |
 | [Elegy for a Bluesman](https://open.spotify.com/track/51eO3uxag2ZhvnqWePYeVv) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Maxwell Street](https://open.spotify.com/album/6QJ6h4nSqQgnCNVVVYPwly) | 5:40 | 2022-07-08 |  |
 | [Elegy for a Bluesman](https://open.spotify.com/track/6ezalWK2RCMwOoVPm6Yqj7) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Maxwell Street](https://open.spotify.com/album/2YObpHVuuBJjCk9vaoZ9Nf) | 5:40 | 2022-04-15 | 2022-07-29 |
 | [Entertaining Moods for Studying](https://open.spotify.com/track/6R2i7JRkM7l4ez6J06TgEu) | [Instrumental Blues Retro](https://open.spotify.com/artist/6ynE2UtjVmR7Ljqr8hBbq0) | [Fabulous Backdrop for Reading](https://open.spotify.com/album/33VjsbAeDbX5naLPcOdU2P) | 2:24 | 2022-04-15 |  |
@@ -63,6 +64,7 @@
 | [I've Started To Lose Track](https://open.spotify.com/track/31LJ8qz6oyssmej1vs9Hcc) | [Ian Ross Cohen](https://open.spotify.com/artist/5C1gIEuOa13fnL4zJ2b3l5) | [Instrumentals](https://open.spotify.com/album/2IWlTvyYjmIRAK1BujmpsF) | 3:37 | 2023-01-13 |  |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi) | [Berdon Kirksaether](https://open.spotify.com/artist/0wp3pipE3auQxIeHfFvH6o), [The Twang Bar Kings](https://open.spotify.com/artist/2gOxxvd4sVhmsEmu3GQVLo) | [Blues](https://open.spotify.com/album/16Tjd5ycFqkHDU6f78rKYk) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-04-15 |  |
+| [Jaded](https://open.spotify.com/track/706i4fPr3ghF467v5SLnjH) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Jaded](https://open.spotify.com/album/2Zd2IWybMwUcv1uTKNapPc) | 2:33 | 2023-05-05 |  |
 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-04-15 |  |
 | [Labour](https://open.spotify.com/track/0zmxQRILLqz9M2KKsNyvP8) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Labour](https://open.spotify.com/album/19tMyS4bf5WVptEqdO6HQf) | 2:23 | 2023-01-06 |  |
 | [Las Grutas Blues](https://open.spotify.com/track/0gsUQ6Zzo4HBNe2uSPVmIG) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Las Grutas Blues](https://open.spotify.com/album/2QYPdPjdn30hoFSSGRTQSr) | 2:31 | 2023-03-17 |  |

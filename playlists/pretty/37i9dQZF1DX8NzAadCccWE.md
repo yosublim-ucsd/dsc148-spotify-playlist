@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,199 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,218 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 16 | [All of the Massive \- Mixed](https://open.spotify.com/track/34Maa7Wy7yFRwqagCFyjIV) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [0860 Mixtape \(Mixed\)](https://open.spotify.com/album/25QmoYMTOsTsfVabo0x9Ul) | 3:47 |
 | 17 | [Pure Luv](https://open.spotify.com/track/0lpiIQ7V9vjPqgmodkUHlw) | [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG) | [Road Trip EP](https://open.spotify.com/album/7sxTlrVVSlgk28TzzzOATJ) | 4:00 |
 | 18 | [Most High](https://open.spotify.com/track/64jTJkHxynSQO2nBfnjBfP) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Deadly Rhythms B/W Most High](https://open.spotify.com/album/0Vt2iBFIGeN9imMb2YnAHk) | 3:27 |
-| 19 | [Victory Dance](https://open.spotify.com/track/3GZl0MH1ryKQ3q4eZreoWU) | [Mantra](https://open.spotify.com/artist/6ztaFqFjn3vO5fn5rANjzP) | [Damaged EP](https://open.spotify.com/album/2qfQjziyCpK7IM7jYPzaC2) | 5:32 |
+| 19 | [Victory Dance](https://open.spotify.com/track/3GZl0MH1ryKQ3q4eZreoWU) | [Mantra](https://open.spotify.com/artist/0pURdJtqEp2EZz5L1LIYhy) | [Damaged EP](https://open.spotify.com/album/2qfQjziyCpK7IM7jYPzaC2) | 5:32 |
 | 20 | [Bulletproof](https://open.spotify.com/track/6m0KAAKJUcP6z4OVK7iGyf) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hardcore & Rubble](https://open.spotify.com/album/5OM5pbNlmjuSWptvSMfs9s) | 5:42 |
 | 21 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
 | 22 | [Sound](https://open.spotify.com/track/5XJQxA7XUi58z58d5Z3IkJ) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [/Y\\](https://open.spotify.com/album/4vrJWnbIjBvj9j4NvsUjD6) | 1:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 79 | [Booyaka Style](https://open.spotify.com/track/6vpltvodYAxx3mmPn9DpDB) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [0860](https://open.spotify.com/album/0Qw8BLun3UNP3eTjKdDUML) | 4:19 |
 | 80 | [Spacey \- Doctor Jeep Remix](https://open.spotify.com/track/1k1pfKYdhsRwWL9VOJfimM) | [Bell Curve](https://open.spotify.com/artist/1DMtZ4G72tuqMxRiJNTkQf), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Unstable Orbit \(The Remixes\)](https://open.spotify.com/album/70XksiP2lIBxRpbo0UAjSo) | 6:01 |
 
-Snapshot ID: `MCxjZjFhYmIzYTk0NWRlNDJhMmM0MzBkNzEzMTQ2OGI0ZDFkMTFlNzMz`
+Snapshot ID: `MCwzYjZmZTYzMWMyOTJjZjExMGM2YjFjZGE0NWE5ZGQ5YjVhMzlkMDll`

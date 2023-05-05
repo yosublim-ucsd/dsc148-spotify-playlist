@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: ÀIYÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,924 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,951 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Manhã](https://open.spotify.com/track/7IRFP25YUzoVPWuw9mN9KN) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Manhã](https://open.spotify.com/album/3DMOTpo9bk0QInn7SJrdD8) | 4:02 |
 | 75 | [Vinheta do Amor](https://open.spotify.com/track/7kyqMS0fovEDsDAh9EPmtc) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG), [Rana Tosto](https://open.spotify.com/artist/1dQSTjiVNpS0Jym4eR5oG8) | [Pequenos Grandes Universos](https://open.spotify.com/album/2y3nwaAILvIxnMzWviRjmG) | 2:39 |
 
-Snapshot ID: `MCxjNWNmYTBjODQ2MjhiNjQ5MzIzMWIzNTM1MTUxNTU4YTg1MjAxMWU3`
+Snapshot ID: `MCw2MzgyMzEyMGQzZjRlZjI3NDM2OGIwOGU0ODg5YzllMWJjOTBmZGI5`

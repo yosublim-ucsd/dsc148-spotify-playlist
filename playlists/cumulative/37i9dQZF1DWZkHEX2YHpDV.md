@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Waterparks
 
-944 songs - 2 day 2 hr 1 min
+945 songs - 2 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [Prizefighter](https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [Prizefighter](https://open.spotify.com/album/1dygXa6o4gec6P1yDKkxFy) | 3:08 | 2023-04-10 | 2023-04-29 |
 | [Problem](https://open.spotify.com/track/0LYvntdyZiGuy6HvFp2kHF) | [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Problem](https://open.spotify.com/album/69vgQKuL4alaiEshd7my6c) | 2:57 | 2022-06-24 | 2023-04-12 |
 | [Projector](https://open.spotify.com/track/3gMptGImK6XHJhFuWwmqtE) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Projector](https://open.spotify.com/album/1ouxhpfQNDh5SoSIZCbCXb) | 3:12 | 2022-01-28 | 2022-06-23 |
+| [Psyche!](https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Psyche!](https://open.spotify.com/album/3E1OO7KbqraYZYD8NuK4xr) | 5:34 | 2023-04-28 |  |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-10-07 |  |
 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 | 2023-04-10 |  |
 | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-04-10 |  |
@@ -934,7 +935,7 @@
 | [Write It Off](https://open.spotify.com/track/2NEZizbxzdZyHWtnuhXKym) | [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [Write It Off](https://open.spotify.com/album/3YSrIBQSbV88daqik3z6g9) | 2:29 | 2022-05-20 | 2022-05-21 |
 | [Wrong One](https://open.spotify.com/track/6zQqkXYG54BDVEYfFP33wX) | [A Better Hand](https://open.spotify.com/artist/47xNUgLIu6skUOgb8PEuEI) | [Wrong One](https://open.spotify.com/album/08TunwZX7r700eeKguWyF8) | 2:54 | 2021-12-10 | 2022-07-20 |
 | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2igMBTs1a8cwHkwIXOmtBq) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/album/7oQO6rAWUCj7lQ5W7p96wz) | 3:45 | 2022-06-24 | 2022-08-03 |
-| [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 3:45 | 2022-09-30 |  |
+| [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 3:45 | 2022-09-30 | 2023-05-05 |
 | [You](https://open.spotify.com/track/0cB71XryMznWQ6klBUovgm) | [Storyteller](https://open.spotify.com/artist/2bhEQqmUj9qtDOcqj8AZzB) | [You](https://open.spotify.com/album/4SXc5fzefGaZE4WRdyf3hB) | 3:31 | 2022-03-25 | 2022-04-18 |
 | [You and Me \(Forever\)](https://open.spotify.com/track/4UoCW9HNxMWqHDDMQsXKL4) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [You and Me \(Forever\)](https://open.spotify.com/album/3xgU7O3LWEPPGFWXfmVq8k) | 2:29 | 2021-12-10 | 2022-06-19 |
 | [you broke me first](https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [you broke me first](https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf) | 2:48 | 2021-12-10 | 2023-04-11 |

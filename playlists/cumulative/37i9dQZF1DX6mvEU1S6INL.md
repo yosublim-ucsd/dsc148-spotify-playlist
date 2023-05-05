@@ -4,7 +4,7 @@
 
 > It's just us—and this awesome alt soundtrack.
 
-227 songs - 14 hr 42 min
+228 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Dreaming My Dreams](https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:37 | 2022-05-27 |  |
 | [Dreaming My Dreams](https://open.spotify.com/track/2fO82ij62SsFe8ExYHlYIJ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(Remastered 2020\)](https://open.spotify.com/album/7trDIqbox2Fwr6ooFZoATa) | 3:38 | 2022-08-26 | 2022-11-14 |
 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 | 2019-05-26\* |  |
-| [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 | 2023-02-14 |  |
+| [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 | 2023-04-17 |  |
+| [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 | 2023-02-14 | 2023-05-05 |
 | [Emmylou](https://open.spotify.com/track/0uKyC5TIiwfeh0evennKOO) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [God Loves You When You're Dancing](https://open.spotify.com/album/4i9ynTHhVP8XNoV85smGvE) | 4:40 | 2019-05-26\* | 2022-05-28 |
 | [Empire](https://open.spotify.com/track/177bSSVWGImti5BL3G0th7) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Background Music](https://open.spotify.com/album/3BjoHdOBBsmQhVNYNrCR1Y) | 4:20 | 2022-08-26 | 2022-11-13 |
 | [Empire](https://open.spotify.com/track/4M9lfUgDeLHu1fL2ZxZSlu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:20 | 2022-05-27 |  |

@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 226965,
       "name": "Europe",
       "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
@@ -1362,6 +1362,24 @@
       "duration_ms": 122012,
       "name": "It Was Willow",
       "url": "https://open.spotify.com/track/3Mt3L75pk83KGc0c4VJzLM"
+    },
+    {
+      "album": {
+        "name": "Fi",
+        "url": "https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122012,
+      "name": "It Was Willow",
+      "url": "https://open.spotify.com/track/7qpuXw0hLcJtZ6aa5WiagC"
     },
     {
       "album": {

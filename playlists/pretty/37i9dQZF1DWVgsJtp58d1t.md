@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,991 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,041 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 47 | [Stop Shop](https://open.spotify.com/track/5yen8iLIsbC82CXuL6gefp) | [Butch Dawson](https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL) | [Stop Shop](https://open.spotify.com/album/54LVPiWHcOFaIAvfgTlsHJ) | 2:18 |
 | 48 | [Vibrant](https://open.spotify.com/track/0fTyX9kIwMaB721WRrFUy0) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Vibrant](https://open.spotify.com/album/0RQ0KNhY7zQ4XN7z5m4KPi) | 2:48 |
 | 49 | [FU\-150](https://open.spotify.com/track/0Nb7pW1koAiWGfCMVD23oT) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [FU\-150.](https://open.spotify.com/album/7D0ZMLCytmMnz3P1zQeZuU) | 2:53 |
-| 50 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
+| 50 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in the House of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
 | 51 | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/track/4SqCnKpBBNmGbhDQHV8s1h) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/album/7sAIBdCvzexxpWndzDMlb0) | 3:04 |
 | 52 | [ELVIRA](https://open.spotify.com/track/5Zzylb0t4kLOGzYw1LDHOg) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [ELVIRA](https://open.spotify.com/album/1TaTRenPe1g6acHgv4gX3q) | 1:51 |
 | 53 | [Move It](https://open.spotify.com/track/4yVolsBBBgDtVrV11BBS8S) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Move It](https://open.spotify.com/album/5oKgz9HMh5xcn953LTeh1d) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 |
 | 100 | [SPLIT DECISION](https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:06 |
 
-Snapshot ID: `MCwwNWUxYTA5Yjg2ZjI5YTE3MTQxYWQ3ZTdmNGIzMTg5NDlhOGYwMjdh`
+Snapshot ID: `MCxmMmQ2NmI0NzBjMmE5NDk1ODJiNGE0NDRlM2FhZjI4NWUwNjhiNTVj`

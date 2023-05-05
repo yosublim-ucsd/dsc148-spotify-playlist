@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 158360,
       "name": "Angel In The Snow",
       "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
@@ -352,6 +352,24 @@
     {
       "album": {
         "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166226,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/0AYECTSiSlE8sQtGKypxx2"
+    },
+    {
+      "album": {
+        "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw"
       },
       "artists": [
@@ -362,7 +380,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 166320,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG"
@@ -676,6 +694,24 @@
     {
       "album": {
         "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297973,
+      "name": "King's Crossing",
+      "url": "https://open.spotify.com/track/0YydEayh3crkMEovsELWbQ"
+    },
+    {
+      "album": {
+        "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ"
       },
       "artists": [
@@ -686,7 +722,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 297973,
       "name": "King's Crossing",
       "url": "https://open.spotify.com/track/2GsiKnbHHXDpoL7R6cJUTZ"
@@ -758,10 +794,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 147240,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/39GFqAvg1Bvabc4syFawmY"
+    },
+    {
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147453,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/2hHJhyR9zGSuk204Y5AcMC"
     },
     {
       "album": {
@@ -928,6 +982,24 @@
     {
       "album": {
         "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285520,
+      "name": "Pretty (Ugly Before)",
+      "url": "https://open.spotify.com/track/1vQu2XkLm2mgw48oE84OjH"
+    },
+    {
+      "album": {
+        "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ"
       },
       "artists": [
@@ -938,10 +1010,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 285733,
       "name": "Pretty (Ugly Before)",
       "url": "https://open.spotify.com/track/0VJ0DLSA4d2pYJcTEe2rrV"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "Pretty Mary K (other Version)",
+      "url": "https://open.spotify.com/track/34Bn5DJHKf75bxLztpTKmH"
     },
     {
       "album": {
@@ -956,7 +1046,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 204573,
       "name": "Pretty Mary K (Other Version)",
       "url": "https://open.spotify.com/track/4McT6LfoHcdF0DaWmBYuau"
@@ -1190,10 +1280,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 159746,
       "name": "The Biggest Lie",
       "url": "https://open.spotify.com/track/4xFNWqI3kQ34kNKMplWsk2"
+    },
+    {
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "The Biggest Lie",
+      "url": "https://open.spotify.com/track/3Bl3v4pSVO1a2U0Pprm5KM"
     },
     {
       "album": {

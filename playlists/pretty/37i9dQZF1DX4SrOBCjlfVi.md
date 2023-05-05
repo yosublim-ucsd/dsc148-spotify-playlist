@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Coi Leray, Jack Harlow and more\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,191 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,308 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [No Pressure \(feat\. Fivio Foreign & Rah Swish\)](https://open.spotify.com/track/7s0L5WRejHWYBE03EMDQyn) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Fetty Luciano](https://open.spotify.com/artist/6Zric3RvzGMM9wRZMNTUFF), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Splash Brothers](https://open.spotify.com/album/6z7bXzVtYKDzHNeKILSyi8) | 3:06 |
 | 36 | [MAKE A WISH](https://open.spotify.com/track/1r4vcPwDJMZ9pTEJ4iR4Fc) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [MAKE A WISH](https://open.spotify.com/album/1ZxGkAHb0BLB3BlGCQcOzr) | 2:51 |
 | 37 | [Like That](https://open.spotify.com/track/0PC0xE49RsOT49PZmmxR0Z) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Like That](https://open.spotify.com/album/4Z5vnVWtGBQM9ej7MEklrp) | 3:44 |
-| 38 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
+| 38 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in the House of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
 | 39 | [lonrwrld \(freestyle\)](https://open.spotify.com/track/3zg2NCd83m0Y9gL5wKd6Q5) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [lonrwrld \(freestyle\)](https://open.spotify.com/album/6UL5LlM8QQ8aY2kQqoqQ7N) | 2:32 |
 | 40 | [Spicy Tuna Yellow Tail Freestyle](https://open.spotify.com/track/0yvxyLOcl9q2cnOj35MtLO) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Spicy Tuna Yellow Tail Freestyle](https://open.spotify.com/album/0mar8M4lUZgMyDkc73IWFd) | 2:24 |
 | 41 | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/track/4SqCnKpBBNmGbhDQHV8s1h) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/album/7sAIBdCvzexxpWndzDMlb0) | 3:04 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Ride Fa Mine \(feat\. Lg Malique\)](https://open.spotify.com/track/1ZDVPL4Xo7amU1xwau9MnC) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p) | [Ride Fa Mine \(feat\. Lg Malique\)](https://open.spotify.com/album/7agIKqkg5VdHU1GheLPy7k) | 3:12 |
 | 51 | [They Forgot](https://open.spotify.com/track/3wi1eX69hrWTUXArhA5KeS) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M) | [They Forgot](https://open.spotify.com/album/3t6d1nnXu0Y8nvvJ2PEnHF) | 2:21 |
 
-Snapshot ID: `MCwyZTNjNTk3MzlhYTUyMmYzZGNkYjQwMTEyMThmZTdiYzZiOGUwZWJh`
+Snapshot ID: `MCw4MDU1NWI5MGRmYzE1ZGVmOGFlZTQ3ZTRmMmRhZGVmZjk3Y2VkMzI4`

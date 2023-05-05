@@ -4,13 +4,13 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-292 songs - 13 hr 35 min
+293 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["32"](https://open.spotify.com/track/0mxqqL8RFNa2Od8y0AqHVi) | [Dakota](https://open.spotify.com/artist/3HkYkCQ0SVfSEfTh7paRXx) | [På Rett Spor](https://open.spotify.com/album/44gD07rd0G5GR0yED7CPS2) | 3:26 | 2021-12-16 | 2022-07-05 |
 | [\(æ e ikke\) SJALU](https://open.spotify.com/track/3hmwE4yviUq9py4ZHRK0Wm) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [\(æ e ikke\) SJALU](https://open.spotify.com/album/4V50aXW3FPigFcpPa8dweQ) | 2:17 | 2022-04-21 | 2022-07-29 |
-| [1](https://open.spotify.com/track/5TCC2ctiNpiwiFtrM4MxZq) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [1](https://open.spotify.com/album/6ZLiI489DlkvFa423lSMKh) | 1:52 | 2023-03-30 |  |
+| [1](https://open.spotify.com/track/5TCC2ctiNpiwiFtrM4MxZq) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [1](https://open.spotify.com/album/6ZLiI489DlkvFa423lSMKh) | 1:52 | 2023-03-30 | 2023-05-05 |
 | [1001 \- 1002 \- 1003](https://open.spotify.com/track/3yFfSkUOFbcW9pT3dFiW4H) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [På Nye Eventyr](https://open.spotify.com/album/6RQ9sURNVZeqqVoNSz2PoE) | 2:44 | 2022-01-20 | 2022-04-21 |
 | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3) | 2:57 | 2022-03-24 | 2023-03-02 |
 | [20 i hue](https://open.spotify.com/track/0RHeLUY9dxaCeVvBc2xQfu) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [20 i hue](https://open.spotify.com/album/3UUjJpEjmSMSTdJGy3nsXI) | 3:22 | 2021-12-16 | 2022-07-10 |
@@ -243,6 +243,7 @@
 | [Sjå sole](https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ) | [Staut](https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P) | [Staut](https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD) | 3:26 | 2021-12-16 |  |
 | [Sjømann Per](https://open.spotify.com/track/5TkkyRI7euRu4S0BUSuCw6) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [Vagabond 2](https://open.spotify.com/album/6NP63au6tG2b3Bm6dSjC5x) | 2:34 | 2021-12-16 | 2022-07-29 |
 | [Sjømann Per](https://open.spotify.com/track/6cyIrcpZHSk6HnPa8NKW4W) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [Vagabond 2](https://open.spotify.com/album/5qWBU6SAuGqXvjy7gvH2Q7) | 2:34 | 2022-10-13 | 2022-11-13 |
+| [Skal du ikke bade, Petter?](https://open.spotify.com/track/3XkGqWAbP5iqPy8HzCFgTc) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Skal du ikke bade, Petter?](https://open.spotify.com/album/0E8nlq1upBwcm0V5XpF2Au) | 2:26 | 2023-05-04 |  |
 | [Skaldyrfest](https://open.spotify.com/track/3B9geW64jbjETYth2w63nO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Skaldyrfest](https://open.spotify.com/album/0Rrr29tVnfog1jR5zgJza8) | 3:44 | 2022-01-13 | 2022-06-16 |
 | [SKIPET](https://open.spotify.com/track/2FoaNJ0TLBYI3YbEYF377u) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [SKIPET](https://open.spotify.com/album/7mWe2qgLah9gxLlDXHYEVb) | 2:31 | 2022-04-21 | 2022-05-20 |
 | [SKIPET](https://open.spotify.com/track/2PIEzb11ggvjMpLLSQWjIp) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [SKIPET](https://open.spotify.com/album/280AD6mveKaBGutfj8UWMp) | 2:31 | 2022-05-19 | 2022-07-27 |

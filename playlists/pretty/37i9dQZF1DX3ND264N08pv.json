@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 42627,
+  "num_followers": 42757,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWFjY2UwODliNzE1MjQ2ODg1ZTYzODI0YTU1OTVmYzA1NmM0YWY2",
+  "snapshot_id": "MCxkNTRjNmI2M2VjODQ1ODYyNDI1MTEzZmI2M2U1ZGQyMzhmZWZlOGIz",
   "tracks": [
     {
       "added_at": "2023-04-28 07:44:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Mad Masquerade",
-        "url": "https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Mad Masquerade",
-      "url": "https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "F#ck The Haters",
         "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 147003,
       "name": "F#ck The Haters",
       "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Mad Masquerade",
+        "url": "https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Mad Masquerade",
+      "url": "https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "STRUGGLE TO SURVIVE",
         "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
       },
@@ -587,22 +571,18 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        },
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
         }
       ],
-      "duration_ms": 221368,
-      "name": "Dope Sh!t",
-      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -619,6 +599,26 @@
       "duration_ms": 158421,
       "name": "Dirty Thoughts",
       "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Dope Sh!t",
+      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "Blow Up",
         "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 224001,
       "name": "Hell Boy",
       "url": "https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
+        "name": "Fake Shit",
+        "url": "https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Fake Shit",
+      "url": "https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 279157,
       "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
       "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
-        "name": "Fake Shit",
-        "url": "https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Fake Shit",
-      "url": "https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Crazy, Like Me!",
-        "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Crazy, Like Me!",
-      "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Crazy, Like Me!",
+        "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Crazy, Like Me!",
+      "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Game Breaker",
-        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        },
-        {
-          "name": "E-Force",
-          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
-        }
-      ],
-      "duration_ms": 198987,
-      "name": "Game Breaker",
-      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "Full Throttle (Official Gearbox Full Throttle Anthem)",
         "url": "https://open.spotify.com/album/0oFzTvwtQFWESNcpQmO2K0"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 218250,
       "name": "Full Throttle (Official Gearbox Full Throttle Anthem)",
       "url": "https://open.spotify.com/track/5JkCr2BpMh1pdMb6R4hKLx"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Game Breaker",
+        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "duration_ms": 198987,
+      "name": "Game Breaker",
+      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
-        "name": "Paganos",
-        "url": "https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Paganos",
-      "url": "https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 200960,
       "name": "One Way",
       "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
+        "name": "Paganos",
+        "url": "https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Paganos",
+      "url": "https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3"
     },
     {
       "added_at": "2023-04-28 07:44:00",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2023-04-28 07:44:00",
       "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
+      },
+      "artists": [
+        {
+          "name": "Bulletproof",
+          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "duration_ms": 240300,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
+    },
+    {
+      "added_at": "2023-04-28 07:44:00",
+      "album": {
         "name": "Halleluya - The F*cked Up Remixes",
         "url": "https://open.spotify.com/album/6IkBZ3mhWBNlkI5V0m1mYC"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
-    },
-    {
-      "added_at": "2023-04-28 07:44:00",
-      "album": {
-        "name": "Die For This",
-        "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
-      },
-      "artists": [
-        {
-          "name": "Bulletproof",
-          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
-        }
-      ],
-      "duration_ms": 240300,
-      "name": "Die For This",
-      "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
     },
     {
       "added_at": "2023-04-28 07:44:00",

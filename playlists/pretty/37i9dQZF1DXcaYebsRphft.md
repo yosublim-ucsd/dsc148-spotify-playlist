@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > セトリで余韻に浸ろう！2023年2月17日\~19日に京セラドーム大阪で行われた"NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ \- in JAPAN"のセットリストを公開。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,343 likes - 35 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,350 likes - 35 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 34 | [같은 시간 같은 자리 Walk you home](https://open.spotify.com/track/48U7tDoHquyAGPW119Xpvi) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Young \- The 1st Mini Album](https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b) | 2:55 |
 | 35 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 |
 
-Snapshot ID: `MCxlYTkwMjUzOWFlMDY4YTEzMzViNzc4N2ZmZjY1M2UzMzRlYmJhOTRj`
+Snapshot ID: `MCw2YjhlMjkzOTEwNjRjODhlZGNlZWY1YjhkYTY5NTljYjM1NGExOGYx`

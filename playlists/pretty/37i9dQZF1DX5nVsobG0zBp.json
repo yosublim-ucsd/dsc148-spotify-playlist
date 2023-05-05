@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 44006,
+  "num_followers": 44078,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGQ0OTcyZmI0NTQxNWEyYmMyMTVlYzQwZmQwODlmNWU1YTEyNWRk",
+  "snapshot_id": "MCwxMDVhN2RlODhlNTNmOTI2NjFlZjMyYTNkN2EwNTdhY2ViY2UzOTc5",
   "tracks": [
     {
       "added_at": "2023-05-03 15:44:47",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW"
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
         }
       ],
-      "duration_ms": 186529,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb"
+      "duration_ms": 182362,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
     },
     {
       "added_at": "2023-05-03 15:44:47",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
-        "name": "Galileu",
-        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW"
       },
       "artists": [
         {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 182362,
-      "name": "Galileu",
-      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
+      "duration_ms": 186529,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb"
     },
     {
       "added_at": "2023-05-03 15:44:47",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
+        "name": "Juvena",
+        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "Juvena",
+      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
+    },
+    {
+      "added_at": "2023-05-03 15:44:47",
+      "album": {
         "name": "Mi\u00fada",
         "url": "https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
-    },
-    {
-      "added_at": "2023-05-03 15:44:47",
-      "album": {
-        "name": "Juvena",
-        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "Juvena",
-      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
     },
     {
       "added_at": "2023-05-03 15:44:47",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-05-03 15:44:47",
+      "album": {
         "name": "Mama Ka Bu Txora",
         "url": "https://open.spotify.com/album/3pIB5eUZkMs51KRDsWjswx"
       },
@@ -1139,18 +1155,22 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+        "name": "Dado",
+        "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        },
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
         }
       ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+      "duration_ms": 207720,
+      "name": "Dado",
+      "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
     },
     {
       "added_at": "2023-05-03 15:44:47",
@@ -1179,26 +1199,6 @@
       "duration_ms": 209882,
       "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
       "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
-    },
-    {
-      "added_at": "2023-05-03 15:44:47",
-      "album": {
-        "name": "Dado",
-        "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
-      },
-      "artists": [
-        {
-          "name": "Rony Fuego",
-          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
-        },
-        {
-          "name": "DreNaz",
-          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Dado",
-      "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
     },
     {
       "added_at": "2023-05-03 15:44:47",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
-        "name": "VIDA DE ARTISTA",
-        "url": "https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk"
-      },
-      "artists": [
-        {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "VIDA DE ARTISTA",
-      "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"
-    },
-    {
-      "added_at": "2023-05-03 15:44:47",
-      "album": {
         "name": "Focado",
         "url": "https://open.spotify.com/album/7ztIRrLQxvrQqOmn1gTozt"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 214654,
       "name": "Perseus",
       "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
+    },
+    {
+      "added_at": "2023-05-03 15:44:47",
+      "album": {
+        "name": "VIDA DE ARTISTA",
+        "url": "https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "VIDA DE ARTISTA",
+      "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"
     },
     {
       "added_at": "2023-05-03 15:44:47",

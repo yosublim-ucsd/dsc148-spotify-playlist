@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-166 songs - 8 hr 48 min
+169 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Fortune 500](https://open.spotify.com/track/5U9rAHd7GIE6QGGWiogytI) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548) | [Fortune 500](https://open.spotify.com/album/5XdN21beRlus9HrfQJG3jk) | 2:32 | 2022-04-15 | 2022-07-19 |
 | [Fresh Air](https://open.spotify.com/track/3gc6FK8cVsdSb3RIq21C8V) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Jackie](https://open.spotify.com/album/3GmLZdSugxGxuninHFvvk4) | 3:30 | 2021-11-10 | 2022-07-19 |
 | [G.O.A.T Flow \(feat\. THEMXXNLIGHT\) \[Produced by Cardo, Co\-Produced by ID Labs\]](https://open.spotify.com/track/6PVX4IODZNDM9qSvf8sh4e) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [Fly Times Vol\. 1: The Good Fly Young](https://open.spotify.com/album/2bwyHN2Y9iljWbUZYPXMrC) | 3:17 | 2021-11-10 | 2022-07-19 |
+| [Ghazab Kiya](https://open.spotify.com/track/6x87ncNAvRpLgglWXO67FW) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Ghazab Kiya](https://open.spotify.com/album/4BrDfbyfW3AcWDVTiW752e) | 3:26 | 2023-05-04 |  |
 | [Gluttony](https://open.spotify.com/track/1O1XxaZ8Yyjxl6mlN18Xz4) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Gluttony](https://open.spotify.com/album/20tenLppJDI4jly4ZmPNrz) | 3:09 | 2021-11-10 | 2022-07-19 |
 | [Good Love 2.0](https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:54 | 2022-10-06 |  |
 | [Good Luck](https://open.spotify.com/track/6IVsYkP3RWt3AwMeHOgDFF) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 2:15 | 2022-10-06 |  |
@@ -80,6 +81,7 @@
 | [Island Gyal](https://open.spotify.com/track/45yRXr2HPVeQP4H3NjzhLZ) | [Raja Rose](https://open.spotify.com/artist/59LJ3LGiYdmVO3R9Slv1mz), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Island Gyal](https://open.spotify.com/album/3ARj4t5llhyc62MY6qzo2f) | 4:01 | 2021-11-10 | 2022-01-21 |
 | [It Was Worth It](https://open.spotify.com/track/6uddHfjORmRNs0Ua9pzyOr) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Imperfections](https://open.spotify.com/album/6uZrz0tikWjubCdYntvyPI) | 2:54 | 2022-01-20 | 2022-07-19 |
 | [january](https://open.spotify.com/track/3G1x64pVpHhi0EkjmL9OJ8) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [january](https://open.spotify.com/album/4K5DDarPbyB6zkYSGDxT8p) | 2:36 | 2021-11-10 | 2022-07-19 |
+| [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 | 2023-05-04 |  |
 | [Jhootha](https://open.spotify.com/track/1IOPDC8MVzSncKYyNaqEUS) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Jhootha](https://open.spotify.com/album/6CfPxegjXJ540ABIQDT4Y5) | 2:09 | 2022-07-18 | 2022-10-07 |
 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 | 2022-10-06 |  |
 | [Jinni Marji](https://open.spotify.com/track/7I5hp0Iep9aSMldVmCKJND) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR), [K\. Deep](https://open.spotify.com/artist/5zwaQqMhmh6tFqRTb9uplE) | [Jinni Marji](https://open.spotify.com/album/3aw1kjDpe5EwmWooPmrx8K) | 3:30 | 2022-07-18 | 2022-10-07 |
@@ -162,6 +164,7 @@
 | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/track/35bGZ0hG27HIz9ZnTGNr7N) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/album/30T3kSECyT1i2ytnwAcq0E) | 4:17 | 2022-10-06 |  |
 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 | 2021-11-10 | 2022-10-07 |
 | [Up Inna](https://open.spotify.com/track/5VVA1cnqwNphtQ9bCvosvI) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Up Inna](https://open.spotify.com/album/28q73EoVrBdhNDLtXvxiOH) | 3:46 | 2021-11-10 | 2022-07-19 |
+| [Victoire](https://open.spotify.com/track/2TfhosU0uZ3XRY7b3y4lnC) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Cloud](https://open.spotify.com/album/217M10Fi7Xd6PtIYx5cU1Q) | 2:49 | 2023-05-04 |  |
 | [Wanna Know](https://open.spotify.com/track/4hwVI0H2gbg9DHuq2t9eWu) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Wanna Know](https://open.spotify.com/album/4jp0LpwsxcCXOLusC8wuSC) | 3:14 | 2021-11-10 | 2022-07-19 |
 | [Want You To Know](https://open.spotify.com/track/0XneyyM1sCEVYUwaN897M5) | [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Strangers Productions](https://open.spotify.com/artist/3IM371bth9yG1HMhBJhoWE) | [Want You To Know](https://open.spotify.com/album/2g53JC1whCZ3DKEp8Zt1aT) | 3:18 | 2021-11-10 | 2022-10-07 |
 | [Warning Shot](https://open.spotify.com/track/09XSYdxPGGclkoWX0KBBoy) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548) | [Warning Shot](https://open.spotify.com/album/6wtWEyYgEi8mgMO5WqDRuu) | 2:05 | 2021-11-10 | 2022-07-19 |

@@ -2,9 +2,9 @@
 
 ### [SAlt](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best new indie music from South Africa and beyond\. Cover: <https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=KDRnLQ71TTKPrX5qGUd50Q">Nakhane</a>
+> The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=1kNmBf4xQU626usgoqJWDg">Bongeziwe Mabandla</a>
 
-283 songs - 16 hr 27 min
+285 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Hey Hollywood](https://open.spotify.com/track/7c51FoWz8OV0wDrNLfWqB3) | [Warmer Heights](https://open.spotify.com/artist/1e42DCXz3I3nQeiqARQM1Z) | [Hey Hollywood](https://open.spotify.com/album/1qPisiSNWE9RxoR4wOy6de) | 3:33 | 2023-04-21 |  |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2023-01-12 | 2023-01-20 |
 | [Hide & Seek](https://open.spotify.com/track/1gfQQt60plVWAATT1kGzWn) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Hide & Seek](https://open.spotify.com/album/2IUWiVMWbkBrkCNer03wwk) | 2:50 | 2023-03-30 |  |
+| [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 | 2023-05-04 |  |
 | [Hold Me](https://open.spotify.com/track/3xRWTT9ouokK5wFAFCgs4Y) | [Love Jungle](https://open.spotify.com/artist/5WIZAH5FThf16VjKWaHG33) | [Double Moon](https://open.spotify.com/album/2tvu05twUtcPg5S3YARanf) | 3:29 | 2023-04-21 |  |
 | [Hold Me Down](https://open.spotify.com/track/3dqjCz5iXTjKumvHOpQFLw) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Hold Me Down](https://open.spotify.com/album/5eENAlmncUhYojSv3POYj9) | 3:52 | 2023-03-02 | 2023-04-15 |
 | [Hold On](https://open.spotify.com/track/4EwRv7Q0XyJhysfvECpQpo) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [Hold On](https://open.spotify.com/album/6ft539JcvK2JnTzd8zp2as) | 3:42 | 2022-09-22 | 2022-11-01 |
@@ -139,7 +140,7 @@
 | [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 | 2023-01-12 | 2023-02-01 |
 | [Just Fine](https://open.spotify.com/track/2bnEKLupfbkcYVG708qmSf) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Halcyon Days](https://open.spotify.com/album/7MJFN5eNvnS74BdUIy3sO2) | 2:00 | 2023-02-09 | 2023-03-18 |
 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-02 |  |
-| [Karma Arcade](https://open.spotify.com/track/0J9bAWjeOafeNtKO6DqeXx) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Karma Arcade](https://open.spotify.com/album/6LpMhbgNRNHVlon4bkHakM) | 4:00 | 2023-03-02 |  |
+| [Karma Arcade](https://open.spotify.com/track/0J9bAWjeOafeNtKO6DqeXx) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Karma Arcade](https://open.spotify.com/album/6LpMhbgNRNHVlon4bkHakM) | 4:00 | 2023-03-02 | 2023-05-05 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-23 |  |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-02 | 2023-03-25 |
 | [Leave the City](https://open.spotify.com/track/5SZDK5alQmVWzWgvLVoy8u) | [Jonny and the Fellow Revellers](https://open.spotify.com/artist/07WFFoO9ByGnuhq4c8dwH8) | [Leave the City](https://open.spotify.com/album/0638Pa7KDrtOpSICo4uO3K) | 4:33 | 2023-02-09 | 2023-03-10 |
@@ -226,10 +227,11 @@
 | [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/track/1Q8JyxW2AUpKtqScjz1hkT) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/album/2F2e3hezMEppcvVpZ949WR) | 3:17 | 2022-12-01 | 2023-01-13 |
 | [Sirens](https://open.spotify.com/track/2lqeImzOzJY8Z3K4cptJqe) | [Miyelani](https://open.spotify.com/artist/6YGulIJN0mxkJlOMJ9KNBF) | [Era 555](https://open.spotify.com/album/5VIjNIInyKNFdpPFLrrA3h) | 3:46 | 2023-04-14 |  |
 | [Skip to the Present](https://open.spotify.com/track/5hoWCQ7LUVLzAWZZfKBoTH) | [Mathew Rodriguez](https://open.spotify.com/artist/4K87biwxNDNZaFTwTCfmij) | [Skip to the Present](https://open.spotify.com/album/38w9omFsu7BjToXXhmAUgR) | 2:58 | 2022-07-28 | 2022-11-11 |
-| [Smells Like Teen Spirit](https://open.spotify.com/track/3356dkgock4bD4j7a0fec6) | [Talicia](https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP) | [Smells Like Teen Spirit](https://open.spotify.com/album/1pcYiOqAuPm8FnJy6cxmoO) | 1:48 | 2023-04-21 |  |
+| [Smells Like Teen Spirit](https://open.spotify.com/track/3356dkgock4bD4j7a0fec6) | [Talicia](https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP) | [Smells Like Teen Spirit](https://open.spotify.com/album/1pcYiOqAuPm8FnJy6cxmoO) | 1:48 | 2023-04-21 | 2023-05-05 |
 | [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 | 2023-01-13 |
 | [Something Somewhere](https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Something Somewhere](https://open.spotify.com/album/1Tq9NiZNrYWRE9j2GwQn2f) | 3:34 | 2022-10-20 | 2023-01-20 |
 | [Somewhere In The Hills](https://open.spotify.com/track/5PpyIT1WNnOktnE21J2S7t) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [John Samuel](https://open.spotify.com/artist/1aLNavTO9Rv8rPCgl2jMtl) | [Somewhere In The Hills](https://open.spotify.com/album/1qszdzWBMFMcnToZ6EcC94) | 2:53 | 2023-01-19 | 2023-03-10 |
+| [Sorry Like You Mean It](https://open.spotify.com/track/503iuUPKIXQLSmLsMQDYIN) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/1j2YF9cYbGQZiTg8aTE7WE) | 3:29 | 2023-05-04 |  |
 | [Standing In Our Way \- Edit](https://open.spotify.com/track/5LLnCilV4qlbYRFuNGYljJ) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Standing In Our Way \(Edit\)](https://open.spotify.com/album/4B7BKQ4tJ04f8avFQqek4A) | 3:25 | 2023-03-09 |  |
 | [Stardust](https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa) | [Hanukug](https://open.spotify.com/artist/0mHXobgLsjgAyj32UXRwpj) | [Stardust](https://open.spotify.com/album/27eAjlHZCuJ5LhlTaT29C0) | 2:06 | 2022-11-10 | 2023-01-27 |
 | [Stay as You Are](https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts](https://open.spotify.com/album/6FXpqniKCmEFhn4eYSgvWy) | 3:22 | 2023-03-09 |  |

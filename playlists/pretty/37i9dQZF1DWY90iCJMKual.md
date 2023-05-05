@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > Groove to the rhythm of OPM's R&B tunes\. Cover: Denise Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,527 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,735 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 89 | [Love Or Lust](https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Love Or Lust](https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ) | 2:57 |
 | 90 | [Stay](https://open.spotify.com/track/7iHFyFiyd2Iebl1Cle2AFi) | [Kacee Cortes](https://open.spotify.com/artist/0TJNUEzHtlI9OKM4i9QXts) | [Solace](https://open.spotify.com/album/1YFp4JQZ2cAUREbNQna9d7) | 3:57 |
 
-Snapshot ID: `MCxjMDQ5ZTg3NzJkOGNkMjI3NDFlNWIxY2M0YjdiYzA4N2Q5MzFjOWZm`
+Snapshot ID: `MCw1OGY4NWY4NmU4Y2I1OWUxMzdlNjU0MzE0Mjg3YmU1YTBiNGIzNzQy`

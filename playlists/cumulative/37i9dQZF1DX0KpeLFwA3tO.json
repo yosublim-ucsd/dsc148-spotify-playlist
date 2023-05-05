@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Rancid",
+  "description": "The best new music from the wide world of punk. Cover: DRAIN",
   "name": "All New Punk",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 197660,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 215147,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq"
@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 194227,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
@@ -4583,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Don't Make Me Do It",
+        "url": "https://open.spotify.com/album/6Mf3wSY9Zy1WqRX8xy2mK7"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58371,
+      "name": "Don't Make Me Do It",
+      "url": "https://open.spotify.com/track/5t63QRCWRg7ji6WTsDYVOn"
+    },
+    {
+      "album": {
         "name": "Don't Try",
         "url": "https://open.spotify.com/album/1BatTwoG80XJPrGk670SZX"
       },
@@ -5796,7 +5814,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 202889,
       "name": "Freak Of Nature",
       "url": "https://open.spotify.com/track/7pSVMU67bsp5tw70GTssYO"
@@ -6552,6 +6570,24 @@
       "duration_ms": 130520,
       "name": "Good Good Things",
       "url": "https://open.spotify.com/track/1igqqJxCF40NUJsSPqKnBo"
+    },
+    {
+      "album": {
+        "name": "The Punchline",
+        "url": "https://open.spotify.com/album/7Ac7Kxa6wHOAu0A67w9NCB"
+      },
+      "artists": [
+        {
+          "name": "DEAR-GOD",
+          "url": "https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181249,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/0zokdflnTrx40zV8DqDtM8"
     },
     {
       "album": {
@@ -8960,7 +8996,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 174080,
       "name": "Klepto",
       "url": "https://open.spotify.com/track/21vQOaYR054uPJgsmBFgsd"
@@ -9631,6 +9667,24 @@
     },
     {
       "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202480,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/5EiE9ElrC8UNnyuEOIpPeV"
+    },
+    {
+      "album": {
         "name": "Lizzie",
         "url": "https://open.spotify.com/album/5obQYZ08yYJXDYq04mD8k8"
       },
@@ -10080,7 +10134,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 119333,
       "name": "MADHATTAN",
       "url": "https://open.spotify.com/track/7kGuKjgZvyPTJKwHgnvPw5"
@@ -10837,6 +10891,24 @@
     },
     {
       "album": {
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/2DyMGVtYtOKtPtXovMEyf0"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167880,
+      "name": "More Like A Crash",
+      "url": "https://open.spotify.com/track/0kivfSdz7h9yFcEHQtXfl0"
+    },
+    {
+      "album": {
         "name": "Mosquito",
         "url": "https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe"
       },
@@ -11524,6 +11596,24 @@
       "duration_ms": 185319,
       "name": "nothing (in my head)",
       "url": "https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX"
+    },
+    {
+      "album": {
+        "name": "Nowhere To Be",
+        "url": "https://open.spotify.com/album/2DY8algMF3tyVSARsJaxlp"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150495,
+      "name": "Nowhere To Be",
+      "url": "https://open.spotify.com/track/3gY68B006JeICCh6pZWKiE"
     },
     {
       "album": {
@@ -13146,7 +13236,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 218319,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/4t2UN0fnbOyWc3cDb5OF1S"
@@ -13604,7 +13694,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 339120,
       "name": "Rise",
       "url": "https://open.spotify.com/track/4tHLpL9O5fxa2scH2yXNvb"
@@ -13734,7 +13824,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 139428,
       "name": "Sad Dumb Game",
       "url": "https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD"
@@ -14803,6 +14893,24 @@
     },
     {
       "album": {
+        "name": "SNAKE EYES",
+        "url": "https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "SNAKE EYES",
+      "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
+    },
+    {
+      "album": {
         "name": "Snvkes",
         "url": "https://open.spotify.com/album/7nAMlS6TLvm1lmadCVZjk3"
       },
@@ -14992,7 +15100,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 151733,
       "name": "Something",
       "url": "https://open.spotify.com/track/2HbrIFwmGjKDI2sRaA64hx"
@@ -15201,6 +15309,24 @@
     },
     {
       "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150440,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi"
+    },
+    {
+      "album": {
         "name": "Spit It Out",
         "url": "https://open.spotify.com/album/3yPSJCm8WoRdsN0A0jtaKq"
       },
@@ -15346,6 +15472,24 @@
       "duration_ms": 172480,
       "name": "STFU",
       "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
+    },
+    {
+      "album": {
+        "name": "Stick Up",
+        "url": "https://open.spotify.com/album/6YmNTDXbkcrhFqrswdyLxp"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/3k9gh7zRCItcTo363Re0DR"
     },
     {
       "album": {
@@ -15667,6 +15811,24 @@
     },
     {
       "album": {
+        "name": "Superglue",
+        "url": "https://open.spotify.com/album/5fbVszRubV0AXX4k1tKP4b"
+      },
+      "artists": [
+        {
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204360,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/5NImC08Hj8grPzDTqMT53n"
+    },
+    {
+      "album": {
         "name": "Supply/Demand",
         "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
       },
@@ -15772,7 +15934,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 167831,
       "name": "Swerve - Rockzilla Remix",
       "url": "https://open.spotify.com/track/2nUicn7YuS1bo2DqgELtj0"
@@ -16430,6 +16592,24 @@
       "duration_ms": 189520,
       "name": "The Croppy Boy '98",
       "url": "https://open.spotify.com/track/4bCSi9lRoWICyG2RM2oocc"
+    },
+    {
+      "album": {
+        "name": "The Crucifixion Of Possessions",
+        "url": "https://open.spotify.com/album/0HiDP3qqT063gtP77rATan"
+      },
+      "artists": [
+        {
+          "name": "Napalm Death",
+          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78373,
+      "name": "The Crucifixion Of Possessions",
+      "url": "https://open.spotify.com/track/7eMP8FDZ3Yk0RCz1Gi6hxn"
     },
     {
       "album": {
@@ -17972,7 +18152,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 213693,
       "name": "Voice in Your Head",
       "url": "https://open.spotify.com/track/7z60kiKN6OTVTCXinnnXUD"

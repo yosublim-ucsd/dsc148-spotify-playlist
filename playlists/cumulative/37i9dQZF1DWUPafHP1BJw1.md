@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-156 songs - 9 hr 21 min
+159 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,9 @@
 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 | 2021-11-19 | 2022-05-07 |
 | [I Don't Care](https://open.spotify.com/track/2IkYprcljrcbpoesS5XHGS) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [I Don't Care](https://open.spotify.com/album/6AERAS6KAFgZU8aRGpKbyf) | 3:35 | 2021-11-19 |  |
 | [I Want It That Way](https://open.spotify.com/track/6QylIoQHgQGE4YE7tYlkAt) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [I Want It That Way](https://open.spotify.com/album/7l4Dt8NNDtsAEGTlqmmqDY) | 3:27 | 2022-12-02 |  |
+| [I Will Always Love You](https://open.spotify.com/track/1Pz0hDCAXTTfcpNT5YrufQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:45 | 2023-05-04 |  |
 | [IDOL](https://open.spotify.com/track/40THRMzCNR75ta2uRvcVlS) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [IDOL](https://open.spotify.com/album/0LzZLzIcCZmQNb63bH81Rj) | 3:41 | 2022-09-23 |  |
+| [If I Ain't Got You](https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:34 | 2023-05-04 |  |
 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 | 2021-11-19 | 2022-05-14 |
 | [In the End](https://open.spotify.com/track/2W2JGTBmzMyP0j4jvaogsQ) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R), [Dover Quartet](https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU) | [Chamber Music](https://open.spotify.com/album/13INsz9Ec6Xvwm3K3TjGcl) | 4:07 | 2021-11-19 |  |
 | [Iris \(arr\. piano\)](https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Iris \(arr\. piano\)](https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9) | 2:36 | 2021-11-19 |  |
@@ -114,6 +116,7 @@
 | [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 | 2021-11-19 |  |
 | [Retrograde \(Arr\. Rimmer / Maydew\)](https://open.spotify.com/track/2Qzs78maIl8RzAbzGCHuOc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [TIME](https://open.spotify.com/album/0JI3Z1yxCT2j9ZXw4hXriA) | 3:41 | 2021-11-19 |  |
 | [ROCKSTAR](https://open.spotify.com/track/6g6kKzZvUccFnKUBFxmYsP) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ROCKSTAR](https://open.spotify.com/album/320h3om9QXkhhX05vDU5T6) | 3:04 | 2021-11-19 |  |
+| [Run the World](https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:11 | 2023-05-04 |  |
 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 | 2022-07-08 |  |
 | [Running Up That Hill \- Violin](https://open.spotify.com/track/3H9au5DxP2ryR2ozNngGM3) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Running Up That Hill \(Violin\)](https://open.spotify.com/album/1ijNnoLrJNS8ZPcScKZGsi) | 4:06 | 2022-06-24 | 2022-07-09 |
 | [Save Your Tears \(arr\. string quartet\) \- Inspired by 'Bridgerton'](https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Save Your Tears \(arr\. String quartet\) \[Inspired by 'Bridgerton'\]](https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF) | 3:05 | 2022-04-08 |  |

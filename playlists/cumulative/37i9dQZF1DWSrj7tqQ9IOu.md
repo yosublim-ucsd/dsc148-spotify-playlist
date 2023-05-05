@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: blond
+> The best French indie tracks right now\. Cover: Alice et Moi
 
-331 songs - 18 hr 14 min
+335 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Corporate Sunset](https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm) | [Corporate Sunset](https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM) | 5:03 | 2022-04-14 | 2023-01-06 |
 | [Cour Des Miracles](https://open.spotify.com/track/1LmmaY7vbIRD5qUnB507lz) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Cour Des Miracles](https://open.spotify.com/album/3OsZbmYBunUMQs3rsglvhr) | 4:06 | 2021-12-16 | 2022-02-25 |
 | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/album/01XHesceKpZaMt3cmXVKHv) | 3:18 | 2022-08-25 | 2023-02-17 |
+| [Dans ma tête](https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Dans ma tête](https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L) | 2:42 | 2023-05-04 |  |
 | [Dans mes rêves](https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Dans mes rêves](https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha) | 3:43 | 2021-12-16 | 2022-03-25 |
 | [Des nuits de ça](https://open.spotify.com/track/4Ns96VeAFjAjtTxYSdSQ2f) | [Since Charles](https://open.spotify.com/artist/7pHGQcurcGNZ2M3018eH8o) | [Des nuits de ça](https://open.spotify.com/album/6l4mLyttDO3ius8bjQN2gy) | 3:22 | 2023-01-26 | 2023-02-24 |
 | [Dessus\-dessous](https://open.spotify.com/track/2TdEBZtsNm1yd6O7zImH9x) | [Mado](https://open.spotify.com/artist/2FDZzdKv337dodxZfRgvXT), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:48 | 2022-07-07 | 2022-10-28 |
@@ -95,7 +96,7 @@
 | [Fireflies](https://open.spotify.com/track/2w5qTNK3kadYOs8pgc2JRM) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Coast 2 Coast](https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9) | 2:44 | 2023-04-20 |  |
 | [first flight](https://open.spotify.com/track/2a4Dy0Gd6LxJ5lvrT1XK2o) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [first flight](https://open.spotify.com/album/3oSCYW6kooJ9tZqrBCy5qi) | 3:31 | 2022-09-15 | 2022-10-14 |
 | [Flashdance](https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Flashdance](https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg) | 3:06 | 2022-01-20 | 2022-04-15 |
-| [Flight To Vienna](https://open.spotify.com/track/3CoBGFdnpBTVv4gbf5H1Km) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Flight To Vienna](https://open.spotify.com/album/69WrckSdGdNlDQiJrrjxP5) | 2:23 | 2023-04-27 |  |
+| [Flight To Vienna](https://open.spotify.com/track/3CoBGFdnpBTVv4gbf5H1Km) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Flight To Vienna](https://open.spotify.com/album/69WrckSdGdNlDQiJrrjxP5) | 2:23 | 2023-04-27 | 2023-05-05 |
 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 | 2022-02-24 | 2022-03-04 |
 | [Folle](https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:26 | 2022-11-24 |  |
 | [For You](https://open.spotify.com/track/0op37JDMnP0HjclpLQiDn4) | [Little Animal](https://open.spotify.com/artist/6KPezj9yK8mv2pHkn7jftz) | [For You](https://open.spotify.com/album/5t97GHautbE5U3tSb7yDAG) | 3:11 | 2023-03-02 | 2023-03-25 |
@@ -221,6 +222,7 @@
 | [NOT WHAT YOU WANTED](https://open.spotify.com/track/0d7LopGyWjUsXKCeKOEJzO) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [NOT WHAT YOU WANTED](https://open.spotify.com/album/6dIgyaXR88Mjfuym9ZTkdm) | 3:34 | 2022-06-23 | 2022-07-15 |
 | [Nouveau Genre](https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 3:22 | 2021-12-16 | 2022-02-18 |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-12-01 | 2023-03-10 |
+| [Nu.e](https://open.spotify.com/track/1Q8zfQSuxdnCay1qjkPuMA) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Nu.e](https://open.spotify.com/album/2h3p6rosTEpGrPdrcAbBIS) | 2:47 | 2023-05-04 |  |
 | [Nuit agitée](https://open.spotify.com/track/0n7r4I54aTWmzM0uyvqWiY) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Nuits Agitées](https://open.spotify.com/album/25f4SfEIX7hktBVYtfAqL1) | 3:12 | 2023-03-09 |  |
 | [Océan](https://open.spotify.com/track/0zPZjj4E6Yp1Ir2X0zqThj) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Océan](https://open.spotify.com/album/4J04pYuyMrnmrO3LodaDwQ) | 3:56 | 2022-06-23 | 2022-07-29 |
 | [Oiseau de Paradis](https://open.spotify.com/track/2lPuLP88b7BUiJuh1jurXV) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Oiseau de Paradis](https://open.spotify.com/album/5FKhkWVXjUjJZXFQlSkh4b) | 2:53 | 2022-06-30 | 2022-09-02 |
@@ -269,6 +271,7 @@
 | [Shining Light](https://open.spotify.com/track/44bUdMl0JyKxyDS4qku5SB) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/0JRHvsV8DdJ2LsdAMl6zBr) | 3:37 | 2021-12-16 | 2022-05-13 |
 | [Sign Out](https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign Out](https://open.spotify.com/album/6zk2wMyaFUHRkoxRNDL1Ds) | 3:58 | 2023-01-19 | 2023-03-03 |
 | [Snake](https://open.spotify.com/track/2btl8sJ35sBFSH4sMik5tq) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Source](https://open.spotify.com/album/3LSV8Trerwu3kaqc2dcZGS) | 2:41 | 2022-05-12 | 2022-06-03 |
+| [sois en sûre](https://open.spotify.com/track/4og5X5Y2gvX3UN80eWe46p) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/3I1vs7XOz164tMAaICcxi7) | 2:53 | 2023-05-04 |  |
 | [Soldat Boy](https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 3:35 | 2022-03-31 | 2022-05-13 |
 | [Soleil de minuit](https://open.spotify.com/track/3FzOlSWz0gKbthX0AJ6Vqw) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Soleil de minuit](https://open.spotify.com/album/1dB8roYaSN1rd7z1VSpnJK) | 3:11 | 2022-06-09 | 2022-06-24 |
 | [Sombrer](https://open.spotify.com/track/3TSX5zQARv82t3XkGKBqT1) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p) | [Sombrer](https://open.spotify.com/album/2qSYR4ngUhgQmkoRDmFdvO) | 3:40 | 2023-03-02 | 2023-04-21 |
@@ -279,7 +282,7 @@
 | [Störm](https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi) | [Black Lilys](https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH) | [Störm](https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8) | 4:24 | 2022-04-14 | 2022-06-03 |
 | [Sun](https://open.spotify.com/track/3PRX20RJN0XrRS5qR0qvfc) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Sun](https://open.spotify.com/album/6Ye7D8ZUSPdSaPIK8dJVgr) | 3:16 | 2022-02-17 | 2022-05-20 |
 | [sunny face](https://open.spotify.com/track/4gTNHEwcUaCmHRUQi5n6Cn) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [sunny face](https://open.spotify.com/album/0hEPMULhG0Jt96XKWIPnC4) | 2:52 | 2022-09-01 | 2022-09-10 |
-| [Superficial](https://open.spotify.com/track/0FiuPK0P2AkuBnhcW4Ahmu) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [Superficial](https://open.spotify.com/album/0sMKi2d10AIPHSyICczf4s) | 3:40 | 2023-04-13 |  |
+| [Superficial](https://open.spotify.com/track/0FiuPK0P2AkuBnhcW4Ahmu) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [Superficial](https://open.spotify.com/album/0sMKi2d10AIPHSyICczf4s) | 3:40 | 2023-04-13 | 2023-05-05 |
 | [Superlove](https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Superlove](https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE) | 3:48 | 2022-01-13 | 2022-02-04 |
 | [SUR LE COEUR](https://open.spotify.com/track/1dBsbSQlzdEAbSehMB6bD9) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [SUR LE COEUR](https://open.spotify.com/album/55x88wSRtzOdANenONxpHI) | 2:35 | 2023-01-05 |  |
 | [Série B](https://open.spotify.com/track/0aUOoC8yi2GkWEb3styxmO) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Série B](https://open.spotify.com/album/7a2Pfndpa3oxlHwJTfKiEb) | 3:21 | 2023-03-09 |  |
@@ -290,12 +293,13 @@
 | [Tears for Breakfast](https://open.spotify.com/track/2uN5St1CwzuDOasc833jHd) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Tears for Breakfast](https://open.spotify.com/album/2GkLSiLPblsCvB5BpFCRcp) | 2:49 | 2022-05-26 | 2022-06-24 |
 | [Teenager](https://open.spotify.com/track/4fuFDRwSnpcU7xfeSrZHrr) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs](https://open.spotify.com/album/4IAkKeuLkZWzWQqqFI6uDk) | 3:16 | 2022-01-27 | 2022-02-11 |
 | [The Crush](https://open.spotify.com/track/5w8PRAWFhg3EPBqd9fwZMn) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs \(Extended\)](https://open.spotify.com/album/03LGiK0ZUZx0nkp4fOhkkJ) | 3:20 | 2022-02-10 | 2022-04-08 |
+| [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 | 2023-05-04 |  |
 | [The Eyes](https://open.spotify.com/track/4dm5psUQAIcGdOFICZ2zO3) | [Sandór Waïss](https://open.spotify.com/artist/7CEkLAfSHCRAohsAWypk8z) | [The Eyes](https://open.spotify.com/album/5nSoESAt2L5B0bZuuWshJV) | 4:03 | 2022-04-14 | 2022-06-10 |
 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 | 2022-12-22 | 2023-01-20 |
 | [Tired](https://open.spotify.com/track/2uRnFJyQ3OGk9Z1WzrPU9c) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Tired](https://open.spotify.com/album/3X05hKeB0CHnRKjhwd0nLD) | 3:32 | 2022-06-09 | 2022-12-02 |
 | [Titanic](https://open.spotify.com/track/6jDjpymppH9NCctpXhqY5Q) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Titanic](https://open.spotify.com/album/2WBuGbz4Yow819X0fddhCy) | 3:10 | 2022-04-14 | 2022-09-30 |
-| [TNT](https://open.spotify.com/track/4U6rMXd8plvspnNy7Iihwe) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [TNT](https://open.spotify.com/album/4bohO6l0T6xz7mksz4Ix7A) | 1:59 | 2022-12-15 |  |
-| [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 | 2023-03-09 |  |
+| [TNT](https://open.spotify.com/track/4U6rMXd8plvspnNy7Iihwe) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [TNT](https://open.spotify.com/album/4bohO6l0T6xz7mksz4Ix7A) | 1:59 | 2022-12-15 | 2023-05-05 |
+| [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 | 2023-03-09 | 2023-05-05 |
 | [Toi & moi \- Edit](https://open.spotify.com/track/6roMwL3sNdHRO2MRVmkBRn) | [Cabale](https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit) | [Toi & moi \(Edit\)](https://open.spotify.com/album/3brOAQNbUUmMryZeP8nLvK) | 3:06 | 2021-12-16 | 2022-05-13 |
 | [Toiles d'araignée](https://open.spotify.com/track/2ApBxa9rB2QrR6UTcj9Oo1) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj), [Camille Potte](https://open.spotify.com/artist/7qIpXe0TCeSJ8FHO25jgSj) | [Toiles d'araignée](https://open.spotify.com/album/12yuTpX2Ptq9bXaqtRm7fp) | 3:27 | 2022-04-14 | 2022-06-10 |
 | [Tomber sur toi](https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tomber sur toi](https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv) | 4:14 | 2021-12-16 | 2022-09-02 |

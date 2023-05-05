@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 154458,
+  "num_followers": 154515,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGNlYTEwOWZkZGM5MjFhM2JiZmJiZjk5ZGYzNTAzY2EyYzRjOGZm",
+  "snapshot_id": "MCw4N2M4NDVhYzUyMDVhODQyYWFiYzQwMWViYTdkYjYxMjkwMWU1YTk4",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn"
     },
     {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Mind\u2019s Eye (Live)",
-        "url": "https://open.spotify.com/album/6ccQ4vz1nVEDHdT0vco2nO"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 389746,
-      "name": "Mind's Eye (Live)",
-      "url": "https://open.spotify.com/track/6YbmrjAs8vck6xcppmuxU2"
-    },
-    {
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Front And Center: Live From New York",
@@ -319,6 +303,22 @@
       "duration_ms": 396682,
       "name": "Tell Her You Belong To Me - Live",
       "url": "https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Mind\u2019s Eye (Live)",
+        "url": "https://open.spotify.com/album/6ccQ4vz1nVEDHdT0vco2nO"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 389746,
+      "name": "Mind's Eye (Live)",
+      "url": "https://open.spotify.com/track/6YbmrjAs8vck6xcppmuxU2"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -507,18 +507,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Touch My Blues Away",
-        "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
+        "name": "Ina Forsman, Layla Zoe, Tasha Taylor",
+        "url": "https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3"
       },
       "artists": [
         {
-          "name": "Jessy Martens and Band",
-          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
+          "name": "Tasha Taylor",
+          "url": "https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq"
         }
       ],
-      "duration_ms": 544640,
-      "name": "Touch My Blues Away - Live",
-      "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
+      "duration_ms": 218026,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -543,24 +543,24 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Ina Forsman, Layla Zoe, Tasha Taylor",
-        "url": "https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3"
+        "name": "Touch My Blues Away",
+        "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
       },
       "artists": [
         {
-          "name": "Tasha Taylor",
-          "url": "https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq"
+          "name": "Jessy Martens and Band",
+          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
         }
       ],
-      "duration_ms": 218026,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
+      "duration_ms": 544640,
+      "name": "Touch My Blues Away - Live",
+      "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
     },
     {
-      "added_at": "2023-03-03 15:53:00",
+      "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Known Unknowns (Live)",
-        "url": "https://open.spotify.com/album/2K8FJaCmf76DwzilwV0PtG"
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
       },
       "artists": [
         {
@@ -568,25 +568,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 364560,
-      "name": "Known Unknowns (Live)",
-      "url": "https://open.spotify.com/track/54brKyFnudUfvLpD0gDkOg"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live in London",
-        "url": "https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 322022,
-      "name": "No Time For Cryin' - Live",
-      "url": "https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0"
+      "duration_ms": 303168,
+      "name": "Born Under A Bad Sign (Live)",
+      "url": "https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -603,6 +587,22 @@
       "duration_ms": 382741,
       "name": "Steamroller / Powerful Thing - Live",
       "url": "https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live in London",
+        "url": "https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 322022,
+      "name": "No Time For Cryin' - Live",
+      "url": "https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0"
     },
     {
       "added_at": "2020-11-20 05:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Big, Bad and Beautiful (Live)",
-        "url": "https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        }
-      ],
-      "duration_ms": 350573,
-      "name": "Stoop Down Baby - Live",
-      "url": "https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live-Spontaneous Combustion",
         "url": "https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 281666,
       "name": "Crying For My Baby",
       "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Big, Bad and Beautiful (Live)",
+        "url": "https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "duration_ms": 350573,
+      "name": "Stoop Down Baby - Live",
+      "url": "https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -885,6 +885,38 @@
       "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
     },
     {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live In Europe",
+        "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
+      },
+      "artists": [
+        {
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "I'm In The Mood (Live)",
+        "url": "https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "I'm In The Mood - Live",
+      "url": "https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl"
+    },
+    {
       "added_at": "2021-09-17 04:02:00",
       "album": {
         "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
@@ -911,22 +943,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "I'm In The Mood (Live)",
-        "url": "https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "I'm In The Mood - Live",
-      "url": "https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live In Tallahassee",
         "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 212732,
       "name": "Step By Step - Live",
       "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live In Europe",
-        "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
-      },
-      "artists": [
-        {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
     },
     {
       "added_at": "2020-10-30 17:47:12",

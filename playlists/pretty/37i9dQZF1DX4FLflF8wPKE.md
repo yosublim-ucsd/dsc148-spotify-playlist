@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 
 > Relax and escape with these tranquil tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,987 likes - 86 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,043 likes - 86 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 22 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 |
 | 23 | [Notturno for Strings and Harp](https://open.spotify.com/track/7nGA1sRfLDWXYb3VPstnZf) | [Arnold Schoenberg](https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM), [Jane Berthe](https://open.spotify.com/artist/54IIxBw0yvR4zHHxE8GG5d) | [Schoenberg: Notturno for Strings and Harp](https://open.spotify.com/album/4rCx7dnAgXhes9ckGrMXA4) | 3:12 |
 | 24 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/518hKWxnCK1L1fsYRl0OB5) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Sheku Kanneh\-Mason](https://open.spotify.com/album/59gnfcIkUBrYpXwsN5YWax) | 2:56 |
-| 25 | [Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 |
+| 25 | [Préludes / Book 2, L\. 123: 5\. Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 |
 | 26 | [Fall](https://open.spotify.com/track/0APlwe0ewwMipyVg3WkEI3) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Santosha](https://open.spotify.com/album/0i7YAD1BjzmuSWhrG6aex8) | 3:43 |
 | 27 | [Henry V: Henry V: Touch her soft lips and part](https://open.spotify.com/track/5WEmDvDiRpE7p3y8SMMAPJ) | [William Walton](https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe) | [This is the Day: Music on Royal Occasions](https://open.spotify.com/album/1EbxP2aC9lpKRDk5lhcO5Y) | 1:33 |
 | 28 | [Cello Sonata in G Minor, Op\. 65: III\. Largo](https://open.spotify.com/track/3zrcDZ9hPNkZuq20pxPb9o) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Emmanuelle Bertrand](https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT), [Pascal Amoyel](https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv) | [1846, dernière année à Nohant \- Chopin: Cello Sonata; Piano Works](https://open.spotify.com/album/3gFpVgQIJzQzBqr1uWAsHQ) | 3:24 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 85 | [Piano Concerto No\. 21 in C Major, K\. 467: II\. Andante](https://open.spotify.com/track/429GaRIWKJ3EU1GAQPbLcr) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [London Mozart Players](https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy), [Howard Shelley](https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg) | [Mozart: Piano Concertos, Vol\. 6](https://open.spotify.com/album/4hDQVX7aQ4SIIyCm06fmyP) | 7:13 |
 | 86 | [Moonbeams](https://open.spotify.com/track/6IihP5ExawBf9ddqN5fO6k) | [Leo Livens](https://open.spotify.com/artist/2c7nAl1XnLeEhocqm107SJ), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [A Hundred Years of British Piano Miniatures](https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy) | 1:59 |
 
-Snapshot ID: `MCxkNGZkYTJhZDY0YjAzMGEzNzA5OTc2MmI1NGI3YzgxZWI0NmUwMzY4`
+Snapshot ID: `MCxjOWU0ZTNlZWU0NTY3YTA4ZjgyM2ZjZDdjZGRjZTJjYTZkM2JlYmQ5`

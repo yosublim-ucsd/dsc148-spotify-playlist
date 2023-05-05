@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Awel Kalam",
+        "url": "https://open.spotify.com/album/2DLAkdjiXZf40bn7xAJAay"
+      },
+      "artists": [
+        {
+          "name": "Hanady Mehanna",
+          "url": "https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206954,
+      "name": "Awel Kalam",
+      "url": "https://open.spotify.com/track/1XBy6TaSydf6DE6lN5wW5X"
+    },
+    {
+      "album": {
         "name": "Ayam W Fato",
         "url": "https://open.spotify.com/album/2RJnwiAQysRePsT5FdWbbD"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 236571,
       "name": "Baheb Maak",
       "url": "https://open.spotify.com/track/6u87eCMHElMpOF9XREyIQk"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 201038,
       "name": "Baseeb El Donia",
       "url": "https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 304413,
       "name": "Inta Eyh",
       "url": "https://open.spotify.com/track/7LpGX7ajb4o8OPQ1XdeeFZ"
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 285568,
       "name": "\u0642\u0635\u0629 \u062d\u0628\u0646\u0627",
       "url": "https://open.spotify.com/track/6MIBjmomqZw9un6PHG0IsR"
@@ -2646,7 +2664,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 180490,
       "name": "\u0647\u0648 \u0627\u062d\u0646\u0627 \u063a\u0631\u0628",
       "url": "https://open.spotify.com/track/1elQRhX2LeoWf6QdNbzksN"

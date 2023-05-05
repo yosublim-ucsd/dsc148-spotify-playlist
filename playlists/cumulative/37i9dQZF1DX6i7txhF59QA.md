@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Hong Ja\(홍자\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-792 songs - 1 day 21 hr 19 min
+793 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [DamDaDi](https://open.spotify.com/track/6KihbXJyCaC9N7CoQ2VXUM) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART4](https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx) | 3:07 | 2022-04-21 | 2022-07-26 |
 | [Dance with wolf](https://open.spotify.com/track/5WhxybV9oaJDEl4iyY8SFA) | [Chang Jung Im](https://open.spotify.com/artist/7n1ozvPP3K3wmQvTUvkQFW), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART14](https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw) | 3:41 | 2022-04-22 | 2022-07-11 |
 | [Dancing queen](https://open.spotify.com/track/32lbTNz4m6WkX8xGBBTvf3) | [Jangmin tiger butterfly](https://open.spotify.com/artist/2VcrBOUVCPwfxFseLnZfI7) | [Music source of Mr\. Trot team mission best](https://open.spotify.com/album/7AZdO3pbk62WXBTK1KA8hn) | 4:01 | 2022-04-22 | 2022-07-14 |
-| [Dancing queen](https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3) | [Jangmin tiger butterfly](https://open.spotify.com/artist/2VcrBOUVCPwfxFseLnZfI7) | [Music source of Mr\. Trot team mission best](https://open.spotify.com/album/5YJpJkm9TPq6laP0qTDzb2) | 4:01 | 2022-08-09 |  |
+| [Dancing queen](https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3) | [Jangmin tiger butterfly](https://open.spotify.com/artist/2VcrBOUVCPwfxFseLnZfI7) | [Music source of Mr\. Trot team mission best](https://open.spotify.com/album/5YJpJkm9TPq6laP0qTDzb2) | 4:01 | 2022-08-09 | 2023-05-05 |
 | [Dash](https://open.spotify.com/track/0yRROevl79BzSYgnxb69WA) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART2](https://open.spotify.com/album/6ehOtKwnhQ1ZIsoDWJl5cJ) | 3:20 | 2022-04-21 | 2022-05-24 |
 | [Dead drunk](https://open.spotify.com/track/78zqNlzWzlZzuKqHLXSroo) | [Park Hyun\-Bin](https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj) | [HourGlass](https://open.spotify.com/album/25iGM255bqo8i5s06PeE7Q) | 3:18 | 2022-10-07 |  |
 | [Dear Love](https://open.spotify.com/track/0X9BdycxkN9S19gA1v2nc7) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 3:42 | 2022-06-18 | 2022-07-17 |
@@ -745,6 +745,7 @@
 | [본능적으로](https://open.spotify.com/track/5QGEU738UICRLjHPhWzO6m) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [허주](https://open.spotify.com/artist/2cwJyLwfPebALO5YklhFKM) | [아무도 모르게 김호중의 파트너 Pt\. 1](https://open.spotify.com/album/60gWqkO4zELpk6S55P4nIX) | 3:37 | 2022-05-03 | 2022-07-14 |
 | [비가 내리네](https://open.spotify.com/track/4oqEjUnfbP8sH1waBoYabD) | [조명섭](https://open.spotify.com/artist/1pC2zaWEUKiTmizWEgHKE4) | [조명섭과 명싸\-운드 작품집 Vol.1](https://open.spotify.com/album/35GhY77XGRFdJcFN0Ui0S0) | 3:28 | 2022-04-07 | 2022-07-21 |
 | [빨리오오](https://open.spotify.com/track/2dv2MWzqKnvJ7J4zT0FpZ1) | [정혜린](https://open.spotify.com/artist/5TTLhkJ0HUwErxIWEdJs2K) | [빨리오오](https://open.spotify.com/album/288pnmDm0jXphWFORpgA5Z) | 2:48 | 2022-04-22 | 2022-07-27 |
+| [사랑 그게 뭔데](https://open.spotify.com/track/68J4lQX1gDzuNvYwlckkme) | [Hye Ri Jang](https://open.spotify.com/artist/79WoLuXNEK6BdjaYiJxDIH) | [Love & Sorrow](https://open.spotify.com/album/7h4RemoeFUhIciBd9XwSuA) | 3:12 | 2023-05-02 |  |
 | [사랑껌](https://open.spotify.com/track/6s9igzxODWxRN63d2Jeze9) | [Kum Jan Di](https://open.spotify.com/artist/4sxm6i0Tbb3Pt5sF58KIMI) | [오라버니/사랑껌](https://open.spotify.com/album/1Dwrhjc1pHDa1Gb36xyOtl) | 3:44 | 2022-04-21 | 2022-07-28 |
 | [사랑의 트위스트](https://open.spotify.com/track/0qshHbEOX6YI1IMp33Dy1L) | [MSG\(알파벳](https://open.spotify.com/artist/2hkrP5MtgzdFoc4fZ7Jk2i), [박예슬\)](https://open.spotify.com/artist/7allxqrA4H7TSgY2YPP0LW) | [Korean Trot Contest PART.5](https://open.spotify.com/album/73AYOATUIFhqWlhWCAR3eF) | 4:19 | 2022-04-22 | 2022-07-29 |
 | [살았소](https://open.spotify.com/track/61cxkZbxONWDilpqDQlAZq) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [살았소](https://open.spotify.com/album/12oUHngv38tTjgGhEXWJgc) | 3:52 | 2022-12-05 | 2023-05-03 |

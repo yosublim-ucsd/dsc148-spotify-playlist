@@ -29359,6 +29359,24 @@
     },
     {
       "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/5fCFu3RSeiNkKpPmWr3uWG"
+      },
+      "artists": [
+        {
+          "name": "Gidde",
+          "url": "https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97547,
+      "name": "Episodes",
+      "url": "https://open.spotify.com/track/0GNjeGXFr9gUTKG8Jj4lhU"
+    },
+    {
+      "album": {
         "name": "Epoch",
         "url": "https://open.spotify.com/album/7MT9QQ0XGiA4Dz2sDN6Faz"
       },
@@ -32274,7 +32292,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 128901,
       "name": "Fire escape",
       "url": "https://open.spotify.com/track/2oJJ154b2H59wLLiRZuzUC"
@@ -40753,6 +40771,28 @@
     },
     {
       "album": {
+        "name": "heartbeat",
+        "url": "https://open.spotify.com/album/3ubzF6QJzCUKP9HHaAnelI"
+      },
+      "artists": [
+        {
+          "name": "damaa.beats",
+          "url": "https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY"
+        },
+        {
+          "name": "Viva Alpagua Lo-Fi",
+          "url": "https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171874,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/2wrXnNa5JlurevXVNqpyU8"
+    },
+    {
+      "album": {
         "name": "Heartfelt",
         "url": "https://open.spotify.com/album/1iL8MUFCnyNb9cfdNfrO2B"
       },
@@ -47384,6 +47424,24 @@
       "duration_ms": 126014,
       "name": "Jaunt",
       "url": "https://open.spotify.com/track/4GKfKfhNYRCIqnhAzUII4q"
+    },
+    {
+      "album": {
+        "name": "Jaywalking",
+        "url": "https://open.spotify.com/album/5OZclZ32XcBNVhbMhNLNUf"
+      },
+      "artists": [
+        {
+          "name": "JAY VANILLA",
+          "url": "https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101123,
+      "name": "Jaywalking",
+      "url": "https://open.spotify.com/track/0jMfLp8Tbfrexm7qgoEgPA"
     },
     {
       "album": {
@@ -95238,7 +95296,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 165226,
       "name": "The Pumpkin Salesman",
       "url": "https://open.spotify.com/track/4l4v5QIeWOdStZnFTgrf3W"
@@ -101094,7 +101152,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 150037,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/4NpTasMwdpoCE10GmUQ9an"
@@ -104216,7 +104274,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 140571,
       "name": "What are we eating?",
       "url": "https://open.spotify.com/track/02vItcwtoE9ioCLqvMd7Pj"
@@ -105812,7 +105870,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 109714,
       "name": "Windbreaker",
       "url": "https://open.spotify.com/track/2h7r5OMC8aQN7oKAZhhgGx"

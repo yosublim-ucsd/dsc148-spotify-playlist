@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-479 songs - 1 day 3 hr 13 min
+480 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Candy Crush](https://open.spotify.com/track/7J2m2gAjxm3SWE1TIsD5xA) | [Ajotabeats](https://open.spotify.com/artist/4DnUC3By63oj4pjO4EosP6), [A\-bug](https://open.spotify.com/artist/5kDZSgsJllCJAkgTiFsOJT) | [Candy Crush](https://open.spotify.com/album/6bd5F5f0B9YanUMbk90vdu) | 2:34 | 2022-04-12 | 2022-07-03 |
 | [Captain Duck](https://open.spotify.com/track/1CTS6vxzvuKdqV7bds941e) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Captain Duck / I Don't Mind](https://open.spotify.com/album/2f12T2zKsUNNXkPB16qOXN) | 2:46 | 2022-03-04 | 2022-03-12 |
 | [Cash Wednesday](https://open.spotify.com/track/4AZ78lZTxitaCR6y4m5xXY) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/6AWHml3giQIZ5365y1z8Od) | 2:30 | 2022-04-12 | 2022-04-20 |
+| [Cash Wednesday](https://open.spotify.com/track/1rPPRe1Gci3keV676Z8s68) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7) | 2:30 | 2022-11-04 |  |
 | [Cash Wednesday](https://open.spotify.com/track/7C9shyOi32tv4BtDsFWXFR) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 2:30 | 2022-07-15 | 2023-04-29 |
 | [Casino](https://open.spotify.com/track/4n9QMtAlgryYNocF4H9uKQ) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Casino](https://open.spotify.com/album/7iShoikCy18mI9fjiyTQRy) | 2:58 | 2021-12-08 | 2022-07-27 |
 | [Catch a Star](https://open.spotify.com/track/7sbcpdn8uY6eQAB12MpuDw) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB), [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [Wilting Flowers](https://open.spotify.com/album/5flQrELjpz0cGeLZbm0qfR) | 4:01 | 2022-11-04 |  |
@@ -460,7 +461,7 @@
 | [Welcome To The Disco](https://open.spotify.com/track/6NT76Qk0fQCjPZecFgMIl5) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Bae 5](https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN) | 3:15 | 2022-11-04 |  |
 | [What You Need](https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM) | 2:41 | 2021-12-08 | 2023-04-30 |
 | [When I Look In Your Eyes \- Original Mix](https://open.spotify.com/track/2TsEwTxQTyGRmHBPtNJnmG) | [FederFunk](https://open.spotify.com/artist/4fLtM8j2nBAfMjfE9SqxG9) | [When I Look In Your Eyes](https://open.spotify.com/album/0ocpSL2TppgTpNHWdLOj6K) | 4:29 | 2022-11-04 |  |
-| [Why Future Funk ROCKED in '17](https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Shine On](https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4) | 2:53 | 2022-04-12 |  |
+| [Why Future Funk ROCKED in '17](https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Shine On](https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4) | 2:53 | 2022-04-12 | 2023-05-05 |
 | [Wilting Flowers](https://open.spotify.com/track/3h43vA0AdO3GyZVoIyg9FU) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB), [Hanari](https://open.spotify.com/artist/7hpRguUPbso7J2WtKqX4aK) | [Wilting Flowers](https://open.spotify.com/album/5flQrELjpz0cGeLZbm0qfR) | 2:37 | 2022-09-16 | 2022-11-05 |
 | [With You Girl](https://open.spotify.com/track/6TFivBzhX00PPDdwhC6is6) | [Lando Burch](https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX) | [With You Girl](https://open.spotify.com/album/64ezOPnZuloqfGWlhNvMpI) | 2:37 | 2022-08-12 | 2022-09-21 |
 | [WNTUMORE](https://open.spotify.com/track/1btSA7qqlUuDIR9OFC8mdu) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [Wntumore](https://open.spotify.com/album/2Z1JnQnIfbm2yC9LNpqZxX) | 2:04 | 2021-12-08 | 2022-01-26 |

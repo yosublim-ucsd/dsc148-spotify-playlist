@@ -1,12 +1,12 @@
 {
   "description": "Chaos in electronic form.",
-  "num_followers": 16087,
+  "num_followers": 16135,
   "original_name": "Virtual Reality",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjM5ZjYzZDRmNDllMDUwMjJhNjNiYjJhZWE1NTc0ZjVjYTYyOGM3",
+  "snapshot_id": "MCwwZjZiODcxNWJkYjk5YWQyM2ZjZTUxMzRjMDg2Mzk0MTI4MGZhNDU0",
   "tracks": [
     {
       "added_at": "2021-10-06 02:11:31",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "Zon Zon Zon",
+        "url": "https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj"
+      },
+      "artists": [
+        {
+          "name": "Shelter",
+          "url": "https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT"
+        }
+      ],
+      "duration_ms": 308614,
+      "name": "Senhor Zalla",
+      "url": "https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Zon Zon Zon",
-        "url": "https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj"
-      },
-      "artists": [
-        {
-          "name": "Shelter",
-          "url": "https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT"
-        }
-      ],
-      "duration_ms": 308614,
-      "name": "Senhor Zalla",
-      "url": "https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd"
     },
     {
       "added_at": "2021-10-06 02:11:31",

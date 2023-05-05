@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6458,
+  "num_followers": 6466,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGQ0NzY4ZDNiZjYzOTllOTVkZmQyMTY1ZjFhYTUzYTUzNTljZWM0",
+  "snapshot_id": "MCw3N2FkZTEyOTE2MDdjMjgxNTA5MTVkMWE3ZGM5NjRhNDNkMDMyYjhm",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
-        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
+        "name": "The World of the Married, Pt. 6 (Original Television SoundTrack)",
+        "url": "https://open.spotify.com/album/3giN7KiHhfRJb2L8LGToHu"
       },
       "artists": [
         {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
         }
       ],
-      "duration_ms": 170746,
-      "name": "Say I Love U - Instrumental",
-      "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
+      "duration_ms": 241040,
+      "name": "The Days We Loved - Instrumental",
+      "url": "https://open.spotify.com/track/3Yo3Y7z6waKjc6WrpnSPse"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The World of the Married, Pt. 6 (Original Television SoundTrack)",
-        "url": "https://open.spotify.com/album/3giN7KiHhfRJb2L8LGToHu"
+        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
+        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
       },
       "artists": [
         {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
         }
       ],
-      "duration_ms": 241040,
-      "name": "The Days We Loved - Instrumental",
-      "url": "https://open.spotify.com/track/3Yo3Y7z6waKjc6WrpnSPse"
+      "duration_ms": 170746,
+      "name": "Say I Love U - Instrumental",
+      "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Goodbye - Instrumental",
-      "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/7ubRAfqNie3ohAPDwc0tW8"
+        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 266213,
-      "name": "Little by little - instrumental",
-      "url": "https://open.spotify.com/track/7pLjdigQtmG3Jv0tVc4izP"
+      "duration_ms": 194640,
+      "name": "Goodbye - Instrumental",
+      "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -579,6 +563,22 @@
       "duration_ms": 235814,
       "name": "Wind Beneath Your Wings - Instrumental",
       "url": "https://open.spotify.com/track/4S9b2RkYjv9fp3D9pTE5h1"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/7ubRAfqNie3ohAPDwc0tW8"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Little by little - instrumental",
+      "url": "https://open.spotify.com/track/7pLjdigQtmG3Jv0tVc4izP"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
         }
       ],
-      "duration_ms": 253507,
-      "name": "\u1112\u1173\u11ab\u1103\u1173\u11af\u1105\u1175\u1102\u1173\u11ab \u1101\u1169\u11be\u1103\u1173\u11af \u1109\u1169\u11a8\u110b\u1166\u1109\u1165 \u1102\u1166 \u1109\u1163\u11b7\u1111\u116e\u1112\u1163\u11bc\u110b\u1175 \u1102\u1173\u1101\u1167\u110c\u1175\u11ab\u1100\u1165\u110b\u1163 Your Shampoo Scent in the Flowers",
-      "url": "https://open.spotify.com/track/1MFcbgbZxtoVnRg3zwcU2f"
+      "duration_ms": 298699,
+      "name": "\u110b\u1165\u1104\u1165\u11c2\u1100\u1166 \u110b\u1175\u1107\u1167\u11af\u1101\u1161\u110c\u1175 \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1100\u1166\u11bb\u110b\u1165, \u1102\u1165\u11af \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1102\u1173\u11ab \u1100\u1165\u110c\u1175 How Can I Love the Heartbreak, You're the One I Love",
+      "url": "https://open.spotify.com/track/2SVljleA3gTLpujwBM2Xrf"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "A Poem a Day (tvN DRAMA) OST Part.12",
-        "url": "https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9"
-      },
-      "artists": [
-        {
-          "name": "Ha Yea Song",
-          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
-        }
-      ],
-      "duration_ms": 251483,
-      "name": "A Poem For Poetry - Instrumental",
-      "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Prison Playbook (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/1rpqtEF714fQm37SHwmDIr"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 224366,
       "name": "Would Be Better - Instrumental",
       "url": "https://open.spotify.com/track/2rOXWx58B0Lr200p6dbcB9"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "A Poem a Day (tvN DRAMA) OST Part.12",
+        "url": "https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "duration_ms": 251483,
+      "name": "A Poem For Poetry - Instrumental",
+      "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Another Miss Oh (Original Television Soundtrack), Pt 2",
-        "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
         }
       ],
-      "duration_ms": 226715,
-      "name": "Just Like a Dream (Inst.)",
-      "url": "https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8"
+      "duration_ms": 226040,
+      "name": "My Tale - inst.",
+      "url": "https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -868,25 +868,25 @@
           "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
         }
       ],
-      "duration_ms": 298699,
-      "name": "\u110b\u1165\u1104\u1165\u11c2\u1100\u1166 \u110b\u1175\u1107\u1167\u11af\u1101\u1161\u110c\u1175 \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1100\u1166\u11bb\u110b\u1165, \u1102\u1165\u11af \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1102\u1173\u11ab \u1100\u1165\u110c\u1175 How Can I Love the Heartbreak, You're the One I Love",
-      "url": "https://open.spotify.com/track/2SVljleA3gTLpujwBM2Xrf"
+      "duration_ms": 253507,
+      "name": "\u1112\u1173\u11ab\u1103\u1173\u11af\u1105\u1175\u1102\u1173\u11ab \u1101\u1169\u11be\u1103\u1173\u11af \u1109\u1169\u11a8\u110b\u1166\u1109\u1165 \u1102\u1166 \u1109\u1163\u11b7\u1111\u116e\u1112\u1163\u11bc\u110b\u1175 \u1102\u1173\u1101\u1167\u110c\u1175\u11ab\u1100\u1165\u110b\u1163 Your Shampoo Scent in the Flowers",
+      "url": "https://open.spotify.com/track/1MFcbgbZxtoVnRg3zwcU2f"
     },
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU"
+        "name": "Another Miss Oh (Original Television Soundtrack), Pt 2",
+        "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
       },
       "artists": [
         {
-          "name": "PARK WON",
-          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 226040,
-      "name": "My Tale - inst.",
-      "url": "https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g"
+      "duration_ms": 226715,
+      "name": "Just Like a Dream (Inst.)",
+      "url": "https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "KPOP Piano Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
-      },
-      "artists": [
-        {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
-        }
-      ],
-      "duration_ms": 186888,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/4j656MxuT4dVMC61idr7ax"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Lovesick Girls",
         "url": "https://open.spotify.com/album/73HYFSLXh4g4YnSts7sKGx"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 207960,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/1PzHoeGjx1ccdV6usWNfW0"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 186888,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/4j656MxuT4dVMC61idr7ax"
     },
     {
       "added_at": "2022-11-02 13:40:53",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Four Tet",
+  "description": "The home for alternative electronic music. Cover: Jayda G",
   "name": "Altar",
   "tracks": [
     {
@@ -2421,6 +2421,28 @@
     },
     {
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320533,
+      "name": "Cmon",
+      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "album": {
         "name": "BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1",
         "url": "https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G"
       },
@@ -2823,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/2WuNuLoaj2LFVqTlGnVDIn"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205764,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/2m5EUOqv1XjDW4yP0TZFKN"
+    },
+    {
+      "album": {
         "name": "DJ-Kicks: Disclosure",
         "url": "https://open.spotify.com/album/7F0dkkAqwrmclRH8KP2QmW"
       },
@@ -3138,6 +3178,24 @@
       "duration_ms": 269799,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "album": {
+        "name": "Don't Live In Oblivion, It's Cold Down There",
+        "url": "https://open.spotify.com/album/7aGJzgabsr8GFl0MhQL6Uj"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Don't Live in Oblivion, It's Cold Down There",
+      "url": "https://open.spotify.com/track/4OdYcHs1SNceLXslZSPXuW"
     },
     {
       "album": {
@@ -3987,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "Shield",
+        "url": "https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208482,
+      "name": "Feels Like My Hands Are On Fire",
+      "url": "https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow"
+    },
+    {
+      "album": {
         "name": "Fembot Fashion",
         "url": "https://open.spotify.com/album/1VxBZzFSS3333QGfdZ82IT"
       },
@@ -4110,6 +4186,28 @@
       "duration_ms": 264698,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
+    },
+    {
+      "album": {
+        "name": "First Light (Giulia Tess Remix)",
+        "url": "https://open.spotify.com/album/2ht9xrz0ur7xINAgLfFYcP"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341915,
+      "name": "First Light - Giulia Tess Remix",
+      "url": "https://open.spotify.com/track/1pBPAEMXsdJdIpz2l6Hk2k"
     },
     {
       "album": {
@@ -11964,7 +12062,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 293489,
       "name": "To Feel Again / Trois",
       "url": "https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX"
@@ -12008,6 +12106,24 @@
       "duration_ms": 306589,
       "name": "To You",
       "url": "https://open.spotify.com/track/38GS3GcRxHE9YXuIk21eaC"
+    },
+    {
+      "album": {
+        "name": "Tokyo Flower",
+        "url": "https://open.spotify.com/album/47YEoBCvoakAWX6LtQ39U6"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258663,
+      "name": "Tokyo Flower",
+      "url": "https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB"
     },
     {
       "album": {

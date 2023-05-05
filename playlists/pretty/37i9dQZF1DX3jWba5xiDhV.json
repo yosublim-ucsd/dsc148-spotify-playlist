@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 114819,
+  "num_followers": 115109,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWY2YTQ2NzQ2MGY2NTdlN2ZjMzZjOWQ0MDAzOTg2MTAyYjlkYWQ5",
+  "snapshot_id": "MCxkMjZmMzc2ZmQxNmQxNTk4Y2Y2ZGRmYzg3M2Q3NzIxY2U0YjkyZDYw",
   "tracks": [
     {
       "added_at": "2023-04-19 09:49:41",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
-        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
-      },
-      "artists": [
-        {
-          "name": "Freddy The Flying Dutchman",
-          "url": "https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb"
-        },
-        {
-          "name": "The Sistina Band",
-          "url": "https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Wojtila 5. Disco Dance",
-      "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
         "name": "I'm Going to Go",
         "url": "https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v"
       },
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
+        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
+        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
+      },
+      "artists": [
+        {
+          "name": "Freddy The Flying Dutchman",
+          "url": "https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb"
+        },
+        {
+          "name": "The Sistina Band",
+          "url": "https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Wojtila 5. Disco Dance",
+      "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
         "name": "Automatic Dub 2",
         "url": "https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG"
       },
@@ -1291,26 +1291,22 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Come On Closer (2020 Remaster)",
-        "url": "https://open.spotify.com/album/1bdDfDXBhrMZQZqLDbmGdL"
+        "name": "Baila Bolero (Marc Hartman Remix)",
+        "url": "https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4"
       },
       "artists": [
         {
-          "name": "Pineapples",
-          "url": "https://open.spotify.com/artist/2XT4eexHFaKdv4Jm1NT9r0"
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
         },
         {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
-        },
-        {
-          "name": "Douglas Roop",
-          "url": "https://open.spotify.com/artist/37nfoS8kfCxK8tzAsbq5vY"
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
         }
       ],
-      "duration_ms": 390333,
-      "name": "Come On Closer - (Dub Version) Prod. by Roberto Ferrante - 2020 Remaster",
-      "url": "https://open.spotify.com/track/6kuJUlAVljF251MvyvdcPP"
+      "duration_ms": 300773,
+      "name": "Baila Bolero - Marc Hartman Remix",
+      "url": "https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH"
     }
   ],
   "unique_name": "Italo Disco",

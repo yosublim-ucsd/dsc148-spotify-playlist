@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 119150,
+  "num_followers": 119189,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjNmMzc3NDhlYWJkYTk2YTY3OWVmYTU5MTllN2EyZjg1MDk1NmRj",
+  "snapshot_id": "MCw1NWNmMzU1ZmQ0ZTAxYzdkZTk5YWYwMTFkMmViMzBmOWUwMTdlNmM5",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Voodoo!",
-        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
-      },
-      "artists": [
-        {
-          "name": "Robert Drasnin",
-          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "Chant Of The Moon",
-      "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Hawaiian Blossom",
@@ -267,6 +251,22 @@
       "duration_ms": 186360,
       "name": "Ahulili",
       "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Voodoo!",
+        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
+      },
+      "artists": [
+        {
+          "name": "Robert Drasnin",
+          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "Chant Of The Moon",
+      "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Mareld 2021",
+        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 182096,
+      "name": "Mareld 2021",
+      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Dance Beat of Xavier Cugat",
         "url": "https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
-        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 259519,
-      "name": "Lotus Land",
-      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Yellow Bird",
         "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 164920,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
+        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "Lotus Land",
+      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -591,22 +607,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Mareld 2021",
-        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 182096,
-      "name": "Mareld 2021",
-      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
         "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
-        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
-      },
-      "artists": [
-        {
-          "name": "King Curtis",
-          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Melancholy Serenade - Remastered",
-      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Quiet Village",
@@ -687,6 +671,22 @@
       "duration_ms": 138133,
       "name": "Hawaiian War Chant",
       "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
+        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
+      },
+      "artists": [
+        {
+          "name": "King Curtis",
+          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Melancholy Serenade - Remastered",
+      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
     },
     {
       "added_at": "2021-01-20 03:50:53",

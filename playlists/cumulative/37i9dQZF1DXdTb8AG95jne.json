@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: OhYoon(\uc624\uc724)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Choi Seong(\ucd5c\uc131)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -1078,6 +1078,24 @@
       "duration_ms": 205375,
       "name": "Blue bird",
       "url": "https://open.spotify.com/track/1WlNLsdkbPm2tjwIgvkneM"
+    },
+    {
+      "album": {
+        "name": "psicosismu",
+        "url": "https://open.spotify.com/album/6qeeRxn42rayvHbRKqyjxq"
+      },
+      "artists": [
+        {
+          "name": "Choi Seong",
+          "url": "https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252727,
+      "name": "blue snail",
+      "url": "https://open.spotify.com/track/4Tk4Fac1Mfghv1sRvyvGW6"
     },
     {
       "album": {
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 204000,
       "name": "GRIPPIN\u2019THEGREEN",
       "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
@@ -3624,6 +3642,24 @@
       "duration_ms": 271000,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/6goInTbslJn9dnI48KBET2"
+    },
+    {
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU"
     },
     {
       "album": {
@@ -8908,7 +8944,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 182813,
       "name": "The hand that's out to you",
       "url": "https://open.spotify.com/track/4VKosqBYXQACTfXQ5cGL88"

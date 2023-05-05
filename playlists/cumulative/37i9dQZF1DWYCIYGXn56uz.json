@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: CLARA",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Matteo Romano, Luigi Strangis",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 167162,
       "name": "5 MINUTI",
       "url": "https://open.spotify.com/track/35KwZkxsrcJiDJlloj4oHZ"
+    },
+    {
+      "album": {
+        "name": "La mia stanza",
+        "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "a Nessuno",
+      "url": "https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a"
     },
     {
       "album": {
@@ -251,6 +269,24 @@
     },
     {
       "album": {
+        "name": "CANZONI TRISTI",
+        "url": "https://open.spotify.com/album/7mY0E03mCwewk6njZREUna"
+      },
+      "artists": [
+        {
+          "name": "Nick Sick",
+          "url": "https://open.spotify.com/artist/4OfbG8mT7rOznJ4UDbejLO"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "CANZONI TRISTI",
+      "url": "https://open.spotify.com/track/01D1XwPEG4wOjFjbkYJukz"
+    },
+    {
+      "album": {
         "name": "CARTAGINE",
         "url": "https://open.spotify.com/album/3hgvPTGT9PCpe9HgXewDwy"
       },
@@ -280,7 +316,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 161951,
       "name": "Casa",
       "url": "https://open.spotify.com/track/1s9Bu0xVXe9mxoYHlwJYxJ"
@@ -600,7 +636,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 163874,
       "name": "Estraneo",
       "url": "https://open.spotify.com/track/13Wmt3VHXrShqgB4uMlEjO"
@@ -789,6 +825,28 @@
     },
     {
       "album": {
+        "name": "GIORNATA DI MERDA",
+        "url": "https://open.spotify.com/album/1EOmLJZ06IsRymHUr03qfv"
+      },
+      "artists": [
+        {
+          "name": "EDN",
+          "url": "https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u"
+        },
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152521,
+      "name": "GIORNATA DI MERDA",
+      "url": "https://open.spotify.com/track/3ZSIiyETN5pxzicLQLROvd"
+    },
+    {
+      "album": {
         "name": "Giovane e triste",
         "url": "https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1"
       },
@@ -970,7 +1028,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 133124,
       "name": "L'alba nei tuoi occhi",
       "url": "https://open.spotify.com/track/5VkcrS1JpxjT5Oj7oxnLbc"
@@ -1156,7 +1214,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 178080,
       "name": "MADE IN ITALY",
       "url": "https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe"
@@ -1196,6 +1254,24 @@
       "duration_ms": 174827,
       "name": "Male",
       "url": "https://open.spotify.com/track/1EMmeaIX1LEl1FrNJkK0eJ"
+    },
+    {
+      "album": {
+        "name": "La mia stanza",
+        "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs"
     },
     {
       "album": {
@@ -1437,6 +1513,28 @@
     },
     {
       "album": {
+        "name": "Non Mi Mancherai",
+        "url": "https://open.spotify.com/album/4PB54tmz9c5AhdIl1LxX10"
+      },
+      "artists": [
+        {
+          "name": "trigNO",
+          "url": "https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R"
+        },
+        {
+          "name": "Joe Viegas",
+          "url": "https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150205,
+      "name": "Non Mi Mancherai",
+      "url": "https://open.spotify.com/track/272acVPVqwmcNyHi0J2pmv"
+    },
+    {
+      "album": {
         "name": "Non Piove Pi\u00f9",
         "url": "https://open.spotify.com/album/4z92PMJqC8PYduMcJu0Os3"
       },
@@ -1484,7 +1582,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 179815,
       "name": "O Mi Uccidi",
       "url": "https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK"
@@ -1576,6 +1674,24 @@
       "duration_ms": 155933,
       "name": "Pane e Burro (feat. Ascanio)",
       "url": "https://open.spotify.com/track/77TD6EFSrQjolUvGHImg6t"
+    },
+    {
+      "album": {
+        "name": "Panico",
+        "url": "https://open.spotify.com/album/0TMPKsKcwdtyYNVLkrlrAU"
+      },
+      "artists": [
+        {
+          "name": "Federico Baroni",
+          "url": "https://open.spotify.com/artist/3RURcBFBQifZM2MyA4frZr"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Panico",
+      "url": "https://open.spotify.com/track/614dam3LpnYxlJlZAl6Kem"
     },
     {
       "album": {
@@ -2175,6 +2291,28 @@
     },
     {
       "album": {
+        "name": "Tulipani Blu",
+        "url": "https://open.spotify.com/album/5szcJT2NHzGev98dSKMLpN"
+      },
+      "artists": [
+        {
+          "name": "Matteo Romano",
+          "url": "https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b"
+        },
+        {
+          "name": "Luigi Strangis",
+          "url": "https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Tulipani Blu",
+      "url": "https://open.spotify.com/track/5zBrVEBLgFYJAT63YoxFuO"
+    },
+    {
+      "album": {
         "name": "Tutta La Vita",
         "url": "https://open.spotify.com/album/0JJ8ADGkEPang7Rhnd1p8t"
       },
@@ -2208,7 +2346,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 141818,
       "name": "Unica",
       "url": "https://open.spotify.com/track/1dy9J9p6pWPmuxvi34A1As"
@@ -2226,7 +2364,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 171666,
       "name": "Voglio di pi\u00f9",
       "url": "https://open.spotify.com/track/2EwaZtnl6HtnesKXiHfn7U"

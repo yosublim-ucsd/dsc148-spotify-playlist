@@ -1,13 +1,29 @@
 {
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: All Time Low",
-  "num_followers": 1645,
+  "num_followers": 1644,
   "original_name": "Plugged In",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY5NixhM2Q3ZDExMGEyMTllNjI1MDQyYWU3ZWE3ZmFhZTgzZjRhYzYxODYw",
+  "snapshot_id": "MTY5OSwwN2VhN2RkMTE2NjlkMTgwMjQ2YTdmYzQ3OTQ0NTE0ZjkzZjFlMzIw",
   "tracks": [
+    {
+      "added_at": "2023-05-05 00:57:17",
+      "album": {
+        "name": "Don't Get Me Wrong",
+        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 173132,
+      "name": "Don't Get Me Wrong",
+      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+    },
     {
       "added_at": "2023-04-21 02:04:06",
       "album": {
@@ -27,6 +43,38 @@
       "duration_ms": 210531,
       "name": "Not Without My Ghosts (feat. phem)",
       "url": "https://open.spotify.com/track/2rlkdPZr9BmPEMC7wlg11e"
+    },
+    {
+      "added_at": "2023-05-05 01:18:01",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "duration_ms": 187228,
+      "name": "Strawberry Daydream",
+      "url": "https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE"
+    },
+    {
+      "added_at": "2023-05-05 00:45:10",
+      "album": {
+        "name": "I Saw The Future",
+        "url": "https://open.spotify.com/album/2m9fGyYjgPmS2xU0ugLHyc"
+      },
+      "artists": [
+        {
+          "name": "The Hard Aches",
+          "url": "https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/4mNb2xRwNv3Kg9iA6FVwUb"
     },
     {
       "added_at": "2023-04-21 02:19:31",

@@ -1333,6 +1333,28 @@
     },
     {
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "album": {
         "name": "The Sound of Supercharged",
         "url": "https://open.spotify.com/album/38o0dGnmxWaTLYge0qyDXw"
       },
@@ -3216,6 +3238,24 @@
       "duration_ms": 364283,
       "name": "Plaid",
       "url": "https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ"
+    },
+    {
+      "album": {
+        "name": "Planet Waves",
+        "url": "https://open.spotify.com/album/0nDbj8c9TZXVK4T96pFW1I"
+      },
+      "artists": [
+        {
+          "name": "Sleep D",
+          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387912,
+      "name": "Planet Waves",
+      "url": "https://open.spotify.com/track/2Wpc7khFsHEGGbnLdwrwmM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-300 songs - 20 hr 32 min
+301 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 | 2022-03-25 | 2023-02-02 |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 | 2022-01-20 |  |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 | 2023-04-14 |
-| [I Can't Escape from You](https://open.spotify.com/track/38gqh7JEnwNxaKAzGpXB8i) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [I Can't Escape from You](https://open.spotify.com/album/27Ma3265McuCUApZ7wijtk) | 4:38 | 2023-02-16 |  |
+| [I Can't Escape from You](https://open.spotify.com/track/38gqh7JEnwNxaKAzGpXB8i) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [I Can't Escape from You](https://open.spotify.com/album/27Ma3265McuCUApZ7wijtk) | 4:38 | 2023-02-16 | 2023-05-05 |
 | [I Cried For You](https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Piano Duets](https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd) | 3:28 | 2022-01-20 |  |
 | [I Didn't Know About You](https://open.spotify.com/track/7l2h3uxkaw0R4asgHyVkQP) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 3:37 | 2022-05-31 | 2022-10-01 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:24 | 2022-01-20 |  |
@@ -171,6 +171,7 @@
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2022-07-14 |  |
 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 | 2022-01-20 |  |
 | [Let’s Fall In Love](https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 3:09 | 2022-01-20 |  |
+| [Love is Never Too Late](https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Love is Never Too Late](https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc) | 3:37 | 2023-05-03 |  |
 | [Love Song](https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Sunset In The Blue \(Deluxe Version\)](https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx) | 5:25 | 2022-01-20 |  |
 | [Love Tastes Like Strawberries](https://open.spotify.com/track/61jFe9N3u046ORguFBVAQa) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Tastes Like Strawberries](https://open.spotify.com/album/3oOqTn2s7bE9Ye7GTmKO6m) | 3:38 | 2022-02-11 |  |
 | [Lucky To Be Me](https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Over The Years](https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5) | 7:29 | 2022-01-20 |  |

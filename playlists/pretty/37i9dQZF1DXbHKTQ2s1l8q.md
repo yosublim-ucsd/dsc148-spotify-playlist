@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 
 > Beachy, acoustic tunes for lazy summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,230 likes - 132 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,232 likes - 132 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 131 | [Ku'u Pua I Paoakalani](https://open.spotify.com/track/5SgbhhOYg3NSGPHSTTAuEf) | [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Nahenahe](https://open.spotify.com/album/3J17HyASPEoCKqVvCmpeQW) | 3:17 |
 | 132 | [Unchained Melody](https://open.spotify.com/track/2qjBshXhqSVt5zYN0mXbgH) | [Bluetones](https://open.spotify.com/artist/19iDNndStvcWZ9squJXTQH) | [Unchained Melody](https://open.spotify.com/album/3nAn6vR2DDVo61rwaX9L5G) | 2:18 |
 
-Snapshot ID: `MCw5NzY3NzE4YzE0MDMxMmNjZGIyZjI3YzM3NWUyMTM5OTg0N2QxN2Yx`
+Snapshot ID: `MCw2Y2ZhYjhjMmUwM2RlZDFkNzlmNzgwNzg0NDg0ZDNkZTNiYjk1NDUx`

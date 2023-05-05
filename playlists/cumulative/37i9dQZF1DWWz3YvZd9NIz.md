@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-117 songs - 5 hr 57 min
+118 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Nobody Said It Was Easy \- Sefa Remix](https://open.spotify.com/track/2DbYleH8IowzkPVlcHnmN6) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Klaagzang](https://open.spotify.com/album/0ep74B5082yRdihkXVB4kx) | 4:29 | 2023-01-31 | 2023-04-28 |
 | [On My Way \- Da Tweekaz Remix](https://open.spotify.com/track/4Sp0jLZN8MgPnoGDufJS7N) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [On My Way \(Da Tweekaz Remix\)](https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa) | 3:24 | 2023-02-09 | 2023-04-07 |
 | [One Kiss \(Hardstyle\)](https://open.spotify.com/track/2sNrZEAGLRQ7iDtXf5WsuV) | [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [One Kiss \(Hardstyle\)](https://open.spotify.com/album/1mMXaL9ODZKbtfy0T5KlHl) | 2:45 | 2023-02-09 |  |
+| [One Kiss \- Hardstyle Remix](https://open.spotify.com/track/0Z2adSk6KmnD22xsUuBKLP) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [One Kiss \(Hardstyle Remix\)](https://open.spotify.com/album/2wkkPYISfaTdPhOuZxeAfh) | 2:22 | 2023-04-27 |  |
 | [Only Girl \- Hardstyle Remix](https://open.spotify.com/track/1Yoxdq3J7CxsaLPAynnZde) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Only Girl \(Hardstyle Remix\)](https://open.spotify.com/album/4ycaH6mCx8CPIY3xXxjYi9) | 2:07 | 2022-12-05 | 2023-04-12 |
 | [Outside \(Hardstyle Remix\)](https://open.spotify.com/track/5idLCQX198buvDTviDEPP2) | [Yohan Gerber](https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra), [ATHYN](https://open.spotify.com/artist/41esbIbuaddLTrWceKGbf1), [Elise Lieberth](https://open.spotify.com/artist/42hdUVfhzUs7dZWafzvJ7e) | [Outside \(Hardstyle Remix\)](https://open.spotify.com/album/3npYJDvpWgrXks0LmNWZQt) | 2:49 | 2023-01-26 | 2023-02-03 |
 | [Outside \- Hardstyle Remix](https://open.spotify.com/track/0lKFwVERbOAEjst5CfH7tb) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Outside \(Hardstyle Remix\)](https://open.spotify.com/album/1KHgzKZGHatLlCtlQnI0y7) | 2:37 | 2023-03-09 |  |
@@ -123,7 +124,7 @@
 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 | 2022-12-28 | 2023-04-12 |
 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 | 2023-04-13 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 | 2022-12-22 | 2022-12-29 |
-| [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 | 2022-12-05 |  |
+| [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 | 2022-12-05 | 2023-05-05 |
 | [Zombie](https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Zombie](https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH) | 4:49 | 2022-12-05 |  |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 152197,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/26lMfUWnrXOXQb9XJpuy6F"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 232368,
       "name": "Central Park West",
       "url": "https://open.spotify.com/track/5HBXDapFW7kEjT04fQfk1p"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 232374,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 306893,
       "name": "I See Your Face Before Me",
       "url": "https://open.spotify.com/track/7dRtZIVS0B8clQdhvCSfuC"
@@ -2795,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Mellow Moments",
+        "url": "https://open.spotify.com/album/6EPzhXnwWDGF1We8Qqk8cI"
+      },
+      "artists": [
+        {
+          "name": "Tina Wellbeck",
+          "url": "https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152167,
+      "name": "Mellow Moments",
+      "url": "https://open.spotify.com/track/05mDaFGo2L11McsbZ0xLRR"
+    },
+    {
+      "album": {
         "name": "I Get Along Without You Very Well",
         "url": "https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do"
       },
@@ -3170,6 +3188,24 @@
       "duration_ms": 171250,
       "name": "Night Mood",
       "url": "https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f"
+    },
+    {
+      "album": {
+        "name": "Oh Lady Be Good",
+        "url": "https://open.spotify.com/album/2pnrqa6WnHe2cJUG3dPwAi"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "Oh Lady Be Good",
+      "url": "https://open.spotify.com/track/2ksjtAUVYC6vZ64GRhQn2h"
     },
     {
       "album": {
@@ -4109,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "St. James's At Night",
+        "url": "https://open.spotify.com/album/6MWPtVkygLoin1DrP14M2G"
+      },
+      "artists": [
+        {
+          "name": "Roland Wilder",
+          "url": "https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149771,
+      "name": "St. James's At Night",
+      "url": "https://open.spotify.com/track/3XrKJFEORrqhHLYvGZTqux"
+    },
+    {
+      "album": {
         "name": "You must believe in spring",
         "url": "https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf"
       },
@@ -4358,6 +4412,24 @@
       "duration_ms": 129959,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT"
+    },
+    {
+      "album": {
+        "name": "The Green Sky",
+        "url": "https://open.spotify.com/album/6JP6ibLclaGutANJnGS1ec"
+      },
+      "artists": [
+        {
+          "name": "Charles Blake",
+          "url": "https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "The Green Sky",
+      "url": "https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN"
     },
     {
       "album": {
@@ -5222,6 +5294,24 @@
       "duration_ms": 212250,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5"
+    },
+    {
+      "album": {
+        "name": "You can handle it",
+        "url": "https://open.spotify.com/album/3DH1zOPlkITnfkZ0cLRUIk"
+      },
+      "artists": [
+        {
+          "name": "Winola Weber",
+          "url": "https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "You can handle it",
+      "url": "https://open.spotify.com/track/26iIjzdLwmSFyXNv75DR0e"
     },
     {
       "album": {

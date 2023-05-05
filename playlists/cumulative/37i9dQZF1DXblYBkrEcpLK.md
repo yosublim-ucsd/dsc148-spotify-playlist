@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)
 
-415 songs - 1 day 4 hr 30 min
+416 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [あかね組活動日誌 \~巳班\~](https://open.spotify.com/track/7zNZ7WKIJxBo6mre7KHf15) | [ウイキョウ\(CV.朝日奈丸佳\)](https://open.spotify.com/artist/2OfuXU2m8xcZTo5ABkRl8M), [キキョウ\(CV.田中美海\)](https://open.spotify.com/artist/0p4VKlyQUuw4j68009nWA1) | [あかね組活動日誌 \~巳班\~](https://open.spotify.com/album/42P5GLy8nWKikP8PgHsB0x) | 1:29 | 2022-06-24 | 2022-07-28 |
 | [あかね組活動日誌 \~辰班\~](https://open.spotify.com/track/3Q4OZnQhgFUebwfLGfBPHp) | [ヒギリ\(CV.貫井柚佳\)](https://open.spotify.com/artist/3efL2pAXzgxsnMwBFGjmCy), [スズシロ\(CV.高田憂希\)](https://open.spotify.com/artist/4vaoyaPnVXvgX3VOtyckDX), [ハス\(CV.佳原萌枝\)](https://open.spotify.com/artist/6ivk5IDhYTix99wGpj1z8M) | [あかね組活動日誌 \~辰班\~](https://open.spotify.com/album/3zRIHC4tKnW2UmgM7qPZi2) | 1:31 | 2022-06-24 | 2022-06-30 |
 | [あかね組活動日誌 \~酉班\~](https://open.spotify.com/track/0sQLLithQmtD62geUyGHIg) | [スミレ\(CV.ファイルーズあい\)](https://open.spotify.com/artist/7d2RWnsBKLqqNovNmCkrdb), [アザミ\(CV.朝井彩加\)](https://open.spotify.com/artist/6WWodpDLtZjIszo6IsmTdv), [タンポポ\(CV.井上ほの花\)](https://open.spotify.com/artist/6QF7IX2D7ydYlV2qYdCL79) | [あかね組活動日誌 \~酉班\~](https://open.spotify.com/album/1upzpgjhm4NHYVNX4lH3P1) | 1:32 | 2022-06-09 | 2022-07-13 |
+| [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-20 |  |
 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 | 2023-01-06 |  |
 | [あの日のことば](https://open.spotify.com/track/2bFuloLzFQ6wkBZq2P9gOF) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [あの日のことば / Growing](https://open.spotify.com/album/2uwhDqO7HjJULspAfWD5AM) | 4:26 | 2022-06-09 | 2022-07-23 |
 | [あまい夢](https://open.spotify.com/track/4O9LMQcPjRfNa0BPDHSjbm) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [Empathy](https://open.spotify.com/album/0RGJ7M4sIgtfs5QwZvgs6J) | 4:03 | 2022-07-19 | 2022-07-22 |
@@ -284,7 +285,7 @@
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-06-09 | 2022-07-29 |
 | [セカイノハテ](https://open.spotify.com/track/2hscsHoQRimWKCqQgDBOfv) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [パッチワーク](https://open.spotify.com/album/44Jbo1p4sZrPXoNE1ByTyl) | 4:21 | 2022-06-24 | 2022-07-12 |
 | [セピアの虹](https://open.spotify.com/track/4qnD3Qbl9pbKVLHtMtyjXo) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [It's a small world](https://open.spotify.com/album/10vufjeDyyOVTUG1OIBlKK) | 5:17 | 2022-06-21 | 2022-07-25 |
-| [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 | 2022-07-28 |  |
+| [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 | 2022-07-28 | 2023-05-05 |
 | [タルヒ](https://open.spotify.com/track/6UX5gT61Lw3bz8mRM7K6jn) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 3:44 | 2022-06-09 | 2022-07-24 |
 | [ダイスキ。](https://open.spotify.com/track/4i05yRq3HPOqm0rAE8QrE3) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [WINGS](https://open.spotify.com/album/6mzr5fb350NIRtnT4lKhVC) | 4:07 | 2022-06-12 | 2022-06-26 |
 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-06-09 | 2022-08-17 |

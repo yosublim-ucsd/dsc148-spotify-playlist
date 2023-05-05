@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 87179,
+  "num_followers": 87317,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGE0MjIxNTY2MDUxZDVjOTIzNGRkOThhMzgyYjBhMWVlMDQ4Nzgy",
+  "snapshot_id": "MCxhYTE5ZjUzZWUxYzVlZmRkZmQ4YzRhMTliODllYTBkZTU0MzZiNzkw",
   "tracks": [
     {
       "added_at": "2023-04-27 16:45:35",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-27 16:45:35",
       "album": {
-        "name": "Forgery",
-        "url": "https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v"
-      },
-      "artists": [
-        {
-          "name": "Yupsilon",
-          "url": "https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3"
-        }
-      ],
-      "duration_ms": 140873,
-      "name": "Forgery",
-      "url": "https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4"
-    },
-    {
-      "added_at": "2023-04-27 16:45:35",
-      "album": {
         "name": "\u30e1\u30ed\u30a6",
         "url": "https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 249204,
       "name": "\u30e1\u30ed\u30a6",
       "url": "https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n"
+    },
+    {
+      "added_at": "2023-04-27 16:45:35",
+      "album": {
+        "name": "Forgery",
+        "url": "https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v"
+      },
+      "artists": [
+        {
+          "name": "Yupsilon",
+          "url": "https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3"
+        }
+      ],
+      "duration_ms": 140873,
+      "name": "Forgery",
+      "url": "https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4"
     },
     {
       "added_at": "2023-04-27 16:45:35",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-27 16:45:35",
       "album": {
-        "name": "\u30c1\u30ce\u30ab\u30c6",
-        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248300,
-      "name": "\u30c1\u30ce\u30ab\u30c6",
-      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
-    },
-    {
-      "added_at": "2023-04-27 16:45:35",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 157161,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4"
+    },
+    {
+      "added_at": "2023-04-27 16:45:35",
+      "album": {
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     }
   ],
   "unique_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",

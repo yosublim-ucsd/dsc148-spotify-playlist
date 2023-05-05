@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,936 likes - 499 songs - 19 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,026 likes - 499 songs - 19 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -508,4 +508,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 498 | [Red Flowers](https://open.spotify.com/track/0VxqtLxLyvQq2KjTq5Zddm) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Tavolo Fantastico](https://open.spotify.com/album/2FdG8vYQLA0CnxKpiiEZQ8) | 1:58 |
 | 499 | [scribbles](https://open.spotify.com/track/4hUpTnXcCjpHdtw9mB1RRL) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [scribbles](https://open.spotify.com/album/2Vo1xrp2aY30iGCZNl0hE1) | 2:01 |
 
-Snapshot ID: `MCxlMWI0MDkxMmY4MzY0ZDliYzI1ODZmNjczOTZjNTBjYzA0MTBkOTZk`
+Snapshot ID: `MCw0YjEwN2VlNDRmYTg4ZDdmZWExNjkwMmNlNTY4NDNkZWExYzc1MTky`

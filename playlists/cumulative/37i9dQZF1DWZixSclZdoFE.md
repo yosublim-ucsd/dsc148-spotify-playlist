@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-428 songs - 1 day 1 hr 15 min
+429 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2023-01-25 |  |
 | [Don't Like.1](https://open.spotify.com/track/2rJvc7nSYWBKAuNUMx1Cr2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:43 | 2021-12-17 | 2022-07-29 |
 | [Don't Understand](https://open.spotify.com/track/0LQaGFLmcewjFD0BkxgEDJ) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Greg Nice](https://open.spotify.com/artist/11QdxwAGVKkoLuarCX7L3N) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 3:56 | 2022-03-24 | 2022-04-10 |
+| [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 | 2022-12-19 |  |
 | [Donald Trump](https://open.spotify.com/track/3uulVrxiI7iLTjOBZsaiF8) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Donald Trump \- Single](https://open.spotify.com/album/6eFkuEfykAUpthUiUeu3zw) | 2:45 | 2021-12-17 | 2022-06-27 |
 | [Don’t Play \(with Lil Baby\)](https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:36 | 2022-01-05 | 2022-01-19 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2022-03-15 |  |
@@ -374,7 +375,7 @@
 | [The Only One](https://open.spotify.com/track/5mqzjSnY0IMCRda16ZAi6e) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Jemini the Gifted One](https://open.spotify.com/artist/4UyhNzUvOoBzdjdvoZ9fng) | [Ghetto Pop Life](https://open.spotify.com/album/6Cx77hJLgPUshdlfgljXUD) | 3:17 | 2022-03-15 | 2022-04-21 |
 | [The Show Goes On](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers](https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D) | 3:59 | 2021-12-17 |  |
 | [This Plane](https://open.spotify.com/track/18NezaQ1GIzJkvZx9hG0bX) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Deal Or No Deal](https://open.spotify.com/album/1UajesH5Cdq5Ezu3o3f6si) | 3:17 | 2022-04-14 | 2022-04-21 |
-| [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 | 2021-12-17 |  |
+| [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 | 2021-12-17 | 2023-05-05 |
 | [Thug](https://open.spotify.com/track/63aEJ4wsr95XjkvIydKOZG) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Boss of All Bosses](https://open.spotify.com/album/7dZRiNhi3dw5QL6npDmTqi) | 3:50 | 2022-04-14 | 2022-07-15 |
 | [THUG MOTIVATION: 430](https://open.spotify.com/track/5Rg66DxuSKEPXj6mORK8Zc) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [NO ROOFTOPS 2](https://open.spotify.com/album/15IrnmcjoEJrf6ApAIyHO1) | 1:59 | 2022-01-05 | 2022-01-10 |
 | [Tiimmy Turner](https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner](https://open.spotify.com/album/7zf9kyxc3ZhJv79HrjTRir) | 3:59 | 2021-12-17 | 2023-01-29 |

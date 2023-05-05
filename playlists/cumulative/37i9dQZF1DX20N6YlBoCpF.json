@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=08iIfRLmQOut8RcVcUBeHw\">Prop</a> ",
+  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"http://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS\">Die Piesangskille</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Chocolate Sigarette",
+        "url": "https://open.spotify.com/album/3mC8IJz4TXi2iEMMYNytOU"
+      },
+      "artists": [
+        {
+          "name": "Christia Visser",
+          "url": "https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198980,
+      "name": "Chocolate Sigarette",
+      "url": "https://open.spotify.com/track/0185cQUYmXRbiVDJiGAXHU"
+    },
+    {
+      "album": {
         "name": "Coco Pops en Kaas",
         "url": "https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1"
       },
@@ -1133,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Die Lig",
+        "url": "https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb"
+      },
+      "artists": [
+        {
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145528,
+      "name": "Die Lig",
+      "url": "https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R"
+    },
+    {
+      "album": {
         "name": "Kleindorp - Dromer",
         "url": "https://open.spotify.com/album/5ZTYJZu8aeOgZ6NAevn9BF"
       },
@@ -1274,7 +1310,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 173877,
       "name": "Dis Jy",
       "url": "https://open.spotify.com/track/56YlDobcg3BNFPYpZItGks"
@@ -2014,7 +2050,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 159652,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
@@ -2036,6 +2072,24 @@
       "duration_ms": 210319,
       "name": "Hey Sonneblom",
       "url": "https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG"
+    },
+    {
+      "album": {
+        "name": "Hey Zonnebloem",
+        "url": "https://open.spotify.com/album/7lHVCPQO5bkTAdU7b9l3oN"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207725,
+      "name": "Hey Zonnebloem",
+      "url": "https://open.spotify.com/track/7BxNuSuxxoT3EN1lQuvxB6"
     },
     {
       "album": {
@@ -2198,10 +2252,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 213789,
       "name": "Huurvry",
       "url": "https://open.spotify.com/track/2vmWZw5zFfZHxM39lsy8ib"
+    },
+    {
+      "album": {
+        "name": "Braaf",
+        "url": "https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196530,
+      "name": "Hy's 'n Lekker Ou",
+      "url": "https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO"
     },
     {
       "album": {
@@ -2346,6 +2418,24 @@
       "duration_ms": 186179,
       "name": "Jinne Maar Dis Lekker",
       "url": "https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma"
+    },
+    {
+      "album": {
+        "name": "Johanna Van Saldanha",
+        "url": "https://open.spotify.com/album/39z0umq3UJVJ0KbEg4Iu7Z"
+      },
+      "artists": [
+        {
+          "name": "Armand Steenkamp",
+          "url": "https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175641,
+      "name": "Johanna Van Saldanha",
+      "url": "https://open.spotify.com/track/0JUVjsqRA2O0Ajy8Yb5x9A"
     },
     {
       "album": {
@@ -2512,7 +2602,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 211111,
       "name": "Kettiekind",
       "url": "https://open.spotify.com/track/6ecISaRk7wWrLrb69tRCXV"
@@ -2889,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "Allegaarkie vir 'n Askeet",
+        "url": "https://open.spotify.com/album/4zCQ2BGOIPiUGBja5siTjt"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        },
+        {
+          "name": "Tarryn Lamb",
+          "url": "https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "K\u00f4mm\u00f4s\u00eadies\u00ea",
+      "url": "https://open.spotify.com/track/74dfMfJHslWCxnJc4tV5yY"
+    },
+    {
+      "album": {
         "name": "Vir Megan",
         "url": "https://open.spotify.com/album/0ecdOYIs8uIBf8qCTBaoZj"
       },
@@ -2954,7 +3066,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 228473,
       "name": "Lag Lag",
       "url": "https://open.spotify.com/track/6GvEegpm81SNzOuKD7wl0t"
@@ -2972,7 +3084,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 277480,
       "name": "Lammergeier",
       "url": "https://open.spotify.com/track/7fYELnegsjMM0ekzu6lRBe"
@@ -3258,6 +3370,24 @@
       "duration_ms": 201269,
       "name": "Maak Wakker",
       "url": "https://open.spotify.com/track/3bemRRClVvTnfpOxIQx88w"
+    },
+    {
+      "album": {
+        "name": "Mal Maandagaande",
+        "url": "https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133246,
+      "name": "Mal Maandagaande",
+      "url": "https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA"
     },
     {
       "album": {
@@ -3577,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Nagtegaal",
+        "url": "https://open.spotify.com/album/0R6HkyqQEVavf5Ied9nxFY"
+      },
+      "artists": [
+        {
+          "name": "Gabi Swanepoel",
+          "url": "https://open.spotify.com/artist/6ML8yaqGVYtmNiUKanpH21"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174090,
+      "name": "Nagtegaal",
+      "url": "https://open.spotify.com/track/6Kzji1np4ssuJKki4FNx7t"
+    },
+    {
+      "album": {
         "name": "Namib Woestyn",
         "url": "https://open.spotify.com/album/7lOdh3muDFGlPCsJgfTEZb"
       },
@@ -3624,7 +3772,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 199000,
       "name": "Nee of Ja",
       "url": "https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB"
@@ -3801,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "Nostalgie",
+        "url": "https://open.spotify.com/album/5WEswN1xODOysaRnIxKhsF"
+      },
+      "artists": [
+        {
+          "name": "Carlissa",
+          "url": "https://open.spotify.com/artist/4DnxYe01g800MpVYYvN74l"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202301,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/51gmwQ2DysLAzGMDZ9QJbr"
+    },
+    {
+      "album": {
         "name": "Nuwe Reise",
         "url": "https://open.spotify.com/album/2eTnfCXIPXQ6ZGKRs30Uy4"
       },
@@ -3972,7 +4138,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 242169,
       "name": "Ons Twee Genoeg (feat. Marissa)",
       "url": "https://open.spotify.com/track/6e91EOUzqp7CITax2iB4rd"
@@ -4622,7 +4788,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 199519,
       "name": "Skrik Vir Niks (Van Die Snotkop Movie: Skrik Vir Niks)",
       "url": "https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1"
@@ -5073,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Te Sexy",
+        "url": "https://open.spotify.com/album/71xdfwNNDvqJ9gso3bS5zP"
+      },
+      "artists": [
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176857,
+      "name": "Te Sexy",
+      "url": "https://open.spotify.com/track/7EsvvQB8OuT95DOodwgo4I"
+    },
+    {
+      "album": {
         "name": "Tekkies Brand",
         "url": "https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD"
       },
@@ -5410,7 +5594,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 213176,
       "name": "Vat 5",
       "url": "https://open.spotify.com/track/1tERAe58iLcA5fkoOicFaR"
@@ -5458,6 +5642,24 @@
       "duration_ms": 210324,
       "name": "Vat Jou Hoender",
       "url": "https://open.spotify.com/track/1aSzuwa31lyAhCXoebzi6f"
+    },
+    {
+      "album": {
+        "name": "Verby",
+        "url": "https://open.spotify.com/album/0F7M5RLUaX36HO8wYf2vYF"
+      },
+      "artists": [
+        {
+          "name": "Swerwer",
+          "url": "https://open.spotify.com/artist/2Agm0pczmzwW1mpWQjioPJ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229293,
+      "name": "Verby",
+      "url": "https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz"
     },
     {
       "album": {
@@ -5884,7 +6086,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 252551,
       "name": "Wikkel En Weeg",
       "url": "https://open.spotify.com/track/58sfTO42iIqP7wXczW5oIH"

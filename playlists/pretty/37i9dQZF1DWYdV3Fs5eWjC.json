@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Honey Dijon",
-  "num_followers": 73928,
+  "num_followers": 73938,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTMyNmU4OGQxOWM2ZjUzMDY0YTkyNmNhNzY5MjM2NmU0MjNmZThk",
+  "snapshot_id": "MCw5ZThlNTRiMWFkYTFkYTk4MDBhMDQyNDdjODNiNzNhMzkzNTZkYzRm",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -245,22 +245,6 @@
       "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
     },
     {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
       "added_at": "2023-04-06 23:29:21",
       "album": {
         "name": "Like..?",
@@ -275,6 +259,22 @@
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku"
+    },
+    {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -569,26 +569,6 @@
       "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
     },
     {
-      "added_at": "2023-04-06 23:29:21",
-      "album": {
-        "name": "Technicolor Love (feat. redveil)",
-        "url": "https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        },
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 194029,
-      "name": "Technicolor Love (feat. redveil)",
-      "url": "https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF"
-    },
-    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
@@ -613,6 +593,22 @@
       "url": "https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq"
     },
     {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "SULA (Paperback)",
+        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
+    },
+    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "BUBBA",
@@ -633,20 +629,24 @@
       "url": "https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c"
     },
     {
-      "added_at": "2022-05-31 20:14:29",
+      "added_at": "2023-04-06 23:29:21",
       "album": {
-        "name": "SULA (Paperback)",
-        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
+        "name": "Technicolor Love (feat. redveil)",
+        "url": "https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn"
       },
       "artists": [
         {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        },
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
         }
       ],
-      "duration_ms": 255906,
-      "name": "SULA (Paperback)",
-      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
+      "duration_ms": 194029,
+      "name": "Technicolor Love (feat. redveil)",
+      "url": "https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF"
     },
     {
       "added_at": "2020-06-01 21:07:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-05-31 20:14:29",
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
-    },
-    {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
         "name": "Body Move",
         "url": "https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 176950,
       "name": "Body Move",
       "url": "https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN"
+    },
+    {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
     },
     {
       "added_at": "2022-05-31 20:14:29",

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 24781,
+  "num_followers": 24923,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmY2N2QxYmUzYTMzMmI0YjgxNTAwYTgzZmM0OGFiNWMyNWNiZTI0",
+  "snapshot_id": "MCwxYWJlYmM1MmM2ZjkyY2NiZDM5NWFjZmFhNjVhODNhYTVlYjY2MDM5",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Interludes For The Dead (feat. Neal Casal)",
-        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
+        "name": "Dose",
+        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
       },
       "artists": [
         {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        },
-        {
-          "name": "Neal Casal",
-          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
         }
       ],
-      "duration_ms": 740520,
-      "name": "Gilbert's Groove (feat. Neal Casal)",
-      "url": "https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl"
+      "duration_ms": 407040,
+      "name": "Thorazine Shuffle",
+      "url": "https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -531,18 +527,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dose",
-        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
+        "name": "Interludes For The Dead (feat. Neal Casal)",
+        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        },
+        {
+          "name": "Neal Casal",
+          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
         }
       ],
-      "duration_ms": 407040,
-      "name": "Thorazine Shuffle",
-      "url": "https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI"
+      "duration_ms": 740520,
+      "name": "Gilbert's Groove (feat. Neal Casal)",
+      "url": "https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -643,6 +643,38 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Dose",
+        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "She Said, She Said",
+      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Free Somehow",
+        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "After Midnight: Kean College, 2/28/80",
         "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
       },
@@ -695,38 +727,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dose",
-        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "She Said, She Said",
-      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Free Somehow",
-        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
-      },
-      "artists": [
-        {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Just A Poke / Darkness To Light",
         "url": "https://open.spotify.com/album/4TvspgPQpOYUlNDC1GFbIJ"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Alive and Well",
-        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 571894,
-      "name": "Arcadia (7.27.19)",
-      "url": "https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Waiting for Columbus (Live Version; Deluxe Edition)",
         "url": "https://open.spotify.com/album/2TtmZyFBqydHgAk6r8mbbM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 293906,
       "name": "Fat Man In The Bathtub - Live at Lisner Auditorium, Washington, DC, 8/10/1977",
       "url": "https://open.spotify.com/track/2QvMk15JHTjVH3KDoF26NH"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Light Fuse Get Away",
+        "url": "https://open.spotify.com/album/0El4sQIrpXQXcbyGV4J0Qx"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "duration_ms": 844693,
+      "name": "Diner",
+      "url": "https://open.spotify.com/track/3wF5YHX5PgPrIIVXL7Zgcl"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -811,34 +811,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Light Fuse Get Away",
-        "url": "https://open.spotify.com/album/0El4sQIrpXQXcbyGV4J0Qx"
+        "name": "Alive and Well",
+        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
       },
       "artists": [
         {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
         }
       ],
-      "duration_ms": 844693,
-      "name": "Diner",
-      "url": "https://open.spotify.com/track/3wF5YHX5PgPrIIVXL7Zgcl"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Friday Afternoon In The Universe",
-        "url": "https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 379560,
-      "name": "The Lover",
-      "url": "https://open.spotify.com/track/26IapGXdI0m8nhHs8dRg8X"
+      "duration_ms": 571894,
+      "name": "Arcadia (7.27.19)",
+      "url": "https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -855,6 +839,22 @@
       "duration_ms": 268400,
       "name": "Don't Do It - Live At The Academy Of Music / 1971",
       "url": "https://open.spotify.com/track/64UtYRCtvr37iCHy6Rx6mE"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Friday Afternoon In The Universe",
+        "url": "https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 379560,
+      "name": "The Lover",
+      "url": "https://open.spotify.com/track/26IapGXdI0m8nhHs8dRg8X"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Burn It Down (Live)",
-        "url": "https://open.spotify.com/album/4JsU5vwVZEo36Ro5iAMtrD"
-      },
-      "artists": [
-        {
-          "name": "Trey Anastasio",
-          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
-        }
-      ],
-      "duration_ms": 617858,
-      "name": "Sand - Live",
-      "url": "https://open.spotify.com/track/1I475fQYlPiCgcsRqY7CCm"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "GarciaLive Volume Two: August 5th, 1990 Greek Theatre",
         "url": "https://open.spotify.com/album/2zJpfHiO3VNEt2AcKtEoDs"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 281960,
       "name": "Regarding Steven",
       "url": "https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Burn It Down (Live)",
+        "url": "https://open.spotify.com/album/4JsU5vwVZEo36Ro5iAMtrD"
+      },
+      "artists": [
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "duration_ms": 617858,
+      "name": "Sand - Live",
+      "url": "https://open.spotify.com/track/1I475fQYlPiCgcsRqY7CCm"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Leftover Salmon: Live",
-        "url": "https://open.spotify.com/album/5dtrGyP5IdOUcXXBGRr1yM"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        }
-      ],
-      "duration_ms": 763266,
-      "name": "Railroad Highway",
-      "url": "https://open.spotify.com/track/6hYWzQahtAyysqR5ndtvLr"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Live at House of Blues Boston (12/31/2018)",
         "url": "https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 430066,
       "name": "Lost in the Cold (Live)",
       "url": "https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Leftover Salmon: Live",
+        "url": "https://open.spotify.com/album/5dtrGyP5IdOUcXXBGRr1yM"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 763266,
+      "name": "Railroad Highway",
+      "url": "https://open.spotify.com/track/6hYWzQahtAyysqR5ndtvLr"
     },
     {
       "added_at": "2023-04-06 15:04:32",

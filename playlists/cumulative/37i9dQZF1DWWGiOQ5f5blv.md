@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama Doctor Cha\. \(드라마 닥터 차정숙의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs  selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-50 songs - 2 hr 58 min
+51 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Hop in \(Feat\. Hwa Sa, DPR LIVE\)](https://open.spotify.com/track/0m7EslFE30tsLNmh3gJdiS) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Hop in](https://open.spotify.com/album/3H7SegvbrluL787hau5gQB) | 3:40 | 2023-04-21 |  |
 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 | 2023-04-21 |  |
 | [I say "I love you" again](https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Homecoming](https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d) | 4:47 | 2023-04-21 |  |
-| [International Love Song](https://open.spotify.com/track/3CVWdo53SX1WNqENdXXcrR) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Don't You Worry Baby \(I'm Only Swimming\)](https://open.spotify.com/album/3gjS7c1wEOAqPXRcTbHFUZ) | 4:19 | 2023-04-21 |  |
+| [International Love Song](https://open.spotify.com/track/3CVWdo53SX1WNqENdXXcrR) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Don't You Worry Baby \(I'm Only Swimming\)](https://open.spotify.com/album/3gjS7c1wEOAqPXRcTbHFUZ) | 4:19 | 2023-04-21 | 2023-05-05 |
+| [International Love Song](https://open.spotify.com/track/3R3cXK6BHZ5JDAgPOAHPQw) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Don't You Worry Baby \(I'm Only Swimming\)](https://open.spotify.com/album/6CaKnIXQnlLAqU4WOALBM9) | 4:19 | 2023-04-30 |  |
 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 | 2023-04-21 |  |
 | [JUST KOREAN POP](https://open.spotify.com/track/28tTv9ZOz2eYWNv2arkzWU) | [Hoochus](https://open.spotify.com/artist/3bEQ3MsehZrVvM6vNKQTmF) | [JUST KOREAN POP](https://open.spotify.com/album/13s4xolZv7TTUI5JImwMNB) | 3:30 | 2023-04-21 |  |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-04-21 |  |

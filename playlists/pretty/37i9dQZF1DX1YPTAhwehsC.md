@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,527 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,624 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 30 | [WICKED!](https://open.spotify.com/track/3zGXKyFESzcbenBMfOieOQ) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [WICKED!](https://open.spotify.com/album/4ufYMoVqW8cssqqYdRx5nP) | 1:07 |
 | 31 | [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 |
 | 32 | [Mr\. Police](https://open.spotify.com/track/61LOPrbWz3Ymh6bNdCsJAz) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Mr\. Police](https://open.spotify.com/album/5MGatoheqRcLpPfQgGttck) | 2:52 |
-| 33 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
+| 33 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in the House of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
 | 34 | [Already Know](https://open.spotify.com/track/1ULXtm9lperZGjyVW8IYyB) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Angelica Vila](https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Already Know](https://open.spotify.com/album/4WzqoNvuz17jbj8dSg4quA) | 2:43 |
 | 35 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 36 | [Don't Text Don't Call](https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Don't Text Don't Call](https://open.spotify.com/album/1rAWTywOSeej6kpubeqIY7) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Fools Fall N Love \(feat.YoungBoy Never Broke Again\)](https://open.spotify.com/track/0SflkMqNJi87xQnbfOcZ36) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fools Fall N Love \(feat.YoungBoy Never Broke Again\)](https://open.spotify.com/album/0ltJlAUpxDZunfWQmFFrMp) | 3:22 |
 | 100 | [RED LIGHT](https://open.spotify.com/track/5BXG1rCIsVSCzTUkI01LM9) | [Neek Bucks](https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc) | [BLESSED TO THE MAX](https://open.spotify.com/album/6PZYnisiLnhBKxW7TxMauM) | 2:04 |
 
-Snapshot ID: `MCwzZmU2MTRhNzFlZGE4NDRmYmJkNmM2OTlhZTRjMDViMDNkZmFmNTRm`
+Snapshot ID: `MCxhNzFiZTY3MmJkYzYwYjJmZjNiMTgzMjNmNTY3MDljOTg0YmY0YTg1`

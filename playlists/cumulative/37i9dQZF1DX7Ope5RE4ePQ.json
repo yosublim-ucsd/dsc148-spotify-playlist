@@ -615,32 +615,6 @@
     },
     {
       "album": {
-        "name": "Khachaturian: Masquerade (Suite): 1. Waltz [Excerpt]",
-        "url": "https://open.spotify.com/album/55J1DF9Q5xYZ9gy5HfogOL"
-      },
-      "artists": [
-        {
-          "name": "Aram Khachaturian",
-          "url": "https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Stanley Black",
-          "url": "https://open.spotify.com/artist/7ICtJI0WkGw8bQB2ELzHjk"
-        }
-      ],
-      "date_added": "2022-04-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 130961,
-      "name": "Khachaturian: Masquerade (Suite) - 1. Waltz - Excerpt",
-      "url": "https://open.spotify.com/track/0FyAT4nUMZWJmAI1Qov1Zj"
-    },
-    {
-      "album": {
         "name": "Tangled",
         "url": "https://open.spotify.com/album/4sG2hlPHNnVAKcBabJ5FS2"
       },
@@ -752,6 +726,32 @@
       "duration_ms": 293146,
       "name": "Liebestraum No. 3 in A-Flat Major, S. 541 / 3",
       "url": "https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA"
+    },
+    {
+      "album": {
+        "name": "Khachaturian: Masquerade (Suite): 1. Waltz [Excerpt]",
+        "url": "https://open.spotify.com/album/55J1DF9Q5xYZ9gy5HfogOL"
+      },
+      "artists": [
+        {
+          "name": "Aram Khachaturian",
+          "url": "https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Stanley Black",
+          "url": "https://open.spotify.com/artist/7ICtJI0WkGw8bQB2ELzHjk"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130961,
+      "name": "Masquerade (Suite): 1. Waltz - Excerpt",
+      "url": "https://open.spotify.com/track/0FyAT4nUMZWJmAI1Qov1Zj"
     },
     {
       "album": {

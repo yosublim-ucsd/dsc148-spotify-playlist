@@ -1220,6 +1220,24 @@
     {
       "album": {
         "name": "222",
+        "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
+      },
+      "artists": [
+        {
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111186,
+      "name": "Dreamcatchers",
+      "url": "https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf"
+    },
+    {
+      "album": {
+        "name": "222",
         "url": "https://open.spotify.com/album/0FRWio6Rx37fyPEBj5BmpI"
       },
       "artists": [
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-05",
       "duration_ms": 193866,
       "name": "O Death (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
