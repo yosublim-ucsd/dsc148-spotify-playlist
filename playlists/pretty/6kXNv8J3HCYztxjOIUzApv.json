@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 57833,
+  "num_followers": 57848,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTkzMCxhZGJkZGIxNDNhYjcxODVjZjJjZTU1NDJiYjgzZmJkN2I3OTMxMGJi",
+  "snapshot_id": "MTkzMiw2ZDQzNGJmNWEyMGVkMTVkMWUyMmNmMjE0NzJiZTMwZDNkNGI4NzNl",
   "tracks": [
     {
       "added_at": "2023-02-22 10:19:42",
@@ -79,6 +79,34 @@
       "duration_ms": 210067,
       "name": "Hate Me Too",
       "url": "https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed"
+    },
+    {
+      "added_at": "2023-05-05 17:49:04",
+      "album": {
+        "name": "Head Under Water (feat. REDDSTAR and Dan Sugarman of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/113A6sipFzXOxFf7TUztoN"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "REDDSTAR",
+          "url": "https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Dan Sugarman",
+          "url": "https://open.spotify.com/artist/33tcoGD8qMbSSRzi2LREmz"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Head Under Water (feat. REDDSTAR and Dan Sugarman of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/3wpyvgFi5zjTUbIVZS1NPr"
     },
     {
       "added_at": "2022-06-10 10:45:36",

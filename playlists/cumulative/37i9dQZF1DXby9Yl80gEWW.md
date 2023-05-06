@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-212 songs - 12 hr 57 min
+213 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Katmandu](https://open.spotify.com/track/7DlaaNwxmS99iypST4bTS0) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Bluegrass Sessions: Tales From The Acoustic Planet, Vol\. 2](https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q) | 4:23 | 2021-12-03 | 2022-07-23 |
 | [Kimper County](https://open.spotify.com/track/4qkU1rmucgwF0p7QBZOuYF) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Kimper County](https://open.spotify.com/album/7JliMRkz67DvdEhsldiCfV) | 4:01 | 2022-03-18 | 2022-10-25 |
 | [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 | 2021-12-03 |  |
-| [Leather Britches](https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t) | [Curtis McPeake](https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi), [Andy May](https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO) | [The Good Things \(Outweigh the Bad\)](https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE) | 1:24 | 2022-07-22 |  |
+| [Leather Britches](https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t) | [Curtis McPeake](https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi), [Andy May](https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO) | [The Good Things \(Outweigh the Bad\)](https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE) | 1:24 | 2022-07-22 | 2023-05-06 |
 | [Leavin' Egypt \- Instrumental](https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr) | [Cedar Hill](https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05) | [New Chapter](https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3) | 3:08 | 2022-03-04 | 2023-03-14 |
 | [Leaving Cottondale](https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Best Of The Vanguard Years](https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK) | 2:36 | 2021-12-03 |  |
 | [Little Sadie](https://open.spotify.com/track/1VkBsbIRNgkpj0cLd6xz5k) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Instrumental Classic Country Hits](https://open.spotify.com/album/6ffjDIFQ2p0b9OLdGV1qgF) | 1:17 | 2021-12-03 |  |
@@ -196,6 +196,7 @@
 | [Train in the Wilderness](https://open.spotify.com/track/6gdItCqeyJc5U9TvW7t3xj) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre) | [Riveter](https://open.spotify.com/album/5meAQIac2yGj2ZzcdhHXlz) | 2:57 | 2023-04-07 | 2023-05-03 |
 | [Trapper's Attic](https://open.spotify.com/track/7nlLIcbLodcRQvCPtV8vuX) | [Connor Jay Liess](https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm) | [Trapper's Attic](https://open.spotify.com/album/1WcNGOJOZqoU1cGoCZo6ME) | 2:55 | 2021-12-03 | 2022-05-25 |
 | [Tree King Creek](https://open.spotify.com/track/2eX598AcoEbR1KxPqVAKTP) | [Psychograss](https://open.spotify.com/artist/67QYlUab4lgbVuCQyqLxsA) | [Like Minds](https://open.spotify.com/album/0ddqowMNMC740PwIqJ50Jl) | 4:11 | 2021-12-03 | 2023-01-12 |
+| [Up in Bigfoot Country](https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T) | [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Up in Bigfoot Country](https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4) | 3:15 | 2023-05-05 |  |
 | [Updraft](https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Updraft](https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ) | 5:56 | 2023-01-13 |  |
 | [Vertigo \(feat\. Sam Bush, Stuart Duncan, Edgar Meyer & Bryan Sutton\)](https://open.spotify.com/track/622qZFotkSlksGJlQkYI21) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2) | [Vertigo \(feat\. Sam Bush, Stuart Duncan, Edgar Meyer & Bryan Sutton\)](https://open.spotify.com/album/4R2ZZgGq1zJJhIPeaucfGH) | 5:18 | 2021-12-03 | 2022-07-23 |
 | [Waco](https://open.spotify.com/track/03cWYHlO2x2wXAkktGdm8j) | [Tune Hash](https://open.spotify.com/artist/02hksJcNIWQZH4WZgCcqYG) | [Tune Hash Vol\. 2: Covered](https://open.spotify.com/album/4Ph5OpSti3LxKNzWT19JPP) | 3:07 | 2022-04-22 | 2022-06-23 |

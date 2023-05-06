@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 178390,
       "name": "Big Gxng Remix",
       "url": "https://open.spotify.com/track/7F9wpPwYBxVmOzXJHGAITg"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197020,
       "name": "FFF",
       "url": "https://open.spotify.com/track/4ELBY7XVZYESi10omwgAok"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Innie Boland",
       "url": "https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7"
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "KAPTEIN (Drill Cover)",
+        "url": "https://open.spotify.com/album/0DY95ayoc3Te7uv1UABA3q"
+      },
+      "artists": [
+        {
+          "name": "Hxnry",
+          "url": "https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105978,
+      "name": "KAPTEIN - Drill Cover",
+      "url": "https://open.spotify.com/track/6g3hWDArIHJgWZYvcG142K"
+    },
+    {
+      "album": {
         "name": "Koue Bier",
         "url": "https://open.spotify.com/album/3VbBHp0FaHEyBTyQfskFvK"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 257316,
       "name": "Liewe Genade (feat. Loufi)",
       "url": "https://open.spotify.com/track/7jN2OX96qJCgyhiOPqK4BT"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 167294,
       "name": "My Ways",
       "url": "https://open.spotify.com/track/2hGvyLjMCgVSMgBt69gsLB"
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 144412,
       "name": "Old MacDonald",
       "url": "https://open.spotify.com/track/6qZgQWFWFcT7GyQxZbVKNL"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 159813,
       "name": "Rich Boy",
       "url": "https://open.spotify.com/track/3OPHM9E96Q138fPxyF8bcN"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 165982,
       "name": "Tydmors",
       "url": "https://open.spotify.com/track/4caeJAVvSuY3U52Vxd5ssJ"
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 220366,
       "name": "Violence - Afrikaans Drill",
       "url": "https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og"

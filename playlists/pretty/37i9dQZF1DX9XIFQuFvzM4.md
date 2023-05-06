@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,584,583 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,585,258 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 149 | [Tell Me Something Good](https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Very Best Of Rufus Featuring Chaka Khan](https://open.spotify.com/album/3o8GWA6IiUF6V4r26bF0HS) | 4:40 |
 | 150 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 |
 
-Snapshot ID: `MCwwM2M5OGVlZWQxZGNkMTE1ZGE4ZjllNjU5YWQzYjdmNDVmZTE2ZWEx`
+Snapshot ID: `MCwzYTMzNTFhZDE2Y2NkMDY2NjhkMWNkNTRiMWZhYjlmNjI2OGE2MmZm`

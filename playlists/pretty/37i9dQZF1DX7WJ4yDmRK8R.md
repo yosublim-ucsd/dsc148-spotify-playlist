@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,671 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,834 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Stupid](https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU) | [Just Friends](https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa) | [Stupid](https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c) | 3:13 |
 | 100 | [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 |
 
-Snapshot ID: `MCwyNDNjYWEzMGExMjA2YWIwMzc1YTI4NDVmYzE1N2M1YzcwZTM1OTk1`
+Snapshot ID: `MCw2Y2E5MWFhZDdmODUzNTM1MzQ3NzQ4ZmYzZmVmNWY2ZjI3ZDA2NDFm`

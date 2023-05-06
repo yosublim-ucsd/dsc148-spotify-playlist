@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS! Cover: Ashley McBryde
 
-250 songs - 14 hr 29 min
+251 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 | 2021-11-01 | 2023-02-04 |
 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 | 2021-11-01 |  |
 | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/04UK6oVCYUNtp1p11KKVKt) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/album/2hFL3oVudahoDiyLC7qju0) | 2:40 | 2023-01-27 |  |
-| [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 | 2021-11-01 |  |
+| [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 | 2021-11-01 | 2023-05-06 |
 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 | 2021-11-01 |  |
 | [In Me I Trust](https://open.spotify.com/track/5sdjnLfLl7Xe8UZZ0d0G5f) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Nashville Nights](https://open.spotify.com/album/2ZtxYUnhLlOiDRFwScCtC3) | 3:15 | 2021-11-01 | 2022-05-07 |
 | [It's Alright](https://open.spotify.com/track/2mi9QDPaqsQwqLSGWCBuLa) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [It's Alright](https://open.spotify.com/album/5Uk1gMahaWHFuSYrq38JZQ) | 3:56 | 2021-11-01 | 2022-07-09 |
@@ -137,6 +137,7 @@
 | [Kinda Bar](https://open.spotify.com/track/3nQMjaLYxQHD1qEYkovZyo) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Kinda Bar](https://open.spotify.com/album/6M3sZd68dyKV2Q9gvWpSYj) | 3:16 | 2023-03-24 |  |
 | [Labels](https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 3:04 | 2021-11-01 | 2023-01-21 |
 | [Last Man Standing](https://open.spotify.com/track/4MoVAnVnWSdFWgt7EI1ZKf) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q) | [Frontier Rock](https://open.spotify.com/album/2QZ0mHcbHZolwkaHYIA9fI) | 3:10 | 2021-11-01 | 2022-07-22 |
+| [Last Thing I Remember](https://open.spotify.com/track/1AbTzIzTbqu1GJsERdlsO3) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Last Thing I Remember](https://open.spotify.com/album/3pAkHifq83S5S9ptOS5p36) | 2:34 | 2023-05-05 |  |
 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 | 2021-11-01 |  |
 | [Lightning Bugs and Rain](https://open.spotify.com/track/0NBaQcjwg7ROSc8qosY5Fj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 3:11 | 2021-11-01 | 2022-02-05 |
 | [Lone Wolf](https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [&](https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF) | 3:40 | 2022-08-26 |  |

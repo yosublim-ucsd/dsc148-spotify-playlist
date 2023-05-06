@@ -3083,6 +3083,28 @@
     },
     {
       "album": {
+        "name": "Furrow",
+        "url": "https://open.spotify.com/album/5zXNpTsOBSmpR8QX7KisG2"
+      },
+      "artists": [
+        {
+          "name": "NueBoo",
+          "url": "https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138387,
+      "name": "Furrow",
+      "url": "https://open.spotify.com/track/6e51C5E6jH2RDjvf7LDiwW"
+    },
+    {
+      "album": {
         "name": "Future Love",
         "url": "https://open.spotify.com/album/2SGR9Rhs2ooZtY7Tx7LeV1"
       },
@@ -3606,6 +3628,24 @@
       "duration_ms": 194727,
       "name": "Honesty (remix)",
       "url": "https://open.spotify.com/track/4ee5oGHZjUw3vzr9vWaeJp"
+    },
+    {
+      "album": {
+        "name": "Honeymoon Phase",
+        "url": "https://open.spotify.com/album/264YZHWhYHqE5QagWO7DDJ"
+      },
+      "artists": [
+        {
+          "name": "Monzzune",
+          "url": "https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134608,
+      "name": "Honeymoon Phase",
+      "url": "https://open.spotify.com/track/63Ssxd5ncnJwewaas3ckDe"
     },
     {
       "album": {
@@ -6666,6 +6706,24 @@
       "duration_ms": 164571,
       "name": "reflect",
       "url": "https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd"
+    },
+    {
+      "album": {
+        "name": "relativity",
+        "url": "https://open.spotify.com/album/7g1DY2b3vCILA6UZxZEftq"
+      },
+      "artists": [
+        {
+          "name": "Jasmineflour",
+          "url": "https://open.spotify.com/artist/48XxrR0pCyOtiWqWrx8YB9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137144,
+      "name": "relativity",
+      "url": "https://open.spotify.com/track/4b8RSoGd1kGLZLllrlOQYc"
     },
     {
       "album": {

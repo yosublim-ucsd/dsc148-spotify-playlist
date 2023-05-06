@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Temples on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,377 likes - 75 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,644 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 74 | [Forever End](https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Hyper Super Mega](https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT) | 4:00 |
 | 75 | [Victor's Belt](https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp) | [Jaialai](https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q) | [Victor's Belt](https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF) | 3:12 |
 
-Snapshot ID: `MCw1MmUyN2FlODA1YjJiNTE2MTA2NjA3YzU5MDg0ODQxMjA3ZTVkYTU0`
+Snapshot ID: `MCwzZDJmOWVhNmNlMWI2M2NlNDc2YzQwZWE3NTg4ZWI0YjAwNjdlNDk0`

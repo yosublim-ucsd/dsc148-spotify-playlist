@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-119 songs - 6 hr 35 min
+121 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Friend](https://open.spotify.com/track/0ae7hcCowMnsMAreiJq9AT) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Sun Up to Sundown](https://open.spotify.com/album/57FPKfJyjp3hXukgNjFsym) | 3:06 | 2022-04-08 |  |
 | [Friends in Low Places](https://open.spotify.com/track/2xAexQlBRpLrHsTk7hvdPk) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Robert Ray](https://open.spotify.com/artist/2gCYmuikCF3r1WCLfqo8Hb), [Clay Hollis](https://open.spotify.com/artist/6TgIvoihzya5Cf6b5Eq5I1), [Jerry DeLeon & Southbound](https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ) | [Friends in Low Places](https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv) | 2:57 | 2021-12-10 |  |
 | [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-06-10 |  |
+| [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 | 2023-05-05 |  |
 | [gracias a la vida](https://open.spotify.com/track/0ROvxmZFJNRm0PyYcFKHbm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 4:32 | 2021-12-10 |  |
 | [Gracias A La Vida](https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Liberty: Piano Songbook](https://open.spotify.com/album/5osw6hJrMHsAFfKuJUlHMW) | 2:46 | 2021-12-10 | 2022-09-03 |
 | [Hell in a Handbag](https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7) | 3:23 | 2021-12-10 | 2023-03-25 |
@@ -124,6 +125,7 @@
 | [Vaquera and the Cowboy](https://open.spotify.com/track/1S05YF8kpBxDLq9TCc2kIG) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Vaquera and the Cowboy](https://open.spotify.com/album/1uSY1zzeup2XbOZUNctQ3I) | 2:50 | 2021-12-10 |  |
 | [Vaquero Arrepentido](https://open.spotify.com/track/4WOwOPyNHnJKNPQNdGsRtZ) | [8 Segundos](https://open.spotify.com/artist/5f5Wlazt9jmI75fK5nPpd6) | [Vaquero Arrepentido](https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI) | 3:31 | 2021-12-10 |  |
 | [Who's Such a Fool](https://open.spotify.com/track/0h4vihcN3UJanw0S89Uc2C) | [Roberto Trevizan](https://open.spotify.com/artist/2A25K2Y5IVJo2cOyLevndD) | [Who's Such a Fool](https://open.spotify.com/album/1TY3eBAdpLr2m178vJgFSg) | 3:08 | 2021-12-10 | 2023-04-22 |
+| [Why She Gotta Be Like That \(feat\. Gusi\)](https://open.spotify.com/track/5d1wYRM60TAJQYM1fEUI9W) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Why She Gotta Be Like That \(feat\. Gusi\)](https://open.spotify.com/album/3P171dDIY1NOjmMdQqH3Uz) | 2:51 | 2023-05-05 |  |
 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 | 2021-12-10 |  |
 | [Yo Quiero Amarte \- I Want It All \- Spanish Version](https://open.spotify.com/track/3N6ElyqsYqDd85wWdMd1gX) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Yo Quiero Amarte \(I Want It All \- Spanish Version\)](https://open.spotify.com/album/0R1HKdM5CJp45q9FnwlIm9) | 3:21 | 2022-04-08 |  |
 | [You and the Radio](https://open.spotify.com/track/3A5XNlTgvAnJXgFpl1fsSh) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Heartbreak Tour + You and the Radio](https://open.spotify.com/album/6cReHCMwEQndsiAmNH9cd6) | 3:01 | 2021-12-10 |  |

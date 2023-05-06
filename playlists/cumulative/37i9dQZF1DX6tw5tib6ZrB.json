@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 96000,
       "name": "1 On 3 (feat. Rvssian)",
       "url": "https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl"
@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160519,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0"
+    },
+    {
+      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -1773,6 +1791,32 @@
     },
     {
       "album": {
+        "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+        "url": "https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218172,
+      "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+      "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
+    },
+    {
+      "album": {
         "name": "Poland",
         "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
       },
@@ -2550,7 +2594,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 219942,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/4s0yqd5PD3uBljnGeazhWD"

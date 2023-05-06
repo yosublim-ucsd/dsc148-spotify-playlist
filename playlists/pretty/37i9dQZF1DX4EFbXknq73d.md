@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,923 likes - 75 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,082 likes - 75 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 74 | [The Reprise \(Live\)](https://open.spotify.com/track/27cnOeOwEgcq0Jfsl9BPlD) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Live at the Drive\-In](https://open.spotify.com/album/5QjI51hjeUOgNlDVORpdRz) | 12:59 |
 | 75 | [Ruby Waves \- Live, 4/20/19](https://open.spotify.com/track/3bNNZWjyWtN1MURGYMHOFd) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ), [Ghosts of the Forest](https://open.spotify.com/artist/6hyqfMtRP8jWaXrGrDLVFv) | [Ghosts of the Forest: Beneath a Sea of Stars \(Live\)](https://open.spotify.com/album/37n19PLHn5b0sVBEeUJZNJ) | 10:17 |
 
-Snapshot ID: `MCwxYWJlYmM1MmM2ZjkyY2NiZDM5NWFjZmFhNjVhODNhYTVlYjY2MDM5`
+Snapshot ID: `MCxmZmY2N2QxYmUzYTMzMmI0YjgxNTAwYTgzZmM0OGFiNWMyNWNiZTI0`

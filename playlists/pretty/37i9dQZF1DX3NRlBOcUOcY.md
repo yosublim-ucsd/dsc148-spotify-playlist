@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,674 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,713 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 99 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 |
 | 100 | [Qué Chimba](https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Qué Chimba](https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6) | 2:49 |
 
-Snapshot ID: `MCwzZWNmNjZmMGY4Y2JkNWFjMTJjMTk0OTExZGM4ZWU0MmQzZDFiNDM0`
+Snapshot ID: `MCwwYTU3NWY5NTJmYzMzN2YzMDdjNzhmNTgzNGVjZTgxOWE2YWM1N2Q5`

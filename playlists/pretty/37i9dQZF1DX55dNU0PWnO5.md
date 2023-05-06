@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,508 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,609 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Bootyscoot](https://open.spotify.com/track/7nb8sYJDmnbEEEET8EZh59) | [The Polish Ambassador](https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU), [Jesse Klein](https://open.spotify.com/artist/6EVgiuWVrdencro4gjLJKE), [Robin Jackson](https://open.spotify.com/artist/7E3Dm7icYWJNSN8pK57Ufy), [Ananda Vaughan](https://open.spotify.com/artist/5i1E5D2bW5VBtcIvi04S9V) | [Bootyscoot](https://open.spotify.com/album/57Re4Gq4x1NvimVAytLmKT) | 6:37 |
 | 80 | [PRNDL.exe](https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [PRNDL.wav](https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr) | 2:57 |
 
-Snapshot ID: `MCw2NDVjMjI0NWE1NjQ4MDc1YmIzYWVjNTljOWUwNTQ4YmY5YTE4NTky`
+Snapshot ID: `MCwyMGUxMjQyZDgzZTM3Mjk3YjEyOTQ2Y2ExZTBlYmQzMDY5YzQwNDA1`

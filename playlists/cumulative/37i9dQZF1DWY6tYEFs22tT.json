@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Jack Harlow, Coi Leray, Digga D, and Latto!",
+  "description": "Today's Hip-Hop with Coi Leray, Gucci Mane, and Lil Baby!",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 178950,
       "name": "06 Gucci (feat. DaBaby & 21 Savage)",
       "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 184795,
       "name": "28 Grams",
       "url": "https://open.spotify.com/track/64RKOo4ie7cGH4EpKgeru5"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 153600,
       "name": "Chrome Hearted (feat. Tyga)",
       "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
@@ -4041,6 +4041,24 @@
     },
     {
       "album": {
+        "name": "Eternals",
+        "url": "https://open.spotify.com/album/4vU0Hm7nknq0zK0nPgGWi0"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147341,
+      "name": "Eternals",
+      "url": "https://open.spotify.com/track/1n5aEuSLaByu7aNpLAiWkI"
+    },
+    {
+      "album": {
         "name": "Everybody Shooters Too",
         "url": "https://open.spotify.com/album/2G69YevAOGrTOPK024DJi1"
       },
@@ -4744,7 +4762,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 167977,
       "name": "Forever (feat. Fridayy)",
       "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
@@ -5310,6 +5328,24 @@
       "duration_ms": 132640,
       "name": "Go",
       "url": "https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ"
+    },
+    {
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
     },
     {
       "album": {
@@ -7566,7 +7602,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 186200,
       "name": "Love For The Streets",
       "url": "https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR"
@@ -9027,6 +9063,32 @@
     },
     {
       "album": {
+        "name": "Off The Court (with Polo G & Einer Bankz)",
+        "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Einer Bankz",
+          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193937,
+      "name": "Off The Court (with Polo G & Einer Bankz)",
+      "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
+    },
+    {
+      "album": {
         "name": "Back on Dexter: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
       },
@@ -9616,6 +9678,58 @@
       "duration_ms": 159926,
       "name": "Petty Too (feat. Future)",
       "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
+    },
+    {
+      "album": {
+        "name": "F65",
+        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        },
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175834,
+      "name": "Pinot Noir",
+      "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
+    },
+    {
+      "album": {
+        "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+        "url": "https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218172,
+      "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+      "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
     },
     {
       "album": {
@@ -11092,6 +11206,24 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
     },
     {
       "album": {
@@ -14468,7 +14600,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 224946,
       "name": "Yuteman Denis (feat. Charlotte Cardin & Zibz)",
       "url": "https://open.spotify.com/track/6d76elW1vls3rILMOWy2Ck"

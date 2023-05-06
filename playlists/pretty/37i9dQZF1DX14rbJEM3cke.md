@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock driving the current, every week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,212 likes - 62 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,246 likes - 62 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 32 | [ART OF WAR \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ART OF WAR \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS) | 3:06 |
 | 33 | [Rise](https://open.spotify.com/track/6gWUB6hS6SuyvaKzYAltn8) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Rise](https://open.spotify.com/album/78EFhqgH0Ho0EfcWvqWi3w) | 4:42 |
 | 34 | [12gauge!](https://open.spotify.com/track/5lBXXaxSVZl5p1a5yRxoW9) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Suave Lee](https://open.spotify.com/artist/5RfBPFjY4Fhgilc3C8cAAg) | [12gauge!](https://open.spotify.com/album/5BVfws8wnQ9rRmz9RUJOg3) | 1:28 |
-| 35 | [I See Walking Caskets](https://open.spotify.com/track/6fipbTytF7EemCZiutVtOl) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [I See Walking Caskets](https://open.spotify.com/album/1vvaWC0ov1lC4jwNTJJm99) | 2:01 |
+| 35 | [I See Walking Caskets](https://open.spotify.com/track/6fipbTytF7EemCZiutVtOl) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [I See Walking Caskets](https://open.spotify.com/album/1vvaWC0ov1lC4jwNTJJm99) | 2:01 |
 | 36 | [LOVE ME HATE ME](https://open.spotify.com/track/32FxL1gNFABVzfK4gK2Ate) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [LOVE ME HATE ME](https://open.spotify.com/album/5SeCLmnrUikDL9dMCAgBzz) | 3:35 |
 | 37 | [schizophrenia](https://open.spotify.com/track/5b6zjsBrZCqe6RFycLz2tc) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:20 |
 | 38 | [Little](https://open.spotify.com/track/0lfKHiSPfnNOazjUCyjR8a) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Little](https://open.spotify.com/album/3lphUHd1yZ8IkozaqxTCWb) | 2:37 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 61 | [Can't Wait](https://open.spotify.com/track/3GEhHEU3nkK2vGFqmKWKc3) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [In the Mourning](https://open.spotify.com/artist/1uzirhDmkUbDDaBGcwfd0h) | [Can't Wait](https://open.spotify.com/album/02OI10erl4E2J2WUOp5mv0) | 3:47 |
 | 62 | [Black Punk](https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 |
 
-Snapshot ID: `MCwwZDRjODM4YjQ1Yzc0MjMwZTFmZWExYWNmYzNkYzMzNjkxZDFlYjY5`
+Snapshot ID: `MCwzMjYzZDFmZGVhZmM5YjZiMGYzNzJiOTE3MmZiNGQ3ZDY4YWRiYTkz`

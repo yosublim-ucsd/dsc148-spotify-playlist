@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,783 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,910 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Phantom Throb](https://open.spotify.com/track/0QsQEgTZoi83rFri3jEKZt) | [Hymie's Basement](https://open.spotify.com/artist/13EcvIBumjgScGWRdX4z3b), [WHY?](https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH), [Fog](https://open.spotify.com/artist/07fCHWZAafI3Dd4T1svHhd) | [Phantom Throb](https://open.spotify.com/album/16Ef9V1B7iapKPERf50U3L) | 3:54 |
 | 100 | [Sunken Lupine](https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3) | [Damiana](https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx) | [Vines](https://open.spotify.com/album/4vkPu8SShGB8BBvQvaEMX8) | 6:46 |
 
-Snapshot ID: `MCwwMTUwOTZmYjliYzJlNDRhMmM1MWU1MWZiNzMyOTEwNzhhZTA0NGUz`
+Snapshot ID: `MCw3N2ZhMGEyMzFmOTMzZDI3OTFlMzFkODgyZWFiMWIyZWQ5ZjlkNGQ2`

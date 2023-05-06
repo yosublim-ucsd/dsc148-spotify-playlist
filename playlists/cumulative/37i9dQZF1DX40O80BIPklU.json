@@ -259,6 +259,28 @@
     },
     {
       "album": {
+        "name": "Almas Benditas",
+        "url": "https://open.spotify.com/album/2dr3uDKeRGlwyePqf44aKp"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193557,
+      "name": "Almas Benditas",
+      "url": "https://open.spotify.com/track/5ITPRg6QYpppI92bgZoV5D"
+    },
+    {
+      "album": {
         "name": "Alzypher Vol. 10",
         "url": "https://open.spotify.com/album/6pJJBc9UIOhABBSVWJ1eCd"
       },
@@ -612,6 +634,36 @@
       "duration_ms": 181395,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/7JDIPgGybOZ8gPS81i0Ho6"
+    },
+    {
+      "album": {
+        "name": "CALIENTE",
+        "url": "https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302104,
+      "name": "CALIENTE",
+      "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
     },
     {
       "album": {
@@ -1215,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "Estrecho / Alvarado (feat. pablopablo)",
+        "url": "https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150141,
+      "name": "Estrecho / Alvarado (feat. pablopablo)",
+      "url": "https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF"
+    },
+    {
+      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
       },
@@ -1733,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "Las Horas Pasan",
+        "url": "https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210625,
+      "name": "Las Horas Pasan",
+      "url": "https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a"
+    },
+    {
+      "album": {
         "name": "Lastima",
         "url": "https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05"
       },
@@ -1880,6 +1976,28 @@
       "duration_ms": 137160,
       "name": "Leyenda Viva",
       "url": "https://open.spotify.com/track/7pQ3dOGXwjBMqfC2z3cvNW"
+    },
+    {
+      "album": {
+        "name": "Leyendas Urbanas",
+        "url": "https://open.spotify.com/album/5OmXbLjATSwGq0x8fpyXa8"
+      },
+      "artists": [
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Leyendas Urbanas",
+      "url": "https://open.spotify.com/track/4dDofP6HpYPAqJmYBeYfHs"
     },
     {
       "album": {
@@ -2311,6 +2429,28 @@
     },
     {
       "album": {
+        "name": "Morena 420",
+        "url": "https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236712,
+      "name": "Morena 420",
+      "url": "https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA"
+    },
+    {
+      "album": {
         "name": "Mucho para M\u00ed",
         "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
       },
@@ -2532,6 +2672,24 @@
       "duration_ms": 213461,
       "name": "Orgullo Caf\u00e9",
       "url": "https://open.spotify.com/track/6beXs35DoHlGfudHu071EC"
+    },
+    {
+      "album": {
+        "name": "PALO SANTO",
+        "url": "https://open.spotify.com/album/0fVvlm6dL6M2GLqOvaQ86v"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202176,
+      "name": "PALO SANTO",
+      "url": "https://open.spotify.com/track/2iu2Ozrm9ebrF4QbeA8J3d"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,068 likes - 150 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,785 likes - 150 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 149 | [Who Loves You](https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 4:15 |
 | 150 | [Listen To What The Man Said \- 2014 Remaster](https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Venus And Mars \(Archive Collection\)](https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9) | 4:00 |
 
-Snapshot ID: `MCw5ODQ0NTA0ZDg4ODZlMmIzMGE5YTE0YzA1MmE5NzQ5MjljYmUxMjU1`
+Snapshot ID: `MCw1M2QxMTcyZjdkMTExODZhOWI2NDczN2U2NzhkNjBiYmVhZDI2YTVk`

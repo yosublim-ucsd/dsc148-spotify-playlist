@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 
 > Discover the music of Schumann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,076 likes - 60 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,103 likes - 60 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 | 59 | [6 Gedichte und Requiem, Op\. 90: No\. 7\. Requiem](https://open.spotify.com/track/4zPZbj1sNxCOtU1CdgCK53) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Thomas E\. Bauer](https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq), [Uta Hielscher](https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq) | [Schumann: Lied Edition, Vol\. 6: Myrthen \- 6 Gedichte und Requiem](https://open.spotify.com/album/2T0I90L18QL0ycTnzuMPM6) | 4:20 |
 | 60 | [Liederkreis, Op\. 39: Schone Fremde](https://open.spotify.com/track/5ESTHb0vaM0B57HIYWCoP3) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Sebastian Bluth](https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE), [Anita Keller](https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL) | [Schumann, R.: Dichterliebe, Op\. 48 / Liederkreis, Op\. 39](https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A) | 1:26 |
 
-Snapshot ID: `MCwxYzc4ZTA3Yzc2NGFmM2E2YjA5Mzg2NzQzMDNmZjA2YWRhMDRlYmJj`
+Snapshot ID: `MCw5YjMyYTMxNzJiMmRmMTc4YjdiNjdlYmMzMGM2ZGQzMmJlZGU1ODEw`

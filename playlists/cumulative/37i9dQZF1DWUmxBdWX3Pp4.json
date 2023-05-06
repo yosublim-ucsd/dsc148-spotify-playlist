@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: Eladio Carrion & Bad Bunny.",
+  "description": "\u00c9xitos del Trap Latino. Foto: Duki.",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -618,6 +618,24 @@
       "duration_ms": 213333,
       "name": "AP",
       "url": "https://open.spotify.com/track/5tOwamKuMmkGdjLhPldKDb"
+    },
+    {
+      "album": {
+        "name": "aPoLLo13",
+        "url": "https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160547,
+      "name": "aPoLLo13",
+      "url": "https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4"
     },
     {
       "album": {
@@ -2534,6 +2552,24 @@
       "duration_ms": 182610,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
+    },
+    {
+      "album": {
+        "name": "Glizzy",
+        "url": "https://open.spotify.com/album/3t0PHupmoyPbOp7e1oEZWf"
+      },
+      "artists": [
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "Glizzy",
+      "url": "https://open.spotify.com/track/5CIRCz2npiu1N57wTPp0rM"
     },
     {
       "album": {
@@ -6352,7 +6388,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 135463,
       "name": "Slow",
       "url": "https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN"
@@ -7282,7 +7318,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 161086,
       "name": "VICE",
       "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"

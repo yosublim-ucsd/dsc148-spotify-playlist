@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,456 likes - 120 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,692 likes - 120 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [Still Like the South Wind](https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz) | [AK](https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ) | [Slow for an Instant](https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j) | 4:20 |
 | 120 | [Ribbon](https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:06 |
 
-Snapshot ID: `MCwxYWY0NWQwYzc2OTY3NWJkMDlmZGMzMzEwY2Y4Nzg3ODcyN2Q4ZmZj`
+Snapshot ID: `MCwwYzNiM2FlYzczZjUzMmQ0NjQzZTMwN2NjOGI1NWQ4YWE4YzRkYzgz`

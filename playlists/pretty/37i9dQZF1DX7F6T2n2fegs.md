@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7F6T2n2fegs.md) - [plain]
 
 > Here it is, the playlist for the ultimate throwback bash!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,584,574 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,585,650 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7F6T2n2fegs.md) - [plain]
 | 149 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
 | 150 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
 
-Snapshot ID: `MCwxNzNkZWI0OGU1NDYzZTAzMzJmMjUwZGY1MTRhMWNmNGExYzcxMGY0`
+Snapshot ID: `MCxjMzhlMGVkNWQyNGVlMDhlYTYxMTRmYzNkZTcxY2YzNmFhNjY2Yjlk`

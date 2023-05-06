@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Peterson Okopi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,005 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,056 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 79 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 |
 | 80 | [One](https://open.spotify.com/track/4T2gHzkIdRiCtahKR9LVf7) | [Nuee](https://open.spotify.com/artist/2ZrqdOOiVXB2EmEiPmGzfo), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [One](https://open.spotify.com/album/4e0YZHeh00ZKm9b3BOVOix) | 4:00 |
 
-Snapshot ID: `MCwyNzEwZDZmNWVmN2QwMmEwNmE5ZWU3NjU0YTFkZGZlOTZhMDU2YmQ0`
+Snapshot ID: `MCxkZGI5OTc2NTc1Y2JmNmEwY2ZkZDRiNzg1NWExODY5OTM0ZmQ1YTRk`

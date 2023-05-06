@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,588 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,600 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Used To Have It All \- Acoustic](https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Used To Have It All \(Acoustic Version\)](https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ) | 3:01 |
 | 100 | [Zedd Medley \- Find You/Spectrum/Clarity/Stay the Night](https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R) | [Daniel Jang](https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN) | [Violin Covers Pt\. II](https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g) | 3:06 |
 
-Snapshot ID: `MCw0Mjc1ZWE2Y2IzMzM0NWEzMTlkZGUwYzdkNmZkMGU1OGY1Mzc5ZGVl`
+Snapshot ID: `MCw0NmYzNGVkYWI5MTY4YmJhNzhmMTA4ZTQ5OTYwZjYwMmExN2QzN2E2`

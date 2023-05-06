@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Classic soul music for the perfect dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,077 likes - 234 songs - 15 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,087 likes - 234 songs - 15 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 233 | [After The Dance](https://open.spotify.com/track/0m6i2lZNgIV4OOyEkFlKFz) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You](https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7) | 4:39 |
 | 234 | [Don't Say Goodnight \(It's Time for Love\) \- Part I & 2](https://open.spotify.com/track/02dGwHk2iMUTqvByaxqZSn) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:45 |
 
-Snapshot ID: `MCxhNWQwNDE2Y2E5NDgzMzk1NjBiMGYyMWZhMTdhYWY3YTY2ZDk0MDk0`
+Snapshot ID: `MCxjMzMwNWQ4NzFkOGY3ZWFjNGJmNGMxYjhmYTZiMjNjMTFjZDc5MmIy`

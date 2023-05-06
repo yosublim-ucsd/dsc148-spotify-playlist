@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,100 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,162 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 |
 | 100 | [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 |
 
-Snapshot ID: `MCwxNWExNzUzNWZkN2NkZTc2ZWJlYzAxYzJkMzQ0OGZmZGMwZDI1OWU1`
+Snapshot ID: `MCw0NzFkYzk5MDVhZmMyMjMyN2RjODAwOTM2MWRhNzUyYWVlZWNhNjQ2`

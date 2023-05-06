@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,008 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,096 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [Love is the answer](https://open.spotify.com/track/4ArAroGQnEyFxkjMkabaj7) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 5:56 |
 | 100 | [City Lights and Midnight Blues](https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [City Lights and Midnight Blues](https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF) | 3:56 |
 
-Snapshot ID: `MCw0NzcyOTFhOTE2MzQwYjRhYTQ5YmM3YWY0ZDRkZjJmMzBmOGY5MWY4`
+Snapshot ID: `MCwyODZkZGUwOGNjNDYxNzJmYzI5YTY4MzdjNTAxYjkzN2I4M2QwYmM0`

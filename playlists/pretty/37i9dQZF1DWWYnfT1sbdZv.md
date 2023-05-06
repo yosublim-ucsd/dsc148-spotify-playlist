@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\. アイドルマスター シンデレラガールズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,994 likes - 75 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,019 likes - 75 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 74 | [青の一番星 \- GAME VERSION](https://open.spotify.com/track/4li4T7T2nVgNmJGwCufyH0) | [塩見周子 \(CV: ルゥティン\)](https://open.spotify.com/artist/4ZS0gYvIaAggAQJaLfecMp) | [THE IDOLM@STER CINDERELLA MASTER 031〜040 GAME VERSION](https://open.spotify.com/album/2ivKZLvwrnqv0zu0060q4T) | 1:56 |
 | 75 | [ショコラ・ティアラ](https://open.spotify.com/track/7q6gV1hXTphEg5ThQ4LNKY) | [三村かな子 \(CV: 大坪由佳\)](https://open.spotify.com/artist/7hOq8g7b9GR4Q7JSBTcTVa) | [THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 00 ST@RTER BEST](https://open.spotify.com/album/36GVSCiTkbzjWycetm9GNb) | 3:34 |
 
-Snapshot ID: `MCw1MmI1NjY1MmUxYmExZDk0ZTFmMmJlMTY1NDM0MDIyMTBmOWY2MWIy`
+Snapshot ID: `MCw4NWExNzIwZmUyMzJkNGM3MjVlNDEwODQ3MWM5M2QxNGI0YjBiNGE2`

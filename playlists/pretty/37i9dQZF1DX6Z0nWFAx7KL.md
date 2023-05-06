@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,497 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,538 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [Eye Of The Storm](https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Eye Of The Storm](https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey) | 2:27 |
 | 80 | [Motorcycle](https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk) | [Motorcycle](https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri) | 3:13 |
 
-Snapshot ID: `MCw2ZjllYzI0MWYzYmE2YThhZDRhOTEyMjRjM2IxNjQ2OWNmZmI3NjE2`
+Snapshot ID: `MCwxYmFjMzk4MWE5NDFiMmJmZGMzNjA2OTVlMmI1OTk4ZTI5YTQxNjBm`

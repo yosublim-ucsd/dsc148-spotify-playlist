@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
+    },
+    {
+      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/4ClfAxTVXhf4tWdh5knitG"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 162782,
       "name": "Bella",
       "url": "https://open.spotify.com/track/0Emweh7Q5ErGXCoCNGBBlC"
@@ -6910,7 +6928,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 198266,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8"
@@ -8172,7 +8190,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 132200,
       "name": "ISKAM",
       "url": "https://open.spotify.com/track/4VHUnTivjkh3twWej3eadd"
@@ -10984,7 +11002,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -13928,7 +13946,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -19862,7 +19880,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 190434,
       "name": "\u0417\u0430\u0431\u0440\u0430\u0432\u044f\u0439 \u043c\u0435",
       "url": "https://open.spotify.com/track/2BfIkZJht4lBG73fqtsSxp"
@@ -20352,7 +20370,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 185006,
       "name": "\u041c\u0430\u0445\u043b\u0435\u043d\u0441\u043a\u0430 \u041b\u0438\u0442\u0443\u0440\u0433\u0438\u044f",
       "url": "https://open.spotify.com/track/1xKmlEOdg968TM16YIJwPX"

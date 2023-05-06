@@ -1,12 +1,12 @@
 {
   "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=1kNmBf4xQU626usgoqJWDg\">Bongeziwe Mabandla</a> ",
-  "num_followers": 5851,
+  "num_followers": 5861,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmI4NzFhYmRjYTgzNmE4OWI0ZmFkNWM4Nzk1MzhiODBkNDE1MGY3",
+  "snapshot_id": "MCwyMzgyODc1N2FmZGE5ODMwMjhlYzlmN2ZlNmI4NmJlYWQ1YjQxZTg4",
   "tracks": [
     {
       "added_at": "2023-05-04 21:59:00",
@@ -55,6 +55,38 @@
       "duration_ms": 186640,
       "name": "The Caring",
       "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
+    },
+    {
+      "added_at": "2023-05-05 04:12:19",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/1dkq45ItGdHYFjGlSxlcZg"
+      },
+      "artists": [
+        {
+          "name": "Rhys Davids",
+          "url": "https://open.spotify.com/artist/3zkCmXCBcpPtF3UqPTNMNv"
+        }
+      ],
+      "duration_ms": 198898,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4WRi0GE9rB7ca848HIavkJ"
+    },
+    {
+      "added_at": "2023-05-05 04:12:19",
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/66M8jLSIBg9EWzRbPsriuZ"
+      },
+      "artists": [
+        {
+          "name": "Josie Field",
+          "url": "https://open.spotify.com/artist/7E5WcKtx2EGc0GYJ9ef4J1"
+        }
+      ],
+      "duration_ms": 192167,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2aXlE2ON2ya8zFg6HDTCRs"
     },
     {
       "added_at": "2023-04-21 04:18:52",
@@ -189,6 +221,22 @@
       "url": "https://open.spotify.com/track/1YpFyv72TTr3ysGlJb1tXU"
     },
     {
+      "added_at": "2023-05-05 04:12:19",
+      "album": {
+        "name": "First to Leave",
+        "url": "https://open.spotify.com/album/4qnGA5yi2g401vBGdlME23"
+      },
+      "artists": [
+        {
+          "name": "Rubber Duc",
+          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
+        }
+      ],
+      "duration_ms": 249799,
+      "name": "First to Leave",
+      "url": "https://open.spotify.com/track/6JYbCsAzIOeY3v7NfFX196"
+    },
+    {
       "added_at": "2023-04-27 21:59:00",
       "album": {
         "name": "Golden",
@@ -319,6 +367,22 @@
       "duration_ms": 238317,
       "name": "Midnight Scenes",
       "url": "https://open.spotify.com/track/2nSVgBiacRtyOwC3dt1MU4"
+    },
+    {
+      "added_at": "2023-05-05 04:12:19",
+      "album": {
+        "name": "Wyoming",
+        "url": "https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm"
+      },
+      "artists": [
+        {
+          "name": "NIRESAN",
+          "url": "https://open.spotify.com/artist/4icnMO2iFmNmeImB5mDFFI"
+        }
+      ],
+      "duration_ms": 165377,
+      "name": "Wyoming",
+      "url": "https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv"
     },
     {
       "added_at": "2023-04-21 04:18:52",
@@ -1233,38 +1297,6 @@
       "url": "https://open.spotify.com/track/6pXNKxrMeKRsvqs1GYS5iE"
     },
     {
-      "added_at": "2023-02-23 21:59:00",
-      "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/2ICkFGFVJph7qkwqaGeNPR"
-      },
-      "artists": [
-        {
-          "name": "Yum Yuck",
-          "url": "https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/1PP9T1txg5vSHHemsLNd38"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "ukuthanda wena",
-        "url": "https://open.spotify.com/album/34EfitSWSsf04PbFF4qE39"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 247879,
-      "name": "ukuthanda wena",
-      "url": "https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd"
-    },
-    {
       "added_at": "2023-03-16 21:59:00",
       "album": {
         "name": "Midnight Fox",
@@ -1279,22 +1311,6 @@
       "duration_ms": 281103,
       "name": "Midnight Fox",
       "url": "https://open.spotify.com/track/6fot9PD8atqMvbeeOhwamA"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
     },
     {
       "added_at": "2023-02-26 17:50:35",
@@ -1315,22 +1331,6 @@
       "duration_ms": 248500,
       "name": "White Shadow",
       "url": "https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Bait",
-        "url": "https://open.spotify.com/album/2YsmbxnxeMuOAjhF0UKk0E"
-      },
-      "artists": [
-        {
-          "name": "Chloe Theron",
-          "url": "https://open.spotify.com/artist/4gt7EExnJtmS8Ed59AbAHa"
-        }
-      ],
-      "duration_ms": 228181,
-      "name": "Bait",
-      "url": "https://open.spotify.com/track/54Fs529fifiDt3qDBWaIjl"
     },
     {
       "added_at": "2023-03-02 21:59:00",

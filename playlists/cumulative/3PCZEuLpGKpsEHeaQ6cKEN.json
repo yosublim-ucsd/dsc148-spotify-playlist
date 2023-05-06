@@ -3437,6 +3437,32 @@
     },
     {
       "album": {
+        "name": "Good4U",
+        "url": "https://open.spotify.com/album/0yly88bOai4MF3kmFTkrdx"
+      },
+      "artists": [
+        {
+          "name": "Deeperlove",
+          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
+        },
+        {
+          "name": "LE\u00d8N",
+          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
+        },
+        {
+          "name": "SYNGA",
+          "url": "https://open.spotify.com/artist/1ceK58kt6VUiqWfYwQ15aU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Good4U",
+      "url": "https://open.spotify.com/track/5ieRbdUGx3R1LX7MSbyFK8"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0wVpaYo5BOsTdWRJMal5gR"
       },

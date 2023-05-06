@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica Para Adultos",
+        "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166246,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
+    },
+    {
+      "album": {
         "name": "ACAPULCO GOLD",
         "url": "https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x"
       },
@@ -487,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/0upQNva6VzLG68XrIDJMS1"
+      },
+      "artists": [
+        {
+          "name": "Renee Mooi",
+          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197750,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/3pBq1csYqJNKdN6pejHFqY"
+    },
+    {
+      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -632,7 +668,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 135420,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/3ZPbwLRggZ9JneiD5Rmvzc"
@@ -1281,6 +1317,28 @@
     },
     {
       "album": {
+        "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184284,
+      "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO"
+    },
+    {
+      "album": {
         "name": "Dime Algo (bonito)",
         "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
       },
@@ -1354,6 +1412,28 @@
       "duration_ms": 161173,
       "name": "Pido 1 deseo",
       "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
+    },
+    {
+      "album": {
+        "name": "Planeta Miamor",
+        "url": "https://open.spotify.com/album/0QZwZh8oJFKpqx1b9S8ZcI"
+      },
+      "artists": [
+        {
+          "name": "Planeta Tres",
+          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
+        },
+        {
+          "name": "Billy Miamor",
+          "url": "https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Planeta Miamor",
+      "url": "https://open.spotify.com/track/06FR9keSl1Si5wr2q9CkDE"
     },
     {
       "album": {
@@ -1444,7 +1524,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 201656,
       "name": "Quem\u00e1ndome al Sol",
       "url": "https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y"
@@ -1778,7 +1858,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 225728,
       "name": "Sudeste Asi\u00e1tico (Felics Remix)",
       "url": "https://open.spotify.com/track/1bR9Otq0AMnfZFWQCu4zMd"
@@ -1818,7 +1898,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 192167,
       "name": "Tirita",
       "url": "https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My"

@@ -1,31 +1,15 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 38130,
+  "num_followers": 38169,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTg1YmQwYWIyY2RjMmE1M2RmY2Y1YTlmM2IyOTg4ZmZhZmFjMDI3",
+  "snapshot_id": "MCw3ZDJmMDlmOWU2OTBhNTNkZjc0ODBkNTUzMWNjYzc0MmE5ZTMyMjBm",
   "tracks": [
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Going Out\u2026",
-      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "These Changing Skies",
         "url": "https://open.spotify.com/album/4ABBrfxm6w93fE9yqlOgny"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/2rcAG0hPOhWHxYmkUFOH6C"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Other Love Songs",
+        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 119460,
+      "name": "Sometimes it Does",
+      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Grey Eagle / A Distant Land to Roam",
         "url": "https://open.spotify.com/album/0WVGCRxGwBwBWk6Jjrpa85"
@@ -77,23 +77,23 @@
       "url": "https://open.spotify.com/track/0vYK5CpZu3FSU69a2jek7L"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Other Love Songs",
-        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
+        "name": "Up in Bigfoot Country",
+        "url": "https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4"
       },
       "artists": [
         {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
         }
       ],
-      "duration_ms": 119460,
-      "name": "Sometimes it Does",
-      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
+      "duration_ms": 195493,
+      "name": "Up in Bigfoot Country",
+      "url": "https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Foggy Morning Breaking",
         "url": "https://open.spotify.com/album/0BDz3YhQcXKzOPUkgGvrG7"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/1BmdMNhew9aApcN1YBb2oC"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Shaken By A Low Sound (Deluxe)",
         "url": "https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/4Eh0EzmssbxXKjPBKXd0EB"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "33 Guitar Instrumentals",
         "url": "https://open.spotify.com/album/2QYQxbv8IwFPZP2T65sXkg"
@@ -161,7 +161,23 @@
       "url": "https://open.spotify.com/track/2J9evmBkXC8HkY8DkzbNtw"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Going Out\u2026",
+      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Songs of the Sunrise Fox",
         "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
@@ -177,7 +193,39 @@
       "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Thousand Dollar Holler",
+      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Barnimal",
+        "url": "https://open.spotify.com/album/4lkmYqnCy8FqImQMTnlO6o"
+      },
+      "artists": [
+        {
+          "name": "Sami Braman",
+          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
+        }
+      ],
+      "duration_ms": 143786,
+      "name": "Barnimal",
+      "url": "https://open.spotify.com/track/50IXyYkgyLE16O6ohs4r4g"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Uncommon Ritual",
         "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
@@ -201,55 +249,7 @@
       "url": "https://open.spotify.com/track/7N3SAicdAPqwRXu7luvNl2"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Thousand Dollar Holler",
-      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Barnimal",
-        "url": "https://open.spotify.com/album/4lkmYqnCy8FqImQMTnlO6o"
-      },
-      "artists": [
-        {
-          "name": "Sami Braman",
-          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
-        }
-      ],
-      "duration_ms": 143786,
-      "name": "Barnimal",
-      "url": "https://open.spotify.com/track/50IXyYkgyLE16O6ohs4r4g"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Why Should The Fire Die?",
-        "url": "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 113506,
-      "name": "First And Last Waltz",
-      "url": "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "The Muscle Shoals Recordings",
         "url": "https://open.spotify.com/album/2QOn9dnvjzhGZoH90eCFYI"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/2V0iY3RWF0AngxKR5ZJA8c"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Instrumental Classic Country Hits",
         "url": "https://open.spotify.com/album/6ffjDIFQ2p0b9OLdGV1qgF"
@@ -281,23 +281,23 @@
       "url": "https://open.spotify.com/track/1VkBsbIRNgkpj0cLd6xz5k"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Stealing Second",
-        "url": "https://open.spotify.com/album/63sHuqQ8uMSC6BTuOIp39I"
+        "name": "Why Should The Fire Die?",
+        "url": "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb"
       },
       "artists": [
         {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
         }
       ],
-      "duration_ms": 192733,
-      "name": "Golden Pond",
-      "url": "https://open.spotify.com/track/2T0FSlZIf2IYtbH1y2DEvJ"
+      "duration_ms": 113506,
+      "name": "First And Last Waltz",
+      "url": "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
@@ -313,7 +313,23 @@
       "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Stealing Second",
+        "url": "https://open.spotify.com/album/63sHuqQ8uMSC6BTuOIp39I"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 192733,
+      "name": "Golden Pond",
+      "url": "https://open.spotify.com/track/2T0FSlZIf2IYtbH1y2DEvJ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2",
         "url": "https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/2PCJXFuZdJ5pAYvUSRnGyW"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Finch In The Pantry",
         "url": "https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh"
@@ -345,23 +361,7 @@
       "url": "https://open.spotify.com/track/5R6gLpBqAD6P7PzKMdIvLc"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Ahoy!",
-        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 164613,
-      "name": "Squirrel of Possibility",
-      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Follow Me Down",
         "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
@@ -377,7 +377,23 @@
       "url": "https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Ahoy!",
+        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 164613,
+      "name": "Squirrel of Possibility",
+      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
@@ -393,27 +409,7 @@
       "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "The Good Things (Outweigh the Bad)",
-        "url": "https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE"
-      },
-      "artists": [
-        {
-          "name": "Curtis McPeake",
-          "url": "https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi"
-        },
-        {
-          "name": "Andy May",
-          "url": "https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO"
-        }
-      ],
-      "duration_ms": 84906,
-      "name": "Leather Britches",
-      "url": "https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Song of the Traveling Daughter (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL"
@@ -429,7 +425,7 @@
       "url": "https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Passages and Partings",
         "url": "https://open.spotify.com/album/4a7iJ4h5GQhaefw6cScYyX"
@@ -449,7 +445,7 @@
       "url": "https://open.spotify.com/track/3JSKz2HTLddSM88aifxcXz"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
@@ -465,7 +461,7 @@
       "url": "https://open.spotify.com/track/4cBEspuS2ksy4Cgdb1GkpA"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Uncommon Ritual",
         "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
@@ -489,7 +485,7 @@
       "url": "https://open.spotify.com/track/6i3ZOSknAlWQcjkW8gVD1W"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Double Banjo Bluegrass Spectacular",
         "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
@@ -505,7 +501,7 @@
       "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Banjo Haiku",
         "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
@@ -521,7 +517,7 @@
       "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Nickel Creek",
         "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
@@ -537,7 +533,7 @@
       "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Wind Tunnel",
         "url": "https://open.spotify.com/album/0ZGG9f1w3ZxUYUJuUe0UTg"
@@ -565,7 +561,7 @@
       "url": "https://open.spotify.com/track/1nosba6oFDm3xidiQ6BTHO"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Long Violent History",
         "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
@@ -581,7 +577,7 @@
       "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "My Place in the Sun",
         "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
@@ -597,7 +593,7 @@
       "url": "https://open.spotify.com/track/6Y1luylb1MShHo2Ok77alb"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Appalachian Picking Society",
         "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
@@ -613,7 +609,7 @@
       "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
@@ -629,7 +625,7 @@
       "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Just Around the Bend: Survival and Revival in Southern Banjo Sounds - Mike Seeger's Last Documentary",
         "url": "https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg"
@@ -645,7 +641,7 @@
       "url": "https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Lone Soldier",
         "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
@@ -661,7 +657,7 @@
       "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
@@ -677,7 +673,7 @@
       "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "The Harmonic Tone Revealers",
         "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
@@ -701,7 +697,7 @@
       "url": "https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
@@ -717,7 +713,7 @@
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "B\u00e9la Fleck & Abigail Washburn",
         "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
@@ -737,7 +733,7 @@
       "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Tall Fiddler",
         "url": "https://open.spotify.com/album/1fo7fjWxKNcQ5FPX43oJFX"
@@ -761,7 +757,7 @@
       "url": "https://open.spotify.com/track/1CSVXXjCoOaPEqa2R5QDb3"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Song Up In Her Head",
         "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Unless",
         "url": "https://open.spotify.com/album/7ypdPobffspADW87626GOy"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Dillsboro Blues",
         "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Appalachian Picking Society",
         "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
@@ -845,7 +841,7 @@
       "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Leave Some Things Behind",
         "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
@@ -861,7 +857,7 @@
       "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "The Cold Hard Facts",
         "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
@@ -877,7 +873,7 @@
       "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Nickel Creek",
         "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
@@ -893,7 +889,7 @@
       "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "The David Grisman Quintet",
         "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
@@ -909,7 +905,7 @@
       "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Genuine Negro Jig",
         "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
@@ -925,7 +921,7 @@
       "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
@@ -941,7 +937,7 @@
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Skip, Hop And Wobble",
         "url": "https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt"
@@ -965,7 +961,7 @@
       "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Formations",
         "url": "https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5"
@@ -981,7 +977,7 @@
       "url": "https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Shadowgrass",
         "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
@@ -997,7 +993,7 @@
       "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Church Street Blues",
         "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
@@ -1013,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Viridian",
         "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
@@ -1029,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
@@ -1065,7 +1061,7 @@
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
@@ -1081,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Instrumentals",
         "url": "https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ"
@@ -1101,7 +1097,7 @@
       "url": "https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "New Highway (Remastered)",
         "url": "https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0"
@@ -1117,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "How To Grow A Woman From The Ground",
         "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
@@ -1133,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
@@ -1153,7 +1149,7 @@
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Heartland: An Appalachian Anthology",
         "url": "https://open.spotify.com/album/6XoYUIPrhQn2G6DOar698L"
@@ -1177,7 +1173,7 @@
       "url": "https://open.spotify.com/track/6ZWoCwvDD3BvhTmgLiFiFW"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Plays Bill Monroe",
         "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
@@ -1193,7 +1189,7 @@
       "url": "https://open.spotify.com/track/3mwenypVIMuSBJ1ta1u6cF"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Banjophony",
         "url": "https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW"
@@ -1213,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0ISzfI7FecislLcHOZlOuh"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Things Are Simple",
         "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
@@ -1229,7 +1225,7 @@
       "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
         "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
@@ -1253,7 +1249,7 @@
       "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Updraft",
         "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
@@ -1269,7 +1265,7 @@
       "url": "https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Toward the Fray",
         "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
@@ -1285,7 +1281,7 @@
       "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Shadowgrass",
         "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
@@ -1301,7 +1297,7 @@
       "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Lonesome Whistle",
         "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
@@ -1325,7 +1321,7 @@
       "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "The Good, the Bad and the Ugly",
         "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
@@ -1341,7 +1337,7 @@
       "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "A Man Must Carry On",
         "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
@@ -1357,7 +1353,7 @@
       "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
@@ -1373,7 +1369,7 @@
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Squirrelville",
         "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
@@ -1389,7 +1385,7 @@
       "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Charm School (feat. Billy Strings & Chris Thile)",
         "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
@@ -1413,7 +1409,7 @@
       "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Gravity's Our Enemy",
         "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
@@ -1429,7 +1425,7 @@
       "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "From Sea To Sky",
         "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
@@ -1445,7 +1441,7 @@
       "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
         "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
@@ -1461,7 +1457,7 @@
       "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Decembering",
         "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
@@ -1477,7 +1473,7 @@
       "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
@@ -1493,7 +1489,7 @@
       "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Me & My Guitar",
         "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
@@ -1509,7 +1505,7 @@
       "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
@@ -1533,7 +1529,7 @@
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Fiddler's Dream",
         "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
@@ -1549,7 +1545,7 @@
       "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Fork In The Road",
         "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
@@ -1565,7 +1561,7 @@
       "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "30 Turkeys",
         "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
@@ -1581,7 +1577,7 @@
       "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Into My Own",
         "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
@@ -1597,7 +1593,7 @@
       "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Commencement",
         "url": "https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2"
@@ -1625,7 +1621,7 @@
       "url": "https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Cumberland Gap",
         "url": "https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq"
@@ -1641,7 +1637,7 @@
       "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Mashbluegrass D-28",
         "url": "https://open.spotify.com/album/58YWl56eUa43jptyZg79nO"
@@ -1665,7 +1661,7 @@
       "url": "https://open.spotify.com/track/1ZrZLbNlJRdb8s1CBBKAA2"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Americana Master Series: Best Of The Sugar Hill Years",
         "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
@@ -1681,7 +1677,7 @@
       "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
         "url": "https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78"
@@ -1701,7 +1697,7 @@
       "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Moonbeam",
         "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
@@ -1717,7 +1713,7 @@
       "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "58957: The Bluegrass Guitar Collection",
         "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
@@ -1733,7 +1729,7 @@
       "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Doc & Merle Watson's Guitar Album",
         "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
@@ -1753,7 +1749,7 @@
       "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Short Trip Home",
         "url": "https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA"
@@ -1781,7 +1777,7 @@
       "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Banjophony",
         "url": "https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW"
@@ -1801,7 +1797,7 @@
       "url": "https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Telluride Sessions",
         "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
@@ -1817,7 +1813,7 @@
       "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Cellopickin'",
         "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"

@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Jess Williamson
 
-384 songs - 21 hr 54 min
+385 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Avalanche](https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Avalanche](https://open.spotify.com/album/1SoeCpLaSPZBJ5o4PDSHVy) | 3:47 | 2021-11-19 | 2022-06-07 |
 | [back to back](https://open.spotify.com/track/0SQKYOdKg5bvNCbvhty9r7) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:45 | 2021-11-19 | 2022-07-29 |
 | [Be Somebody](https://open.spotify.com/track/03IItNj9PppGuPjVx0wVC8) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Be Somebody](https://open.spotify.com/album/2JADOEbL4IXyki8dEy6orH) | 3:02 | 2022-01-21 | 2022-02-01 |
-| [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 | 2021-11-19 |  |
+| [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 | 2021-11-19 | 2023-05-06 |
 | [Becoming All Alone](https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Becoming All Alone](https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n) | 4:18 | 2022-03-11 | 2023-03-14 |
 | [Bed I Made](https://open.spotify.com/track/0YL1bs7CYi7mhG0FuctgcO) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/3qBXZkDcgHfptEbAw840wL) | 3:00 | 2021-11-19 | 2022-07-29 |
 | [Bed I Made](https://open.spotify.com/track/1wdDPuoYhNk5Zr9XYgURww) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 3:00 | 2022-07-15 |  |
@@ -146,6 +146,7 @@
 | [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 | 2022-06-08 |  |
 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-11-19 | 2022-06-09 |
 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 | 2021-11-19 | 2022-07-29 |
+| [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 |  |
 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 | 2023-02-01 |
 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 | 2021-12-13 |  |
 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2021-11-19 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,031,628 likes - 300 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,033,383 likes - 300 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,7 +253,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 243 | [Roses](https://open.spotify.com/track/7MgKqFoVURzmNlOBkPtyLT) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm), [The David Roy Collective](https://open.spotify.com/artist/3rQj5XISunNkD97E1PGSrt), [MajorLink](https://open.spotify.com/artist/56M0OscfqROb5IPl7jGnyS) | [Roses](https://open.spotify.com/album/0PYwj2qQfrsXM0G9XW0Jv4) | 3:26 |
 | 244 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 |
 | 245 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 |
-| 246 | [Moux: honey](https://open.spotify.com/track/5halRWU8tbxz8TGNKUBT1G) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [honey](https://open.spotify.com/album/5MCBhxdBjVp3Vo1efIKMWK) | 2:20 |
+| 246 | [honey](https://open.spotify.com/track/5halRWU8tbxz8TGNKUBT1G) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [honey](https://open.spotify.com/album/5MCBhxdBjVp3Vo1efIKMWK) | 2:20 |
 | 247 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 |
 | 248 | [Atlas](https://open.spotify.com/track/2UUoUzFXegRNIzIangETNG) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Atlas](https://open.spotify.com/album/0UXtrysJ58HTDz5RtFPtNn) | 2:12 |
 | 249 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 |
@@ -265,7 +265,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 255 | [Letting Go](https://open.spotify.com/track/2aLgFG14lYLiV8YYziZI7Q) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Letting Go](https://open.spotify.com/album/1l3v5h34S4SMNKFblH6pkr) | 3:01 |
 | 256 | [Recalibrate](https://open.spotify.com/track/6kGrBd9wrk0ducE1R9F4uZ) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Recalibrate](https://open.spotify.com/album/7qzUTkbqjad7ZBSvanPNom) | 3:02 |
 | 257 | [Golden Hour](https://open.spotify.com/track/7cY9kWU1cPLJ1wxxvKEZMh) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 1:34 |
-| 258 | [Hex](https://open.spotify.com/track/6yupcJhCWpLXHjm6zQHgaF) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Hex](https://open.spotify.com/album/1OGKkuTJ3so79FZWBnegyi) | 2:32 |
+| 258 | [Hex](https://open.spotify.com/track/6yupcJhCWpLXHjm6zQHgaF) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Hex](https://open.spotify.com/album/1OGKkuTJ3so79FZWBnegyi) | 2:32 |
 | 259 | [Mimetismo](https://open.spotify.com/track/1iGMUpV6h0zA6pUSXfQJVr) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Mimetismo](https://open.spotify.com/album/1I1H1XcRBbl0KfUeVFSSA3) | 2:22 |
 | 260 | [Not a Number](https://open.spotify.com/track/4nncPBsmSPNNeZ2nbd0QR7) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Not a Number](https://open.spotify.com/album/3d0tZ74PLQQyArqWi96Pqw) | 2:33 |
 | 261 | [In The End](https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [In The End](https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb) | 2:46 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 299 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
 | 300 | [Dans](https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Dans](https://open.spotify.com/album/5Sb7Qg4vPm2ximin3n4ypK) | 2:22 |
 
-Snapshot ID: `MCwzZjRkMWJjODQ0NDU1ZGUwNGRiMTliMGI4ZGNmNWQ1OTk1NWU3MmU0`
+Snapshot ID: `MCxkNTM0YzkyMGI0OWJjMTczZmE1OGQ4MjFmY2Y2NjQ3NjJlYTRkODA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,878 likes - 75 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,990 likes - 75 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 74 | [Hell Riders](https://open.spotify.com/track/4WoJjW20CcWFt5S4PVBycE) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [DSVII](https://open.spotify.com/album/1euK7GgNJmBprlctpGtDC5) | 6:47 |
 | 75 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 |
 
-Snapshot ID: `MCw0OWExZjA0NjY0NWZhOWY3NDhhNTJiODNmNzU1NWFkYjk2Y2I1Njk4`
+Snapshot ID: `MCwxNjU4NjNmZjQ1MzUwNWExN2JhMjc1ZmI5NWUyOGU2ZDljN2M3NWYy`

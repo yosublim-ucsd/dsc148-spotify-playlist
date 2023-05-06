@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,714 likes - 100 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,880 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 |
 | 100 | [Absolutego](https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Dear](https://open.spotify.com/album/49CV8xfmsdSltz74sCTLms) | 4:55 |
 
-Snapshot ID: `MCw1YzhiMDYxYjg0NTYwZGNiMWMzZGQ5Yzk2ZGQ2ZDZiNjRhNzdlNDhh`
+Snapshot ID: `MCw5YmQ5MGQ2MmJjMjlmMjhjMWE4NmI1MzJlYjEzNmRjNGZmZmRhYzhj`

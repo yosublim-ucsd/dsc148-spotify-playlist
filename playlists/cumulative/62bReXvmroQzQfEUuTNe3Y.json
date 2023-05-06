@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243783,
+      "name": "DESTINATIONS",
+      "url": "https://open.spotify.com/track/6pqZjgc1HAGImauB9sCGU1"
+    },
+    {
+      "album": {
         "name": "DESTINY (I.O.U) (feat. Shibui)",
         "url": "https://open.spotify.com/album/4tgnw6Z4gzE1ju0o63qxQn"
       },
@@ -2393,6 +2411,28 @@
     },
     {
       "album": {
+        "name": "High & Choking (Jacques Greene Remix)",
+        "url": "https://open.spotify.com/album/3GvVs7WNNIhKTI94Ni4Voa"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278181,
+      "name": "High & Choking - Jacques Greene Remix",
+      "url": "https://open.spotify.com/track/6f69wtX98cWPVJaYYs2pns"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/62UaR3oWtK94SgDjP0CN56"
       },
@@ -2526,6 +2566,32 @@
       "duration_ms": 225088,
       "name": "Home",
       "url": "https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5"
+    },
+    {
+      "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/2VLnaCkRw8tH9rcGKTbbL6"
+      },
+      "artists": [
+        {
+          "name": "Paul Schulze",
+          "url": "https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY"
+        },
+        {
+          "name": "Able Faces",
+          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+        },
+        {
+          "name": "Callum George",
+          "url": "https://open.spotify.com/artist/6UT0zskYDqB2JgGEiAEGFh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157207,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/5ZzE5vW4fTPzjLDEe6EjUU"
     },
     {
       "album": {
@@ -2768,6 +2834,24 @@
       "duration_ms": 269480,
       "name": "I Don't Wanna Leave",
       "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
+    },
+    {
+      "album": {
+        "name": "I Feel Strange",
+        "url": "https://open.spotify.com/album/5HSEh0BscIfmWvmQAjVcpR"
+      },
+      "artists": [
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269581,
+      "name": "I Feel Strange",
+      "url": "https://open.spotify.com/track/5xxxqqI4WRsBvK5aAhR1mP"
     },
     {
       "album": {
@@ -5075,6 +5159,24 @@
     },
     {
       "album": {
+        "name": "11am",
+        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
+      },
+      "artists": [
+        {
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222320,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn"
+    },
+    {
+      "album": {
         "name": "Real for Me",
         "url": "https://open.spotify.com/album/7iT1pcVw9WcqF6QWwXAU7M"
       },
@@ -5258,7 +5360,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 134400,
       "name": "Running the Way I Do",
       "url": "https://open.spotify.com/track/4pL05Dz5YkxNAGDU2vqn9Q"
@@ -7384,6 +7486,28 @@
       "duration_ms": 218293,
       "name": "Young Forever",
       "url": "https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1"
+    },
+    {
+      "album": {
+        "name": "Young Hearts Run Free (2023 Edit)",
+        "url": "https://open.spotify.com/album/07RWKFuT4fdhQsINJGDZq5"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        },
+        {
+          "name": "Benji La Vida",
+          "url": "https://open.spotify.com/artist/3MwdMIfkarbQ6gVS7EaV7I"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212689,
+      "name": "Young Hearts Run Free (2023 Edit)",
+      "url": "https://open.spotify.com/track/5PVJid6BxI6vLNgVWWf8I7"
     },
     {
       "album": {

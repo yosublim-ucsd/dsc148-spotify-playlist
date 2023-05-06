@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-79 songs - 7 hr 7 min
+80 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Lady](https://open.spotify.com/track/6fsLjItlUmbpl16SGi2COD) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 13:48 | 2019-08-09 |  |
 | [Lagos Sisi](https://open.spotify.com/track/6yM82PxMywRHehdoQgQT8p) | [Bola Johnson](https://open.spotify.com/artist/7CfyXrIeIEd05s0nEPvjW1) | [Man No Die](https://open.spotify.com/album/0oQKeXlY2O4QAP83DUn2n5) | 3:23 | 2019-08-09 |  |
 | [Malunguinho](https://open.spotify.com/track/1vwPVpvlspzanOmd1Lbo8n) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil \- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/2OCkXFlU5DFmvmEzeLGXWI) | 7:37 | 2019-08-09 | 2022-07-29 |
-| [Malunguinho](https://open.spotify.com/track/6OEj7Y9qW87GB17GBx7Y3b) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil\- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/7KiyicpzKkhs7BUxg4fqz2) | 7:37 | 2019-08-09 |  |
+| [Malunguinho](https://open.spotify.com/track/6OEj7Y9qW87GB17GBx7Y3b) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil\- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/7KiyicpzKkhs7BUxg4fqz2) | 7:37 | 2019-08-09 | 2023-05-06 |
+| [Malunguinho](https://open.spotify.com/track/6s15msjreg2553uO47iWz2) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil\- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2) | 7:37 | 2022-09-26 |  |
 | [Montego Sunset](https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 3:18 | 2019-08-09 | 2023-04-30 |
 | [Montego Sunset](https://open.spotify.com/track/1pOijkup74g38GYZ9iSlyZ) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make The Road By Walking](https://open.spotify.com/album/6QZl5MQoa4pTlL3YtslF7G) | 3:18 | 2019-08-09 | 2022-07-29 |
 | [Montego Sunset](https://open.spotify.com/track/46g7hr6VAtl08So3KkvLc8) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC) | 3:18 | 2022-09-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,574 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,596 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 149 | [Under the same roof](https://open.spotify.com/track/3IzCbEBNJV97OpSdjd6DwQ) | [Krista Lake Band](https://open.spotify.com/artist/3WVZp2cbKWXh2PzmQEOx9D) | [Old Habits](https://open.spotify.com/album/1fco2lBvgsVH2R0xsklBaZ) | 3:58 |
 | 150 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 |
 
-Snapshot ID: `MCwxYjIxZmY0YzAzMTNiNjAwZWRhOGY5YmRhNDM5MzIyN2U3NzAzYjBj`
+Snapshot ID: `MCwzMjE3MjY3YTkzMTdhNDlmMWUzNWJjOTBiNmQ4Mzg3MDRiYzExNzdl`

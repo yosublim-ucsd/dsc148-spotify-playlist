@@ -4,13 +4,14 @@
 
 > Lo nuevo del mundo tropical\. Cover: Mike Bahía
 
-255 songs - 15 hr 20 min
+256 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Millon](https://open.spotify.com/track/4uAzAGxZSIQ9yASLH4zo3R) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [1 Millon](https://open.spotify.com/album/28wVEWil46hss81yatWiDR) | 3:18 | 2022-11-28 | 2023-02-09 |
 | [100 Años](https://open.spotify.com/track/6pQiERfIQAdfX6w1UFdlE7) | [Sexappeal](https://open.spotify.com/artist/46aJHc5ahjcNZfiS44i1zo) | [100 Años](https://open.spotify.com/album/6R8nYSvwsrd1sIBMU4wpAt) | 4:20 | 2022-01-01 | 2022-01-29 |
 | [50/50](https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [50/50](https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf) | 3:46 | 2022-01-01 | 2022-06-30 |
+| [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 | 2023-05-05 |  |
 | [A Partir De Hoy](https://open.spotify.com/track/4qlnsZUoAbvpjgpStiKIcH) | [Andrw John](https://open.spotify.com/artist/2F1UtPwrswl2pB8crCifIm), [J.O Music](https://open.spotify.com/artist/0kPQLtKqUTZPp7pDQAGzau) | [A Partir De Hoy](https://open.spotify.com/album/5Sr211iHVs2uy2tf0mzAhj) | 3:45 | 2022-01-01 | 2022-06-30 |
 | [Abrete](https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD) | [Chiko Swagg](https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n), [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Abrete](https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5) | 4:14 | 2022-08-12 | 2023-01-21 |
 | [ADIÓS](https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:40 | 2023-01-20 | 2023-04-01 |
@@ -154,7 +155,7 @@
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-28 | 2022-06-30 |
 | [Música Suave](https://open.spotify.com/track/0RNBuq2FZEh2VhRTPh5A7F) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n), [Arian Chacón](https://open.spotify.com/artist/3JhafkAyv0kqwAMlEtEzqz) | [El Hijo Del Viento](https://open.spotify.com/album/2lZjGC8VNtAu7hoIKuqbM6) | 4:37 | 2022-07-19 | 2023-01-14 |
 | [Nada Es Igual](https://open.spotify.com/track/6PmdO63qxKY3nbydxCGT7u) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs) | [Nada Es Igual](https://open.spotify.com/album/0aYCMNZY1sqSDbXDqCTIgj) | 2:52 | 2022-03-04 | 2022-06-30 |
-| [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 | 2023-04-28 |  |
+| [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 | 2023-04-28 | 2023-05-06 |
 | [No Comprendo](https://open.spotify.com/track/3piI3idxf7NBiItHAYicyN) | [Jhonny Evidence](https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy), [El Completo Rd](https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb) | [No Comprendo](https://open.spotify.com/album/0gXDMP6oBtLEIKZDYrMMED) | 3:57 | 2022-01-01 | 2022-06-30 |
 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 | 2022-06-29 | 2023-02-22 |
 | [No Me Pongas a Elegir](https://open.spotify.com/track/01rW8XtruypjeIQvfob33P) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Dime Que Me Amas](https://open.spotify.com/album/22yvjLnXQqgeh3EsodrEw1) | 3:06 | 2022-01-01 | 2022-06-30 |

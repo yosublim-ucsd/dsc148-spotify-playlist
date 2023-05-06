@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,751 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,801 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 59 | [Honey It's Your Fault](https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 5:32 |
 | 60 | [Chockin' Kind](https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk) | [Buddy Ace](https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK) | [Don't Hurt No More](https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F) | 3:27 |
 
-Snapshot ID: `MCxkZGY5Y2FlOGJmMDE3ZTVjNmFiYWNmMTI2M2IxYWU1N2UwNTRlZDBk`
+Snapshot ID: `MCxkYjJjN2Y1ZTNkOWJhNjA1ZTZjMDIzNWY4NzdkY2JhZWQ3YTNlMDQ1`

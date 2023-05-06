@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,612 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,723 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Cumbia Reggae](https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Easy and Tropical Machine](https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26) | 3:56 |
 | 100 | [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 |
 
-Snapshot ID: `MCw4NDRjNWFhMDQ4MGYxYThlZDhmZDVlNDg1OTlkMGY4YjhhMzhkNjdi`
+Snapshot ID: `MCxhNTdlZmE4MjEwNWFmMzNhYWU1MGJhZjI3ODVlZDZkNmQ2MTQ2MDEy`

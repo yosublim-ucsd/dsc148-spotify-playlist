@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,256 likes - 95 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,342 likes - 95 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 94 | [Savasana Yoga](https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq) | [Kundalini Yoga Group](https://open.spotify.com/artist/4L2nirlX7Znfz3XXxapKoV) | [Surya Namaskar Yoga – Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises](https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu) | 3:35 |
 | 95 | [Pearls](https://open.spotify.com/track/65ubCt2SVFiRJuEv7bICfL) | [Heads Over Dreams](https://open.spotify.com/artist/4WPD5ddaSmq6gKDwvHIZHj) | [INFINITY](https://open.spotify.com/album/5VFvR7a0Z4xqRvFT0bAaGk) | 2:19 |
 
-Snapshot ID: `MCwzMzFkMjIxYTM0NmU5MjVlMDY3MWEzMmZkMTg4NGE2ZGVlMzRiYmQ4`
+Snapshot ID: `MCxiZDQzMTgxZTQxNWY0ODE2YzkzZWU1MjQ3YTcwN2NiMWIzN2I5MmNi`

@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Schumann: Kinderszenen, Op. 15: Tr\u00e4umerei (Arr. Lewin for Guitar)",
+        "url": "https://open.spotify.com/album/3dtyRuctasvglDB28bijNg"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Kinderszenen, Op. 15: Tr\u00e4umerei (Arr. Lewin for Guitar)",
+      "url": "https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs"
+    },
+    {
+      "album": {
         "name": "Delibes - Inspiring Composers",
         "url": "https://open.spotify.com/album/4pAzMSQaGNWt6sI1yYyzVL"
       },
@@ -1500,28 +1522,6 @@
       "duration_ms": 243960,
       "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6: No. 17, Wie aus der Ferne",
       "url": "https://open.spotify.com/track/16kgdmPNxzDr4LsnitiHh4"
-    },
-    {
-      "album": {
-        "name": "Schumann: Kinderszenen, Op. 15: Tr\u00e4umerei (Arr. Lewin for Guitar)",
-        "url": "https://open.spotify.com/album/3dtyRuctasvglDB28bijNg"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
-        }
-      ],
-      "date_added": "2023-03-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215800,
-      "name": "Schumann: Kinderszenen, Op. 15 - Tr\u00e4umerei (Arr. Lewin for Guitar)",
-      "url": "https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs"
     },
     {
       "album": {

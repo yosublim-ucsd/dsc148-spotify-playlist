@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover:  Paul Partohap
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,949 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,982 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [Summer Is Over](https://open.spotify.com/track/78nvT4euebtCsEigaNt4aa) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Summer Is Over](https://open.spotify.com/album/6RtywjU8C5NqmQPKUYeROd) | 3:08 |
 | 85 | [TRY](https://open.spotify.com/track/3iPDlqw1GoVtteiioGVg7d) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [THERAY](https://open.spotify.com/artist/1GwzIyvtDBIcWPtHKxfofd) | [TRY](https://open.spotify.com/album/4HV0D0lw4AzBIYxknQv2tF) | 3:34 |
 
-Snapshot ID: `MCw0NDhhNjQxNmZhYjg0ZGUzZTQwZjM2NmIwNmFkYWMzOWM3ZjVkYzdj`
+Snapshot ID: `MCwwMmIzNzZkMGUxMTdiOGFhMjU5YWRjOGZhMDQxZGI0MDAyYTFhYzJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,777 likes - 200 songs - 14 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,837 likes - 200 songs - 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/3hJmN0RlUK8F7grOt3nW0a) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [80's Rock Power Ballads](https://open.spotify.com/album/3hx4DBiw6CIvIIonZzQ1gp) | 3:16 |
 | 200 | [Say It Isn't So](https://open.spotify.com/track/2CvpZHuFZNY5vrcz2fXkJ5) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:47 |
 
-Snapshot ID: `MCxlMWM5ZGViYjA2YjI2ZmRkYzEzZDllMmZkNDIyYmMwNTA0YmY4N2Yw`
+Snapshot ID: `MCwxNGZkMjZjZDA4ZTBjZjc1OWQzODJhNjVmNmM3Y2RlNTdkNzYzM2Rh`

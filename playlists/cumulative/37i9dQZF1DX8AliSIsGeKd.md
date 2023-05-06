@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Rodriguez Jr., Liset Alea
 
-1,789 songs - 6 day 19 hr 3 min
+1,790 songs - 6 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1733,7 +1733,8 @@
 | [We Are The Future](https://open.spotify.com/track/5XfFD9489d8uOKmJKK7Guj) | [Reka](https://open.spotify.com/artist/7An060Vzi2rRZrTxXNEhCc) | [We Are Not Alone, Pt\. 4](https://open.spotify.com/album/6co7oPZX5f1rg9BaxmxV5Y) | 4:30 | 2022-06-16 | 2022-06-24 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-28 | 2022-05-13 |
 | [We Will Forgive Ourselves \- MK Dub](https://open.spotify.com/track/1iZtXObHD0IQjLF8iIto11) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [We Will Forgive Ourselves \(Remixes\)](https://open.spotify.com/album/5HUKGlJKoTqnvgM5Uy9CmV) | 6:30 | 2022-05-20 | 2022-06-03 |
-| [We Will Never Give Up](https://open.spotify.com/track/5NzeHYHjZ73UznCMX0bDNy) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 5](https://open.spotify.com/album/6cCOnTNuvrLjMY0bq4X6YL) | 6:23 | 2023-04-27 |  |
+| [We Will Never Give Up](https://open.spotify.com/track/56m2wIdvB6tNqLxWIM6kRC) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 5](https://open.spotify.com/album/5AnkDZIPKBP37QFntmAfmq) | 6:23 | 2023-05-04 |  |
+| [We Will Never Give Up](https://open.spotify.com/track/5NzeHYHjZ73UznCMX0bDNy) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 5](https://open.spotify.com/album/6cCOnTNuvrLjMY0bq4X6YL) | 6:23 | 2023-04-27 | 2023-05-06 |
 | [We You](https://open.spotify.com/track/3WQ2ZSaSvkU6cmf6vZZb7Q) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [We You / Track 51](https://open.spotify.com/album/4QQMFcqAbJQgseDTKeC0Ov) | 3:32 | 2023-04-06 | 2023-04-28 |
 | [We'll Maintain](https://open.spotify.com/track/23zt3ZGWNVbSIAIgyn0ZAz) | [Olive T](https://open.spotify.com/artist/0zBBG1zpWWiF5OZYSoD1Ud) | [We'll Maintain](https://open.spotify.com/album/2PA2vTLplYN9RJEVyIdMbD) | 5:07 | 2022-10-27 | 2022-11-11 |
 | [Weekend](https://open.spotify.com/track/7nvDH7JyDZqVT4mmRkhjmp) | [DerAlinea](https://open.spotify.com/artist/6nyfG5Ibc5QC1t8GwHx3fN), [Nana K.](https://open.spotify.com/artist/34cYXeQLld39LWWuRB9aIP) | [Weekend](https://open.spotify.com/album/0tTYe9Ikgcvi7MCki95edJ) | 5:34 | 2022-10-27 | 2022-11-11 |

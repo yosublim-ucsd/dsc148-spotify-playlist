@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,728 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,842 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [RHODODENDRON](https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 3:34 |
 | 150 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 |
 
-Snapshot ID: `MCw3MGIwZDNmZGVjZGRjOTkxYWUwYTNkZTRhMzA5MjYxMDNiNzhmNTYw`
+Snapshot ID: `MCwxY2E4NGNkZmEwNmM2OTNmOTJjODIwNTc0MTFlY2JkNjMxMTI2NWMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,542 likes - 100 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,593 likes - 100 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 | 100 | [Blowin up Breeze](https://open.spotify.com/track/5hY6A0IfpPM5KqhZwAkcYu) | [Hot Lips Page](https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz) | [Hot Lips Page: Feelin' High & Happy](https://open.spotify.com/album/2s6GKLeKyXwO1Ik993Wz78) | 2:43 |
 
-Snapshot ID: `MCwzZWMxYjA5YzY3YTUyNzA0YjZlYmVkNmMyNTdkMWM3MWY0MTMyM2Nk`
+Snapshot ID: `MCwxYjk2NDk4NDI2MDQwMzZlYTVkZThhZjQ0NGYwMTAxMGJiNmJkNjdh`

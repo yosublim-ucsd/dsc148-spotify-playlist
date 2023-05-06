@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,355 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,534 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 99 | [No voy a Morir](https://open.spotify.com/track/5r8gJHyLCAwbzLB9RxnkIZ) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pipe Bueno](https://open.spotify.com/album/7pbGiwOwBbQrmvPgXyRbgd) | 3:22 |
 | 100 | [Ahora Que Puedo](https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS) | 3:31 |
 
-Snapshot ID: `MCxjM2U2OTZkZDk1YzFmZTk4OTEzOGQyOWRhOWY2NzU2Nzk1M2IzMGVi`
+Snapshot ID: `MCxlNWQwMThmZjRmYTQzNzQxZjUwOGJlMzFjNzJlZDAyNjlhNjJhZDg0`

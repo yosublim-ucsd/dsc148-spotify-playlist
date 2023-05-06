@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133466,
+      "name": "Kansas City - Digitally Remastered 00",
+      "url": "https://open.spotify.com/track/6HHVWXN2ItXtLdkH4pXgdR"
+    },
+    {
+      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 268586,
       "name": "See You When I Git There",
       "url": "https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 241680,
       "name": "Tobacco Road - 2006 Remaster",
       "url": "https://open.spotify.com/track/2XV3Q00jCVoePVLoXl8nKn"
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"

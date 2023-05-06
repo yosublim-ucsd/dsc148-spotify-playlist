@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,953 likes - 120 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,995 likes - 120 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 119 | [No Expectations](https://open.spotify.com/track/2JI4L5N7qckQcBTjGpa4B6) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:20 |
 | 120 | [Hear Me Singing \(Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/19vDhiyfEiDossnoDkDgKA) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a), [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Double Cream](https://open.spotify.com/album/6QOMBBhNPQUGSbLDLKIoVN) | 3:17 |
 
-Snapshot ID: `MCxlMTYxZDRhMGM5ZjNmNWJkZmQ0MWNmNzZmNTM5NWM4MDBlNTczYmI5`
+Snapshot ID: `MCw2Mjg1ZDM5N2VlYWRjZGY5MzkxODQxNTYxNTJmMmM5NWJkZTE4ODRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,037 likes - 75 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,084 likes - 75 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 74 | [No Me Impolta](https://open.spotify.com/track/5vG4pTCchrIsTlKAsjHuL4) | [Mene](https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8), [ACA \(YU\)](https://open.spotify.com/artist/2sBmYkeeOmp0pIU3M4fMfH) | [No Me Impolta](https://open.spotify.com/album/1X9E0MIGqDHoAPpNYRouPd) | 5:58 |
 | 75 | [Ramona](https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 7:03 |
 
-Snapshot ID: `MCwwZmRkMDI0OTI0ZTE0ZTQ4MjMzYmYwODQzMThhN2ZiYjI4NzQxNDhl`
+Snapshot ID: `MCxjZmRhOGU2YjdlZTEzZWJmNzgzM2Y5NzZmMTI4ZmY3NzAzNDQzZDFk`

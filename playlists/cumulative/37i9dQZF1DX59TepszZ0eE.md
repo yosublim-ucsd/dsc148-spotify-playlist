@@ -2,13 +2,14 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=Lswdxkn9S76SA0dR0aUUTA">Joyous Celebration</a>
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ?si=IVb13N\-zTBeS3dtc81BXnw">Deborah Fraser</a>
 
-93 songs - 9 hr 44 min
+96 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alpha noOmega](https://open.spotify.com/track/5iQ4H7V9qmtuCs0XLZRIp9) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Alpha noOmega](https://open.spotify.com/album/14dDTEUml2aMiYgmmbVb01) | 5:00 | 2022-09-15 | 2023-03-18 |
+| [Basheshe Bahleke](https://open.spotify.com/track/32PnVMQXGPHviFa7T4qRct) | [Deborah Fraser](https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ) | [Basheshe Bahleke](https://open.spotify.com/album/4tU5X737hd9Kr8wYEa4JTw) | 4:18 | 2023-05-05 |  |
 | [Because of Jesus](https://open.spotify.com/track/7zddQIafkMLWDpnEw7r7y8) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Because of Jesus](https://open.spotify.com/album/4r089kmUNmAaP2DgQqXrq8) | 8:46 | 2022-05-08 | 2023-03-18 |
 | [Bow Down and Worship](https://open.spotify.com/track/4pWmkzHatAySpTylNXJOzb) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 10:54 | 2019-09-26 | 2023-03-18 |
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 | 2019-09-26 | 2023-03-12 |
@@ -62,7 +63,8 @@
 | [Sengiyacela \- Live](https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sengiyacela \(Live\)](https://open.spotify.com/album/2tifu52HSqgY17VIrf4zaA) | 6:15 | 2020-03-06 |  |
 | [Settle for Less \(Live\)](https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [The Uprising](https://open.spotify.com/artist/4DW2FpAZ3RVvVr5sXOHbW1) | [The Dawn \(Live\)](https://open.spotify.com/album/69i6OVB0BEPOaQYf7fn7tl) | 3:50 | 2018-09-24 |  |
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2018-09-24 |  |
-| [Sibabaza Wena \- Live](https://open.spotify.com/track/1gDzT790azKHH5wkHCYOaW) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/3MwJ24l4rzuioInlgNwgf2) | 5:40 | 2020-03-13 |  |
+| [Sibabaza Wena \- Live](https://open.spotify.com/track/1gDzT790azKHH5wkHCYOaW) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/3MwJ24l4rzuioInlgNwgf2) | 5:40 | 2020-03-13 | 2023-05-06 |
+| [Silapha](https://open.spotify.com/track/2wJUqVEPkLXTVw261oQE8c) | [Zodwa Twecu](https://open.spotify.com/artist/1iFGoRhMvpam8PfZ00epet) | [Andijiki](https://open.spotify.com/album/1V279WPZP6AlIETJxQJ4pF) | 5:49 | 2023-05-05 |  |
 | [Simbonga Ngothando](https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71), [Vusi Nova](https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 5:19 | 2022-09-22 |  |
 | [Surely Goodness](https://open.spotify.com/track/6EuTx7OqOebUZcEGZfE1d7) | [Sbu Noah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Surely Goodness](https://open.spotify.com/album/2YThyI33V5DNVVYLOSQQqA) | 7:28 | 2022-04-14 |  |
 | [Take Heart](https://open.spotify.com/track/3YANTnjzNjI2OHeVEDgiAf) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Take Heart](https://open.spotify.com/album/067GsZIoIEInbT7pI4j51P) | 3:37 | 2023-03-17 |  |
@@ -70,7 +72,7 @@
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2023-03-17 |  |
 | [The 4th Man](https://open.spotify.com/track/78aypN49XOCv12qx2v35wE) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [The 4th Man](https://open.spotify.com/album/3xzLg7y8Bmc02X5IWu8FAM) | 6:37 | 2022-05-12 | 2023-03-18 |
 | [The Call \(Chants\)](https://open.spotify.com/track/5Tiam84rOv9mReGegBJN8y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 7:48 | 2022-04-28 | 2023-03-18 |
-| [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 | 2020-11-12 |  |
+| [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 | 2020-11-12 | 2023-05-06 |
 | [Thel' Umoya](https://open.spotify.com/track/3jOcdERCd7e3JNBqb0iWgS) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/5UKG4D9iQIwpY0ZJyAwm7Z) | 4:04 | 2020-09-01 | 2023-04-07 |
 | [Thel' Umoya](https://open.spotify.com/track/7F5JEUzNSmDCWJr0sixvdk) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/6cvqICbcHx32KbIecxwKDa) | 4:04 | 2020-09-01 | 2023-03-12 |
 | [Thelumoya](https://open.spotify.com/track/4m3si6zfyw7JI045D2iiUx) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2), [Tshepiso Motaung](https://open.spotify.com/artist/5W1gtTJxIuuNRso18Ng6f0) | [Thelumoya](https://open.spotify.com/album/5YIOuPvc6JJfmGWmQeLEmY) | 5:01 | 2022-02-17 | 2023-03-18 |
@@ -79,9 +81,10 @@
 | [Udumo \- Live at Pont De Val](https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Udumo \(Live at Pont De Val\)](https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p) | 6:46 | 2020-10-09 |  |
 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 | 2019-08-19 |  |
 | [Ungamandla Ami \(Live\)](https://open.spotify.com/track/0mLaY1RrsYTNLtr0YlQwfB) | [Pastor Lungi Ndala](https://open.spotify.com/artist/5LpVjFP0GwCJRrPjyTo6ec) | [Ungamandla Ami \(Live\)](https://open.spotify.com/album/1JC8YX7rApVmJmeKWTwk3Q) | 5:33 | 2022-09-15 | 2023-03-18 |
-| [Ungikhathalele](https://open.spotify.com/track/6C6oM5DpJaeq2wyzQHAVRX) | [Jumbo](https://open.spotify.com/artist/3WsA13hdiZ1K7NwjemXvz9) | [Ungikhathalele](https://open.spotify.com/album/24bzMduuwBDsGtapX9lqnG) | 5:06 | 2018-09-24 |  |
+| [Ungikhathalele](https://open.spotify.com/track/6C6oM5DpJaeq2wyzQHAVRX) | [Jumbo](https://open.spotify.com/artist/3WsA13hdiZ1K7NwjemXvz9) | [Ungikhathalele](https://open.spotify.com/album/24bzMduuwBDsGtapX9lqnG) | 5:06 | 2018-09-24 | 2023-05-06 |
 | [Ungubaba](https://open.spotify.com/track/6e3EkJFMU2NALtPkC20IUp) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 4:17 | 2020-08-28 |  |
 | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/track/2GrEouhLr4QoieMsy1LD8u) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/album/3NbtHoVq45LvFW1yS9Tjzn) | 7:14 | 2022-09-15 |  |
+| [UThixo Babhem](https://open.spotify.com/track/6hohFbVUUZ8nLXwVFzQcyh) | [Mr Vee Sholo](https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U) | [UThixo Babhem](https://open.spotify.com/album/0ziZSA0rjmw4O0hIuNeT3G) | 4:10 | 2023-05-05 |  |
 | [Uzokuphendula](https://open.spotify.com/track/2AEfhL3jyC37LUoFj1tVLm) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Icebo Le Nkosi](https://open.spotify.com/album/7u3wRzBQ19vBWhYN5kvher) | 5:51 | 2022-09-15 | 2023-03-18 |
 | [Vela](https://open.spotify.com/track/0GWCvJTm9F7cEBOVNwaSTo) | [Masechaba](https://open.spotify.com/artist/1Vb8rtqOhPNaruaVz4MDb7), [The Real LandLordz](https://open.spotify.com/artist/6QVlBTeWv5eRdNtIMfVz0D) | [Vela](https://open.spotify.com/album/4ZFnH2UP63BOoCkkgg0Gc5) | 3:23 | 2022-03-24 | 2023-03-18 |
 | [Wafika](https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Wafika](https://open.spotify.com/album/0rPX5bZ9moPrhGT9Rwuomo) | 8:33 | 2018-09-24 |  |

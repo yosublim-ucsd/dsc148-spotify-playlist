@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-269 songs - 18 hr 12 min
+270 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bad Woman Blues](https://open.spotify.com/track/0rw2FKykg4yKVbt7XelcwC) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [War In My Mind](https://open.spotify.com/album/3yDiN64DXyOgZSJ5oR6o7S) | 3:35 | 2020-12-14 | 2022-02-26 |
 | [Ball of Fire](https://open.spotify.com/track/3mtfFRcdAeHrrVnxbWpmI2) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [No More Worlds to Conquer](https://open.spotify.com/album/5RCGjONsYrTcNJpRjd27eL) | 3:51 | 2022-04-29 |  |
 | [Beat The Devil](https://open.spotify.com/track/3XYMYGSPtFvczwyKpYmtXk) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Beat The Devil](https://open.spotify.com/album/6ahYjYXiTuofCvgdATnrMv) | 3:49 | 2021-12-10 | 2022-04-23 |
+| [Best Of Me](https://open.spotify.com/track/0VbJ3cy7fxcHgNiAA29jXl) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Best Of Me](https://open.spotify.com/album/5yUt1cDO7CNBnEtyJS1aP9) | 3:54 | 2023-05-05 |  |
 | [Big Legged Man](https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [One Foot In The Groove](https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD) | 4:25 | 2022-09-30 |  |
 | [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 | 2021-11-12 | 2022-04-23 |
 | [Black Mountain Blues](https://open.spotify.com/track/1D2tVcQFbPmJP9FAjGkvJV) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Black Mountain Blues](https://open.spotify.com/album/2gKdg1viykgX8jVJrvR71l) | 5:08 | 2021-04-23 | 2022-04-23 |
@@ -126,7 +127,7 @@
 | [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 | 2022-03-04 |  |
 | [In Blood](https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [In Blood](https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z) | 4:05 | 2022-06-24 |  |
 | [In My Soul](https://open.spotify.com/track/4DO9pPMq8PFhWFo4IVVveA) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [In My Soul](https://open.spotify.com/album/7K3JyQeEB3L6lmNYTkmQDr) | 4:47 | 2023-02-24 | 2023-03-18 |
-| [In The Water](https://open.spotify.com/track/23s0MmTdYCrt1lu2gxEfkU) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN), [Steve Knight](https://open.spotify.com/artist/6k6k3dePFZZJDOBRg4IxFS) | [In The Water](https://open.spotify.com/album/6Ef6vJ6k500tGlu0zDp8dK) | 4:09 | 2021-08-20 |  |
+| [In The Water](https://open.spotify.com/track/23s0MmTdYCrt1lu2gxEfkU) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN), [Steve Knight](https://open.spotify.com/artist/6k6k3dePFZZJDOBRg4IxFS) | [In The Water](https://open.spotify.com/album/6Ef6vJ6k500tGlu0zDp8dK) | 4:09 | 2021-08-20 | 2023-05-06 |
 | [I’m Yours And I’m Hers](https://open.spotify.com/track/1CvB0rh0CgCi4ixnbVE6Zh) | [The Blue Quarantinos](https://open.spotify.com/artist/74IHkbIwZfF1D0bH6Usfyd), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Vince Fossett Jr.](https://open.spotify.com/artist/1jV1E6qOXs9NJLH5CPk3mM) | [Phoning It In](https://open.spotify.com/album/5pGCCCUVVmfUGAZ2tz60Rd) | 3:24 | 2021-04-23 | 2022-04-23 |
 | [Judicator Blues](https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD) | [Micki Free](https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Turquoise Blue](https://open.spotify.com/album/4QBaAT90iqQxoR9TS2izPF) | 3:43 | 2022-02-04 |  |
 | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe) | 4:40 | 2022-09-09 | 2023-02-11 |

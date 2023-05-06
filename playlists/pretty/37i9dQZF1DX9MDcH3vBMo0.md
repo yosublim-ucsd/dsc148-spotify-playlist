@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,339 likes - 250 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,504 likes - 250 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 249 | [Sunday breeze](https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Sunday breeze](https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52) | 1:38 |
 | 250 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 |
 
-Snapshot ID: `MCxjZGEzNGRkZGYyZjA3ZGUzZDY2MzVkMjA5MGM5NTYwMjcyMWRmMzMx`
+Snapshot ID: `MCxhNTc5MmM1MGYyNjg4OGMwNzQzMzIzZTRkMjc5ZDFiZWU3ODY4YjMx`

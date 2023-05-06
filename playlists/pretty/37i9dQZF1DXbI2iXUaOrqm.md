@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > Rock meets pop meets punk, para esos días cuando todo te vale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,661 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,674 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 49 | [Me Tome Una Pastilla...](https://open.spotify.com/track/38qcLdCR7vSCkq3ClfaWpX) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 4:38 |
 | 50 | [Con los Pies en el Techo](https://open.spotify.com/track/6nMllahSeGPicYXH61ray7) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Con los Pies en el Techo](https://open.spotify.com/album/72aS3wri62UToYS68QLUn4) | 3:27 |
 
-Snapshot ID: `MCw3YzQyN2U3N2QyNzA1ZjI1YjIwZTczZGJhNzY0NDA2YzkxYWNlMTk1`
+Snapshot ID: `MCw2ZjliNzA4NjA5MDRjMmU4NzJlYTQ1MDMzMDQzYmMyODVhOGY5MzI2`

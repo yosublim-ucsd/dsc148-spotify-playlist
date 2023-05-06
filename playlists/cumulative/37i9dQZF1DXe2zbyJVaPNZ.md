@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-164 songs - 11 hr 3 min
+165 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,8 +130,8 @@
 | [Reflections](https://open.spotify.com/track/1Qm7N6tQUcg7RubLr7o1nq) | [Dorian Gray](https://open.spotify.com/artist/27bwOnqrkHPk4sJtNpUn2r) | [Randomly Generated](https://open.spotify.com/album/2yjIsMdeY9TFeTGqqcZO9z) | 6:35 | 2022-08-05 |  |
 | [Reflector](https://open.spotify.com/track/7KReeqzDWnzpz1jma5q5GM) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Parallel](https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX) | 8:22 | 2022-08-19 |  |
 | [Restful Petal](https://open.spotify.com/track/2TPxRTo03wfcB62GUiUjmK) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:18 | 2023-03-24 |  |
-| [Salta: Second Sleep](https://open.spotify.com/track/27czMd5PkUmbowhIj70e52) | [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj) | [The Sleep Project](https://open.spotify.com/album/25ZJSTznISJssjpVmDu1hK) | 4:00 | 2022-08-05 |  |
 | [Sea Angel](https://open.spotify.com/track/0NJTbN4WsbZvEJAtXFuvfW) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [Dream Vibes](https://open.spotify.com/album/3UIy1t5U2AUDF22IvmKuPD) | 5:04 | 2022-12-20 |  |
+| [Second Sleep](https://open.spotify.com/track/27czMd5PkUmbowhIj70e52) | [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj) | [The Sleep Project](https://open.spotify.com/album/25ZJSTznISJssjpVmDu1hK) | 4:00 | 2022-08-05 |  |
 | [Serenity](https://open.spotify.com/track/4PE18K21iBZ21BhAkMKuXx) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Serenity](https://open.spotify.com/album/54EJoYtWdVl2SJEwJgiLUc) | 3:52 | 2022-08-05 |  |
 | [Shinseki Main](https://open.spotify.com/track/1pHqS0YdK8x3UXlUqJAOzp) | [Purple Decades](https://open.spotify.com/artist/08lg5wRQNrKKJZzvWTynlv) | [Journey Test](https://open.spotify.com/album/45P14PPyN1or3llI8OH0jN) | 3:43 | 2023-03-24 |  |
 | [Signal](https://open.spotify.com/track/5CcPj0blox3jKcKagc3ljI) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Signal](https://open.spotify.com/album/6Hyis4NZ5UUXohlXaB2ia6) | 4:04 | 2022-10-14 |  |
@@ -163,13 +163,14 @@
 | [Waiting for you in Utopia](https://open.spotify.com/track/7cI5rrvUPvZCHT7akwwGHB) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Waiting for you in Utopia](https://open.spotify.com/album/5zX5hruc8DfMpZIB2YN7Xx) | 2:54 | 2022-08-05 |  |
 | [Waiting..](https://open.spotify.com/track/62WZsVC65cpmJGVqzjjgDo) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [A Perfect Society](https://open.spotify.com/album/7wWLo4mYpOSXwlagXpIiB0) | 2:15 | 2022-08-05 |  |
 | [Weathering](https://open.spotify.com/track/6OT7l0dovuaGwgItQAaFst) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25) | [Misty Memories](https://open.spotify.com/album/4fggI9yznMdxetQ1nsNgmF) | 4:28 | 2022-11-22 |  |
-| [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 | 2022-08-05 |  |
+| [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 | 2022-08-05 | 2023-05-06 |
 | [When Everything Fades \- Applefish Rework](https://open.spotify.com/track/1TM6iMXR7IdX3Zc1rCwO9r) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Forever Ago](https://open.spotify.com/album/06LhQdbiI54iofiFmoOx12) | 4:44 | 2022-08-05 |  |
 | [Where We Start Again](https://open.spotify.com/track/01MyFW53bmiQ3hSolZVU1M) | [Luca Longobardi](https://open.spotify.com/artist/3u2Sq4N5nNzSumzKsbZwDW), [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Paint and Blood](https://open.spotify.com/album/2yVBRpgdh94WhSEBU1QGAa) | 4:16 | 2022-08-05 |  |
 | [Wilderness](https://open.spotify.com/track/6FHHNUmzQYCVxqraPzUchi) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Wilderness](https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM) | 3:46 | 2023-01-13 |  |
 | [Windless](https://open.spotify.com/track/0clnYSklQm9IHIi7p7nGFQ) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Windless](https://open.spotify.com/album/3OQ8n00sKpt4BYfgcjIGla) | 2:22 | 2023-01-27 |  |
 | [Yes I](https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd) | [Answer Code Request](https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO), [Jan Wagner](https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX) | [Yes I](https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR) | 5:41 | 2022-08-05 |  |
 | [Yugen](https://open.spotify.com/track/7koQRxHvQ7HLK6TpxnuaSB) | [zarr.](https://open.spotify.com/artist/0X0R3ScmiUkMFxi2mE7Bys) | [cloudform](https://open.spotify.com/album/3kdr7RcqUSwrk2zGD9GwPY) | 8:18 | 2022-08-05 | 2022-12-21 |
+| [zatu](https://open.spotify.com/track/4scwisvOsvaFPIxPwNsirE) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kansei](https://open.spotify.com/album/1BbrCC1XoKHkJF8Bwkp1wp) | 3:02 | 2023-05-05 |  |
 | [Zenith](https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 3:01 | 2023-03-03 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-09-08 |  |
 

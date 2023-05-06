@@ -2,9 +2,9 @@
 
 ### [Volume Máximo](https://open.spotify.com/playlist/37i9dQZF1DX4908CEYEdlz)
 
-> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Fall Out Boy
+> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bush
 
-234 songs - 14 hr 20 min
+235 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [L'exquisite Douleur](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH) | 3:08 | 2022-04-29 | 2022-05-20 |
 | [Actions Speak Louder Than Words \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 4:01 | 2022-02-11 | 2023-02-25 |
 | [Aglomeração](https://open.spotify.com/track/6oV9vEUb5dmXic5bjeg7GP) | [Ratos De Porão](https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF) | [Aglomeração](https://open.spotify.com/album/3feZd4mZaOrV1s865qbKVE) | 2:29 | 2022-04-08 | 2022-04-23 |
+| [All Things Must Change](https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [All Things Must Change](https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm) | 3:35 | 2023-05-05 |  |
 | [Alone Again](https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Alone Again](https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq) | 3:48 | 2022-01-14 | 2022-03-05 |
 | [Animals](https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Animals](https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8) | 4:04 | 2022-01-14 | 2022-07-29 |
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2022-07-01 | 2023-02-18 |
@@ -147,7 +148,7 @@
 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 | 2022-07-29 | 2023-05-04 |
 | [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 | 2023-05-02 |  |
 | [Not Afraid To Die](https://open.spotify.com/track/5Ag0cYZVH7awaoVJiRaSJi) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Not Afraid To Die](https://open.spotify.com/album/7yGCu2A1Fj9H8CDF0udJ1O) | 4:09 | 2022-06-10 | 2022-07-30 |
-| [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 | 2022-01-14 |  |
+| [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 | 2022-01-14 | 2023-05-06 |
 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 | 2022-08-26 |  |
 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 | 2022-01-14 | 2022-04-09 |
 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 | 2022-01-14 | 2022-06-11 |

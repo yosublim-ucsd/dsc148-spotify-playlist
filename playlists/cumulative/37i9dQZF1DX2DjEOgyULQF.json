@@ -743,6 +743,28 @@
     },
     {
       "album": {
+        "name": "Forever Still",
+        "url": "https://open.spotify.com/album/3M7iDJTVb6CDB0c65rzVzD"
+      },
+      "artists": [
+        {
+          "name": "Zen Om",
+          "url": "https://open.spotify.com/artist/1rM7kgU05ig5vYpYTpSPZs"
+        },
+        {
+          "name": "Unreaa",
+          "url": "https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102518,
+      "name": "Forever Still",
+      "url": "https://open.spotify.com/track/1uUMHYJpNiev5x1vZPdXsc"
+    },
+    {
+      "album": {
         "name": "The whim of fate",
         "url": "https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru"
       },
@@ -1158,6 +1180,24 @@
       "duration_ms": 127200,
       "name": "Nature of Illusion - Meditation Version",
       "url": "https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd"
+    },
+    {
+      "album": {
+        "name": "Nature Spirit",
+        "url": "https://open.spotify.com/album/4XQd6piWXsg8bOagxKxJYV"
+      },
+      "artists": [
+        {
+          "name": "Inner Calmness",
+          "url": "https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147699,
+      "name": "Nature Spirit",
+      "url": "https://open.spotify.com/track/6h0IOgeKJufk8JeSlX5Q4I"
     },
     {
       "album": {

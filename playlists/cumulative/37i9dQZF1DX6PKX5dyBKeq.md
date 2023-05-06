@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Tion Wayne
 
-1,394 songs - 2 day 23 hr 26 min
+1,396 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Back 2 Back](https://open.spotify.com/track/0uLpfJcZI1EtlzppUGnTV2) | [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc) | [Back 2 Back](https://open.spotify.com/album/22Mx8pkKmkrjtyvt0I5P7A) | 2:59 | 2022-11-25 | 2022-12-31 |
 | [Back 2 Back](https://open.spotify.com/track/5UzOk0wwCvIEeXicuPKKrD) | [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc) | [Back 2 Back](https://open.spotify.com/album/3krb1YSfDC4DODb6J1mz3m) | 2:59 | 2022-12-16 | 2023-01-27 |
 | [Back 2 Back](https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Dirtbike Lb](https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Cold Feet](https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym) | 3:08 | 2022-10-13 | 2023-02-03 |
-| [Back 2 Back \(feat\. Potter Payper\)](https://open.spotify.com/track/6fRWobvU9232QJsfZi2Bnp) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Back 2 Back \(feat\. Potter Payper\)](https://open.spotify.com/album/2vbR7MuRmXGWfIm3zEQpdf) | 2:31 | 2023-05-05 |  |
+| [Back 2 Back \(feat\. Potter Payper\)](https://open.spotify.com/track/3qADzUJtHJMy6rxbSLusJ5) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [First Lap](https://open.spotify.com/album/0Ukfuv1AjZhBQg7c2QpDaK) | 2:31 | 2023-05-05 |  |
+| [Back 2 Back \(feat\. Potter Payper\)](https://open.spotify.com/track/6fRWobvU9232QJsfZi2Bnp) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Back 2 Back \(feat\. Potter Payper\)](https://open.spotify.com/album/2vbR7MuRmXGWfIm3zEQpdf) | 2:31 | 2023-05-05 | 2023-05-06 |
 | [Back In Blood](https://open.spotify.com/track/2lqFZ1vSoo1kp0SAGTnIIu) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Back In Blood](https://open.spotify.com/album/2y27yWhhQKER6WpYQBgb9s) | 2:55 | 2021-08-20 | 2021-12-20 |
 | [Back to Basics](https://open.spotify.com/track/7bb2iBhmeQeggAe623m6FY) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Back to Basics](https://open.spotify.com/album/3TLBa9ZgL9Ka58oXvQPk2Q) | 3:17 | 2021-01-23 | 2021-03-19 |
 | [Back To The Wave](https://open.spotify.com/track/1VVAhoJKMYCIZKIRNfp9C0) | [Ay Em](https://open.spotify.com/artist/1IiTy72Esd2mIfGuvsvdQB) | [Back To The Wave](https://open.spotify.com/album/2W2KkGqUtWR8urLRJIRayx) | 2:58 | 2020-10-10 | 2020-11-06 |
@@ -1230,6 +1231,7 @@
 | [Thames](https://open.spotify.com/track/7fU6E7muOSr69ekB3i4LnU) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Thames](https://open.spotify.com/album/1N9ralWiFNuctsuce301RC) | 2:55 | 2020-08-21 | 2020-09-18 |
 | [Thankful](https://open.spotify.com/track/2SJl5FneRY8iORzQ9azajL) | [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P) | [None The Wiser](https://open.spotify.com/album/69pegYBy12y0HrAg4jWpc1) | 2:13 | 2022-12-09 | 2023-01-06 |
 | [That Don't Mean](https://open.spotify.com/track/0krNfglAuKquyzdvToSBGO) | [TrueMendous](https://open.spotify.com/artist/7HBiwH66vHZnTvHFtXwsp0) | [Huh?](https://open.spotify.com/album/3GZJBvX3F3THvX6lPAQvTE) | 3:07 | 2023-03-08 | 2023-03-09 |
+| [That's Money](https://open.spotify.com/track/2DklZOenvD23m4sq7OZzS1) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [SKALA](https://open.spotify.com/album/6BIGR8uZg8WLTwYBowVX4d) | 2:37 | 2023-05-05 |  |
 | [The Drop](https://open.spotify.com/track/0J09vZfqlTW4TMzMmzdjdy) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV), [The Heavytrackerz](https://open.spotify.com/artist/6aTCNF8JTH5TFs9rheknQB) | [The Drop](https://open.spotify.com/album/6ovLaI3JvfEn9aJynGQzNs) | 3:44 | 2020-08-15 | 2020-09-18 |
 | [The Family](https://open.spotify.com/track/2Kn7CqkvmqH5dI42BsncpC) | [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [The Family](https://open.spotify.com/album/5Z8kqFUd6mjXX8mxKopR1o) | 4:51 | 2022-02-11 | 2022-03-26 |
 | [The Game](https://open.spotify.com/track/1YrvO1a1lCqn7woxIITo58) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [The Godfather 3](https://open.spotify.com/album/59lh0EJ7FGeio8iP101six) | 2:40 | 2020-06-13 | 2020-06-29 |

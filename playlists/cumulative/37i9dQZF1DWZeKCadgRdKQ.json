@@ -5555,6 +5555,24 @@
     },
     {
       "album": {
+        "name": "Mind over matter",
+        "url": "https://open.spotify.com/album/5LZ7RMBcmV2y6d5safkTgx"
+      },
+      "artists": [
+        {
+          "name": "Josef Briem",
+          "url": "https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153878,
+      "name": "Mind over matter",
+      "url": "https://open.spotify.com/track/1XTcfJ0PlFW3xSq4kqPxqr"
+    },
+    {
+      "album": {
         "name": "Number Games",
         "url": "https://open.spotify.com/album/6WVqQLIjA7GvydiFmLnwDF"
       },
@@ -6978,6 +6996,24 @@
       "duration_ms": 138574,
       "name": "Red Gold Yesterday",
       "url": "https://open.spotify.com/track/557iYakWWJQeKbJS3UYMxG"
+    },
+    {
+      "album": {
+        "name": "Relentless",
+        "url": "https://open.spotify.com/album/21HRbFxgdYeTeNSwgEglyZ"
+      },
+      "artists": [
+        {
+          "name": "Silver Falls",
+          "url": "https://open.spotify.com/artist/0RwvR8waN1JIhu7xsJIZdR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163830,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/6b1iYDiid8sZVQzwrF438y"
     },
     {
       "album": {

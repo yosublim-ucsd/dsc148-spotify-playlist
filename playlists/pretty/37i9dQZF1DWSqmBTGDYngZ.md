@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 
 > Make your shower more uplifting by singing along to these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,306,029 likes - 200 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,307,566 likes - 200 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 | 199 | [Down Under](https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:42 |
 | 200 | [Sit Still, Look Pretty](https://open.spotify.com/track/6ZtiywT2Qm50a1uR0jlY35) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:27 |
 
-Snapshot ID: `MCwyN2U3NTkwYTAyNjUwZTAzN2VjN2M0MjcxY2E1ZTc0YjBhNzc5OWI4`
+Snapshot ID: `MCwzNWQ1MDBhZjEyMGY3ZDllMjZlOGVhMWFlMTMyOGZjODYwNWYxZGMz`

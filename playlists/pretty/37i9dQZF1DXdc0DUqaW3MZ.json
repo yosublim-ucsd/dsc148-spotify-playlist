@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 303004,
+  "num_followers": 303155,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDkzOGI3NTlkNGMyZjliNmM3NTMxNjk2ZjM2MGRhNzEwNmMwNGY5",
+  "snapshot_id": "MCwyMDQ1NDcxYzlhMmZlZmYyZjRiYWRjOWNmZTJmNGRjYWY2NzYyNDdk",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Debold",
-      "url": "https://open.spotify.com/track/3pwR6SvdZq6GVpmSDz41QQ"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "FYO",
         "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
       },
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "It's Nice to Be Alive",
-      "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
@@ -1287,6 +1255,42 @@
       "duration_ms": 136822,
       "name": "o shit!",
       "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Liquid Portraits",
+        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
+      },
+      "artists": [
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        },
+        {
+          "name": "Martha Da'ro",
+          "url": "https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl"
+        }
+      ],
+      "duration_ms": 249112,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 196441,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
     }
   ],
   "unique_name": "Soultronic",

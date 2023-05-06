@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,890 likes - 70 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,066 likes - 70 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Gordon](https://open.spotify.com/track/2mj6LDSazUdSLe9ed32lEH) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Gordon](https://open.spotify.com/album/1aormndMh4RfNXV1fJdjFL) | 4:00 |
 | 70 | [Silence & Secrets \- Adriatique Remix](https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Silence & Secrets \(Adriatique Remix\)](https://open.spotify.com/album/0Y0xhBcScceez0FfDnap8p) | 7:21 |
 
-Snapshot ID: `MCw3ZGNmNTQzNDFhYzRjNWI4MjIzY2Y0NzQzNTQxZWVjYzBlYmNhNTVm`
+Snapshot ID: `MCw5Yjk1YjkwNTJiZTJjYmRhYmNkM2YzM2IzZWFlMjE1YTJhYzFhOTgx`

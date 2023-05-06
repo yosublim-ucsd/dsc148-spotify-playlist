@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Biblical",
+        "url": "https://open.spotify.com/album/6kZkJxmZFEh8rtIYQQnvkQ"
+      },
+      "artists": [
+        {
+          "name": "Sadye",
+          "url": "https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165924,
+      "name": "Biblical",
+      "url": "https://open.spotify.com/track/5CGFCCgW9mOXxWiNNIPBeG"
+    },
+    {
+      "album": {
         "name": "Billions",
         "url": "https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5"
       },
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197302,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U"
@@ -3896,6 +3914,28 @@
       "duration_ms": 219373,
       "name": "Her",
       "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "album": {
@@ -6592,7 +6632,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 244941,
       "name": "Piece of Art",
       "url": "https://open.spotify.com/track/0CF9ZyQR7X9DpgwJSBOwja"
@@ -6928,7 +6968,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194594,
       "name": "Rear View",
       "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
@@ -8072,7 +8112,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 162909,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"

@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "all my fridays",
+        "url": "https://open.spotify.com/album/7iSgaRcEb0SW11JmmMeNg4"
+      },
+      "artists": [
+        {
+          "name": "byn",
+          "url": "https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT"
+        },
+        {
+          "name": "HOW1E",
+          "url": "https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214245,
+      "name": "all my fridays",
+      "url": "https://open.spotify.com/track/1TOQwaFSpog2z8Lq5dEVJk"
+    },
+    {
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/6Ois0be5wOtbLrIL3Ik3iO"
       },

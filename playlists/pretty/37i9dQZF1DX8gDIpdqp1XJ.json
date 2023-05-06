@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 872095,
+  "num_followers": 872283,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDExNWY2ZWE3OWEzZjA5MzA1NWYzMzIxZmI4MzUxNTVmNjg2Mzcz",
+  "snapshot_id": "MCwyYzI2NzFjNmE4MDRjODg0ZTE0ZjA5YjQ0NzBjNmFiYWJkYThlY2E1",
   "tracks": [
     {
       "added_at": "2023-04-25 18:11:33",
@@ -29,22 +29,6 @@
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
-      "added_at": "2023-04-25 18:12:19",
-      "album": {
-        "name": "Dust Bunny",
-        "url": "https://open.spotify.com/album/0qMEPsD1rNIgtJ5dBdBtro"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Dust Bunny",
-      "url": "https://open.spotify.com/track/4QTHlDa9mWxjzBdD17XjUl"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "One Wayne G",
@@ -61,20 +45,56 @@
       "url": "https://open.spotify.com/track/7ab0dshQmFwArA3EKBOcs5"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-25 18:12:19",
       "album": {
-        "name": "Do You Love Her Now / He",
-        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+        "name": "Dust Bunny",
+        "url": "https://open.spotify.com/album/0qMEPsD1rNIgtJ5dBdBtro"
       },
       "artists": [
         {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
         }
       ],
-      "duration_ms": 268000,
-      "name": "He",
-      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
+      "duration_ms": 184506,
+      "name": "Dust Bunny",
+      "url": "https://open.spotify.com/track/4QTHlDa9mWxjzBdD17XjUl"
+    },
+    {
+      "added_at": "2023-05-05 04:09:00",
+      "album": {
+        "name": "Super Ego",
+        "url": "https://open.spotify.com/album/0bvbLTwlDDLD6N6Eh2LAtg"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 257153,
+      "name": "Super Ego",
+      "url": "https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Avalanche of Love (feat. Sampa the Great)",
+        "url": "https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep"
+      },
+      "artists": [
+        {
+          "name": "WITCH",
+          "url": "https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 235840,
+      "name": "Avalanche Of Love (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj"
     },
     {
       "added_at": "2023-04-05 13:53:02",
@@ -109,6 +129,38 @@
       "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY"
     },
     {
+      "added_at": "2023-05-05 04:09:00",
+      "album": {
+        "name": "Scattered Dreams",
+        "url": "https://open.spotify.com/album/0EcAO4yEQf6oqzNzjm75xh"
+      },
+      "artists": [
+        {
+          "name": "The Undercover Dream Lovers",
+          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
+        }
+      ],
+      "duration_ms": 234583,
+      "name": "Scattered Dreams",
+      "url": "https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "He",
+      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Lucha",
@@ -125,24 +177,20 @@
       "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
+      "added_at": "2023-05-05 04:09:00",
       "album": {
-        "name": "Minor Setback",
-        "url": "https://open.spotify.com/album/6olEZ2LGvSTZW74nhiWeFG"
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG"
       },
       "artists": [
         {
-          "name": "GUM",
-          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
-        },
-        {
-          "name": "Ambrose Kenny-Smith",
-          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
         }
       ],
-      "duration_ms": 209347,
-      "name": "Minor Setback",
-      "url": "https://open.spotify.com/track/0X20NKGsApgQ09YXfr4O4C"
+      "duration_ms": 174666,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -159,6 +207,54 @@
       "duration_ms": 147820,
       "name": "Venus",
       "url": "https://open.spotify.com/track/3Ix717qz55IpboW4fz3cyf"
+    },
+    {
+      "added_at": "2023-05-05 04:09:00",
+      "album": {
+        "name": "Portia",
+        "url": "https://open.spotify.com/album/6L2ktalG95PWiI7BpB9YcV"
+      },
+      "artists": [
+        {
+          "name": "pijama land",
+          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "Portia",
+      "url": "https://open.spotify.com/track/5BudjBzFyPFpHfgLkKqja1"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/0uXYIewphqjuLxXKCh0Ix5"
+      },
+      "artists": [
+        {
+          "name": "Moon Panda",
+          "url": "https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm"
+        }
+      ],
+      "duration_ms": 207969,
+      "name": "Starfruit",
+      "url": "https://open.spotify.com/track/143YSRMmMxsSpw2uTIQhnS"
+    },
+    {
+      "added_at": "2023-05-05 04:09:00",
+      "album": {
+        "name": "Stone Killer",
+        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
+      },
+      "artists": [
+        {
+          "name": "26fix",
+          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Stone Killer",
+      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -201,22 +297,6 @@
       "url": "https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Starfruit",
-        "url": "https://open.spotify.com/album/0uXYIewphqjuLxXKCh0Ix5"
-      },
-      "artists": [
-        {
-          "name": "Moon Panda",
-          "url": "https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm"
-        }
-      ],
-      "duration_ms": 207969,
-      "name": "Starfruit",
-      "url": "https://open.spotify.com/track/143YSRMmMxsSpw2uTIQhnS"
-    },
-    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Best Of Me",
@@ -233,6 +313,22 @@
       "url": "https://open.spotify.com/track/5mIbS6VqztXovDHi0Fx9Zj"
     },
     {
+      "added_at": "2023-05-05 04:09:00",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 287297,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Exotico",
@@ -247,6 +343,46 @@
       "duration_ms": 213053,
       "name": "Oval Stones",
       "url": "https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1"
+    },
+    {
+      "added_at": "2023-05-05 04:09:00",
+      "album": {
+        "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 184284,
+      "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Minor Setback",
+        "url": "https://open.spotify.com/album/6olEZ2LGvSTZW74nhiWeFG"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        },
+        {
+          "name": "Ambrose Kenny-Smith",
+          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+        }
+      ],
+      "duration_ms": 209347,
+      "name": "Minor Setback",
+      "url": "https://open.spotify.com/track/0X20NKGsApgQ09YXfr4O4C"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -347,6 +483,22 @@
       "duration_ms": 203380,
       "name": "Vega",
       "url": "https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6"
+    },
+    {
+      "added_at": "2023-05-05 04:09:00",
+      "album": {
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/0OteLvsgL7ZN14DLYQzBaO"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/1nGvtl731XspffVYLxrbFc"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -917,26 +1069,6 @@
       "url": "https://open.spotify.com/track/470eRO1gcvW3zVf3HMlKTQ"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Avalanche of Love (feat. Sampa the Great)",
-        "url": "https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep"
-      },
-      "artists": [
-        {
-          "name": "WITCH",
-          "url": "https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 235840,
-      "name": "Avalanche Of Love (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj"
-    },
-    {
       "added_at": "2023-03-06 15:11:21",
       "album": {
         "name": "Cicada",
@@ -951,38 +1083,6 @@
       "duration_ms": 263653,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/2UVykfcPnkjLfLQ9mSdx2A"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Being No One, Going Nowhere",
-        "url": "https://open.spotify.com/album/1FRsXJ2MoqDQ9yiR967J9z"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 276413,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Metronomy Forever",
-        "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS"
     },
     {
       "added_at": "2023-03-06 15:29:49",
@@ -1119,22 +1219,6 @@
       "duration_ms": 222573,
       "name": "Madison",
       "url": "https://open.spotify.com/track/10WDCU0ey0CJXE43aaJVcm"
-    },
-    {
-      "added_at": "2023-01-27 22:29:52",
-      "album": {
-        "name": "Smalltown Stardust",
-        "url": "https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG"
-      },
-      "artists": [
-        {
-          "name": "King Tuff",
-          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "How I Love",
-      "url": "https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8"
     },
     {
       "added_at": "2023-03-06 15:29:49",
@@ -1321,22 +1405,6 @@
       "url": "https://open.spotify.com/track/63FnpR9gIfFkpGMK2v6DAl"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Soul Smile",
-        "url": "https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Soul Smile",
-      "url": "https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk"
-    },
-    {
       "added_at": "2023-03-06 15:29:49",
       "album": {
         "name": "Wet Cement",
@@ -1405,38 +1473,6 @@
       "url": "https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U"
     },
     {
-      "added_at": "2023-01-27 22:29:52",
-      "album": {
-        "name": "SUNNY AFTERNOON",
-        "url": "https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y"
-      },
-      "artists": [
-        {
-          "name": "\u96f2\u7aef\u53f8\u6a5f CLOUDRIVER",
-          "url": "https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "SUNNY AFTERNOON",
-      "url": "https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 229595,
-      "name": "America's Cup",
-      "url": "https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz"
-    },
-    {
       "added_at": "2023-03-06 15:29:49",
       "album": {
         "name": "SYT",
@@ -1483,22 +1519,6 @@
       "duration_ms": 63214,
       "name": "cloud castle",
       "url": "https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ"
-    },
-    {
-      "added_at": "2022-12-16 05:09:00",
-      "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/7Bb3Lsa7er4R6dd2Sc3Faq"
-      },
-      "artists": [
-        {
-          "name": "Matty",
-          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
-        }
-      ],
-      "duration_ms": 206262,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/2Eorr3n0J3KFbhlhkToqPb"
     },
     {
       "added_at": "2023-03-06 15:29:49",
@@ -1551,22 +1571,6 @@
       "duration_ms": 171542,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/6Sa70vxAcc5pVRZ6gGf2x6"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Unfold",
-        "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 90127,
-      "name": "Unfold",
-      "url": "https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph"
     },
     {
       "added_at": "2023-03-10 05:00:00",

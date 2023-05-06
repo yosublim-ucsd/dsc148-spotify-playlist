@@ -1,13 +1,121 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: VEXED",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: 3Teeth",
   "num_followers": 7752,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjY0OSwxYTAxODE4NTUwODJmZTM4MWM4YmE3ODE4M2U4NGM1MTk2MzAwMTY1",
+  "snapshot_id": "MjY1OSw3MDVjM2Q2MzY3NGE5NDkxZTMwMDk4MjBmNTFiOGZhMGZiZDA0MzVi",
   "tracks": [
+    {
+      "added_at": "2023-05-05 20:04:35",
+      "album": {
+        "name": "Merchant of the Void",
+        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
+      },
+      "artists": [
+        {
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 212814,
+      "name": "Merchant of the Void",
+      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
+    },
+    {
+      "added_at": "2023-05-05 20:04:28",
+      "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "added_at": "2023-05-05 20:04:42",
+      "album": {
+        "name": "Moss Covered Bones on the Altar of the Moon",
+        "url": "https://open.spotify.com/album/3roLrZFABeRPIVKWvntYZU"
+      },
+      "artists": [
+        {
+          "name": "Blackbraid",
+          "url": "https://open.spotify.com/artist/47nBZhrImXWXTWVSWt09MY"
+        }
+      ],
+      "duration_ms": 810250,
+      "name": "Moss Covered Bones on the Altar of the Moon",
+      "url": "https://open.spotify.com/track/0De00dygLOh4RPiHiUxxXX"
+    },
+    {
+      "added_at": "2023-05-05 20:04:51",
+      "album": {
+        "name": "You Are the Beginning",
+        "url": "https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG"
+      },
+      "artists": [
+        {
+          "name": "Boris",
+          "url": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+        },
+        {
+          "name": "Uniform",
+          "url": "https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF"
+        }
+      ],
+      "duration_ms": 224439,
+      "name": "You Are the Beginning",
+      "url": "https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X"
+    },
+    {
+      "added_at": "2023-05-05 20:05:01",
+      "album": {
+        "name": "Artificial Anatomy",
+        "url": "https://open.spotify.com/album/1lbdiiIaSeYY6uS1LtSeyD"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        },
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 230614,
+      "name": "Artificial Anatomy",
+      "url": "https://open.spotify.com/track/44kqDJc7BNWH1zGDwN8egF"
+    },
+    {
+      "added_at": "2023-05-05 20:05:07",
+      "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi"
+    },
     {
       "added_at": "2023-04-28 19:49:57",
       "album": {

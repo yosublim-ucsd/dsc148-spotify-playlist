@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover <a href="https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO">Walter Chilambo</a>
 
-81 songs - 8 hr 14 min
+82 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Nitumie](https://open.spotify.com/track/5mApIp6LxaHq9htEK9g7KV) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/3OVn1ruXhSCBtQNjpgVHCL) | 3:56 | 2022-06-24 | 2022-08-13 |
 | [Niumbie Moyo Safi](https://open.spotify.com/track/43Bg1g38MwANRmhK8leUSq) | [Pastor Anthony Musembi](https://open.spotify.com/artist/5lkExVL0geY5mktCw5h69O) | [Ahadi Za Bwana](https://open.spotify.com/album/4aw7CJ3tySMMSWXWZOd5h7) | 7:47 | 2022-06-24 |  |
 | [Niwe Ngwenda](https://open.spotify.com/track/57chzVhBuTUqixdfALG5ft) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 5:20 | 2022-06-24 | 2023-05-05 |
+| [Nothing](https://open.spotify.com/track/1cXe35isIgaErKaSyi1nP3) | [Nahash Mwathi](https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1), [Jackson Saya](https://open.spotify.com/artist/7EFTCBaclOkenIPumLmGyn) | [Nothing](https://open.spotify.com/album/4Hl2UURqrZ88wlOolmc7Mv) | 4:31 | 2023-05-05 |  |
 | [Patakatifu Pako](https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:03 | 2022-06-24 |  |
 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 | 2023-04-21 |  |
 | [Rohoni Na Mwilini](https://open.spotify.com/track/3cAQfJwO74Hi99h8Lsw6CF) | [Bale John](https://open.spotify.com/artist/6Zm45YPCRDAbBGVdbDuYn6) | [Utukufu](https://open.spotify.com/album/7i58BRlxIRqKipoGXudPUc) | 5:49 | 2022-06-24 | 2023-04-15 |

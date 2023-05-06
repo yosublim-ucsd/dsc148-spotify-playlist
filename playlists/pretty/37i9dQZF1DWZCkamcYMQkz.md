@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,798 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,966 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 |
 | 100 | [Ramblin'](https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Ramblin'](https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs) | 4:58 |
 
-Snapshot ID: `MCwxMjFiYTFjYzliZGMzNTEzMGI3YWRkMDJiNWJlZjNlNGMwYTZkZThk`
+Snapshot ID: `MCw1OTM4ZWNjNjcwYmY0OTVlZmI0NTU0YzcyNDFlNTAwN2JiYzE3YjQ3`

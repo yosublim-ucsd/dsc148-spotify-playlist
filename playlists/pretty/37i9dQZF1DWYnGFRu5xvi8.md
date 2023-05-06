@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,373 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,405 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [UTAKATA](https://open.spotify.com/track/6KBhmo3rW6tgIpKanqFpYw) | [Takeharu Ishimoto](https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9) | [FINAL FANTASY Type\-0 HD Original Soundtrack](https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa) | 6:22 |
 | 100 | [「Battle at the Big Bridge \- arrange \-」 from FINAL FANTASY V](https://open.spotify.com/track/4mhti55dmnpfcWliFxwyOV) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:29 |
 
-Snapshot ID: `MCw1NzNhNTIzOGRjNDU3OGZkZjZkNzA0ZWExMmJmNjA0NmMzMTYzNGM0`
+Snapshot ID: `MCxjMDIxMzgzMTVkMjM1YjFiZDRiY2I1NmI2NDJmMWRhMTMzYWQyM2Zk`

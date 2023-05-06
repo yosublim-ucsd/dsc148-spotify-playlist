@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 夏川椎菜 \(Shiina Natsukawa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,093 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,098 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [LOVE CRAZY](https://open.spotify.com/track/4RjxJlyjU6cMrv4dJH5XtP) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [LOVE CRAZY](https://open.spotify.com/album/59K14Vh4mIaPjRHsCuP9B8) | 4:04 |
 | 50 | [New Drama Paradise](https://open.spotify.com/track/6Ty1IRc5sun7YQMUqXealq) | [Jun Fukuyama](https://open.spotify.com/artist/3bC4NPA8Vfw2FXjiuY8Tzx) | [New Drama Paradise](https://open.spotify.com/album/3H5VIFVEyDBmfPLe9aKzlq) | 4:09 |
 
-Snapshot ID: `MCxmMmY2ZGJlMjExZWJkMjAwZmRkMTlmMDc2MjFjZTk1YmJiNzBkYTA3`
+Snapshot ID: `MCxhNmFjMjU2MDNhNWY4MjM1Y2VjYWU4YjJhNjFiMWIyMjYzOWViYWZl`

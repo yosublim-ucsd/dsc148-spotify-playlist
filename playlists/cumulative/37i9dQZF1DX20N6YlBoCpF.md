@@ -4,7 +4,7 @@
 
 > Net die nuutste in Afrikaanse musiek\. Cover: <a href="http://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS">Die Piesangskille</a>
 
-329 songs - 18 hr 36 min
+330 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [December \- Radio Edit](https://open.spotify.com/track/4GjQQH4S0Zk1AxixUYaGhf) | [Tizel](https://open.spotify.com/artist/5GxWSg5bans5XQW52qCqSn) | [December](https://open.spotify.com/album/79wXpGDlUEWsTpMsILSGcP) | 2:51 | 2022-12-08 | 2023-01-13 |
 | [Die Breils](https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Die Breils](https://open.spotify.com/album/5TW1O0JwrQHoEm99vysUjQ) | 3:03 | 2022-09-15 | 2022-10-04 |
 | [Die Dansvloer](https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy) | [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Die Dansvloer](https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx) | 3:04 | 2023-02-02 | 2023-03-31 |
-| [Die Een](https://open.spotify.com/track/6M8I6dVjwXVdzJaQ3TjBh8) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Die Een](https://open.spotify.com/album/4WiSBEWYEPsJgTyM793XTA) | 3:44 | 2023-04-06 |  |
+| [Die Een](https://open.spotify.com/track/6M8I6dVjwXVdzJaQ3TjBh8) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Die Een](https://open.spotify.com/album/4WiSBEWYEPsJgTyM793XTA) | 3:44 | 2023-04-06 | 2023-05-06 |
 | [Die Laaste Keer](https://open.spotify.com/track/4igd3gDKp4OGAi9C2W4ovN) | [Giselle](https://open.spotify.com/artist/3q6m6kxjSndfgNlbd315ur) | [Die Laaste Keer](https://open.spotify.com/album/4xAsnq7uFDOQrlt2MXYuk2) | 3:21 | 2023-03-30 | 2023-04-14 |
 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 | 2023-04-06 | 2023-04-14 |
 | [Die Lig](https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Die Lig](https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb) | 2:25 | 2023-05-04 |  |
@@ -232,6 +232,7 @@
 | [Opstaan](https://open.spotify.com/track/1n27zP11I3ZAq1ElZYEPtO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Opstaan](https://open.spotify.com/album/24rkKZ0UUz70PKK0tHvFsu) | 3:32 | 2023-03-09 | 2023-04-07 |
 | [Ou Kraalliedjie](https://open.spotify.com/track/3uyiLQ7snZ6Njes5kNyyrD) | [Ouderdoos](https://open.spotify.com/artist/3YtJ7CNA0rbetvlXmJtVwT) | [Ou Kraalliedjie](https://open.spotify.com/album/5QyOwNGK6bqpgIqb1geH8q) | 2:33 | 2022-10-13 | 2022-10-28 |
 | [Pappa Probleme](https://open.spotify.com/track/0PJnQ3CdbPnj10s2rZ4R7a) | [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Pappa Probleme](https://open.spotify.com/album/71BVMI1S1hWI3EjK47kTmu) | 3:34 | 2022-12-27 | 2023-01-02 |
+| [Partykiehonde](https://open.spotify.com/track/5GZJ8J9tBVTT6HArRAwK6V) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Partykiehonde](https://open.spotify.com/album/3ggZuVpYhIaycDqIRaIv2U) | 2:40 | 2023-05-05 |  |
 | [Partytjie Slaap Herhaal](https://open.spotify.com/track/5G9Gg9JtFDbbCUSjw1y3b0) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Partytjie Slaap Herhaal](https://open.spotify.com/album/0HSsTlnjrsWTpemTJWWwhZ) | 3:20 | 2023-03-30 |  |
 | [Plaashond](https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Plaashond](https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn) | 2:45 | 2022-12-08 | 2023-04-21 |
 | [Plaaslewe](https://open.spotify.com/track/45dV2UvbpsG4pvWqzNLHOL) | [Anlia Star](https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm) | [Plaaslewe](https://open.spotify.com/album/6TO27C8sqynfu2ymExD6Kf) | 3:03 | 2022-10-13 | 2022-12-09 |

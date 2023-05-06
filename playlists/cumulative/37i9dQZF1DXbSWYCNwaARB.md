@@ -2,7 +2,7 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: MINNIE\(민니\)
+> Happy Children's Day! Guess who?
 
 357 songs - 19 hr 11 min
 

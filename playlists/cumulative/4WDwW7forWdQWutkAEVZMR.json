@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Diplo, Labrinth &amp; more!",
+  "description": "Your go-to playlist for this week's hottest music featuring Harry Styles, Diplo &amp; more!",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -754,6 +754,24 @@
       "duration_ms": 211890,
       "name": "Blick You Up",
       "url": "https://open.spotify.com/track/6vjDlfFHBenXOcGQKuPfJI"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6ZMIZreIWeHckTNxwjQfrY"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3c2RqYECM2CaNvFwo8COxs"
     },
     {
       "album": {
@@ -2316,7 +2334,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 178819,
       "name": "Everybody Needs Someone (feat. Vance Joy)",
       "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
@@ -2757,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "Ghosts Again (Remixes)",
+        "url": "https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402818,
+      "name": "Ghosts Again - Massano Remix",
+      "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
+    },
+    {
+      "album": {
         "name": "Girl in the Mirror",
         "url": "https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J"
       },
@@ -2768,7 +2808,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 165099,
       "name": "Girl in the Mirror",
       "url": "https://open.spotify.com/track/0qwSPLH0QyaMZlmJtsxNZ5"
@@ -3004,7 +3044,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 190434,
       "name": "Highlight Reel",
       "url": "https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7"
@@ -3290,7 +3330,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 224196,
       "name": "I Hate Texas",
       "url": "https://open.spotify.com/track/6XLuWhRnXFxk6YXaEB0z75"
@@ -3439,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "I'll Be (from the Motion Picture Soundtrack Love Again)",
+        "url": "https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/7DtlKJZoks3dmk6RXDM0yG"
+    },
+    {
+      "album": {
         "name": "I'm Not Pretty",
         "url": "https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW"
       },
@@ -3472,6 +3530,24 @@
       "duration_ms": 147049,
       "name": "Icy Asab",
       "url": "https://open.spotify.com/track/3m2tEUipLI9rr91PS78Grk"
+    },
+    {
+      "album": {
+        "name": "If I Die Young Pt. 2",
+        "url": "https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Perry",
+          "url": "https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203765,
+      "name": "If I Die Young Pt. 2",
+      "url": "https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v"
     },
     {
       "album": {
@@ -4137,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
@@ -4434,7 +4528,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -4464,6 +4558,32 @@
       "duration_ms": 217734,
       "name": "Miracle (with Ellie Goulding) - Mau P Remix",
       "url": "https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR"
+    },
+    {
+      "album": {
+        "name": "Miracle (with Ellie Goulding) [Wilkinson Remix]",
+        "url": "https://open.spotify.com/album/3i44k9VMSlIAYBsjmKXY5b"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Miracle (with Ellie Goulding) - Wilkinson Remix",
+      "url": "https://open.spotify.com/track/3oDPPeiIZGcIKwg4e5joV0"
     },
     {
       "album": {
@@ -5663,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "album": {
         "name": "say u don't love me anymore",
         "url": "https://open.spotify.com/album/5L4i7ud5dg22pnFezCpcq5"
       },
@@ -5984,6 +6122,24 @@
       "duration_ms": 154902,
       "name": "Something Different - lofi remix",
       "url": "https://open.spotify.com/track/58PLzRUABG9skJIKreuVdX"
+    },
+    {
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
     },
     {
       "album": {
@@ -6629,6 +6785,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153296,
+      "name": "Traitor Joe",
+      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
+    },
+    {
+      "album": {
         "name": "Traketeando (En Vivo)",
         "url": "https://open.spotify.com/album/2L0MqXft3PsJGmM8kuOrTL"
       },
@@ -6832,7 +7006,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 243866,
       "name": "UNDERSTAND (feat. Baby Rose)",
       "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"

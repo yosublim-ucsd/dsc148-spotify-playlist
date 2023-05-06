@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 165857,
       "name": "Lucent",
       "url": "https://open.spotify.com/track/5rcisQspBrRUatImhKik05"
@@ -3292,7 +3292,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 219000,
       "name": "Mind Storm",
       "url": "https://open.spotify.com/track/5kVu56keqlvhaeTbpaKKLM"
@@ -4829,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/1pgpTTjwE9HEdkK9RYQ2VG"
+      },
+      "artists": [
+        {
+          "name": "Sleep Cyclone",
+          "url": "https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/1aZQokBzBRVdm8d24yPi8P"
+    },
+    {
+      "album": {
         "name": "Spiritus",
         "url": "https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm"
       },
@@ -4876,7 +4894,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 205500,
       "name": "Stelle Cadenti",
       "url": "https://open.spotify.com/track/2pG52ugtKo9cMmlRlaMkdu"

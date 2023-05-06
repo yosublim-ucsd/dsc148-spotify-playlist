@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 246600,
       "name": "1000CANCIONES",
       "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "EL FAVORITO DE LAS NENAS",
+        "url": "https://open.spotify.com/album/6xkhGbgMC7zouP3ofEbV7S"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130741,
+      "name": "305",
+      "url": "https://open.spotify.com/track/4bIzQDCQH9g7h2GPWsWFoP"
+    },
+    {
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/099aqmdNJtkqChYPGWShV3"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 259375,
       "name": "Adictivo",
       "url": "https://open.spotify.com/track/5UEjM0Fh4pR0k7GB8NiWbP"
@@ -374,7 +392,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 208734,
       "name": "Ande Con Quien Ande",
       "url": "https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 165170,
       "name": "Borrachita",
       "url": "https://open.spotify.com/track/5DkDBumb9ccm0T3pTDLspa"
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 199546,
       "name": "Chakalicious",
       "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 287906,
       "name": "Despu\u00e9s de las 12 - Remix",
       "url": "https://open.spotify.com/track/5OrjaJWlswDGCqxWj9lxj0"
@@ -2238,6 +2256,28 @@
       "duration_ms": 170396,
       "name": "El Que Espera",
       "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
+    },
+    {
+      "album": {
+        "name": "EL TONTO",
+        "url": "https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188087,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z"
     },
     {
       "album": {
@@ -3500,7 +3540,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 158297,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ"
@@ -4410,7 +4450,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 199304,
       "name": "LOS POBRES Y LOS RICOS",
       "url": "https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF"
@@ -4450,6 +4490,28 @@
       "duration_ms": 180000,
       "name": "Maki",
       "url": "https://open.spotify.com/track/5HpD4DWQegIhaZlMCBTTEV"
+    },
+    {
+      "album": {
+        "name": "Maldades",
+        "url": "https://open.spotify.com/album/7uJRnxKIlIfh29O7EGCVkX"
+      },
+      "artists": [
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Maldades",
+      "url": "https://open.spotify.com/track/6C8XeTHHVoqNEgg20x4J1t"
     },
     {
       "album": {
@@ -4662,7 +4724,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 137931,
       "name": "Marquesina - Spotify Singles",
       "url": "https://open.spotify.com/track/7BHXZzga7nV1LuTyn1PF2q"
@@ -4776,7 +4838,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 192321,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2OrgdmsWkqPiC4MNDnPHx0"
@@ -4914,6 +4976,32 @@
       "duration_ms": 332608,
       "name": "Medio Crazy Remix",
       "url": "https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Yo",
+        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242696,
+      "name": "Mejor Que Yo",
+      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
     },
     {
       "album": {
@@ -5768,7 +5856,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 277217,
       "name": "On Fleek",
       "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
@@ -6709,6 +6797,28 @@
     },
     {
       "album": {
+        "name": "Sabes",
+        "url": "https://open.spotify.com/album/3Ntn7x1ExfBPzgtBEEQWPB"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Karely Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0gADqrzsPZ7MgRsyvToWuC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222068,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/24lfgBbcrVKe3njykuW89K"
+    },
+    {
+      "album": {
         "name": "Sal y Perrea (Remix)",
         "url": "https://open.spotify.com/album/6HemabiQkjzBGrAIr8ynE4"
       },
@@ -7274,7 +7384,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 189000,
       "name": "Solo $exo",
       "url": "https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv"
@@ -7732,7 +7842,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 254457,
       "name": "TORO",
       "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
@@ -7992,7 +8102,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 233619,
       "name": "T\u00f3cate (feat. Jory Boy)",
       "url": "https://open.spotify.com/track/14W16NqK7cTH8JnoBTbjTb"
@@ -8096,6 +8206,24 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,466 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,591 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Balloons](https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Froozen / Balloons](https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT) | 3:54 |
 | 60 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
 
-Snapshot ID: `MCw0YTQ0Yzk1ZDM2MjZlMjdmMGQyNjc2YTJhOTUxZjMwNDIxZmFkMTcz`
+Snapshot ID: `MCxhNDc1YWRiMTE3ZWU4OThhYjFiNjQwOTQ5ZjAyYzljMGM5YTU5MTg5`

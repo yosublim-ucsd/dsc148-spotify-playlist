@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,133 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,243 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 99 | [Tonight May Have To Last Me All My Life \- Remastered](https://open.spotify.com/track/2IcRKEB63dQD9YnWso8Ogu) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Today, Tomorrow, Forever](https://open.spotify.com/album/1fpdirgt7TaIZZa8tH0fRv) | 2:53 |
 | 100 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1706f2W2p6OpGj3n6WVGJR) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Clap Hands, Here Comes Charlie! \(Expanded Edition\)](https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR) | 6:17 |
 
-Snapshot ID: `MCxhNGM2MWVjNTVjMDBjNTk0OGFlMTJjYzdlOGUxY2U4ZWE0YmJlYTY2`
+Snapshot ID: `MCxlMzc5MTdmOWUyMTg0YjA4MTI3OGQ5MDJjYmNlNWYzNDRkMjFlZTVi`

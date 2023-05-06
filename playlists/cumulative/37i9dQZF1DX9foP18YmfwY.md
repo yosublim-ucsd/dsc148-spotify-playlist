@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Flavio Vitor Jr.
 
-99 songs - 7 hr 50 min
+100 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Coração de Transgressor](https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Coração de Transgressor](https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H) | 4:10 | 2023-01-13 |  |
 | [Cuida do Meu Coração](https://open.spotify.com/track/2C0L1K3QrVbEtBEvqemZj5) | [Frei Renan Barros](https://open.spotify.com/artist/0NYUy1sa7s24kSilPqv5Lj), [Padre Antônio Maria](https://open.spotify.com/artist/5fffowYi9eGg1NsC89N4D1) | [Cuida do Meu Coração](https://open.spotify.com/album/1TfXGA6U3oMPo7cQUwPApS) | 4:29 | 2023-01-13 | 2023-02-25 |
 | [Decididamente](https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8) | [Cassiano Menke](https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1), [Walmir Alencar](https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN) | [Decididamente](https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN) | 4:18 | 2022-09-02 |  |
+| [Deus te salve Maria](https://open.spotify.com/track/4vwrcMO6M6Gjf1EZHtFyu8) | [Cristóbal Fones, Sj](https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk), [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Verónica Sanfilippo](https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf) | [Deus te salve Maria](https://open.spotify.com/album/5AM8zEdKhK1U2L2YPNOD90) | 5:17 | 2023-05-05 |  |
 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 | 2022-09-02 |  |
 | [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 | 2022-09-02 |  |
 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 | 2022-09-02 |  |
@@ -60,7 +61,7 @@
 | [Maria Passa à Frente \(feat\. Gusttavo Lima\)](https://open.spotify.com/track/1iLunZvT65nyHSRNPNii8H) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Maria Passa à Frente \(feat\. Gusttavo Lima\)](https://open.spotify.com/album/7KR81hHAFjA5SpC2JjVP4k) | 4:44 | 2022-09-02 |  |
 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi) | 4:45 | 2022-11-25 |  |
 | [Me Aceita de Volta](https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim 9](https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU) | 10:36 | 2022-09-02 |  |
-| [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr) | [Celina Borges](https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n) | [Top 10 Celina Borges](https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp) | 4:13 | 2022-09-02 |  |
+| [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr) | [Celina Borges](https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n) | [Top 10 Celina Borges](https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp) | 4:13 | 2022-09-02 | 2023-05-06 |
 | [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/track/6VFM6XUg0rUGUNhMyQYSuL) | [Celina Borges](https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n) | [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/album/6eO1dMo1F82Nky8dh0IbXP) | 4:13 | 2022-10-14 | 2022-11-13 |
 | [Meu Mundo](https://open.spotify.com/track/712wkFgYgi6i6xJfFtBoNL) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Meu Acampamento](https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm) | 5:56 | 2022-09-02 | 2023-02-25 |
 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 | 2022-09-02 |  |

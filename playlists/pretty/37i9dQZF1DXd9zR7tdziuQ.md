@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,260 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,550 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [Why Georgia \- RAWsession](https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [RAWsession \- 5.25.10](https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP) | 4:26 |
 | 150 | [Chained To The Rhythm](https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Chained To The Rhythm](https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9) | 3:23 |
 
-Snapshot ID: `MCw0MDVhYjE2MDZiZWViMTliNWFkNjc3OThhNDZhMjMyM2RhYmUxMzRi`
+Snapshot ID: `MCwxYTE1NjUyOGI5YTljZTkxZjliNTM3YzkzMDA2MTNlZDQxYjA3ZmY3`

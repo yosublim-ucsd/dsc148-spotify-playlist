@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-339 songs - 17 hr 4 min
+341 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Harmony](https://open.spotify.com/track/1QOjjaBWJzxd4KLzVkGnL2) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Harmony](https://open.spotify.com/album/75rmL6hmaHE2mbXAo1gs7C) | 2:39 | 2022-07-05 | 2022-07-29 |
 | [Harvest](https://open.spotify.com/track/7AlHOgQGvfVRiXMY64pOyn) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Harvest](https://open.spotify.com/album/25LBaQA9rUHkIDoVQK3wje) | 2:42 | 2022-07-05 |  |
 | [Heavenly](https://open.spotify.com/track/1uSaD0JKNb5o8Wv29zULwf) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Heavenly](https://open.spotify.com/album/1OfpLyQAAWuGKDF4DPbzOu) | 2:59 | 2022-07-05 | 2023-03-04 |
+| [Heavy Cloud](https://open.spotify.com/track/3PnhtonoNabJjbuTxFqT2Z) | [Warren Blues](https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU) | [The East Wind](https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW) | 3:42 | 2023-05-05 |  |
 | [Hemisphere](https://open.spotify.com/track/7IPMzEuY6Ep2rHIAEjPwd4) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Enigma](https://open.spotify.com/album/4Uomo41pftRsm71w7sjZZl) | 2:20 | 2022-07-05 |  |
 | [Hibernation](https://open.spotify.com/track/08cYhEudp0NNtusT6L68L9) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hibernation](https://open.spotify.com/album/4zADMfXBNB7v5c1k7jK8Lt) | 2:49 | 2022-07-05 |  |
 | [Hibernation](https://open.spotify.com/track/2bfSPPsGKCY3fVGQ6JbsMj) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hibernation](https://open.spotify.com/album/0SBxOPdlfYGOw59NkKJFaR) | 2:49 | 2022-07-05 | 2022-07-29 |
@@ -257,6 +258,7 @@
 | [Sandhya](https://open.spotify.com/track/0oWESCZ7b4nD5TGa41pUPd) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Sandhya](https://open.spotify.com/album/7N1HU2pKBo1S678UVjqKUs) | 2:26 | 2023-02-09 |  |
 | [Satin](https://open.spotify.com/track/6Oi0X7GXhInlEgJC5FIZKQ) | [L’avendine](https://open.spotify.com/artist/2kid9kBSigLwz9xKNfWBGG) | [Satin](https://open.spotify.com/album/2FXzWeH11oyMWqOz9OH6NA) | 2:31 | 2022-07-05 |  |
 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2022-07-05 | 2023-03-10 |
+| [Sclavia](https://open.spotify.com/track/1EWbhAgdQNwYau5DvgdEtW) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Ur](https://open.spotify.com/album/71bc7U2CxvmTDrTKmD4C52) | 3:13 | 2023-05-05 |  |
 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 | 2022-07-05 |  |
 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 | 2022-07-05 |  |
 | [Serenity](https://open.spotify.com/track/17ykhlwAATA3wfILTMzWdI) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 | 2022-07-05 | 2023-02-04 |

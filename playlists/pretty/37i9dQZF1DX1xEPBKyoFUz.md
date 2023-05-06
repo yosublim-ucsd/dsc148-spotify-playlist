@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Who needs heroes when you have thieves? Co\-curated by the cast of D&D: Honor Among Thieves \(Michelle Rodriguez, Regé\-Jean Page, Justice Smith, and Sophia Lillis\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,845 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,915 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 49 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 |
 | 50 | [Roll The Dice](https://open.spotify.com/track/0BhLfxWA4TwGu8bGVKBotN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Feel Again, Pt\. 2](https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q) | 2:35 |
 
-Snapshot ID: `MCw0NTZmYjIyNmIyYzY0OGJkZWZiNjlhYzQ0MzBhOTJmYjYwNjZjOTBm`
+Snapshot ID: `MCxmZDVmNGJkZjI3NDM2YmJkMjFmMjNlNDViMjE1NmFiOTdhYTMzZTU3`

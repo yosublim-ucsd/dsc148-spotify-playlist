@@ -854,7 +854,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
@@ -5412,10 +5412,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7"
+    },
+    {
+      "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
     },
     {
       "album": {
@@ -7980,6 +8002,24 @@
       "duration_ms": 176669,
       "name": "Te Pido",
       "url": "https://open.spotify.com/track/17aiyNeLuMT3a88sr4Bsmt"
+    },
+    {
+      "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242445,
+      "name": "Te Queria",
+      "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
     },
     {
       "album": {

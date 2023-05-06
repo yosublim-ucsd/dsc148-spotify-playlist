@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,969 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,038 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [Too Late Now](https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 5:09 |
 | 100 | [Nature Boy](https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Nature Boy](https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555) | 4:35 |
 
-Snapshot ID: `MCxkMmEwOGZkYzdjZThhNzcxZDVkYTNmMWNhM2IxYTdmNGE0YWM2ZmJl`
+Snapshot ID: `MCxiZTc1N2YxNzM5ODZlN2I3Mjg1ODU1MzQyYzBkMTdlZDM5ZjQ5NjFh`

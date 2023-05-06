@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Armaan Malik, Mithoon",
+  "description": "New music from popular Hindi artists. Cover- Shaan",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -152,7 +152,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 213052,
       "name": "Aaj Kal",
       "url": "https://open.spotify.com/track/2kdomqzVkUfjIMURSnqByy"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180512,
       "name": "baahon mein",
       "url": "https://open.spotify.com/track/6CH7FkFlviqrLbi1QzLSuo"
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 183225,
       "name": "Choo Liya",
       "url": "https://open.spotify.com/track/3CCKZEmtnCCbq2jrEihxgr"
@@ -2887,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "Duniya Soye",
+        "url": "https://open.spotify.com/album/0PZdThdF1Q2oc96OV9DfOG"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178101,
+      "name": "Duniya Soye",
+      "url": "https://open.spotify.com/track/1n5cRal8X3QchwX5bgC0mA"
+    },
+    {
+      "album": {
         "name": "Duur",
         "url": "https://open.spotify.com/album/7umyKBGexCa1DL6rfp4FmA"
       },
@@ -3214,7 +3232,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 97714,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/1tefPKKBRhj1FkCqiojNrL"
@@ -3330,6 +3348,32 @@
       "duration_ms": 335552,
       "name": "Gustakhiyan",
       "url": "https://open.spotify.com/track/4gEphnv9fxhX4O0U6QkS0E"
+    },
+    {
+      "album": {
+        "name": "Guzra Zamana",
+        "url": "https://open.spotify.com/album/2Y2dtaFZhsWPE9addFIluh"
+      },
+      "artists": [
+        {
+          "name": "Ananya Sankhe",
+          "url": "https://open.spotify.com/artist/02ZbcYVBLp0hMaIe9Lvgo0"
+        },
+        {
+          "name": "Haricharan Seshadri",
+          "url": "https://open.spotify.com/artist/7Brssjm1jl5H8B4WBdqRGI"
+        },
+        {
+          "name": "Goutham Vincent",
+          "url": "https://open.spotify.com/artist/44AI6q02YIJMvtzmgFetaV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277073,
+      "name": "Guzra Zamana",
+      "url": "https://open.spotify.com/track/4e4RWg2J1lC4vatSrxet0W"
     },
     {
       "album": {
@@ -5803,6 +5847,28 @@
     },
     {
       "album": {
+        "name": "Maaf",
+        "url": "https://open.spotify.com/album/2zUhLtlMX4Im2mhSTG5a3I"
+      },
+      "artists": [
+        {
+          "name": "Katoptris",
+          "url": "https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Maaf",
+      "url": "https://open.spotify.com/track/6TBlNhVK6NH2Ooo8O3vAgZ"
+    },
+    {
+      "album": {
         "name": "MAAHII",
         "url": "https://open.spotify.com/album/7HgY547mEfrGWnss57iFA9"
       },
@@ -7115,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/2YCPEkKWD3fG1YzbVoaopD"
+      },
+      "artists": [
+        {
+          "name": "Munawar Faruqui",
+          "url": "https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173999,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/5rvRDpNEHEeWWS7CScX6oo"
+    },
+    {
+      "album": {
         "name": "O Sanam",
         "url": "https://open.spotify.com/album/7mKLdhcfnDbk8D0G2RfECd"
       },
@@ -7552,7 +7636,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 183272,
       "name": "Perfy",
       "url": "https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs"
@@ -7688,6 +7772,24 @@
       "duration_ms": 211404,
       "name": "Princesses Don't Cry",
       "url": "https://open.spotify.com/track/28StTLQ66SXWdzvxGRJLX0"
+    },
+    {
+      "album": {
+        "name": "Pyaar To Bas Pyaar Hai",
+        "url": "https://open.spotify.com/album/6uHbPxhi9ZzKlcgs368n9S"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Pyaar To Bas Pyaar Hai",
+      "url": "https://open.spotify.com/track/1SEJXJfGgICROKUvbY7TPP"
     },
     {
       "album": {
@@ -8711,6 +8813,24 @@
     },
     {
       "album": {
+        "name": "Sun Le Naa",
+        "url": "https://open.spotify.com/album/0l2tzfpp9aqcAh7wjovKzZ"
+      },
+      "artists": [
+        {
+          "name": "WORMONO",
+          "url": "https://open.spotify.com/artist/5osbiefpwljgv3pRQNmbFO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153875,
+      "name": "Sun Le Naa",
+      "url": "https://open.spotify.com/track/5mIlo9iKr6fuDJvkg267tO"
+    },
+    {
+      "album": {
         "name": "Sun Maahi",
         "url": "https://open.spotify.com/album/4EoDmQSqtj9lJKUu8vjKbR"
       },
@@ -8945,6 +9065,28 @@
     },
     {
       "album": {
+        "name": "Tera Mera Milna (From \"Jannatein\")",
+        "url": "https://open.spotify.com/album/1vsPdkKUvwpw23PYJ9nV1X"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201617,
+      "name": "Tera Mera Milna - From \"Jannatein\"",
+      "url": "https://open.spotify.com/track/1BgUi5DRGzl8PGwwU011h8"
+    },
+    {
+      "album": {
         "name": "Tera Nishaan",
         "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
       },
@@ -9040,7 +9182,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 223888,
       "name": "Tere Baare Mein",
       "url": "https://open.spotify.com/track/5FIZkWhzIHzgzF6TMFDRNV"
@@ -9654,7 +9796,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 295514,
       "name": "Tu Jo Nahi Hai Yaha",
       "url": "https://open.spotify.com/track/79ImlhdjzPSbXdESIw138Z"

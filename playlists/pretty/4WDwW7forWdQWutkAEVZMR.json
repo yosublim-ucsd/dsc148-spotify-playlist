@@ -1,15 +1,171 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Diplo, Labrinth &amp; more!",
+  "description": "Your go-to playlist for this week's hottest music featuring Harry Styles, Diplo &amp; more!",
   "num_followers": 8378,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjE0MSwzZGJiN2FmNzZlY2QwMjI5ZTBkODAyYWRkMmJiMzc4MDRmYjUyZmIw",
+  "snapshot_id": "NjE0NSw2ZWI2NDAyMTQyYmVhYjBkNzJiOTRjYTZmYTI5YTkzNjQ3Nzc4ZmE3",
   "tracks": [
     {
-      "added_at": "2023-04-28 17:45:10",
+      "added_at": "2023-05-05 04:28:22",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "added_at": "2023-05-05 04:28:22",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 153296,
+      "name": "Traitor Joe",
+      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
+    },
+    {
+      "added_at": "2023-05-05 04:28:22",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+    },
+    {
+      "added_at": "2023-05-05 04:28:22",
+      "album": {
+        "name": "I'll Be (from the Motion Picture Soundtrack Love Again)",
+        "url": "https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/7DtlKJZoks3dmk6RXDM0yG"
+    },
+    {
+      "added_at": "2023-05-05 04:28:22",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6ZMIZreIWeHckTNxwjQfrY"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3c2RqYECM2CaNvFwo8COxs"
+    },
+    {
+      "added_at": "2023-05-05 04:28:22",
+      "album": {
+        "name": "If I Die Young Pt. 2",
+        "url": "https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Perry",
+          "url": "https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2"
+        }
+      ],
+      "duration_ms": 203765,
+      "name": "If I Die Young Pt. 2",
+      "url": "https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v"
+    },
+    {
+      "added_at": "2023-05-05 04:28:22",
+      "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "added_at": "2023-05-05 04:28:22",
+      "album": {
+        "name": "Ghosts Again (Remixes)",
+        "url": "https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 402818,
+      "name": "Ghosts Again - Massano Remix",
+      "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
+    },
+    {
+      "added_at": "2023-05-05 04:28:22",
+      "album": {
+        "name": "Miracle (with Ellie Goulding) [Wilkinson Remix]",
+        "url": "https://open.spotify.com/album/3i44k9VMSlIAYBsjmKXY5b"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Miracle (with Ellie Goulding) - Wilkinson Remix",
+      "url": "https://open.spotify.com/track/3oDPPeiIZGcIKwg4e5joV0"
+    },
+    {
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
@@ -29,7 +185,7 @@
       "url": "https://open.spotify.com/track/29Zod043iIX27WBv0duEDn"
     },
     {
-      "added_at": "2023-04-28 17:45:28",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
@@ -45,7 +201,7 @@
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
     },
     {
-      "added_at": "2023-04-28 17:45:46",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "FU-150.",
         "url": "https://open.spotify.com/album/7D0ZMLCytmMnz3P1zQeZuU"
@@ -61,7 +217,7 @@
       "url": "https://open.spotify.com/track/0Nb7pW1koAiWGfCMVD23oT"
     },
     {
-      "added_at": "2023-04-28 17:46:04",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "twenty something",
         "url": "https://open.spotify.com/album/23BOmuBnzXuFfz0jC1QQTx"
@@ -77,7 +233,7 @@
       "url": "https://open.spotify.com/track/3qBvuUilp4ETbeE12DKPxG"
     },
     {
-      "added_at": "2023-04-21 04:05:14",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Up & Down",
         "url": "https://open.spotify.com/album/6VMrXUabbY8cFWLougHU5F"
@@ -97,7 +253,7 @@
       "url": "https://open.spotify.com/track/2R7xKsStJ9hNeZKoD9W5Nv"
     },
     {
-      "added_at": "2023-04-21 18:47:59",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "WHERE DOES YOUR SPIRIT GO?",
         "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
@@ -113,27 +269,7 @@
       "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
     },
     {
-      "added_at": "2023-04-21 04:53:15",
-      "album": {
-        "name": "UNDERSTAND",
-        "url": "https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "UNDERSTAND (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
-    },
-    {
-      "added_at": "2023-04-21 04:53:15",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "That's Why We Fight (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel"
@@ -153,23 +289,7 @@
       "url": "https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU"
     },
     {
-      "added_at": "2023-04-21 04:53:15",
-      "album": {
-        "name": "Highlight Reel",
-        "url": "https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "Highlight Reel",
-      "url": "https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7"
-    },
-    {
-      "added_at": "2023-04-21 04:53:15",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Fictional",
         "url": "https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5"
@@ -185,7 +305,7 @@
       "url": "https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS"
     },
     {
-      "added_at": "2023-04-21 18:57:54",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
@@ -201,7 +321,7 @@
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Dancing In The Courthouse",
         "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
@@ -217,23 +337,7 @@
       "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
-      "album": {
-        "name": "Girl in the Mirror",
-        "url": "https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 165099,
-      "name": "Girl in the Mirror",
-      "url": "https://open.spotify.com/track/0qwSPLH0QyaMZlmJtsxNZ5"
-    },
-    {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
@@ -249,7 +353,7 @@
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Digital Silence",
         "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
@@ -265,7 +369,7 @@
       "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
@@ -285,7 +389,7 @@
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
@@ -305,7 +409,7 @@
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "DOGTOOTH",
         "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
@@ -321,43 +425,7 @@
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
-      "album": {
-        "name": "Everybody Needs Someone (feat. Vance Joy)",
-        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 178819,
-      "name": "Everybody Needs Someone (feat. Vance Joy)",
-      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
-    },
-    {
-      "added_at": "2023-04-14 06:36:10",
-      "album": {
-        "name": "I Hate Texas",
-        "url": "https://open.spotify.com/album/5TYiF7DYOOQg63RNG4wUIT"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 224196,
-      "name": "I Hate Texas",
-      "url": "https://open.spotify.com/track/6XLuWhRnXFxk6YXaEB0z75"
-    },
-    {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Grown Man",
         "url": "https://open.spotify.com/album/282shVOXRHSfBqexKhADTN"
@@ -381,27 +449,7 @@
       "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
-      "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Memento Mori",
         "url": "https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q"
@@ -417,7 +465,7 @@
       "url": "https://open.spotify.com/track/5g2GhW0Xdc0HHwUCaKkmRQ"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "Eat Your Young",
         "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
@@ -433,7 +481,7 @@
       "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "No Time Wasted (feat. Future)",
         "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
@@ -453,7 +501,7 @@
       "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
     },
     {
-      "added_at": "2023-04-14 06:36:10",
+      "added_at": "2023-05-05 04:28:22",
       "album": {
         "name": "LLYLM",
         "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"

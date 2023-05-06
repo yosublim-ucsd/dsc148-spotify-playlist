@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: White\-B
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,185 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,192 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [I Roll](https://open.spotify.com/track/7qRsQKdI9v4vMle581uJu0) | [Kevin Na$h](https://open.spotify.com/artist/4bSqrWNdF5qg2YjzygfaJj) | [4:00AM](https://open.spotify.com/album/06L3p66OXrDTt8HWOVos57) | 3:22 |
 | 100 | [Ça fait mal](https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/0QAE7vtf7znl9nN6822bM5) | [Sainte\-Foy](https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g) | 4:12 |
 
-Snapshot ID: `MCw3ZmUwY2IzYjRiZjc4ODM2NDc4ZjVmMDJhNzIxYjNkY2JkMmE2NzA4`
+Snapshot ID: `MCwwMDVjNTdiNWU4M2VhMmE0Y2NjOWEzOGFlYzA4NzNhYTYzMjExNGVi`

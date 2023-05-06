@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,270 likes - 100 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,460 likes - 100 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Vives Tú Vivo Yo \- Acústico](https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Como en Casa \(Acústico\)](https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V) | 6:03 |
 | 100 | [Tengo Sed de Ti](https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Tengo Sed de Ti](https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh) | 5:02 |
 
-Snapshot ID: `MCxmNjhlYjRmOWM1MTZjMGFhYzZiMzZkNDU0OWNmNzkxMDlmYzFkZDgw`
+Snapshot ID: `MCw3MDY2NTJmMTZlNTA5MGU3ZDk0OWNhZTY3Yzc4NDlhNjRiN2E1MzYx`

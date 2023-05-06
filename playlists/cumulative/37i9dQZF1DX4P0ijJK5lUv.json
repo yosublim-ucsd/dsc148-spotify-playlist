@@ -3015,6 +3015,40 @@
     },
     {
       "album": {
+        "name": "Merry Christmas Mr. Lawrence",
+        "url": "https://open.spotify.com/album/2Q15bdTn337lqsf4zXhH18"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Oscar Holch",
+          "url": "https://open.spotify.com/artist/0yAcZP2jxBzykyUu92Wm2Z"
+        },
+        {
+          "name": "Rowena Calvert",
+          "url": "https://open.spotify.com/artist/5vg0ucoBJjqBXYU4eun1q0"
+        },
+        {
+          "name": "Sam Becker",
+          "url": "https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT"
+        },
+        {
+          "name": "Lysandre M\u00e9nard",
+          "url": "https://open.spotify.com/artist/5Is7r23SF0uCXeFzwOMZW5"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277147,
+      "name": "Merry Christmas Mr. Lawrence (Arr. Metcalfe)",
+      "url": "https://open.spotify.com/track/6aHZQ2a2ZgBDLZsx1usftw"
+    },
+    {
+      "album": {
         "name": "Handel: Messiah",
         "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
       },
@@ -3896,40 +3930,6 @@
       "duration_ms": 128682,
       "name": "R\u00edu R\u00edu Ch\u00edu",
       "url": "https://open.spotify.com/track/76yKhcvh7KDixdu56EaLWP"
-    },
-    {
-      "album": {
-        "name": "Merry Christmas Mr. Lawrence",
-        "url": "https://open.spotify.com/album/2Q15bdTn337lqsf4zXhH18"
-      },
-      "artists": [
-        {
-          "name": "Jess Gillam",
-          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
-        },
-        {
-          "name": "Oscar Holch",
-          "url": "https://open.spotify.com/artist/0yAcZP2jxBzykyUu92Wm2Z"
-        },
-        {
-          "name": "Rowena Calvert",
-          "url": "https://open.spotify.com/artist/5vg0ucoBJjqBXYU4eun1q0"
-        },
-        {
-          "name": "Sam Becker",
-          "url": "https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT"
-        },
-        {
-          "name": "Lysandre M\u00e9nard",
-          "url": "https://open.spotify.com/artist/5Is7r23SF0uCXeFzwOMZW5"
-        }
-      ],
-      "date_added": "2021-11-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 277147,
-      "name": "Sakamoto: Merry Christmas Mr. Lawrence (Arr. Metcalfe)",
-      "url": "https://open.spotify.com/track/6aHZQ2a2ZgBDLZsx1usftw"
     },
     {
       "album": {

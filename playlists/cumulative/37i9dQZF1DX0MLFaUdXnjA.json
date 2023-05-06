@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 209188,
       "name": "3 Boys",
       "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 156141,
       "name": "are you feeling it now",
       "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
@@ -4032,6 +4032,24 @@
       "duration_ms": 154306,
       "name": "Colors",
       "url": "https://open.spotify.com/track/54FLoJOBXpKe9fULTucRNh"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209267,
+      "name": "Colourblind",
+      "url": "https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z"
     },
     {
       "album": {
@@ -9465,6 +9483,24 @@
     },
     {
       "album": {
+        "name": "I Could Lie Here Forever / But Life Gets In The Way",
+        "url": "https://open.spotify.com/album/54eVIlEmEqn9P5LCdTqdG3"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165653,
+      "name": "I Could Lie Here Forever",
+      "url": "https://open.spotify.com/track/50pIMDAN83q0IzMGtydvst"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -12149,6 +12185,24 @@
     },
     {
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195277,
+      "name": "Little Runaway",
+      "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
+    },
+    {
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/7z7s43LmJPmOqe9Wrmlbjw"
       },
@@ -14062,7 +14116,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197472,
       "name": "Mr. Daydream",
       "url": "https://open.spotify.com/track/5HYUcCS99ZzM3z3E5OKlY8"
@@ -16582,7 +16636,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 176546,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
@@ -22161,6 +22215,24 @@
     },
     {
       "album": {
+        "name": "We Were Never Really Friends",
+        "url": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "We Were Never Really Friends",
+      "url": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
+    },
+    {
+      "album": {
         "name": "we would have some cute kids.",
         "url": "https://open.spotify.com/album/6wOBjR4uM7vbFXLEn3TZ5r"
       },
@@ -22570,7 +22642,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 203120,
       "name": "When Something\u2019s Gotta Give",
       "url": "https://open.spotify.com/track/2W7uaqP73dJAEdqKTFNBMH"
@@ -22890,6 +22962,24 @@
       "duration_ms": 199906,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/0aKcjCM4U2z8bATGl5IChO"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/4mSMd6GF3w0HDd1froSvin"
+      },
+      "artists": [
+        {
+          "name": "Julius Black",
+          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206513,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/6Tc7zIQK1MYvbAbk9QMabX"
     },
     {
       "album": {

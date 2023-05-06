@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-656 songs - 1 day 9 hr 1 min
+657 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Anıları Sakla](https://open.spotify.com/track/4MKL1sm8VqknemVs2yjs4M) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Yolculuk](https://open.spotify.com/album/0ffhrMPhoprewPQPc5so04) | 3:36 | 2021-05-31 | 2021-12-25 |
 | [Ara](https://open.spotify.com/track/18Ies0Fsw2IwDuLoOhDlyy) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/0C3BRPMqyxppx6kJbOImCq) | 3:00 | 2022-08-27 | 2023-02-08 |
 | [Ara](https://open.spotify.com/track/1iEMuRRbD04w92WzHYkJrF) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/6gkihcoEoX8nPLbTnzPygL) | 3:00 | 2022-07-30 | 2022-08-28 |
-| [ARASAN DA](https://open.spotify.com/track/5sIHhx9IOpQ7ggv16wLsWZ) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:11 | 2022-09-10 |  |
+| [ARASAN DA](https://open.spotify.com/track/5sIHhx9IOpQ7ggv16wLsWZ) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:11 | 2022-09-10 | 2023-05-06 |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2022-03-18 | 2023-01-14 |
 | [Arıyorum](https://open.spotify.com/track/1jWXlhsOpwVGXtYUcI96tV) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/13SQLlpjrblc3zRrdBvr7E) | 3:13 | 2021-09-19 | 2022-01-05 |
 | [Arıyorum](https://open.spotify.com/track/6g6MHm9u0h2Em9Xuk89eqR) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/7oRC48c8HLAkGYcoBTtMwH) | 3:13 | 2022-01-04 | 2022-08-03 |
@@ -222,6 +222,7 @@
 | [FESTİVAL](https://open.spotify.com/track/7jQri0CCEkeOGt7fedmmsu) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [FESTİVAL](https://open.spotify.com/album/3HGvrhL5kRdzZzay6jOou1) | 2:32 | 2022-04-02 | 2022-04-18 |
 | [Fiji](https://open.spotify.com/track/4vu9a9VrHQmHnpWQHMFJXs) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-05 |
 | [Film](https://open.spotify.com/track/17zIQr0R5oOWf4XHcRPDL7) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Film](https://open.spotify.com/album/4YjsCRgWqQbsgkAqeMw2yu) | 1:58 | 2022-07-02 | 2022-07-07 |
+| [Firuze](https://open.spotify.com/track/4WBMMoqjsofE9fdSXSU41S) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Firuze](https://open.spotify.com/album/69EMFMME82E5gKCIrOIt9I) | 3:15 | 2023-05-05 |  |
 | [Firuze](https://open.spotify.com/track/7wy9gDTUipeY35NKn45ru5) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Firuze](https://open.spotify.com/album/3Thvcaq42db8HAeRt7wfgY) | 5:04 | 2023-01-19 | 2023-03-12 |
 | [FLEX SO HARD RMX](https://open.spotify.com/track/599TAkOSDn1CRTXziWACAX) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [FLEX SO HARD RMX](https://open.spotify.com/album/5YSHrpWibzTM64AjdG6dXr) | 2:29 | 2022-10-11 | 2022-11-30 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-04-01 | 2023-04-03 |
@@ -239,7 +240,7 @@
 | [GECELERİN DERDİ](https://open.spotify.com/track/5L9oweGjkwBg0Mt9ZU9OhW) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [BEGEFENDİ](https://open.spotify.com/album/5uNcIKJl8eyNoVoqqT5744) | 2:37 | 2021-07-30 | 2022-01-27 |
 | [Geceyi Anlatmış](https://open.spotify.com/track/0ni7a9ONGdNoUvDvSCgLoJ) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Geceyi Anlatmış](https://open.spotify.com/album/2QXcT3QNxgJP2m5MBvzY5B) | 4:00 | 2022-03-14 | 2022-04-08 |
 | [Gelmesin](https://open.spotify.com/track/6udxaddhezdU8dwfZVapmw) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Gelmesin](https://open.spotify.com/album/6X8ndvkdGtHNcwcbKcF1Lg) | 3:30 | 2021-06-05 | 2021-07-01 |
-| [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2022-03-20 |  |
+| [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2022-03-20 | 2023-05-06 |
 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2022-12-17 | 2022-12-25 |
 | [Gerçekleşebilir](https://open.spotify.com/track/1KwiqA75C5lIIdMBoiEffe) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gerçekleşebilir](https://open.spotify.com/album/6tkwRvL9npE0otgeyibMls) | 3:49 | 2021-11-28 | 2021-12-10 |
 | [Geçme Artık Sokağımdan](https://open.spotify.com/track/2OAt5u4jbxjoOPshOSOa7g) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Geçme Artık Sokağımdan](https://open.spotify.com/album/6wAx2Xm6iVXeCkl8Iv0GEW) | 3:33 | 2022-04-16 | 2022-04-29 |
@@ -361,7 +362,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-07-11 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-05-13 | 2021-06-27 |
 | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8) | 3:18 | 2022-05-17 | 2022-10-30 |
-| [Kor](https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/7mqDwwIUh2yMzeR1ET5PnE) | 2:59 | 2022-01-04 | 2023-05-04 |
+| [Kor](https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/7mqDwwIUh2yMzeR1ET5PnE) | 2:59 | 2022-01-04 |  |
 | [Kor](https://open.spotify.com/track/2zmf8pmH6AJ9Nksn0xuLTX) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/4Wi0MXyj8KygoHTj9EeWei) | 2:59 | 2021-10-10 | 2022-01-05 |
 | [Kron1k](https://open.spotify.com/track/6vLPgqdXSzEaVYx92YoFjd) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Kron1k](https://open.spotify.com/album/4Zdbg6Ir5nZJ9eN5HfipND) | 4:53 | 2021-03-27\* | 2021-04-08 |
 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 | 2021-03-27\* | 2022-04-13 |

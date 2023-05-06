@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,772 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,941 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Come Thou Fount](https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Good to Me](https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV) | 4:00 |
 | 100 | [You Are My All In All](https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9) | [Brooke Griffith](https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un) | [Even So Come: A Worship Album](https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz) | 5:18 |
 
-Snapshot ID: `MCw5ODhiMzYyNjJkYjhmZTFiZGM5ODU2MmUxODQ5Njk1MTIxZjlkYTgy`
+Snapshot ID: `MCxjNTQzNWEyN2E0OTc3NzEyYjdmYjU2ZDVjOGI1YmEzN2FlM2E5ZmJi`

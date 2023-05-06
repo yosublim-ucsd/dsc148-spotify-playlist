@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-248 songs - 18 hr 5 min
+249 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Mucura](https://open.spotify.com/track/6l1HjDZenCumNfTjmORkRj) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Mis Tierras Calientes](https://open.spotify.com/album/61qRixcPyYN5rsU8iJltnl) | 6:05 | 2021-11-26 | 2022-07-28 |
 | [muévelo](https://open.spotify.com/track/57CDIG8vynelLK7rJajBlQ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [muévelo](https://open.spotify.com/album/7IidBa7Vvx0UK6P8dSlbDH) | 3:31 | 2022-04-15 | 2022-04-19 |
 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 | 2022-02-18 |  |
-| [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 | 2021-11-26 |  |
+| [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 | 2021-11-26 | 2023-05-06 |
+| [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2023-02-13 |  |
 | [Naeku \- John Talabot Remix](https://open.spotify.com/track/54REQf3i68j955Q5nhBHQE) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Hybridism Remixes](https://open.spotify.com/album/4nLv6zN3cc7riJID6quKYS) | 7:40 | 2021-11-26 | 2022-07-14 |
 | [Nevar](https://open.spotify.com/track/2EEkGybjOcVfAZfceU8HD3) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Didacte](https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 6:40 | 2022-04-15 | 2023-04-30 |
 | [Nevar](https://open.spotify.com/track/73GA4mNm07rlhf1BfDd4iS) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Didacte](https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT) | [Nevar](https://open.spotify.com/album/7JhEkFHjGqWwPYTrZ5Vu8p) | 6:40 | 2021-11-26 | 2022-07-29 |

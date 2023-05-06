@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36">Trip Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,008 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,155 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [MY HAPPY](https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [MY HAPPY](https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A) | 2:56 |
 | 100 | [Under Construction](https://open.spotify.com/track/6RXQbHsV0dAIpQRrkGKq5n) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [Under Construction](https://open.spotify.com/album/3t3o84HxUhmkJmK9tT4OIw) | 1:56 |
 
-Snapshot ID: `MCxjYWFjMTUxYTk2MmRkZjM5Nzc5ODliMmM4ZTU3ZmNlNjRlMjY5NDhi`
+Snapshot ID: `MCxlZjJkM2ZlZWE5MzNmOGFkNGE2MmJiMmJjODQ3MDU5NTQ4NzQxMzFh`

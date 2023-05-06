@@ -1,33 +1,13 @@
 {
   "description": "New Indie driving the current, every week.",
-  "num_followers": 30600,
+  "num_followers": 30632,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY0MGM2MDlhMjdkZGVmYTZiOGYxODdjMTQwNmZlOGViYjNjN2I2",
+  "snapshot_id": "MCwwODlhN2Q0ZmU3OGQ1ZDU0ZTZkMmJhM2E4MmE5YTY3NzE1MDhlNTAx",
   "tracks": [
-    {
-      "added_at": "2023-04-21 22:05:37",
-      "album": {
-        "name": "DAYS GO BY",
-        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 271756,
-      "name": "DAYS GO BY",
-      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
-    },
     {
       "added_at": "2023-04-21 22:05:37",
       "album": {
@@ -93,6 +73,54 @@
       "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 230554,
+      "name": "HEAVEN TO ME",
+      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Ribs",
+        "url": "https://open.spotify.com/album/1STW8v44VbbFKtmToUurll"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 170107,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM"
+    },
+    {
       "added_at": "2023-04-21 22:05:37",
       "album": {
         "name": "mutual-fren*",
@@ -141,20 +169,20 @@
       "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+        "name": "Curser's Lament EP",
+        "url": "https://open.spotify.com/album/7fM6cruyi0SeSc4q7dfTEk"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Cosmo Pyke",
+          "url": "https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T"
         }
       ],
-      "duration_ms": 230554,
-      "name": "HEAVEN TO ME",
-      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
+      "duration_ms": 228026,
+      "name": "No Comply",
+      "url": "https://open.spotify.com/track/59IFFdXjFoKr9Yf5gwmCVR"
     },
     {
       "added_at": "2023-04-21 22:05:37",
@@ -1779,26 +1807,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "The House Is Burning",
-        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 186151,
-      "name": "Claymore (feat. Smino)",
-      "url": "https://open.spotify.com/track/051zam2WDIKOLdu4XYpCaA"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp"
       },
@@ -1887,22 +1895,6 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "whatever u like",
-        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 200877,
-      "name": "whatever u like",
-      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
     },
     {
       "added_at": "2023-02-17 05:00:00",

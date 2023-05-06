@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-303 songs - 18 hr 55 min
+304 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [My Girl](https://open.spotify.com/track/1yOCSAjEuF3qqT9GKqoJtj) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Dancin' On The Boulevard](https://open.spotify.com/album/5eFin2KdsXEYNrbdLE02wG) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [Natural Woman / Tennessee Whiskey](https://open.spotify.com/track/0xuRUusdZbvVB3QFmmtXEB) | [Charlotte Ave](https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX) | [Natural Woman / Tennessee Whiskey](https://open.spotify.com/album/0pKoro4vHJvudMIxBk29WX) | 3:00 | 2022-02-04 | 2022-07-26 |
 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 | 2021-12-10 |  |
-| [Night Life](https://open.spotify.com/track/0z73ztDPP0iDsCkvxxBPQf) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Night Life](https://open.spotify.com/album/5UbF3KhUkJBy3iYWdvrs5N) | 3:32 | 2023-04-28 |  |
+| [Night Life](https://open.spotify.com/track/0z73ztDPP0iDsCkvxxBPQf) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Night Life](https://open.spotify.com/album/5UbF3KhUkJBy3iYWdvrs5N) | 3:32 | 2023-04-28 | 2023-05-06 |
 | [Nobody Knows](https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Nobody Knows](https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP) | 3:43 | 2022-03-25 | 2022-10-04 |
 | [Not Over You \(feat\. Gavin DeGraw\) \(feat\. Gavin DeGraw\)](https://open.spotify.com/track/0IiB5z6d30qELn5yTe2wjM) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Slow Me Down](https://open.spotify.com/album/78bfZn6WFHAwutuhbD36sD) | 3:52 | 2021-12-10 | 2022-07-27 |
 | [Nothing Else Matters](https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/6poT82LErL1xylnfgoVNqQ) | 8:14 | 2021-12-10 | 2022-07-29 |
@@ -252,6 +252,7 @@
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2021-12-10 |  |
 | [Tequila](https://open.spotify.com/track/5vJq4IOPmNXBYa4sxuowNr) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:22 | 2022-03-25 | 2022-04-21 |
 | [Thank God I'm A Country Boy](https://open.spotify.com/track/00ICqiFJafsHkpJa5N9XSF) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Let Them Be Little](https://open.spotify.com/album/0nXljlBNfJjeiFgN8L6o2f) | 2:54 | 2022-01-07 | 2022-07-23 |
+| [That Don't Impress Me Much](https://open.spotify.com/track/4v6BXBhnnoZCt98isXXn7E) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [That Don't Impress Me Much](https://open.spotify.com/album/1R9I6UElCljKrZKdK2sG6V) | 3:14 | 2023-05-05 |  |
 | [That's the Way Love Goes](https://open.spotify.com/track/20ZTVyGNlRnmCS1LlRMvEr) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [The Bottle Let Me Down](https://open.spotify.com/track/7iAPw5fKsiuwaPappNUpX2) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 2:45 | 2021-12-10 | 2022-07-28 |
 | [The Chair \- The Bootlegger Sessions](https://open.spotify.com/track/10KMzf7sHmbxdEBGOXeyfn) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [The Chair \(The Bootlegger Sessions\)](https://open.spotify.com/album/35sGt91imrj8GqU6E7EV3v) | 2:46 | 2022-09-16 | 2022-09-26 |

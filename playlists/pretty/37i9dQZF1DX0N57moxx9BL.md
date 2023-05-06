@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,557 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,674 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [Fear of Missing Out](https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6) | [Honor & Glory](https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw) | 4:31 |
 | 80 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 |
 
-Snapshot ID: `MCw5YzEzMTFlZGNkZTg4YTViNWY5OTQwMzVkYTQ1NDRjNWEzNTdiODQ1`
+Snapshot ID: `MCxkM2QzMTQ4MjE3YmVkNGJiMDNjNWJkYmZhNzhjMjQzMWM0MDA1YmMx`

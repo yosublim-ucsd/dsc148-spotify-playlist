@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: THAMA\(따마\)\)
 
-192 songs - 10 hr 58 min
+196 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [About Us \(Feat\. Filipe Santos\)](https://open.spotify.com/track/45E8aSa1AI4Yyd0XClOGpu) | [vvav](https://open.spotify.com/artist/7yphCtMHUx2eL5hHrpQnGx), [Filipe Santos](https://open.spotify.com/artist/6ZiJkBamnBr4DjuJ79thgP) | [About Us](https://open.spotify.com/album/0LhNmfYsvEH53AnyyUVCE4) | 3:16 | 2022-05-28 | 2022-07-08 |
 | [After you’ve gone](https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [After you’ve gone](https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey) | 3:50 | 2022-08-02 | 2023-01-14 |
 | [AhChoo!](https://open.spotify.com/track/6wIZ0Yct9aMra5kHMDk5mG) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [AhChoo!](https://open.spotify.com/album/07X66xfc5A1CWDzgHRs2gU) | 2:55 | 2022-05-28 | 2022-08-19 |
+| [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 | 2023-05-05 |  |
 | [airplane\-mode](https://open.spotify.com/track/1q4FmOZDVNqozyHHHF5Qef) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [Safely arrived ✈](https://open.spotify.com/album/6bW8E912AETQyFdtB6OD14) | 3:00 | 2023-04-17 |  |
 | [ALARM](https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ALARM](https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ) | 3:23 | 2022-09-05 | 2023-02-15 |
 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 | 2023-01-21 |
@@ -147,6 +148,7 @@
 | [Rust \(feat\. Rico\)](https://open.spotify.com/track/2jYtKXsb2RblcLMhUMD3Fx) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [Rico](https://open.spotify.com/artist/3E0YTYEh08ccPtREHUCeDk) | [Rust \(feat\. Rico\)](https://open.spotify.com/album/6IifE3wcI8uxFaOrU21Hvr) | 4:21 | 2022-09-05 | 2023-01-21 |
 | [Saturn](https://open.spotify.com/track/4pFWcq6v0hEYY65VaxpJiY) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Saturn](https://open.spotify.com/album/6xt9QesnTMEOm78vIXCTPA) | 3:05 | 2023-02-23 |  |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 |  |
+| [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-05-05 |  |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 | 2022-10-08 |
 | [Siren](https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:47 | 2023-02-10 | 2023-02-15 |
 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-08 | 2023-01-21 |
@@ -176,6 +178,7 @@
 | [Wash me](https://open.spotify.com/track/11xruTNYBtkgJVuc7ebgvW) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau) | [Wash me](https://open.spotify.com/album/1eqIFpJ2RxKJilG8j5CNQf) | 3:44 | 2022-07-27 | 2022-12-14 |
 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 | 2022-11-06 | 2023-03-28 |
 | [We shiver for hug](https://open.spotify.com/track/6yhpLvhCWZ9LeaFnmI3032) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [We shiver for hug](https://open.spotify.com/album/1Bll934di9MUXRpf8fl0WN) | 4:43 | 2022-05-28 | 2022-07-28 |
+| [What i can't forget is](https://open.spotify.com/track/1LRGV6MpzodcHHw6CTIcLR) | [PEKKI](https://open.spotify.com/artist/6yTrk5y7hFaFJn3PEWuSQq) | [What i can't forget is](https://open.spotify.com/album/7Fcsm6kJuA3N2EVZ4ExNm3) | 2:50 | 2023-05-05 |  |
 | [what is love](https://open.spotify.com/track/5HukOZte1mcNcOgufptAOp) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [what is love](https://open.spotify.com/album/3OTYp7rdFNh8RQWSbnaKpk) | 3:32 | 2023-02-24 |  |
 | [what we need](https://open.spotify.com/track/70BY7F87mof52vNDrMZ6AP) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [what we need](https://open.spotify.com/album/5anfMMK1UdAekDViVFyFmk) | 3:52 | 2022-06-09 | 2022-09-06 |
 | [When It Rains](https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [When It Rains](https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ) | 3:14 | 2022-08-18 | 2023-01-21 |
@@ -195,6 +198,7 @@
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-13 |  |
 | [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/track/2iQ77ftQFhdxyBt1DET8Xf) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/album/6MLmMlHFNJp5GqZuI7Fwga) | 4:04 | 2023-04-28 |  |
 | [YOU AND I](https://open.spotify.com/track/0t1MauhY0fE0dV1M7V9tnd) | [GRAM](https://open.spotify.com/artist/2qKhaMe5cOdQinPWBXyCHF) | [LOVE](https://open.spotify.com/album/7f3n6Mk3cgGHLtKbveKgE8) | 3:46 | 2023-01-13 |  |
+| [You Are The Sea](https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [The Bridge](https://open.spotify.com/album/0CGBkyLZW3izWrGZDcMz7u) | 3:35 | 2023-05-05 |  |
 | [Zero gravity \(feat\. Blueday\)](https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Zero gravity](https://open.spotify.com/album/1EyyquQhOTZzRuuwcN1VCF) | 3:16 | 2022-10-04 | 2023-03-28 |
 | [겨울길 \(feat\. 영준\)](https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [나의 겨울](https://open.spotify.com/album/7m8rPBnClStMMpVT7BXt9y) | 3:59 | 2022-12-15 |  |
 | [상자 Box](https://open.spotify.com/track/5G9tvHT1pkXLuBoSkBWZkm) | [leanon](https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ) | [상자 Box](https://open.spotify.com/album/0omnobec3mXOettF99CQTu) | 3:03 | 2023-01-10 |  |

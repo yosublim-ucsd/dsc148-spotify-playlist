@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,576 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,614 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 99 | [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 |
 | 100 | [Still Have Me](https://open.spotify.com/track/6SBJ2XHc4jm6Abqt7zocMz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Have Me](https://open.spotify.com/album/5mbrUlvluQ5kVKYKj0aRNc) | 3:23 |
 
-Snapshot ID: `MCxjNjY2ZTY3MDc3YmUwOTA4ZTM0MWMxMjE1Zjk3ZDQ3YzdmM2Y0MDUy`
+Snapshot ID: `MCxhMThmMTNkNTkwYzc0YzcwZDViNWVkZmVjMGJjZjRmYWMyYjllZGU3`

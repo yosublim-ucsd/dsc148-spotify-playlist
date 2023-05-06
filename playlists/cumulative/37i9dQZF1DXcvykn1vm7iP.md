@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-125 songs - 6 hr 10 min
+126 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [Forest Mirror](https://open.spotify.com/track/7ntZRwSVb2CS4kmZq1akX8) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Forest Mirror](https://open.spotify.com/album/1x0q06xpTyHw2EEWxCA4Tp) | 2:18 | 2023-03-10 |  |
 | [gahara sapana गहरा सपना](https://open.spotify.com/track/3mima9lt5qBHwtEVzcRbwn) | [Gopali Swoo](https://open.spotify.com/artist/77IUPOfqdTIqqgrem0svOx) | [gahara sapana गहरा सपना](https://open.spotify.com/album/71vVNGE5ue2qBkajUCBmLP) | 2:01 | 2022-08-05 |  |
+| [Gemoedsrust](https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Gemoedsrust](https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC) | 2:17 | 2023-05-05 |  |
 | [Geodesic](https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Geodesic](https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR) | 2:53 | 2022-08-11 |  |
 | [Gravitational Waves](https://open.spotify.com/track/1i309cGCtJxtZ7h4XEHxYC) | [Ocean Mysteries](https://open.spotify.com/artist/1AZbxwiejbmkWYiVfbseXP) | [Immersions](https://open.spotify.com/album/3E3TWLQv6BXRxFJIq1Bdio) | 3:20 | 2022-08-05 | 2023-02-25 |
 | [Harvest](https://open.spotify.com/track/7AlHOgQGvfVRiXMY64pOyn) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Harvest](https://open.spotify.com/album/25LBaQA9rUHkIDoVQK3wje) | 2:42 | 2022-08-05 | 2023-04-07 |
@@ -68,7 +69,7 @@
 | [Liquid](https://open.spotify.com/track/1npn4kWD5AXwPuoQPmrkKN) | [Vertical Mindset](https://open.spotify.com/artist/5vn8IRrcEm8nH3jlprOc6f) | [Liquid](https://open.spotify.com/album/4NiRRjKOFlrVglfLfbiuUu) | 3:18 | 2022-08-05 |  |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-08-05 |  |
 | [Lorimor](https://open.spotify.com/track/4Dduhh8xWr0XCBoVJthchN) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Lorimor](https://open.spotify.com/album/5BlMYaGM6uoxCXfzHkZida) | 2:19 | 2022-08-05 |  |
-| [Lynx](https://open.spotify.com/track/4s1x24SHjzNCY9WwNBHqmy) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Lynx](https://open.spotify.com/album/40EdzNq78gdx26YiQb59DO) | 4:30 | 2022-08-05 |  |
+| [Lynx](https://open.spotify.com/track/4s1x24SHjzNCY9WwNBHqmy) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Lynx](https://open.spotify.com/album/40EdzNq78gdx26YiQb59DO) | 4:30 | 2022-08-05 | 2023-05-06 |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-08-05 |  |
 | [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 | 2022-10-08 |  |
 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 | 2022-12-30 | 2023-04-14 |

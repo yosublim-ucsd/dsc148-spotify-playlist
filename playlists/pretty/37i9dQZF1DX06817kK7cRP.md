@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,724 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,254 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 64 | [Peach Rings](https://open.spotify.com/track/3nt0tWlN3r4JPCqWBulqYS) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Daybreak](https://open.spotify.com/album/4JBCzFSYDYV4tP0Ty07jOj) | 2:41 |
 | 65 | [AI\-Music](https://open.spotify.com/track/3Av9I4jCysxCP4IscYJ3wJ) | [Dean Staffs](https://open.spotify.com/artist/36e0RyjykLGS9GkOp7rG8W) | [AI\-Music](https://open.spotify.com/album/5c8MgxHLFTH0vrBGoFvldU) | 3:35 |
 | 66 | [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 |
-| 67 | [High Expectations](https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g) | [High Expectations](https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd) | 2:16 |
+| 67 | [High Expectations](https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [High Expectations](https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd) | 2:16 |
 | 68 | [Dew Point](https://open.spotify.com/track/1h6pKwYlbxjV2rouBmol9T) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [Dew Point](https://open.spotify.com/album/4paxIGuHZFBrESPdMnx6uX) | 2:14 |
 | 69 | [For the Homies](https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [yuckgod](https://open.spotify.com/artist/53FJ7kvKR7Nk7nOo5yGRK7), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Thank You for Waiting](https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe) | 2:03 |
 | 70 | [Santorini](https://open.spotify.com/track/7j7MEvQoI9MPt7llQxh9e5) | [Beatific](https://open.spotify.com/artist/3yb8TZjDnL3VzpwqZus72C) | [Santorini](https://open.spotify.com/album/4lRjVxnEO699voyXOoOg24) | 1:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 99 | [Warm Light](https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Lost Travelers](https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb) | 2:36 |
 | 100 | [Amethyst](https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:20 |
 
-Snapshot ID: `MCxiMGMwYjVhZDAzZmVhM2M5NTJiMjNhMGI2NGRhNGM2MmNkZWZiM2Fl`
+Snapshot ID: `MCwxNGNkNDJjYWQ5NjgzMDNkYTAzYzRjYjkxNmVlYjM4MjEwNmI4YWVi`

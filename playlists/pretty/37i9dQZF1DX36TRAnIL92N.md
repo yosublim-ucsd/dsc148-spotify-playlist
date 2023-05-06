@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,383 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,885 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [The Coldest Form](https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N), [CNTRBND](https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk) | [The Coldest Form](https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh) | 6:00 |
 | 50 | [Motokobo](https://open.spotify.com/track/3J8xd0PgO6nKvvsmB3q53H) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Motokobo](https://open.spotify.com/album/33CfjoHj8ve1RMRJAIRKfa) | 6:24 |
 
-Snapshot ID: `MCw3NWI3MzM4NzQ0MDZmYzk1YzM4Yjg2YzNkMDIwMWRkOTFkYzAzN2I0`
+Snapshot ID: `MCwzMjY0NzYxNWEyZDBkOGI2MmE2ODcyZjhiNmFiN2JmNDI5Y2NlMWJk`

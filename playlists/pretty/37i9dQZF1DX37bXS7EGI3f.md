@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,693 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,822 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Hunt Me to the End of the World](https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [One More River to Cross](https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN) | 4:54 |
 | 80 | [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 |
 
-Snapshot ID: `MCw4OTIzNDA5Y2I2YWUxNDQ2Mzg2MDQ3YzgyMzQxOWU2MGRmZWJmMjhm`
+Snapshot ID: `MCwxMzMwZDBiYmM1MWU3ZmMwZmU5NWE1NDNjZDgzOTMwMmRjZjYyNGIz`

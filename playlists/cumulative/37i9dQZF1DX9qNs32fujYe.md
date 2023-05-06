@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Ghost
+> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Enforcer
 
-717 songs - 2 day 5 hr 23 min
+719 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 | 2022-10-21 | 2022-11-21 |
 | [Astorolus \- the Great Octopus](https://open.spotify.com/track/7v6DwMJy1kPV874CfuN1mY) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [Astorolus \- the Great Octopus](https://open.spotify.com/album/4XrIy3GrY9wdXMgiBEmj37) | 6:42 | 2022-01-14 | 2022-06-27 |
 | [At the End of the Rainbow](https://open.spotify.com/track/1dPLUFDn4ZnmCQRslS6vMm) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [At the End of the Rainbow](https://open.spotify.com/album/3JYX12KjroniwQ9KN9ChAw) | 3:21 | 2021-12-17 | 2022-07-28 |
-| [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 | 2023-02-11 |
+| [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 |  |
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2022-03-22 | 2022-04-02 |
 | [Back to the Rhythm](https://open.spotify.com/track/6AhyAj8E1JyYcY3VR3K7M2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Back to the Rhythm](https://open.spotify.com/album/6JsuY2qnJQd0QPRiCar8K0) | 4:11 | 2022-04-08 | 2022-07-29 |
 | [Bad Company](https://open.spotify.com/track/7uIF6RDrW2PwvvYEMkanr8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 4:22 | 2022-08-19 |  |
@@ -252,6 +252,7 @@
 | [Hammer Of Dawn](https://open.spotify.com/track/4CSGVziAkUelYOIlOPNu6G) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer Of Dawn](https://open.spotify.com/album/7ABUtIO7hLB17LftkAUml0) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Hammer of Dawn](https://open.spotify.com/track/6shAaOP9wwqJfiLHRqv4UV) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer of Dawn](https://open.spotify.com/album/2nTZtQxxBz0XiwEktLO0MM) | 4:02 | 2022-07-08 | 2022-10-22 |
 | [Hammer Smashed Face](https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Tomb Of The Mutilated](https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb) | 4:02 | 2022-08-19 | 2023-03-11 |
+| [Hard Habit](https://open.spotify.com/track/6TCPTqQTI2PHbOe2mUFDu6) | [Texas Hippie Coalition](https://open.spotify.com/artist/6LG6fIvh2XpjqHUuR7NRtt) | [The Name Lives On](https://open.spotify.com/album/4GklZdIbTbc8ArDurfTCT6) | 3:40 | 2023-05-05 |  |
 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 | 2021-12-17 | 2023-03-11 |
 | [Hardwired](https://open.spotify.com/track/01JszWYuKqRjddPQ4creVF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired](https://open.spotify.com/album/4MQxwNLnVePt7CYmLE50kC) | 3:11 | 2022-03-22 | 2022-04-14 |
 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2022-07-08 | 2023-03-04 |
@@ -264,7 +265,7 @@
 | [Heart of a Lion](https://open.spotify.com/track/57KKCoIgrgOjkFxNDnD3GW) | [Riot V](https://open.spotify.com/artist/5AD3ApIDjM31rpaAon76tg) | [Heart of a Lion](https://open.spotify.com/album/19Msv2xVE1gQCbawwgvxwc) | 3:52 | 2022-03-22 | 2022-05-11 |
 | [Heart of the Android](https://open.spotify.com/track/5b6x7e0p8HqA4CZ4eQEoiE) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Heart of the Android](https://open.spotify.com/album/6wDrfnlSydT3ZPcBjClH0l) | 4:31 | 2021-12-17 | 2022-07-29 |
 | [Heartless Madness](https://open.spotify.com/track/6syHCS66oykczN2ZN7zQPX) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Heartless Madness](https://open.spotify.com/album/7hi1CYcnOAGlg0lVJCO3Bu) | 3:59 | 2021-12-17 | 2023-01-18 |
-| [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 | 2022-07-08 |  |
+| [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 | 2022-07-08 | 2023-05-06 |
 | [Hearts On Fire](https://open.spotify.com/track/1uPJUOUzZydICIfknCS2nK) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2X6TTloD276GgLsMAWfZQn) | 3:51 | 2021-12-17 | 2022-07-28 |
 | [Heavy Metal](https://open.spotify.com/track/2r8GRuR1UiNM1lA1e45T0o) | [Knights of the Realm](https://open.spotify.com/artist/7drZpVrfcqFcFdX3of49Uo) | [Heavy Metal](https://open.spotify.com/album/3M9LSjt00aeAcpt9GUwL68) | 2:59 | 2022-01-14 | 2022-03-26 |
 | [Heavy Metal Never Dies](https://open.spotify.com/track/4mJmi9z3o1B6k2vry39Ufh) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [The Landing](https://open.spotify.com/album/2UhgoMIFgbaiLHuiB0qjHU) | 4:14 | 2021-12-17 | 2023-04-20 |
@@ -336,7 +337,7 @@
 | [Knives](https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Knives](https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq) | 4:16 | 2022-07-13 | 2023-04-15 |
 | [Koolaid](https://open.spotify.com/track/7tcBbo9I71WtmLAuzha5mN) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [The Rise of Chaos](https://open.spotify.com/album/1kzfP9URLnFFCN3H0mrOFo) | 4:58 | 2021-12-17 | 2022-07-29 |
 | [Koolaid](https://open.spotify.com/track/249XHhBxBOblTCYStaC27L) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [The Rise of Chaos](https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u) | 4:59 | 2022-07-08 | 2022-08-20 |
-| [Krøterveg Te Helvete \- Single Version](https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Krøterveg Te Helvete](https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ) | 4:14 | 2023-04-21 |  |
+| [Krøterveg Te Helvete \- Single Version](https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Krøterveg Te Helvete](https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ) | 4:14 | 2023-04-21 | 2023-05-06 |
 | [Land of the Free \- 30 Years \- Live Version](https://open.spotify.com/track/7iMt0du7vAQf3m1IYTrhM4) | [Gamma Ray](https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp) | [Land of the Free](https://open.spotify.com/album/7kHii8llgDEAKLR6SJDrKt) | 4:36 | 2021-12-29 | 2022-07-19 |
 | [Landslide](https://open.spotify.com/track/5h9R0Z3lqvgfItpq4QsvjG) | [Alienist](https://open.spotify.com/artist/3QjDcXIEFoAGHAe6TSBnce) | [Landslide](https://open.spotify.com/album/0rDeiOVJ47MhUgRqPiP0mW) | 3:31 | 2022-03-22 | 2022-04-19 |
 | [Let It Burn](https://open.spotify.com/track/1taz6QC91MFJmODsf7aQsb) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6) | 4:01 | 2022-07-08 | 2023-02-11 |
@@ -379,6 +380,7 @@
 | [Metal Division](https://open.spotify.com/track/6IHYWWmVyVXVk8b8rBYy9z) | [Mystic Prophecy](https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG) | [Metal Division](https://open.spotify.com/album/0cVq9qXjU2QnlocsDrHrRr) | 3:29 | 2021-12-17 | 2022-07-25 |
 | [Metal Is For Everyone](https://open.spotify.com/track/4ZYiE0Y1FttXgTqgZek4Kf) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Master Of Light](https://open.spotify.com/album/2zjeaTlWtBPR57pzUSPLIW) | 4:52 | 2021-12-17 | 2022-06-12 |
 | [Metal Is for Everyone](https://open.spotify.com/track/5qKymwS7ymNUCRimGhiQkm) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Master of Light](https://open.spotify.com/album/2l3lL1oX1ejmOfZdDZK47W) | 4:52 | 2022-07-08 | 2023-02-11 |
+| [Metal Supremacia](https://open.spotify.com/track/0xPYFEuqIQM9WQ2IIIq6Qf) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [Nostalgia](https://open.spotify.com/album/6fK73XeJneVXkMMuYHLXJG) | 2:53 | 2023-05-05 |  |
 | [Midnight Bells](https://open.spotify.com/track/7msGMGvVPC1bM40OSfCSSL) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Midnight Bells](https://open.spotify.com/album/50KHCM271IC4nZmnP5v8Bq) | 4:17 | 2022-01-21 | 2022-06-21 |
 | [Midnight Sun](https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Midnight Sun](https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP) | 3:38 | 2022-05-06 | 2022-08-20 |
 | [Midwinter Calls](https://open.spotify.com/track/6rnE3rORv6kUDLoFlgNrq4) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Midwinter Calls](https://open.spotify.com/album/02x2nCP1iUaHKw5ZrrX23h) | 5:06 | 2022-03-25 | 2022-07-29 |
@@ -426,7 +428,7 @@
 | [Oblivion](https://open.spotify.com/track/6tlfAL7rJ85eDXSZgq5eC4) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Oblivion](https://open.spotify.com/album/1Q20gWIgDF9Fr7CSme9VwH) | 3:51 | 2021-12-17 | 2022-04-20 |
 | [Obsolete](https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:25 | 2022-12-16 |  |
 | [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 | 2022-07-13 | 2022-12-17 |
-| [ObZen \- 15th Anniversary 2023 Remastered Edition](https://open.spotify.com/track/793kfIPUvMqqbpuG3xPxiH) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen \(15th Anniversary Remastered Edition\)](https://open.spotify.com/album/7FEtkDhMVgM7vD1rIrixB5) | 4:24 | 2023-03-10 |  |
+| [ObZen \- 15th Anniversary 2023 Remastered Edition](https://open.spotify.com/track/793kfIPUvMqqbpuG3xPxiH) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen \(15th Anniversary Remastered Edition\)](https://open.spotify.com/album/7FEtkDhMVgM7vD1rIrixB5) | 4:24 | 2023-03-10 | 2023-05-06 |
 | [Odin's Sons \(feat\. The Queen of the Damned\)](https://open.spotify.com/track/4oTHNttJRsIC6pr205Ld8Y) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [The Queen Of The Damned](https://open.spotify.com/artist/6tetPxHdTuzbSwzaluKVMI) | [Odin's Sons \(feat\. The Queen of the Damned\)](https://open.spotify.com/album/4fRKJfYPKCNKk7wfhVxTYi) | 4:29 | 2021-12-17 | 2022-07-27 |
 | [Offering to the Void](https://open.spotify.com/track/645e2PzMglhBceqVpQOSoI) | [Lords of the Trident](https://open.spotify.com/artist/1C11hnl3RZ7hadyMv5g5gm) | [The Offering](https://open.spotify.com/album/5ua43Gmyv5TaewII4LnmGZ) | 4:32 | 2022-04-01 | 2022-04-28 |
 | [On Broken Glass](https://open.spotify.com/track/77UdkFXVaGnfR3epYo909A) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [On Broken Glass](https://open.spotify.com/album/6ChvfZE1Hnp7lPItx73v63) | 4:27 | 2022-03-22 | 2022-04-21 |

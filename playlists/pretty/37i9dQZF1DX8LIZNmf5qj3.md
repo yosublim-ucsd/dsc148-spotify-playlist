@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : JON VINYL
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,324 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,334 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Is it you ?](https://open.spotify.com/track/01U0RoOjtVZGFRobHmnWKt) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [IS IT YOU ?](https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a) | 3:45 |
 | 50 | [Fool's Gold](https://open.spotify.com/track/2xGyP9WuKLJc3zQ395OVPo) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Fool's Gold](https://open.spotify.com/album/49fo04SNkMfOzzZ7tEtVvX) | 2:27 |
 
-Snapshot ID: `MCwyNmVhOGQ1MzRlMDU4NWFmOTlhY2Q1M2QyOWRhZWMwNDMyOTM1Yzdj`
+Snapshot ID: `MCxkOGNhZjg1NTU0NGE5NTc4MmY2ODkwMjY1ZGEyMzQ3NWQ2MDg0NDk4`

@@ -2442,6 +2442,28 @@
     {
       "album": {
         "name": "Follow You",
+        "url": "https://open.spotify.com/album/58CpRUiucHR02Mv1ysxf9y"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Beks",
+          "url": "https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139436,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/3mud0yogGMEgrsVoYBpbch"
+    },
+    {
+      "album": {
+        "name": "Follow You",
         "url": "https://open.spotify.com/album/2NX3BWBb1JfvGqfYEfViRU"
       },
       "artists": [
@@ -2456,7 +2478,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 139436,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/4KgfbHlVsw8mvPG2GCe6rH"

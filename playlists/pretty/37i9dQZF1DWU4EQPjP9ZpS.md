@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,429 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,613 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Ricochet](https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:51 |
 | 100 | [Strangers Who Know Every Secret](https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU) | [Designed Intervention](https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT) | [Strangers Who Know Every Secret](https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk) | 2:36 |
 
-Snapshot ID: `MCxhZjNhNjM0M2FlMzI5NGQ0Mjg0YmM0Y2FlMDhkYjNmNDM2MjhmYWEy`
+Snapshot ID: `MCw0ODIxNDZmZTEzNjUzY2NkYjIxNGRiNjNiNmRmNDNmNzg4Mjg0NTE4`

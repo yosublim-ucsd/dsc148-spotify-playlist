@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-486 songs - 1 day 3 hr 51 min
+488 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [ay tentación](https://open.spotify.com/track/36aqyvgi0LDv23pZNYTbFH) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [ay tentación](https://open.spotify.com/album/4WClPjVnjq3q5FwHpX8cg9) | 3:31 | 2022-01-14 | 2022-07-29 |
 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 | 2022-01-14 |  |
 | [Ayer](https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [Ayer](https://open.spotify.com/album/4uGoe4piSnx77jxLOJPMKz) | 3:05 | 2022-07-15 | 2022-07-28 |
-| [AYER](https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP) | 3:55 | 2023-02-03 |  |
+| [AYER](https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP) | 3:55 | 2023-02-03 | 2023-05-06 |
 | [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 | 2022-01-21 | 2023-01-14 |
 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 | 2023-03-24 |  |
 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 | 2022-01-14 |  |
@@ -294,7 +294,8 @@
 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 | 2022-09-02 |  |
 | [Nada](https://open.spotify.com/track/3jtScBEbsSCwtHX0Vgcps4) | [AnaLu](https://open.spotify.com/artist/4jdzNnXPIXGaJEU06L5b8F), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Nada](https://open.spotify.com/album/50nxmSkAJM5mEmqwjVfp0a) | 3:47 | 2022-01-21 | 2022-07-22 |
 | [Nada](https://open.spotify.com/track/3ZN8ok1idMxc5AFOUs4uim) | [Anastasia Amarante](https://open.spotify.com/artist/6b3WWqGeBBkcnO1YcFE304) | [Nada](https://open.spotify.com/album/3VGRzWSNxAghWIE998mES2) | 3:11 | 2022-04-01 | 2022-04-29 |
-| [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 | 2022-01-14 |  |
+| [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 | 2022-01-14 | 2023-05-06 |
+| [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2023-04-21 |  |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2022-01-14 |  |
 | [Natural](https://open.spotify.com/track/1fzRUSGF8OzeMOGmJLkXaR) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Natural](https://open.spotify.com/album/310qqhmBnvOOGcuBMZapKN) | 3:36 | 2022-01-14 | 2022-07-29 |
 | [Negación](https://open.spotify.com/track/2f0RBeCZ2lP3Ql0T53w2Er) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Negación](https://open.spotify.com/album/4xFkB2ZPujTA2EPCIHVgr9) | 4:26 | 2022-01-21 | 2022-07-29 |
@@ -431,6 +432,7 @@
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2022-01-14 | 2022-07-29 |
 | [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 | 2022-09-23 | 2023-04-09 |
 | [Te Pido](https://open.spotify.com/track/17aiyNeLuMT3a88sr4Bsmt) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [Te Pido](https://open.spotify.com/album/1pmpmLXG9a8YSAALamKYuF) | 2:56 | 2022-04-01 | 2022-04-21 |
+| [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 | 2023-04-21 |  |
 | [Te Queria](https://open.spotify.com/track/4nkStFVaOEAz6BEtoNb3YN) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Te Queria](https://open.spotify.com/album/14hqEl8VjNWqXfBWW7hmJX) | 4:02 | 2022-01-21 | 2022-07-27 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-01-21 |  |
 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 | 2022-01-21 | 2022-07-27 |

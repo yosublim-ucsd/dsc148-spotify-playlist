@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,670 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,840 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 99 | [Round and Round](https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Groove On!](https://open.spotify.com/album/5vYhpagdFervgTth43gDBp) | 4:53 |
 | 100 | [Chillaxin](https://open.spotify.com/track/46XKawW6tKQkWU2AoRa75H) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Just Feels Right](https://open.spotify.com/album/5WbJzDda19vOO4jJ9vLPNX) | 6:06 |
 
-Snapshot ID: `MCw0NGE2NzM0ZWZkNDAzMjA5YzI2YTdlN2JkMDUzZTcwZTE4NzMxZTgx`
+Snapshot ID: `MCw1Yzg2OTgxZjM0OGQ5M2FjNmVlOTEzMjAyNWIwZjhmOWI4M2M4M2E3`

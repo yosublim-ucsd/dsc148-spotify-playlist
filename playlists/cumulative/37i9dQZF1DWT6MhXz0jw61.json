@@ -390,7 +390,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 201852,
       "name": "Affirmations",
       "url": "https://open.spotify.com/track/0N3vu6h7ADK4aRFhizfzmT"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 193253,
       "name": "Blue Hundreds",
       "url": "https://open.spotify.com/track/0MC5f84F0ZAGoOkBqkbEKg"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 222637,
       "name": "Brown Liquor",
       "url": "https://open.spotify.com/track/5FXxvduiTlw8NwS26EFC8Q"
@@ -2959,7 +2959,7 @@
     },
     {
       "album": {
-        "name": "LACUNA in the House of Mirrors",
+        "name": "LACUNA in The House Of Mirrors",
         "url": "https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn"
       },
       "artists": [
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180983,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3"
@@ -6048,7 +6048,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 188658,
       "name": "Matinee",
       "url": "https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo"
@@ -6911,7 +6911,7 @@
     },
     {
       "album": {
-        "name": "LACUNA in the House of Mirrors",
+        "name": "LACUNA in The House Of Mirrors",
         "url": "https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn"
       },
       "artists": [
@@ -7799,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6S2IDBMVq7CfAozkN9zio5"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128142,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/5ipptFL6m6dKYA1OrVA7rL"
+    },
+    {
+      "album": {
         "name": "Results Take Time",
         "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
       },
@@ -8383,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "Solid as a Rock",
+        "url": "https://open.spotify.com/album/4AjRwlZtfWbjBxZAUfmivk"
+      },
+      "artists": [
+        {
+          "name": "Michael Christmas",
+          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119418,
+      "name": "Solid as a Rock",
+      "url": "https://open.spotify.com/track/3p3taL6cO6HqBTN70JIR7n"
+    },
+    {
+      "album": {
         "name": "The Great Escape",
         "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
       },
@@ -8788,6 +8824,24 @@
       "duration_ms": 156521,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL"
+    },
+    {
+      "album": {
+        "name": "ME YOU & GOD",
+        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181386,
+      "name": "SWEETBiTTERS",
+      "url": "https://open.spotify.com/track/3EHAdQRIZVHXClghHCKQqr"
     },
     {
       "album": {
@@ -9230,7 +9284,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 199991,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0FUkb2Ujgu1vxOWUDLjG1u"
@@ -9549,6 +9603,28 @@
     },
     {
       "album": {
+        "name": "Trials & Tribulations",
+        "url": "https://open.spotify.com/album/6DAUnoEw92ob2cxAaxKr2h"
+      },
+      "artists": [
+        {
+          "name": "AKTHESAVIOR",
+          "url": "https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw"
+        },
+        {
+          "name": "Zombie Juice",
+          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Trials & Tribulations",
+      "url": "https://open.spotify.com/track/4RNNvZTRisiHOKhAZ1o2ML"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -9714,6 +9790,46 @@
       "duration_ms": 248760,
       "name": "Tyson vs. Ali (feat. Conway The Machine)",
       "url": "https://open.spotify.com/track/004DJSek7Zd1dVNRHvHwrf"
+    },
+    {
+      "album": {
+        "name": "F65",
+        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143434,
+      "name": "T\u00e9l\u00e9 Couleur",
+      "url": "https://open.spotify.com/track/6uNa9YhkIlugSGnxHv36UB"
+    },
+    {
+      "album": {
+        "name": "F65",
+        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164870,
+      "name": "Up The Score (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/7ciuPxjrJjnABMykZOJtDE"
     },
     {
       "album": {

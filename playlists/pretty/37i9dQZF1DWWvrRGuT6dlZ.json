@@ -1,12 +1,12 @@
 {
   "description": "Unearthing your new favourite artists. Cover: mersie. Artwork: Isu Kim.",
-  "num_followers": 4991,
+  "num_followers": 4994,
   "original_name": "Fresh Finds SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzIxMWQ5NDQ4ZmM2NzE3MWIwZTU3MGY4MDQ0OTgyMTAyNDU4MjA3",
+  "snapshot_id": "MCxhYzk0NzZiNTg0ZGU2MDc3M2JlNGUxMGJiYTU2Zjk5Njg3MGQzNTky",
   "tracks": [
     {
       "added_at": "2023-05-04 16:05:37",
@@ -103,6 +103,26 @@
       "duration_ms": 220942,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/61r9UkhMDvzpbaSvBLyscX"
+    },
+    {
+      "added_at": "2023-05-04 16:05:37",
+      "album": {
+        "name": "all my fridays",
+        "url": "https://open.spotify.com/album/7iSgaRcEb0SW11JmmMeNg4"
+      },
+      "artists": [
+        {
+          "name": "byn",
+          "url": "https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT"
+        },
+        {
+          "name": "HOW1E",
+          "url": "https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB"
+        }
+      ],
+      "duration_ms": 214245,
+      "name": "all my fridays",
+      "url": "https://open.spotify.com/track/1TOQwaFSpog2z8Lq5dEVJk"
     },
     {
       "added_at": "2023-05-04 16:05:37",

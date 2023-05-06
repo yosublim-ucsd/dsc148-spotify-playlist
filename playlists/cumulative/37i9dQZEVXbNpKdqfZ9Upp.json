@@ -6396,7 +6396,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 229627,
       "name": "Face-off",
       "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
@@ -9597,6 +9597,28 @@
     },
     {
       "album": {
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155550,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
+    },
+    {
+      "album": {
         "name": "Speak Now (Deluxe Package)",
         "url": "https://open.spotify.com/album/6S6JQWzUrJVcJLK4fi74Fw"
       },
@@ -12220,6 +12242,24 @@
       "duration_ms": 212013,
       "name": "N'y pense plus",
       "url": "https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH"
+    },
+    {
+      "album": {
+        "name": "NARCISSISTIC PERSONALITY DISORDER",
+        "url": "https://open.spotify.com/album/2iLfp8BAcBilTaO88gGzNq"
+      },
+      "artists": [
+        {
+          "name": "FenoSkii",
+          "url": "https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110510,
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "url": "https://open.spotify.com/track/19eQKZicAzXgQ2Tg3y4K0N"
     },
     {
       "album": {
@@ -18852,7 +18892,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 150519,
       "name": "UNDERSTAND",
       "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"

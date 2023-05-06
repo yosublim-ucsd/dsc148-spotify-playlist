@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Make It Funky",
+        "url": "https://open.spotify.com/album/2qhZSAmJea58xjhasjr96u"
+      },
+      "artists": [
+        {
+          "name": "TheDjLawyer",
+          "url": "https://open.spotify.com/artist/7k2fD4YbAzbcHX5DFl0RDD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290924,
+      "name": "Make It Funky - Disco Mix",
+      "url": "https://open.spotify.com/track/5nRXDUpWjtU7bCJURktRmE"
+    },
+    {
+      "album": {
         "name": "Baby I'm Yours",
         "url": "https://open.spotify.com/album/0sCktPXUOt19W503or8h9b"
       },

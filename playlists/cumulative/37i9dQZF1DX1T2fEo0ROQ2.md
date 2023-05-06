@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-398 songs - 20 hr 50 min
+399 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Across The Lake](https://open.spotify.com/track/6AChlY3k4jnOJKVH2zXSDr) | [Annmarie Celine](https://open.spotify.com/artist/0XdUzYIOLBT1s6YgLxcWi6) | [Across The Lake](https://open.spotify.com/album/6FZ6SHjpiRxPCngtSqX1qL) | 2:48 | 2022-12-02 |  |
 | [Adagio](https://open.spotify.com/track/060DJ68JbIu3BLnrJaP9s1) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 3:21 | 2022-05-26 | 2022-08-16 |
 | [Adormecido](https://open.spotify.com/track/2Fs6ck2LWeWNxJirfu40E6) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Adormecido](https://open.spotify.com/album/1NZVJdgv8ocqZbZmhNcKBH) | 2:56 | 2022-05-26 |  |
-| [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 | 2022-05-26 |  |
+| [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 | 2022-05-26 | 2023-05-06 |
 | [After the Storm](https://open.spotify.com/track/20RvtdICuVLxbtHs179hxA) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Anfang](https://open.spotify.com/album/1NTR3MPOBNHQfOLFdtlYlN) | 2:38 | 2022-05-26 | 2022-11-12 |
 | [Afterlight](https://open.spotify.com/track/5AUHJrmEjIQmILBzNYm9kk) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Afterlight](https://open.spotify.com/album/1c5EcxSFk9Fok943GTAwFn) | 4:26 | 2022-05-26 |  |
 | [Al Vanda](https://open.spotify.com/track/157498zKslcWTRJGqzx3ad) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Al Vanda](https://open.spotify.com/album/184oRUumTGWbZjRSM6EV7C) | 2:27 | 2022-09-30 |  |
@@ -276,6 +276,7 @@
 | [Portugal \(A Lift\)](https://open.spotify.com/track/5lpojl4X0KKpWtrG6bMYuL) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 6:48 | 2022-05-26 | 2022-07-29 |
 | [Portugal \(A Lift\)](https://open.spotify.com/track/7ujfmMdgm986T40j0oPRCF) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [S&S Presents: Dreams](https://open.spotify.com/album/4oVFo5HluwL0rnL1MVkDmH) | 6:48 | 2022-07-22 | 2022-08-16 |
 | [Power Nap](https://open.spotify.com/track/2g2cJg9FbFVmEtamXclS8L) | [Mr Pillow](https://open.spotify.com/artist/3V7GUrlrlXrhNa35wzdqUx) | [Getting Sleepy](https://open.spotify.com/album/145nFBu19qqrs9qGzElwj8) | 2:58 | 2022-05-26 | 2023-03-18 |
+| [Pressure Behavior](https://open.spotify.com/track/22aK1Gkcy25yWYHtHPB2zJ) | [Udda Jnhale](https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P) | [I start to feel](https://open.spotify.com/album/7KiKS5NY51JOiE0sjH40XK) | 3:18 | 2023-05-05 |  |
 | [Protagonist](https://open.spotify.com/track/7roBeVcRtHZR8J00pX5Fw2) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Protagonist](https://open.spotify.com/album/0clnxOhPz384VGX6nbuCcp) | 2:40 | 2022-05-26 |  |
 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
 | [Pushing through the Lush Green Grass](https://open.spotify.com/track/4e3MXLndFuQcFMgWEMtfO6) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Clear Western Sky](https://open.spotify.com/album/1G2YiRUliSzL2MrWUX1YOZ) | 3:09 | 2022-05-26 |  |

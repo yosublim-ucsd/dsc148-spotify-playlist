@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Drink The River",
+        "url": "https://open.spotify.com/album/6t9HJaQDaEswn0LIweG7hg"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "Drink The River",
+      "url": "https://open.spotify.com/track/3znuPoIQWrUGRRL1nh3Ifz"
+    },
+    {
+      "album": {
         "name": "Young Man In America",
         "url": "https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY"
       },

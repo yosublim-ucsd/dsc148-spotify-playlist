@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,065 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,391 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
 | 60 | [Sere \- Remix](https://open.spotify.com/track/6kxo2n2WY48fAhLuiwYOAb) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sere \(Remix\)](https://open.spotify.com/album/2VTdHWIwS3hf7Yi1I14ZG9) | 3:14 |
 
-Snapshot ID: `MCxmZDk1NzRkZjQ4MzRhNjAwNTY0ODI2MWUyZjE3MGUwOTFmMmFiYTc1`
+Snapshot ID: `MCw0ZDZlMDg2NmZlZGMxM2ZjOTY2ZDU3YTY2ZjkzY2E0NDJkZTg2NWMx`

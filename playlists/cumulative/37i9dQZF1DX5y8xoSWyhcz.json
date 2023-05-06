@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 189246,
       "name": "3am in nyc",
       "url": "https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 173124,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3OEzp4UBS6xWHsyMHyKD6r"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187072,
       "name": "Backwards Directions",
       "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
@@ -4425,6 +4425,28 @@
     },
     {
       "album": {
+        "name": "Down (Exit Song)",
+        "url": "https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK"
+      },
+      "artists": [
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        },
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187815,
+      "name": "Down (Exit Song)",
+      "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
+    },
+    {
+      "album": {
         "name": "Off the Rails",
         "url": "https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s"
       },
@@ -5236,7 +5258,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 163420,
       "name": "Failed English",
       "url": "https://open.spotify.com/track/16BnRyqzdVcurz038JKdje"
@@ -9588,7 +9610,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 179458,
       "name": "Keep Dancing",
       "url": "https://open.spotify.com/track/40MvWovKhWdX9jxbthw62T"
@@ -10119,6 +10141,24 @@
     },
     {
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124453,
+      "name": "Letter From Roy",
+      "url": "https://open.spotify.com/track/0Wt6iLMycvX8eh2iUDjGI2"
+    },
+    {
+      "album": {
         "name": "lie lie lie",
         "url": "https://open.spotify.com/album/6cOsA7wYTgq1s2GHokQm16"
       },
@@ -10276,6 +10316,24 @@
       "duration_ms": 178500,
       "name": "living far away",
       "url": "https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi"
+    },
+    {
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "album": {
@@ -11430,6 +11488,28 @@
       "duration_ms": 223000,
       "name": "MOVE ON TOO",
       "url": "https://open.spotify.com/track/5CIj9ZlzKdRbI7ng3UIyLd"
+    },
+    {
+      "album": {
+        "name": "moving on / sugarhoneyiceicetea",
+        "url": "https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179080,
+      "name": "moving on (feat. Khary)",
+      "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
     },
     {
       "album": {
@@ -13480,6 +13560,24 @@
       "duration_ms": 219483,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/1yZ5C5664QgxBtmdOtX0V5"
+    },
+    {
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/3fecplOGKGwnaQLDkuywd4"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178348,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/15mEZWV8zsXtlQuq3fnv5C"
     },
     {
       "album": {
@@ -16688,7 +16786,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 164576,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
@@ -17702,6 +17800,24 @@
       "duration_ms": 219632,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa"
+    },
+    {
+      "album": {
+        "name": "time waits",
+        "url": "https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ"
+      },
+      "artists": [
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199760,
+      "name": "time waits",
+      "url": "https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4"
     },
     {
       "album": {

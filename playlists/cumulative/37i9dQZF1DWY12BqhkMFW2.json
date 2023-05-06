@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Live At Electric Lady (Spotify Exclusive)",
+        "url": "https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263562,
+      "name": "Didn't Cha Know [Feat. Bilal]",
+      "url": "https://open.spotify.com/track/33VfEqHmo459jipU1W7it1"
+    },
+    {
+      "album": {
         "name": "Ventriloquism",
         "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
       },
@@ -417,6 +439,24 @@
     },
     {
       "album": {
+        "name": "It's A Man's World",
+        "url": "https://open.spotify.com/album/3SjJXRijCgeSgaazig81BQ"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183123,
+      "name": "It's A Man's World",
+      "url": "https://open.spotify.com/track/5YE4SCAxoR32l4PDYSBWOo"
+    },
+    {
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -526,7 +566,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 257720,
       "name": "Love Don't Live Here Anymore",
       "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
@@ -906,7 +946,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 221493,
       "name": "Stop, Look, Listen To Your Heart",
       "url": "https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ"

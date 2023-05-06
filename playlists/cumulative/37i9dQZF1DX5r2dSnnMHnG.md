@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-159 songs - 9 hr 10 min
+160 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Feeling Good \- 2019 Version](https://open.spotify.com/track/2BV9fEymPBavD9QsC27AmY) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 2:42 | 2022-06-09 | 2022-07-19 |
 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-05-11 |  |
 | [Flower](https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [talks about blossoms](https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP) | 3:38 | 2023-03-27 |  |
+| [flutter](https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [flutter](https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV) | 3:16 | 2023-05-05 |  |
 | [Freesia 프리지아](https://open.spotify.com/track/0KX2V65DSgo9ii3A0rJAPw) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:06 | 2022-05-11 | 2022-07-27 |
 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2022-05-11 |  |
 | [Galaxy 우주를 줄게](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 | 2022-05-11 |  |
@@ -103,7 +104,7 @@
 | [See you \- with Noair, Nason](https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG) | 3:06 | 2022-05-11 | 2022-07-29 |
 | [siot](https://open.spotify.com/track/77V2xdd8cabH0xbcoJEmrv) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Home](https://open.spotify.com/album/0IuRY4TAWOxBlqqK7CKG1x) | 3:06 | 2022-05-11 | 2022-11-06 |
 | [SOME](https://open.spotify.com/track/29fqZVcnBDxZZaM5qOcQmR) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/67gYjBoR0VQZbe2wSN7ZfU) | 3:43 | 2022-05-11 | 2022-07-29 |
-| [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 | 2022-07-04 |  |
+| [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 | 2022-07-04 | 2023-05-06 |
 | [Somehow you are 왠지 너는](https://open.spotify.com/track/17xYfVlgC5q36pXP7Eju4A) | [Jaejoo Boys](https://open.spotify.com/artist/6Z41VjRzi0cKNZAVp5u7VZ) | [Somehow you are 왠지 너는](https://open.spotify.com/album/5BvCMIM7DpDMVcd6k5bRRy) | 3:57 | 2022-05-11 | 2022-07-28 |
 | [Spring](https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI) | 2:53 | 2022-09-05 | 2023-03-05 |
 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 | 2022-06-09 | 2022-10-26 |

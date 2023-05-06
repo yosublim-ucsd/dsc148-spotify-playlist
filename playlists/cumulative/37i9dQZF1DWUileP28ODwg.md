@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-294 songs - 18 hr 13 min
+295 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2022-04-22 |  |
 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 | 2022-05-28 | 2022-08-27 |
 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 | 2023-03-10 |  |
-| [PRAISES](https://open.spotify.com/track/1UH488ukPL4KYvjTMa1cYr) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [PRAISES](https://open.spotify.com/album/3TXBs3L4xhXT17QcbA23Sz) | 2:48 | 2023-03-10 |  |
+| [PRAISES](https://open.spotify.com/track/1UH488ukPL4KYvjTMa1cYr) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [PRAISES](https://open.spotify.com/album/3TXBs3L4xhXT17QcbA23Sz) | 2:48 | 2023-03-10 | 2023-05-06 |
+| [PRAISES](https://open.spotify.com/track/68KVmSqAOYem04YsC37U7B) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [This Is The Gospel](https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn) | 2:48 | 2023-03-10 |  |
 | [Prepare The Way](https://open.spotify.com/track/6LWllzUioINd9vMcoHGep7) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Prepare The Way](https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ) | 4:15 | 2022-03-25 | 2022-04-29 |
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-02-25 | 2022-08-27 |
 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/6QoNnPbVjUm2doVrqfl8JC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/6ptJ2eWD8XmTwzeTgFUebR) | 4:32 | 2022-07-08 |  |

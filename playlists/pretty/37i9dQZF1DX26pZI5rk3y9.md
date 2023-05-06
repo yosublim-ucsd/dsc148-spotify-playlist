@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,546 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,557 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Appetite Blues](https://open.spotify.com/track/3AKevGgNMWWhA88SAsaQDL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:35 |
 | 70 | [Pass the Biscuits Please \- Remastered](https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:18 |
 
-Snapshot ID: `MCw0N2Y2ODQ0ZDE5YTdjNzlhNWUzODAwZWIwZTdlNzE1Mzc3MDc3NTll`
+Snapshot ID: `MCwxNjFjMmQ0NGRjYzhjZDNhOTViMGY2ZGQzMDg2YWYxYTAxNjBhYTRk`

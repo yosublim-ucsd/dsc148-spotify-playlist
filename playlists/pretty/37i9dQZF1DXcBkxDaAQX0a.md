@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,104 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,146 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Last To Know \- From Exile](https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [From Exile](https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9) | 3:59 |
 | 75 | [Find Peace](https://open.spotify.com/track/1usQj9NC5JYJn2frcYFjPO) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [All in Time \(Deluxe\)](https://open.spotify.com/album/7FiSZuXVcqwOwWBCSfGVhJ) | 3:31 |
 
-Snapshot ID: `MCw4NTEyY2ViYjVjMDg4M2NmM2NkZjU0MjY2YmVhZThhMjEwZjQ4NTlk`
+Snapshot ID: `MCw2ZjZmZmI4MDEwYzhlMmI1NWJkMDkxYTc3MDgzMWQ3YTQwYzU1ZGE1`

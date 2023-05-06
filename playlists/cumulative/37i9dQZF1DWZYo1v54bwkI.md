@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-215 songs - 10 hr 56 min
+216 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-07-15 |  |
 | [Balance](https://open.spotify.com/track/0Ttlyk4q8FsK4Va1lM3vif) | [Amara Issawi](https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r) | [Balance](https://open.spotify.com/album/52khY6r1rLJUYxOa8GWOPS) | 3:30 | 2022-07-15 |  |
 | [Beacon](https://open.spotify.com/track/2nFNxlIt3Y6Gw5BAu4bsFg) | [Krell](https://open.spotify.com/artist/0D6r7KnJpwcCFIbxUGJLkX) | [Beacon](https://open.spotify.com/album/0Pty5PD7hYWQ0HGnxS5WxV) | 4:06 | 2022-07-15 |  |
+| [Beautiful Light](https://open.spotify.com/track/7uOyfHS2nN6k5NfODZNFjZ) | [Isla Cantrell](https://open.spotify.com/artist/2KZi2E7jiI5QACfJTfQFwM) | [Beautiful Light](https://open.spotify.com/album/2cdZB51VhLhxFi6oj8EEtI) | 2:12 | 2023-05-05 |  |
 | [Beautiful Whispers](https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 3](https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn) | 2:53 | 2022-09-13 |  |
 | [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2022-07-15 |  |
 | [Bothain](https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Bothain](https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB) | 2:22 | 2022-10-21 |  |
@@ -142,7 +143,7 @@
 | [Open Heart](https://open.spotify.com/track/7meCshsWEYqEIsyDz02Wwr) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Open Heart](https://open.spotify.com/album/5CgkPzpExkZMVYR6mpaE2S) | 2:48 | 2022-07-15 |  |
 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 | 2022-07-15 |  |
 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 | 2022-07-15 |  |
-| [Path of Light](https://open.spotify.com/track/0AXQFmU88hVhan5teKTPl5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Path of Light](https://open.spotify.com/album/64r1FJ9RdY7J9qbWHpJEe2) | 3:40 | 2022-07-15 |  |
+| [Path of Light](https://open.spotify.com/track/0AXQFmU88hVhan5teKTPl5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Path of Light](https://open.spotify.com/album/64r1FJ9RdY7J9qbWHpJEe2) | 3:40 | 2022-07-15 | 2023-05-06 |
 | [Peaceful Clearing](https://open.spotify.com/track/7D1WJdXYD7lPLJigGxs04C) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [Vågor](https://open.spotify.com/album/5IOEaUuuDjv9psQ0PhQpFS) | 2:20 | 2022-07-15 |  |
 | [Peaceful Movement](https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Peaceful Movement](https://open.spotify.com/album/6WhbkTG9bSpcHmP01t2P87) | 2:53 | 2022-07-15 |  |
 | [Peaceful Wanderer](https://open.spotify.com/track/6EHrTWnHax9In83uWjgmO3) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Restora](https://open.spotify.com/album/33fCRxByXLoGdxXtx5X7qe) | 3:40 | 2022-07-15 | 2022-10-15 |

@@ -4,7 +4,7 @@
 
 > Awaken and connect through meditation with Theta frequencies.
 
-60 songs - 3 hr 15 min
+62 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Memory \(Theta 7 Hz\)](https://open.spotify.com/track/7G36qGQQHvi8Ez4WLeQGyq) | [Binaural Warrior](https://open.spotify.com/artist/74eeG2QIYgBimAxFL2vGL5) | [Binaural Warrior](https://open.spotify.com/album/1bHFsNgWMyPJRNx8OsfcYL) | 3:12 | 2023-03-16 |  |
 | [Nearby \(Theta 120 Hz \- 126 Hz\)](https://open.spotify.com/track/3E887SSbVNvWwBVhHg5RvU) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Nearby & Lotus \(Theta Binaural\)](https://open.spotify.com/album/0wKyJxlJjCjQ4wmcD8fBNu) | 3:33 | 2023-03-16 |  |
 | [Neptunium Theta 4 Hz](https://open.spotify.com/track/1wxhO6Vf7NtlSHbl2ykH5z) | [Theta Time](https://open.spotify.com/artist/036o8KM9eLv1TI1xoclIXw) | [Neptunium Theta 4 Hz](https://open.spotify.com/album/5jUBUOqZODoiFcjdpjHFON) | 3:14 | 2023-03-16 |  |
+| [New Start \(Binaural Theta\)](https://open.spotify.com/track/2EekegJ4qOGkwpO4ENePIb) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [New Start \(Binaural Theta\)](https://open.spotify.com/album/7JmgbPfah3X5GIqwNbZlSX) | 3:05 | 2023-05-05 |  |
 | [Purple Night \(Theta Binaural\)](https://open.spotify.com/track/4jMT24JGe191KtWPERax3D) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Theta for Sleep](https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh) | 3:24 | 2023-03-16 |  |
 | [Relieving Stress \(Binaural Theta\)](https://open.spotify.com/track/1zJrYUIt1IIL6xz6lXjZgL) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Recenter Your Mind](https://open.spotify.com/album/2XAbBsUESUVWkQKY5zYGGM) | 3:28 | 2023-03-16 |  |
 | [Skies REM \(Theta version\)](https://open.spotify.com/track/0Eh77Tpr1WLlOEeLnCX0nj) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:41 | 2023-03-16 |  |
@@ -55,6 +56,7 @@
 | [Theta Relax \(84Hz \- 91Hz\)](https://open.spotify.com/track/0rbnJUyp3FzKOEOc6PXZGb) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Frame of Mind](https://open.spotify.com/album/19BNqg67kGHHfX50FIYtIp) | 2:28 | 2023-03-16 |  |
 | [Theta Resonance 8 Hz](https://open.spotify.com/track/5g0JKL5yZQyKnUvksxZnpz) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Resonance](https://open.spotify.com/album/6smVmCCDgc6g1nIcUOpc3G) | 3:04 | 2023-04-06 |  |
 | [Theta secrets 89,5 + 91,3 hz](https://open.spotify.com/track/0pnUJj7iSz3XuSrKvP1k9q) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Theta Waves](https://open.spotify.com/album/0q4tBTB2yPbfE1u4nAvfWy) | 3:37 | 2023-03-16 |  |
+| [Theta Serenade 7 Hz](https://open.spotify.com/track/1Np70NnU9Dz4i1J3WJw9JY) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Serenade](https://open.spotify.com/album/75xJLqtlDky9rlnxzknINy) | 2:51 | 2023-05-05 |  |
 | [Theta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/3dw2xpPQnX1K5dvUETLDY7) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:33 | 2023-03-16 |  |
 | [Theta Sinus 100 Hz \- 106 Hz](https://open.spotify.com/track/6TqdGloOecWg0tdZj9as16) | [Subdrones](https://open.spotify.com/artist/24tr6QQzxUZP2HhpP8FCn7) | [Subdrones](https://open.spotify.com/album/2fOWp0iIqd56sO5N2w3x85) | 3:16 | 2023-03-16 |  |
 | [Theta State Of Flow 155.56Hz\-160.56Hz](https://open.spotify.com/track/7ClMGXAMTxqLpMV675wngn) | [Quiet Mind](https://open.spotify.com/artist/3RfH4VGmFRZJe205JoRCT5) | [Theta Healing](https://open.spotify.com/album/0dBwW1MpfJtvD9t7z5QjYV) | 2:50 | 2023-03-16 |  |

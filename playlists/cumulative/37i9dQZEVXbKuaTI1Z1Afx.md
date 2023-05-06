@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,485 songs - 3 day 7 hr 51 min
+1,487 songs - 3 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:38 | 2022-12-15 | 2022-12-19 |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-24 | 2022-06-27 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-04-30 | 2022-05-25 |
+| [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 | 2023-05-05 |  |
 | [Good Morning Gorgeous](https://open.spotify.com/track/31yoNL3A318KMhaaaBDbME) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 2:54 | 2022-02-16 | 2022-02-21 |
 | [Good Ol' Man](https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Good Ol' Man](https://open.spotify.com/album/1AUKevdHLZT2YYJqv3mf2s) | 3:22 | 2022-03-22 | 2022-06-13 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-04-10 | 2022-04-18 |
@@ -879,10 +880,11 @@
 | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2021-12-27 | 2022-01-21 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-03-15 | 2022-03-23 |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-08-23 | 2022-08-31 |
-| [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-04-25 |  |
+| [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/19eQKZicAzXgQ2Tg3y4K0N) | [FenoSkii](https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/2iLfp8BAcBilTaO88gGzNq) | 1:50 | 2023-05-05 |  |
+| [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-04-25 | 2023-05-06 |
 | [Narco](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Narco](https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK) | 3:28 | 2022-08-11 | 2022-09-21 |
 | [NASTY](https://open.spotify.com/track/0DuylJNqsvjRN9hhWUdeJZ) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [NASTY](https://open.spotify.com/album/4xPCDVDD5GufVMBOGkXug8) | 1:56 | 2023-04-11 | 2023-04-14 |
-| [NASTY \- Extended Version](https://open.spotify.com/track/08XHGvYxioT9gMP6TPuaLR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [NASTY \(Extended Version\)](https://open.spotify.com/album/16c4zu2oKZ8JTGOWAAwz8X) | 2:56 | 2023-04-25 |  |
+| [NASTY \- Extended Version](https://open.spotify.com/track/08XHGvYxioT9gMP6TPuaLR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [NASTY \(Extended Version\)](https://open.spotify.com/album/16c4zu2oKZ8JTGOWAAwz8X) | 2:56 | 2023-04-25 | 2023-05-06 |
 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell Williams\)](https://open.spotify.com/track/7kQJCw0ZkvHgfJqRwPblmG) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 3:29 | 2022-05-03 | 2022-05-11 |
 | [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Need A Favor](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 | 2023-04-08 | 2023-04-12 |
 | [Need You](https://open.spotify.com/track/5FkBoG7xkb0pPkaO8rS5td) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Need You](https://open.spotify.com/album/7GDatS6iAApwmxAvLMEG1c) | 2:53 | 2022-03-01 | 2022-03-18 |

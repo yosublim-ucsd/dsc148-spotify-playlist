@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "salvador \u00e9 AULAS ",
+  "description": "kawe e baco \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -310,6 +310,32 @@
       "duration_ms": 328079,
       "name": "AmarElo (Sample: Sujeito de Sorte - Belchior) (feat. Pabllo Vittar, Majur & Thiago Jamel\u00e3o)",
       "url": "https://open.spotify.com/track/1aN92D8xslPjXPO9VWUgXU"
+    },
+    {
+      "album": {
+        "name": "Levante",
+        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "JD On Tha Track",
+          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "Amor Virou Um Pr\u00eamio",
+      "url": "https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP"
     },
     {
       "album": {
@@ -2616,7 +2642,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 208000,
       "name": "Olhos Apagados",
       "url": "https://open.spotify.com/track/18VjBDBdbXoe0FKCCl21AH"

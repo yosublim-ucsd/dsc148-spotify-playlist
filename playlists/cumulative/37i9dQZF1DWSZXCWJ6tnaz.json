@@ -257,6 +257,32 @@
     },
     {
       "album": {
+        "name": "Howard: Dappled Light",
+        "url": "https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251573,
+      "name": "Dappled Light",
+      "url": "https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F"
+    },
+    {
+      "album": {
         "name": "Cello",
         "url": "https://open.spotify.com/album/6dk74Wt3hzq5LC3T6V7Kms"
       },
@@ -396,32 +422,6 @@
       "duration_ms": 365993,
       "name": "Love & Keep",
       "url": "https://open.spotify.com/track/1M9v3gKjpvpxmWnAKdi40z"
-    },
-    {
-      "album": {
-        "name": "Howard: Dappled Light",
-        "url": "https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        },
-        {
-          "name": "Jess Gillam",
-          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
-        },
-        {
-          "name": "Jess Gillam Ensemble",
-          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
-        }
-      ],
-      "date_added": "2022-05-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 251573,
-      "name": "Luke Howard: Dappled Light",
-      "url": "https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F"
     },
     {
       "album": {

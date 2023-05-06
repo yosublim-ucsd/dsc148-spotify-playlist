@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,036 songs - 5 day 17 hr 30 min
+2,037 songs - 5 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1377,7 +1377,8 @@
 | [Nisyan](https://open.spotify.com/track/64rUFahjPCas3JIx5OE27K) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Awedny](https://open.spotify.com/album/5sxQOaER4XzPcb4F72PZeM) | 4:28 | 2022-06-09 | 2022-07-29 |
 | [No Me Den Candela](https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job](https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G) | 7:09 | 2022-07-12 |  |
 | [No Meio do Pitiú](https://open.spotify.com/track/0hCRiwtmPfOQyfIYT14L3z) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Banzeiro](https://open.spotify.com/album/3YYrpO2nxTIe3V8qCMsmLp) | 4:08 | 2022-06-09 | 2022-07-29 |
-| [No Meio do Pitiú](https://open.spotify.com/track/4MTI8hXnpnBaNXXYbhozWS) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Banzeiro](https://open.spotify.com/album/2Yk9S6JRuYk9ILMUDGnpOI) | 4:08 | 2022-07-27 |  |
+| [No Meio do Pitiú](https://open.spotify.com/track/2wkd1PMat9PuEpQkp7Hvpm) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Banzeiro](https://open.spotify.com/album/5CHqXSKoo24QfFyKJAXN0J) | 4:08 | 2023-03-17 |  |
+| [No Meio do Pitiú](https://open.spotify.com/track/4MTI8hXnpnBaNXXYbhozWS) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Banzeiro](https://open.spotify.com/album/2Yk9S6JRuYk9ILMUDGnpOI) | 4:08 | 2022-07-27 | 2023-05-06 |
 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 | 2022-06-09 |  |
 | [Noche de Estrellas](https://open.spotify.com/track/69UleBiAXFH6Vhk198Mwoe) | [Climaco Sarmiento Y Su Orquesta](https://open.spotify.com/artist/1RTUnSytoC6UCzLOg1pqFB) | [Made In Colombia / Tropical / 12](https://open.spotify.com/album/77cmHu997YOXfXgyUeDvwB) | 2:37 | 2022-06-09 | 2022-07-29 |
 | [Noche de Estrellas](https://open.spotify.com/track/18apPmM8ymnXu4Xy975stM) | [Climaco Sarmiento Y Su Orquesta](https://open.spotify.com/artist/1RTUnSytoC6UCzLOg1pqFB), [Poli Martínez](https://open.spotify.com/artist/0icJ6KcSXd9fUsyXqUjDa5) | [Climaco Sarmiento y Su Orquesta](https://open.spotify.com/album/2M5oDZAG5y2B0nJJTqwEUF) | 2:37 | 2022-07-27 |  |

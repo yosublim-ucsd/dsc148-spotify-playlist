@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Zinadelphia",
-  "num_followers": 82160,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Sadie Jean",
+  "num_followers": 82192,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTAyYTMwMDQyNzlmMDIxZTkyOWE0NjdjOTY0NmFiZjA4ODI0MjJh",
+  "snapshot_id": "MCwxMGIxMzdjYThhYTdmYzc3NTNmMWE0NDA1MTc3OGYzN2E1YmE4ZGE4",
   "tracks": [
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2"
+      },
+      "artists": [
+        {
+          "name": "Isaac Stuart",
+          "url": "https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE"
+        }
+      ],
+      "duration_ms": 201515,
+      "name": "Midnight Train From Marylebone",
+      "url": "https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o"
+    },
     {
       "added_at": "2023-04-28 04:31:09",
       "album": {
@@ -23,6 +55,86 @@
       "duration_ms": 183167,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5KEfMWnIzvVRaDZtHdrpkb"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "duration_ms": 167301,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2e9OcSUPm48Eo1JqGf9z0b"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "In Plain Sight",
+        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 156802,
+      "name": "In Plain Sight",
+      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "handgun",
+        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "handgun",
+      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Role Model",
+        "url": "https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 133540,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Introverted",
+        "url": "https://open.spotify.com/album/2uZ4tlQGq0AAhNvhYQp7pm"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 240186,
+      "name": "Introverted",
+      "url": "https://open.spotify.com/track/23hY0BOxI8uDhVxxKtStBE"
     },
     {
       "added_at": "2023-04-28 04:31:09",
@@ -235,22 +347,6 @@
       "duration_ms": 165443,
       "name": "Can't Blame A Girl For Trying",
       "url": "https://open.spotify.com/track/75pX0ccn359gZ7nqWWDac5"
-    },
-    {
-      "added_at": "2023-04-28 04:31:09",
-      "album": {
-        "name": "This is a Good Sign",
-        "url": "https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf"
-      },
-      "artists": [
-        {
-          "name": "Olivia Barton",
-          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
-        }
-      ],
-      "duration_ms": 189525,
-      "name": "I Don't Do Anything",
-      "url": "https://open.spotify.com/track/5sEw7zJzxgMzmLqE3Ov4XT"
     },
     {
       "added_at": "2023-04-28 04:31:09",
@@ -735,22 +831,6 @@
     {
       "added_at": "2023-04-28 04:31:09",
       "album": {
-        "name": "The Day That I Met You",
-        "url": "https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 165080,
-      "name": "The Day That I Met You",
-      "url": "https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1"
-    },
-    {
-      "added_at": "2023-04-28 04:31:09",
-      "album": {
         "name": "I Get What I Want",
         "url": "https://open.spotify.com/album/6ykoHY56yECTvi6bxyzhdU"
       },
@@ -763,22 +843,6 @@
       "duration_ms": 207698,
       "name": "I Get What I Want",
       "url": "https://open.spotify.com/track/0pkmyS5YR3IkGwOCBfXsfi"
-    },
-    {
-      "added_at": "2023-04-28 04:31:09",
-      "album": {
-        "name": "Lose a Friend",
-        "url": "https://open.spotify.com/album/1J1bA0Cw8Bw9r1KyDukInD"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Lose a Friend",
-      "url": "https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd"
     },
     {
       "added_at": "2023-04-28 04:31:09",
@@ -863,22 +927,6 @@
     {
       "added_at": "2023-04-28 04:31:09",
       "album": {
-        "name": "part one",
-        "url": "https://open.spotify.com/album/7mMRGWSoqwWWwQzCI2eMqh"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        }
-      ],
-      "duration_ms": 220430,
-      "name": "Almost Loved You",
-      "url": "https://open.spotify.com/track/1gCIGVbF00N5toEK0TEmWr"
-    },
-    {
-      "added_at": "2023-04-28 04:31:09",
-      "album": {
         "name": "Gatekeeper",
         "url": "https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB"
       },
@@ -891,22 +939,6 @@
       "duration_ms": 206613,
       "name": "Gatekeeper",
       "url": "https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM"
-    },
-    {
-      "added_at": "2023-04-28 04:31:09",
-      "album": {
-        "name": "Us and Pigs",
-        "url": "https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt"
-      },
-      "artists": [
-        {
-          "name": "SOFIA ISELLA",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 174118,
-      "name": "Us and Pigs",
-      "url": "https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt"
     },
     {
       "added_at": "2023-04-28 04:31:09",
@@ -939,22 +971,6 @@
       "duration_ms": 271579,
       "name": "Liability",
       "url": "https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN"
-    },
-    {
-      "added_at": "2023-04-28 04:31:09",
-      "album": {
-        "name": "Broken English",
-        "url": "https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 182296,
-      "name": "Broken English",
-      "url": "https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z"
     },
     {
       "added_at": "2023-04-28 04:31:09",
@@ -1019,22 +1035,6 @@
       "duration_ms": 189671,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
-    },
-    {
-      "added_at": "2023-04-28 04:31:09",
-      "album": {
-        "name": "Locksmith",
-        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "Locksmith",
-      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
     },
     {
       "added_at": "2023-04-28 04:31:09",

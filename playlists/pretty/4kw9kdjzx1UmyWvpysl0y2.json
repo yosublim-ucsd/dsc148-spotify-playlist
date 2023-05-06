@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127267,
+  "num_followers": 127273,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE3MixjZTMxYWU4YTRjOTEzYWRkMDY4NGQ2ODE3ZWJiNjhiNTQzMjdiNGMx",
+  "snapshot_id": "NDE3NSw4MjBhZGRhZjBjYTE5ZGMwZDAwMDE3ODI4NjNiZDc5YWZjZDFiYzQ2",
   "tracks": [
+    {
+      "added_at": "2023-05-05 15:10:49",
+      "album": {
+        "name": "Blinding",
+        "url": "https://open.spotify.com/album/39eGOxLGyql1izxsJjK7lS"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Wolfy Lights",
+          "url": "https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z"
+        }
+      ],
+      "duration_ms": 223065,
+      "name": "Blinding",
+      "url": "https://open.spotify.com/track/7EumtlWTL8XRzS0ZEDoE4i"
+    },
     {
       "added_at": "2023-05-04 16:27:11",
       "album": {
@@ -1079,22 +1099,6 @@
       "duration_ms": 208615,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
-    },
-    {
-      "added_at": "2023-02-16 19:04:01",
-      "album": {
-        "name": "Tourmaline",
-        "url": "https://open.spotify.com/album/6LhhGLTYsTSaxzWcRJ9KsK"
-      },
-      "artists": [
-        {
-          "name": "Aether",
-          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Tourmaline",
-      "url": "https://open.spotify.com/track/1yX1uaq2rWDEURrREEmyIM"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

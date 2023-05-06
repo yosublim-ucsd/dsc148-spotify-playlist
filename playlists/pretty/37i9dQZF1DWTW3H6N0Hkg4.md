@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,052 likes - 125 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,364 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 124 | [La Banda Borracha](https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 3:15 |
 | 125 | [La Suavecita](https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Música Tropical de Colombia, Vol\. 17](https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT) | 3:55 |
 
-Snapshot ID: `MCxiODY5YzJjNzIxMTU0MGNjOTBkYTZkNTRkZWI3OGFhN2FiY2FjYmQx`
+Snapshot ID: `MCxjNGEzM2NjNGY0MDk5YmExNThmMTk2NTgyOWVkMmQzYzNiY2Q5YTk4`

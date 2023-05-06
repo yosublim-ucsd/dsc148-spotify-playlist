@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,213 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,420 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 |
 | 100 | [Summer Something](https://open.spotify.com/track/3NtrvMkHEiGjPk3B18rsop) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Fun Times](https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi) | 3:14 |
 
-Snapshot ID: `MCw1N2Q0OGJmYjNmY2QyOWI3ZTQ2YWMyZDQ1NWY2MTA5MmY5MTlkYTRi`
+Snapshot ID: `MCxjYmU2YTUxNjYxMTExMjI1YjBhM2M3M2I2ZjEzMzRiMjdhMzJhMzUx`

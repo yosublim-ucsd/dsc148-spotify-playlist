@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 259375,
       "name": "Adictivo",
       "url": "https://open.spotify.com/track/5UEjM0Fh4pR0k7GB8NiWbP"
@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "BLINDADO",
+        "url": "https://open.spotify.com/album/0dK0SwmjYFjKWPqocT19Kc"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206865,
+      "name": "BLINDADO",
+      "url": "https://open.spotify.com/track/7kDmN12XizlAvWraA6F08X"
+    },
+    {
+      "album": {
         "name": "Bora Bora",
         "url": "https://open.spotify.com/album/0vaSbVCQgVtVT8ARtkDu5f"
       },
@@ -924,6 +942,24 @@
       "duration_ms": 229125,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3Hv3jFa44MeGvd88EkOKBu"
+    },
+    {
+      "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/5hGOS96loDdLXbb7yC7iEx"
+      },
+      "artists": [
+        {
+          "name": "Eichem",
+          "url": "https://open.spotify.com/artist/7wqVyRmXhkLoe0CAMPtHMC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/5WwerOK3KqTcUEqr6m9CNx"
     },
     {
       "album": {
@@ -3779,6 +3815,32 @@
     },
     {
       "album": {
+        "name": "Mejor Que Yo",
+        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242696,
+      "name": "Mejor Que Yo",
+      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
+    },
+    {
+      "album": {
         "name": "Regaetton Hits",
         "url": "https://open.spotify.com/album/17zIDSCD7jEwW4afb8P7IU"
       },
@@ -4214,7 +4276,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 138209,
       "name": "Nebuleo (feat. DJ Blass)",
       "url": "https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z"
@@ -4742,7 +4804,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 212630,
       "name": "Pal Bellakeo",
       "url": "https://open.spotify.com/track/3HNJzcAtMDkmyjcIP4AekL"
@@ -5520,7 +5582,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
@@ -5766,6 +5828,28 @@
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
+    },
+    {
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/1YbmBZvVgsebo2fDVM2tVY"
+      },
+      "artists": [
+        {
+          "name": "Brenda Aliendro",
+          "url": "https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0OVJibv9jDMMhMfnqUDLka"
     },
     {
       "album": {

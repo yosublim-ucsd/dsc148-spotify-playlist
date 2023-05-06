@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Ronboogz; thiết kế: Isu Kim
 
-923 songs - 2 day 6 hr 12 min
+924 songs - 2 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Nguyệt Hồng Phai](https://open.spotify.com/track/03lC2nXXuj2fMTAj37jhrB) | [NH4T](https://open.spotify.com/artist/63WrjImX9GPi1i1pqz2BKe), [Dương Yến Phi](https://open.spotify.com/artist/0UFPhgdolmJm2bciyAIqEY) | [Nguyệt Hồng Phai](https://open.spotify.com/album/4RsKzbVsWg0xnUVtsJAvKV) | 4:16 | 2022-05-11 | 2022-05-27 |
 | [Ngàn Đời](https://open.spotify.com/track/4nhT1gZ0sxWzLJYPtz43Hg) | [MegaShock](https://open.spotify.com/artist/78BCjtPwVVmrolLWLArPaX) | [Ngàn Đời](https://open.spotify.com/album/1olRZF7lcbeTq8GvYeBTIx) | 2:41 | 2022-09-27 | 2023-01-13 |
 | [Ngày Bình Thường](https://open.spotify.com/track/1uYHYvyp2rZqJ8yMj6lUua) | [MAY](https://open.spotify.com/artist/5MJKruMaFrXMOdR3pK967G) | [Ngày Bình Thường](https://open.spotify.com/album/2DUgVPR2TiRWl2BZ6yNrnW) | 3:21 | 2022-09-29 | 2022-10-13 |
+| [Ngày Em Đẹp Nhất](https://open.spotify.com/track/0DtarPcErIh4skfFtxzomo) | [Tama](https://open.spotify.com/artist/4npVRqpqmmM0MYHXTzu0o1) | [Ngày Em Đẹp Nhất](https://open.spotify.com/album/5HMluyDCD66ZPwYpIQ1c31) | 5:03 | 2023-05-05 |  |
 | [Ngày Em Đến](https://open.spotify.com/track/59ejl6vSGdvCJC9eu5rOOH) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Ngày Em Đến](https://open.spotify.com/album/5iA4LgsmNdykoKLGPUZQsc) | 2:54 | 2022-05-18 | 2022-06-10 |
 | [Ngày Này Đã Tới](https://open.spotify.com/track/57P4cgFEJDdrWjwppYZwyT) | [Dein](https://open.spotify.com/artist/5EKK4e4Vb5BfU7tRhz6RIY) | [Ngày Này Đã Tới](https://open.spotify.com/album/2FCsKkEczCa2T9rHkr9pGa) | 2:35 | 2022-08-26 | 2022-09-01 |
 | [NGÀY XA EM](https://open.spotify.com/track/0byJ14Bq2MzGk84asssidS) | [PT3](https://open.spotify.com/artist/1mlZRnekQgYGn3nyIgAsze), [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW), [Domi](https://open.spotify.com/artist/3ilRrV8bsWwSgbwApmbtnk) | [NGÀY XA EM](https://open.spotify.com/album/7pQfoZW2DDzNdrQiFhsUU4) | 2:28 | 2023-05-04 |  |

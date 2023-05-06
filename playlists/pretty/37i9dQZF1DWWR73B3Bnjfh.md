@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,730 likes - 100 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,857 likes - 100 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 99 | [Intermezzo](https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:36 |
 | 100 | [You Leave Me Breathless](https://open.spotify.com/track/0Y6BbUaS6TfTrB2ZqtprnR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Turning Point](https://open.spotify.com/album/4k4GArOeURhbuSgwxr1K96) | 7:25 |
 
-Snapshot ID: `MCxhNDYxZTU1Yzk1YTg1ZjRmMmU0YTMwNDRjNmQwZDJjMTNiOGJmMjk1`
+Snapshot ID: `MCw3YTM4NGE5MDI3MDEyMmMxM2NlNDVhYjU3YmZmZTZjNDQzODZlOTg0`

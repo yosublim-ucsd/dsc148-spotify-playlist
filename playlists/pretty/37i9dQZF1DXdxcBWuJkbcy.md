@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,835,118 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,836,201 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Children \- Rework](https://open.spotify.com/track/6HhLVhfYXhIsD4UpM0CLWo) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Children \(Rework\)](https://open.spotify.com/album/6mjA10GAfa4eQwevZPR1kc) | 2:52 |
 | 100 | [Sugar \(feat\. Francesco Yates\) \- Billions Club Remix](https://open.spotify.com/track/6OeRAvRqfqpaHHTzrnCSHJ) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar \(feat\. Francesco Yates\) \[Billions Club Remix\]](https://open.spotify.com/album/3ENSgxyvrzzRURWqpJuYIR) | 3:06 |
 
-Snapshot ID: `MCxkODBiMWYxNTI5Y2ZlODE0YmU4ODM3NGM2MzliMDMwMDk4Y2M2OTI2`
+Snapshot ID: `MCxmY2M0N2E3ZTZjM2EwNzlmYTQ4ZWU4OWJjNTI3MTg3ZDJjNDYzZTIy`

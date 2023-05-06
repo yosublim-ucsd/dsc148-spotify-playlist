@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in new punk rock music\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,728 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,732 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 79 | [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 |
 | 80 | [Eight Fivers](https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Most Normal](https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0) | 2:20 |
 
-Snapshot ID: `MCw2YmZlZGIwM2VlYjRkYWVjZDRkN2ExN2I5ZjU1ZjU2MDU2YWVmNDFh`
+Snapshot ID: `MCwyYmI4NWZlZDdkODU1M2I0ZTY0OTRhMWQ4ZWFiMDM4OWRjZDM1Mjhj`

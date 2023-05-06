@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,529 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,603 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -664,7 +664,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 654 | [Don't Stay Away](https://open.spotify.com/track/5NiqgHjIX61wB1vw3YFLLv) | [Phillis Dillon](https://open.spotify.com/artist/5LNnZP6w3EnE265TsImiTq) | [Don't Stay Away](https://open.spotify.com/album/63SzbuxZTxqs2IiLI8bzD4) | 2:28 |
 | 655 | [La Fullera](https://open.spotify.com/track/6w1vFa8DwYmVzqJyYTqxVS) | [Conjunto Ritmos del Caribe](https://open.spotify.com/artist/6Z1x7yIfx80IUWVYJ5HXTP) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:51 |
 | 656 | [Afro Disco Beat](https://open.spotify.com/track/0tzvR9hZYdOBveJlgVz6Sy) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Africa 70](https://open.spotify.com/artist/7kYstKl5Wka7rDtdFlvbNz) | [Racubah \(A Collection of Modern Afro Rhythms\)](https://open.spotify.com/album/1G9VuNrWXkCmcbUBUwdkFQ) | 11:56 |
-| 657 | [No Meio do Pitiú](https://open.spotify.com/track/4MTI8hXnpnBaNXXYbhozWS) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Banzeiro](https://open.spotify.com/album/2Yk9S6JRuYk9ILMUDGnpOI) | 4:08 |
+| 657 | [No Meio do Pitiú](https://open.spotify.com/track/2wkd1PMat9PuEpQkp7Hvpm) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Banzeiro](https://open.spotify.com/album/5CHqXSKoo24QfFyKJAXN0J) | 4:08 |
 | 658 | [La Cosecha \- Captain Planet Remix](https://open.spotify.com/track/6uunUTJLv7ikmrWhEWMkkr) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Prender el Alma \(Remixed\)](https://open.spotify.com/album/7uKN3ctBirk4Ysj6sQrtzI) | 4:22 |
 | 659 | [I Need Your Love](https://open.spotify.com/track/4d4XmACYq23zAgxEvgnp4s) | [Scherzando](https://open.spotify.com/artist/2pDMh66OCdARjVZ0GCFWDi) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:35 |
 | 660 | [Je n'aime pas le jour, je n'aime pas la nuit](https://open.spotify.com/track/4ZGVKoK9OWuSXHWUkfKN6h) | [Mazouni](https://open.spotify.com/artist/0wfq6Qxt4GZIEgjmrXSt9k) | [Un dandy en exil \(Algérie\- France 1969\-1983\)](https://open.spotify.com/album/5nfE58QeoN1Fborapt6UCn) | 5:46 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw3YjgwNTU4ZjE2NjIyMDcxOTYxN2M2OTk5MjQ1Yzk2YTI0ODEzZGUw`
+Snapshot ID: `MCxlOWM3ZjEzYmU3NTcxYzE2YTY3OGUzZWUzNWNiMTQ2M2JlMjE4Mzkx`

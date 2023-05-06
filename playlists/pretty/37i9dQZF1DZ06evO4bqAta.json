@@ -1,15 +1,15 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 484924,
+  "num_followers": 485013,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNTMzODAsMDAwMDAwMDAyNTJhNzc1Nzg4NWFhZDNjYzk3NmYxNzllYzZkMWVhZQ==",
+  "snapshot_id": "MjgwNTUzMjIsMDAwMDAwMDA1NDAyY2NhZTdjY2ZkYzE3YjAzNDI1NDE5NjUyZWRmNA==",
   "tracks": [
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Watching the River Flow (From 'Shadow Kingdom')",
         "url": "https://open.spotify.com/album/00PPrKBCj0AvPyw7rvvehR"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3ektGwc8hlLCghIr93FY1H"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
         "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
@@ -73,23 +89,7 @@
       "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
-    },
-    {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
@@ -105,7 +105,23 @@
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+    },
+    {
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "New Morning",
         "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Blonde On Blonde",
         "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
         "url": "https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/0bIGNGUqgpB82sAksxonkZ"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "John Wesley Harding",
         "url": "https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/0Fnb2pfBfu0ka33d6Yki17"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Time Out Of Mind",
         "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/7CuCP5OoLH77hJTibZQE4r"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "New Morning",
         "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Blonde On Blonde",
         "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Street-Legal",
         "url": "https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Planet Waves",
         "url": "https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Rough and Rowdy Ways",
         "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
@@ -545,23 +561,7 @@
       "url": "https://open.spotify.com/track/2YehU3jLpb9bM5V6k8HmyA"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 107226,
-      "name": "Oxford Town",
-      "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
-    },
-    {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",
         "url": "https://open.spotify.com/album/1euXUeJobzra05wyBIrdtH"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/0CS4pwHml8LCSdVJ1gIKU3"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
@@ -597,7 +597,23 @@
       "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 107226,
+      "name": "Oxford Town",
+      "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
+    },
+    {
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/3xNO6JUk9ySYjxuqzcZYRB"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Another Side Of Bob Dylan",
         "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
@@ -645,7 +661,23 @@
       "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 252066,
+      "name": "It's All Over Now, Baby Blue",
+      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
+    },
+    {
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Infidels",
         "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
@@ -661,7 +693,7 @@
       "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Side Tracks",
         "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
@@ -677,7 +709,7 @@
       "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "The Essential Bob Dylan",
         "url": "https://open.spotify.com/album/1y3abw64BlSEeFuuhjlke1"
@@ -709,7 +741,23 @@
       "url": "https://open.spotify.com/track/4heMx0OAwfILu13Lf0VbBM"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+    },
+    {
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "The Basement Tapes",
         "url": "https://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY"
@@ -745,7 +793,7 @@
       "url": "https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
@@ -761,7 +809,7 @@
       "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Blonde On Blonde",
         "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
@@ -777,7 +825,7 @@
       "url": "https://open.spotify.com/track/1NYTj6JEw3IOh4ggiBh82h"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
@@ -793,23 +841,7 @@
       "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
     },
     {
-      "added_at": "2023-05-04 12:20:55",
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Corrina, Corrina",
-      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
-    },
-    {
-      "added_at": "2023-05-04 12:20:55",
+      "added_at": "2023-05-05 20:42:25",
       "album": {
         "name": "Time Out Of Mind",
         "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
@@ -823,38 +855,6 @@
       "duration_ms": 387733,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
-    },
-    {
-      "added_at": "2023-05-04 12:20:55",
-      "album": {
-        "name": "John Wesley Harding",
-        "url": "https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "I'll Be Your Baby Tonight",
-      "url": "https://open.spotify.com/track/032kwZ9kg4yIaIPBOOIwlm"
-    },
-    {
-      "added_at": "2023-05-04 12:20:55",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Mozambique",
-      "url": "https://open.spotify.com/track/1gpQMd0R3blMSn8vhXU0Uu"
     }
   ],
   "unique_name": "This Is Bob Dylan",

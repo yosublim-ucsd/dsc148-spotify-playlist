@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,043 likes - 115 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,200 likes - 115 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 |
 | 115 | [Hospital](https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:33 |
 
-Snapshot ID: `MCw1YmQyOGI2M2E5N2IyN2JhZWE0ZjM5ZGRiYWU3N2FkNDlmYzJlMDI4`
+Snapshot ID: `MCw4MzNhNDY3OGU5ZmNiNGI0OWYyOTdjZmFjMGI4ODUyZDhiYzVhZWMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,702 likes - 98 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,741 likes - 98 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 84 | [Kept Aside](https://open.spotify.com/track/36QR5tKHguDOradlsYUdlb) | [Dylan Fogarty](https://open.spotify.com/artist/7Bpqw7tdKSIraEEc28GD6I) | [D Loops, Vol\. 2](https://open.spotify.com/album/3Cp03m9tTDN9BE8okqmfaZ) | 3:58 |
 | 85 | [Call It What u Like](https://open.spotify.com/track/1TBPwNSJpasJnHHRBDG3gE) | [Mac Declos](https://open.spotify.com/artist/0e9hDO31D6ykXq2hDyjZgO) | [Hard work always pays off](https://open.spotify.com/album/0kmYFHmlws7IgZyb2X9HSW) | 5:35 |
 | 86 | [DeFol](https://open.spotify.com/track/544sM9wmPkQBOuRHYiyKmz) | [BASHKKA](https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw) | [Maktub](https://open.spotify.com/album/0UOf5Q11t1MGQ0TA0yIbfh) | 5:14 |
-| 87 | [Footwork](https://open.spotify.com/track/7ijthhYMkHK33Qmu9EVMnB) | [High Fidelity](https://open.spotify.com/artist/6mX25Sf8IUAjh4Mw45GEwW) | [Welcome to the Hyperdome II](https://open.spotify.com/album/7cHQdGhzUmAPQaw8lfjjuk) | 6:17 |
+| 87 | [Footwork](https://open.spotify.com/track/7ijthhYMkHK33Qmu9EVMnB) | [High Fidelity](https://open.spotify.com/artist/3dT0jnqd5jvO095yE9qMEb) | [Welcome to the Hyperdome II](https://open.spotify.com/album/7cHQdGhzUmAPQaw8lfjjuk) | 6:17 |
 | 88 | [Matrix](https://open.spotify.com/track/52ERSILXrlgEUo3fDgwgUD) | [OTON](https://open.spotify.com/artist/5tzXN2Oc7dTscn9Y3hs911) | [RE\-BIRTH](https://open.spotify.com/album/2DDFmIqC9dzqjcFgZpe2yR) | 5:07 |
 | 89 | [Photographic \- Some Bizzare Version](https://open.spotify.com/track/4K451UeT59EIVvVDto4ZFK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 81\-85](https://open.spotify.com/album/3zA1d01hWRRchi5sGcb3VR) | 3:11 |
 | 90 | [Six Speeds](https://open.spotify.com/track/4PoyTePI03qQJ3y5AUfbWz) | [Hyas](https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA) | [Angel Island Zone](https://open.spotify.com/album/6h9gzMVaVoTUEUbAq9wL7L) | 3:30 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 97 | [Larme De Fond](https://open.spotify.com/track/4ooL57idmtn9s4oFo90FT7) | [Seul Ensemble](https://open.spotify.com/artist/3ZygKshkxks8NKLDR2yMa3) | [127VA001](https://open.spotify.com/album/3IdDojGeH3Mzy2YNxUceH1) | 6:55 |
 | 98 | [To the vibe \(rework\)](https://open.spotify.com/track/51Kc6kYlpkoPAGj91BEcx2) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 7:36 |
 
-Snapshot ID: `MCw0ZTk2N2M1NGFkNzI3N2U4MDEyMDcxODUwZjYwNDg2MThiYzg5ZmQ2`
+Snapshot ID: `MCwzNDZiNTcwYjYzNzk3MzM2Zjc4NjkyNGRlMjRjYTlkMWMzNzU1Mzgy`

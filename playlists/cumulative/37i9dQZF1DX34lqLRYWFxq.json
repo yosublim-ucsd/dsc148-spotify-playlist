@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "New adventures in rock start here. Cover: Finger Eleven",
+  "description": "New adventures in rock start here. Cover: Ruby Waters",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/3AC9w8ZS4iERfDJ0JmG2zh"
       },
@@ -825,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/77MiW4JNal4KdTTI0VDWBI"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211367,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/0Xlu5BC1DjXWkqYWCV9dI7"
+    },
+    {
+      "album": {
         "name": "CHOKER",
         "url": "https://open.spotify.com/album/3uAsQcyJAS9hAfZKrNYBvL"
       },
@@ -930,7 +966,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 219191,
       "name": "Copiap\u00f3",
       "url": "https://open.spotify.com/track/5eXq3rLByE3jOlMYMkPzVi"
@@ -1010,6 +1046,24 @@
       "duration_ms": 226108,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/7DCy072yus5XuBaQmTPbGJ"
+    },
+    {
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/3QGmQeSXDZn2DvmEcmDVgP"
+      },
+      "artists": [
+        {
+          "name": "FRANKIIE",
+          "url": "https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193783,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6ilStGJwy7nzQe2HqKjeik"
     },
     {
       "album": {
@@ -1219,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/0OteLvsgL7ZN14DLYQzBaO"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244973,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/1nGvtl731XspffVYLxrbFc"
+    },
+    {
+      "album": {
         "name": "Dream It All Over Again",
         "url": "https://open.spotify.com/album/54lXES6xC4gcayJuH1nHd9"
       },
@@ -1356,7 +1428,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 176005,
       "name": "Everything Is Boring",
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
@@ -1533,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Flash Flood",
+        "url": "https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159014,
+      "name": "Flash Flood",
+      "url": "https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC"
+    },
+    {
+      "album": {
         "name": "I Rise",
         "url": "https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ"
       },
@@ -1580,7 +1670,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 161248,
       "name": "Fuck Around Phase",
       "url": "https://open.spotify.com/track/1FyhViHV8NdA68NdCmvDMU"
@@ -1634,7 +1724,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194581,
       "name": "Games With Shitty Rules",
       "url": "https://open.spotify.com/track/7K0dwDhahqIH7gCXD2SzEU"
@@ -1692,6 +1782,24 @@
       "duration_ms": 155052,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/6NnSXQbwQEEc224TjftXya"
+    },
+    {
+      "album": {
+        "name": "The Punchline",
+        "url": "https://open.spotify.com/album/7Ac7Kxa6wHOAu0A67w9NCB"
+      },
+      "artists": [
+        {
+          "name": "DEAR-GOD",
+          "url": "https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181249,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/0zokdflnTrx40zV8DqDtM8"
     },
     {
       "album": {
@@ -1818,6 +1926,24 @@
       "duration_ms": 220056,
       "name": "Gun Shy",
       "url": "https://open.spotify.com/track/2g44BeDO4tQpJqyT5Wpf5F"
+    },
+    {
+      "album": {
+        "name": "I Love You, I\u2019m Trying",
+        "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164899,
+      "name": "Half My Heart",
+      "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
     },
     {
       "album": {
@@ -2787,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Never Gonna Give This Up",
+        "url": "https://open.spotify.com/album/70fUpHWzQzmUniveu6CZGC"
+      },
+      "artists": [
+        {
+          "name": "Close Kicks",
+          "url": "https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Never Gonna Give This Up",
+      "url": "https://open.spotify.com/track/5DWvhtU8RcwNfVmj8e4e1Z"
+    },
+    {
+      "album": {
         "name": "Never Not Sad",
         "url": "https://open.spotify.com/album/0PJDIXuUnJGJCxucyyxoA3"
       },
@@ -2834,7 +2978,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 164653,
       "name": "Nicer Guy",
       "url": "https://open.spotify.com/track/2RpMfwnGRr9AT4CzUslrc9"
@@ -3104,7 +3248,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 226410,
       "name": "Paper Cups",
       "url": "https://open.spotify.com/track/63sFjWZodU14UOFxROPThl"
@@ -3566,7 +3710,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 159000,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM"
@@ -3750,7 +3894,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 119047,
       "name": "Something To Hide",
       "url": "https://open.spotify.com/track/1hKDAx8YhDEX3tjynYj6uG"
@@ -3912,7 +4056,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 228517,
       "name": "Sunset Silhouette",
       "url": "https://open.spotify.com/track/2a9Fg4HlQY1MPUclskrwWW"
@@ -4081,6 +4225,28 @@
     },
     {
       "album": {
+        "name": "Lustre Parfait",
+        "url": "https://open.spotify.com/album/3Mw9O9oT0FrTUh3AGw3mFU"
+      },
+      "artists": [
+        {
+          "name": "Gord Downie",
+          "url": "https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc"
+        },
+        {
+          "name": "Bob Rock",
+          "url": "https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282586,
+      "name": "The North Shore",
+      "url": "https://open.spotify.com/track/7Ar1ArhER4E2ODDw5dtGzh"
+    },
+    {
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/19SUU9vaGZp0Rb2TcWu1u8"
       },
@@ -4220,6 +4386,24 @@
       "duration_ms": 155794,
       "name": "Tossed Out",
       "url": "https://open.spotify.com/track/5vbEut9UQ45NlN0HCsNvTi"
+    },
+    {
+      "album": {
+        "name": "touching myself",
+        "url": "https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t"
+      },
+      "artists": [
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159909,
+      "name": "touching myself",
+      "url": "https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg"
     },
     {
       "album": {
@@ -4418,7 +4602,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 223480,
       "name": "Visions",
       "url": "https://open.spotify.com/track/7w1DSf7k4mo05uFEdQbNJC"
@@ -4735,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "You Don't Even Know",
+        "url": "https://open.spotify.com/album/2JuUaaOlAg8pYIuymgv6w7"
+      },
+      "artists": [
+        {
+          "name": "James Blonde",
+          "url": "https://open.spotify.com/artist/4JFUF9h1Mo98JJ1AnsLyJT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "You Don't Even Know",
+      "url": "https://open.spotify.com/track/379XgidSVjilH6zEBATI6M"
+    },
+    {
+      "album": {
         "name": "You're the Only One",
         "url": "https://open.spotify.com/album/7JcjC77ypxJwysB2Dqpf4v"
       },
@@ -4764,7 +4966,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 142222,
       "name": "\u200echerry \u200estems",
       "url": "https://open.spotify.com/track/091S1Iw6vvNagu2QnQSsSG"

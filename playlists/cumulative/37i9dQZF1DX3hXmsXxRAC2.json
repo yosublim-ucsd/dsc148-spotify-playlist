@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
+        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423653,
+      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
+      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
+    },
+    {
+      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 193670,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"

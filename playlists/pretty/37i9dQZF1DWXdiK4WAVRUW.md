@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 10th anniversary of Kacey Musgraves' debut record Same Trailer Different Park on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,476 likes - 200 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,656 likes - 200 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 199 | [A Guy Walks Into a Bar](https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:16 |
 | 200 | [Drunk Last Night](https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [10,000 Towns](https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6) | 3:39 |
 
-Snapshot ID: `MCw1YjBmMDdhMzhlYjMyYjc5NDk1ZjI2MzEwNTk1ZGUzOTM3ZjA0NjU5`
+Snapshot ID: `MCw0NDY0ZDBkYWM1MjI3NjVhYjYxNDEyMDNkMWE2YzlkMGEyOTk3ZTc2`

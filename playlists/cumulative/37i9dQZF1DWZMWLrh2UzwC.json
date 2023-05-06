@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "6HRS",
+        "url": "https://open.spotify.com/album/7eCIML9RC3CNoeMdZF5GMl"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "6HRS",
+      "url": "https://open.spotify.com/track/61A5Doh50xlDcf9hjLtjiE"
+    },
+    {
+      "album": {
         "name": "7 Ain't Home",
         "url": "https://open.spotify.com/album/6SH2PxBh3tCOFSHUOQPl7T"
       },
@@ -3792,6 +3810,28 @@
       "duration_ms": 216062,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+    },
+    {
+      "album": {
+        "name": "all my fridays",
+        "url": "https://open.spotify.com/album/7iSgaRcEb0SW11JmmMeNg4"
+      },
+      "artists": [
+        {
+          "name": "byn",
+          "url": "https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT"
+        },
+        {
+          "name": "HOW1E",
+          "url": "https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214245,
+      "name": "all my fridays",
+      "url": "https://open.spotify.com/track/1TOQwaFSpog2z8Lq5dEVJk"
     },
     {
       "album": {
@@ -53686,8 +53726,8 @@
           "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         },
         {
-          "name": "CIARA",
-          "url": "https://open.spotify.com/artist/0tOYEdn7eVhu3S1eUKff36"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         },
         {
           "name": "Jackson Wang",
@@ -53696,10 +53736,6 @@
         {
           "name": "JAKOPS",
           "url": "https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE"
-        },
-        {
-          "name": "Jackson",
-          "url": "https://open.spotify.com/artist/7BNHznQrUoZRBlr3aijk7n"
         }
       ],
       "date_added": "2023-05-04",

@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-326 songs - 16 hr 24 min
+327 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,13 +53,14 @@
 | [books & backpacks](https://open.spotify.com/track/6iDThqdBhVmWXoMsXIw0XV) | [suburban sad](https://open.spotify.com/artist/5jL3irFL2TtSPQOo8v3Nya) | [books & backpacks](https://open.spotify.com/album/0W6HFQsZAekHlfu3p0NYc8) | 2:16 | 2021-10-12 | 2022-02-12 |
 | [Brandy & Apple Juice](https://open.spotify.com/track/24HZpLFRijvJawsS7Vthud) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Brandy & Apple Juice](https://open.spotify.com/album/42YfWVfh7I3fuUvvlQGN99) | 4:09 | 2021-10-26 | 2022-02-12 |
 | [Breathe](https://open.spotify.com/track/62Dz5wGqHMLCdmVvwDFLFS) | [LiQWYD](https://open.spotify.com/artist/7vZTLO4iDAVrmOtpRiyP3N) | [Breathe](https://open.spotify.com/album/1nOXbVRPW56W2Ksz4hVZWE) | 2:51 | 2019-10-04 | 2022-02-12 |
+| [Breeze](https://open.spotify.com/track/0whoBMh85W6OGcp9SXvpeH) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Breeze](https://open.spotify.com/album/15NQ6RxghzQVEOrms9xl5S) | 2:54 | 2023-05-05 |  |
 | [bubbly fun](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [bubbly fun](https://open.spotify.com/album/4cN9GCj0Q9bohgKoXWQhjO) | 2:48 | 2022-08-19 |  |
 | [Bulletproof Lady](https://open.spotify.com/track/5CXumXWGyr7aKvc5NqKWxH) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Cruisin' on the 45](https://open.spotify.com/album/6Hb4wdGwr0BjUQkt6NzfUX) | 2:39 | 2022-09-23 |  |
 | [Busy](https://open.spotify.com/track/6AQUCFk5TnvAth4jv633Rx) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Tropical](https://open.spotify.com/album/2exehSdrDXWdFYn1gfgMxb) | 3:06 | 2019-10-04 | 2022-02-12 |
 | [button press](https://open.spotify.com/track/1W5oSgHcgFqLZkUGSb5mgi) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [button press](https://open.spotify.com/album/0gzqGvz8CA2SIhVaErYEyk) | 2:05 | 2021-10-26 | 2022-02-12 |
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2022-02-11 |  |
 | [call me baby](https://open.spotify.com/track/0hMigou1Jhjczm0Hr1Ocqw) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [call me baby](https://open.spotify.com/album/1ugcW2hjwXTxDkpZ6gn4ez) | 3:51 | 2022-09-02 |  |
-| [calm down](https://open.spotify.com/track/5SgKvrdnB9t3uxvfyQ54Mo) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [calm down](https://open.spotify.com/album/2bMxPgd0LHaQiXulRb1gFC) | 2:08 | 2023-01-13 |  |
+| [calm down](https://open.spotify.com/track/5SgKvrdnB9t3uxvfyQ54Mo) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [calm down](https://open.spotify.com/album/2bMxPgd0LHaQiXulRb1gFC) | 2:08 | 2023-01-13 | 2023-05-06 |
 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 | 2021-10-12 |  |
 | [Changli](https://open.spotify.com/track/1aTzMg4fhBUCG0UEqr7DED) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Changli](https://open.spotify.com/album/6bNHulXpJY2F8OMbO9NZgc) | 2:45 | 2019-10-04 | 2022-02-12 |
 | [Chill](https://open.spotify.com/track/1VfRjbEeCviSrNH2fqFi7c) | [LiQWYD](https://open.spotify.com/artist/7vZTLO4iDAVrmOtpRiyP3N) | [Chill](https://open.spotify.com/album/2uoAdcg5qM474JnnlIPuI6) | 2:54 | 2019-10-04 | 2022-02-12 |

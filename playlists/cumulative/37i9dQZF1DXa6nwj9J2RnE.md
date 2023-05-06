@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-75 songs - 4 hr 10 min
+76 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 | 2023-02-23 |  |
 | [Bee Suits](https://open.spotify.com/track/5o3Hynwzaxw5H619v2VLUB) | [LIJO](https://open.spotify.com/artist/4fELglS1jHSC3lUA5A2SHC) | [Bee Suits](https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ) | 3:51 | 2023-03-31 |  |
 | [Binary](https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Binary](https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK) | 3:46 | 2023-02-23 |  |
+| [Bloed In Mijn Bloed](https://open.spotify.com/track/5UuvuYtxL6z5h5g02XTcs3) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Bloed In Mijn Bloed](https://open.spotify.com/album/6imc4krabQCDfV7AcOvoth) | 3:58 | 2023-05-05 |  |
 | [Caged Birds](https://open.spotify.com/track/2Kb0J8N4AG9Nn6Ew5bcEXv) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Under Wishing Stars](https://open.spotify.com/album/2TbvOuz2VmxIw4B5Td6MK1) | 3:02 | 2023-03-16 |  |
 | [Caged Birds](https://open.spotify.com/track/3vIWEQx9ZvuPuYHKV1EmXn) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Caged Birds](https://open.spotify.com/album/7qrCOjz9zwCbi1Ht3UvrPO) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Celeste](https://open.spotify.com/track/2rD1imFpKOmcJvFAnoblTZ) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Celeste](https://open.spotify.com/album/760ic1B3ypp3In340dQ0pC) | 2:52 | 2023-02-23 | 2023-04-26 |
@@ -26,7 +27,7 @@
 | [Closure](https://open.spotify.com/track/2FWpnZjDPW23wSRefDcVn9) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [Closure](https://open.spotify.com/album/5eRC43W4zUuunLZ4D3xZ2L) | 2:41 | 2023-02-23 | 2023-04-28 |
 | [De Ergste Dag](https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:21 | 2023-02-23 |  |
 | [De Leven](https://open.spotify.com/track/1RA3cTcU9xGnT5GNi6y7dO) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/2d0wssa9SabKowuZXc0gKn) | 4:04 | 2023-02-23 |  |
-| [Dit Is Alles](https://open.spotify.com/track/5au9uaIhhA51N27U68JXve) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Dit Is Alles](https://open.spotify.com/album/2MwKnMone5os6yTkqCWxXG) | 3:35 | 2023-02-23 |  |
+| [Dit Is Alles](https://open.spotify.com/track/5au9uaIhhA51N27U68JXve) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Dit Is Alles](https://open.spotify.com/album/2MwKnMone5os6yTkqCWxXG) | 3:35 | 2023-02-23 | 2023-05-06 |
 | [excuses](https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [excuses](https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW) | 5:46 | 2023-04-27 |  |
 | [Fair Play](https://open.spotify.com/track/0PVLMa9RI4EFDE4NXsglvM) | [Veya](https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU) | [Fair Play](https://open.spotify.com/album/3j48ZkBE3HqHByil4s4xQE) | 3:04 | 2023-02-23 |  |
 | [For Good](https://open.spotify.com/track/2yjaGTM6j1aOW3OXmEbvsy) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [With You In The Room](https://open.spotify.com/album/2aN4RGXYEXSAtC92ePD7JD) | 3:04 | 2023-02-23 | 2023-04-01 |

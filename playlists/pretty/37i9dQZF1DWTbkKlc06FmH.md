@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,156 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,198 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 98 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 |
 | 99 | [Killing Time](https://open.spotify.com/track/4Z27gYTMJnvrRpovGSDbbo) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Killing Time](https://open.spotify.com/album/0JiNoBApDrk732s3a9mpei) | 3:41 |
 
-Snapshot ID: `MCw0YzU5YmM5N2VjMWJmZTQ3MDIwYjJhZDRlOTExNjc5Mjg5NDdlNmMz`
+Snapshot ID: `MCwzYzdlYzliNmQwM2M0ODQ5NjA3YWY2NzJlYWExMmUwMjE2NzM1ODcw`

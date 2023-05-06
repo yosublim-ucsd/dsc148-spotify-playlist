@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,877 likes - 86 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,861 likes - 86 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 85 | [Don't Save It All for Christmas Day](https://open.spotify.com/track/4ruIMJnh6mPhiNWE9amaEF) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:37 |
 | 86 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 |
 
-Snapshot ID: `MCwyZDYyZjBkZWM5OTRiNWQ1MWE3ZjQwOTk0ZDA1MDNlMTA0MWQyNDM4`
+Snapshot ID: `MCxlYmE5NzU5YmZmNzg4ZDQyYmVmNDM4YTExYmM0NDJkODJiYTAxMDA1`

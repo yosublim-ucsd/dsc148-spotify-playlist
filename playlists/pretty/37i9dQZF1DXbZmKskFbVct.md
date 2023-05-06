@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,615 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,624 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 49 | [Do You Have Plans?](https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Checking Up On You \(Scratch, Tapping, Ramble\)](https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy) | 5:21 |
 | 50 | [Going Over Your Notes / Writing Sounds](https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR For Sleep \| Zen Rainforest Sleep Treatment \- Day 1 of 3](https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c) | 6:01 |
 
-Snapshot ID: `MCxkNzNjN2Y2OTE0ODY5YzNjZmFhYzg0YzUwZWEyYjI4MWE1MjgyN2M3`
+Snapshot ID: `MCw1MjZiMGU0MmIzY2ZiZThkOGNmNTRlNGM2ZGE4OTlhZDk3MDUzZjkz`

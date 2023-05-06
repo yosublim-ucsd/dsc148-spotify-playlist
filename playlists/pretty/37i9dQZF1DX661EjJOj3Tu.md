@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,363 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,451 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [El Incomprendido \(feat\. Pedro Capó\)](https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR) | [Negroni's Trio](https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [New Era](https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya) | 4:10 |
 | 100 | [Summertime](https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6) | [Giovanni Hidalgo](https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6) | [Worldwide](https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj) | 7:05 |
 
-Snapshot ID: `MCw3ODI0OTEwOTk4OGE2MWI1ZTI4ZTNmNWI1ZWFkZGRkNGM4MTY3Yzcw`
+Snapshot ID: `MCw3Y2FiMTk5MGZlZWQ0ZTdmOGYxNzhmN2Y1MDBjOWFkMjk5YzY3MzEw`

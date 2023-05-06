@@ -226,7 +226,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 242293,
       "name": "Almohada",
       "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
@@ -3030,6 +3030,24 @@
       "duration_ms": 188533,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk"
+    },
+    {
+      "album": {
+        "name": "Perfidia",
+        "url": "https://open.spotify.com/album/101igY1HyXs27avcElHKzj"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215284,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n"
     },
     {
       "album": {

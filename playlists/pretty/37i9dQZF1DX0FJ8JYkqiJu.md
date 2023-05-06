@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,278 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,329 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Hey Papi \- Edit](https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o) | 2:38 |
 | 70 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
 
-Snapshot ID: `MCw2M2EzNTE0NTQ2NzFkYTBjMmZkNjFkMWU0ZDc1Zjg4YzNlODMyZmY1`
+Snapshot ID: `MCwyZDA1MjEzMjRlNmI1YmUwMTQwMGVhOTkyZDQ1YzRmMmI1ZWRjNDdh`

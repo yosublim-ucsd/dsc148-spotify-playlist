@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lost x Loud",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Amn\u00e9sia",
+        "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Amn\u00e9sia",
+      "url": "https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2"
+    },
+    {
+      "album": {
         "name": "Andale",
         "url": "https://open.spotify.com/album/3ADUouvgyG92CLvC8rzua5"
       },
@@ -552,7 +570,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 166060,
       "name": "Andale",
       "url": "https://open.spotify.com/track/1bOqJaCP7MMxJJ2oGRX0jS"
@@ -1316,6 +1334,32 @@
       "duration_ms": 132600,
       "name": "Boucle d'or",
       "url": "https://open.spotify.com/track/3fRx1iAvPNHA3ZIM8ObHzQ"
+    },
+    {
+      "album": {
+        "name": "Brokest Rapper You Know",
+        "url": "https://open.spotify.com/album/5Wd7k96BeOevnT6o1iPldU"
+      },
+      "artists": [
+        {
+          "name": "FELP",
+          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
+        },
+        {
+          "name": "Greg Beaudin",
+          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
+        },
+        {
+          "name": "HAWA B",
+          "url": "https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150213,
+      "name": "Brokest Rapper You Know (feat. Greg Beaudin & HAWA B)",
+      "url": "https://open.spotify.com/track/2XqQRiEZyL9jVeOXWUlqJl"
     },
     {
       "album": {
@@ -6009,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "Premier r\u00f4le",
+        "url": "https://open.spotify.com/album/7wbc7r9s6RXCcCLfhXSqQm"
+      },
+      "artists": [
+        {
+          "name": "DVinyle",
+          "url": "https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Premier r\u00f4le",
+      "url": "https://open.spotify.com/track/57xezO1H5KnN3GXkWAsip5"
+    },
+    {
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/09PbP0qQhjMCyga59aKQUI"
       },
@@ -6808,7 +6870,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 221773,
       "name": "Sans II",
       "url": "https://open.spotify.com/track/4loGA6wgIHMxgQyHlqyE5U"
@@ -7146,7 +7208,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174000,
       "name": "Temp\u00eate",
       "url": "https://open.spotify.com/track/2rqlwmRWHm56vpLboDAp6Y"

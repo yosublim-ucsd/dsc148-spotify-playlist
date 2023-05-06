@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,565 likes - 46 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,660 likes - 46 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 8 | [4 Postludes for Piano & String Orchestra: No\. 1\. Larghetto \- Andante](https://open.spotify.com/track/71FqqOSUSVjaM4ZT3Ugj83) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Thomas Sanderling](https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa) | [Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra](https://open.spotify.com/album/56kiotGWV3BT7x39WeAr4H) | 5:36 |
 | 9 | [Materna Requiem: 6\. Paradisum Interlude](https://open.spotify.com/track/0S35dcoORW5woopHAmDIxU) | [Rebecca Dale](https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Clark Rundell](https://open.spotify.com/artist/3sz82fjwBXhH7AWlkIA4qS) | [Dale: Requiem For My Mother](https://open.spotify.com/album/7D1MwZ9UHe47QcJV5Sg5gb) | 2:37 |
 | 10 | [Miniatures for Piano "A Whole in Twelve": No\. 2, The Lady Plays](https://open.spotify.com/track/1WNtzJMk8btkBW7NbmyCFr) | [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [Mikael Ayrapetyan: A Whole in Twelve](https://open.spotify.com/album/3FJdQ1kYZ2WGZuFxyQoKqD) | 5:06 |
-| 11 | [Blais: sans titre \- andante](https://open.spotify.com/track/7m1PPd6nk5SiPBL0n4ox3i) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [eviction sessions](https://open.spotify.com/album/0ERUs6siaB59eOoKcUviBd) | 4:26 |
+| 11 | [sans titre \- andante](https://open.spotify.com/track/7m1PPd6nk5SiPBL0n4ox3i) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [eviction sessions](https://open.spotify.com/album/0ERUs6siaB59eOoKcUviBd) | 4:26 |
 | 12 | [Musica callada I Angelico](https://open.spotify.com/track/659hxuqutVn4k51rgTJPxb) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos plays Mompou](https://open.spotify.com/album/5efnEJ4EPBnmC7WQAgCvVI) | 2:00 |
 | 13 | [Siete canciones populares españolas: No\. 5 Nana](https://open.spotify.com/track/61GAxGT5YJyTPvYxtMN5Q7) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty) | [In Circles](https://open.spotify.com/album/1aLtpH1mDZ3vmzRgCo5B3q) | 2:37 |
 | 14 | [Pavane pour une infante défunte, M\. 19 \(Version for Orchestra\)](https://open.spotify.com/track/2DmlTLFphBLAIACKPsLAQH) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Luxembourg Philharmonic Orchestra](https://open.spotify.com/artist/5GlB0H2IPdfWUwRr7mfN3r), [Gustavo Gimeno](https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY) | [Ravel: Daphnis et Chloé, Une barque sur l'océan & Pavane pour une infante défunte](https://open.spotify.com/album/1Wd9ZSBaA8I1FdKIjB06zq) | 7:09 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 45 | [8 Norwegian Folk Tunes, Op\. 70: No\. 2, Um morgon tidleg "Um morgon tidleg på høgste nut"](https://open.spotify.com/track/4FLtKRreqGXZNZFs0XKdvH) | [Johan Kvandal](https://open.spotify.com/artist/5Pod14R8rXwlW13GpvTG6Q), [Joachim Knoph](https://open.spotify.com/artist/1wuIOgNE6mJIvoRdsnRst1) | [Kvandal: Complete Works for Solo Piano](https://open.spotify.com/album/3UWIf4RkDckggS5pkfzmi9) | 1:36 |
 | 46 | [Reflection](https://open.spotify.com/track/5EjEo7s2rLHcMZz0BxhOPm) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections](https://open.spotify.com/album/5BvQCAdlTeCpshkRFORsWY) | 5:34 |
 
-Snapshot ID: `MCw4OGFiY2QwYTM5Y2UwYzM2ZmQ5NDAyZWE5N2NjNjk2ZTg4OGU2NGM0`
+Snapshot ID: `MCxjNzQyNWQ3ZTBiZTM3ZjMyMjJlNDQwYzlhZmNiMjk2NjYyMDE2OThk`

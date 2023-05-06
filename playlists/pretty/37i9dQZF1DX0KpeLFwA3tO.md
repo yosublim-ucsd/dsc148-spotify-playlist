@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: DRAIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,459 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,502 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 40 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 |
 | 41 | [psychoanalyze \(feat\. KANNER\)](https://open.spotify.com/track/7eIwzhAIEx0GKAbRogZ9Sn) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Kanner](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 3:05 |
 | 42 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 |
-| 43 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
+| 43 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
 | 44 | [I See You](https://open.spotify.com/track/6mFPbMbBtGYzfwI2KGKhNF) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Growing Pains](https://open.spotify.com/album/1e2UBRfuELbXvY3BsIm66l) | 3:03 |
 | 45 | [Customer Service](https://open.spotify.com/track/5Pnh1Ye2dhQOAQmxfxOV0R) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Customer Service](https://open.spotify.com/album/4iZQPnSSp67KqtZop27Wi1) | 1:52 |
 | 46 | [So Mad](https://open.spotify.com/track/2uONMGtExRr5Sqln4X0LTY) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Unconditional Love in Hi\-Fi](https://open.spotify.com/album/2D0HrukRJ7GrOuORD14Y3A) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Armageddon](https://open.spotify.com/track/0cphnlzamiAzqoX52U0UtB) | [Lil Misery](https://open.spotify.com/artist/5eZhEAEkHKmrPhambLphk9) | [Armageddon](https://open.spotify.com/album/5m839NgZKuERdFCsDB5Exi) | 2:41 |
 | 100 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
 
-Snapshot ID: `MCw0OTRiZTg5MTIwZjdmODI5MmI0YTg0ZjQ2YTJiYzQ1NWFkZjJlYjk2`
+Snapshot ID: `MCw5NWI1Yzg2OGRmMDBjZjcxOTRhMmFkYjk5N2Q5YTJhZDJjYmYyN2M5`

@@ -1,12 +1,12 @@
 {
   "description": "It's Hits \u2013 b\u00e4sta och st\u00f6rsta hitsen just nu.",
-  "num_followers": 721650,
+  "num_followers": 721871,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWNhNGMzMmQ1ODMzMTQ3NjZhNGY5YzJjYzE2ODZkOTU4N2EyN2Zj",
+  "snapshot_id": "MCxkZWRlMmQzYzhhYmEwYjg3MDZiOTk4MGE5NWFkYTUyM2MxZmQzMjRi",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184004,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
       "added_at": "2023-05-04 22:00:00",

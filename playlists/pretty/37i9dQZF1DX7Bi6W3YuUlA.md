@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,874 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,994 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [Fight for It](https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Fight for It](https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM) | 2:33 |
 | 100 | [Be Gone \(feat\. Mike Teezy\)](https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Be Gone \(feat\. Mike Teezy\)](https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5) | 2:56 |
 
-Snapshot ID: `MCwzMmRiODY2ZmM1ODhkNzJkOTZiZjNhNzA2MWNlNzM3MjJlZGJmMjc5`
+Snapshot ID: `MCxkOWUyZGRlN2JmZWQ3YzJmNGIzMTc0OGRmODBmOTI0ODUxZjUzZTc2`

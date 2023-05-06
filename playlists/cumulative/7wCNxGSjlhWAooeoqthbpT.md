@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-175 songs - 8 hr 52 min
+176 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,10 +165,11 @@
 | [Storyteller](https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Storyteller](https://open.spotify.com/album/28Y1Tj8nZRro47bwhKnOiV) | 2:46 | 2022-06-10 | 2022-08-27 |
 | [Teach U How To Play](https://open.spotify.com/track/4iiwARZ0XDDG70UvL0skme) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Teach U How To Play](https://open.spotify.com/album/4R09J6lWN5YfS8gEjHbQeQ) | 2:14 | 2022-09-16 | 2022-10-15 |
 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 | 2022-10-14 | 2023-01-21 |
+| [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-05 |  |
 | [THE GOV'T GAVE US GUNS](https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [THE GOV'T GAVE US GUNS](https://open.spotify.com/album/5o0qJK6COqONoWG7FtTeHW) | 1:56 | 2022-12-09 | 2023-03-25 |
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-08-20 | 2023-03-18 |
 | [This Summer](https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [This Summer](https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC) | 2:21 | 2023-04-07 | 2023-04-22 |
-| [TICK TOCK](https://open.spotify.com/track/6J4VcQgLGDRV8kbgTMhwly) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TICK TOCK](https://open.spotify.com/album/4RS2sGxRhVfHotPAzUGRwo) | 2:25 | 2022-09-23 |  |
+| [TICK TOCK](https://open.spotify.com/track/6J4VcQgLGDRV8kbgTMhwly) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TICK TOCK](https://open.spotify.com/album/4RS2sGxRhVfHotPAzUGRwo) | 2:25 | 2022-09-23 | 2023-05-06 |
 | [Time \- From the Motion Picture "Amsterdam"](https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Time \(From the Motion Picture "Amsterdam"\)](https://open.spotify.com/album/3VDUN8potNxTgF520R642l) | 3:42 | 2022-09-23 | 2022-10-29 |
 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2022-11-04 | 2023-01-28 |
 | [TO THE MOON \(feat\. Fivio Foreign, Russ Millions & Sam Tompkins\) \- Drill Remix](https://open.spotify.com/track/3rF1pPjaDjWuIUCTXpMGIv) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(feat\. Fivio Foreign, Russ Millions & Sam Tompkins\) \[Drill Remix\]](https://open.spotify.com/album/0ddJiwySvz540rC18Qn2aY) | 3:38 | 2022-04-29 | 2022-06-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo",
+  "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Eddy Herrera",
   "name": "Merengue Mania",
   "tracks": [
     {
@@ -904,7 +904,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 265038,
       "name": "El Jardinero",
       "url": "https://open.spotify.com/track/6OKOU9NTDRkdOKiiW4GEg9"
@@ -2720,6 +2720,24 @@
       "duration_ms": 228640,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/2ermCIX1iu4KHddSFTcex1"
+    },
+    {
+      "album": {
+        "name": "Imparable",
+        "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211098,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
     },
     {
       "album": {

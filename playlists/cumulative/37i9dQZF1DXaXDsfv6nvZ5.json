@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 234799,
       "name": "beat of a slow dance",
       "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
@@ -684,10 +684,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
+    },
+    {
+      "album": {
+        "name": "For When It Hurts",
+        "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182993,
+      "name": "BROKEN PIECES",
+      "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
     },
     {
       "album": {
@@ -1084,7 +1106,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200653,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/5TdzPzC6hlBT5cofaaqybi"
@@ -1542,7 +1564,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 240048,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
@@ -1568,6 +1590,28 @@
       "duration_ms": 243107,
       "name": "Forgive Them - Live",
       "url": "https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6"
+    },
+    {
+      "album": {
+        "name": "Forgot Your Name (feat. Cory Henry)",
+        "url": "https://open.spotify.com/album/0mVuw95yTugX4QNeCK5CaL"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218972,
+      "name": "Forgot Your Name (feat. Cory Henry)",
+      "url": "https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT"
     },
     {
       "album": {
@@ -2386,7 +2430,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 238033,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
@@ -2430,7 +2474,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 173123,
       "name": "Love (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
@@ -2484,7 +2528,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 198693,
       "name": "Love Is A Losing Game - Live at Stebbing Studio",
       "url": "https://open.spotify.com/track/36m5Fi9MUE98AtYnOjsYJp"
@@ -3068,7 +3112,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 257153,
       "name": "Of Another Kind (feat. Milan Ring & Jerome Farah)",
       "url": "https://open.spotify.com/track/7jLsZNfZHaUfWtdQw5tmvK"
@@ -3783,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "Special Occasion",
+        "url": "https://open.spotify.com/album/3spsJSmv6raOberLtMg6mJ"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271635,
+      "name": "Special Occasion",
+      "url": "https://open.spotify.com/track/45l1Z0SmOABXwgJnswlpoQ"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
       },
@@ -3830,7 +3892,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 231533,
       "name": "STEREO DRIVER",
       "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
@@ -4640,7 +4702,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 176065,
       "name": "without you",
       "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"
@@ -4712,7 +4774,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 219426,
       "name": "Your Love Is King",
       "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"

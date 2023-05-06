@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 243955,
       "name": "America",
       "url": "https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk"
@@ -2576,6 +2576,24 @@
       "duration_ms": 214000,
       "name": "Thunder - Live/Acoustic",
       "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
+    },
+    {
+      "album": {
+        "name": "Fim Do Mundo (Deluxe)",
+        "url": "https://open.spotify.com/album/19z3Qn8hGiaffgpT8mEz6I"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166771,
+      "name": "Tudo Em Seu Lugar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5EfORdSqq61w3qnG52BS4e"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,924 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,010 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 99 | [Melancholee \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 6:14 |
 | 100 | [Seymour Reads the Constitution](https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:03 |
 
-Snapshot ID: `MCxiODYyZWU0MzliZjY5MTFhMDQwMzJkZDdkODJhNjRjZmVmNGIyZmY4`
+Snapshot ID: `MCw5ODZjMGFkYWIwYmFmZWY5ZTcxZWMwMjlkYWFkNjNlMzhiNGMwYmQy`

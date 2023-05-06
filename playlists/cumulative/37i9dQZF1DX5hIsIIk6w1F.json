@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Marcianeke & AK4:20.",
+  "description": "Este Flow tiene otro Flow. Foto: Cris Mj.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 191142,
       "name": "Chamaka",
       "url": "https://open.spotify.com/track/5WIKEk7jt3UqKcAMni2Szl"
@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 144591,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1mLUyF6HVVFRDUYNHzAfCi"
@@ -3250,6 +3250,28 @@
       "duration_ms": 202058,
       "name": "Kela Toke (feat. Tunechikidd)",
       "url": "https://open.spotify.com/track/3IF7RBvlQMiXBwl4c66QDg"
+    },
+    {
+      "album": {
+        "name": "Kien tu ere?",
+        "url": "https://open.spotify.com/album/5qQ1LGU6g2RHw54mWNwyBb"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133854,
+      "name": "Kien tu ere?",
+      "url": "https://open.spotify.com/track/7l9vS4LyfGsLxeXpQEKkw4"
     },
     {
       "album": {
@@ -4286,6 +4308,24 @@
       "duration_ms": 140723,
       "name": "Me Gusta Como Luce",
       "url": "https://open.spotify.com/track/1Il6BXGaenMuqelEqe3U0a"
+    },
+    {
+      "album": {
+        "name": "Me Siento Solo",
+        "url": "https://open.spotify.com/album/34wqax4dLZdtsvtBlxkDwK"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221136,
+      "name": "Me Siento Solo",
+      "url": "https://open.spotify.com/track/2kdkKfWMiwZ2U2ypUusrXj"
     },
     {
       "album": {
@@ -5618,7 +5658,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 207908,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN"
@@ -6057,6 +6097,24 @@
     },
     {
       "album": {
+        "name": "Pol\u00e9mica",
+        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151718,
+      "name": "Pol\u00e9mica",
+      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
+    },
+    {
+      "album": {
         "name": "Ponle (Remix)",
         "url": "https://open.spotify.com/album/6cNQVNGtsG2QHIXK8tsTtO"
       },
@@ -6232,6 +6290,24 @@
       "duration_ms": 151200,
       "name": "Positivo",
       "url": "https://open.spotify.com/track/2uZxUPK0CuIc179JtrIDjY"
+    },
+    {
+      "album": {
+        "name": "Prende El Blon",
+        "url": "https://open.spotify.com/album/4YZdWYpeuR9C9YKAsXl4SB"
+      },
+      "artists": [
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180044,
+      "name": "Prende El Blon",
+      "url": "https://open.spotify.com/track/4ud0BYTYy1Ov72vyi4Mxuy"
     },
     {
       "album": {
@@ -7276,7 +7352,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 173561,
       "name": "TAY PAPO",
       "url": "https://open.spotify.com/track/2wobyrg2plnNYY9Qy8ZPBK"
@@ -7714,7 +7790,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 175670,
       "name": "Tra Tra",
       "url": "https://open.spotify.com/track/46YrvybgPpjBL13f0uc8Oc"
@@ -8228,6 +8304,32 @@
       "duration_ms": 121850,
       "name": "Viviendo El Proceso <3",
       "url": "https://open.spotify.com/track/6P3e7ieiYq8ZITkkmW2Uim"
+    },
+    {
+      "album": {
+        "name": "Viviendo La Movie",
+        "url": "https://open.spotify.com/album/2wLqHzSVPLVlAbcRbLxbkD"
+      },
+      "artists": [
+        {
+          "name": "Anthony MM",
+          "url": "https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "One Play",
+          "url": "https://open.spotify.com/artist/7CWDAYGiG32qhfwu7Q8zoL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138697,
+      "name": "Viviendo La Movie",
+      "url": "https://open.spotify.com/track/7Lf10nYL7hl4s5ckYGQbej"
     },
     {
       "album": {

@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "6HRS",
+        "url": "https://open.spotify.com/album/7eCIML9RC3CNoeMdZF5GMl"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "6HRS",
+      "url": "https://open.spotify.com/track/61A5Doh50xlDcf9hjLtjiE"
+    },
+    {
+      "album": {
         "name": "7 Years",
         "url": "https://open.spotify.com/album/2qmux3wpZ1Xs6Qr44SYZel"
       },

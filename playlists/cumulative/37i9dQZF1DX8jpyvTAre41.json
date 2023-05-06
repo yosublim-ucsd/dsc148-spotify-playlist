@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Nothing But Thieves",
+  "description": "The hottest tunes in rock. Crank it up! Cover: grandson",
   "name": "Rock Your Block",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 165792,
       "name": "Alligator",
       "url": "https://open.spotify.com/track/7Ji5WgryQfftdi7zN4BPUM"
@@ -984,6 +984,24 @@
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+    },
+    {
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "album": {
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 169254,
       "name": "Change###",
       "url": "https://open.spotify.com/track/1K5NKnljyNdL4E0M9BlrZB"
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 150007,
       "name": "Drones",
       "url": "https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns"
@@ -2826,7 +2844,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 176005,
       "name": "Everything Is Boring",
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
@@ -3336,6 +3354,24 @@
       "duration_ms": 122647,
       "name": "First Rate Town",
       "url": "https://open.spotify.com/track/1P59E9uaeejHQ5xu0EG4p6"
+    },
+    {
+      "album": {
+        "name": "Flash Flood",
+        "url": "https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159014,
+      "name": "Flash Flood",
+      "url": "https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC"
     },
     {
       "album": {
@@ -3964,6 +4000,24 @@
       "duration_ms": 179560,
       "name": "Guided By Angels",
       "url": "https://open.spotify.com/track/66wAESyynOYCxqdI99Gsog"
+    },
+    {
+      "album": {
+        "name": "I Love You, I\u2019m Trying",
+        "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164899,
+      "name": "Half My Heart",
+      "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
     },
     {
       "album": {
@@ -5662,6 +5716,24 @@
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
+    },
+    {
+      "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
     },
     {
       "album": {
@@ -9690,7 +9762,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 323093,
       "name": "The Love Still Held Me Near",
       "url": "https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q"
@@ -9730,6 +9802,28 @@
       "duration_ms": 187696,
       "name": "The News",
       "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
+    },
+    {
+      "album": {
+        "name": "Lustre Parfait",
+        "url": "https://open.spotify.com/album/3Mw9O9oT0FrTUh3AGw3mFU"
+      },
+      "artists": [
+        {
+          "name": "Gord Downie",
+          "url": "https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc"
+        },
+        {
+          "name": "Bob Rock",
+          "url": "https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282586,
+      "name": "The North Shore",
+      "url": "https://open.spotify.com/track/7Ar1ArhER4E2ODDw5dtGzh"
     },
     {
       "album": {
@@ -10124,7 +10218,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 254546,
       "name": "try again",
       "url": "https://open.spotify.com/track/0S09s70YzPQOKChK4ybdMZ"
@@ -10244,6 +10338,24 @@
       "duration_ms": 236840,
       "name": "Underground",
       "url": "https://open.spotify.com/track/1yjsa9lWFeBPRNJbjGgmfV"
+    },
+    {
+      "album": {
+        "name": "The Love Still Held Me Near",
+        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
     },
     {
       "album": {

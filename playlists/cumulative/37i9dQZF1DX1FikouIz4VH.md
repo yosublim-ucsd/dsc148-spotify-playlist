@@ -75,6 +75,6 @@
 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 | 2023-01-13 |  |
 | [아름다워 \(BODY\)](https://open.spotify.com/track/6kSoXPg7yhpvgiXuoqRJSF) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:10 | 2023-01-13 |  |
 | [이게 아닌데 \(This Ain't It\)](https://open.spotify.com/track/1kewNvWljcwYKzlAKRXaUf) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 4:23 | 2023-01-13 |  |
-| [조금만 사랑할걸](https://open.spotify.com/track/0KXhQG6HryZn4QBay5Rfd6) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Soul Family with Johan](https://open.spotify.com/album/5y7fjiyU5WlRuwTI8nAEkJ) | 4:33 | 2023-01-13 |  |
+| [조금만 사랑할걸 \(feat\. 태양\)](https://open.spotify.com/track/0KXhQG6HryZn4QBay5Rfd6) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Soul Family with Johan](https://open.spotify.com/album/5y7fjiyU5WlRuwTI8nAEkJ) | 4:33 | 2023-01-13 |  |
 
 \*This playlist was first scraped on 2023-01-14. Prior content cannot be recovered.

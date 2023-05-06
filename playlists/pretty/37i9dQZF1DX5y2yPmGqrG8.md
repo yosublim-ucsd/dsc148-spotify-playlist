@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,861 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,949 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 |
 | 50 | [Sais](https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Shadows](https://open.spotify.com/album/6pZmk1elg3IJx4rMiGPnXl) | 8:03 |
 
-Snapshot ID: `MCw5ODlmYmM0YWZkNjVmYWVkZGIyM2Q2YmI2MWQ4MmYwYmEyNjA0Mjk0`
+Snapshot ID: `MCxjMzQ0MGRkMjI5NWFiYTQ3MzViOGIwMGRhNTNlZjFhNDc3MDc3NmQz`

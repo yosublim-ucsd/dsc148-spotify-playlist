@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,467 likes - 150 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,459 likes - 150 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Don't Cry](https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Rebirth of Kirk Franklin](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 6:08 |
 | 150 | [Signature of Divine \(Yahweh\)](https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [The Heat](https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU) | 4:04 |
 
-Snapshot ID: `MCwyYTYzMmFkOWY0YjI2NDAxMjBhMWNhMjU2MzUxYTMwYzY3YjIwNTQz`
+Snapshot ID: `MCw3YzRhMzdjY2M3NTM0Yzk5OWZlNTYwYzA3MTQxNGY3MDE5Njg5OGY2`

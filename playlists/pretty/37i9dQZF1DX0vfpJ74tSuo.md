@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,595 likes - 120 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,667 likes - 120 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 119 | [Winin’ Boy Blues](https://open.spotify.com/track/3bLcw2Fh2FTR7orvOQeNFg) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [The Tumbler](https://open.spotify.com/album/0MFLGuQwM22kc38Gt5XVAV) | 2:20 |
 | 120 | [High Fever Blues](https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH) | [The Jujubes](https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN) | [Raging Moon](https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy) | 5:39 |
 
-Snapshot ID: `MCw1ZDBhNWMzNWMxZjY4ZTY5NjRmYWFjNjI2NGVlZGI1MDBhZTM1OTBl`
+Snapshot ID: `MCxlMzQwNWI3OGNiMWRjMTQ2MWVkYjM1ZThmNjJmOWY4ODJlYjk0MDFh`

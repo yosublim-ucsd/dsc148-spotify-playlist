@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Kenia OS y Gera MX en portada.",
-  "num_followers": 59326,
+  "num_followers": 59405,
   "original_name": "sentimiento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYThkYjkzMjE5YTk0MDdjOThmYTdlZjQxZmNiMGRiNTgwZjdjYTM4",
+  "snapshot_id": "MCwxNmI4MjJmN2M4YjViZGJjODcxZTVlNDJmODIxYjNlMzc4ZjMyYmNm",
   "tracks": [
     {
       "added_at": "2023-04-28 06:00:00",
@@ -47,6 +47,74 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Que Mal Me Hac\u00edas",
+        "url": "https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 140893,
+      "name": "Que Mal Me Hac\u00edas",
+      "url": "https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
     },
     {
       "added_at": "2023-04-28 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,245 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,442 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 99 | [Brisa do Mar](https://open.spotify.com/track/7DlsAi4CP4GfDfvGRS6V5e) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Brisa do Mar](https://open.spotify.com/album/0WzNCdLD9mCtx1lO6NQ8g5) | 3:26 |
 | 100 | [Que Reste\-t\-il de nos Amours](https://open.spotify.com/track/4p0UoEtE573xvUQclWvJoU) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:40 |
 
-Snapshot ID: `MCwzMGU0ZjE5YzdmYWMyMWNmYjQxM2NmNGJhNTUzZGU1YmRkZDkxODg2`
+Snapshot ID: `MCxlZTUzMzlhZWJjMmNjZGFkY2MzMWUyYmYwOWM3ODMzMTk1Njc1NTk2`

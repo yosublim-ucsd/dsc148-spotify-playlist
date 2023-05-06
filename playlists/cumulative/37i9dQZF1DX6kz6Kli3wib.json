@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Crisp",
+        "url": "https://open.spotify.com/album/57CwP4oDHIPUfG1mr5vy2P"
+      },
+      "artists": [
+        {
+          "name": "Pool Villa",
+          "url": "https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152543,
+      "name": "Crisp",
+      "url": "https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx"
+    },
+    {
+      "album": {
         "name": "Croix Coast",
         "url": "https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA"
       },
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 227438,
       "name": "Deep Deep Waters",
       "url": "https://open.spotify.com/track/6vkn2C9DRfYh8YeIo8O9VH"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 252672,
       "name": "Forest Spirit",
       "url": "https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 124518,
       "name": "great view",
       "url": "https://open.spotify.com/track/74UTn1kkhqB9jX3uaDuN6S"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,326 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,336 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 74 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
 | 75 | [Like a Dream](https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Bandido Brothers](https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ) | [Like a Dream](https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu) | 3:30 |
 
-Snapshot ID: `MCw1ODgwNTBlYmYwNjg1YzgxNTQ2MjU4MDg1MTJiZGQ0YjNhM2Q2NTk4`
+Snapshot ID: `MCxiODM3NWEyNGZiNzc3MGY3Mzc1MGNmNzQyNmYxMzEyNDBkNmRmNzEx`

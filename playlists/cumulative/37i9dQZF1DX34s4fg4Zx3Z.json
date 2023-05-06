@@ -10477,6 +10477,24 @@
     },
     {
       "album": {
+        "name": "Ng\u00e0y Em \u0110\u1eb9p Nh\u1ea5t",
+        "url": "https://open.spotify.com/album/5HMluyDCD66ZPwYpIQ1c31"
+      },
+      "artists": [
+        {
+          "name": "Tama",
+          "url": "https://open.spotify.com/artist/4npVRqpqmmM0MYHXTzu0o1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303024,
+      "name": "Ng\u00e0y Em \u0110\u1eb9p Nh\u1ea5t",
+      "url": "https://open.spotify.com/track/0DtarPcErIh4skfFtxzomo"
+    },
+    {
+      "album": {
         "name": "Ng\u00e0y Em \u0110\u1ebfn",
         "url": "https://open.spotify.com/album/5iA4LgsmNdykoKLGPUZQsc"
       },

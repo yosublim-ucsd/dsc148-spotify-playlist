@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,103 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,259 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 99 | [Vincent](https://open.spotify.com/track/6adWVN7hPrztmftktK3zES) | [Donatella Montinaro](https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G), [Danilo Tarso](https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY) | [Still We Dream](https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l) | 5:53 |
 | 100 | [When Most I Wink \- Sonnet 43](https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb) | [Birgit Minichmayr](https://open.spotify.com/artist/0AmppM0rypylyKScAYazvl), [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Bernd Lhotzky](https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR) | [As an Unperfect Actor \(Nine Shakespeare Sonnets\)](https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ) | 3:30 |
 
-Snapshot ID: `MCxkZTljZjkxOWRkODczZWUxMmZlZmNlOGY2ZjU5MDY4NjY3YjRmOTE2`
+Snapshot ID: `MCw2NjUwNmI2NDlmZTEzZDY5OGRiYTUzOWRlOTZiY2UxNTVhMDQ3YmJl`

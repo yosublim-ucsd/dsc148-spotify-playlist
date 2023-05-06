@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 272183,
+  "num_followers": 272458,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWU3MGI4NzQwZWQ4MDM3ZGExOThhYjI4NDdmNjdkNzZjZjA4NDM0",
+  "snapshot_id": "MCxiOTFmNTE1ZDY1YWE3ZWQ3YWNkYTc4Yjg5YWY1ODExNjhiMTQwYzU5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -41,6 +41,42 @@
       "url": "https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv"
     },
     {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "I Got It Bad (And That Ain't Good)",
+        "url": "https://open.spotify.com/album/59I04ZfQXvABeo3Q99ZjP0"
+      },
+      "artists": [
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        },
+        {
+          "name": "Kenneka Cook",
+          "url": "https://open.spotify.com/artist/1SdMrNeKvyntOu9edUG4Zo"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        },
+        {
+          "name": "Tennishu",
+          "url": "https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg"
+        },
+        {
+          "name": "R4nd4zzo",
+          "url": "https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "duration_ms": 253747,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Not Here / Not Now",
@@ -61,6 +97,22 @@
       "url": "https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG"
     },
     {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "MOLLO",
+        "url": "https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Regular",
+      "url": "https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy"
+    },
+    {
       "added_at": "2023-04-21 04:01:00",
       "album": {
         "name": "Is This Jazz?",
@@ -75,6 +127,26 @@
       "duration_ms": 181855,
       "name": "Is This Jazz?",
       "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/3JmS19rIU04H05i02H6YsZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Wall",
+          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
+        },
+        {
+          "name": "Umbaji",
+          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
+        }
+      ],
+      "duration_ms": 258143,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/6nIueLCyNxBUM941WQ2v7l"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -395,22 +467,6 @@
       "duration_ms": 91733,
       "name": "CATS GROOVE",
       "url": "https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Stede",
-        "url": "https://open.spotify.com/album/6oZ0MoMJASYGOH2PLQBJNt"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        }
-      ],
-      "duration_ms": 254271,
-      "name": "Stede",
-      "url": "https://open.spotify.com/track/1KhBlF3NmiYlCaJwZyWsCz"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1463,22 +1519,6 @@
       "duration_ms": 299889,
       "name": "Shuffle Bubble",
       "url": "https://open.spotify.com/track/66yl3ULKXkjvoZrinCJdj4"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "We Gettin' Down / Nautical Table",
-        "url": "https://open.spotify.com/album/3eOTsQqf3meYH8xlv9PYgH"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "duration_ms": 248295,
-      "name": "We Gettin' Down",
-      "url": "https://open.spotify.com/track/4bJtIjDIOlY5z7GweNcGq3"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -3259,22 +3299,6 @@
       "duration_ms": 168208,
       "name": "Spare Tire",
       "url": "https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Ay Uh!",
-        "url": "https://open.spotify.com/album/3oQh9kb1PqOGke7qzy25tj"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 123874,
-      "name": "Ay Uh!",
-      "url": "https://open.spotify.com/track/5yCsr35UpkI3zd9lss5GQh"
     },
     {
       "added_at": "2021-04-09 04:01:00",

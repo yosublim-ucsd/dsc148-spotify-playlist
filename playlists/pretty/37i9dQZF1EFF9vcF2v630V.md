@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397 likes - 63 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 63 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 30 | [The Chase](https://open.spotify.com/track/0FZlnRFL7ZgzGdnC4BKt4S) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:20 |
 | 31 | [Lazy Lovers](https://open.spotify.com/track/1v7XmP992YPIdBhMlknnBL) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Twilight Zone](https://open.spotify.com/album/5icIasbyaQwyG6ptiThzzt) | 3:27 |
 | 32 | [Still Standing](https://open.spotify.com/track/4zUhhxvvoVMH4mZ1fdr2ld) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Still Standing \- SM STATION](https://open.spotify.com/album/24CLUCxTxhwygLoY8gEMNy) | 3:14 |
-| 33 | [Just Like That](https://open.spotify.com/track/3UENMxXGcezMRDxpBPdMbn) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Just Like That](https://open.spotify.com/album/78ZOrEwPBjbrPO6eYaYN87) | 2:49 |
-| 34 | [agit](https://open.spotify.com/track/7KFvcwUv0UYWD7gLS78Cbb) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 2:46 |
+| 33 | [agit](https://open.spotify.com/track/7KFvcwUv0UYWD7gLS78Cbb) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 2:46 |
+| 34 | [Just Like That](https://open.spotify.com/track/3UENMxXGcezMRDxpBPdMbn) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Just Like That](https://open.spotify.com/album/78ZOrEwPBjbrPO6eYaYN87) | 2:49 |
 | 35 | [Nie Pytaj Mnie](https://open.spotify.com/track/7eQQZnk2eYukRlWSN771gl) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:19 |
 | 36 | [HONEYMOON](https://open.spotify.com/track/1JXoACZvZMnk5jsM3NJ9J5) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [MASSIVE](https://open.spotify.com/album/5aJ6EYd1rvIP0bp2zaO92H) | 3:24 |
 | 37 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 62 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 63 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `MjgwNTQxNDAsMDAwMDAwMDA2NDk4OTliMjhjMmI0YTU1NmNhNmYyMTBmODg2MGI4Yw==`
+Snapshot ID: `MjgwNTU1ODAsMDAwMDAwMDA4YjY1YWFmY2FlNzY2NGVlOWQ0MjAyNzU2ZTUxYmU5Yw==`

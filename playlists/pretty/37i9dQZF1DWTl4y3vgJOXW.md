@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,652,248 likes - 118 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,655,307 likes - 118 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 117 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:56 |
 | 118 | [Woah](https://open.spotify.com/track/4MsxMuC4eDGYv8pT7snwsn) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Woah](https://open.spotify.com/album/3m5inGobCQghEu6MWsKKXS) | 3:03 |
 
-Snapshot ID: `MCxjYTkwZTQzOTg2YjViNTc5NjE3ZTNjYzBhNTBjMzJjZDcxMzhmZjc5`
+Snapshot ID: `MCxhYmU5ZmUyYmYzZjE4YTIwZGM5Y2Y1MTA4Zjg0NGI5ODlhZjgzMjdm`

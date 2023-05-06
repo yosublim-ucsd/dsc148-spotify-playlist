@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "All 00s, all dance! Cover - Dhoom 2",
+  "description": "All 00s, all dance! Cover - Dostana",
   "name": "00's Dance Bollywood",
   "tracks": [
     {
@@ -690,6 +690,24 @@
       "duration_ms": 238530,
       "name": "Bom Diggy Diggy",
       "url": "https://open.spotify.com/track/6qCNaRRr5xJALfNJvh0NAw"
+    },
+    {
+      "album": {
+        "name": "Arash",
+        "url": "https://open.spotify.com/album/4VxqrQsfvo0e9GBqcH1qb0"
+      },
+      "artists": [
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192213,
+      "name": "BoroBoro - Radio Edit",
+      "url": "https://open.spotify.com/track/3lIeY717Kbj6FXVnUCmGhm"
     },
     {
       "album": {
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 331533,
       "name": "Jaan Leva",
       "url": "https://open.spotify.com/track/2PTkAbWHGDPiYaonMOTRgJ"
@@ -2922,6 +2940,40 @@
       "duration_ms": 214207,
       "name": "Naacho Naacho (From \"Rrr\")",
       "url": "https://open.spotify.com/track/208sMwgVcaFt2mT79Df1KG"
+    },
+    {
+      "album": {
+        "name": "Bunty Aur Babli",
+        "url": "https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Sowmya Raoh",
+          "url": "https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz"
+        },
+        {
+          "name": "Loy Mendonsa",
+          "url": "https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362762,
+      "name": "Nach Baliye",
+      "url": "https://open.spotify.com/track/7AJtoJnHV80IMEHgQs6YvU"
     },
     {
       "album": {
@@ -4150,7 +4202,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 366915,
       "name": "Yeh Raat",
       "url": "https://open.spotify.com/track/59mWrwlbMHBeBzRb6aGN8u"

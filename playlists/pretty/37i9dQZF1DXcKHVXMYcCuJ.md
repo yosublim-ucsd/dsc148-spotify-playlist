@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Gotta catch 'em all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,438 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,690 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 149 | [Make Tonight](https://open.spotify.com/track/7afP5szYNk5vMxYv81bUMu) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml) | 3:44 |
 | 150 | [Little Pink Stars](https://open.spotify.com/track/3ah6iQsmMcM2VFj6uvueuX) | [Radish](https://open.spotify.com/artist/6cLlK80e14zGQyq84eENDv) | [Restraining Bolt](https://open.spotify.com/album/6MDLDlxinN9NpI4t4eudsX) | 4:48 |
 
-Snapshot ID: `MCw4MWQ1NTYwOGIzMTY4YWNlOWU2NTM3NTIxYTNjOWRjMDZiNjQ0OGRj`
+Snapshot ID: `MCwyMmIwYTNiMGJjZjA1ZmM1ZjhkOTk3Nzg1NGRjNjI5ZjUwMTE4NWI1`

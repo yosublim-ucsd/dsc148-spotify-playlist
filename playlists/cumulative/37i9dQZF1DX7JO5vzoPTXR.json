@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1S5c3aXnTcoAFFhGQ4FrTX"
+      },
+      "artists": [
+        {
+          "name": "MILCK",
+          "url": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172166,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5v2HlTA9HGIp97umphPlKP"
+    },
+    {
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
       },
@@ -6844,7 +6862,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 230477,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5EBqNVcx1sVCiuTLspkUU4"

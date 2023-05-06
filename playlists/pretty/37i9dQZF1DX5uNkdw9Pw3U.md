@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,881 likes - 94 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,899 likes - 94 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [I Blodet \(feat\. Natnael\)](https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Natnael](https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM) | [TyrTape \(Deluxe\)](https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN) | 3:20 |
 | 94 | [Sympati For Djevelen](https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W) | [L.U:N.A](https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk) | [Sympati For Djevelen](https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r) | 3:03 |
 
-Snapshot ID: `MCw5MGZiZDc0NDE5MzFjMWNiMTY1MzVmMjM5MGZlM2I2YzI0NzA0M2Vl`
+Snapshot ID: `MCwzOWYzMjIwZjI3MzY0N2FlMGVmYmZkYzdlNjNmN2JjNDcwN2VkZmMw`

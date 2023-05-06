@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,405 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,459 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [I Won't Let You Go \- Live At The Hospital Club](https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [James Morrison – Live & Unplugged At The Hospital](https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx) | 4:00 |
 | 100 | [I'm Alive \- Live at The Colosseum at Caesars Palace, Las Vegas, Nevada \- November 2003](https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day...Live In Las Vegas](https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM) | 4:16 |
 
-Snapshot ID: `MCw5MmVmNWMwZmUyZTY5MDdhNzY0NGFkMWM0MGQ3ZmNjN2U4YWVkNGQ2`
+Snapshot ID: `MCxhZDJlNmMxOWUzYTcyMjc5OTU4OGQxNjgzYTM0YjZjMWI3YzgzNWI0`

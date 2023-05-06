@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,072 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,110 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 99 | [my dear](https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC) | 2:12 |
 | 100 | [Pick Your Tears Up](https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Pick Your Tears Up](https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI) | 2:48 |
 
-Snapshot ID: `MCxmZjQyOWQzOTMyYjhiOGM4ZDNiODk3ZmNkYjcxN2U4YmM5NTI0MDc5`
+Snapshot ID: `MCxjNjg2OTUwODBhNzljOTM2MTkwNWMxNzc2OTE1OGMyMDk2YzcyYmU5`

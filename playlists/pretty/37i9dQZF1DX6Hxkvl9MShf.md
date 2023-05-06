@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,838 likes - 83 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,983 likes - 83 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 28 | [Wrath](https://open.spotify.com/track/0nxEpiRh6ja8YxKTR8kCkO) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Wrath / Envy](https://open.spotify.com/album/1dCtDbppPhPtiIl3ZCkfFu) | 3:21 |
 | 29 | [Go On](https://open.spotify.com/track/4d3JRnahWYC2yAFP8P3zPv) | [Deviu](https://open.spotify.com/artist/7IGIJ4SYJmJVQNuYLy1XyH) | [Go On](https://open.spotify.com/album/0XWxX62VjzaDLezYWL8d1m) | 4:16 |
 | 30 | [Little Darling](https://open.spotify.com/track/6a8cXlaywnIqM9i5e9CQ1I) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/6Mei0SlN9JC0ndjc6j85lW) | 3:40 |
-| 31 | [Meds \- yuma\. Remix](https://open.spotify.com/track/3VbGkKIFxuUP6fAcmKwEYc) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [DISPOSABLE SOCIETY \(DELUXE\)](https://open.spotify.com/album/4ydB44OU7hMXY65PJroOnF) | 3:27 |
+| 31 | [Meds \- yuma\. Remix](https://open.spotify.com/track/3aIjxH92Y5thPmaJZV8EtZ) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [DISPOSABLE SOCIETY \(DELUXE\)](https://open.spotify.com/album/2ToPwhMJhWGPPr1JXY0f6H) | 3:27 |
 | 32 | [Immersione](https://open.spotify.com/track/0vMZDUNKHsu10R8spLzXol) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Take Me Home \(Flow\)](https://open.spotify.com/album/4b2TWiGPq0iDNzYKyndF3f) | 5:48 |
 | 33 | [Paraphrase](https://open.spotify.com/track/6UxZrWzjU4awYqpqVyFgNi) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Paraphrase / Factory Street](https://open.spotify.com/album/7grBNquVmoGIx7asud1VLg) | 7:15 |
 | 34 | [The Life of an Empath](https://open.spotify.com/track/6SKHpIBF0zImsmqmRkgvwp) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:26 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 82 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
 | 83 | [Discovery](https://open.spotify.com/track/5npj4pyFmLxaV7sl59tZVB) | [Can Yıldızay](https://open.spotify.com/artist/5z9s8EUJoZ0HcoRqNrlFNg) | [Discovery](https://open.spotify.com/album/5jxCiCAEmvRsXosoyQXjok) | 3:46 |
 
-Snapshot ID: `MCwzNjcxYjgwMGRkYjA5ODQ2OGI5ZDg0ZmZkMGI1OTRhYjliMzJhZjAz`
+Snapshot ID: `MCw3NjE5ZDAyZjRkOTk3YTFkODcxNTIzYTMzMjI2NzEwNmIwZWVhNDI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Yas Werneck
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,827 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,839 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Ponto de Equilíbrio](https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV) | [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Ponto de Equilíbrio](https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH) | 3:13 |
 | 75 | [Repete](https://open.spotify.com/track/2LgllGIs3VERZRwrNc36AT) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Repete](https://open.spotify.com/album/5bz020wy4TMxX0kspDnGaD) | 3:50 |
 
-Snapshot ID: `MCxmNjE1YmRhMTczZGY2OGMwNjk4ZjJkZjE3ZjdiNDNlMTlhNDhjNTA2`
+Snapshot ID: `MCxiZTMwOGVjZjc2ZDBmZDQyMDQ3YmVhNDE1MDEyZDNlM2U0ZDJlNDI1`

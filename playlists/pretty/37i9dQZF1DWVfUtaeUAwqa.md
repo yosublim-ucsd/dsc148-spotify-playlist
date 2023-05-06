@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,107 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,109 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 | 55 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
 
-Snapshot ID: `MCw5NzljMTMzN2QxODczY2E2Yjk1NmFmMTI4ODE5MTFjOTcwYjQzOWVi`
+Snapshot ID: `MCxlZjJjYTQ0MGU2M2UyZjVjODAyMzVlZDA3ODEyYzA0N2Q1MjQwMzM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,213 likes - 300 songs - 17 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,325 likes - 300 songs - 17 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 299 | [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 |
 | 300 | [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 |
 
-Snapshot ID: `MCw1ODhiNmY3YjA4NTU3Mjc3NWYzNGRlMTkwODk4ZTA3NmM5MjFjNWJh`
+Snapshot ID: `MCwyMWFmMjcyNmJlZjdhZjFlMzBlNzY2MWM1NGI2ZGU2ZWEwYzIyZjgy`

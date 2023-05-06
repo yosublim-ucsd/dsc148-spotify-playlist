@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Ice Spice, Jack Harlow and Coi Leray. ",
+  "description": "New music from Lil Baby, Gucci Mane and DaBaby.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -1729,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "album": {
         "name": "Arya",
         "url": "https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 142628,
       "name": "Back Flippin",
       "url": "https://open.spotify.com/track/72UidoFGPPqJduJn9YAyYk"
@@ -6003,6 +6021,24 @@
     },
     {
       "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100424,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/2OZfJcpzSFApBxUA0gXuJz"
+    },
+    {
+      "album": {
         "name": "Community D**k (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/7CpjNiYREFDviV1IpdoSfq"
       },
@@ -6652,7 +6688,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 280000,
       "name": "Dear Mama",
       "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
@@ -10813,6 +10849,24 @@
     },
     {
       "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "album": {
         "name": "Fighting Demons (Complete Edition)",
         "url": "https://open.spotify.com/album/0IQVwg2jMqKExCLTEyVvsL"
       },
@@ -12176,7 +12230,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 173532,
       "name": "Hey, Mickey!",
       "url": "https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4"
@@ -12838,7 +12892,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 177777,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT"
@@ -12956,6 +13010,24 @@
       "duration_ms": 224915,
       "name": "How I Move (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/0jBJIQuToUUOEx7JJkiPzm"
+    },
+    {
+      "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233794,
+      "name": "how u feel?",
+      "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
     },
     {
       "album": {
@@ -13828,7 +13900,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
@@ -14138,7 +14210,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 118796,
       "name": "Is That Ight?",
       "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
@@ -16822,7 +16894,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 144651,
       "name": "Low Down",
       "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
@@ -21134,7 +21206,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194453,
       "name": "Palisades, CA",
       "url": "https://open.spotify.com/track/70wd1fE44Rb9mnZMaApmkc"
@@ -21401,6 +21473,28 @@
     },
     {
       "album": {
+        "name": "Peaches & Eggplants (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
+    },
+    {
+      "album": {
         "name": "PEEP HOLE",
         "url": "https://open.spotify.com/album/3iN0xzE19FVAFK78ZUZhLo"
       },
@@ -21569,6 +21663,32 @@
     },
     {
       "album": {
+        "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+        "url": "https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218172,
+      "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+      "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
+    },
+    {
+      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
       },
@@ -21638,7 +21758,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -25153,6 +25273,28 @@
     },
     {
       "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124354,
+      "name": "SELLIN CRACK (feat. Offset)",
+      "url": "https://open.spotify.com/track/4n5vrfS3mYdxiEz0ODBnlL"
+    },
+    {
+      "album": {
         "name": "Serial Killers",
         "url": "https://open.spotify.com/album/1Odwcvb4QNe1pCYZnG8K25"
       },
@@ -25268,6 +25410,24 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-19 songs - 34 min 35 sec
+20 songs - 35 min 58 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,13 +17,14 @@
 | [Kentucky State Championship 1963](https://open.spotify.com/track/5LuS85cUwjH3vXXjUPrbqW) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:12 | 2023-04-21 |  |
 | [La Cajita de Música](https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Chupa \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm) | 1:10 | 2023-04-10 |  |
 | [La Hora Gris](https://open.spotify.com/track/3dZSFxzwP6c1NYWBKnJiTf) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh), [Asuka Ito](https://open.spotify.com/artist/0ibV1Dz0W1jtY1ByQv0iWD) | [La Reina Del Sur: 3ra Temporada \(Banda Sonora Original\)](https://open.spotify.com/album/6XXqh5TiNMYPeLUD4psRKN) | 1:37 | 2023-04-03 |  |
-| [Mary Agnes & Callie](https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:21 | 2023-04-19 |  |
+| [Mary Agnes & Callie](https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:21 | 2023-04-19 | 2023-05-06 |
 | [Methuen Home For Children 1957](https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:14 | 2023-04-03 |  |
 | [New York](https://open.spotify.com/track/5fLJks68YQXC1tPngFZn88) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:09 | 2023-04-03 | 2023-04-22 |
 | [Roy's Gift](https://open.spotify.com/track/2RA6or9ARt4HvluVyETjBo) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:20 | 2023-04-03 |  |
 | [The Scholar's Mate](https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:18 | 2023-04-03 |  |
 | [Thirty Horses](https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:46 | 2023-04-03 |  |
 | [Welcome To LaBelle](https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:15 | 2023-04-03 | 2023-04-20 |
+| [Whitey](https://open.spotify.com/track/6jLxuzZXNR2XjD91OMJhUX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:23 | 2023-05-05 |  |
 | [You Lost Your Shadow, Bill](https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:26 | 2023-04-03 |  |
 | [You're Gloating](https://open.spotify.com/track/6DiFE5a3ApjWhMGhMmKO9r) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:06 | 2023-04-03 |  |
 | [Young Deb When She Was Happy](https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Hacks: Season 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI) | 2:04 | 2023-04-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 272 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 500 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [Boy With the Angel Eyes](https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY) | [Vicky Tafoya and the Big Beat](https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v) | [Never Let Go, Vol\. 1](https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU) | 4:04 |
 | 150 | [I Want You, I Need You, I Love You](https://open.spotify.com/track/5rsL7vz0rU31i1Ugd5lyQY) | [Hector Rivera](https://open.spotify.com/artist/5QBCiKjgFTznZwKUiiDTXA) | [The Sweeter Side Of Latin Soul](https://open.spotify.com/album/3K4UkNHO8AGTI1mVSbMr0w) | 4:15 |
 
-Snapshot ID: `MCxiZTIyMmFjNmYwMjQ0ZGJiYTM5YTQ0MTA2MjIxYzQyZDkwNzQ3NDRl`
+Snapshot ID: `MCw5NjhkNjBiYjIxYmYwNWU5NTMyYzc4NzI0NTI3MGI2MGU0NGI4YmMw`

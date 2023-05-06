@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,286 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,527 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 27 | [Dle Yaman \(116 Deep Mix\)](https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [Dle Yaman \(116 Deep Mix\)](https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj) | 7:18 |
 | 28 | [Amelia](https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t) | 3:13 |
 | 29 | [Bangladesh](https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf) | [Esotique](https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF), [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Bangladesh](https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl) | 2:27 |
-| 30 | [Fade Away](https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Rhi'N'B](https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn) | [Fade Away](https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7) | 2:38 |
+| 30 | [Fade Away](https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Rhi'N'B](https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn) | [Fade Away](https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7) | 2:38 |
 | 31 | [Arabian Magic](https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Arabian Magic](https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX) | 3:08 |
 | 32 | [Painter](https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs) | [Lady Ocean](https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn) | [Painter](https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ) | 3:23 |
 | 33 | [Ederlezi \(feat\. Dikanda\)](https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD), [Dikanda](https://open.spotify.com/artist/5IgWYAqgf7ZJAqzCHDFOvQ) | [Ederlezi \(feat\. Dikanda\)](https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Mosaic \- Yohan & David Remix](https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Yohan & David](https://open.spotify.com/artist/2qeOIsxc6nlKxjjAHVJvik) | [Mosaic](https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye) | 7:32 |
 | 100 | [Roots](https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Roots LP](https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR) | 2:58 |
 
-Snapshot ID: `MCw4YThkOTk4M2VkYzg4ODdiYTg0MTI2MGM4YjcxZmQzNzY3MjM4M2Uy`
+Snapshot ID: `MCw2ODg4ZGE5NWJiNjVmNGVmYjU0OTIyYzNlYjI1ZDllM2U3NWE0Nzdi`

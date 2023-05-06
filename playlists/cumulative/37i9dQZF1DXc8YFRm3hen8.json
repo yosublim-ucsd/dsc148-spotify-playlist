@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Consuelo Eterno",
+        "url": "https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241461,
+      "name": "Consuelo Eterno",
+      "url": "https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF"
+    },
+    {
+      "album": {
         "name": "El \u00daltimo Que Apague la Luz",
         "url": "https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX"
       },
@@ -902,6 +920,24 @@
       "duration_ms": 135973,
       "name": "Demoliendo Hoteles",
       "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
+    },
+    {
+      "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181782,
+      "name": "DESCARTABLE",
+      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "album": {
@@ -1988,7 +2024,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 222533,
       "name": "La Rubia Tarada",
       "url": "https://open.spotify.com/track/0RaRyvHA4z1VWq9BJhA65s"
@@ -2530,7 +2566,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 340200,
       "name": "Medalla de Oro",
       "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 234416,
       "name": "Money In The Bank",
       "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
@@ -3308,6 +3344,24 @@
       "duration_ms": 230000,
       "name": "Qu\u00e9 Tal Si",
       "url": "https://open.spotify.com/track/1nymd0Q8wlYw8GO6qpFFzz"
+    },
+    {
+      "album": {
+        "name": "Reflejo",
+        "url": "https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259039,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
     },
     {
       "album": {

@@ -1,13 +1,49 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Amaria",
-  "num_followers": 36211,
+  "description": "R&B of the moment by the artists of the future. Cover: Eric IV",
+  "num_followers": 36239,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NThjMTE4NmIzNGYyYjJjZWUyOWZlYmFiMjBmMzYxNmU3ZTI0ZDdh",
+  "snapshot_id": "MCwwYmQ3MTFlNWFlYzZmNjAwYzBiYmMwM2I0Nzk5ZDJlYTc0YmY4YjE5",
   "tracks": [
+    {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "Glowin 4 Me (Pt. 2) [feat. Amaria BB]",
+        "url": "https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        },
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Glowin 4 Me (Pt. 2) [feat. Amaria BB]",
+      "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
+    },
+    {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 159244,
+      "name": "Double Back",
+      "url": "https://open.spotify.com/track/3S6EknYnMYBdQw0WH32wOH"
+    },
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
@@ -45,20 +81,20 @@
       "url": "https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-05-05 05:18:45",
       "album": {
-        "name": "CHERIMOYA",
-        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
         }
       ],
-      "duration_ms": 129080,
-      "name": "CHERIMOYA",
-      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -77,6 +113,22 @@
       "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "CHERIMOYA",
+        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 129080,
+      "name": "CHERIMOYA",
+      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Crash & Burn",
@@ -91,6 +143,26 @@
       "duration_ms": 147096,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
+    },
+    {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "Maddest Hoes",
+        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Maddest Hoes",
+      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -213,6 +285,22 @@
       "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
     },
     {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Life",
@@ -227,22 +315,6 @@
       "duration_ms": 175999,
       "name": "Life",
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 166472,
-      "name": "Put You On",
-      "url": "https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -295,6 +367,38 @@
       "duration_ms": 189546,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
+    },
+    {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 190474,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
+    },
+    {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 174637,
+      "name": "ego talkin'",
+      "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -651,22 +755,6 @@
       "duration_ms": 123157,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Glowin 4 Me",
-        "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
-      },
-      "artists": [
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Glowin 4 Me",
-      "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
     },
     {
       "added_at": "2023-02-24 05:01:00",

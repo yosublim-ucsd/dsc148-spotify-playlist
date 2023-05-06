@@ -3270,7 +3270,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 219666,
       "name": "Cantigos de Santa Maria: Cantiga 13. Assi como Jesu Cristo",
       "url": "https://open.spotify.com/track/0ehYZpldb022rtJzDAYTYF"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 209400,
       "name": "Cantigos de Santa Maria: Cantiga 353",
       "url": "https://open.spotify.com/track/7MlPbkTK9kAImft2wYYUXn"
@@ -4682,7 +4682,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 181973,
       "name": "Congaudeat Turba Fidelium: Trope de Benedicamus",
       "url": "https://open.spotify.com/track/09nkDpQeRx4OYmHrVADuo7"
@@ -8325,6 +8325,32 @@
     },
     {
       "album": {
+        "name": "Gesualdo: Sacred Music for Five Voices (Complete)",
+        "url": "https://open.spotify.com/album/0k0LIrjspIz8qDpF0dMfTA"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gesualdo",
+          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
+        },
+        {
+          "name": "Oxford Camerata",
+          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265666,
+      "name": "Illumina faciem tuam",
+      "url": "https://open.spotify.com/track/1zyhUOh2S5IL1BuXQ0QZUY"
+    },
+    {
+      "album": {
         "name": "Music of the Gothic Era",
         "url": "https://open.spotify.com/album/4R6ivGciSWEBRt7xZZwW1E"
       },
@@ -8780,7 +8806,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 201760,
       "name": "I\u2019 Vivo Amando (Ballata)",
       "url": "https://open.spotify.com/track/3r9lphnhDFkSV0uUZt6Cl2"
@@ -9390,6 +9416,32 @@
       "duration_ms": 192240,
       "name": "Ki an ya ton erota mou",
       "url": "https://open.spotify.com/track/7xMDvju83mPVjQ2JsZ9X00"
+    },
+    {
+      "album": {
+        "name": "Hortus Deliciarum (Chants Gr\u00e9goriens Du XIIe S.)",
+        "url": "https://open.spotify.com/album/7j3iGt09gz87CkmRkwjOHI"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Brigitte Lesne",
+          "url": "https://open.spotify.com/artist/3IVY33qtUPVAdoprVjn69d"
+        },
+        {
+          "name": "Discantus",
+          "url": "https://open.spotify.com/artist/0lbvLaaitTZ4NZvcU1kRjZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Kyrie - Magne Deus: Trope de Kyrie",
+      "url": "https://open.spotify.com/track/6mjanDlk1J90dTicyNLakM"
     },
     {
       "album": {
@@ -11204,7 +11256,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 225640,
       "name": "Mayenzeit one Neidt",
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
@@ -13616,7 +13668,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t!",
       "url": "https://open.spotify.com/track/7M6q0jtU96kKmXPUoC2DG2"
@@ -13672,10 +13724,40 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 198560,
       "name": "Pal\u00e4stinalied",
       "url": "https://open.spotify.com/track/7xSRVPjj7WfO2GYNontpeZ"
+    },
+    {
+      "album": {
+        "name": "Maria Mater Meretrix",
+        "url": "https://open.spotify.com/album/4NqVrlViIaqKnRmXQbYcXc"
+      },
+      "artists": [
+        {
+          "name": "Walther von der Vogelweide",
+          "url": "https://open.spotify.com/artist/1mVqS151vBHsgMZxGUCXUe"
+        },
+        {
+          "name": "Anna Prohaska",
+          "url": "https://open.spotify.com/artist/70o1Ov3xdbsyLMC1SENiSg"
+        },
+        {
+          "name": "Patricia Kopatchinskaja",
+          "url": "https://open.spotify.com/artist/14Lewm6NkTHl5PGUzbFudC"
+        },
+        {
+          "name": "Camerata Bern",
+          "url": "https://open.spotify.com/artist/5NfY1GiwFZ0rQhxzsvcofG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344131,
+      "name": "Pal\u00e4stinalied (Arr. for Soprano, Violin and Orchestra by Michi Wiancko)",
+      "url": "https://open.spotify.com/track/3nNKvjeE5COFPB7GDEjxaZ"
     },
     {
       "album": {
@@ -13980,7 +14062,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 275080,
       "name": "Per non far lietto",
       "url": "https://open.spotify.com/track/40DbyVZlf3q0juUKLUSaML"
@@ -14300,7 +14382,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Planh for the Lord of Narbonne",
       "url": "https://open.spotify.com/track/1LB27PZnt99VSd2mIJfmlj"
@@ -15782,7 +15864,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 294045,
       "name": "Sacrarum cantionum quinque vocibus, Liber primus: Ave, dulcissima Maria",
       "url": "https://open.spotify.com/track/213VuLlbnq0L7mLmmMFs1l"
@@ -16926,7 +17008,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 256000,
       "name": "The 7th cansi: No.m say d'amor",
       "url": "https://open.spotify.com/track/1KC1utFEUrr2sbbCfnynCw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,937 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,966 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Libertango](https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Latin Style](https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu) | 4:06 |
 | 75 | [Tavernas' Hasapikos \- Instrumental](https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06) | [Yiorgos Zabetas](https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM) | [Colours of Greece / Instrumentals of Greek Music](https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w) | 2:40 |
 
-Snapshot ID: `MCwxMWIzY2FkYzQ4YzAxZWMwZWMwNDU1MTI1ZTg0ZWFlMWYwMTM4ZTcw`
+Snapshot ID: `MCw2Y2JiZThhZTUwODNlOWRjYjRmMGY3MDA4NmU0NmVmOWVkNDZiNzg3`

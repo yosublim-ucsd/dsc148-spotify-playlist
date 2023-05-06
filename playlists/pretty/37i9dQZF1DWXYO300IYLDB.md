@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,071 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,075 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [Worldwide \- Acoustic](https://open.spotify.com/track/6TjF9FZf1AULiIq2QISLTA) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Worldwide \(Acoustic\)](https://open.spotify.com/album/5bi23LgJpGRLdjim0YNHMU) | 3:50 |
 | 100 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
 
-Snapshot ID: `MCw2YjhkZGJjZDJlNjc0MzQ3OWYwM2RmZTU0MmNjNzYzOTVkYmZlNzUx`
+Snapshot ID: `MCw2YzEzMTJhOWE4YzcyYWVjNjkwNGUxMDk3YTY1YjQyYjI0OTgxYjBl`

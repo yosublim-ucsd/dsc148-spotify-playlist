@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142,543 likes - 160 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,142,558 likes - 160 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 | 160 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
 
-Snapshot ID: `MCw0ZTk1YTFjNGI2MzA5M2FjZWNjYWM2NDRmMDQ2YzhmMmI3NmQxYTcx`
+Snapshot ID: `MCwyY2E0ZDkwN2E1YzY1YzczZDQ1Nzk5NjA4MTUyYmFjNWVkMTQyMmZj`

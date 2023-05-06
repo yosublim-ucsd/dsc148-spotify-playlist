@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 
 > Have some chill house with your coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,420 likes - 90 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,434 likes - 90 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 | 89 | [No More](https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy) | [Bros Bros](https://open.spotify.com/artist/5QQgP1TsYXJmb0VhOjO6ZX), [Jon the Gold](https://open.spotify.com/artist/00vagRdyf9Xku8Gi0zPv0x) | [No More / You Like Me](https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc) | 2:38 |
 | 90 | [Dub 002](https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Dub 002](https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6) | 6:10 |
 
-Snapshot ID: `MCw5YTVkN2I3YzAzMDVmMDJhZGJmNWM2NzdhNzQ0N2EyZDY2NzJkZGZi`
+Snapshot ID: `MCxiOGRkYTIyZDg1YTEwNGFkN2MxZTNhMzIyZDllMjQxN2ZkOGQ3YmY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Scott McMicken and THE EVER\-EXPANDING
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,689 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,796 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Blue Over Blue](https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [Blue Over Blue](https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7) | 3:16 |
 | 150 | [On A Beach](https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [On A Beach](https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6) | 4:05 |
 
-Snapshot ID: `MCwyNDQxODdkZTJkNDJkNGY1ZGJjMjcxNjMzNDFiZjNhZTE0MmVkNDlk`
+Snapshot ID: `MCxjZWU1YzAzOTA2MDQ4OWYwMTI0NWI3NDkzYzAzYjkwZTdiZjIzNDkw`

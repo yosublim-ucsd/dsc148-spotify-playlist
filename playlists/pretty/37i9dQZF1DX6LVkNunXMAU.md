@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Luz Pinos
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,027 likes - 90 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,034 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 89 | [Interludio en el Ataúd](https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ) | [Canciones de Mal Gusto para Gente Depresiva](https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx) | 3:12 |
 | 90 | [Corazón](https://open.spotify.com/track/57druALZuNFipo15C2uiHQ) | [Imaina](https://open.spotify.com/artist/2LCUXnW5e5TubrF6OJJwCu) | [Corazón](https://open.spotify.com/album/4TmwigR6q4r2S26W1McDed) | 3:18 |
 
-Snapshot ID: `MCw0ZDU2ODAyODIxYzg0MTc5ZWJiZjNkNzZhMzk2NDg5Yzg1Mjk5NjBl`
+Snapshot ID: `MCw1NDQzNDQyZTM4MzdmZjc1ZGYwNWNiOTQxOWQxODQzYTA2MjRjYTAx`

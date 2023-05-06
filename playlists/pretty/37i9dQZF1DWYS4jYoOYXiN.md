@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,182 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,250 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Latin Bugalu](https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH) | 2:28 |
 | 50 | [Dry Cocoanuts](https://open.spotify.com/track/2aPhirjN6mWZlI2QPdfcLS) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Mambo & Cha Cha Cha](https://open.spotify.com/album/2zeMCbliNWzlwz2CxgBjhl) | 2:32 |
 
-Snapshot ID: `MCxmODI4YzQ5ZDBkYmY0ZjY5NTk2ZWM2MjI3OTQxZjY4N2Q0ZjZiMDY2`
+Snapshot ID: `MCxhZmJjMTMyZWM3YjhiMDM3YzM4YWQ2NzU0YTBjZmVkNWI5MmU5YjBh`

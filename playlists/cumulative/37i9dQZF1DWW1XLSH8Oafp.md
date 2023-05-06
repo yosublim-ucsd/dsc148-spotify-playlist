@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Kenya Grace
 
-592 songs - 1 day 9 hr 58 min
+593 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Daydream](https://open.spotify.com/track/4T3VWXlsa1feVAXyDE5V4f) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Daydream](https://open.spotify.com/album/41CodDANPLmQrst12l1MAI) | 3:51 | 2022-07-29 | 2022-08-27 |
 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 | 2022-03-17 | 2022-06-04 |
 | [deAth2Wings](https://open.spotify.com/track/3gDkbsRoHqJpQcDxdy3Hi8) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [deAth2Wings](https://open.spotify.com/album/4j5spNjco82Gq32pJ0HN0N) | 1:51 | 2022-03-18 | 2022-04-16 |
+| [Deep End](https://open.spotify.com/track/2m5EUOqv1XjDW4yP0TZFKN) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Deep End](https://open.spotify.com/album/2WuNuLoaj2LFVqTlGnVDIn) | 3:25 | 2023-05-05 |  |
 | [Deja Vu](https://open.spotify.com/track/10VdI9qiNjzM9Zh7p06UhW) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Futurism \- EP](https://open.spotify.com/album/3k9FBTWLgUyzTrhkZSUwEI) | 4:32 | 2021-08-13 | 2022-03-12 |
 | [DESIIRE](https://open.spotify.com/track/3rWHOmqjQ5Rq8BAvklep7R) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [DESIIRE](https://open.spotify.com/album/4CAT5NIGLKgWkFKy2E7Sb7) | 5:04 | 2022-08-26 | 2022-11-04 |
 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 | 2023-04-05 |  |

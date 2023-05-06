@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,618 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,695 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 26 | [Circle 26 \- Tom Ashbrook Rework](https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Circle 26 \(Tom Ashbrook Rework\)](https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349) | 3:40 |
 | 27 | [hundred00](https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [hundred00](https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C) | 4:49 |
 | 28 | [Bird's Tail \- Slow Meadow Rework](https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Bird's Tail \(Slow Meadow Rework\)](https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf) | 5:43 |
-| 29 | [Spring 1 \- Levitation Mix](https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Elena Urioste](https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [Spring 1 \(Levitation Mix\)](https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX) | 3:35 |
+| 29 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- Levitation Mix](https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Elena Urioste](https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [Spring 1 \(Levitation Mix\)](https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX) | 3:35 |
 | 30 | [Nuvole Bianche \- Reimagined by Mercan Dede](https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Reimagined\. Volume 2, Chapter 3](https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw) | 7:03 |
 | 31 | [\[Time\] Place](https://open.spotify.com/track/7y5KNFzUITQC3ObeFkf9cj) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Golden Hours, Pt\. 1](https://open.spotify.com/album/5jZ6dWSjl1sY8WGlXvWcaa) | 7:07 |
 | 32 | [Satori by the Sea](https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Satori by the Sea](https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [We Could Stay](https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Could Stay](https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w) | 3:37 |
 | 80 | [21st Of June](https://open.spotify.com/track/3AQqVeGznmbsy4aksIEfaH) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [21st Of June](https://open.spotify.com/album/5g2HXYAdPF2Qj1uqxWj4Yu) | 3:11 |
 
-Snapshot ID: `MCw4M2NiOWI3MGQ5ZDllNDk1M2FmNjg1M2QyY2Q3MWU2MzE2ZGRjYTFm`
+Snapshot ID: `MCxmODJkYTFjMWRiYWM0MDY1ZWMzYjExOWI3ZGQwY2VjM2Q0Y2ExZWQx`

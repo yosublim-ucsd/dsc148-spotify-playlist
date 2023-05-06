@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,574 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,574 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [excuses](https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [excuses](https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW) | 5:46 |
-| 2 | [Dit Is Alles](https://open.spotify.com/track/5au9uaIhhA51N27U68JXve) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Dit Is Alles](https://open.spotify.com/album/2MwKnMone5os6yTkqCWxXG) | 3:35 |
+| 1 | [Bloed In Mijn Bloed](https://open.spotify.com/track/5UuvuYtxL6z5h5g02XTcs3) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Bloed In Mijn Bloed](https://open.spotify.com/album/6imc4krabQCDfV7AcOvoth) | 3:58 |
+| 2 | [excuses](https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [excuses](https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW) | 5:46 |
 | 3 | [Zonder](https://open.spotify.com/track/4ZMYnbAOkyOIhfuA0hHHq0) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Zonder](https://open.spotify.com/album/1yPgri8VVGPHaHoI8Mc18h) | 3:25 |
 | 4 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 |
 | 5 | [Glas In Lood](https://open.spotify.com/track/2jXsjXKDneBlnppUhdaaKC) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 59 | [Suicide Club](https://open.spotify.com/track/0pnED1pCTIMwyyeAEoux2g) | [GIAN](https://open.spotify.com/artist/5T9IzVTXZRCWuaEZzInXP3), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Suicide Club](https://open.spotify.com/album/1NiAQnXZVBbldqwJDv5GAe) | 3:00 |
 | 60 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 |
 
-Snapshot ID: `MCxlYzFiNjFiM2UzNjQ4MTMyMmE2MWRhZDIwMTg3MDZiOTIzOTFjZmRk`
+Snapshot ID: `MCwwMjc4OGY5ZGVkOGFmMTY5MGIxNzQ2MmMzYjAxYjc2ZTJkY2YxNTQ2`

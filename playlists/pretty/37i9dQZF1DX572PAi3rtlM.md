@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,912 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,958 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Warm Priority](https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Priorities](https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X) | 5:48 |
 | 50 | [Rap\-O Clap\-O \- 2013 \- Remaster](https://open.spotify.com/track/3zjPJnExupCwiukKM27m9q) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Anthology](https://open.spotify.com/album/0RHvIL5YrBdDp5RmSbAwZg) | 3:51 |
 
-Snapshot ID: `MCw3OTY4M2Y1M2Y2N2MzOTNmZGJiMjQ1N2QwNmE1MzcwYTVjNjVhNjk3`
+Snapshot ID: `MCw4OGNkZDA3ZmVlNGM3YTFmOTA2MTRhMDRiNGQ0MGNiMGNhZjNlYTg3`

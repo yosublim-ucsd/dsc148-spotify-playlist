@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,292 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,483 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 79 | [Party All Night](https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Chi City](https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF) | [Supah Fly](https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0) | 2:25 |
 | 80 | [Night Rider](https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Night Rider](https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT) | 3:35 |
 
-Snapshot ID: `MCwyOGI5OGZkNDY4ODVkZTI1M2M4ZTc2M2NjZjlhNzcxNDEwMTlkZmUy`
+Snapshot ID: `MCw4MmE4N2RkMTQ1Y2ExMjU5NWJmY2VmNWQxNTNlN2VlMWQyYmMyM2Yy`

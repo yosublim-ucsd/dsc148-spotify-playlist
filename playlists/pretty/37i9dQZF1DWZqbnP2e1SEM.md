@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,362 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,381 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Bad \(feat\. Aitch\)](https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bad \(feat\. Aitch\)](https://open.spotify.com/album/2yOlbpaUHBPXPq7cQJ563V) | 3:26 |
 | 100 | [Feel About You \- Edit](https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Annie Mac](https://open.spotify.com/artist/41DZ1or3s4tphMQnLC5RNk) | [Feel About You](https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d) | 3:36 |
 
-Snapshot ID: `MCwyNzI2MThjMGY1YTBjMzgxMTUwZjM1ZWE4N2RiY2M5MzA0ZDE2ODdm`
+Snapshot ID: `MCw5ZmM4ODQyZTA2MTQ2NzY1MWE4NTNiMGFkZmFkMjUyMTI2OTZkNGY0`

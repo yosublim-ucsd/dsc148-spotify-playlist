@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,380 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,408 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 49 | [ON YOUR MARK](https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:00 |
 | 50 | [ブルームブルーム](https://open.spotify.com/track/4G7Wsp4nJNLg55Mp6RRU1s) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:36 |
 
-Snapshot ID: `MCw4ZjZjNDMwMDY4MmFkNjNlY2JlZDViMzVhNWM0ZmZlNGE2NTQzZWY0`
+Snapshot ID: `MCxjMWI4NWE3OTlmZGIxNTkxNjBmMTVmYzFhM2NjM2I0ZjMxZGYzZDc2`

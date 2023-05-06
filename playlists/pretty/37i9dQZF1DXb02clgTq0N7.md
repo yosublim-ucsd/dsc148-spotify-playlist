@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,145 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,298 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 74 | [La Tambora Va A Sonar](https://open.spotify.com/track/1dnZe0c1EVwHHiEvZy0XFO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Tambora Va A Sonar](https://open.spotify.com/album/5DVeFfpAKt6S9op3tkiaYg) | 2:40 |
 | 75 | [Don Dinero](https://open.spotify.com/track/5C1fs86eZF8fC32nphXuD1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 2:51 |
 
-Snapshot ID: `MCxjYmNkMjA2MmUxMzNhOWE5MWFmMjIxMWFmMjQxNmRhYTMzOGU2YTU2`
+Snapshot ID: `MCxjNWYxMjM1MTE1OWMwMDg3NDBjODgyM2FjMmE1ZTg3OTk5YzAyYjM0`

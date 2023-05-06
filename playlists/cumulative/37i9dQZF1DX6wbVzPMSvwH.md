@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6wbVzPMSvwH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6wbVzPMSvwH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6wbVzPMSvwH)
 
-### [Morning Spirit](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
+### [Semangat Pagi](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
 
-> Feel good songs for morning activities.
+> Lagu\-lagu positif untuk mengawali harimu.
 
-88 songs - 5 hr 35 min
+89 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Buktikan](https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Buktikan](https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM) | 3:59 | 2023-03-30 |  |
 | [Cintaku](https://open.spotify.com/track/4hykertmVe1gPtNB2atBNJ) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Everlasting Hits](https://open.spotify.com/album/4X9jiWC7TjqziUu92g4KgU) | 4:42 | 2022-12-13 |  |
 | [Dari Mata](https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Dari Mata](https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh) | 3:43 | 2022-12-13 |  |
+| [Darkest Hour \- Keisya Levronka Version](https://open.spotify.com/track/2GG2bljq1Nem0qNxWuuUfS) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Darkest Hour \(Keisya Levronka Version\)](https://open.spotify.com/album/4d88SjXgVm9pBiKs0JIFzY) | 2:11 | 2023-05-05 |  |
 | [Desire](https://open.spotify.com/track/48wBjW6siHVJPhYfkAW9su) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd) | [Desire](https://open.spotify.com/album/3kW3zUAjG6JFOA5bHGQtPZ) | 3:38 | 2023-03-23 |  |
 | [Dewi Pelita](https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED) | [Fiko Nainggolan](https://open.spotify.com/artist/0fOEDOEkZobdwo8jksF98r), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Dewi Pelita](https://open.spotify.com/album/4ERCJb48c2k4aOtPz7U7tK) | 3:45 | 2023-02-23 |  |
 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2022-12-13 |  |

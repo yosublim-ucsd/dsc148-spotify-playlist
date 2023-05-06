@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Where it all started. Cover: 50 Cent",
+  "description": "Where it all started. Cover: Big Pun",
   "name": "I Love My East Coast Classics",
   "tracks": [
     {
@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Capital Punishment (Explicit Version)",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa"
+    },
+    {
+      "album": {
         "name": "Hard Core",
         "url": "https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT"
       },
@@ -194,7 +212,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 252746,
       "name": "Big Poppa - 2005 Remaster",
       "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 282906,
       "name": "How's It Goin' Down",
       "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 178600,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 253226,
       "name": "Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",
       "url": "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282666,
       "name": "Incarcerated Scarfaces",
       "url": "https://open.spotify.com/track/3SL3GG9Bs7m1s9aqhjCeIa"
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 221026,
       "name": "Mass Appeal",
       "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
@@ -2256,7 +2274,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 291066,
       "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 214440,
       "name": "Ruff Ryders' Anthem",
       "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 236800,
       "name": "Still Not a Player (feat. Joe) - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
@@ -3102,9 +3120,9 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 228173,
-      "name": "Twinz (Deep Cover 98) (feat. Fat Joe)",
+      "name": "Twinz (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
     },
     {
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220440,
       "name": "Warning - 2005 Remaster",
       "url": "https://open.spotify.com/track/33rsCCLHklTQav9klbpnAi"
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"

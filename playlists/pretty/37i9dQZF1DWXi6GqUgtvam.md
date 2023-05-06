@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,728 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,877 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 14 | [Lamento Di Tristano And La Rotta](https://open.spotify.com/track/2hxdofcXRRprDttD4INEyr) | [Cheryl Ann Fulton](https://open.spotify.com/artist/4WZQjddfkBTqhMxJ3LJM8K) | [The Once & Future Harp](https://open.spotify.com/album/6zNObFuUkAdowWx7ZY5kH2) | 5:39 |
 | 15 | [The Dancing Master: Drive the Cold Winter Away](https://open.spotify.com/track/1U29vvxf87m0zcz6GN78dm) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [PRISMA](https://open.spotify.com/artist/1kT9uIlaSJT4OwxMXsXx4I) | [In the Streets of London: A 17th Century Musical Pub Tour](https://open.spotify.com/album/6oHYqLToZU2c7gCrzeaYlc) | 1:45 |
 | 16 | [Saltarello I & II](https://open.spotify.com/track/0AA77trqxrC447ZkBpVNYp) | [Giacomo Gorzanis](https://open.spotify.com/artist/5v1EIf3kNF2XUlgpevYoj3), [Marc Lewon](https://open.spotify.com/artist/4NFHFqu4lLW38TWHbVWfCV) | [Bis an der Welt ihr Ende](https://open.spotify.com/album/0uYw7LNkcsScQ69xfJTgwd) | 3:24 |
-| 17 | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/track/7aqx8hsa0qrpkDYfDnQy54) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [LUDWIG Orchestra](https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q) | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/album/2bGvmIpKf3832AfZ3w3CVD) | 2:47 |
+| 17 | [Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/track/7aqx8hsa0qrpkDYfDnQy54) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [LUDWIG Orchestra](https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q) | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/album/2bGvmIpKf3832AfZ3w3CVD) | 2:47 |
 | 18 | [Lute Sonata in F Minor \[Augsburg manuscript\]: I\. Affettuoso](https://open.spotify.com/track/7LMjfpcFS1zbFf10GAIILB) | [Bernhard Joachim Hagen](https://open.spotify.com/artist/4C5ayULfDjchGDFpclI1bx), [Robert Barto](https://open.spotify.com/artist/2CnMgd69h3tuIxd875biVF) | [Hagen: The Augsburg Manuscript Music for Lute](https://open.spotify.com/album/4KnKIzBvsnu4IiyPVGUbS5) | 3:32 |
 | 19 | [Greensleeves](https://open.spotify.com/track/10ZHpk2c9AhJ8GL29O1ZqY) | [John Johnson](https://open.spotify.com/artist/3xYtiAZeJwvtLBQuPpjTll), [Anthony Rooley](https://open.spotify.com/artist/19l99CiXKRvs1wgXuxCpv6), [James Tyler](https://open.spotify.com/artist/2GmmkFnq13lWOyIMUF6AnY) | [My Lute Awakes](https://open.spotify.com/album/0vMxenxordxeoaVfX0kHRN) | 3:58 |
 | 20 | [Ein Schottisch Tanz](https://open.spotify.com/track/2AZPcBbu7HTfffRG5xSQeR) | [William Brade](https://open.spotify.com/artist/72CceCzVMQDJriXo0JCn0h), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL) | [Musica Nova](https://open.spotify.com/album/6xBs7zg7UmEmjUm7H4LEKJ) | 2:56 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 50 | [The Master Chef of Gastrobury](https://open.spotify.com/track/0aycbYuLLKP00Vxk8nLXtB) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Sims Medieval, Vol\. 2](https://open.spotify.com/album/3DwRaQhxTq7o9a0GAnILbD) | 2:08 |
 | 51 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 |
 
-Snapshot ID: `MCxjNDljNmUzNDM4Mzc1NTUwMjg5NWRmODRhMTBkNTRlZmNkMGE4ZDlj`
+Snapshot ID: `MCwxOWFkNGYwNGU0ZDUxNDc4NzFiZjEyYTc1ZjczMzNjNjI0MDA0NjI4`

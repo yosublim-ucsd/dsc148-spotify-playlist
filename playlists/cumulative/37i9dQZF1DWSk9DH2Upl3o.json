@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-28",
-  "description": "The jam scene is alive and well. Cover: ALO",
+  "description": "The jam scene is alive and well. Cover: Kendall Street Company",
   "name": "Modern Jam Band",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 395013,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU"
@@ -92,6 +92,28 @@
       "duration_ms": 357053,
       "name": "Babyman",
       "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
+    },
+    {
+      "album": {
+        "name": "Becca's Dad",
+        "url": "https://open.spotify.com/album/3v068X3waV2bpB8f82XirA"
+      },
+      "artists": [
+        {
+          "name": "Kendall Street Company",
+          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
+        },
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256275,
+      "name": "Becca's Dad",
+      "url": "https://open.spotify.com/track/3OVye532W6NOtkGGmu2EJj"
     },
     {
       "album": {
@@ -374,7 +396,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 362786,
       "name": "Dig it Good",
       "url": "https://open.spotify.com/track/0JDLm3OWl6o1kBhLTEogz8"
@@ -566,6 +588,28 @@
       "duration_ms": 275609,
       "name": "Find a Better Way",
       "url": "https://open.spotify.com/track/5QLYkHW64i9wdhLwplMmhb"
+    },
+    {
+      "album": {
+        "name": "Fire And Brimstone",
+        "url": "https://open.spotify.com/album/7hHQBVMkOdqoYnNrSW274S"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        },
+        {
+          "name": "Oliver Wood",
+          "url": "https://open.spotify.com/artist/7AJNTCR4NEQFQdiC4JIEod"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269240,
+      "name": "Fire And Brimstone",
+      "url": "https://open.spotify.com/track/3vDZowtjlc8GDNmINyLOpV"
     },
     {
       "album": {
@@ -868,7 +912,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 476977,
       "name": "Julian",
       "url": "https://open.spotify.com/track/6zf24ssm3oX06086awQlsl"
@@ -1246,7 +1290,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 173105,
       "name": "New Eyes",
       "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
@@ -1304,6 +1348,24 @@
       "duration_ms": 462830,
       "name": "Off Leash",
       "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
+    },
+    {
+      "album": {
+        "name": "One Turn",
+        "url": "https://open.spotify.com/album/2Axf1fjKFzOqHoesPAKB1t"
+      },
+      "artists": [
+        {
+          "name": "Mungion",
+          "url": "https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297720,
+      "name": "One Turn",
+      "url": "https://open.spotify.com/track/5wotgIhvk6lJfNCqnUJO6d"
     },
     {
       "album": {
@@ -1484,6 +1546,24 @@
       "duration_ms": 342111,
       "name": "River Drift",
       "url": "https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7"
+    },
+    {
+      "album": {
+        "name": "Same As It Ever Was",
+        "url": "https://open.spotify.com/album/6avSm8ZUTDXwOFCxWwhHx2"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404800,
+      "name": "Same As It Ever Was",
+      "url": "https://open.spotify.com/track/56JZhCEFR1LUGGbxGDuRnx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-625 songs - 1 day 11 hr 32 min
+626 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [MERCURIO](https://open.spotify.com/track/6KCvMsAiL6WseKEFsWoPgc) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:40 | 2023-02-25 | 2023-02-27 |
 | [Metele Con Candela](https://open.spotify.com/track/0bgGhGxbgUtDNR2gDdqQEu) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Metele Con Candela](https://open.spotify.com/album/24Y8jbm3eYF61ft8QNZvKK) | 3:11 | 2022-06-29 | 2022-07-02 |
 | [Mi Banderita Chilena](https://open.spotify.com/track/1gJmjUK36JKbJOW2A7xHmr) | [Silvia Infantas Y Los Condores](https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD) | [Chile Tipico Vol.4 Rio Rio](https://open.spotify.com/album/6J0evmGaRfknd8cBL5zLsU) | 3:07 | 2021-09-20 | 2021-09-21 |
+| [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 | 2023-05-05 |  |
 | [Mi Facha](https://open.spotify.com/track/62gh30MVB1SeMdwcLc0JSy) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Mi Facha](https://open.spotify.com/album/5hFqiyEaMcMEC9uBuG8U6Y) | 3:03 | 2023-02-08 | 2023-02-26 |
 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 | 2021-12-28 | 2022-06-30 |
 | [Mi Gata](https://open.spotify.com/track/0Z46SPLJZUC2aKDAggsMvr) | [Standly / El Barto](https://open.spotify.com/artist/5qLs2jxwhB5HrAKSCYYkZZ) | [Mi Gata](https://open.spotify.com/album/1kLNKbt06XNjaELUhtKhab) | 3:22 | 2021-12-04 | 2021-12-26 |
@@ -407,7 +408,7 @@
 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 | 2023-02-25 | 2023-02-28 |
 | [Olvidona \(feat\. Lleflight, Best\)](https://open.spotify.com/track/4o5DgFbeHH6kG84MrP85Ly) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Olvidona \(feat\. Lleflight, Best\)](https://open.spotify.com/album/0kBgcGgNqyr0tCqY4PRuEw) | 3:53 | 2022-08-02 | 2022-08-14 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-07 | 2022-06-05 |
-| [PA K TE ENAMORE](https://open.spotify.com/track/1DmPVoJJgSAMHEMamRV4DH) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [PA K TE ENAMORE](https://open.spotify.com/album/4xLrTiXtCAguTznMly4H5z) | 2:20 | 2023-01-11 |  |
+| [PA K TE ENAMORE](https://open.spotify.com/track/1DmPVoJJgSAMHEMamRV4DH) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [PA K TE ENAMORE](https://open.spotify.com/album/4xLrTiXtCAguTznMly4H5z) | 2:20 | 2023-01-11 | 2023-05-06 |
 | [Pa La Europa](https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [Pa La Europa](https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn) | 3:39 | 2023-04-11 |  |
 | [Panamera](https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Panamera](https://open.spotify.com/album/587dbQNUDsGAL4xMkNScm6) | 3:55 | 2022-05-01 | 2022-12-08 |
 | [Pantano \- Remix](https://open.spotify.com/track/1sDvWQbVj3anRUpONsubM9) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Pantano \(Remix\)](https://open.spotify.com/album/0qteDpvYnK1Oe5QCCyA7Wu) | 6:28 | 2022-07-31 | 2022-08-28 |

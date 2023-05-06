@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 128382,
+  "num_followers": 128628,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTBmNzI3ZDRjMjIwYzRkNGVhODZlYjQzYjFlZjUzOTVmMjBlNGEz",
+  "snapshot_id": "MCxhMWFmNDA4ZWQ2ZjAyOTQyZDM3NTJlMGFjMGEyNzhjNmUxMWVkY2E2",
   "tracks": [
     {
       "added_at": "2023-03-16 18:20:17",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
-        "url": "https://open.spotify.com/album/7KiyicpzKkhs7BUxg4fqz2"
-      },
-      "artists": [
-        {
-          "name": "Abayomy Afrobeat Orquestra",
-          "url": "https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv"
-        }
-      ],
-      "duration_ms": 457053,
-      "name": "Malunguinho",
-      "url": "https://open.spotify.com/track/6OEj7Y9qW87GB17GBx7Y3b"
-    },
-    {
       "added_at": "2022-07-13 15:46:50",
       "album": {
         "name": "Siempre Sim\u00f3n y Nunca Nel",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Heavenly Sweetness Sampler #3",
+        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
+      },
+      "artists": [
+        {
+          "name": "Coopers",
+          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "Acapulco, dos de la tard",
+      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -1273,20 +1273,24 @@
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2023-03-16 23:40:55",
       "album": {
-        "name": "Heavenly Sweetness Sampler #3",
-        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
+        "name": "Dj friendly",
+        "url": "https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o"
       },
       "artists": [
         {
-          "name": "Coopers",
-          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Vazl\u00e1",
+          "url": "https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV"
         }
       ],
-      "duration_ms": 184750,
-      "name": "Acapulco, dos de la tard",
-      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
+      "duration_ms": 234900,
+      "name": "V\u00e1monos - Vazl\u00e1 Remix",
+      "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
     }
   ],
   "unique_name": "Tulum Vibes",

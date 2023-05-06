@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Ethan in cover! <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">Qua la playlist global</a> ✨
 
-272 songs - 16 hr 40 min
+273 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Delirio Italiano](https://open.spotify.com/track/5kir7rtYilOrOBCVIMMKRf) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Delirio Italiano](https://open.spotify.com/album/3t7vWxTyGnnkGTF5cI1Mw7) | 3:52 | 2021-11-19 | 2022-04-02 |
 | [Demone](https://open.spotify.com/track/3H3qKnJ2ZT6S5JLV6rd8jy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [Demone](https://open.spotify.com/album/2TbL35XOKzslkdFLhbM7aW) | 3:13 | 2021-11-19 | 2022-07-29 |
 | [Deputy Of Love feat\. Fonda Rae](https://open.spotify.com/track/1XH8Tk9F84g0x1XDsqwKWt) | [Don Armando's Second Avenue Rhumba Band](https://open.spotify.com/artist/6nXqNJsvC73X3kBpBwRfPD) | [Ze 30 \- Ze Records Story 1979\-2009](https://open.spotify.com/album/2HswEoyYxlHy27W8zSo7TJ) | 5:28 | 2022-04-01 | 2022-05-18 |
-| [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 | 2022-07-04 |  |
+| [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 | 2022-07-04 | 2023-05-06 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-06-12 | 2022-06-27 |
 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 | 2022-04-01 | 2023-01-25 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-06-12 | 2022-06-27 |
@@ -195,6 +195,7 @@
 | [Play With Myself](https://open.spotify.com/track/2oSAdln9nEAmkeXyKZuHBu) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Kuntessa](https://open.spotify.com/artist/3vJiNTj6tI54H1wa61rDlU) | [Maison Belissimo](https://open.spotify.com/album/2rQu03UOssXQjmatsLxWfb) | 3:54 | 2022-06-26 | 2022-07-25 |
 | [Power to the People \- Boombass Remix](https://open.spotify.com/track/5KI0TuNNQCPVQW7aaMB1EU) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [Boombass](https://open.spotify.com/artist/3EddlMzXk28s8fElHCfi6f) | [Power to the People](https://open.spotify.com/album/3RKkCUYEHlvyp1cQVAtx3t) | 6:18 | 2021-11-19 | 2022-07-27 |
 | [PRAY](https://open.spotify.com/track/0znJt9mv0fI2DKSkJ8TfTY) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [PRAY](https://open.spotify.com/album/1aP12hQEnwTJtUqIxQo9Ju) | 2:23 | 2022-06-02 |  |
+| [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-05-05 |  |
 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 | 2021-11-19 |  |
 | [Queer Nation](https://open.spotify.com/track/6SYYoo7lZsNI7JhsG1vr7R) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Party Hard Ton](https://open.spotify.com/album/1JtWoaApyKVWOiPqQW2Jvb) | 6:10 | 2022-06-26 | 2023-03-18 |
 | [Quelli che benpensano \(feat\. Riccardo Sinigallia\)](https://open.spotify.com/track/0ekMehNXQgeMJXfCPrlTTf) | [Frankie HI\-NRG MC](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Riccardo Sinigallia](https://open.spotify.com/artist/43wEeBstQu4lBC5V6oRdNG) | [La Morte Dei Miracoli & Diff\. Coupling](https://open.spotify.com/album/1iMtC9ZMR2zqC74aNP510k) | 4:09 | 2022-06-26 | 2022-07-16 |

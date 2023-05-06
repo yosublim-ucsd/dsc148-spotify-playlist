@@ -35,6 +35,32 @@
     },
     {
       "album": {
+        "name": "21 Forever",
+        "url": "https://open.spotify.com/album/015R3QaOLULmgl68tTxUXZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319776,
+      "name": "21 Forever",
+      "url": "https://open.spotify.com/track/7aYzn6SP2JYi7Wx4Yk3TIN"
+    },
+    {
+      "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
@@ -3596,6 +3622,24 @@
       "duration_ms": 197087,
       "name": "When the Cowboys Gone",
       "url": "https://open.spotify.com/track/72U86afw7ZhxeNsPo76bxf"
+    },
+    {
+      "album": {
+        "name": "When The Rodeo Is Over (Where Does The Cowboy Go?)",
+        "url": "https://open.spotify.com/album/55JUFgPqNq7KIoomgcaw2v"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242653,
+      "name": "When The Rodeo Is Over (Where Does The Cowboy Go?)",
+      "url": "https://open.spotify.com/track/2hZ2CDziK90laOB2inWp8X"
     },
     {
       "album": {

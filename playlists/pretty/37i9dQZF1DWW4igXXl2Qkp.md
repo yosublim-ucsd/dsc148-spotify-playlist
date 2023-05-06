@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Devmaccc
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,353 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,427 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Another Day](https://open.spotify.com/track/1IV6iZ3OzhRgcosTrW7uXI) | [Jelly](https://open.spotify.com/artist/6Jb1lWkhG604r5Ly1HCfvh), [Notta Wrd](https://open.spotify.com/artist/1ffvNCCukqimbBPtJzHMTs) | [Another Day](https://open.spotify.com/album/3W98a1ODzyIZ048YGUYM2Q) | 1:39 |
 | 75 | [Krazy](https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [Krazy](https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh) | 2:53 |
 
-Snapshot ID: `MCw3OTIwY2MxYjhjNGEwMTc3YzY4MmUxMTA3Y2IwOGYyNTNjYzY2OWQx`
+Snapshot ID: `MCwzYjczOTBkNDIxMGY4Y2Y3MTUwM2Y0ZDU1OGRkMWIxNzUzOTEyMzk1`

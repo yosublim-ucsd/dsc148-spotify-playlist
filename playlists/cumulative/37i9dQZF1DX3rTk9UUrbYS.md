@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-126 songs - 16 hr 39 min
+127 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Melt All the Guns](https://open.spotify.com/track/4zpN6HASOz9T15MhpBvM4A) | [Devin Gray](https://open.spotify.com/artist/4Ivo3FWLlLMJLnscn6Z6Ha), [Ralph Alessi](https://open.spotify.com/artist/2yHcAgHAPUdUhVuiIWWcba), [Angelica Sanchez](https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi) | [Melt All the Guns](https://open.spotify.com/album/6Bpgr7virRwtyK3stIIb4R) | 4:31 | 2021-06-04 |  |
 | [Mr\. Syms](https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [Four For Trane](https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n) | 7:41 | 2020-08-25 |  |
 | [New Age \(Matrix\) \- Instrumental](https://open.spotify.com/track/0Gp5tGBCzRCXQyyKeXmWoq) | [Aaron Burnett](https://open.spotify.com/artist/5j7DKIqTzeP8owzlPDwNLJ) | [Correspondence](https://open.spotify.com/album/2qCbbojLoVTrzIUCDIDCWj) | 8:52 | 2022-01-07 |  |
+| [New Dawn](https://open.spotify.com/track/35vLmAqKYb2R9KwKP2aKOV) | [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D), [Johnny Vidacovich](https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA), [James Singleton](https://open.spotify.com/artist/3A07LOMMmRbj9cFQ7xAqQt), [Tony Dagradi](https://open.spotify.com/artist/7jY3IF3mLOfmkuTMZr5d70) | [Look For Water](https://open.spotify.com/album/2fFPASABUYoAT64T6KSbCZ) | 6:45 | 2023-05-05 |  |
 | [No Floor No Ceiling](https://open.spotify.com/track/5aWBBayv3dez5I4w2CQqc4) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [No Floor No Ceiling](https://open.spotify.com/album/6zUeNam7yufVlCWSwxdxl5) | 4:47 | 2020-08-25 | 2022-07-29 |
 | [No Floor No Ceiling](https://open.spotify.com/track/79rm3QepPfhJogUwqV5d4u) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [The Fire Still Burns](https://open.spotify.com/album/1nN7wLL6GA7xdcoI1L9BjS) | 4:47 | 2020-08-25 |  |
 | [Nona's Blues](https://open.spotify.com/track/0yRHtnaA8A7F0G4L5xM443) | [Cecil Taylor Quartet](https://open.spotify.com/artist/5fvnNCLnoSQYPRxLp7N8Fe) | [The Best Of Newport '57: 50th Anniversary Collection](https://open.spotify.com/album/2wKaZ7NqBwl8B9azY9MYyH) | 7:07 | 2020-08-25 | 2022-07-27 |

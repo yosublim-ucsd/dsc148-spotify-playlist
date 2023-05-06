@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,105 likes - 200 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,476 likes - 200 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 199 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 |
 | 200 | [運命共同体!](https://open.spotify.com/track/68UvIpHBuWCJop41Paz9ON) | [音莉飴](https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ) | [運命共同体!](https://open.spotify.com/album/4YUe2shq63CoC7jQGMgblW) | 3:51 |
 
-Snapshot ID: `MCw5YWYwYTA5ODJlOGUxZGRjYWEyMDQ4MWIwMWJhZjA1NjRkODMxNmNk`
+Snapshot ID: `MCxhNzI0OWJmYmI1ZjBkNWE2YzM4YzE2YmQ4NGZlMWIzMGYyZGUxMWY5`

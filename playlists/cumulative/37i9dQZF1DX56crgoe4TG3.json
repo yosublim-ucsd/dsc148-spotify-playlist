@@ -2617,6 +2617,28 @@
     },
     {
       "album": {
+        "name": "Pursuit of Happiness",
+        "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington Band",
+          "url": "https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp"
+        },
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "Pursuit of Happiness",
+      "url": "https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW"
+    },
+    {
+      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
       },

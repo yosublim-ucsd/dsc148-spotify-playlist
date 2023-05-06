@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,680 likes - 96 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,706 likes - 96 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 95 | [Matrix \- Sofia Kourtesis Remix](https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Matrix \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/3GWAJo3AAQVbQjaBVgEVcn) | 6:44 |
 | 96 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 |
 
-Snapshot ID: `MCwzZmJmNjAxMjc5ZDM4N2JlMGRjNmFlMWI4YTM1NDdhMWY3MGVkNmFi`
+Snapshot ID: `MCw1OWY2YmU3MmVlNDg5ZmJjNmJhYzg3MDIxMzMxMjJhOThmNGFlYWM0`

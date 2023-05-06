@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,521 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,027 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 |
 | 150 | [Drop It](https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Drop It](https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi) | 2:55 |
 
-Snapshot ID: `MCwxNzA5NDcyZDkwNGZjMGY3ZWM0MjhlYTU3ZmM0NGJhZGRhZDNhM2Q4`
+Snapshot ID: `MCxmOTFiMGFiYjc2OTQzZjc1ZDExNmNmMGVkZmQ0MzZhMzM3YWIwMTc2`

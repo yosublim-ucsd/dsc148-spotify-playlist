@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,838 likes - 230 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,489 likes - 230 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Wish You Were Here](https://open.spotify.com/track/0ctq8t9Yp8eLidtDay5H6K) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Dolly Rae](https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ) | [Wish You Were Here](https://open.spotify.com/album/1S4USV7pLcJlVXR0IkP0bx) | 4:20 |
 | 230 | [Where I Want To Be](https://open.spotify.com/track/2kPnS1YwvdyJM1f440hbDw) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Where I Want To Be](https://open.spotify.com/album/4i1iqVyb2sAuEF55xQCK86) | 3:15 |
 
-Snapshot ID: `MCxiMWJkYTNlYzI5ZjM2MjAyNWU0OWM5N2U2MGFkODRmODlhMzZjZjJj`
+Snapshot ID: `MCxmNzJmMGViNTRjNThmNzAxN2Y5N2I3YWUwNWFmMWQwZjc4ZTAyNzg2`

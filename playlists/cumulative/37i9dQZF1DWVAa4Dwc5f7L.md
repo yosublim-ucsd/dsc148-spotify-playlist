@@ -2,9 +2,9 @@
 
 ### [Merengue Mania](https://open.spotify.com/playlist/37i9dQZF1DWVAa4Dwc5f7L)
 
-> ¡Hasta las 15! Monster merengue hits! Cover: Elvis Crespo
+> ¡Hasta las 15! Monster merengue hits! Cover: Eddy Herrera
 
-177 songs - 12 hr 17 min
+178 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 | 2022-01-20 |  |
 | [El Hombre Divertido](https://open.spotify.com/track/38jYATUCiQI3LGxAuj9CEr) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Funcionario](https://open.spotify.com/album/7FLke6uOdzKynP6lfKx5a1) | 4:50 | 2022-01-20 | 2022-07-26 |
 | [El Jardinero](https://open.spotify.com/track/3auBb8O3KwFeV6aAU0xwLn) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Jardinero](https://open.spotify.com/album/1T4YdkwliuXNIefhMQgxdC) | 4:25 | 2022-01-20 | 2022-07-29 |
-| [El Jardinero](https://open.spotify.com/track/6OKOU9NTDRkdOKiiW4GEg9) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Jardinero](https://open.spotify.com/album/1u1KO5XXHEfuJTJMfqOJa9) | 4:25 | 2023-03-10 |  |
+| [El Jardinero](https://open.spotify.com/track/6OKOU9NTDRkdOKiiW4GEg9) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Jardinero](https://open.spotify.com/album/1u1KO5XXHEfuJTJMfqOJa9) | 4:25 | 2023-03-10 | 2023-05-06 |
 | [El Lapiz](https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:41 | 2022-01-20 | 2022-11-13 |
 | [El Loco y La Luna](https://open.spotify.com/track/6ZVZgB62MliQPZaV1EOs2g) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Wilfrido '86 La Medicina](https://open.spotify.com/album/1QRKrpQuSRgrKeqPxvwLTA) | 4:51 | 2022-01-20 | 2022-07-27 |
 | [El Meneito](https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [15to Aniversario](https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7) | 5:10 | 2022-01-20 |  |
@@ -155,6 +155,7 @@
 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 | 2022-01-20 |  |
 | [Si Algún Día la Ves](https://open.spotify.com/track/1CdBBfADPyTsN5RiZo7dqT) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Éxitos](https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ) | 4:42 | 2022-01-20 | 2022-07-29 |
 | [Si Tú Te Vas](https://open.spotify.com/track/2ermCIX1iu4KHddSFTcex1) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mudanza y Acarreo](https://open.spotify.com/album/3ziq7zy6hcvNHwAmQkLbzG) | 3:48 | 2022-01-20 | 2022-07-29 |
+| [Sin Rumbo](https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Imparable](https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K) | 3:31 | 2023-05-05 |  |
 | [Solo Pienso En Ti](https://open.spotify.com/track/32b67p4fXwcbGqpjGpUfom) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Solo Pienso En Ti](https://open.spotify.com/album/686zjPymwJWho1sRetIdZE) | 2:59 | 2023-04-14 |  |
 | [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 | 2023-02-24 |  |
 | [Suavemente](https://open.spotify.com/track/1YwPNemawMgGe6sF4U0FTE) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:26 | 2022-01-20 | 2023-03-11 |

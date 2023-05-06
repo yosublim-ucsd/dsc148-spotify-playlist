@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,703 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,787 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Lose Control \- ChildsPlay & Badd Dimes Remix](https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Badd Dimes](https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB) | [Lose Control \(The Remixes, Pt\. 2\)](https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX) | 3:27 |
 | 100 | [Hurts So Good \- Broiler Remix](https://open.spotify.com/track/77x68F78XGMt95NSy4E47c) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Hurts So Good \(Remixes\)](https://open.spotify.com/album/270KfGOCq7kA77DobjTp72) | 3:25 |
 
-Snapshot ID: `MCxjZGIxNGU3OTU0NWQ1ZjhkMGExZTlhMzk1NjkxYjBkNGY4ZWQzZjQ3`
+Snapshot ID: `MCxiNjAyNTRlYTE4ZThhMTlmMjA0NDQ3MjkwNTdmMGJkZGMyZTYyNTUx`

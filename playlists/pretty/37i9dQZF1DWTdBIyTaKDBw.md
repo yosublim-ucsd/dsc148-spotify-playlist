@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,052 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,080 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [Habit](https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [\[Vol.134\] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'](https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw) | 3:32 |
 | 70 | [Play the field \(With ONEW, Yoo Inna\)](https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd), [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Yoo Inna](https://open.spotify.com/artist/6fKnb4HDyGqFaYgSFu5k17) | [Forever yours](https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5) | 3:10 |
 
-Snapshot ID: `MCxmNzk5NWZkZWJiNzVmZGU0MDAzNGY0N2I1NWY5ZTMzYjg5M2I3NzI0`
+Snapshot ID: `MCw5NGFiMDhkNDgxNGE4YTIyNTc5MDhlNDM0ZDNjOTQ2ZDRmMzk4NzA5`

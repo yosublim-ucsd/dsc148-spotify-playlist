@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-472 songs - 1 day 0 hr 31 min
+473 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Autumn Forest](https://open.spotify.com/track/4rYbGAvD3Es5dOulUhAviv) | [Park Leaf](https://open.spotify.com/artist/587iyTEEJ1Ak3qIFnefDFJ) | [Seasons EP](https://open.spotify.com/album/0G1Ho8P2ZzSv1o7beY3m7Y) | 2:50 | 2020-09-30\* | 2023-03-10 |
 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 | 2021-05-18 |  |
 | [Barceloneta](https://open.spotify.com/track/1jBmAt2PKYf86TeUPdamF3) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 4:10 | 2020-09-30\* | 2021-09-14 |
+| [Beautiful Light](https://open.spotify.com/track/7uOyfHS2nN6k5NfODZNFjZ) | [Isla Cantrell](https://open.spotify.com/artist/2KZi2E7jiI5QACfJTfQFwM) | [Beautiful Light](https://open.spotify.com/album/2cdZB51VhLhxFi6oj8EEtI) | 2:12 | 2023-05-05 |  |
 | [Behind The Lines](https://open.spotify.com/track/0gEnOiu5WgBs0W9XWwSV21) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Behind The Lines](https://open.spotify.com/album/7DzmeLoWc2QZ2DE3Q7Ctjn) | 3:48 | 2022-02-25 |  |
 | [Beneath Your Beauty](https://open.spotify.com/track/3FzzyU60e8a8TZrRn7fv6X) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Beneath Your Beauty](https://open.spotify.com/album/1iRbiW6eu5QTluTrHKsRwp) | 2:22 | 2021-06-16 |  |
 | [Between Two Stars](https://open.spotify.com/track/6Jg4ZM9AlhJuClKekGvNCf) | [Sava Sol](https://open.spotify.com/artist/0aikDGpgY0MmQ77ZHaSj3j) | [Between Two Stars](https://open.spotify.com/album/3IpCbADo0H9Ls1iTUxumLV) | 3:51 | 2020-09-30\* | 2021-09-14 |
@@ -442,7 +443,7 @@
 | [Universal Spirals](https://open.spotify.com/track/7kVH0SJTcByMlSCBe4SQyh) | [T C Long](https://open.spotify.com/artist/3KV8Fz5YKoE7EZnGCPtkyR) | [Universal Spirals](https://open.spotify.com/album/2xy5I9FMJPzPcMWQCvXJzT) | 3:55 | 2020-09-30\* | 2021-10-21 |
 | [Uspavan](https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO) | [Sasja Lekko](https://open.spotify.com/artist/7ATzYoA7oClSlgx6kyDleF) | [Uspavan](https://open.spotify.com/album/7I35AiZV5zZ2DvisGRw0lg) | 2:33 | 2022-04-21 |  |
 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 | 2021-03-02 |  |
-| [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-06-16 |  |
+| [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-06-16 | 2023-05-06 |
 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 | 2020-12-03 |  |
 | [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 | 2021-04-24 |  |
 | [Vinsamlegast](https://open.spotify.com/track/1bSIKUAxUGk2pUVctmRLrv) | [Otri Jochumsson](https://open.spotify.com/artist/4x8y3T6YzB4qB3MKPZT0mh) | [Vinsamlegast](https://open.spotify.com/album/6GuDqcR9hJL41ONab2raLE) | 2:21 | 2021-11-19 |  |

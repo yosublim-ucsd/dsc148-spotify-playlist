@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-196 songs - 10 hr 30 min
+199 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Borealis](https://open.spotify.com/track/7hYgGeMBarMRK5iGPqKGsb) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Borealis](https://open.spotify.com/album/1Wkqv78oKngn0nbLuDzs53) | 1:45 | 2022-11-18 |  |
 | [Bortom Träden](https://open.spotify.com/track/4CFlaEtdgeu4mFmnUApAyl) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 4:20 | 2022-03-30 |  |
 | [Breath Chant](https://open.spotify.com/track/47ThqmC48fODEuF38wRc5S) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Breath Chant](https://open.spotify.com/album/2jZBe7W5AvyT2iWPY4UOwV) | 3:50 | 2022-03-30 | 2023-04-29 |
+| [Breathing](https://open.spotify.com/track/7LPdoYQCujtPwfMOAI4h9q) | [Mimber](https://open.spotify.com/artist/4L3x3vTCpJgWtpD1wd4L01) | [Breathing](https://open.spotify.com/album/4KdYsQwYvGk9bvZA8gonPI) | 2:16 | 2023-05-05 |  |
 | [Buckle Up](https://open.spotify.com/track/7t4gzANxF6BbappbpKzSxG) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [authenticity](https://open.spotify.com/album/0CdkSTJwCTIJRd2BgbPyct) | 3:11 | 2022-06-24 |  |
 | [cape](https://open.spotify.com/track/0nQcoFAJSCbM9SVztsWvMG) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb), [Michi Oskah](https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j) | [cape](https://open.spotify.com/album/3lQAHh6wD34MlWVKuPgO1A) | 1:51 | 2022-11-22 |  |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-03-30 |  |
@@ -31,7 +32,9 @@
 | [Clandestine](https://open.spotify.com/track/5sGxDzINFxlLXnj6zpDsQZ) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Clandestine](https://open.spotify.com/album/4SArWhZxLUXZ1bGxoPfz4k) | 2:20 | 2023-04-06 |  |
 | [Closer \- Guitar Version](https://open.spotify.com/track/2pYhZxuukmLVFWl60oUoMl) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Closer](https://open.spotify.com/album/19IVvjmtTA1K9U0i3aMkoa) | 2:18 | 2023-03-03 |  |
 | [Color](https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Color](https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e) | 2:50 | 2022-12-09 |  |
+| [Create Light](https://open.spotify.com/track/1XXNDjnr5iwz5YAZeuS8rg) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Create Light](https://open.spotify.com/album/2LN3NAxmy8xwhoNBnZXrvw) | 2:35 | 2023-05-05 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
+| [danced](https://open.spotify.com/track/6GYOJV8uOJJZ1t80KNN7mY) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [danced](https://open.spotify.com/album/4kyAbdyIWP6fkpGzVvgA21) | 2:20 | 2023-05-05 |  |
 | [Diaphanous](https://open.spotify.com/track/7b343d6fzVQEfyWDZATJ0M) | [Doug Saint](https://open.spotify.com/artist/1apeSNQqrw18v2Z9U6hxmh) | [Into Oblivion](https://open.spotify.com/album/0oO89cVZdGhilcsQVpMt5x) | 4:41 | 2022-12-30 |  |
 | [distance](https://open.spotify.com/track/5GvhKw3OO1gH39gYNHWygd) | [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [distance](https://open.spotify.com/album/6f1ZNQmdYglq7uHRBkie3H) | 3:27 | 2023-02-24 |  |
 | [Distance](https://open.spotify.com/track/01PU5WIqYi1ub9gZ4ZnBag) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Distance](https://open.spotify.com/album/6VnROBOaibXtXYqqpV1REk) | 2:43 | 2023-04-14 |  |
@@ -143,7 +146,7 @@
 | [Silent Relief](https://open.spotify.com/track/7JFpjthH6y3ZXmaLs70YZq) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Silent Relief](https://open.spotify.com/album/0gEfQ8YiaTZCJrF9LOWXqh) | 2:40 | 2022-06-24 |  |
 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 | 2022-03-30 |  |
 | [Slow Move](https://open.spotify.com/track/3mnAvzGT0DYm0pGxtJp5Yi) | [Amber Fall](https://open.spotify.com/artist/56KiUsVJcleCu44rnYvPh9) | [Slow Move](https://open.spotify.com/album/27jqdgUJaoV4Y6TZc7DOgt) | 2:30 | 2023-02-03 |  |
-| [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 | 2022-03-30 |  |
+| [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 | 2022-03-30 | 2023-05-06 |
 | [Sonic Waves](https://open.spotify.com/track/37TG4aXKl2HbwMihtOnPW8) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Sonic Waves](https://open.spotify.com/album/5TmmAIiuUqyBDgxrN7dygf) | 3:02 | 2023-02-24 |  |
 | [space cadet academy](https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [space cadet academy](https://open.spotify.com/album/1hwRNXUB5OHzcEskR156hQ) | 2:57 | 2022-12-02 |  |
 | [Spectrum](https://open.spotify.com/track/1IehfNuo7INDcML5BpB8XF) | [Serenity Within](https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp) | [Spectrum](https://open.spotify.com/album/0ICUzYINjeIcXtmOV0kZI6) | 2:47 | 2023-02-17 |  |
@@ -180,10 +183,10 @@
 | [Traversing](https://open.spotify.com/track/6zaIazO4IJN92brWslJ3TQ) | [Flood First](https://open.spotify.com/artist/73aValriFtRYc0K5EzFVpZ) | [Traversing](https://open.spotify.com/album/0diFPJv3sk4ChhKrDXCrsn) | 3:10 | 2022-03-30 |  |
 | [Treefingers](https://open.spotify.com/track/0XGxvQj8dRhGn41nvXIxN0) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [KID A MNESIA](https://open.spotify.com/album/6ofEQubaL265rIW6WnCU8y) | 3:42 | 2022-10-21 | 2022-11-13 |
 | [Treefingers](https://open.spotify.com/track/4DPQvbgSM0IdX4O3HOACwL) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 3:42 | 2022-03-30 | 2022-07-29 |
-| [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 | 2022-07-15 |  |
+| [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 | 2022-07-15 | 2023-05-06 |
 | [Two Apples Tied](https://open.spotify.com/track/1ItTDB7TfTu1mVlVgySaaN) | [Hatsu Rohn](https://open.spotify.com/artist/2tEnbkUIt07bVGpQS41Jbc) | [Two Apples Tied](https://open.spotify.com/album/0oOUD2er4J43BZIMlR2Fad) | 3:24 | 2022-03-30 |  |
 | [Unbroken](https://open.spotify.com/track/1ftWJuQAovl1BZH4Ijuqmg) | [Ravndala](https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH) | [Unbroken](https://open.spotify.com/album/7Czy2wcmG4EkNPdwSv9sIo) | 2:53 | 2023-01-11 |  |
-| [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 | 2022-03-30 |  |
+| [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 | 2022-03-30 | 2023-05-06 |
 | [Undo and Redo](https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Undo and Redo](https://open.spotify.com/album/3vO7qy5LePhyBPg5zIN4V0) | 2:38 | 2022-09-14 |  |
 | [Unity](https://open.spotify.com/track/2RpAmVKOwP601ultZ5PxEQ) | [Polar Limit](https://open.spotify.com/artist/1dFspa71geptAfzlSL73eK) | [Unity](https://open.spotify.com/album/3b67T3JG33Y2fiOv1uHLf4) | 2:52 | 2023-01-27 |  |
 | [Up to Pizmo](https://open.spotify.com/track/7L14iI3eSCPPn239JIOyuC) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed: : Context](https://open.spotify.com/album/2L7Xv6PUY3LZFjvCYJjQyd) | 6:20 | 2022-07-15 |  |

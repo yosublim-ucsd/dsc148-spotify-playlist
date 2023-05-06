@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-323 songs - 18 hr 8 min
+324 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Lúmen](https://open.spotify.com/track/59zeW3tMD4uoyfnX9Vqwtg) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Lúmen](https://open.spotify.com/album/2cLYS9JiviSsS0Pu7wQtwD) | 4:16 | 2022-05-20 | 2022-06-18 |
 | [Madri](https://open.spotify.com/track/5TZB7FD8GDhzd9qS8BK4B3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Madri](https://open.spotify.com/album/01Kqulu74DLpLs7NVW8L80) | 2:58 | 2022-03-25 | 2022-12-03 |
 | [Mais Que Folclore \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/1qxD9mhGGoyUYZXh6u7sGh) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [BRAZA ilumina Sonastério](https://open.spotify.com/album/0bwFN5W3VUinPfnFNdRfQy) | 3:33 | 2022-07-01 | 2022-07-30 |
+| [Mais um Podcast](https://open.spotify.com/track/6H3aGsBZRZcrhruCIVndV7) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Mais um Podcast](https://open.spotify.com/album/5aMGEksFkMsVeEJjkR3P3N) | 2:39 | 2023-05-05 |  |
 | [Mais um Sábado Perdido](https://open.spotify.com/track/0aTRGWsVtazREkGaIR9EdW) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Mais um Sábado Perdido](https://open.spotify.com/album/2RnAXXsGewXhBgdqeiFf99) | 2:03 | 2022-02-18 | 2022-03-18 |
 | [Manifesto!](https://open.spotify.com/track/22avKr5ZtQYEmW12bpY2Zf) | [Banda Go Home](https://open.spotify.com/artist/55xvUppAG19F1CErLfAvZI), [Bloco do Caos](https://open.spotify.com/artist/44nuOAoL0OIc2QmKfO0nnl) | [Manifesto!](https://open.spotify.com/album/0uct3MaZximvUmUiEtqU0h) | 3:51 | 2022-04-15 | 2022-05-14 |
 | [Maremotos \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/6PuDWQvcwl55r3yVJRjgMF) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Maremotos \(Ao Vivo Quando A Terra Era Redonda\)](https://open.spotify.com/album/4iK4k80Au5YG4NIEHPZs43) | 3:28 | 2022-01-14 | 2022-02-05 |
@@ -188,7 +189,7 @@
 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 | 2022-11-04 |  |
 | [Musica Urbana](https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Capital Inicial 4.0 \(Deluxe\)](https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv) | 6:10 | 2022-11-11 |  |
 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 | 2022-07-01 | 2022-07-30 |
-| [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 |  |
+| [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
 | [Nada Voltará a Ser](https://open.spotify.com/track/53LY3OhPy0fbKqkOZZQ70Y) | [SÖMA](https://open.spotify.com/artist/7gdkQxIeATNsxEnbYYzSEc), [Clemente Tadeu](https://open.spotify.com/artist/6j16i15qN0X51i8afDnEFk) | [Nada Voltará a Ser](https://open.spotify.com/album/3RGpCejGAh93zSjAh88knx) | 3:41 | 2023-01-20 |  |
 | [Namorade](https://open.spotify.com/track/41kJiYsXVP6po4yrkfbc3K) | [Velhas Virgens](https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK) | [Namorade](https://open.spotify.com/album/0bm7sKgv6UxeAoYGlS3LtS) | 2:12 | 2022-06-03 | 2022-06-11 |
 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 | 2022-02-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,613 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,641 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 79 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p) | 5:39 |
 | 80 | [Lonesome Blues](https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg) | [Guitar Welch](https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf) | [Southern Prison Blues](https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF) | 3:27 |
 
-Snapshot ID: `MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl`
+Snapshot ID: `MCxjYWNlMTc0YTljMzM4MDcyN2Y5OGYzYTUzOTBmNmFjZTljODdjNTk0`

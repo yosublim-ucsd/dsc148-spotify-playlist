@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "BING BONG",
+        "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106736,
+      "name": "BING BONG",
+      "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
+    },
+    {
+      "album": {
         "name": "Bit W The Fangs (feat. Gunna & Nechie)",
         "url": "https://open.spotify.com/album/5ZYSOwcQ5wqLmAFwyJANnK"
       },
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 105365,
       "name": "Blast Off",
       "url": "https://open.spotify.com/track/0lfVhOvKOPILinrrahAz6p"
@@ -3089,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Cuban Links & Drug Habits",
+        "url": "https://open.spotify.com/album/2E2XaelGPkXXJCQ1LDWOgD"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158406,
+      "name": "Cuban Links",
+      "url": "https://open.spotify.com/track/70PwWKcHVAMSpdNAuq1P7i"
+    },
+    {
+      "album": {
         "name": "Da Rant",
         "url": "https://open.spotify.com/album/53jD3cyaN4StX9Vo0EV4dw"
       },
@@ -3682,7 +3718,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 153200,
       "name": "DOG SHIT (with Baby Money)",
       "url": "https://open.spotify.com/track/4f6whET6RFEWTy4dYmQF3n"
@@ -5501,6 +5537,24 @@
     },
     {
       "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "album": {
         "name": "Go In",
         "url": "https://open.spotify.com/album/1AENDTX6JaPVNcGyyyDk9X"
       },
@@ -5860,7 +5914,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 205893,
       "name": "Hanging With Wolves",
       "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
@@ -6020,6 +6074,24 @@
       "duration_ms": 139265,
       "name": "Hell",
       "url": "https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/3JPeEBVhCMWmGDHIr9jdjp"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145057,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7iL4ZEt5ReMuK61ADBznCw"
     },
     {
       "album": {
@@ -7111,6 +7183,24 @@
     },
     {
       "album": {
+        "name": "InstaKill",
+        "url": "https://open.spotify.com/album/5fcZnOQoSBoiGaJ0qmZGtx"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117791,
+      "name": "InstaKill",
+      "url": "https://open.spotify.com/track/0mUAyevrsYZRUR3yVfyI3M"
+    },
+    {
+      "album": {
         "name": "Internet Trolls",
         "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
       },
@@ -7652,7 +7742,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214593,
       "name": "King Snipe",
       "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
@@ -8731,6 +8821,24 @@
     },
     {
       "album": {
+        "name": "GEEZYWORLD 2",
+        "url": "https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Max Payne",
+      "url": "https://open.spotify.com/track/5dcE2jamWIMursVBqVARSw"
+    },
+    {
+      "album": {
         "name": "Me or Sum (feat. Future & Lil Baby)",
         "url": "https://open.spotify.com/album/6SEeNB2xGW1kmysKSvWYqC"
       },
@@ -9248,7 +9356,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 188451,
       "name": "Motion [feat. Wizz Havinn & Loe Shimmy] - Remix",
       "url": "https://open.spotify.com/track/419P7pvcvRBkz94d2B0F0J"
@@ -10309,6 +10417,32 @@
     },
     {
       "album": {
+        "name": "Off The Court (with Polo G & Einer Bankz)",
+        "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Einer Bankz",
+          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193937,
+      "name": "Off The Court (with Polo G & Einer Bankz)",
+      "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
+    },
+    {
+      "album": {
         "name": "Back on Dexter: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
       },
@@ -10832,7 +10966,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 193002,
       "name": "Out the Gutter (feat. Cash Kidd)",
       "url": "https://open.spotify.com/track/2dwHXffVR1okPxatga6WTF"
@@ -11247,6 +11381,32 @@
     },
     {
       "album": {
+        "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+        "url": "https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218172,
+      "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+      "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
+    },
+    {
+      "album": {
         "name": "Play For Keeps",
         "url": "https://open.spotify.com/album/2Yx3C8dKDdjJS3WTrUGV2p"
       },
@@ -11484,7 +11644,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187500,
       "name": "Protect Me From Evil",
       "url": "https://open.spotify.com/track/12zZRWYbmGwLAM3AHGw5Aq"
@@ -11926,7 +12086,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 198722,
       "name": "Real Spill",
       "url": "https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1"
@@ -13560,7 +13720,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 142277,
       "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
       "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
@@ -14464,6 +14624,28 @@
       "duration_ms": 203031,
       "name": "Summo",
       "url": "https://open.spotify.com/track/1AXB0WRiTcSQe9RbBD2Ipx"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Trap",
+        "url": "https://open.spotify.com/album/0YtTlvxkbtWjmtGA5trfXQ"
+      },
+      "artists": [
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        },
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175830,
+      "name": "Supafly",
+      "url": "https://open.spotify.com/track/6fPo9VRtXEGu6Jg1TRk7EX"
     },
     {
       "album": {

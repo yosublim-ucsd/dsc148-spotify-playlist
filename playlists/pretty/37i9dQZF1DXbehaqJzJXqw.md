@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,473 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,943 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 99 | [Liberté](https://open.spotify.com/track/6aqNZAOITFShgcpg66Gatm) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs](https://open.spotify.com/album/6ZBquZ3qyIkf5pIX8w6j7m) | 3:37 |
 | 100 | [Plus bleu que tes yeux](https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 3:23 |
 
-Snapshot ID: `MCxkY2VkOTEzMGYzZjEyODg5NDQyMmEzMGNhM2M3NDhkMDE1MzM5M2I5`
+Snapshot ID: `MCxkYjEyZDkxN2I5OWM0ZDI4NmJjZDk1ZGRlMzkwOGQ4ZjkyNzVhYTZh`

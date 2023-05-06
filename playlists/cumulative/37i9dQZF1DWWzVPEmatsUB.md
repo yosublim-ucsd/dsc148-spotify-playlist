@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-346 songs - 20 hr 59 min
+347 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Smoke Alarm](https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [Us](https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY) | 3:07 | 2022-07-08 |  |
 | [So Far Away](https://open.spotify.com/track/5NnizvoGv4a4fh64ybwFo1) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine: The Sequel](https://open.spotify.com/album/5O41WrYns4BBDOtvVx1JFM) | 3:36 | 2022-09-09 |  |
 | [Some friends and a place to call home](https://open.spotify.com/track/0zzcjPRxa26NDyex0GoJs2) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Some friends and a place to call home](https://open.spotify.com/album/6LObxZbQLxl6dBVRfzVAFm) | 3:07 | 2021-10-29 | 2022-07-29 |
-| [Someone](https://open.spotify.com/track/4GUNIph7cHEIfSKUdn7TaB) | [Meaghan Maples](https://open.spotify.com/artist/5FA6mWNzm3ecpLGip159LP) | [Someone](https://open.spotify.com/album/5nZgnFLJ28nItazEit9DiL) | 2:48 | 2022-02-25 |  |
+| [Someone](https://open.spotify.com/track/4GUNIph7cHEIfSKUdn7TaB) | [Meaghan Maples](https://open.spotify.com/artist/5FA6mWNzm3ecpLGip159LP) | [Someone](https://open.spotify.com/album/5nZgnFLJ28nItazEit9DiL) | 2:48 | 2022-02-25 | 2023-05-06 |
 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 | 2022-04-22 |  |
 | [Something Special](https://open.spotify.com/track/3H7pOWNQghEO1EKIcgnAsC) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 4:17 | 2022-01-28 | 2023-03-04 |
 | [Static Feels](https://open.spotify.com/track/717JJIF2yw3dV3XaUr0w7c) | [Delta Maid](https://open.spotify.com/artist/3U3DcUha9m8BQGBhe338S9) | [Static Feels](https://open.spotify.com/album/1Z0YVTppPlqx1eX1zkFqAD) | 2:57 | 2021-04-23 | 2022-07-29 |
@@ -326,6 +326,7 @@
 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 | 2020-10-17 | 2023-02-04 |
 | [Til You're Home \- From "A Man Called Otto" Soundtrack](https://open.spotify.com/track/4Ah5mAqvkmw5Hz2n6g5l0k) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Til You’re Home \(From "A Man Called Otto " Soundtrack\)](https://open.spotify.com/album/5GXMVCZstkoXrH0F021CK2) | 3:05 | 2022-12-02 |  |
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-25 |  |
+| [Turn off the Sky](https://open.spotify.com/track/1woBBFHSYO1TBkAUj3e07Y) | [Gideon King & City Blog](https://open.spotify.com/artist/33fXxnMHm3wCJk6p1sje7i) | [Turn off the Sky](https://open.spotify.com/album/4HPIdpdQ5EOeSwZ5JilXzN) | 3:43 | 2023-05-05 |  |
 | [Underdog](https://open.spotify.com/track/3xeTIOSLaGIw8XaCwNKhec) | [Mayaeni](https://open.spotify.com/artist/6y4YyYCKvhxv5OYIMjbNo1) | [Underdog](https://open.spotify.com/album/0IXTedVYmBB42Dmh4UzJZE) | 3:01 | 2020-10-17 | 2022-07-29 |
 | [Underneath](https://open.spotify.com/track/3n93ndjS1jPBLRByWlOSnq) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Something/Anything](https://open.spotify.com/album/5ckacfPD0itaUMnzrzceZX) | 4:20 | 2022-05-06 |  |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-04-22 |  |

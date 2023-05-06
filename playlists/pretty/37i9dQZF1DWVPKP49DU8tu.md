@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,975 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,019 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 99 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 |
 | 100 | [Due Vite](https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Due Vite](https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj) | 3:45 |
 
-Snapshot ID: `MCxlMmFmMDM3NGNiMzM1NmY2MjI2ZmE4NGZlYmUwZjIyMGY1NDNjNzE3`
+Snapshot ID: `MCwwN2E5MTQ2OTY1MzM5OGNjN2NhY2M3YzY4ZDc3YzZiYzhlNzMwYTY1`

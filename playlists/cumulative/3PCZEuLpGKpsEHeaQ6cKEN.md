@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: SOMMA &amp; Sasson x Nathan Nicholson
 
-547 songs - 1 day 5 hr 17 min
+548 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Good Feeling](https://open.spotify.com/track/19UMqlpHqBE28hie0nwYOl) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Armada Music Year Mix 2022, Vol\. 1](https://open.spotify.com/album/71medK8B0OS8y3wz95AFEi) | 2:49 | 2022-12-08 | 2023-02-10 |
 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 | 2022-06-09 | 2022-12-09 |
 | [Good Feeling](https://open.spotify.com/track/66U7ONHIJtYcvctBuc6yCe) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling \(VIP Mix\)](https://open.spotify.com/album/2b4oXCRRTy4wXNALmQdhSv) | 2:49 | 2023-02-09 |  |
+| [Good4U](https://open.spotify.com/track/5ieRbdUGx3R1LX7MSbyFK8) | [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [LEØN](https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB), [SYNGA](https://open.spotify.com/artist/1ceK58kt6VUiqWfYwQ15aU) | [Good4U](https://open.spotify.com/album/0yly88bOai4MF3kmFTkrdx) | 2:42 | 2023-05-05 |  |
 | [Gravity](https://open.spotify.com/track/2jizN8ZAjiV4IBjn6z42r7) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Gravity](https://open.spotify.com/album/0wVpaYo5BOsTdWRJMal5gR) | 3:20 | 2023-01-05 | 2023-02-24 |
 | [Great Spirit](https://open.spotify.com/track/1ZY65WHQJk5TJ5UJL9ffyq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Hilight Tribe](https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7) | [Trance Top 1000 \(Mini Mix 010\) \- Armada Music](https://open.spotify.com/album/4uY3v6NGQh8DhQG2ky8CWm) | 3:35 | 2022-08-30 | 2022-09-01 |
 | [Great Spirit](https://open.spotify.com/track/3Nku6gLNqnwUuq8GLkqyhW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Hilight Tribe](https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7) | [Great Spirit](https://open.spotify.com/album/3d18JaxDfbuCD8AyoG07Yt) | 3:35 | 2022-08-31 | 2023-03-31 |

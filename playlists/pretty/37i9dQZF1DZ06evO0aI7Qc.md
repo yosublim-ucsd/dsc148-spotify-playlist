@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,409 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,672 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 32 | [Chingandole Macizo](https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:34 |
 | 33 | [El Mickey](https://open.spotify.com/track/120PEdxV65LmPyrTNFEMTp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Mickey](https://open.spotify.com/album/2rGybDkmfUvIxy7bWS2tH1) | 3:23 |
 | 34 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 |
-| 35 | [Como el Viento](https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Como el Viento](https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK) | 3:18 |
+| 35 | [La Tamalera](https://open.spotify.com/track/3UNYe5t3IqkJq0m8OBZw82) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Tamalera](https://open.spotify.com/album/6XBGCAXEeBcbxItgTV54YV) | 2:33 |
 | 36 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x) | 3:24 |
 | 37 | [Sigo Aqui](https://open.spotify.com/track/12wuxFcfZF015vy3XgoZsr) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:34 |
-| 38 | [El Baleado](https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Baleado](https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX) | 3:39 |
-| 39 | [El 27 o el Perris \(En Vivo\)](https://open.spotify.com/track/2Baeml3Al7Wts8T8rJHNCt) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [El 27 o el Perris \(En Vivo\)](https://open.spotify.com/album/46BHSHTKsQezmW3lZoikjI) | 3:50 |
-| 40 | [La Tamalera](https://open.spotify.com/track/3UNYe5t3IqkJq0m8OBZw82) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Tamalera](https://open.spotify.com/album/6XBGCAXEeBcbxItgTV54YV) | 2:33 |
+| 38 | [Como el Viento](https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Como el Viento](https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK) | 3:18 |
+| 39 | [El Baleado](https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Baleado](https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX) | 3:39 |
+| 40 | [El 27 o el Perris \(En Vivo\)](https://open.spotify.com/track/2Baeml3Al7Wts8T8rJHNCt) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [El 27 o el Perris \(En Vivo\)](https://open.spotify.com/album/46BHSHTKsQezmW3lZoikjI) | 3:50 |
 | 41 | [Belico](https://open.spotify.com/track/5rCdxvU6IlAE9DrkvXxHuY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:15 |
 | 42 | [Creo Estar Soñando \(En Vivo\)](https://open.spotify.com/track/03nTMMyuSh6FRmf4ZTVS0N) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Creo Estar Soñando \(En Vivo\)](https://open.spotify.com/album/5MM8PZx0hPCGqOXemg9OjJ) | 2:34 |
 | 43 | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [El Nano](https://open.spotify.com/track/6QeQdtPudjr0dcr9fcT8qv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Nano](https://open.spotify.com/album/0lwkPnZICyG9OkD77unsot) | 2:40 |
 | 50 | [Tropa del Infierno](https://open.spotify.com/track/414oo6t5s8XI1paph23B3D) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 3:05 |
 
-Snapshot ID: `MjgwNTMzODEsMDAwMDAwMDBlYWFhZDBjMDkzOWE4ZmQ3NmNlNTNiYWFkZDUwZGI2ZQ==`
+Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA5MDczMDkyODE4ZmNiYzUyZmFkOGYzZmI1ODcxZjkwMA==`

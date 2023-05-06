@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,237 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,267 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [Tarareando](https://open.spotify.com/track/57xg7b2ktHnzQv3l5Vo2Oc) | [Verónica Parodi](https://open.spotify.com/artist/2gKJo1n1Do1VPhGp7SBFTn), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Lula Parodi](https://open.spotify.com/artist/5QzVgcaaezCWAOZ1snUhgo) | [Tarareando, Con los Pies Descalzos](https://open.spotify.com/album/0svY4zLKY4AAmAY6ZgwvUk) | 4:27 |
 | 75 | [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6) | [Luz Del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 |
 
-Snapshot ID: `MCxmMGViNWQ2NGFhMDdhNzhjZTUxN2MxZDljNTM5NzE2MDcwMzljZmY5`
+Snapshot ID: `MCw3MTExZmZiZWMyMjU3MTIwNzYxZTUyMjJiMDM1YTJjYWEwZTY5M2M5`

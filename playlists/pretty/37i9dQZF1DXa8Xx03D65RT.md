@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,929 likes - 250 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,918 likes - 250 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [Late Winter](https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Stories](https://open.spotify.com/album/01PVhzdLyFu2b2XNuZ1qKC) | 2:24 |
 | 250 | [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 |
 
-Snapshot ID: `MCxlYzYzNWJjODQ2N2ZkMGFmNjExZjVmMGRhM2NiNjE3MGFiYTE5ZmY1`
+Snapshot ID: `MCw5NzIwZjZhNTI2ZWQwZDkzMDhjYzc3MjU3ZmViMjgxMjIwNjdhNzg1`

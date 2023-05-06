@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,721 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,760 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [Vaporware 01](https://open.spotify.com/track/4yQQuyjdUzVQozJrlJRnBM) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 5:49 |
 | 100 | [Tomato Day](https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Boiling, Steaming and Poaching](https://open.spotify.com/album/4Xs0BuqcVypp3XJDcdSK3K) | 4:19 |
 
-Snapshot ID: `MCw4MjY0NWExY2JkOWM0OTU5ZTI0MDBjNzgxZTA5MDQ1NGU3MTBiZDVm`
+Snapshot ID: `MCw1Mjc0ZTlkYjk5NmJmYmY4MjRkY2ViZjkzM2NiZDBiNjNlOWZkY2Y5`

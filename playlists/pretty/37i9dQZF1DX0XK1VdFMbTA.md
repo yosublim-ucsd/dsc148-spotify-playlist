@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,317 likes - 500 songs - 1 day 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,424 likes - 500 songs - 1 day 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 | 499 | [Blue Collar](https://open.spotify.com/track/5cW22ruJYy9k7IlawMCe6P) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman Turner Overdrive](https://open.spotify.com/album/1jd8urGvuFR1fXWxEJi4ny) | 6:12 |
 | 500 | [Monolith \- 2003 Remaster](https://open.spotify.com/track/7jLYNCaTmEe1OnhYhGtfeC) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 3:49 |
 
-Snapshot ID: `MCw5MWM0NmZjMTQ2NWJmZGQ5NWE1YmE3OTI3YzliY2UwMzA4MzJlNDM1`
+Snapshot ID: `MCwxYTBjMzQxYTY0NDFiYmFhMDJlZDI3ZTVlN2ZlMzAyMDQ1MGQyZjFj`

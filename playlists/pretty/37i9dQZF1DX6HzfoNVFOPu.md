@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,594 likes - 200 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,714 likes - 200 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 | 199 | [In One Ear](https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 4:01 |
 | 200 | [Therapy](https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:44 |
 
-Snapshot ID: `MCxmNTkwNzBjNzViYjNmMDhiY2Q3OTdhZDAyMzkxZDA4NTVjNzY1MThh`
+Snapshot ID: `MCwwOTFlZTM4ZjFlOTYyNzM2MGI3ZGI5M2M2MTA3YTM2Y2MyZjBmZGM0`

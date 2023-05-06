@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 179648,
       "name": "- es + (menos es m\u00e1s)",
       "url": "https://open.spotify.com/track/3A5qg9rPxX4ANtff8ZLhMX"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210461,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU"
@@ -1336,6 +1336,28 @@
       "duration_ms": 117606,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+    },
+    {
+      "album": {
+        "name": "Dance With U",
+        "url": "https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        },
+        {
+          "name": "Shrt_lyf",
+          "url": "https://open.spotify.com/artist/3Mw2KRss5x1sHoXQXOv1re"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "Dance With U",
+      "url": "https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3"
     },
     {
       "album": {
@@ -2882,7 +2904,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 202563,
       "name": "Lava",
       "url": "https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI"
@@ -4200,6 +4222,24 @@
       "duration_ms": 144960,
       "name": "ojitos caramelo - Remix",
       "url": "https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ"
+    },
+    {
+      "album": {
+        "name": "Olvidar De Ti",
+        "url": "https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133060,
+      "name": "Olvidar De Ti",
+      "url": "https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI"
     },
     {
       "album": {
@@ -6088,6 +6128,24 @@
       "duration_ms": 227320,
       "name": "Turistas",
       "url": "https://open.spotify.com/track/63FbeYkl2RYS4t3NlstoDR"
+    },
+    {
+      "album": {
+        "name": "cl\u00e1sico vol. 1",
+        "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178541,
+      "name": "tus mensajes",
+      "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
     },
     {
       "album": {

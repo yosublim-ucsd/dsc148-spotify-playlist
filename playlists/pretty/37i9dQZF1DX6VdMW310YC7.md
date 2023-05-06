@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,615,320 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,616,277 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Leave You](https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 3:54 |
 | 100 | [Catch](https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 4:03 |
 
-Snapshot ID: `MCxmYTQ1OTNlNGEyMWEwODgwOWMzYTM5N2RjZTE0MGZkZjg5ZWQzZTEx`
+Snapshot ID: `MCxkM2MxYWYyMGI5NmI5NDFmMzIxZTMzMmZlMmEzMWFmNTVlMWJhZWQ3`

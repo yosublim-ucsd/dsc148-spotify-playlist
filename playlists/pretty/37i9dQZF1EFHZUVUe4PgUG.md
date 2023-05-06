@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 651 likes - 86 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 650 likes - 86 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 64 | [Ya Llegué](https://open.spotify.com/track/3D3Wcdtl05GD15NvwmyeQK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:03 |
 | 65 | [Quiero](https://open.spotify.com/track/2t8OlNmMSawUgr6pADWxtt) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:35 |
 | 66 | [Cuando Te Enamores de Mí](https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 3:04 |
-| 67 | [Madrugada](https://open.spotify.com/track/4L9gOtI2Cy10mqlwKGn9KX) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 4:06 |
-| 68 | [Guaro](https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Guaro](https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468) | 1:58 |
+| 67 | [Guaro](https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Guaro](https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468) | 1:58 |
+| 68 | [Madrugada](https://open.spotify.com/track/4L9gOtI2Cy10mqlwKGn9KX) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 4:06 |
 | 69 | [Malalala \(feat\. Carolina Mestrovic\)](https://open.spotify.com/track/6DkKNHjHklokTWkf4QlR97) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:41 |
 | 70 | [How Not to Love You](https://open.spotify.com/track/5LHuyD5JBubppebKuEbaKp) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Elevated](https://open.spotify.com/album/6iuEaQiTz3tq2P4IuDNjfT) | 3:18 |
 | 71 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 85 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 |
 | 86 | [Tuyo](https://open.spotify.com/track/47fI0SEnE2jJZdGvQ62EZB) | [Vida Abundante](https://open.spotify.com/artist/6vwwprxTPQ4zrRm7I4I1mC) | [Testigos](https://open.spotify.com/album/61oQCeDKkwtnnUIYSs6X5B) | 5:23 |
 
-Snapshot ID: `MjgwNTQxNDYsMDAwMDAwMDBkMGQ3MjNmMjIzNGFhNTdiYTAxYWFmOWE2Zjc5MjE5OQ==`
+Snapshot ID: `MjgwNTU1ODYsMDAwMDAwMDAxZDgxNWUxMGJlZTBiZTE0MGM5ZTJkZjM0MDBjNmU3MQ==`

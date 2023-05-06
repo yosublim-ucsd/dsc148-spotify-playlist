@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 202281,
       "name": "A Illa",
       "url": "https://open.spotify.com/track/2VTvUT7mn0fEh39q5yh0KW"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 231068,
       "name": "Alpha Focus 97Hz - 104Hz",
       "url": "https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 185769,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 220874,
       "name": "Bella",
       "url": "https://open.spotify.com/track/2gMo97mAY1eW2iJ8fF6sDw"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 233121,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/65ip2ya2ftUbZHZrfCWuVt"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174038,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/29jNOcTJP8rfJYWF3kxMBh"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 152624,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/5yILnxcnDsMtZL5JK7Cbxi"
@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Bolide",
+        "url": "https://open.spotify.com/album/58rKwbBBwBzlcgaMBlqDe1"
+      },
+      "artists": [
+        {
+          "name": "Celestial Seekr",
+          "url": "https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Bolide",
+      "url": "https://open.spotify.com/track/2G0uibx9lPhjj6vqaaQhM1"
+    },
+    {
+      "album": {
         "name": "Boy Blowing Bubbles",
         "url": "https://open.spotify.com/album/7CuFbbQgSZqJBp1VudRHu6"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 116657,
       "name": "Brain Focus Yoga",
       "url": "https://open.spotify.com/track/5NTUER01OLd8YvsQXuhBFZ"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 216000,
       "name": "Cardboard Gadgets",
       "url": "https://open.spotify.com/track/1GnzjRqS1QnHeA9O7bR5y0"
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200000,
       "name": "Carnivoran",
       "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 167294,
       "name": "Cartography Of Water",
       "url": "https://open.spotify.com/track/7fSBdUicxjuzxZDmAgxpdr"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 167850,
       "name": "Coast of Dreams",
       "url": "https://open.spotify.com/track/4BhIKcDVeOhkToWfl7k9OG"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 171692,
       "name": "D'une Certaine Distance",
       "url": "https://open.spotify.com/track/3bUaSIfWsg01lqJW9O5JCS"
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 170250,
       "name": "Drifting Apart",
       "url": "https://open.spotify.com/track/7AEDjEJ3rLenGvEMTBPPzR"
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 209274,
       "name": "Enlightened",
       "url": "https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE"
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 203000,
       "name": "Fekerayo",
       "url": "https://open.spotify.com/track/1MyNYs0OhpaT6ZAfuKY9Ds"
@@ -3267,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "Ilinova",
+        "url": "https://open.spotify.com/album/1uL2rl1FBiiRG3Zwf3dpcH"
+      },
+      "artists": [
+        {
+          "name": "Isak Wellington",
+          "url": "https://open.spotify.com/artist/4UZyZN8YPXUmu1E2COn52N"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Ilinova",
+      "url": "https://open.spotify.com/track/4PGOX4mKVxdnb4fKZ8d49h"
+    },
+    {
+      "album": {
         "name": "Candieira",
         "url": "https://open.spotify.com/album/2VKD43M5UUzJvi2rHHmSEe"
       },
@@ -3422,7 +3458,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 231688,
       "name": "Inside Preciousness",
       "url": "https://open.spotify.com/track/2eelYEZLIgBo2teCZ1HoMg"
@@ -3494,7 +3530,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 198000,
       "name": "It's All Sound",
       "url": "https://open.spotify.com/track/5W9fgCmnO8iDyBGxNUfAMc"
@@ -3854,7 +3890,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 158982,
       "name": "Ljusa Dro\u0308mmar",
       "url": "https://open.spotify.com/track/5HkG3ZdLOVZQI4rpUdGZCa"
@@ -4214,7 +4250,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 192000,
       "name": "Mission Control",
       "url": "https://open.spotify.com/track/12qiIPwFmB7J7Ufmru88XD"
@@ -4718,7 +4754,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 258250,
       "name": "Ocean Breeze - Alpha Sinus 69,2 hz - 70 hz",
       "url": "https://open.spotify.com/track/45t68mRXi24W94VK0T5ItR"
@@ -5042,7 +5078,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 249656,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/3chCZBYrCCjcUmT4mX5x8E"
@@ -5114,7 +5150,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 198009,
       "name": "Plegaria",
       "url": "https://open.spotify.com/track/6yOZX34ZsQZV303qDJjWPm"
@@ -5222,7 +5258,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 207000,
       "name": "Protostar",
       "url": "https://open.spotify.com/track/5F82mtEXo9CbyPchaCWDI3"
@@ -6410,7 +6446,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 196874,
       "name": "Sterrenhemel",
       "url": "https://open.spotify.com/track/1DOG1X3H2A6g6WN5ZQTLaR"
@@ -6716,7 +6752,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 160722,
       "name": "The Lost Key",
       "url": "https://open.spotify.com/track/5acpnondtQUm1FJDXNT66J"
@@ -6734,7 +6770,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 216000,
       "name": "The Nimrod Expedition",
       "url": "https://open.spotify.com/track/6FLcSrGp3mGIEQghonDxG3"
@@ -7040,10 +7076,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 176952,
       "name": "Universo",
       "url": "https://open.spotify.com/track/48mOMNLnlbok3W6anP7sTS"
+    },
+    {
+      "album": {
+        "name": "Upon",
+        "url": "https://open.spotify.com/album/33qjnSMSIYlWPoL3IxsAvM"
+      },
+      "artists": [
+        {
+          "name": "TN2020",
+          "url": "https://open.spotify.com/artist/5OhsS6nG8LaW0V6QtxIFr0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Upon",
+      "url": "https://open.spotify.com/track/71H25wyBhMnMqqsh5gS76T"
     },
     {
       "album": {
@@ -7274,7 +7328,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 125000,
       "name": "When We Touch",
       "url": "https://open.spotify.com/track/6QNrpzKEYLzQsBqQQphfue"

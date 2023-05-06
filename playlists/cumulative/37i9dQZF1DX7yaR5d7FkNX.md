@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-165 songs - 10 hr 16 min
+168 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abril](https://open.spotify.com/track/1iDw6gQPCiRaXlzvnryPKh) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [La Fama](https://open.spotify.com/album/21Xq8rEbyJpRyLkvEUot7l) | 3:02 | 2022-01-28 |  |
 | [Acelerar](https://open.spotify.com/track/1hP1iHCGOaA9GraLDeBt2O) | [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acelerar](https://open.spotify.com/album/0FMudSMcFuKShSYkXAApP3) | 3:22 | 2023-03-17 |  |
 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 | 2022-04-26 |  |
+| [Adentro Brilla El Sol](https://open.spotify.com/track/2Y985lqSz23xEgUhdRZK28) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [Todo es Ceremonia en el Jardin Salvaje](https://open.spotify.com/album/1cwkQ7TFUp35Gju5Y7DL2L) | 3:04 | 2023-05-05 |  |
 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-04-14 |  |
 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 | 2022-01-28 |  |
 | [Alto Riesgo](https://open.spotify.com/track/6mBGhOa2l2bltOh12QiHbl) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Alto Riesgo](https://open.spotify.com/album/5gXL83O1KlPQoJRAWkUMM2) | 3:27 | 2022-01-28 |  |
@@ -48,6 +49,7 @@
 | [Corazón Atómico](https://open.spotify.com/track/1aFNhqEUIGlkuJFiXWHPOj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Amor Alternativo](https://open.spotify.com/album/481EReaDVDEXlVjL2NoZ1W) | 3:53 | 2022-01-28 | 2022-11-13 |
 | [Corazón Atómico](https://open.spotify.com/track/0axbGyJYPGhzVaxzm6cHcq) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 3:54 | 2022-01-28 |  |
 | [Corazón Atómico](https://open.spotify.com/track/5gEepcBJx2Y7upzg5fkCxn) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/7d8ZXzEcGuiFOJSpLsfcTB) | 3:54 | 2022-01-28 | 2022-07-29 |
+| [Corazón Típico](https://open.spotify.com/track/4TbpyKHfjiTXQF1ObiNYrY) | [Furland](https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ) | [Cuervos](https://open.spotify.com/album/0LYVuAP7NIuM6blxAFWjeN) | 3:02 | 2023-05-05 |  |
 | [Crimen](https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Crimen](https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i) | 4:00 | 2022-08-13 | 2023-02-18 |
 | [Cuando](https://open.spotify.com/track/2zLpAVqDJ2YfxIFNGMS8y0) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 3:26 | 2022-04-26 |  |
 | [Cámara De Faltas](https://open.spotify.com/track/6O3D5ai8UmEHwyicBq07pk) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:43 | 2022-04-26 |  |
@@ -58,6 +60,7 @@
 | [Dime](https://open.spotify.com/track/3kgBm26rI8faWMTxyzyJF3) | [Polaris](https://open.spotify.com/artist/4f8qDCXvGLNPj783d6PTWS) | [Dime](https://open.spotify.com/album/3Q8Wtw6UB5xLQQ15tb7z9B) | 3:01 | 2022-01-28 |  |
 | [Dime Como Tú Quieras](https://open.spotify.com/track/09uJJFpcg2q2zuiYRC4PZT) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:08 | 2022-01-28 |  |
 | [Dos Amantes](https://open.spotify.com/track/66lOJXZVLAIBFogLrXM4Z6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Dos Amantes](https://open.spotify.com/album/58yZYSZWbW5RP5xMZTqsgM) | 4:10 | 2022-01-28 |  |
+| [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 | 2023-05-05 |  |
 | [El Ruido](https://open.spotify.com/track/6YJLHnSvofGO8vvKC8Bps0) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [El Ruido](https://open.spotify.com/album/0P4JYnPhEPPdSmFq1jxObl) | 2:57 | 2022-07-01 |  |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/76JCWoDhnbdd4gA36NqxLN) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Lindas Mañanas](https://open.spotify.com/album/23ibdDZsfvGujFlsvB8wnV) | 2:50 | 2022-01-28 | 2022-11-13 |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/0TsY0pTgHSMeMPKrtf2San) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil\. \(Edición Especial\)](https://open.spotify.com/album/18FX4Wep4MvwaCFDwPU25q) | 2:50 | 2022-01-28 | 2022-07-29 |

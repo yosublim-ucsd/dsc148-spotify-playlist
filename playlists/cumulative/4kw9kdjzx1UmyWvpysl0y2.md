@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-468 songs - 1 day 3 hr 18 min
+469 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [BITCH](https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Dichotomy](https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V) | 3:41 | 2022-05-19 | 2022-07-30 |
 | [BITTERSWEET](https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [BITTERSWEET](https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn) | 2:37 | 2022-01-24 | 2022-04-01 |
 | [Black Velvet](https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Black Velvet](https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i) | 4:08 | 2022-08-12 | 2022-10-27 |
+| [Blinding](https://open.spotify.com/track/7EumtlWTL8XRzS0ZEDoE4i) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z) | [Blinding](https://open.spotify.com/album/39eGOxLGyql1izxsJjK7lS) | 3:43 | 2023-05-05 |  |
 | [Blood Rush \- Spotify Singles](https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 3:17 | 2022-11-09 | 2023-02-04 |
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
@@ -426,7 +427,7 @@
 | [To Another World](https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [To Another World](https://open.spotify.com/album/4ymZf7MngtqVCgpiaHwu8P) | 4:11 | 2022-11-15 | 2023-02-10 |
 | [Together](https://open.spotify.com/track/00tGSmfgNY6uzLgYny6Zcw) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Together](https://open.spotify.com/album/4wOJa4z6jAGZb1B5kQqxsX) | 4:33 | 2023-01-25 | 2023-04-11 |
 | [Too Far](https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn) | [Hiski](https://open.spotify.com/artist/766PDHJTKiOFdmGhl36cGY), [Kobana](https://open.spotify.com/artist/1XyWJuyRJBkwsOeGR8Pxea) | [Too Far](https://open.spotify.com/album/6eKGfZzEKDORyl4fymlDAX) | 4:14 | 2021-12-01 | 2022-03-05 |
-| [Tourmaline](https://open.spotify.com/track/1yX1uaq2rWDEURrREEmyIM) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Tourmaline](https://open.spotify.com/album/6LhhGLTYsTSaxzWcRJ9KsK) | 3:34 | 2023-02-16 |  |
+| [Tourmaline](https://open.spotify.com/track/1yX1uaq2rWDEURrREEmyIM) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Tourmaline](https://open.spotify.com/album/6LhhGLTYsTSaxzWcRJ9KsK) | 3:34 | 2023-02-16 | 2023-05-06 |
 | [Toxic](https://open.spotify.com/track/2XROdt9KOkQNxN6Ugq3z3m) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Agony District](https://open.spotify.com/album/2xcGif7Oz4N0k5XtvDWNU6) | 3:31 | 2022-07-25 | 2022-10-06 |
 | [Tripwire](https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Tripwire](https://open.spotify.com/album/5dbcJHB0RwwcWNw8z3IvTt) | 3:05 | 2021-11-22 | 2022-02-26 |
 | [TROUBLEMAKER](https://open.spotify.com/track/6mo88PgAWke0VsVbFmABoT) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [TROUBLEMAKER](https://open.spotify.com/album/5XxwIsdTvY6h335Jmcf10Y) | 3:42 | 2021-11-19 | 2022-01-27 |

@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-263 songs - 12 hr 53 min
+264 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,10 +64,11 @@
 | [Cotton Candy Flavored](https://open.spotify.com/track/56dhAHUA4WaiRB7CEYOHMs) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Golden Skin](https://open.spotify.com/album/3r3cYXwXao0P8fSZ43zv2D) | 2:31 | 2022-04-15 |  |
 | [Counting Minutes](https://open.spotify.com/track/4SQCH4rJrVxAHcdlLOWtX9) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Counting Minutes](https://open.spotify.com/album/28z1GRHUJVAiVihlBM1pqe) | 2:18 | 2023-03-17 |  |
 | [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 | 2021-11-11 |  |
+| [Crisp](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Crisp](https://open.spotify.com/album/57CwP4oDHIPUfG1mr5vy2P) | 2:32 | 2023-05-05 |  |
 | [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 | 2022-09-16 |  |
 | [Cruisin](https://open.spotify.com/track/05IEDJVQnFPggjAD0o0vB4) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [Cruisin](https://open.spotify.com/album/7tPX59Ir4f3TlYxAHabC4V) | 2:25 | 2022-11-25 |  |
 | [Crystals](https://open.spotify.com/track/02o4X4FcJr6YeDxsNypNrY) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Crystals](https://open.spotify.com/album/00jgyv6zuR4TrBNJubM84f) | 2:19 | 2022-11-25 |  |
-| [Deep Deep Waters](https://open.spotify.com/track/6vkn2C9DRfYh8YeIo8O9VH) | [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [Deep Deep Waters](https://open.spotify.com/album/2xTnT76L2MKnoUOWlVBJpG) | 3:47 | 2023-01-20 |  |
+| [Deep Deep Waters](https://open.spotify.com/track/6vkn2C9DRfYh8YeIo8O9VH) | [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [Deep Deep Waters](https://open.spotify.com/album/2xTnT76L2MKnoUOWlVBJpG) | 3:47 | 2023-01-20 | 2023-05-06 |
 | [detour](https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [detour](https://open.spotify.com/album/3W42O1LosXXhBD1d5N5TQH) | 2:57 | 2022-06-24 |  |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2021-11-11 | 2022-05-20 |
 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 | 2021-11-11 |  |
@@ -92,7 +93,7 @@
 | [foamy](https://open.spotify.com/track/6g3fCAc9ql4fmYAorTLuUw) | [Milk Malone](https://open.spotify.com/artist/4hkSi4HSY18rlKi0oWX049) | [foamy](https://open.spotify.com/album/4fYioHIsP8bXNUy0xM0SbQ) | 3:05 | 2022-06-10 |  |
 | [Follow you to the end](https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [Follow you to the end](https://open.spotify.com/album/0UvFH1NKo6HOnZSZNopxUF) | 2:33 | 2022-06-17 |  |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-11 | 2022-09-09 |
-| [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2021-11-11 |  |
+| [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2021-11-11 | 2023-05-06 |
 | [Forever Yours](https://open.spotify.com/track/6uviz3fvF7MzJobVeJCXsZ) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Forever Yours](https://open.spotify.com/album/0nWeoNfUl2JRU8yWd88KLL) | 4:07 | 2021-11-11 | 2022-01-22 |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2021-11-11 |  |
 | [foxy](https://open.spotify.com/track/5ulkTVmdOUNaymBoWKA9Ng) | [QOOKi](https://open.spotify.com/artist/5TOUzS7Af3LJBfnTF7E0sq) | [foxy](https://open.spotify.com/album/7AvbXLf6cNq3QUEyZLQ4M4) | 2:00 | 2022-04-05 | 2023-04-29 |
@@ -104,7 +105,7 @@
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-02-10 |  |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2021-11-11 | 2022-09-17 |
 | [glacial](https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2) | [Tiriba](https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ) | [glacial](https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g) | 3:35 | 2022-02-10 |  |
-| [great view](https://open.spotify.com/track/74UTn1kkhqB9jX3uaDuN6S) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [great view](https://open.spotify.com/album/44a0fRSPj0KQpv3wR5YNo9) | 2:04 | 2022-07-01 |  |
+| [great view](https://open.spotify.com/track/74UTn1kkhqB9jX3uaDuN6S) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [great view](https://open.spotify.com/album/44a0fRSPj0KQpv3wR5YNo9) | 2:04 | 2022-07-01 | 2023-05-06 |
 | [grenadine](https://open.spotify.com/track/7ILFq1DgzrSm8vJE0GINBY) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [grenadine](https://open.spotify.com/album/0tBFQCg1QzmVCraGDfEqAl) | 2:53 | 2022-05-13 |  |
 | [Ground Concrete](https://open.spotify.com/track/7rhoPowNAOMG9GPzZUCQD9) | [Rudy Boy](https://open.spotify.com/artist/3oAXW0WYR5lFZdx62Vr8OM) | [Architecture](https://open.spotify.com/album/3NbGDz98pX5aWxroN1t0Cy) | 2:09 | 2021-11-11 | 2022-05-20 |
 | [Hanging Out](https://open.spotify.com/track/5sxk6ElBzgcFqneVR1Uug6) | [Neotronicz](https://open.spotify.com/artist/6LvxEsI0dKlKpN7RHthHOf) | [Hanging Out](https://open.spotify.com/album/1QqzZApC7xi8JtVEGXDMBr) | 2:55 | 2022-04-05 |  |

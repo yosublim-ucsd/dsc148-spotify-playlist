@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: The Acacia Strain
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,805 likes - 125 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,064 likes - 125 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 124 | [In Tenebris](https://open.spotify.com/track/0d0ECn7EN2uaczZyPSvbyx) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [In Tenebris](https://open.spotify.com/album/49jAEdf2aGWuzk4v0eNm4L) | 4:16 |
 | 125 | [Plague Bringer](https://open.spotify.com/track/7MWR9jhJ9bNssmOHTdTE0T) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Magno Interitus](https://open.spotify.com/album/7yRyJmmqFrwq6gFcAjNdj6) | 3:45 |
 
-Snapshot ID: `MCxiMDQxYWNmNmQxODI3MWM5YmQwMWEzNGE5OWI2NjVmODE5NGVjZGJi`
+Snapshot ID: `MCw5NDVkZDY4NmNmYmEzMjViNzU2MTM2YTZiYjE5OWVjZTU0ZTI2NmIz`

@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 257841,
       "name": "Are U Down",
       "url": "https://open.spotify.com/track/3Tt1flEslXfvkBJ7aP5PYc"
@@ -1825,6 +1825,40 @@
     },
     {
       "album": {
+        "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
+        "url": "https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193274,
+      "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
+    },
+    {
+      "album": {
         "name": "Likkle Miss",
         "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
       },
@@ -2190,7 +2224,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 346267,
       "name": "Mwanangu (Enoo Napa Remix)",
       "url": "https://open.spotify.com/track/1mtquC4g0jKkLWMxzUqxEh"
@@ -2842,7 +2876,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 202938,
       "name": "Starseed",
       "url": "https://open.spotify.com/track/329H2EaUO3fnG27NLD6mqn"
@@ -3485,6 +3519,28 @@
     },
     {
       "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/5gI0k1a5KoUFnhXiF3YXIP"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Philip Tabane",
+          "url": "https://open.spotify.com/artist/3wC1W9e4Ycoji9LEM1MBTa"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411007,
+      "name": "Vha Vhenda (THEMBA's Herd Mix) - Extended Mix",
+      "url": "https://open.spotify.com/track/5Q95dLk2HXSYDBI5PGpKaH"
+    },
+    {
+      "album": {
         "name": "Vibe (If I Back It Up)",
         "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
       },
@@ -3500,6 +3556,36 @@
       "duration_ms": 83940,
       "name": "Vibe (If I Back It Up)",
       "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
+    },
+    {
+      "album": {
+        "name": "UKG",
+        "url": "https://open.spotify.com/album/6MVqeXaEdoKpSKul1ll5JZ"
+      },
+      "artists": [
+        {
+          "name": "TQD",
+          "url": "https://open.spotify.com/artist/4VUDd8QHsZm8qSVUsAhCFG"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Royal-T",
+          "url": "https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Vibsing Ting",
+      "url": "https://open.spotify.com/track/7GG6MVvBndthjec7YBhz0I"
     },
     {
       "album": {

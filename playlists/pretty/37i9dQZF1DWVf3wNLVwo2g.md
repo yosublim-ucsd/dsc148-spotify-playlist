@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Miley Cyrus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,171 likes - 195 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,168 likes - 195 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 194 | [Ex\-Factor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/344UhJfaYw10xfEr94BBGm) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3doicqb6so4jenspHCcEUk) | 6:11 |
 | 195 | [Higher \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7JDqyb4SkgzrSCeBtYS3L8) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5) | 3:38 |
 
-Snapshot ID: `MCxmN2NiNGU1OTJjZjgzNjI1MWQ3NDg1ZDQzNjZiZDlmNjQzN2Q5NjYx`
+Snapshot ID: `MCwyODE3YmNhNjY2MzFjMDEyNWMzZjVhNjY2NDlhYzdkNzgyYzY1MDY4`

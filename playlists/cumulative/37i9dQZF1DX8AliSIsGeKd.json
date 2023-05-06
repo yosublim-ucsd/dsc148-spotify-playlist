@@ -34640,6 +34640,24 @@
     {
       "album": {
         "name": "Kelch 5",
+        "url": "https://open.spotify.com/album/5AnkDZIPKBP37QFntmAfmq"
+      },
+      "artists": [
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383821,
+      "name": "We Will Never Give Up",
+      "url": "https://open.spotify.com/track/56m2wIdvB6tNqLxWIM6kRC"
+    },
+    {
+      "album": {
+        "name": "Kelch 5",
         "url": "https://open.spotify.com/album/6cCOnTNuvrLjMY0bq4X6YL"
       },
       "artists": [
@@ -34650,7 +34668,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 383821,
       "name": "We Will Never Give Up",
       "url": "https://open.spotify.com/track/5NzeHYHjZ73UznCMX0bDNy"

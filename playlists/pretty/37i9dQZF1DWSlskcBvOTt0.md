@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,985 likes - 100 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,260 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 99 | [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 |
 | 100 | [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 |
 
-Snapshot ID: `MCxkNTVkMDEwMmMzYmI5M2Y4MDFhMTA2MGNmZDAxNTk4Mjc5MWM5MzYy`
+Snapshot ID: `MCxiOGNmMzEwNGVhMjAxNDQ1OTVmMzIxNDY0YTEzZTkzNDA1NWRjMTk3`

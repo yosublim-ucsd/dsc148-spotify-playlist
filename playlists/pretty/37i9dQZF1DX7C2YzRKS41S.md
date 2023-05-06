@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,855 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,984 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 |
 | 60 | [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 |
 
-Snapshot ID: `MCw0OGU0OGE1MTc5Mzk3NmZkMTg4NzUxMDAwMzJlYTY3ZDQ0NDk2MTkz`
+Snapshot ID: `MCxiNDVhYmJjZDkxZDg1YTM2OTcwOGMxYjhkMDZmNmMzNTcxYWQxZTA4`

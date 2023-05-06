@@ -2,9 +2,9 @@
 
 ### [Dubstep Don](https://open.spotify.com/playlist/37i9dQZF1DX5Q27plkaOQ3)
 
-> All <a href="spotify:genre:bass">wobble</a>\. Cover: 12th Planet
+> All <a href="spotify:genre:bass">wobble</a>\. Cover: Riot Ten
 
-344 songs - 19 hr 40 min
+345 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [776](https://open.spotify.com/track/6REKxS2cHlZxLgdGcxtwCv) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0), [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [776](https://open.spotify.com/album/5vEzgYeS6UyCHKlXKNWho9) | 2:38 | 2022-01-21 | 2022-10-30 |
 | [A Brief Tutorial On Dubstep Production \- Kayzo Remix](https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy) | [Dubba Jonny](https://open.spotify.com/artist/4rv9ymvcXOcbHrjkMkoA32), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [A Brief Tutorial On Dubstep Production \(Kayzo Remix\)](https://open.spotify.com/album/5XtE33BRDYkaXo80TS9Yr0) | 2:13 | 2023-02-10 |  |
 | [ACHROMATIC \(YOI\)](https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 01](https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt) | 2:55 | 2022-10-28 |  |
-| [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 |  |
+| [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 | 2023-05-06 |
 | [Addicted 2 U](https://open.spotify.com/track/75A3usA2hRJmaqnABohyAG) | [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Addicted 2 U](https://open.spotify.com/album/0nEy6XV1GHyRZJd1yTgcX6) | 4:56 | 2022-03-11 | 2023-04-01 |
 | [Affliction](https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Affliction](https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs) | 3:19 | 2022-06-17 | 2023-03-11 |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-21 | 2023-02-12 |
@@ -149,7 +149,7 @@
 | [Horizon](https://open.spotify.com/track/5dDHmJULJfgacnHLwK68xe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2) | [Closer](https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ) | 5:21 | 2022-05-13 | 2022-10-29 |
 | [House Party](https://open.spotify.com/track/3LuKDSqL4z1BL8HjSwxh5b) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 3:25 | 2021-12-17 | 2022-05-07 |
 | [How I Step](https://open.spotify.com/track/5Lo7TKVopdhOgtrJUCEPvc) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [SuperAve.](https://open.spotify.com/artist/1jZuVcvrLxmzjg9K0TU53g) | [How I Step](https://open.spotify.com/album/3OXWAsNwdNG8UgccKJ2cdG) | 3:16 | 2022-02-11 | 2022-08-27 |
-| [Hurt](https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Misdom](https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt) | [Hurt](https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7) | 4:15 | 2022-09-30 |  |
+| [Hurt](https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Misdom](https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt) | [Hurt](https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7) | 4:15 | 2022-09-30 | 2023-05-06 |
 | [Hypnotic](https://open.spotify.com/track/6Zm9SrQT7fzlI7HGOx0ARg) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Hypnotic EP](https://open.spotify.com/album/3YX26AlAsr09SsX7adaLwY) | 2:56 | 2022-10-21 | 2022-12-08 |
 | [I Can Feel It](https://open.spotify.com/track/4FZ4SAkkCrIqzaRqh7EVvM) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [I Can Feel It](https://open.spotify.com/album/1MPcz9Fd6Rce6zUV17Vwxe) | 3:28 | 2021-12-17 | 2022-09-11 |
 | [I Don't Care](https://open.spotify.com/track/73RKddd2yIFya9TZRFCd6r) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [I Don't Care](https://open.spotify.com/album/5ssIl7ho6aXkqoQ7CssRBw) | 3:55 | 2021-12-17 | 2022-10-29 |
@@ -268,7 +268,7 @@
 | [S.O.S](https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [S.O.S](https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba) | 2:54 | 2023-01-13 |  |
 | [Sapphire Channel](https://open.spotify.com/track/1X287ADgxHe8FIEZnmfQct) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs) | [Sapphire Channel](https://open.spotify.com/album/4BbfnEztMS9SeTffYj4baj) | 4:25 | 2022-05-06 | 2022-07-29 |
 | [Satellite](https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Satellite](https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq) | 3:46 | 2022-07-22 |  |
-| [Say It](https://open.spotify.com/track/2N8bcxtfN6hMxPVnTCnJxQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Say It](https://open.spotify.com/album/1EfgitaTG6dtXI5vR8fuhP) | 3:04 | 2022-11-11 | 2023-05-02 |
+| [Say It](https://open.spotify.com/track/2N8bcxtfN6hMxPVnTCnJxQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Say It](https://open.spotify.com/album/1EfgitaTG6dtXI5vR8fuhP) | 3:04 | 2022-11-11 |  |
 | [Scouts Honor](https://open.spotify.com/track/1LD0tIZELqjVcgoIvltR5V) | [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Scouts Honor](https://open.spotify.com/album/0Hpndb5MNHqbS09ATOLpHI) | 3:34 | 2022-03-11 | 2022-08-20 |
 | [Secrecy](https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [SECRECY EP](https://open.spotify.com/album/6nDX5W0XTS1KBbpVLtOpA8) | 3:07 | 2022-07-29 |  |
 | [Shadow](https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow](https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp) | 4:20 | 2021-12-17 | 2022-03-05 |
@@ -278,6 +278,7 @@
 | [Shank](https://open.spotify.com/track/7Mvl8tGMD5lmgpcdcm53WK) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Shank](https://open.spotify.com/album/7FHVGQCCAxhEeDWbEEuMZS) | 4:24 | 2023-03-10 |  |
 | [Sharp Shooter](https://open.spotify.com/track/0ViI8m9JgQlADPjsP0Nxo2) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/50xJ464PqppzDAKiu1sDM6) | 3:43 | 2022-09-30 | 2023-02-26 |
 | [Sharp Shooter](https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80) | 3:43 | 2023-02-24 |  |
+| [SHEEESH](https://open.spotify.com/track/1LhdHHyfSr8LR8dFqz3NTg) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH](https://open.spotify.com/album/7MGp4cfGpvAdgkQFdxyL9n) | 2:12 | 2023-05-05 |  |
 | [Shimmer](https://open.spotify.com/track/123FqwqgRIRKpU5kPXprW0) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/0ce00WtByT2e6ecEjNMJom) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Shimmer](https://open.spotify.com/track/1zk2MkgS2evrY0py2bWjiT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/5mqADkilFicbY2DXyWemZe) | 3:25 | 2022-07-22 | 2023-03-11 |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 |  |

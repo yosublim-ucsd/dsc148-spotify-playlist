@@ -2,7 +2,7 @@
 
 ### [Rap Internazionale](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> I rapper più forti del mondo in una sola playlist\. Cover: Jack Harlow
+> I rapper più forti del mondo in una sola playlist\. Cover: NLE Choppa
 
 304 songs - 15 hr 47 min
 

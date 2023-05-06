@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Caramelo Haze en portada.
 
-250 songs - 15 hr 4 min
+252 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [De los Límites](https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [De los Límites](https://open.spotify.com/album/6BUxm0c0dlEDnY6yQ5uW3W) | 4:13 | 2022-02-18 | 2022-10-01 |
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-10-05 | 2023-04-01 |
 | [Desde el Cielo](https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Ve Desde Aquí](https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN) | 6:48 | 2022-10-27 | 2023-03-25 |
-| [Deseándote](https://open.spotify.com/track/0x3QAwL1fJFlB7qY65bSv1) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Deseándote](https://open.spotify.com/album/6Oh76OL4xlX3YdARyWNqMD) | 3:30 | 2023-02-28 |  |
+| [Deseándote](https://open.spotify.com/track/0x3QAwL1fJFlB7qY65bSv1) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Deseándote](https://open.spotify.com/album/6Oh76OL4xlX3YdARyWNqMD) | 3:30 | 2023-02-28 | 2023-05-06 |
 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 | 2022-04-09 |  |
 | [diamantes ✧✧](https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [arde lento](https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8) | 3:39 | 2021-10-05 | 2022-05-10 |
 | [Dilo Como Yo \(Te Están Llamando\)](https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Manifest Tone EP](https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5) | 4:15 | 2022-09-07 | 2023-04-30 |
@@ -128,7 +128,7 @@
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2022-09-02 |  |
 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 | 2021-10-05 | 2022-04-12 |
 | [La Peregrina](https://open.spotify.com/track/0cbwnTw4LllpOZC5GMpxKL) | [La Villana](https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq) | [Valkenburg](https://open.spotify.com/album/6DAcewxTM6M7oFpYpaK7h1) | 3:54 | 2022-09-30 | 2023-03-01 |
-| [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 | 2023-03-31 |  |
+| [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 | 2023-03-31 | 2023-05-06 |
 | [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-23 | 2022-08-16 |
 | [Lo Sagrado](https://open.spotify.com/track/6hU4qL1RFuy5A5Ndk8t8Sv) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 3:30 | 2021-10-05 | 2022-04-24 |
 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 | 2021-10-22 | 2023-04-01 |
@@ -193,6 +193,8 @@
 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 | 2021-10-05 | 2022-09-16 |
 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 | 2022-11-12 |  |
 | [Plata y Coral](https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Plata y Coral](https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP) | 4:00 | 2022-01-21 | 2023-04-01 |
+| [Poco a Poco \- Remix](https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Poco a Poco \(Remix\)](https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW) | 2:57 | 2023-05-05 |  |
+| [POLVO](https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [POLVO](https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD) | 4:00 | 2023-05-05 |  |
 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 | 2023-03-31 |  |
 | [Portales](https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Útera](https://open.spotify.com/album/0t49uyMILALgWUltHuraYc) | 4:10 | 2021-10-05 | 2022-10-13 |
 | [Portales](https://open.spotify.com/track/0eYmU0Cda7T28C8i2ricFy) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Útera](https://open.spotify.com/album/337yrNFbtT0KSaHBNeMMub) | 4:11 | 2021-10-05 | 2023-04-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Trending Pakistani tracks under one roof\. Cover: Ali Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,999 likes - 56 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,080 likes - 56 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 55 | [Baari](https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Baari](https://open.spotify.com/album/4AqwIHdf4s6gXHVcvwHsIu) | 3:55 |
 | 56 | [Main Rang Sharbaton Ka](https://open.spotify.com/track/1yYM7dY6wSJFp5qmxPRLu1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Phata Poster Nikhla Hero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ADyLRU2KWshFA02symTDr) | 4:23 |
 
-Snapshot ID: `MCwyODBlZjA1M2UzOTM3YTc5MTA4ZjRlYjAyOTk0ZWEzZWFkMWNmM2Fk`
+Snapshot ID: `MCw1Mzg0MGNmZjNhYzk5ZGRhNDg0ZTNjNGI5ZDJlOWI0ODFkMjhiZTJk`

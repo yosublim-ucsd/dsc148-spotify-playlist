@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Metalcore at its finest. Cover: Veil Of Maya",
+  "description": "Metalcore at its finest. Cover: Spiritbox",
   "name": "The Core",
   "tracks": [
     {
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Stand Defiant",
+        "url": "https://open.spotify.com/album/7vA92vIHNCcJHyl4SY4sZc"
+      },
+      "artists": [
+        {
+          "name": "Dead Like Juliet",
+          "url": "https://open.spotify.com/artist/3C4EFbyH1KqzTt3gcF0tor"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219638,
+      "name": "Backs Against The Wall",
+      "url": "https://open.spotify.com/track/6NYw02xyrpx1a1IrojCTjv"
+    },
+    {
+      "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
@@ -1480,6 +1498,24 @@
       "duration_ms": 124160,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/2y7sX1o0HqC3OBgIcLjFZM"
+    },
+    {
+      "album": {
+        "name": "Bite Your Tongue",
+        "url": "https://open.spotify.com/album/0nlj4yiTOT5UrrvIHX19MM"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198387,
+      "name": "Bite Your Tongue",
+      "url": "https://open.spotify.com/track/1lnW6hdkIDZU6JA53R0emi"
     },
     {
       "album": {
@@ -2846,7 +2882,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 204040,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
@@ -3678,6 +3714,24 @@
       "duration_ms": 221091,
       "name": "Dreaming Desecration",
       "url": "https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o"
+    },
+    {
+      "album": {
+        "name": "Dreamlike",
+        "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208645,
+      "name": "Dreamlike",
+      "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
     },
     {
       "album": {
@@ -5562,7 +5616,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 225418,
       "name": "Hold Me, Help Me",
       "url": "https://open.spotify.com/track/5PonHqoB85p240oUT9AIDj"
@@ -5710,6 +5764,24 @@
       "duration_ms": 217000,
       "name": "Hush",
       "url": "https://open.spotify.com/track/65IszYMAcZBZ31WJeMkGx3"
+    },
+    {
+      "album": {
+        "name": "I Found The Dark Side of Heaven",
+        "url": "https://open.spotify.com/album/3cSwaFQiAYI734DB88Bfni"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237739,
+      "name": "I Found The Dark Side of Heaven",
+      "url": "https://open.spotify.com/track/2gOT76GIAA7tnrxgunCAZk"
     },
     {
       "album": {
@@ -6368,7 +6440,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 172019,
       "name": "Ketamine",
       "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
@@ -6458,7 +6530,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 251330,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/5fETISA0KLKcKb8pRHMgqW"
@@ -6852,6 +6924,24 @@
       "duration_ms": 186615,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4mWx5WcTcwWqynzuB18mSJ"
+    },
+    {
+      "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
     },
     {
       "album": {
@@ -8052,7 +8142,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
@@ -8530,7 +8620,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180947,
       "name": "Pizza Homicide",
       "url": "https://open.spotify.com/track/7vqgYX29LWz74BlsaW9bub"
@@ -9484,7 +9574,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 211440,
       "name": "Scars",
       "url": "https://open.spotify.com/track/2vBwejT7xi8pDeGYxmY8vi"
@@ -11265,6 +11355,24 @@
     },
     {
       "album": {
+        "name": "The Tide",
+        "url": "https://open.spotify.com/album/5ETNqkxNkYDzfDls6HO2E2"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187657,
+      "name": "The Tide",
+      "url": "https://open.spotify.com/track/4kDbixS4TuwdONKMrCF6zi"
+    },
+    {
+      "album": {
         "name": "The Tyrannt's Covenant",
         "url": "https://open.spotify.com/album/6t9Q5AZw9LyXEqVvdVZbfP"
       },
@@ -12136,7 +12244,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 207980,
       "name": "W.a.R",
       "url": "https://open.spotify.com/track/75ipV1ycKTZuy6CYb6wa0j"

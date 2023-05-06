@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,492 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,515 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [Returning After Leaving](https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 5:11 |
 | 100 | [Deep Time](https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [Ruan](https://open.spotify.com/artist/5jcPfUXM1Mo5coDLdpurNr) | [Deep Time](https://open.spotify.com/album/5XD0RPWsp1bJmNL3JXy1jd) | 3:56 |
 
-Snapshot ID: `MCw4YTNiZTBhOTllNTE0MDkyYWUwNGFjMmMyODNlYzdjODU5YjZlNzYw`
+Snapshot ID: `MCw4OTU5ODdiYTk5OTdmNWYyYzIyOGE5MmVjYzJlMDY5N2EzMDlmZTM0`

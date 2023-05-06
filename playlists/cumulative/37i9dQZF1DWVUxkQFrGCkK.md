@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-76 songs - 5 hr 27 min
+77 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 | 2023-04-13 |  |
 | [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee) | 3:05 | 2023-04-13 |  |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-04-13 | 2023-04-27 |
+| [Croc](https://open.spotify.com/track/5IDNP5lSA2mx5hKA05eJlB) | [Backhaus](https://open.spotify.com/artist/0aASg4vlkQrxqm4HxrjgXW), [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Hosiannah](https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq) | [Croc](https://open.spotify.com/album/1PQ4sNWyGBZsqGkYutcOdJ) | 4:13 | 2023-05-05 |  |
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2023-04-13 |  |
 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 | 2023-04-20 |  |
 | [Doin Ya Thang](https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2) | 6:55 | 2023-04-13 |  |
@@ -81,7 +82,7 @@
 | [Vex Oh \(feat\. Eight9FLY\)](https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:42 | 2023-04-13 |  |
 | [Voyage](https://open.spotify.com/track/7ochILP42boyfaJITMUMGF) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Voyage](https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA) | 4:45 | 2023-04-27 |  |
 | [Wave](https://open.spotify.com/track/5aH41smzTehoCIqj7VmAT3) | [Kill Them With Colour](https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU) | [Wave](https://open.spotify.com/album/0EHVHLmFiIgxxVSeqEtaci) | 3:14 | 2023-04-13 |  |
-| [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 | 2023-04-13 |  |
+| [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 | 2023-04-13 | 2023-05-06 |
 | [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 | 2023-04-13 |  |
 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/3jHf5zZ8d5MQg03YyfTa2I) | 7:02 | 2023-04-13 |  |
 

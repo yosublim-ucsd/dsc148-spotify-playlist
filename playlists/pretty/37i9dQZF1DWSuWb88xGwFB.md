@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,659 likes - 75 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,687 likes - 75 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Alright \(feat\. Earl Bennett\) \- BOP Journey Remix](https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI) | [B.O.P.](https://open.spotify.com/artist/4wgHscFAZfZ1SPzvNguxBf), [Earl Bennett](https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe) | [Alright \(feat\. Earl Bennett\)](https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6) | 10:05 |
 | 75 | [Northern Lights \- The Prime Cutz Mix](https://open.spotify.com/track/3oGL7qdd5bCUQNdFnbPm5J) | [Caucasian Boy](https://open.spotify.com/artist/1MU5axJkJ5WOlfourdSDER) | [Northern Lights \(Mixes\)](https://open.spotify.com/album/1OH3So9taAUDVSzzTpwCZI) | 7:59 |
 
-Snapshot ID: `MCxiMWI0YjNiMzQ3MDNjMDZjNWIzNTVlZmNlYjQ3MzJjNzM1YTllODlh`
+Snapshot ID: `MCxjOGYzNDc5ZWNiYjYyYmYwMThiOGE0MjYxM2MwZWZlYzY0MTgzYmZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,377 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,528 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [You Never Break a Promise](https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [You Never Break a Promise](https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA) | 5:37 |
 | 100 | [For The Joy Set Before Him](https://open.spotify.com/track/5BtD8FDmGP1XOS7OkPceW1) | [Latifah Makuyi](https://open.spotify.com/artist/4UDfz6xyv6xFkaj2P0ILpz), [Pete YB](https://open.spotify.com/artist/1rKqURNGRPah0QKnAefXyz) | [Eternal Gospel](https://open.spotify.com/album/6aQlH2u5lUVu4uJpRWYZiX) | 4:07 |
 
-Snapshot ID: `MCwzNGVkZGI0YWVlOTY3YWU2N2QzYWU5NDc2MDQ4MTk0YTBlMmFmOTZi`
+Snapshot ID: `MCxlYmU0NmFhMDIyYmJjZWZkMDc5NmEzZjJhNjNkMzY5OWIyNjIzMmFl`

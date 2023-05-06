@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Niky Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,389 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,548 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [TEN TEN](https://open.spotify.com/track/6xWwDNDnU6SeshHsKJKiML) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0), [Manny Troublez](https://open.spotify.com/artist/4zy1P09QNWgC7LvrAbYaDN) | [TEN TEN](https://open.spotify.com/album/6HAiyDtspjIZ3fFNGoZSHp) | 3:03 |
 | 50 | [Quarto di Bue](https://open.spotify.com/track/2EE4ytQ5LpuyIjDircmLzQ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Quarto di Bue](https://open.spotify.com/album/2cYiDWSENKod8Ht0C13Bya) | 1:46 |
 
-Snapshot ID: `MCw0MDUwNmFhMzZhYTA5MDIwYTMxMGRlNDVhYzE1MzA4OTM1OGM0MDNj`
+Snapshot ID: `MCw4ZTZhOWRkMTdjODEyMjQ3YWExMzk1ZDQwNmE4YjY1MWJlODkwN2Fm`

@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Hadassah Perez
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: Ton Carfi, Brunno Ramos, Paloma Possi
 
-103 songs - 6 hr 19 min
+104 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Tua Graça](https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP) | [Carol Aguiar](https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m) | [Tua Graça](https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu) | 3:55 | 2022-08-05 |  |
 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 | 2022-08-05 |  |
 | [Tudo Novo](https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Tudo Novo](https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN) | 3:05 | 2023-04-15 |  |
-| [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 | 2022-08-05 |  |
+| [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 | 2022-08-05 | 2023-05-06 |
 | [Vai Ser Melhor](https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy) | [Dani Ferber](https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH) | [Vai Ser Melhor](https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL) | 2:57 | 2023-02-25 |  |
 | [Vem Com Teu Espírito](https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Vem Com Teu Espírito](https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj) | 2:48 | 2022-08-05 | 2022-10-08 |
 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 | 2022-08-05 |  |
@@ -111,5 +111,6 @@
 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 | 2022-08-05 | 2023-03-25 |
 | [Você Por Perto](https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Você Por Perto](https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew) | 3:51 | 2022-08-05 |  |
 | [É de Coração](https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [É de Coração](https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4) | 3:16 | 2022-08-05 |  |
+| [É Você](https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [É Você](https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX) | 3:51 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

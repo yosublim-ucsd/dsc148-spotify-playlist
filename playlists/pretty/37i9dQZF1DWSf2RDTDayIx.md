@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,153,942 likes - 150 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,155,434 likes - 150 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Suenos Bravos](https://open.spotify.com/track/2tMIzKu3vXQzvbDShxjbmu) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Radio Active](https://open.spotify.com/album/0Bhfg7rjglzOrtRRxQRk79) | 3:30 |
 | 150 | [Life Is Good](https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Life Is Good](https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2) | 3:20 |
 
-Snapshot ID: `MCw0Njk2ZWVhZDRhYTk5ZTI4MzYxYjlhOTI5YTQyODhjMmVlODY5MmI2`
+Snapshot ID: `MCw3NDMwZmMxODM0NjgwOWEzOTBlM2YxZWYyNTg5Mzk1NTM1Yjk0YmY2`

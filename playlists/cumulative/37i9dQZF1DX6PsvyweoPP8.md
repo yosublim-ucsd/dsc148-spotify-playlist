@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-123 songs - 6 hr 16 min
+124 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Na Onda](https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Na Onda](https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO) | 3:19 | 2022-03-18 |  |
 | [Na Sua Rota](https://open.spotify.com/track/2ru53XgZV761mqXaBwSk5Y) | [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [VK](https://open.spotify.com/artist/00fzfkVD3y9sfUfdaYDAGf) | [Smooth](https://open.spotify.com/album/4Tp411Bh9vDjXlJRHsSpLD) | 3:32 | 2022-03-18 |  |
 | [Noites Vazias](https://open.spotify.com/track/28LPxCIwkGVzeiSco3wjQc) | [Lucas Muto](https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Noites Vazias](https://open.spotify.com/album/3Xv9VjZlAp9tS1Rr0WQKwG) | 2:52 | 2022-04-29 | 2022-08-06 |
-| [NONSTOP](https://open.spotify.com/track/0UG3GhydepGN2mF7Y9OemI) | [Saint Clair](https://open.spotify.com/artist/7atjAkSf2uJDdvAbjcrIGf) | [NONSTOP](https://open.spotify.com/album/4tljFJhMClOX3IM2EEwZqh) | 2:15 | 2023-02-03 |  |
+| [NONSTOP](https://open.spotify.com/track/0UG3GhydepGN2mF7Y9OemI) | [Saint Clair](https://open.spotify.com/artist/7atjAkSf2uJDdvAbjcrIGf) | [NONSTOP](https://open.spotify.com/album/4tljFJhMClOX3IM2EEwZqh) | 2:15 | 2023-02-03 | 2023-05-06 |
 | [Nosso Jeito](https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Nosso Jeito](https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B) | 3:10 | 2022-03-18 |  |
 | [Não Demora](https://open.spotify.com/track/2upeA1eDVdtH4t7zUdGULn) | [Mati](https://open.spotify.com/artist/6q4OTLGMcroTVXFFKSkzzC), [Ni Munhoz](https://open.spotify.com/artist/3e0wWnjJSczRhvjFKT7kQZ) | [Não Demora](https://open.spotify.com/album/0NtFR23BCN7A9jCfbaj54z) | 2:46 | 2022-03-18 |  |
 | [O Tempo](https://open.spotify.com/track/31oOBluQP0TkfUprY5V1Pg) | [Viped](https://open.spotify.com/artist/6lL3PBXaqTkAznwSvfySSi), [BlackMura](https://open.spotify.com/artist/1CENG2Rr3cDIP6HKNGe7Nd), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [O Tempo](https://open.spotify.com/album/6XhdOkOS1GRBKVwaD5Oxsw) | 2:45 | 2022-12-23 | 2023-01-28 |
@@ -117,6 +117,7 @@
 | [Sentir e Prazer](https://open.spotify.com/track/7wYoG6sytNtVx17cTONjVa) | [Guima](https://open.spotify.com/artist/1izfQ33KYdX2ObYH1vq1v1), [HoodBoy](https://open.spotify.com/artist/0ENK73asIFACBdANsrvSoG), [DaSeca](https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ) | [Sentir e Prazer](https://open.spotify.com/album/29b6PADdGfwtQ1PjbIwfqo) | 3:13 | 2022-03-18 | 2022-05-20 |
 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 | 2022-03-18 |  |
 | [Sessão do Descarrego](https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Sessão do Descarrego](https://open.spotify.com/album/42gDhvs8gmBfr0NUZoqq3v) | 3:55 | 2022-03-18 |  |
+| [Sexo e Dramas](https://open.spotify.com/track/1egbFZtcwx2urbr2q8TsZ5) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Sexo e Dramas](https://open.spotify.com/album/4XzBe109U96T5KXaTRCarR) | 2:32 | 2023-05-05 |  |
 | [Solo](https://open.spotify.com/track/1ZfUzmhmyxfRCEweqgInsx) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi) | [Trilogia Triunfo](https://open.spotify.com/album/3Jnl5a8gRGO8omxruOlqmY) | 3:16 | 2022-03-18 | 2023-04-29 |
 | [Sommelier](https://open.spotify.com/track/3nN404cfeenUm5BPLg8zzB) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sommelier](https://open.spotify.com/album/1MU6umCoTUOZJM9a6zc9xd) | 2:54 | 2022-08-22 |  |
 | [Sommelier](https://open.spotify.com/track/3HOlhweyZyyD8QSTZjI63I) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Sommelier](https://open.spotify.com/album/3O8I6X87Nn2Yb04kqFuiyX) | 2:54 | 2022-03-18 | 2022-08-26 |

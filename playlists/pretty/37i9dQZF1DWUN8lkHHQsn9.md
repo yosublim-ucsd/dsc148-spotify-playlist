@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: MAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,802 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,801 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 59 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
 | 60 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 |
 
-Snapshot ID: `MCxiMmQ2YTZiYjdjOWViZjczOTRjYzVkMTc1NTM0ZmQ3YTg2N2UyMThj`
+Snapshot ID: `MCwyMTBiMTIxZWI5MmMxZTg0MTljY2I0ZWVlZGYzZmI5YTA4NGUzOTg1`

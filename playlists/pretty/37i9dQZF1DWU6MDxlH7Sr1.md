@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 
 > Soft Jazz in the background of your cocktail party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,213 likes - 152 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,259 likes - 152 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 151 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 |
 | 152 | [Speak Low](https://open.spotify.com/track/4qY2rgB6SJM9F1RPaLeGcz) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:41 |
 
-Snapshot ID: `MCw5ZTRkZDQ4MjEzNjAxM2MwMmY3ZDI1ZmVmYTU3YjE5NDliODRhMGNj`
+Snapshot ID: `MCw0YjU1NDAxZTJjMjY2OTBkNjdhMTk0NjFjOTI0NDg3NmVjOTgwZmIy`

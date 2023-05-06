@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Azimah Fada",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Batavia Collective",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -436,6 +436,28 @@
       "duration_ms": 322543,
       "name": "Can Good Things Last Forever?",
       "url": "https://open.spotify.com/track/6MWw5eGSjfkNLmGTmMqTPn"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/6K4SQ1N5cqEZmoy8beycUc"
+      },
+      "artists": [
+        {
+          "name": "Juhan Ongbrian",
+          "url": "https://open.spotify.com/artist/7mEJxWdf21g1dRVwNDaLq8"
+        },
+        {
+          "name": "Shane Sato",
+          "url": "https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151053,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/69sr0eULGJPlIMphhtNNk6"
     },
     {
       "album": {
@@ -2078,6 +2100,24 @@
       "duration_ms": 135428,
       "name": "Sendiri",
       "url": "https://open.spotify.com/track/2EpLkn1XKYL29Yf3WFs0ld"
+    },
+    {
+      "album": {
+        "name": "BTVC",
+        "url": "https://open.spotify.com/album/52QTTpeSM35ixuCvnoJ0w3"
+      },
+      "artists": [
+        {
+          "name": "Batavia Collective",
+          "url": "https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Senopati Shuffle",
+      "url": "https://open.spotify.com/track/5LwukjIPavFO64vjVfhLQa"
     },
     {
       "album": {

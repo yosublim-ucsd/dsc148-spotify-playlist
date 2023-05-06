@@ -277,6 +277,32 @@
     },
     {
       "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/2ld1XpKgcJ3mNcEFU47n0w"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194509,
+      "name": "Camp",
+      "url": "https://open.spotify.com/track/1WIlQub0N2uENuLhKNuZ5o"
+    },
+    {
+      "album": {
         "name": "It's Beautiful.",
         "url": "https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo"
       },
@@ -1340,7 +1366,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200062,
       "name": "Stay Patient.",
       "url": "https://open.spotify.com/track/7uvbamNsiIOUsw2QJf1BQ1"

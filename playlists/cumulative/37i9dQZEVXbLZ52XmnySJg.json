@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 243438,
       "name": "Aga Naga",
       "url": "https://open.spotify.com/track/36A3x0sPYGUyz24SZfjtOb"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 223459,
       "name": "Kabira",
       "url": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c"
@@ -6526,7 +6526,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 77252,
       "name": "Kali Kali Zulfon Ke (Lo-Fi)",
       "url": "https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt"
@@ -8127,6 +8127,32 @@
     },
     {
       "album": {
+        "name": "Mann Mera",
+        "url": "https://open.spotify.com/album/0lUJxwzsG7UmSbpgdLrfaG"
+      },
+      "artists": [
+        {
+          "name": "Thezth",
+          "url": "https://open.spotify.com/artist/04xmzIVarlEkrLNKRPl3VU"
+        },
+        {
+          "name": "Konina",
+          "url": "https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj"
+        },
+        {
+          "name": "Arl1ny",
+          "url": "https://open.spotify.com/artist/43cCBbsOk9AO5zkzOsQttq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200179,
+      "name": "Mann Mera",
+      "url": "https://open.spotify.com/track/1t8J4CgyQvJPDWwX3uaElF"
+    },
+    {
+      "album": {
         "name": "Table No. 21",
         "url": "https://open.spotify.com/album/3O895TQZsINpYkZuMtIwFF"
       },
@@ -9658,7 +9684,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 185869,
       "name": "P.O.V (Point of View)",
       "url": "https://open.spotify.com/track/6h5cT4n75VWK95VDW07EFw"
@@ -11042,7 +11068,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 195253,
       "name": "Saibo",
       "url": "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR"
@@ -12508,7 +12534,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 114418,
       "name": "TERE TE",
       "url": "https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5"
@@ -13274,7 +13300,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 83169,
       "name": "Tum Hi Aana (Sad Version) [From \"Marjaavaan\"]",
       "url": "https://open.spotify.com/track/6vNolBIVWvfY3Z20gAG5nI"

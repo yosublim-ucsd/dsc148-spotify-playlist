@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. bring me the horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,465 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,829 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 21 | [NIGHTSHIFT](https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I) | 2:07 |
 | 22 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
 | 23 | [venom](https://open.spotify.com/track/2sDX7racfnjrWXJLqBLpCn) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Spent](https://open.spotify.com/artist/4D5DohcRoNQVTWDKb08Iy6) | [venom](https://open.spotify.com/album/77YsFlEg2yaw0qZTSrsPoH) | 3:02 |
-| 24 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
+| 24 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
 | 25 | [SPYD4 K1NG](https://open.spotify.com/track/0u1inKbr4lCWrjn11W9ydh) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [SPYD4 K1NG](https://open.spotify.com/album/1xkuGHZ4eWoZGO7XZQoN4Q) | 3:12 |
 | 26 | [Drag Me To Hell](https://open.spotify.com/track/5LLomiXtpid7vpIfZ39o5F) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Gut Feeling](https://open.spotify.com/album/2sCytRQujXambd95PcJ2Cj) | 2:57 |
 | 27 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 89 | [Toilet](https://open.spotify.com/track/1EwrRgBEsPpL5CWA7kMfr0) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Toilet](https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd) | 3:49 |
 | 90 | [NEW BOY](https://open.spotify.com/track/4XbW7CRBTy5jCQcN8XAcNS) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [NEW BOY](https://open.spotify.com/album/5BsSDGYksYm1ORLKvASAyJ) | 3:46 |
 
-Snapshot ID: `MCw5NjZlMjI4ZDJjNjk2ZjZkZGJkZDgwZTkxOTc5ZmJhZWUwZTMxZmFm`
+Snapshot ID: `MCw1MmJmMmY0MmI2OGJiMmQ3Y2U4YWI2NDQxMjI0N2JiM2E4YmFkYjZi`

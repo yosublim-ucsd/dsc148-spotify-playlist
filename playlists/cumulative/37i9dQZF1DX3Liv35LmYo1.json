@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 256000,
       "name": "All Ways",
       "url": "https://open.spotify.com/track/6FXo8XBPJVRVTnULgrMEVt"
@@ -485,6 +485,46 @@
     },
     {
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320533,
+      "name": "Cmon",
+      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
+      },
+      "artists": [
+        {
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
+    },
+    {
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
@@ -631,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Desert",
+        "url": "https://open.spotify.com/album/3J55fcmO15upttdki07D9U"
+      },
+      "artists": [
+        {
+          "name": "WaTa",
+          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242177,
+      "name": "Desert",
+      "url": "https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT"
+    },
+    {
+      "album": {
         "name": "Dhollandia / Circles",
         "url": "https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr"
       },
@@ -700,7 +758,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 359534,
       "name": "Dreaming Of High Fidelity",
       "url": "https://open.spotify.com/track/2HRbd2lJKkWWBGT2IRVr4j"
@@ -856,7 +914,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214253,
       "name": "Fooley",
       "url": "https://open.spotify.com/track/53a82fPkpZAQ7zgXTCsLpn"
@@ -1056,7 +1114,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 373453,
       "name": "Higher Elevation",
       "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
@@ -1158,6 +1216,24 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "album": {
+        "name": "'I Wanted More' EP",
+        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333694,
+      "name": "I Wanted More",
+      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
     },
     {
       "album": {
@@ -1292,7 +1368,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 493000,
       "name": "Intimate Fantasy",
       "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
@@ -1358,6 +1434,24 @@
       "duration_ms": 356367,
       "name": "Jump Code",
       "url": "https://open.spotify.com/track/1gqkiGnfEsDEIz0F7Gv8az"
+    },
+    {
+      "album": {
+        "name": "Justine",
+        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Justine",
+      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
     },
     {
       "album": {
@@ -1492,6 +1586,24 @@
       "duration_ms": 271717,
       "name": "lights up",
       "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
+    },
+    {
+      "album": {
+        "name": "Memories In Flight",
+        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
+      },
+      "artists": [
+        {
+          "name": "Sampology",
+          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229399,
+      "name": "Memories In Flight",
+      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
     },
     {
       "album": {
@@ -1736,7 +1848,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 281060,
       "name": "Rainbows and Dreams",
       "url": "https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7"
@@ -1798,7 +1910,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 268872,
       "name": "R\u00caVES",
       "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
@@ -2341,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+    },
+    {
+      "album": {
         "name": "CROOK",
         "url": "https://open.spotify.com/album/4I1K9n6EPW7AwwXtrrCDTC"
       },
@@ -2385,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "To You EP",
+        "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306589,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/38GS3GcRxHE9YXuIk21eaC"
+    },
+    {
+      "album": {
         "name": "Ultra Truth",
         "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
@@ -2414,7 +2562,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 291657,
       "name": "Us",
       "url": "https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi"
@@ -2454,7 +2602,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 207304,
       "name": "Violet - DJ Python Remix",
       "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
@@ -2538,6 +2686,24 @@
       "duration_ms": 388735,
       "name": "Whipbird Dub",
       "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
+    },
+    {
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK"
+      },
+      "artists": [
+        {
+          "name": "Acopia",
+          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242661,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Liv35LmYo1"

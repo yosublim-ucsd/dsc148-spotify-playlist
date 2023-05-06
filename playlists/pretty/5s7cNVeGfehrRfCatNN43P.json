@@ -1,356 +1,212 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10538,
+  "num_followers": 10537,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjUzMyxjZmQxZTg4MTExODJiYTdlOGJmMWI5YmE4YmJkMzE3MzBlZDEyYmM1",
+  "snapshot_id": "MjUzNSxiZGY4N2YzMjU2NjcwYzc2NjYxNmNhZjg5ZTc3OTg1MDIxYjQ0NzBj",
   "tracks": [
     {
-      "added_at": "2023-04-28 07:15:05",
+      "added_at": "2023-05-05 08:15:50",
       "album": {
-        "name": "Falling In Love Again",
-        "url": "https://open.spotify.com/album/1B2ujfzmHAL8GUlHdVx2ay"
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/6Bdt1oU6mqRFhFroAopJOb"
       },
       "artists": [
         {
-          "name": "Leif Coffield",
-          "url": "https://open.spotify.com/artist/1WE7m8KGhnIBIbuaMH50Cm"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 180755,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/6mXHM9VN5p5Z9kWgtQsm2e"
+    },
+    {
+      "added_at": "2023-05-05 08:15:50",
+      "album": {
+        "name": "Date Your Dad",
+        "url": "https://open.spotify.com/album/4zuYtVKxNBcifjGC1z7pEZ"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "duration_ms": 136937,
+      "name": "Date Your Dad",
+      "url": "https://open.spotify.com/track/0ZkkZYLcjdPv2XnJtfGRzL"
+    },
+    {
+      "added_at": "2023-05-05 08:15:50",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa"
+    },
+    {
+      "added_at": "2023-05-05 08:15:50",
+      "album": {
+        "name": "Love Invention",
+        "url": "https://open.spotify.com/album/27EBdWkxelrRDYitkJgH4W"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "duration_ms": 259105,
+      "name": "Love Invention",
+      "url": "https://open.spotify.com/track/7xn5k1DSJrEIXYAE824Xvm"
+    },
+    {
+      "added_at": "2023-05-05 08:15:50",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Wuh Oh",
-          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 143360,
-      "name": "Falling In Love Again",
-      "url": "https://open.spotify.com/track/5jfLJ5ZU2GRydLWRhqnrDi"
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
-      "added_at": "2023-04-28 07:15:05",
+      "added_at": "2023-05-05 08:15:50",
       "album": {
-        "name": "Heartbreak In The Making",
-        "url": "https://open.spotify.com/album/61B2tJmXAvrZG8h5oTvjj1"
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
       },
       "artists": [
         {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
         }
       ],
-      "duration_ms": 194347,
-      "name": "Heartbreak In The Making",
-      "url": "https://open.spotify.com/track/2x8kUmkjEuHycERY93zB5L"
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
     },
     {
-      "added_at": "2023-04-28 07:15:05",
+      "added_at": "2023-05-05 08:15:50",
       "album": {
-        "name": "Manic Dream Pixie",
-        "url": "https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN"
+        "name": "Flight Risk",
+        "url": "https://open.spotify.com/album/1y6mVjHSk1LgscbN30ghnV"
       },
       "artists": [
         {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
         }
       ],
-      "duration_ms": 174334,
-      "name": "Kinda Famous",
-      "url": "https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU"
+      "duration_ms": 199918,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/368mOZ4hV8aacFU4XN0vLe"
     },
     {
-      "added_at": "2023-04-28 07:15:05",
+      "added_at": "2023-05-05 08:15:50",
       "album": {
-        "name": "Meltdown",
-        "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
+        "name": "Co-Star",
+        "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
+      "duration_ms": 166533,
+      "name": "Co-Star",
+      "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
     },
     {
-      "added_at": "2023-04-28 07:15:05",
+      "added_at": "2023-05-05 08:15:50",
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
-        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
+        "name": "Feel The Way I Feel",
+        "url": "https://open.spotify.com/album/6BHuZkG4o6NB3va4gVm162"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Cupid Girl",
+          "url": "https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq"
+        }
+      ],
+      "duration_ms": 201124,
+      "name": "Feel The Way I Feel",
+      "url": "https://open.spotify.com/track/6WAg4HqQ8SJsapo3TVByJj"
+    },
+    {
+      "added_at": "2023-05-05 08:15:50",
+      "album": {
+        "name": "don\u2019t call me pretty",
+        "url": "https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 181076,
+      "name": "don\u2019t call me pretty",
+      "url": "https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy"
+    },
+    {
+      "added_at": "2023-05-05 08:15:50",
+      "album": {
+        "name": "SPLIT DECISION",
+        "url": "https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 153453,
+      "name": "Celebrity - Blood Bunny Version",
+      "url": "https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay"
+    },
+    {
+      "added_at": "2023-05-05 08:15:50",
+      "album": {
+        "name": "Air (YouNotUs Remix)",
+        "url": "https://open.spotify.com/album/53NefgIQ5f4U6Uyj8CwJfO"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
         },
         {
-          "name": "Lily Rose",
-          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         }
       ],
-      "duration_ms": 201002,
-      "name": "Sad in the Summer (feat. Lily Rose)",
-      "url": "https://open.spotify.com/track/29Zod043iIX27WBv0duEDn"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "On & On (Again) [Edit]",
-        "url": "https://open.spotify.com/album/6icyrehEsAbRwrnVPvGn5u"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        },
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 195197,
-      "name": "On & On (Again) - Edit",
-      "url": "https://open.spotify.com/track/1tYwSPYzoCZLQKbFbvt0fS"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "THE WORLD'S SO FUCKED",
-        "url": "https://open.spotify.com/album/4408anQxon8R4UwthIWbLW"
-      },
-      "artists": [
-        {
-          "name": "Lucy Deakin",
-          "url": "https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h"
-        }
-      ],
-      "duration_ms": 153141,
-      "name": "THE WORLD'S SO FUCKED",
-      "url": "https://open.spotify.com/track/3TmCaiEjK9Ybkq1GHBNua0"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "Bloodstream",
-        "url": "https://open.spotify.com/album/5dUlM2Bho8GhAOdS4sA6EP"
-      },
-      "artists": [
-        {
-          "name": "LOWES",
-          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
-        }
-      ],
-      "duration_ms": 171221,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/33GIBaGFYWLPBJzZXCVTlF"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "That! Feels Good!",
-        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Freak Me Now",
-      "url": "https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "Live You Down",
-        "url": "https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ"
-      },
-      "artists": [
-        {
-          "name": "Svidden",
-          "url": "https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG"
-        }
-      ],
-      "duration_ms": 181681,
-      "name": "Live You Down",
-      "url": "https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "Rock My Body",
-        "url": "https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "Rock My Body",
-      "url": "https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/1cyFz7pTFHPXmQ98S5Ztfe"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 198694,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/2wCluPW0uFC8RwYPzzwh8u"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "A Little Bit In Love",
-        "url": "https://open.spotify.com/album/6p43OI1omeOD1GXdiBSzOI"
-      },
-      "artists": [
-        {
-          "name": "Sarah Close",
-          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "A Little Bit In Love",
-      "url": "https://open.spotify.com/track/6oIWFTVoePZZOsejBKsyFv"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "Push It Down",
-        "url": "https://open.spotify.com/album/05lq41261H9CLH9viIgTUG"
-      },
-      "artists": [
-        {
-          "name": "L Devine",
-          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
-        }
-      ],
-      "duration_ms": 177494,
-      "name": "Push It Down",
-      "url": "https://open.spotify.com/track/77IcomUbuyMqn52R5CbhrM"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "american jesus",
-        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 168899,
-      "name": "american jesus",
-      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
-    },
-    {
-      "added_at": "2023-04-28 07:21:10",
-      "album": {
-        "name": "Make It Easy",
-        "url": "https://open.spotify.com/album/41m6q7nVnj1L9mV6u9qWCx"
-      },
-      "artists": [
-        {
-          "name": "Ben Earle",
-          "url": "https://open.spotify.com/artist/2LCvxuOGpjKqohuWOKIdnY"
-        },
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Make It Easy",
-      "url": "https://open.spotify.com/track/3PMt4Nm3TuJtqSIm7Y0JHa"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 192961,
-      "name": "Bruises Off The Peach",
-      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/2nUXTxdO08ZSDANHi4cNS0"
-      },
-      "artists": [
-        {
-          "name": "NADINE",
-          "url": "https://open.spotify.com/artist/6CEOuTo05m32akhKybOgid"
-        }
-      ],
-      "duration_ms": 180850,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/7jrhwjyEHJQReMUtQOHodA"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "All We Got Is War",
-        "url": "https://open.spotify.com/album/6Q14bhFV8tFCYknptH4SWX"
-      },
-      "artists": [
-        {
-          "name": "True Tides",
-          "url": "https://open.spotify.com/artist/6VeSUOPtZFMDtNte8IuO9C"
-        }
-      ],
-      "duration_ms": 190917,
-      "name": "All We Got Is War",
-      "url": "https://open.spotify.com/track/73KQjIjBCgBRxlCZiT52J1"
-    },
-    {
-      "added_at": "2023-04-28 07:15:05",
-      "album": {
-        "name": "Glad U Came",
-        "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "Glad U Came",
-      "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
+      "duration_ms": 166560,
+      "name": "Air - YouNotUs Remix",
+      "url": "https://open.spotify.com/track/4enrb2gujSq90c2lmE6spF"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

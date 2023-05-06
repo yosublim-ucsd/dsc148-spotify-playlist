@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: The War and Treaty
 
-294 songs - 18 hr 35 min
+296 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Border](https://open.spotify.com/track/4rGnfA4SP3xkvdk6cxqwWl) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:55 | 2021-12-17 | 2022-04-16 |
 | [Born Of A Woman](https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 | 2022-01-28 | 2022-08-11 |
 | [Born Of A Woman \(feat\. Shaneeka Simon\)](https://open.spotify.com/track/45I9HtSVeOQeVN49QgEFel) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Born Of A Woman \(feat\. Shaneeka Simon\)](https://open.spotify.com/album/7wn9mneNNdYCmqQHKDkMds) | 3:47 | 2021-12-17 | 2022-07-29 |
+| [Bring Me Back Home Again](https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Bring Me Back Home Again](https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe) | 3:43 | 2023-05-05 |  |
 | [Broke My Own](https://open.spotify.com/track/16nsWHpv1wsZCcNAYcLDM2) | [Shannon Shaw](https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq) | [Broke My Own](https://open.spotify.com/album/5RCXx9Z33F9TDs9rKbEL0w) | 2:59 | 2021-12-17 | 2023-04-09 |
 | [Bubba Jones](https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Smoke From The Chimney](https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1) | 4:26 | 2022-01-28 | 2023-03-11 |
 | [Bubba Jones](https://open.spotify.com/track/6jHTm5o5LTTM3Csm7G5EZH) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bubba Jones](https://open.spotify.com/album/6wzc5EDPw8DHqJln0f1BSJ) | 4:26 | 2021-12-17 | 2022-07-29 |
@@ -143,7 +144,7 @@
 | [It Feels Alright](https://open.spotify.com/track/0UDe6J6OfgOnHeQToYLRmo) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:28 | 2022-05-20 |  |
 | [It Feels Alright](https://open.spotify.com/track/6QbSBJjorahQM08lPpFfkW) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [It Feels Alright](https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ) | 3:28 | 2022-05-20 | 2022-07-09 |
 | [Jet Black Cadillac](https://open.spotify.com/track/5W0GIUYxM787mpfkl84hSF) | [Mike Clark & the Sugar Sounds](https://open.spotify.com/artist/01RocYhqTJzt3gzdpVM2MJ) | [Moon Rock](https://open.spotify.com/album/4CBsnUSUmxwCH1NmtEyGUH) | 5:14 | 2022-03-11 |  |
-| [Keep Off of You](https://open.spotify.com/track/3oNXDpo7ziScRfWi8d9O37) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Keep Off of You](https://open.spotify.com/album/3f44rAp9r0CsGQrHsrYmxb) | 3:04 | 2023-03-10 |  |
+| [Keep Off of You](https://open.spotify.com/track/3oNXDpo7ziScRfWi8d9O37) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Keep Off of You](https://open.spotify.com/album/3f44rAp9r0CsGQrHsrYmxb) | 3:04 | 2023-03-10 | 2023-05-06 |
 | [King Bee](https://open.spotify.com/track/6efvpN45pRby2dC0ayfSU7) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [I Hear You Knocking](https://open.spotify.com/album/7oo5eTB3LyjpbPzxINbvBK) | 3:50 | 2021-12-17 | 2022-06-11 |
 | [Knew The Day Was Comin'](https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:10 | 2022-07-26 | 2022-09-26 |
 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 | 2022-06-24 |  |
@@ -176,6 +177,7 @@
 | [Mistakes](https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 4:08 | 2021-12-17 |  |
 | [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 | 2022-10-21 |  |
 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 | 2022-07-26 |  |
+| [Mountain Road](https://open.spotify.com/track/7o2FUCaN5BkqzGrM7kajEo) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Mountain Road](https://open.spotify.com/album/7c1Es2Z6SAV6LwwZc2knQp) | 3:13 | 2023-05-05 |  |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2021-12-17 | 2023-02-25 |
 | [My Kentucky](https://open.spotify.com/track/353KDYzMxofC6davOZ1oH6) | [Kamara Thomas & the Ghost Gamblers](https://open.spotify.com/artist/7c4SDBbtEW9iX2MPBGhn4q) | [Earth Hero](https://open.spotify.com/album/6u5saPFGrin6Q16nQ5CvV3) | 7:01 | 2021-12-17 | 2022-06-11 |
 | [Mystery](https://open.spotify.com/track/0YsLm3mpqjELlj7N8iRoO4) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 3:25 | 2022-05-27 |  |
@@ -262,7 +264,7 @@
 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-03-11 | 2022-07-29 |
 | [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 | 2021-12-17 |  |
 | [The Last Time](https://open.spotify.com/track/7MTUA6kke0Q1p86I2XQL34) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 3:35 | 2022-09-16 | 2022-10-08 |
-| [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2021-12-17 |  |
+| [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2021-12-17 | 2023-05-06 |
 | [The Map](https://open.spotify.com/track/7lBcer2WtpdnPpHVcVpROp) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [The Map](https://open.spotify.com/album/2qabf6Z1Q1Bt1nXKoTunWd) | 3:35 | 2021-12-17 | 2023-03-11 |
 | [The Preacher Man](https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:48 | 2022-09-23 | 2022-10-22 |
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |

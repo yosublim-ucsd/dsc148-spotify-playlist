@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "My Greedy Heart",
+        "url": "https://open.spotify.com/album/6Z8Q1X69OyIPYxABYQ78Zk"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199828,
+      "name": "My Greedy Heart",
+      "url": "https://open.spotify.com/track/53qpv8w99DU2A6SDOtBcmz"
+    },
+    {
+      "album": {
         "name": "Noonday Dream",
         "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
       },

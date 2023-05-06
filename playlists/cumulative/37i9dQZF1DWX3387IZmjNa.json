@@ -373,6 +373,28 @@
     },
     {
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/0fV1mTqgvlLDAcjoXuyOHS"
+      },
+      "artists": [
+        {
+          "name": "Highway",
+          "url": "https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291994,
+      "name": "All U Needed (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4BpIvMO0sf7J1Vh16bQihy"
+    },
+    {
+      "album": {
         "name": "Already Know",
         "url": "https://open.spotify.com/album/4WzqoNvuz17jbj8dSg4quA"
       },
@@ -2773,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "SHITUMSS",
+        "url": "https://open.spotify.com/album/2ZGsgclVau99YKe4WdtR67"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135625,
+      "name": "JAGGED EDGE",
+      "url": "https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo"
+    },
+    {
+      "album": {
         "name": "JUST FRIENDS ?",
         "url": "https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax"
       },
@@ -4558,7 +4598,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 163282,
       "name": "Reservation",
       "url": "https://open.spotify.com/track/2XT3v6Ji3xSFYTPBpwGES4"
@@ -4650,6 +4690,28 @@
       "duration_ms": 150329,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/6CcS9wHavuQD6KjqsrMvdr"
+    },
+    {
+      "album": {
+        "name": "GEEZYWORLD 2",
+        "url": "https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Saturday (feat. Kalan.FrFr)",
+      "url": "https://open.spotify.com/track/5uQybrSaOXUjaBZCI89KQE"
     },
     {
       "album": {
@@ -4774,6 +4836,28 @@
       "duration_ms": 221773,
       "name": "Settled (feat. Russ)",
       "url": "https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk"
+    },
+    {
+      "album": {
+        "name": "BABYST5XNE GORILLAS 2",
+        "url": "https://open.spotify.com/album/5NHBNP3hs6AP1yUVlc4VZv"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Shake That Shit (feat. Kalan.FrFr)",
+      "url": "https://open.spotify.com/track/3gP9gEf80R4j2mDjAsv6y5"
     },
     {
       "album": {
@@ -5020,7 +5104,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 144000,
       "name": "Spicy Tuna Yellow Tail Freestyle",
       "url": "https://open.spotify.com/track/0yvxyLOcl9q2cnOj35MtLO"
@@ -5086,7 +5170,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 178059,
       "name": "Stargaze",
       "url": "https://open.spotify.com/track/6HuodZbqN0qUY1LhrKSzK5"
@@ -5526,7 +5610,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 203687,
       "name": "Toxic Ish",
       "url": "https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L"
@@ -5706,7 +5790,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 165281,
       "name": "Up 2 U",
       "url": "https://open.spotify.com/track/3qNSaMXqJxfcvHDw4aSZ0Y"
@@ -5991,6 +6075,28 @@
     },
     {
       "album": {
+        "name": "What It Is (Block Boy) (with Kodak Black)",
+        "url": "https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223343,
+      "name": "What It Is (Block Boy) (with Kodak Black)",
+      "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
+    },
+    {
+      "album": {
         "name": "TANTRA",
         "url": "https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK"
       },
@@ -6173,6 +6279,24 @@
     },
     {
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2OlZc3EjX8Yg3G2voQc6nd"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165084,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/7vq5N3HREotT71RnQoFTB8"
+    },
+    {
+      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/6DE3o3k2KbubhYaBsmf5as"
       },
@@ -6334,7 +6458,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 155759,
       "name": "Writing My Wrongs",
       "url": "https://open.spotify.com/track/1yXCWJQfYF8ff7XcUzwcCy"

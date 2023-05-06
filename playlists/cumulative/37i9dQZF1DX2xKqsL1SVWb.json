@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Folk tan dulce como la miel. Kevin Kaarl en portada.",
+  "description": "Folk tan dulce como la miel. Silvana Estrada en portada.",
   "name": "madera y miel",
   "tracks": [
+    {
+      "album": {
+        "name": "A Simple Vista",
+        "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
+      },
+      "artists": [
+        {
+          "name": "Tyna Ros",
+          "url": "https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT"
+        },
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207784,
+      "name": "A Simple Vista",
+      "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
+    },
     {
       "album": {
         "name": "A Ver Si As\u00ed Te Olvido",
@@ -557,6 +579,24 @@
     },
     {
       "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "De Verdad",
+      "url": "https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky"
+    },
+    {
+      "album": {
         "name": "Dejar Ir",
         "url": "https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA"
       },
@@ -728,6 +768,28 @@
       "duration_ms": 167230,
       "name": "Enamorado de tu sonrisa",
       "url": "https://open.spotify.com/track/3pTcdaWpEZ5FqAaHoNAjQD"
+    },
+    {
+      "album": {
+        "name": "Es Tan Bonita",
+        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159333,
+      "name": "Es Tan Bonita",
+      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
     },
     {
       "album": {
@@ -1096,7 +1158,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 228800,
       "name": "L\u00e1grimas De Miel",
       "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
@@ -1136,6 +1198,28 @@
       "duration_ms": 226746,
       "name": "Marchita",
       "url": "https://open.spotify.com/track/4ssiDVjy91Tu01d10B3HKJ"
+    },
+    {
+      "album": {
+        "name": "Me Cuesta",
+        "url": "https://open.spotify.com/album/0lt18zAo6dCHIhpCJtkbtD"
+      },
+      "artists": [
+        {
+          "name": "Centeno",
+          "url": "https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb"
+        },
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169396,
+      "name": "Me Cuesta",
+      "url": "https://open.spotify.com/track/5z4eAwBpfz766pUseo5JP9"
     },
     {
       "album": {
@@ -1399,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164086,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT"
+    },
+    {
+      "album": {
         "name": "Prom\u00e9teme (Versi\u00f3n Alterna)",
         "url": "https://open.spotify.com/album/0GHkCkGoyOgbPX9nKnbOAU"
       },
@@ -1594,7 +1696,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 211382,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3"
@@ -1713,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "TE EXTRA\u00d1O Y LO SIENTO...",
+        "url": "https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229060,
+      "name": "TE EXTRA\u00d1O Y LO SIENTO...",
+      "url": "https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK"
+    },
+    {
+      "album": {
         "name": "Te Guardo",
         "url": "https://open.spotify.com/album/1as7SecZgCXjJQL92pZBmA"
       },
@@ -1728,6 +1848,28 @@
       "duration_ms": 202360,
       "name": "Te Guardo",
       "url": "https://open.spotify.com/track/6PoJEvRLkC2sD3cp7yGNHq"
+    },
+    {
+      "album": {
+        "name": "Te hab\u00eda contao",
+        "url": "https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        },
+        {
+          "name": "Poror\u00f3",
+          "url": "https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218657,
+      "name": "Te hab\u00eda contao",
+      "url": "https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu"
     },
     {
       "album": {
@@ -1843,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220365,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+    },
+    {
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1930,6 +2090,24 @@
       "duration_ms": 173103,
       "name": "Vamos a Brillar",
       "url": "https://open.spotify.com/track/08kLpvNFvETsik4XN0QLwv"
+    },
+    {
+      "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/769hmq1tKBE2Tu950P9enr"
+      },
+      "artists": [
+        {
+          "name": "Tuzeint",
+          "url": "https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161661,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm"
     },
     {
       "album": {
@@ -2024,7 +2202,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
@@ -2078,7 +2256,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 259200,
       "name": "\u00bfQu\u00e9 pas\u00f3?",
       "url": "https://open.spotify.com/track/1VgWAGoBepDqO0elgJ7LHL"

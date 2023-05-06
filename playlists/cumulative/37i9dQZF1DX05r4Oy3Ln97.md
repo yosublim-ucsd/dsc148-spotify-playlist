@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-237 songs - 12 hr 6 min
+238 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Drunk Talk](https://open.spotify.com/track/6RsD5yjmpKekn3nBsv8ZyO) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [Drunk Talk](https://open.spotify.com/album/70LL7AKZhpdb1lhAY8QGvG) | 3:08 | 2021-10-29 | 2022-02-15 |
 | [Duvida](https://open.spotify.com/track/3KhRsuQ7tkEOkjhLeVwz4u) | [Saint Tropics](https://open.spotify.com/artist/7mwILxFemPgHuGJ1Jertc8) | [Duvida](https://open.spotify.com/album/0cmr2Hbr80WkzdcZt3NBeZ) | 2:17 | 2021-10-29 | 2022-07-16 |
 | [Echoes](https://open.spotify.com/track/6gSjsxT1iv3Rof2iQNYv5m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Echoes](https://open.spotify.com/album/4NPyGmVSGAqow9SoaQssXF) | 2:24 | 2023-01-11 | 2023-01-25 |
-| [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-04-28 |  |
+| [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-04-28 | 2023-05-06 |
 | [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-04-28 |  |
 | [Ever After](https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Confessions](https://open.spotify.com/album/5vvby3mFBAzt10wi3YvFyQ) | 3:47 | 2021-10-29 | 2022-01-17 |
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-04-01 | 2023-01-28 |
@@ -192,6 +192,7 @@
 | [Somebody Like Me](https://open.spotify.com/track/0sOsaRlnEHvmgue1Nzh3m6) | [Paris Blu](https://open.spotify.com/artist/3mYipWrjv0ksO0s9R5Zdfy), [indiigo](https://open.spotify.com/artist/7KFYyf2adbm4ElZX0ZWw4O) | [Somebody Like Me](https://open.spotify.com/album/0ywon9g2pOqEXGxKk82W1h) | 2:12 | 2021-10-29 | 2022-04-21 |
 | [Somebody to Love](https://open.spotify.com/track/4tL8PWUGzqtUbPROYVcAqg) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Nokyo](https://open.spotify.com/artist/6TybXZyaM3v3cepnTzgAWM) | [Somebody to Love](https://open.spotify.com/album/2lPQ5sMGnQlZn4I7Ncz77t) | 2:03 | 2021-10-29 | 2022-03-22 |
 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 | 2023-03-31 |  |
+| [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 | 2023-05-05 |  |
 | [Still \(I Got Summer On My Mind\) \- FORTELLA Remix](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW) | [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Still \(I Got Summer On My Mind\) \[FORTELLA Remix\]](https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob) | 3:13 | 2022-07-08 |  |
 | [Still Love You](https://open.spotify.com/track/057SolKingTw6AEgBL7q9r) | [JAS1X](https://open.spotify.com/artist/1gE67JBAV50qI94fX4nz3F), [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Still Love You](https://open.spotify.com/album/5Q80IrelKfhPp0z63gXfV0) | 3:15 | 2021-10-29 | 2022-11-25 |
 | [Submarine](https://open.spotify.com/track/6cBRrVuaqVQ8WW6VDUHH9l) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Submarine](https://open.spotify.com/album/6ybEZk0qcfHki7HAcqUtcw) | 3:23 | 2023-03-13 |  |

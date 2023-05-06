@@ -2,7 +2,7 @@
 
 ### [No Borders](https://open.spotify.com/playlist/37i9dQZF1DWTZ3p56HpBDG)
 
-> Best of South Asian diaspora\. Cover: Riz Ahmed
+> Best of South Asian diaspora\. Cover: Joy Crookes
 
 169 songs - 8 hr 58 min
 

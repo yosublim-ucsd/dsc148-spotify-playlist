@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 286449,
+  "num_followers": 286649,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2E0NTk1NTVhYjIxNjUxZDMzMDI3NmM0MzJmODA0ZmM5NDNhZjdh",
+  "snapshot_id": "MCw4OWZlOGEyN2ZiMWI1YTk2N2MwYzMxZWVlZTNkNjMzODQyZWUwNDYy",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "PRAISES",
-        "url": "https://open.spotify.com/album/3TXBs3L4xhXT17QcbA23Sz"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 168011,
-      "name": "PRAISES",
-      "url": "https://open.spotify.com/track/1UH488ukPL4KYvjTMa1cYr"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Things That I'm Afraid Of",
         "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 210066,
       "name": "For All My Life",
       "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 168011,
+      "name": "PRAISES",
+      "url": "https://open.spotify.com/track/68KVmSqAOYem04YsC37U7B"
     },
     {
       "added_at": "2023-03-10 08:53:36",

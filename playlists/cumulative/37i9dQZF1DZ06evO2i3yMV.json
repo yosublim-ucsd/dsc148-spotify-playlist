@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 160000,
       "name": "Breath Strokes",
       "url": "https://open.spotify.com/track/2AK7aIPe5b1LtIZ7YMyUJP"
@@ -202,6 +202,24 @@
       "duration_ms": 139426,
       "name": "Dream Chorus",
       "url": "https://open.spotify.com/track/6kEZ1FCPDkCeaDeORgMzzZ"
+    },
+    {
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191304,
+      "name": "Dusty Stars",
+      "url": "https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw"
     },
     {
       "album": {

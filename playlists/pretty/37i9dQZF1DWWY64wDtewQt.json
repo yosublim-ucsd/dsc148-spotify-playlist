@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 5235469,
+  "num_followers": 5246658,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWRlZWEyODdlYWQ4OGRlMTA1MjFlNzkyNGY5MjgwMTE5YWNlNzg4",
+  "snapshot_id": "MCw5OTkyMTZhOTRlODY3ZTRjM2I1NmNlOGRiMTk4NDY1MGQ3NWJiZmIx",
   "tracks": [
     {
       "added_at": "2022-05-20 10:12:52",
@@ -337,6 +337,34 @@
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "Life in Rio",
+        "url": "https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        },
+        {
+          "name": "TOLCHONOV",
+          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+        }
+      ],
+      "duration_ms": 94418,
+      "name": "Life in Rio",
+      "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
+    },
+    {
       "added_at": "2023-02-04 02:41:25",
       "album": {
         "name": "Brazilian Phonk Mano",
@@ -409,6 +437,22 @@
       "url": "https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f"
     },
     {
+      "added_at": "2023-04-26 16:15:07",
+      "album": {
+        "name": "Sea Of Problems",
+        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
+      },
+      "artists": [
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "duration_ms": 110624,
+      "name": "Sea Of Problems",
+      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+    },
+    {
       "added_at": "2023-02-10 16:54:18",
       "album": {
         "name": "COWBELL GOTH",
@@ -423,6 +467,30 @@
       "duration_ms": 141040,
       "name": "COWBELL GOTH",
       "url": "https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs"
+    },
+    {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "METAMORPHOSIS 3",
+        "url": "https://open.spotify.com/album/6mMcdfZJVwHQfVLZocxKfs"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        },
+        {
+          "name": "zxcursed",
+          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 128015,
+      "name": "METAMORPHOSIS 3",
+      "url": "https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn"
     },
     {
       "added_at": "2023-02-10 16:54:18",
@@ -941,38 +1009,6 @@
       "url": "https://open.spotify.com/track/1c98tMv6PKPOzOmixNEdUM"
     },
     {
-      "added_at": "2023-04-26 16:15:07",
-      "album": {
-        "name": "Sea Of Problems",
-        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
-      },
-      "artists": [
-        {
-          "name": "glichery",
-          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
-        }
-      ],
-      "duration_ms": 110624,
-      "name": "Sea Of Problems",
-      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
-    },
-    {
-      "added_at": "2023-02-24 18:04:36",
-      "album": {
-        "name": "Stressed Out",
-        "url": "https://open.spotify.com/album/2Zak6JFp9yPWb38nrXxGm0"
-      },
-      "artists": [
-        {
-          "name": "SCXLETTE",
-          "url": "https://open.spotify.com/artist/1xQtxq4LgCIjsazgoLSWOE"
-        }
-      ],
-      "duration_ms": 103944,
-      "name": "Stressed Out",
-      "url": "https://open.spotify.com/track/4xtgEsu86GVlUmWj8bgn90"
-    },
-    {
       "added_at": "2022-12-09 08:15:38",
       "album": {
         "name": "Himars",
@@ -1039,6 +1075,26 @@
       "duration_ms": 136398,
       "name": "VUK VUK",
       "url": "https://open.spotify.com/track/50a8i9ASSSsh8OLUsMu6uL"
+    },
+    {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "LILITH",
+        "url": "https://open.spotify.com/album/4MzIRT1hENzRVK7GxUIHTZ"
+      },
+      "artists": [
+        {
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        },
+        {
+          "name": "LXST GARDEN",
+          "url": "https://open.spotify.com/artist/2v76nVxaOQu2pbOEG3MzvN"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "LILITH",
+      "url": "https://open.spotify.com/track/3rX2jtf7bD7QB5EDrOVUl5"
     },
     {
       "added_at": "2023-04-26 16:15:07",
@@ -1121,6 +1177,22 @@
       "url": "https://open.spotify.com/track/2eLIhfMm9cO2zM0TGcBmNp"
     },
     {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "COLLAPSE",
+        "url": "https://open.spotify.com/album/0wf0691LfTzCCDHc5JR2j9"
+      },
+      "artists": [
+        {
+          "name": "SHADXWBXRN",
+          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
+        }
+      ],
+      "duration_ms": 111219,
+      "name": "COLLAPSE",
+      "url": "https://open.spotify.com/track/7fb63zBu6Opf73nidHkBjm"
+    },
+    {
       "added_at": "2023-02-10 16:54:18",
       "album": {
         "name": "MOZART PHONK",
@@ -1201,38 +1273,6 @@
       "url": "https://open.spotify.com/track/2DjfjCE8rJU7FLg5pg06hY"
     },
     {
-      "added_at": "2023-02-24 18:04:36",
-      "album": {
-        "name": "Sky Adventure",
-        "url": "https://open.spotify.com/album/60GM5fraoivsXKewH98Mwx"
-      },
-      "artists": [
-        {
-          "name": "DIGITAL REY",
-          "url": "https://open.spotify.com/artist/0anUkBIQnpCcSiTa7vbOaS"
-        }
-      ],
-      "duration_ms": 159579,
-      "name": "SKY ADVENTURE",
-      "url": "https://open.spotify.com/track/4Zx1UD86PmcdzGCztafRry"
-    },
-    {
-      "added_at": "2022-12-23 06:25:48",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/1HFaXg8WdveqgHIZXEK4Mz"
-      },
-      "artists": [
-        {
-          "name": "Sabuze",
-          "url": "https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag"
-        }
-      ],
-      "duration_ms": 104956,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/2EIzEw3TdQ30XDSmD3R9bT"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "INCOMING",
@@ -1265,6 +1305,22 @@
       "url": "https://open.spotify.com/track/4hClBQVJ6nxafNtkDZFqJH"
     },
     {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "ECHO OF TERROR",
+        "url": "https://open.spotify.com/album/4EIlEJkbTHCaCHLIiDiXUY"
+      },
+      "artists": [
+        {
+          "name": "requi3m",
+          "url": "https://open.spotify.com/artist/1dzhL0wTs2Skw8ZI6IuiMl"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "ECHO OF TERROR",
+      "url": "https://open.spotify.com/track/6CN5O0edKbnXUJCNDIjZJy"
+    },
+    {
       "added_at": "2022-12-23 06:25:48",
       "album": {
         "name": "TOTALITARIANISM II",
@@ -1279,22 +1335,6 @@
       "duration_ms": 143865,
       "name": "TOTALITARIANISM II",
       "url": "https://open.spotify.com/track/5Z8h5Uh2f7KI35PT88fUuw"
-    },
-    {
-      "added_at": "2023-04-11 14:50:01",
-      "album": {
-        "name": "REQUIEM",
-        "url": "https://open.spotify.com/album/21Y2KDAvmbyaENzKIeO2Lj"
-      },
-      "artists": [
-        {
-          "name": "ROMANTICA",
-          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
-        }
-      ],
-      "duration_ms": 101538,
-      "name": "REQUIEM",
-      "url": "https://open.spotify.com/track/0KEEzyspcgns3JEdJboguD"
     },
     {
       "added_at": "2022-02-04 20:08:15",
@@ -1313,22 +1353,6 @@
       "url": "https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI"
     },
     {
-      "added_at": "2023-04-26 16:15:07",
-      "album": {
-        "name": "PATHOS",
-        "url": "https://open.spotify.com/album/4z5AzZ6KeYggcnXAmfUtfk"
-      },
-      "artists": [
-        {
-          "name": "ONIMXRU",
-          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
-        }
-      ],
-      "duration_ms": 112322,
-      "name": "PATHOS",
-      "url": "https://open.spotify.com/track/2ecoVriOamaSEf5KwlReFM"
-    },
-    {
       "added_at": "2022-11-18 07:52:46",
       "album": {
         "name": "Night Ride",
@@ -1343,6 +1367,22 @@
       "duration_ms": 187750,
       "name": "Night Ride",
       "url": "https://open.spotify.com/track/1yVcviVfd5qtBab5Vzynoq"
+    },
+    {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi"
+      },
+      "artists": [
+        {
+          "name": "ROMANTICA",
+          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "ERROR",
+      "url": "https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ"
     },
     {
       "added_at": "2023-04-26 16:15:07",
@@ -1363,6 +1403,26 @@
       "duration_ms": 154489,
       "name": "coqueta",
       "url": "https://open.spotify.com/track/6zX9Jhq8lB6DRiMIzNTxet"
+    },
+    {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "Beat das Trevas [Slowed + Reverb]",
+        "url": "https://open.spotify.com/album/75fDow9Ssrsi6sQQqzjJuu"
+      },
+      "artists": [
+        {
+          "name": "DJ MENOR DA ZN",
+          "url": "https://open.spotify.com/artist/7GwhJndjWpGB4APQOWpD22"
+        },
+        {
+          "name": "MC MTOODIO",
+          "url": "https://open.spotify.com/artist/7JM0ahYY9xjYeKVUf3Rauf"
+        }
+      ],
+      "duration_ms": 132794,
+      "name": "Beat das Trevas",
+      "url": "https://open.spotify.com/track/3bzkdI9iT7ygXbHMzl4rkB"
     },
     {
       "added_at": "2023-02-04 02:41:25",
@@ -1399,6 +1459,30 @@
       "duration_ms": 135535,
       "name": "BULLET",
       "url": "https://open.spotify.com/track/4bMLRF2dnTS0mPJTKp5vo7"
+    },
+    {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "DEUS DA GUERRA",
+        "url": "https://open.spotify.com/album/45BGPCwmSWv26dE1uvDB4s"
+      },
+      "artists": [
+        {
+          "name": "$pidxrs?808",
+          "url": "https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO"
+        },
+        {
+          "name": "LEGIXN",
+          "url": "https://open.spotify.com/artist/0Z7blIFif9IINMXYS3dTlG"
+        },
+        {
+          "name": "FXRCE",
+          "url": "https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA"
+        }
+      ],
+      "duration_ms": 106762,
+      "name": "DEUS DA GUERRA",
+      "url": "https://open.spotify.com/track/7E7YqRQZiASXIENrGYlpSU"
     },
     {
       "added_at": "2022-11-18 07:52:46",
@@ -1439,26 +1523,6 @@
       "duration_ms": 145500,
       "name": "Poltergeist",
       "url": "https://open.spotify.com/track/61gGD55RS6Rje0t4GdaoAg"
-    },
-    {
-      "added_at": "2023-01-06 05:01:00",
-      "album": {
-        "name": "\u00daltima Oportunidad",
-        "url": "https://open.spotify.com/album/47HIa7RkALEnFUGwixQcZz"
-      },
-      "artists": [
-        {
-          "name": "2upset2die",
-          "url": "https://open.spotify.com/artist/2FKMAqbGxL3ovpvHhV0JSs"
-        },
-        {
-          "name": "KEMPERMANE",
-          "url": "https://open.spotify.com/artist/4WxFcgkVJwMKBZEWUpdTcI"
-        }
-      ],
-      "duration_ms": 128118,
-      "name": "\u00daltima Oportunidad",
-      "url": "https://open.spotify.com/track/7pGYJmXcbTUvi44NfWTHNW"
     },
     {
       "added_at": "2022-09-02 08:01:31",
@@ -1539,22 +1603,6 @@
       "duration_ms": 146086,
       "name": "Komarovo (DVRST Phonk Remix)",
       "url": "https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB"
-    },
-    {
-      "added_at": "2023-03-31 15:56:27",
-      "album": {
-        "name": "Puncher",
-        "url": "https://open.spotify.com/album/0eIvnyjPYzjCAV5dBuAoQW"
-      },
-      "artists": [
-        {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
-        }
-      ],
-      "duration_ms": 122653,
-      "name": "Puncher",
-      "url": "https://open.spotify.com/track/54NEDYt9RTc7PCLm4AUftc"
     },
     {
       "added_at": "2021-05-12 14:02:59",
@@ -1669,24 +1717,20 @@
       "url": "https://open.spotify.com/track/4aYamw19Hloc6hQlJwWM1y"
     },
     {
-      "added_at": "2023-03-31 15:56:27",
+      "added_at": "2023-05-05 15:57:14",
       "album": {
-        "name": "MAD!",
-        "url": "https://open.spotify.com/album/4ANbJ89NmCeIMbBr5sVZe6"
+        "name": "NEBLINA",
+        "url": "https://open.spotify.com/album/5NGH4phWsvWF7DU0KKK76T"
       },
       "artists": [
         {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "FXRR",
-          "url": "https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i"
+          "name": "Dragon Boys",
+          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
         }
       ],
-      "duration_ms": 118330,
-      "name": "MAD!",
-      "url": "https://open.spotify.com/track/6kYAPKJjFEbKNze2uz11js"
+      "duration_ms": 122880,
+      "name": "NEBLINA",
+      "url": "https://open.spotify.com/track/26U5IBL7Q8mhBe7gFZpr1w"
     },
     {
       "added_at": "2022-08-26 10:49:32",
@@ -1735,22 +1779,6 @@
       "duration_ms": 144979,
       "name": "Keraunos",
       "url": "https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa"
-    },
-    {
-      "added_at": "2022-06-03 06:37:00",
-      "album": {
-        "name": "DAMAGE",
-        "url": "https://open.spotify.com/album/3ZBmbk49nEavSEHQ1ZZyv7"
-      },
-      "artists": [
-        {
-          "name": "SHADXWBXRN",
-          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "DAMAGE",
-      "url": "https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG"
     },
     {
       "added_at": "2023-03-31 15:56:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Rodriguez Jr., Liset Alea
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,370 likes - 80 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,545 likes - 80 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [Tavira Silky Sky](https://open.spotify.com/track/3EDipG1f4V8Egf4UkZHsas) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Circulate \- EP](https://open.spotify.com/album/5NCmLBjMJMkNQX7PMgRP0t) | 5:24 |
 | 78 | [Doria \- Radio\-Edit](https://open.spotify.com/track/0X61CIDo0heCUxDO2FonCz) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Doria \(Radio\-Edit\)](https://open.spotify.com/album/5SNAOa0sUQm45ttXvCr66G) | 4:32 |
 | 79 | [Waiting For César](https://open.spotify.com/track/6jQqG3BsRAKKcwDwkBCdQk) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Waiting For César](https://open.spotify.com/album/7JL1uqd6ohLCH7vnMbD6ex) | 6:36 |
-| 80 | [We Will Never Give Up](https://open.spotify.com/track/5NzeHYHjZ73UznCMX0bDNy) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 5](https://open.spotify.com/album/6cCOnTNuvrLjMY0bq4X6YL) | 6:23 |
+| 80 | [We Will Never Give Up](https://open.spotify.com/track/56m2wIdvB6tNqLxWIM6kRC) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 5](https://open.spotify.com/album/5AnkDZIPKBP37QFntmAfmq) | 6:23 |
 
-Snapshot ID: `MCwwZDYzZGU0Yzc4YzRiNTBlMTI0ZWJmODYwYzUwYTMxNzJkMGFiYmJk`
+Snapshot ID: `MCwxNTRmYTI5MTU0ZGVkZmE0Y2UyZTg5YmRmM2JhMjgzMzgzN2E0Y2Nh`

@@ -3322,7 +3322,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -9426,7 +9426,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -14156,7 +14156,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -15256,7 +15256,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
@@ -16550,7 +16550,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 171810,
       "name": "Paraadna",
       "url": "https://open.spotify.com/track/5VEZQNZWsZaKb1Y2jB8SWJ"
@@ -17852,7 +17852,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -22926,7 +22926,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 198736,
       "name": "vamos",
       "url": "https://open.spotify.com/track/2XNRbWeHolZn9SqAUnxeO4"
@@ -24218,6 +24218,24 @@
       "duration_ms": 212640,
       "name": "Yo Yo",
       "url": "https://open.spotify.com/track/1iLizzooWyhDEF3OgiVEoS"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6hqjChrzCaQYXu87BYiZbQ"
+      },
+      "artists": [
+        {
+          "name": "ALIKA",
+          "url": "https://open.spotify.com/artist/0k7PxyzK6aIWSzmC3522c4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183461,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6AlXVRIciu3W84dmqkCbnw"
     },
     {
       "album": {

@@ -2812,7 +2812,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 222400,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh"
@@ -7034,6 +7034,28 @@
       "duration_ms": 251901,
       "name": "To Another World",
       "url": "https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw"
+    },
+    {
+      "album": {
+        "name": "Today Tomorrow Forever (feat. fknsyd)",
+        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155175,
+      "name": "Today Tomorrow Forever (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
     },
     {
       "album": {

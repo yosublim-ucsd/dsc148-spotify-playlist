@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Reflejo",
+        "url": "https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259039,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
+    },
+    {
+      "album": {
         "name": "No Se Lo Cuentes a Nadie",
         "url": "https://open.spotify.com/album/6FZ81NpFnYO5IOGUm8uzGk"
       },
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 269331,
       "name": "Sacrificio y Rock N' Roll",
       "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"

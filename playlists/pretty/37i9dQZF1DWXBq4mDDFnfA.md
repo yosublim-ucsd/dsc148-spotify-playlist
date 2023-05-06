@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,893 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,971 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Schumann: Kinderszenen, Op\. 15 \- Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Schumann: Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/3dtyRuctasvglDB28bijNg) | 3:35 |
+| 1 | [Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Schumann: Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/3dtyRuctasvglDB28bijNg) | 3:35 |
 | 2 | [An Idea](https://open.spotify.com/track/1PINN6x0Riouab3wPSglpp) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Zsófia Boros](https://open.spotify.com/artist/6T9wLNtkKE8Z5GusLK6v9c) | [En Otra Parte](https://open.spotify.com/album/3TRN62RoTGNXKtKEu2JvxW) | 2:38 |
 | 3 | [Bach, JS: Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air \(Arr\. Yang for Guitar\)](https://open.spotify.com/track/7C0LbWtZgDYjmaSuz10AeD) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Bach Concertos](https://open.spotify.com/album/61b2J7MNTyjenILRadtoK0) | 4:03 |
 | 4 | [Rodrigo: Concierto de Aranjuez: II\. Adagio](https://open.spotify.com/track/0k6P9cdEA9K3k0ASde2Kof) | [Joaquín Rodrigo](https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr), [Thibaut García](https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t), [Ben Glassberg](https://open.spotify.com/artist/52P7S7AfcrT8ZmHaTWqXaQ), [Orchestre National Du Capitole De Toulouse](https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa) | [Aranjuez](https://open.spotify.com/album/2K6XjvDKO2HTCDqGZkph9e) | 10:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 39 | [Ronsard \(De Platero y Yo\)](https://open.spotify.com/track/76UK5gKqUosKutmEnBtWeY) | [Castelnuevo\-Tedesco](https://open.spotify.com/artist/4Tl9BcuIraxV7gBAdc7RhA), [Andrés Segovia](https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97) | [Reveries](https://open.spotify.com/album/49x5ATRMfvUVQDyEL9IyQM) | 3:10 |
 | 40 | [24 Studies, Op\. 35, "Exercises": Study No\. 17 in D Major](https://open.spotify.com/track/36RCsOzDM2cPkSL6Gotr16) | [Fernando Sor](https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Sor: Fantasias Nos\. 7, 10, 13 / 24 Studies \(Excerpts\)](https://open.spotify.com/album/7JGXxvuPVAqgRJDQUyKd0R) | 1:44 |
 
-Snapshot ID: `MCwwY2IwZWQyOThmMzY1OTA2YjQ4NTVmNzk2MDg3Zjc0MDdiZTdmYzhi`
+Snapshot ID: `MCw0ZGJhMDZmN2Q1NjI0Mjc0MjBiZjkyN2Q1YTk1M2RhM2Y2ZDBmZmM0`

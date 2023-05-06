@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Dance tracks for a big workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,064 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,517 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 70 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 71 | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/track/7gJynFtygTiif6xdoipmUm) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/album/4tSBBYZHikk7WnaZclkZ0i) | 2:18 |
 | 72 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 |
-| 73 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
-| 74 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 |
-| 75 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 |
+| 73 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 |
+| 74 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
+| 75 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 |
 
-Snapshot ID: `MCxmZGI5ZmQ4NjVlYTg3N2NiYTU1M2Y0MTFlMTY1NzQyZTc5ZWM2ZTgx`
+Snapshot ID: `MCw3YTdlNzAwZmI2ZGNjNmU4NDNhNDY5ZWE2ZjZkYTRlYjczNDg5MzM5`

@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: mersie\. Artwork: Isu Kim.
 
-409 songs - 22 hr 30 min
+410 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [act too nice, be too dumb](https://open.spotify.com/track/6d5Qo1pfi6f2dk3GI0H2ap) | [Sabrina Nicolette](https://open.spotify.com/artist/6DxUkGnJDY3BIubtX1afwj) | [act too nice, be too dumb](https://open.spotify.com/album/05pZcnUnfaI7ZLzSixe17n) | 3:13 | 2021-12-01 | 2022-01-14 |
 | [Adolescence](https://open.spotify.com/track/7kJF6LXAdGFFYIBG0ORnjv) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Adolescence](https://open.spotify.com/album/4GpeNL5ruYdieY9QLK2cTk) | 4:20 | 2022-01-13 | 2023-01-13 |
 | [Alibi](https://open.spotify.com/track/0137H45gM6qEPdZ3XDObo6) | [Shadow Puppet Theatre](https://open.spotify.com/artist/3Sn4O0kPAszlYmxYrguYGU) | [Alibi](https://open.spotify.com/album/5QHEAUkNy3h1VgSZ4ayN0s) | 3:51 | 2022-01-13 | 2022-06-17 |
+| [all my fridays](https://open.spotify.com/track/1TOQwaFSpog2z8Lq5dEVJk) | [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT), [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [all my fridays](https://open.spotify.com/album/7iSgaRcEb0SW11JmmMeNg4) | 3:34 | 2023-05-04 |  |
 | [All Or Nothing](https://open.spotify.com/track/0zOqKu2FY6N6BiNoC91MgY) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [All Or Nothing](https://open.spotify.com/album/6Ois0be5wOtbLrIL3Ik3iO) | 3:35 | 2022-06-16 | 2022-09-23 |
 | [All Our Time](https://open.spotify.com/track/1owDrtFbH0V0X2OfgvDXfQ) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [All Our Time](https://open.spotify.com/album/2916zEO9dVb5kgERS3f7qM) | 5:08 | 2022-01-13 | 2022-07-01 |
 | [All That Matters](https://open.spotify.com/track/4KehwAKQP0Sl31aOmDZ5Hg) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [All That Matters](https://open.spotify.com/album/7im1alWyGUV9lSXxPUFz7r) | 3:57 | 2022-04-28 | 2022-09-23 |

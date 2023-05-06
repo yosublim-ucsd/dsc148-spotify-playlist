@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-250 songs - 13 hr 46 min
+251 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Ghosts](https://open.spotify.com/track/0lh5lqLvhqQyarqtL6rD8h) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Ghosts](https://open.spotify.com/album/4XvlYdkbqmxJj9VpalcyIW) | 2:01 | 2021-11-19 | 2022-02-02 |
 | [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 | 2022-07-14 |  |
 | [Go My Way](https://open.spotify.com/track/7baJMiTsqpoQwPOjM7ZlRE) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4I1tlO8XZZTnydjNrv0m45) | 3:53 | 2022-02-01 | 2022-07-29 |
-| [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 | 2022-09-09 |  |
+| [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 | 2022-09-09 | 2023-05-06 |
 | [Gopher](https://open.spotify.com/track/6RcMHJlUT2QHLdPihLyamW) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Blonde](https://open.spotify.com/album/2eCPjxsY03PGy7ndGDp5Tk) | 2:49 | 2021-11-19 | 2022-02-02 |
 | [Got 'Em \- ZHU Remix](https://open.spotify.com/track/6RAwKM3TxG9USNt3WcKnbC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Pokémon 25: The Blue EP](https://open.spotify.com/album/3N7VGJEuKq6rKQbWcPFWzJ) | 3:54 | 2021-11-19 | 2022-02-02 |
 | [Got Me Like](https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Leisure Season Vol\. 1](https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg) | 2:51 | 2021-11-19 |  |
@@ -238,6 +238,7 @@
 | [Touch](https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [You Do You](https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN) | 2:57 | 2022-02-01 |  |
 | [Town](https://open.spotify.com/track/2uJm2sCTLsEvklcRCXlwu7) | [sebjin](https://open.spotify.com/artist/0uFDrEREG90mVVJYINEuzd) | [Town](https://open.spotify.com/album/2w4Ryrbbl0RocDcBmsDJPC) | 2:31 | 2021-11-19 | 2022-02-02 |
 | [Traffic \- X&G Remix](https://open.spotify.com/track/6uTFvYTIKRFtOCVgO9reAy) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG) | [Traffic \(X&G Remix\)](https://open.spotify.com/album/0qIhYkWGXLAtqQ3lqGCuXB) | 3:57 | 2021-11-19 | 2022-02-02 |
+| [Trailblazer](https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Trailblazer](https://open.spotify.com/album/7AtoANo3rq2VChRB98SPfR) | 5:14 | 2023-05-05 |  |
 | [Trap Anthem](https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Trap Anthem](https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P) | 2:27 | 2021-11-19 | 2022-02-02 |
 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 | 2021-11-19 | 2022-02-02 |
 | [TRIBAL HIT](https://open.spotify.com/track/38baA0WZfWLpm3lyyr3IIs) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD \(GLOBE'S CRAZY\)](https://open.spotify.com/album/1hdGVNBoUMGO2QrsEmjRPd) | 3:09 | 2021-11-19 | 2023-02-02 |

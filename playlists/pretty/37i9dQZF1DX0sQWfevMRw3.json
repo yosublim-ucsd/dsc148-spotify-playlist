@@ -1,12 +1,12 @@
 {
   "description": "ETT GLAS TILL!!",
-  "num_followers": 136544,
+  "num_followers": 136794,
   "original_name": "30 km/h",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTNmY2FiOTFiNjIxOTJjOTZlMzQ5OGViMDkwYWQ0ZWE4ODVhNzAz",
+  "snapshot_id": "MCxmZDk2NTZmZGMyYmVkM2QyZWViODM0NTliODBlOWI5MDhkN2JiM2Qy",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -139,6 +139,22 @@
       "duration_ms": 156000,
       "name": "HAPPIS",
       "url": "https://open.spotify.com/track/44g4gsmitW2Yjv0Sdo9Jrz"
+    },
+    {
+      "added_at": "2023-05-05 09:23:23",
+      "album": {
+        "name": "F\u00c5GEL ROGER",
+        "url": "https://open.spotify.com/album/5DCS1wjcwKCayBwMjfwM8I"
+      },
+      "artists": [
+        {
+          "name": "Laser Inc.",
+          "url": "https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA"
+        }
+      ],
+      "duration_ms": 143586,
+      "name": "F\u00c5GEL ROGER",
+      "url": "https://open.spotify.com/track/4QG41pmr5oM941xDj3vFCy"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Inget stoppar oss nu",
-        "url": "https://open.spotify.com/album/3BsPMNiSdrkkdJFPaEY5lW"
-      },
-      "artists": [
-        {
-          "name": "Jonzon",
-          "url": "https://open.spotify.com/artist/3f0cvh2BMxrJp4Aiirm5jZ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Inget stoppar oss nu",
-      "url": "https://open.spotify.com/track/0GWGeWIZ3ymAjgdcTLLrGy"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "F*CKED UP! (SJUK REMIX!)",
         "url": "https://open.spotify.com/album/7B75RXIeDKmyt2igFSoPpK"
       },
@@ -1847,26 +1847,6 @@
       "duration_ms": 199119,
       "name": "Eva-Lena - Remix",
       "url": "https://open.spotify.com/track/4KNlMLCdp0bqHatWQ5NpHl"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Sprit & bubbel",
-        "url": "https://open.spotify.com/album/6nvTimS6DA1Wq7r3HthFS3"
-      },
-      "artists": [
-        {
-          "name": "Maximus",
-          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
-        },
-        {
-          "name": "Hugge",
-          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Sprit & bubbel",
-      "url": "https://open.spotify.com/track/1g7b4k2ADrqOZFkepFoU6G"
     },
     {
       "added_at": "2023-05-04 22:00:00",

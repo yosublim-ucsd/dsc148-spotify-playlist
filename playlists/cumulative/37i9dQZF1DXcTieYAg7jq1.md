@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: Stacey Ryan
+> Featuring that new vintage\. Cover: Angelina Jordan
 
-310 songs - 18 hr 9 min
+313 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Don't Ask Why](https://open.spotify.com/track/6uBng5HDOCh0Y9fufxmVyN) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Don't Ask Why](https://open.spotify.com/album/2dV6Cph8TmEvU7qApCq5Ze) | 3:15 | 2022-03-04 | 2023-04-01 |
 | [Don't I Make It Look Easy](https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Don't I Make It Look Easy](https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1) | 2:34 | 2022-09-09 | 2023-02-16 |
 | [Don't Lose Sight \(Acoustic\)](https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Don't Lose Sight](https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo) | 6:46 | 2022-05-06 |  |
-| [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 | 2022-04-15 |  |
+| [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 | 2022-04-15 | 2023-05-06 |
 | [dose](https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [dose](https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD) | 3:00 | 2022-04-15 | 2022-11-21 |
 | [downBAD](https://open.spotify.com/track/3bSnDv4C54Z8Fp4rhHs4w0) | [Stop Light Observations](https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ) | [downBAD](https://open.spotify.com/album/0Yb29Jc2wTL7h2S1pKNp13) | 2:54 | 2022-04-15 |  |
 | [Downsize](https://open.spotify.com/track/3SvYs68Wn1Z4U845Cdi0jg) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Final Thoughts](https://open.spotify.com/album/0PHkrjK9UIgFRM186LuR1q) | 3:01 | 2021-12-03 | 2022-07-28 |
@@ -110,7 +110,7 @@
 | [Good Lady](https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H) | 4:25 | 2022-04-22 | 2023-04-01 |
 | [Good Man \(First Love\)](https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Man \(First Love\)](https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ) | 2:40 | 2022-06-24 |  |
 | [Gotta Be Lovin Me](https://open.spotify.com/track/0GN7hYVgkvzVgGs6fO8dj6) | [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Watch The Ton3s \- EP](https://open.spotify.com/album/6YVSAUnKDj3xq7tIjtbadH) | 4:19 | 2021-12-03 | 2022-06-04 |
-| [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 |  |
+| [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 | 2023-05-06 |
 | [Greatest Of All Time](https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m) | 3:39 | 2022-05-20 | 2023-04-01 |
 | [Grow](https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1) | 3:00 | 2021-12-03 | 2022-10-22 |
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2021-12-03 | 2023-01-28 |
@@ -151,7 +151,7 @@
 | [If It's Love](https://open.spotify.com/track/0pPt7BzRUrYLiSdFrjN7QA) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [If It's Love](https://open.spotify.com/album/1KbxCIV9Zq8npEmyV8efqM) | 3:14 | 2021-12-03 | 2022-05-08 |
 | [If It's Love](https://open.spotify.com/track/1aK2wrsldTVOR0C1wMj3sR) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:14 | 2021-12-03 | 2022-10-01 |
 | [If Standing Was Flying](https://open.spotify.com/track/6SG0ueYRAT8rIEqDjX82JH) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [If Standing Was Flying](https://open.spotify.com/album/01G5Yoz4ZnQTNYIlL7DgIV) | 4:09 | 2021-12-03 | 2022-07-29 |
-| [If You Need Me, Don't](https://open.spotify.com/track/7KkMAQjDSxPFH9VY4XL6ow) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [If You Need Me, Don't](https://open.spotify.com/album/78h9nHFcTuXx78rRBUJdVA) | 3:26 | 2022-06-03 |  |
+| [If You Need Me, Don't](https://open.spotify.com/track/7KkMAQjDSxPFH9VY4XL6ow) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [If You Need Me, Don't](https://open.spotify.com/album/78h9nHFcTuXx78rRBUJdVA) | 3:26 | 2022-06-03 | 2023-05-06 |
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 | 2023-02-16 |
 | [In Water](https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [In Water](https://open.spotify.com/album/6oADPnUSjOQjUEl4FffwHU) | 3:47 | 2022-04-22 |  |
 | [It Don't Matter](https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [It Don't Matter](https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj) | 3:33 | 2022-05-06 |  |
@@ -180,6 +180,7 @@
 | [Long Way 'Round](https://open.spotify.com/track/0mmhjGwRqZ5tTVYxF2ewpb) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Long Way 'Round](https://open.spotify.com/album/4uUuLVYP7mwMRvovExURYk) | 4:05 | 2022-03-18 | 2023-02-16 |
 | [Looking Through The Hours](https://open.spotify.com/track/10fIQMKiKrbTswLiwSQSZ8) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [Looking Through The Hours](https://open.spotify.com/album/5K3qB9W5nsVnMXsuqJLZeA) | 3:57 | 2022-05-13 | 2022-07-22 |
 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 | 2021-12-03 | 2022-07-29 |
+| [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 | 2023-05-05 |  |
 | [Love Is A Game](https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-12-03 | 2022-10-01 |
 | [Love Is Love](https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Love Is Love](https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45) | 3:06 | 2021-12-03 | 2023-01-28 |
 | [Love You Better](https://open.spotify.com/track/0WSmvwsulStgy0hKJetRi4) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Love You Better](https://open.spotify.com/album/4gLEInK7qVTUEa4yj2Jou8) | 4:00 | 2023-03-31 |  |
@@ -216,6 +217,7 @@
 | [OUT OF CONTEXT](https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [OUT OF CONTEXT](https://open.spotify.com/album/4SmNIL3Rryj0yJEhPo0Mwd) | 2:42 | 2022-09-09 | 2022-09-24 |
 | [Out of Time](https://open.spotify.com/track/5U18fsaWoMtJHR3pqgOkrt) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Out of Time](https://open.spotify.com/album/2kiWC4fHtpbdu4SpEryLql) | 3:56 | 2021-12-03 | 2022-06-22 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-05-02 |  |
+| [Over the Moon](https://open.spotify.com/track/2GqqgM1zN4kyym6EVciDIn) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Over the Moon](https://open.spotify.com/album/0gbHZgbY0i3emsMmSBoxRb) | 3:16 | 2023-05-05 |  |
 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 | 2022-06-17 |  |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2023-03-04 |
 | [Part Time Lover](https://open.spotify.com/track/5b4dscOsCEGDwXOjsEscj3) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Part Time Lover](https://open.spotify.com/album/1JLQH9Df1Gmxu7hXZtfGLO) | 2:57 | 2022-04-01 |  |
@@ -298,6 +300,7 @@
 | [We're On Our Way Now](https://open.spotify.com/track/3PwJ7f9g2BEmAfyuLfDZlk) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Back the Way We Came: Vol\. 1 \(2011 \- 2021\)](https://open.spotify.com/album/2aq32TQZkWO7wWGTWrINHr) | 4:08 | 2021-12-03 | 2023-01-28 |
 | [We're On Our Way Now](https://open.spotify.com/track/4kQfMBI8uhyyF3kRu9rV4F) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [We're On Our Way Now](https://open.spotify.com/album/7gI1d6gJpgpD0iTDoY6s8b) | 4:08 | 2021-12-03 | 2022-11-13 |
 | [What Are We Fighting For](https://open.spotify.com/track/0QIlomayRGKAibMTvAeY10) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [What Are We Fighting For](https://open.spotify.com/album/1uVxarWbgYOaYjTvtHvsCK) | 4:22 | 2021-12-03 | 2022-06-27 |
+| [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 | 2023-05-05 |  |
 | [What You Don't Do](https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [What You Don't Do](https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF) | 3:40 | 2021-12-03 | 2022-04-21 |
 | [When the Wires Are Down \- Kraak & Smaak Remix](https://open.spotify.com/track/37uZicD5MGyg0YqEi7MNk6) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [When the Wires Are Down \(Kraak & Smaak Remix\)](https://open.spotify.com/album/1SlONvRLmbSgecbeD7nUt2) | 5:19 | 2021-12-03 | 2022-06-29 |
 | [When You Lose Someone \(Acoustic\)](https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone \(Acoustic\)](https://open.spotify.com/album/3eNCYLraD0G0mIHSeD5f6I) | 3:11 | 2022-10-07 |  |

@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174000,
       "name": "Feelin' It",
       "url": "https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp"
@@ -631,6 +631,40 @@
     },
     {
       "album": {
+        "name": "ATTENTION",
+        "url": "https://open.spotify.com/album/1bY6CE9i3d4ONpXsoH411R"
+      },
+      "artists": [
+        {
+          "name": "Boeyylee",
+          "url": "https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN"
+        },
+        {
+          "name": "PEPA",
+          "url": "https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh"
+        },
+        {
+          "name": "NinjaRacy E.T.",
+          "url": "https://open.spotify.com/artist/4H0GbCa3OpIs47U1Qio42I"
+        },
+        {
+          "name": "Gate$print",
+          "url": "https://open.spotify.com/artist/0FI3ETDnpFb3dsKBHqI1wG"
+        },
+        {
+          "name": "djprodluigi",
+          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212516,
+      "name": "FMF - Friday Morning Freestyle",
+      "url": "https://open.spotify.com/track/6U6hSadF0KeJz9MypZsdb6"
+    },
+    {
+      "album": {
         "name": "Friday Morning freestyle",
         "url": "https://open.spotify.com/album/1hpq7mCAiJ7Vdpu56BHgBH"
       },
@@ -658,7 +692,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 212516,
       "name": "Friday Morning freestyle",
       "url": "https://open.spotify.com/track/2rvtcIP20kxggf52zqcPfK"
@@ -1100,6 +1134,28 @@
       "duration_ms": 189693,
       "name": "Mabadiliko",
       "url": "https://open.spotify.com/track/0fEw1TI2CPzXs93EEKo0cl"
+    },
+    {
+      "album": {
+        "name": "Made For This",
+        "url": "https://open.spotify.com/album/6HGtxJpzngWeBOcH88HlEa"
+      },
+      "artists": [
+        {
+          "name": "Jovie Jovv",
+          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
+        },
+        {
+          "name": "Timmy Blanco",
+          "url": "https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70452,
+      "name": "Made For This",
+      "url": "https://open.spotify.com/track/0CdoYWHl0BGDL9XUQ0RnIN"
     },
     {
       "album": {
@@ -1698,7 +1754,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194000,
       "name": "S.I.T.T.S (Ka Eliud)",
       "url": "https://open.spotify.com/track/4krV1xjRQAnwukaWPDvcgn"
@@ -1818,6 +1874,28 @@
       "duration_ms": 236000,
       "name": "Shrap in Rage",
       "url": "https://open.spotify.com/track/7rHVA6faZqOaxt58d9f5bK"
+    },
+    {
+      "album": {
+        "name": "Shrapa Ranks",
+        "url": "https://open.spotify.com/album/6G7e4Jh3iaQmRkFwWEc57Q"
+      },
+      "artists": [
+        {
+          "name": "Asum Garvey",
+          "url": "https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7"
+        },
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121858,
+      "name": "Shrapa Ranks",
+      "url": "https://open.spotify.com/track/0uDl3s52h57l0addjFIbte"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,405 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,412 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
 | 50 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 
-Snapshot ID: `MCw0NDJiNTU2MGFiNmFlNDQ3ZGU1M2Q3YWJhMzEzOThkNjBiM2VjY2E4`
+Snapshot ID: `MCwwZWNlYWEwOTE0NTljZjQ4NzRlYWU4MGRkOGMyNjkwYzFjODU4NWE5`

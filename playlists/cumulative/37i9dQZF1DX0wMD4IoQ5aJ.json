@@ -952,7 +952,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 166500,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 191926,
       "name": "Croix Coast",
       "url": "https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5"
@@ -2116,6 +2116,24 @@
       "duration_ms": 188869,
       "name": "glitched persona",
       "url": "https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL"
+    },
+    {
+      "album": {
+        "name": "Glow Day",
+        "url": "https://open.spotify.com/album/65CoQ0dpFbLhl0iNbDR1L2"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Glow Day",
+      "url": "https://open.spotify.com/track/5b4BjNC7Sv4iRPPnwyYSr8"
     },
     {
       "album": {
@@ -4208,7 +4226,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 235500,
       "name": "Small Movements",
       "url": "https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J"

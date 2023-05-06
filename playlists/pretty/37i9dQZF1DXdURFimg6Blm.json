@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 446064,
+  "num_followers": 446517,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGI5ZmQ4NjVlYTg3N2NiYTU1M2Y0MTFlMTY1NzQyZTc5ZWM2ZTgx",
+  "snapshot_id": "MCw3YTdlNzAwZmI2ZGNjNmU4NDNhNDY5ZWE2ZjZkYTRlYjczNDg5MzM5",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1473,6 +1473,26 @@
       "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
     },
     {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "10 Out Of 10 (feat. Kylie Minogue)",
+        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "10 Out Of 10 (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Guddi Riddim",
@@ -1519,30 +1539,6 @@
       "duration_ms": 167261,
       "name": "Mas Que Nada (with Marnik)",
       "url": "https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Living Without You",
-        "url": "https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 184103,
-      "name": "Living Without You",
-      "url": "https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG"
     }
   ],
   "unique_name": "Beast Mode Dance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=j4w6xCeTRpyrxGS4P079sw">KiDi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,310 likes - 79 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,422 likes - 79 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 78 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 |
 | 79 | [What you wanna do?](https://open.spotify.com/track/2IQFdoFocKF5kb8J6RNtbc) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [What you wanna do?](https://open.spotify.com/album/2HEe16IuFDnQOnb8dT3zam) | 4:27 |
 
-Snapshot ID: `MCw4MmQ3ZTQ1ZjY1MThjY2MzNjBjZmRjOTllNDJmZWI3ZWRhMmRiN2Y0`
+Snapshot ID: `MCw1NWYzMGMwNGEwOGI3Njc5MzRmYWM4YzdjZmZlZGMwYzRjNGI2Nzlk`

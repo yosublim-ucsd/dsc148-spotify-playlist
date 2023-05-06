@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Ambiance",
+        "url": "https://open.spotify.com/album/4ZxWW2tTsVcDqk4TkuEINf"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137139,
+      "name": "Ambiance",
+      "url": "https://open.spotify.com/track/4E6ywa4T4jflnXe6KeB54G"
+    },
+    {
+      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 171719,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk"
@@ -1303,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "WON'T HE DO IT",
+        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190310,
+      "name": "Brucifix",
+      "url": "https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns"
+    },
+    {
+      "album": {
         "name": "Bruuuh (with Denzel Curry) [Remix]",
         "url": "https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz"
       },
@@ -1428,7 +1468,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194136,
       "name": "Candle of the Devil",
       "url": "https://open.spotify.com/track/253jYqFG4uZUVVjFYQZ2Yg"
@@ -1732,6 +1772,24 @@
       "duration_ms": 216267,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/10zQ7RusGiAimQv92m9wlj"
+    },
+    {
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100424,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/2OZfJcpzSFApBxUA0gXuJz"
     },
     {
       "album": {
@@ -2478,7 +2536,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 212147,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/2bj4KknKzsI0BbtTnRu0O4"
@@ -2750,7 +2808,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 172673,
       "name": "Fortune 500",
       "url": "https://open.spotify.com/track/4lYWHwaljHyjOpb2cRcqoE"
@@ -3252,7 +3310,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 144720,
       "name": "Grace (feat. Hannah Got Raps)",
       "url": "https://open.spotify.com/track/1zPiEMnznjvZl44HrjM7j7"
@@ -5215,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "WON'T HE DO IT",
+        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145670,
+      "name": "Monogram",
+      "url": "https://open.spotify.com/track/1uVmhpMQ3ELh8grPOg0D82"
+    },
+    {
+      "album": {
         "name": "Monsieur Dior",
         "url": "https://open.spotify.com/album/2NZnmicnIq9lnVtMhyc1bP"
       },
@@ -6141,6 +6217,32 @@
     },
     {
       "album": {
+        "name": "F65",
+        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        },
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175834,
+      "name": "Pinot Noir",
+      "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
+    },
+    {
+      "album": {
         "name": "Noon Yung",
         "url": "https://open.spotify.com/album/2mkGqQ4l5StfHz9vCV68pI"
       },
@@ -6312,6 +6414,28 @@
       "duration_ms": 359480,
       "name": "Pravda",
       "url": "https://open.spotify.com/track/5z32oXMF5FgR8jFy7aOkAq"
+    },
+    {
+      "album": {
+        "name": "Road to CASABLANCO.",
+        "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282066,
+      "name": "PROUD OF ME. (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3"
     },
     {
       "album": {
@@ -8052,7 +8176,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 175894,
       "name": "The Chosen",
       "url": "https://open.spotify.com/track/1Zo6ZeUSMDTrYICaunEW4y"

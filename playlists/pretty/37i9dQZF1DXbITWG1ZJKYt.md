@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,935,284 likes - 250 songs - 21 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,936,810 likes - 250 songs - 21 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 249 | [Inner Urge \- Rudy Van Gelder Edition; 2004 Digital Remaster](https://open.spotify.com/track/05aZ2boQ1yuAD4p4HyORbK) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 11:58 |
 | 250 | [Softly As In A Morning Sunrise \- Remastered 2001/Rudy Van Gelder Edition](https://open.spotify.com/track/3DZShPBwoWAfFgPKBUcFFJ) | [Sonny Clark Trio](https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw) | [Sonny Clark Trio \(Remastered 2001/Rudy Van Gelder Edition\)](https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH) | 6:33 |
 
-Snapshot ID: `MCwzYTcxOWMwZTZhNTZiMWU1NmI0N2ExN2U2NDQzOTM0Yzk0NjkwNGYx`
+Snapshot ID: `MCwxM2M5ODA3YzYzNWU0MDA3ZTg5YmE5NTMzZmE1YjFkN2YzZmVjZmI1`

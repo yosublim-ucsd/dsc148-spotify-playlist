@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,958 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,075 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 79 | [Drunk](https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Drunk](https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G) | 5:21 |
 | 80 | [Made Whole](https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Made Whole](https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM) | 3:32 |
 
-Snapshot ID: `MCxhYmJiOTk1MDRlZGU5MDc1MzVmMGJlZmMyMDMzNDg0ZTE1Zjk5YmYy`
+Snapshot ID: `MCxjMDBlYWQ5YmM3OGUxYzE4MTlkZGEzZjg0MTM0MDQyODA3YmQ1MTNh`

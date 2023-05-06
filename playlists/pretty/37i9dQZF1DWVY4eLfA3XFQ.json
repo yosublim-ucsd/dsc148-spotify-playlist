@@ -1,33 +1,13 @@
 {
-  "description": "Tech house technicians, featuring Wax Motif",
-  "num_followers": 583418,
+  "description": "Tech house technicians, featuring Ship Wrek",
+  "num_followers": 583542,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2M4ZWRjMGQzYjdmN2M5NDhlYjA1YjAzM2E3ZjgyMWJmMTI0ZWNh",
+  "snapshot_id": "MCwwMjRiNzYwNjBjNjllMzE3N2IwYTA4ODc0Y2I1NzJjODYyZWViZGVi",
   "tracks": [
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "All The Girls",
-        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "All The Girls",
-      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
-    },
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
@@ -53,6 +33,22 @@
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "NO GUEST LIST",
+        "url": "https://open.spotify.com/album/6bIbXBJvayhVzwRiCYDgSx"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 162562,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/6HWy1YDfSdPvJJ7DTDp8AP"
+    },
+    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Saturday Love",
@@ -73,6 +69,26 @@
       "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
     },
     {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "All The Girls",
+        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "All The Girls",
+      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+    },
+    {
       "added_at": "2023-04-28 14:59:23",
       "album": {
         "name": "Telugu Tech",
@@ -89,36 +105,24 @@
       "url": "https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak"
     },
     {
-      "added_at": "2023-03-31 13:06:37",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU"
+        "name": "Everything You Have Done (Meduza Edit)",
+        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 180517,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Bass Go Boom",
-        "url": "https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG"
-      },
-      "artists": [
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 178604,
-      "name": "Bass Go Boom",
-      "url": "https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh"
+      "duration_ms": 156218,
+      "name": "Everything You Have Done - Meduza Edit",
+      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
     },
     {
       "added_at": "2023-02-03 21:08:48",
@@ -177,24 +181,20 @@
       "url": "https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
+      "added_at": "2023-03-31 13:06:37",
       "album": {
-        "name": "Misbehave",
-        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 174220,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
+      "duration_ms": 180517,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
     },
     {
       "added_at": "2023-02-03 21:08:48",
@@ -213,28 +213,20 @@
       "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Different Side",
-        "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
+        "name": "Bass Go Boom",
+        "url": "https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
-        },
-        {
-          "name": "Audio Bullys",
-          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
-      "duration_ms": 193710,
-      "name": "Different Side",
-      "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
+      "duration_ms": 178604,
+      "name": "Bass Go Boom",
+      "url": "https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh"
     },
     {
       "added_at": "2023-04-28 14:59:23",
@@ -317,24 +309,28 @@
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "NEMO",
-        "url": "https://open.spotify.com/album/4aYOQcCVX4mIua85Ub8jCi"
+        "name": "Different Side",
+        "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
       "artists": [
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         },
         {
-          "name": "Brittles",
-          "url": "https://open.spotify.com/artist/4AatAhtKlfnbdMwlxdTwwr"
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        },
+        {
+          "name": "Audio Bullys",
+          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
         }
       ],
-      "duration_ms": 153750,
-      "name": "NEMO",
-      "url": "https://open.spotify.com/track/2RvUquRNqRRCh3y5Ls7DTc"
+      "duration_ms": 193710,
+      "name": "Different Side",
+      "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
     },
     {
       "added_at": "2023-03-31 13:06:37",
@@ -429,24 +425,24 @@
       "url": "https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Everything You Have Done (Meduza Edit)",
-        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
+        "name": "NEMO",
+        "url": "https://open.spotify.com/album/4aYOQcCVX4mIua85Ub8jCi"
       },
       "artists": [
         {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         },
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Brittles",
+          "url": "https://open.spotify.com/artist/4AatAhtKlfnbdMwlxdTwwr"
         }
       ],
-      "duration_ms": 156218,
-      "name": "Everything You Have Done - Meduza Edit",
-      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
+      "duration_ms": 153750,
+      "name": "NEMO",
+      "url": "https://open.spotify.com/track/2RvUquRNqRRCh3y5Ls7DTc"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -689,6 +685,26 @@
       "url": "https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU"
     },
     {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 174220,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "BASS GLIDE",
@@ -869,30 +885,6 @@
       "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Pa Lante",
-        "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Ryan Arnold",
-          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
-        },
-        {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
-        }
-      ],
-      "duration_ms": 130123,
-      "name": "Pa Lante",
-      "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
-    },
-    {
       "added_at": "2023-03-31 13:06:37",
       "album": {
         "name": "All Designer",
@@ -951,6 +943,30 @@
       "duration_ms": 160887,
       "name": "Big Talk",
       "url": "https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Pa Lante",
+        "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ryan Arnold",
+          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+        },
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        }
+      ],
+      "duration_ms": 130123,
+      "name": "Pa Lante",
+      "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
     },
     {
       "added_at": "2023-03-31 13:06:37",
@@ -1107,22 +1123,6 @@
       "duration_ms": 200483,
       "name": "Oral Music",
       "url": "https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/5ksDSKIVq3HDY96q8MxL7z"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4zA1GmTijWtxqbzoXQMS7w"
     },
     {
       "added_at": "2023-03-03 05:00:00",

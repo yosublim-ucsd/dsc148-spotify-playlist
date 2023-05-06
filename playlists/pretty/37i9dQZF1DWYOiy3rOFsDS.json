@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
-  "num_followers": 521150,
+  "num_followers": 521258,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzY5YmZiZGU5MjJhY2Q3YjU1M2JmY2M3ZGFlZmQ2YjM1MDhmNDVj",
+  "snapshot_id": "MCxmZDBmZjZhMzdhNTNjZTZlNzk2M2Q5MDZhMjFlYTUxNGViYTAwNGEw",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
-      "added_at": "2023-03-17 06:00:00",
+      "added_at": "2023-05-05 23:24:54",
       "album": {
-        "name": "L\u00ednea Bonita",
-        "url": "https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb"
+        "name": "Perfidia",
+        "url": "https://open.spotify.com/album/101igY1HyXs27avcElHKzj"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
         }
       ],
-      "duration_ms": 247428,
-      "name": "L\u00ednea Bonita",
-      "url": "https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN"
+      "duration_ms": 215284,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "L\u00ednea Bonita",
+        "url": "https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 247428,
+      "name": "L\u00ednea Bonita",
+      "url": "https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Ac\u00fastico En Vivo",
         "url": "https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 188533,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     }
   ],
   "unique_name": "Boleros Pop",

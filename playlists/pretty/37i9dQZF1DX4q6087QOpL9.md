@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,577 likes - 142 songs - 16 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,654 likes - 142 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 | 141 | [Je Ka Jo \- Demo Mix](https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES) | [Joaquin "Joe" Claussell](https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro) | [Turntables on the Hudson: Twenty Years of Good Vibes \(20 Year Anniversary\)](https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv) | 7:27 |
 | 142 | [Glad I Found You \- Scott Wozniak Vocal Mix](https://open.spotify.com/track/6bo7IFO1394OXEJGcG284e) | [DJ Gomi](https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz), [Louie Balo](https://open.spotify.com/artist/1MF7RWczIx7xWhr7ekx62X), [Yasmeen](https://open.spotify.com/artist/4WfFd2patsWYCoh3POfGAl), [Scott Wozniak](https://open.spotify.com/artist/4X5MbMRy7w6vmcUZDaKa2O) | [Glad I Found You](https://open.spotify.com/album/081ccWtCpuZsrPrxiFPA2k) | 8:07 |
 
-Snapshot ID: `MCxlYWNkZDExYmJkNWQ2MjkyYzA4MjY0N2JjYTk0MTU4NGQwNWFlZjUy`
+Snapshot ID: `MCwxYTBiOTM1MzEzOTQyNjY1NDU5NGMzMjhhNTQwMWYxZDE1MzJiNjhk`

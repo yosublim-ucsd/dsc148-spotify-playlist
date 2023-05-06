@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "A TV Show Called Earth",
+        "url": "https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7"
+      },
+      "artists": [
+        {
+          "name": "Philip Labes",
+          "url": "https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202958,
+      "name": "A TV Show Called Earth",
+      "url": "https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD"
+    },
+    {
+      "album": {
         "name": "IN CASE I DIE (Live)",
         "url": "https://open.spotify.com/album/7jGDcKK1aVh9vxDXV6RGmb"
       },
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214672,
       "name": "The Afterparty",
       "url": "https://open.spotify.com/track/4CjoseT1Sf0lrWnd8dAttA"

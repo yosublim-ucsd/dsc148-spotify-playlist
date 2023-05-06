@@ -2,9 +2,9 @@
 
 ### [Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
 
-> Tech house technicians, featuring Wax Motif
+> Tech house technicians, featuring Ship Wrek
 
-1,045 songs - 2 day 13 hr 29 min
+1,046 songs - 2 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Majestic \(Ride or Die\)](https://open.spotify.com/track/19zxhHtJMYoCuR5dmFJ1WN) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Majestic \(Ride or Die\)](https://open.spotify.com/album/1YaY6qMiUUdNY5198aTGet) | 3:08 | 2022-10-14 | 2022-12-17 |
 | [Make A Move](https://open.spotify.com/track/2sKH8vYxAfcbntcfGpWkmX) | [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5), [ThreeSix](https://open.spotify.com/artist/4dNGMkRuq16dZZSfljKMeD) | [Make A Move](https://open.spotify.com/album/4bErqMNo5M8XittFVyPQNw) | 3:20 | 2021-11-26 | 2022-01-06 |
 | [Make You Happy](https://open.spotify.com/track/5ZAtTAUvEz8jNJ5EPhsfJP) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Darryl James](https://open.spotify.com/artist/4XUsuewcZ2L8zXZrL4rzzP), [David Anthony](https://open.spotify.com/artist/75frj8UB2JwByVGCHxGbpy) | [Make You Happy](https://open.spotify.com/album/2eRJAVu552WFHPtGuorxQ0) | 3:00 | 2023-02-17 | 2023-04-22 |
+| [Mamacita](https://open.spotify.com/track/6HWy1YDfSdPvJJ7DTDp8AP) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [NO GUEST LIST](https://open.spotify.com/album/6bIbXBJvayhVzwRiCYDgSx) | 2:42 | 2023-05-05 |  |
 | [Mamacita \(feat\. LexBlaze\)](https://open.spotify.com/track/3BDaQ8OZwJxRvnrMDJssCL) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Mamacita \(feat\. LexBlaze\)](https://open.spotify.com/album/4pfc04gBI21kH3UULpk7xU) | 2:52 | 2023-03-31 |  |
 | [Mamaera](https://open.spotify.com/track/1BSbmKfveBwCk1UedRBjUf) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Fatboi](https://open.spotify.com/artist/5NkoSugrR5WxQy4C5VjhBd) | [Mamaera](https://open.spotify.com/album/0QktazGz4FR0BJm4ACU2fU) | 3:03 | 2023-01-06 | 2023-02-04 |
 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2022-07-22 | 2022-12-10 |
@@ -830,7 +831,7 @@
 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 | 2022-05-13 | 2022-05-28 |
 | [So Right](https://open.spotify.com/track/21NMfPtUAyJAeiv0gbfGzC) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [So Right](https://open.spotify.com/album/46TOL7GUSFrRMMzzduhkG3) | 3:21 | 2022-10-14 | 2022-12-29 |
 | [Sober](https://open.spotify.com/track/38uNPzNvxuuimtRljtomS6) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Sober](https://open.spotify.com/album/2G05MCvt9VDpIxUBS8h3KJ) | 3:17 | 2023-02-24 |  |
-| [Sober](https://open.spotify.com/track/4zA1GmTijWtxqbzoXQMS7w) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Sober](https://open.spotify.com/album/5ksDSKIVq3HDY96q8MxL7z) | 2:49 | 2023-03-10 |  |
+| [Sober](https://open.spotify.com/track/4zA1GmTijWtxqbzoXQMS7w) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Sober](https://open.spotify.com/album/5ksDSKIVq3HDY96q8MxL7z) | 2:49 | 2023-03-10 | 2023-05-06 |
 | [Sombrero Sam \- Radio Edit](https://open.spotify.com/track/3SoElzvGzQoWSn5i0sIS2u) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Respirando](https://open.spotify.com/album/4e25OhfEzHKVO55cdxrGeN) | 4:41 | 2022-12-02 | 2023-02-18 |
 | [Somebody To Love \- Gorgon City Remix](https://open.spotify.com/track/4gJMsAYnnwNBsrhqjLWbWi) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Somebody To Love \(Gorgon City Remix\)](https://open.spotify.com/album/2Nt3fFGjvlgERESi1QtPjW) | 4:42 | 2022-02-04 | 2022-06-04 |
 | [Someone Like You](https://open.spotify.com/track/50er2te7txC3DkR4y8cANW) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Someone Like You](https://open.spotify.com/album/1Z9mfaM5XeMIqhlZzCeuyX) | 2:51 | 2023-03-24 |  |

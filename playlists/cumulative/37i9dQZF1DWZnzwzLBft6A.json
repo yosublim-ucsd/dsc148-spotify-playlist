@@ -317,6 +317,44 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Come, Sweet Death (Arr. for 5 Cellos)",
+        "url": "https://open.spotify.com/album/7DuFXiU4QVs2ZNXPPGvNXD"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        },
+        {
+          "name": "Hannah Roberts",
+          "url": "https://open.spotify.com/artist/1B14EjyPPZZWctTrY2vXFr"
+        },
+        {
+          "name": "Ben Davies",
+          "url": "https://open.spotify.com/artist/5ODF3ZVZTnK7T3nvPprURU"
+        },
+        {
+          "name": "Desmond Neysmith",
+          "url": "https://open.spotify.com/artist/1JDbWFeVdrcXAhwIrE9xf4"
+        },
+        {
+          "name": "Max Ruisi",
+          "url": "https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
+      "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
+    },
+    {
+      "album": {
         "name": "Bach, J.S.: Concertos for Two, Three and Four Harpsichords",
         "url": "https://open.spotify.com/album/0sWnJN5bMvJM8p2G4yuvda"
       },
@@ -1036,44 +1074,6 @@
       "duration_ms": 214266,
       "name": "I. Preludio",
       "url": "https://open.spotify.com/track/47P7pI7vrOxUjhBnx549Pa"
-    },
-    {
-      "album": {
-        "name": "J.S. Bach: Come, Sweet Death (Arr. for 5 Cellos)",
-        "url": "https://open.spotify.com/album/7DuFXiU4QVs2ZNXPPGvNXD"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Sheku Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
-        },
-        {
-          "name": "Hannah Roberts",
-          "url": "https://open.spotify.com/artist/1B14EjyPPZZWctTrY2vXFr"
-        },
-        {
-          "name": "Ben Davies",
-          "url": "https://open.spotify.com/artist/5ODF3ZVZTnK7T3nvPprURU"
-        },
-        {
-          "name": "Desmond Neysmith",
-          "url": "https://open.spotify.com/artist/1JDbWFeVdrcXAhwIrE9xf4"
-        },
-        {
-          "name": "Max Ruisi",
-          "url": "https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ"
-        }
-      ],
-      "date_added": "2022-07-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197200,
-      "name": "J.S. Bach: Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
-      "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
     },
     {
       "album": {
@@ -2856,7 +2856,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151573,
-      "name": "Trio Sonata No. 1, BWV 525: I. (Allegro moderato) (Transcr. Kurt\u00e1g) - Upright Piano",
+      "name": "Trio Sonata No. 1 in E-Flat Major, BWV 525: I. (Allegro moderato) (Transcr. Kurt\u00e1g) - Upright Piano",
       "url": "https://open.spotify.com/track/7guOIHeFJYxZyw6x53mURS"
     },
     {

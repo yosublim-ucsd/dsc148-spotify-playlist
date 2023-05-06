@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-716 songs - 1 day 17 hr 2 min
+718 songs - 1 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Good Rising](https://open.spotify.com/track/74f0VaipJke6lIWI5BEfTW) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Good Rising](https://open.spotify.com/album/6FpPtyj1Q86xBCiHgAKxL6) | 2:25 | 2021-04-15 | 2021-04-21 |
 | [Gradient Moon](https://open.spotify.com/track/0JwbjnzOEsAU9poTCzSv8U) | [Xavier Manning](https://open.spotify.com/artist/7IErsk4Rfc1rEdc1mwL4ug) | [Gradient Moon](https://open.spotify.com/album/3E0qSploovLREgriBJnFej) | 2:23 | 2022-12-09 |  |
 | [Grain Memory](https://open.spotify.com/track/4tQNIGCMbmZsVC8D5Vrspn) | [Spectral Sketches](https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf) | [Grain Memory](https://open.spotify.com/album/15UNPwV2xuAzyl0vRr8tfo) | 3:04 | 2022-10-07 |  |
+| [Grayson](https://open.spotify.com/track/36XVAEtyB6gBrBso9ZDUcw) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Grayson](https://open.spotify.com/album/5kK3qRTcUDnYgt7IYqdCgD) | 3:13 | 2023-05-05 |  |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2021-08-20 |  |
 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 | 2021-03-06 |  |
 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2021-08-20 | 2023-03-25 |
@@ -495,6 +496,7 @@
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2021-06-02 | 2023-01-20 |
 | [Pure North](https://open.spotify.com/track/1OupslOCajr6YwYMc6bYUK) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Pure North](https://open.spotify.com/album/2ZUa1CwxIYGUlTUzpHCKe3) | 4:12 | 2021-02-24 | 2021-09-22 |
 | [Purity](https://open.spotify.com/track/0bRuqIi3CZrEt9ORtCHHHW) | [Calvatress](https://open.spotify.com/artist/2UxH255utiME1XAA9fXUsh) | [Purity](https://open.spotify.com/album/0eN2BQy4PSiRifsVOhUdVx) | 3:05 | 2021-04-21 | 2021-09-22 |
+| [Puzzles](https://open.spotify.com/track/6e726bx26LWxCR2XQLnM6i) | [Galian](https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w) | [Puzzles](https://open.spotify.com/album/5f6vDyKnh2izBLIvY9yYrw) | 1:58 | 2023-05-05 |  |
 | [Quay](https://open.spotify.com/track/66HmKYuvJH82x9zQKFvSAX) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Quay](https://open.spotify.com/album/2Yssd99I6S8ljrnkjRqj6V) | 2:48 | 2020-11-27 | 2021-03-25 |
 | [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2021-04-15 | 2022-09-23 |
 | [Radiant Bubbles](https://open.spotify.com/track/4LLnKuz2U673uU1vSj5HjY) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Radiant Bubbles](https://open.spotify.com/album/0PfYotgLzuZJ2zeNlhuoOE) | 3:56 | 2020-04-03\* | 2020-09-30 |

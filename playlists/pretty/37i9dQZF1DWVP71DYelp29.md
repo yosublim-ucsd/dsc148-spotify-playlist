@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\.  Cover: Taylor Swift.
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,202 likes - 116 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,271 likes - 116 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 115 | [Black Beatles \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07MbSpXIjhoUzh0QBUM1J1) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:33 |
 | 116 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 |
 
-Snapshot ID: `MCwzYzRiNzZhYmRiMDM1OWI4MzhkYWY5Yzk1NWVjM2Q0ZjQ3YzI0OWQ5`
+Snapshot ID: `MCxmNDE1NmIzNDljNDY2NDRhYjBjZmIzNjE1ZTAyN2FhYmU2ZmE4YmU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,941 likes - 80 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,013 likes - 80 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 79 | [D'oluwa Mu](https://open.spotify.com/track/4cSPBQ0i1tZ4VL4cxZjMxh) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Faaji Friday 4.0](https://open.spotify.com/album/4FYxjlNN5ScDJjQnlq15WX) | 11:18 |
 | 80 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 |
 
-Snapshot ID: `MCwxMmQxZmZjNzgzNTYwZDFjMGE1NGQzNjEwMGI3MTAxYmVjOTA0MGM5`
+Snapshot ID: `MCw0M2Y1ODExY2IxOTQyYjNlY2NlM2Q1YTM3YTQwMzg5MDkzNGQ4N2Iw`

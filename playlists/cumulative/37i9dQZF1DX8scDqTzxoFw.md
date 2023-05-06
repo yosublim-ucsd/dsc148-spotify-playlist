@@ -4,7 +4,7 @@
 
 > Watch the kids go wild for these party tunes!
 
-170 songs - 9 hr 12 min
+172 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cool Kids](https://open.spotify.com/track/0YnqT6B89ZgOwbSz8SKX0G) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Cool Kids](https://open.spotify.com/album/78IZNqs80hIMFNXo2RpkNj) | 3:35 | 2021-10-08 | 2022-07-29 |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2022-07-05 |  |
 | [Cool Kids](https://open.spotify.com/track/69paFiilsecU0o7N9ZB6dr) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [100 Sing\-A\-Long Songs](https://open.spotify.com/album/3QDBQ8PHdjiECJpiTcVOpF) | 3:57 | 2022-10-14 | 2022-11-13 |
+| [CUFF IT](https://open.spotify.com/track/3QWPsfOA2yGVFN36XadkKt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Celestial](https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb) | 2:57 | 2023-05-05 |  |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2021-10-08 |  |
 | [Dance Through the Day](https://open.spotify.com/track/1VlO9GSWlPWe2WAsudpEV5) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:35 | 2022-10-14 |  |
 | [Dance Through the Day](https://open.spotify.com/track/3VNxMj6URsie6GJbHGWmmO) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB) | 2:35 | 2022-08-18 | 2022-11-24 |
@@ -127,6 +128,7 @@
 | [Memories](https://open.spotify.com/track/33YkmfGXbrD91mf3qprC2j) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Summer Pool Party 2021](https://open.spotify.com/album/4lzPJSvH3dGu37ZMFNCsbH) | 3:09 | 2022-10-14 | 2022-11-13 |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2022-07-05 | 2023-03-23 |
 | [Memories Remix \(feat\. Nipsey Hussle & YG\)](https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2022-10-14 |  |
+| [Miss You](https://open.spotify.com/track/7uRyICzl03iUchXWAu0E5v) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Celestial](https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb) | 2:50 | 2023-05-05 |  |
 | [My My My!](https://open.spotify.com/track/1YHT1FZv5t3ZFLsVPuy6Rq) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/1OyADPvYTlmT5hV0mtxLAY) | 3:24 | 2021-10-08 | 2022-07-29 |
 | [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 | 2022-07-05 |  |
 | [My My My!](https://open.spotify.com/track/5g2kzs4Ti0iZoaI9jNwjWT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Kids Friendly Fun Pop](https://open.spotify.com/album/69S78rZcUEXlpNp74oYHN7) | 3:24 | 2022-10-14 | 2022-11-13 |

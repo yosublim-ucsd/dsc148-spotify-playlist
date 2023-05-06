@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,107 likes - 200 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,125 likes - 200 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [Flow](https://open.spotify.com/track/28hMFaf5ZaoiGVSRODVFPH) | [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo), [Jerad Lippi](https://open.spotify.com/artist/6f0ul5oNqpBr2Cfk2GohbZ), [Rick Rosato](https://open.spotify.com/artist/3HKWvinOyxbprcbgmbycY4) | [Moments in Trio III \- Roads](https://open.spotify.com/album/52oqKAmMQ7KmBBCzbaeKpl) | 8:12 |
 | 200 | [For Rico](https://open.spotify.com/track/4W1wLUQJ9in0VB1YKH7pyc) | [Nicola Andrioli](https://open.spotify.com/artist/4aS6bn3PXcwVgRnufJ31rt), [Stéphane Galland](https://open.spotify.com/artist/1tj1I6guCFUOGJdhB3f5j6), [Federico Pecoraro](https://open.spotify.com/artist/656vB9P9n4vezqzlDaggcM) | [Skylight](https://open.spotify.com/album/1pQp3iAFzeJDJ1MrF9llJr) | 3:29 |
 
-Snapshot ID: `MCxmMDI1MWE0NjM0NGFlYTIwMWNhMTdlNGEzOGVlYjlkMzBjNWU5NzAw`
+Snapshot ID: `MCw5YjdmNDQ0NGY4N2QwNWUzZDZiNGY3Y2ZlMDMxZjZhNzAzZmEzNGQ3`

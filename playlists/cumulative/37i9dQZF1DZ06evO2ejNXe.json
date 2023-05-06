@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Puras de Lazo y Reata",
+        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "D\u00e9jame Amarte Otra Vez",
+      "url": "https://open.spotify.com/track/1tviCqQuqbC7AOb0yRb9Eg"
+    },
+    {
+      "album": {
         "name": "Dale Biberon",
         "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
       },

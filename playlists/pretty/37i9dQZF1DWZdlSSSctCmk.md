@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,850 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,950 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [Josephine \- French Edit](https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 7:08 |
 | 100 | [Astrid & Manolo](https://open.spotify.com/track/0MGSBX3yJzwZUx9D86WkNR) | [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE), [Bonaparte](https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy) | [Astrid & Manolo](https://open.spotify.com/album/0L2imCR5KOtj8RAqyJ1ngq) | 5:57 |
 
-Snapshot ID: `MCw4YTgxN2YwOTQ5YTA4MDk0MDBjMjVmMzY0OGIyZTU5Y2MzZGFiODY0`
+Snapshot ID: `MCxkMmE0OTdjNzNkMjFhMmFhNTFkYzM3YmEzMDYyYmFhNzRmMDAxYmFl`

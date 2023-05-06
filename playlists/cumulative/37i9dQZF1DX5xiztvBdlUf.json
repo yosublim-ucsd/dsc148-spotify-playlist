@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 430250,
       "name": "Dark Sun",
       "url": "https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 442622,
       "name": "Deeper Feelings",
       "url": "https://open.spotify.com/track/1gOq7cUABzUJa4Bo17vR6r"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 387302,
       "name": "Diving Into Minds - Club Mix",
       "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
@@ -1888,6 +1888,24 @@
       "duration_ms": 296207,
       "name": "Ergot",
       "url": "https://open.spotify.com/track/1G6dyaNXhkx0HCM3ZcIJ22"
+    },
+    {
+      "album": {
+        "name": "Eroica",
+        "url": "https://open.spotify.com/album/46LTKHGVMvAq7s8s4gq8Y7"
+      },
+      "artists": [
+        {
+          "name": "MPathy",
+          "url": "https://open.spotify.com/artist/1JfL6hDxts0zIcYb6hT9D9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449032,
+      "name": "Eroica",
+      "url": "https://open.spotify.com/track/0lh9J6Q95yx86HwtKqL5ma"
     },
     {
       "album": {
@@ -3985,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "No One Like You - EP",
+        "url": "https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256721,
+      "name": "No One Like You - Edit",
+      "url": "https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn"
+    },
+    {
+      "album": {
         "name": "Woods, Tales & Friends (Part One)",
         "url": "https://open.spotify.com/album/6nX8CFmSYfg79D8PpWP0iV"
       },
@@ -4590,7 +4626,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 377225,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
@@ -4758,6 +4794,24 @@
       "duration_ms": 464132,
       "name": "Restless Mind",
       "url": "https://open.spotify.com/track/1cWqKMY9UmPen1n6XH4byq"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/4eEozCG4NVNBkdevuiPMPN"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226229,
+      "name": "Resurrection",
+      "url": "https://open.spotify.com/track/5e5IW2XLqA67asAqMNr5Um"
     },
     {
       "album": {
@@ -6576,6 +6630,24 @@
       "duration_ms": 408889,
       "name": "You Are the Sun - Sun Up Mix",
       "url": "https://open.spotify.com/track/7LE9T4XBDParc9tDvNf29H"
+    },
+    {
+      "album": {
+        "name": "You Can Dance Now",
+        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244802,
+      "name": "You Can Dance Now",
+      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
     },
     {
       "album": {

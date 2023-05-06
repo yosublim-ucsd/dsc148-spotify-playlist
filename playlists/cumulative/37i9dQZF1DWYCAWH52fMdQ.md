@@ -4,7 +4,7 @@
 
 > Get Ready! Show Time!
 
-63 songs - 3 hr 25 min
+73 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ADORE YOU \- KR Ver.](https://open.spotify.com/track/1HmLSZdklyO7psXg7Z33ch) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS](https://open.spotify.com/album/3VU8zAXam8qBjFPWR1IBhT) | 3:31 | 2022-05-12 | 2022-07-29 |
 | [AIRPLANE](https://open.spotify.com/track/1ZfVxNlKpUHv8ZA8ri59nX) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [WELCOME BACK](https://open.spotify.com/album/7ucQWqF05jeaZiqCSI0L85) | 3:36 | 2022-05-12 |  |
 | [AIRPLANE](https://open.spotify.com/track/5LpVoAIMwOZcZ94zzlIP8F) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [WELCOME BACK](https://open.spotify.com/album/6oV4Vxt8N7RGUOKtQ051ml) | 3:36 | 2022-05-12 | 2022-07-29 |
+| [All The Way Here](https://open.spotify.com/track/7r9vEid8x5RNtkjOyoObNs) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:58 | 2023-05-05 |  |
 | [Apology](https://open.spotify.com/track/0bBrEmo01hYu6gBz4UW9Q8) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [WELCOME BACK](https://open.spotify.com/album/7ucQWqF05jeaZiqCSI0L85) | 3:51 | 2022-05-12 |  |
 | [APOLOGY](https://open.spotify.com/track/3r8Rot6g36lCLju77c0JNB) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [WELCOME BACK](https://open.spotify.com/album/6oV4Vxt8N7RGUOKtQ051ml) | 3:51 | 2022-05-12 | 2022-07-29 |
 | [BEST FRIEND](https://open.spotify.com/track/1AhfmrzSrDmOIstpRO9wTI) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:50 | 2022-05-12 |  |
@@ -27,8 +28,10 @@
 | [DON’T FORGET](https://open.spotify.com/track/7e59yQUzq3EahehltMvJ3W) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 4:13 | 2022-05-12 | 2022-07-29 |
 | [DRAGON](https://open.spotify.com/track/5R42s7zQ9SrbnwXUF8j1Bo) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:08 | 2022-05-12 |  |
 | [DRAGON](https://open.spotify.com/track/5TbCc54CO3Xyb2wIi1ZbIc) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF) | 3:08 | 2022-05-12 | 2022-07-29 |
+| [Driving Slowly](https://open.spotify.com/track/4JDRus5rHM8ANGLfg61HAJ) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:03 | 2023-05-05 |  |
 | [EVERYTHING](https://open.spotify.com/track/3RVScaOUMRgzK8IPdfIP9O) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:34 | 2022-05-12 | 2022-07-29 |
 | [EVERYTHING](https://open.spotify.com/track/6aIjd7n2vFajtP2hYVsARt) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:34 | 2022-05-12 |  |
+| [FIGHTING \- SONG SOLO](https://open.spotify.com/track/2zm98HC8DrCsk1hojUkoKA) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:30 | 2023-05-05 |  |
 | [Flower](https://open.spotify.com/track/4BFbn9GneqRPCSK2NLuiyq) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [i DECIDE](https://open.spotify.com/album/2UUuQ8lbbd04xl42Qt6Zy3) | 4:19 | 2022-05-12 |  |
 | [FOR REAL?](https://open.spotify.com/track/1GFUkeJaJejAQlrfV8XhG2) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:23 | 2022-05-12 |  |
 | [FOR REAL?](https://open.spotify.com/track/5ZEJrSKsS7AN5jfdbDJ9Y6) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF) | 3:23 | 2022-05-12 | 2022-07-29 |
@@ -49,7 +52,9 @@
 | [JUST GO](https://open.spotify.com/track/7m5Dx1L76Gxnb7osbw8Cdi) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:36 | 2022-05-12 |  |
 | [KILLING ME](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:13 | 2022-05-12 |  |
 | [KILLING ME](https://open.spotify.com/track/36wruYZk4V9sWeUzR3rB74) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:13 | 2022-05-12 | 2022-07-29 |
+| [Kiss Me \- DK SOLO](https://open.spotify.com/track/33k5c1nOhfAUU6RqMD0mjz) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:13 | 2023-05-05 |  |
 | [LiAr](https://open.spotify.com/track/1vOvHNRKQs8sriDTok0TC5) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:57 | 2022-05-12 |  |
+| [Like a Movie](https://open.spotify.com/track/0rhaSFy7TdJHL76c6SWdST) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:26 | 2023-05-05 |  |
 | [LOVE ME](https://open.spotify.com/track/6OCwktCtDcutcJiD0XtDhQ) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:28 | 2022-05-12 |  |
 | [LOVE ME](https://open.spotify.com/track/6RIC2sbqHaZegmpfk82g2A) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:28 | 2022-05-12 | 2022-11-13 |
 | [LOVE ME](https://open.spotify.com/track/7IQIzpoFAuER8n982flpEF) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:28 | 2022-05-12 | 2022-07-29 |
@@ -64,11 +69,16 @@
 | [Message from SONG](https://open.spotify.com/track/3xEvHQZQiypyHVOeJ0Q8mf) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Quick Message from iKON](https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx) | 0:14 | 2022-05-12 |  |
 | [NAME](https://open.spotify.com/track/3EYErXyQpVtbC7DoZE7lDr) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:57 | 2022-05-12 |  |
 | [NAME](https://open.spotify.com/track/3JfVKDAZwYSxXJuePMpJQU) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF) | 3:57 | 2022-05-12 | 2022-07-29 |
+| [Never Forget You](https://open.spotify.com/track/2JIJbtGrkPx0YclNkQVkEO) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 4:04 | 2023-05-05 |  |
 | [PERFECT](https://open.spotify.com/track/07Rv1FBuo9Y7beydS0u9gW) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:33 | 2022-05-12 |  |
 | [PERFECT](https://open.spotify.com/track/7zwuAB4MDkqYMn9NhNEytO) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:33 | 2022-05-12 | 2022-07-29 |
 | [Rubber Band](https://open.spotify.com/track/4FMhacfObjPJuLIyPBjc0K) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Rubber Band](https://open.spotify.com/album/11HqY96LRgUCeLnMLWVSBW) | 3:17 | 2022-05-12 |  |
+| [RUM PUM PUM](https://open.spotify.com/track/3GXVBBP0aWOra0GpK9TxtX) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 2:53 | 2023-05-05 |  |
+| [Tantara](https://open.spotify.com/track/07yTrKM5LJmKFfLyASA7O8) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 2:47 | 2023-05-05 |  |
 | [Tantara](https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Tantara](https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB) | 2:47 | 2023-04-25 |  |
 | [TENDAE](https://open.spotify.com/track/3wdQ9ZioKOzHIs6hA0x88u) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LOVE AND FALL](https://open.spotify.com/album/5kAYE49gc7C6sRofjnxBbO) | 3:36 | 2022-05-12 |  |
+| [U](https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:19 | 2023-05-05 |  |
+| [Want You Back \- JU\-NE SOLO](https://open.spotify.com/track/5jzvJRh5jYw1CjHI7zTM9y) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:07 | 2023-05-05 |  |
 | [WHAT'S WRONG ?](https://open.spotify.com/track/5j6DlZe93zQZbRI9KnGine) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [DEBUT FULL ALBUM \[WELCOME BACK\]](https://open.spotify.com/album/1xsNJgTK34ByVUPzQK02Ds) | 3:48 | 2022-05-12 |  |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2022-05-12 |  |
 

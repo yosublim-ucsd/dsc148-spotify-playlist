@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,139 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,161 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Last Time](https://open.spotify.com/track/1se4RSxZWhrAyguuWKZxgJ) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Starfruit](https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz) | 2:41 |
 | 100 | [Mr\. Midnight \- Winter Time Remix](https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Bee Boy$oul](https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc) | [Mr\. Midnight \(Winter Time Remix\)](https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i) | 4:00 |
 
-Snapshot ID: `MCxjMDNhZGE4ZTQ4YzlhNzRmMzJiZWIyNThkZTc3MzYzMDE1OWQzNzk4`
+Snapshot ID: `MCxkNGRmZjM1ZDY2NTgzOWMzYTJkNjVjOTJmYWRhZGNiM2Q0YTAwN2Rh`

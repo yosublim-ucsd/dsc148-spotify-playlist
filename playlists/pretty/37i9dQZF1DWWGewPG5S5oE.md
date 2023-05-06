@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 4Aces
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,257 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,299 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [Synapse](https://open.spotify.com/track/1GrmygOfLmflrho3gQRw9J) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Synapse](https://open.spotify.com/album/0YW1Wqu4Wf7bmkkDuddSoP) | 4:30 |
 | 50 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 |
 
-Snapshot ID: `MCw4NTM3OTRlZTkyMmMxMDU2NjIzMDVmYWNlMzZmZmY0NGNkZmE3Zjlj`
+Snapshot ID: `MCw2NDhjMzBjMThmZmM1NmVhYmI0YjJhZmIxZjY0MWZjY2Q4ZjBkZTc0`

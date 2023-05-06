@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,541 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,739 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Que Tal um Samba?](https://open.spotify.com/track/6XqbqeZl7YwPLcWsp8sLOk) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8) | [Que Tal um Samba?](https://open.spotify.com/album/2CgrIxhrX1Ee0Kvgn28F5j) | 3:38 |
 | 70 | [Palavras No Corpo](https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Palavras No Corpo](https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM) | 4:02 |
 
-Snapshot ID: `MCw3OTk0MmU2NWIxNGY4OGNjMzczZjhlNDhiN2M3ZjgzMmU1NThlN2Rh`
+Snapshot ID: `MCwzZjhjOTQ5MzJhMjczMjQ2OTk5NTBhZmYyZjcwOGJiZWM2NWVhMWEw`

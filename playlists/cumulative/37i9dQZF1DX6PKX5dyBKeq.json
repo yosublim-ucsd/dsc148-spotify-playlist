@@ -2499,6 +2499,28 @@
     },
     {
       "album": {
+        "name": "First Lap",
+        "url": "https://open.spotify.com/album/0Ukfuv1AjZhBQg7c2QpDaK"
+      },
+      "artists": [
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        },
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151176,
+      "name": "Back 2 Back (feat. Potter Payper)",
+      "url": "https://open.spotify.com/track/3qADzUJtHJMy6rxbSLusJ5"
+    },
+    {
+      "album": {
         "name": "Back 2 Back (feat. Potter Payper)",
         "url": "https://open.spotify.com/album/2vbR7MuRmXGWfIm3zEQpdf"
       },
@@ -2514,7 +2536,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151176,
       "name": "Back 2 Back (feat. Potter Payper)",
       "url": "https://open.spotify.com/track/6fRWobvU9232QJsfZi2Bnp"
@@ -25482,6 +25504,24 @@
       "duration_ms": 187500,
       "name": "That Don't Mean",
       "url": "https://open.spotify.com/track/0krNfglAuKquyzdvToSBGO"
+    },
+    {
+      "album": {
+        "name": "SKALA",
+        "url": "https://open.spotify.com/album/6BIGR8uZg8WLTwYBowVX4d"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "That's Money",
+      "url": "https://open.spotify.com/track/2DklZOenvD23m4sq7OZzS1"
     },
     {
       "album": {

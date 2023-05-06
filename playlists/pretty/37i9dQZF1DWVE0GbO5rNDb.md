@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,539 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,583 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Tangerine Skies](https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Tangerine Skies](https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5) | 3:12 |
 | 100 | [Problems](https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 2:51 |
 
-Snapshot ID: `MCxmZDkwODg2NzMxYzg4OWNkOThhNTgxM2UwMWFkYWQ4ZGMwNDY5ZjUx`
+Snapshot ID: `MCw0YTBjNzNhYzc1YmY0MDEwNzhkZTZiMTY2N2ZmZWNmZjJkNGEzYWIx`

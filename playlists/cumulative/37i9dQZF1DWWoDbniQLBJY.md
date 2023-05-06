@@ -2,7 +2,7 @@
 
 ### [Mediodía Acústico](https://open.spotify.com/playlist/37i9dQZF1DWWoDbniQLBJY)
 
-> Pop Acústico para tu día.
+> Pop acústico para tu día.
 
 172 songs - 10 hr 26 min
 

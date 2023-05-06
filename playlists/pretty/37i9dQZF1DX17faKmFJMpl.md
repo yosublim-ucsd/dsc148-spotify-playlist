@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,335 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,337 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [But I Go](https://open.spotify.com/track/3aLFsHsklwOV1yatI8Z9ZQ) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 3:21 |
 | 100 | [I Don't Give a F\*\*k](https://open.spotify.com/track/5JLuYzihQrbSUChde9wCFn) | [Nastyz](https://open.spotify.com/artist/7i3DzAwRJW84LWLHGjzY6g), [DEADP](https://open.spotify.com/artist/3hk800Fb8F8IQe1WfFGT1w), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z) | [One Nation](https://open.spotify.com/album/6lspY215eSyzOThJHq0WFq) | 3:48 |
 
-Snapshot ID: `MCxkOWNlYTM3Mjc3YjQyZmI1Mjc3NjZiNDk3ZjRiMDNmZWI4MGEyOGQw`
+Snapshot ID: `MCwzODczY2VmNmQxMGJmODgxNzI0ZWQzYjZkYjc4ZWU5OTM3ZWE4YmFk`

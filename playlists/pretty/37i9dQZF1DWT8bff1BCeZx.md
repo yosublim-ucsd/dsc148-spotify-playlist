@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 943 likes - 50 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 976 likes - 50 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Praise Medley \(Live in London\)](https://open.spotify.com/track/15ycm5YuueCG3dIFqaY9zJ) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Praise Medley \(Live in London\)](https://open.spotify.com/album/7JFZdCVfCb849MLP2aOOoV) | 9:48 |
 | 50 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 |
 
-Snapshot ID: `MCw5YjllYWViZWExYTVjODhmNzg3NGNlZjQ4MmY0ZmEyYjZjNTcyMThh`
+Snapshot ID: `MCwwNWQ4MjgwMjkyM2EyZjM1NTZlYjM5MmYyMjJkNTk5ZjRmMDhlMjA2`

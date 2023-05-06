@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "My Name",
+        "url": "https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy"
+    },
+    {
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },

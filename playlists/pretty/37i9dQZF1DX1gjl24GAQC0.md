@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Enjoy EPEX's takeover and special clips! \(EPEX의 테이크오버와 스페셜 클립스를 감상하세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,622 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,820 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 49 | [Back Down](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : SET IN](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) | 2:48 |
 | 50 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 |
 
-Snapshot ID: `MCwxNmFlOTk4NjM5MWRkNDAyYjM4MzQxYzNjOGU4Yjk4NTQ2NjA2ZWI4`
+Snapshot ID: `MCxhNGUzZTZmNDU3MmQwYzU5ZDBiYzg0NjIwNjFjMzI0ODI0YzRhZGZh`

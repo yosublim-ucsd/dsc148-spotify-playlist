@@ -1,12 +1,12 @@
 {
   "description": "Relax to these chilled instrumental Christmas tunes. ",
-  "num_followers": 53223,
+  "num_followers": 53214,
   "original_name": "Relaxing Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjAxZWJkMDY1NTNmZGIxMzQ1NmZjMzdiYThhMzExYWMyODU2YzU2",
+  "snapshot_id": "MCwxMTk1ZTQ1YmMzMmQxMzYxNDc2NGYwN2U1MDFhZGMzZDM4OWZmMDdj",
   "tracks": [
     {
       "added_at": "2022-12-16 16:31:33",
@@ -289,7 +289,7 @@
         }
       ],
       "duration_ms": 174320,
-      "name": "Warlock: Bethlehem Down",
+      "name": "Bethlehem Down",
       "url": "https://open.spotify.com/track/2HJfbaED8RpSad8pUE9Toe"
     },
     {
@@ -604,12 +604,16 @@
       },
       "artists": [
         {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
           "name": "Sheku Kanneh-Mason",
           "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
         }
       ],
       "duration_ms": 154422,
-      "name": "Traditional: Gabriel's Message",
+      "name": "Gabriel's Message",
       "url": "https://open.spotify.com/track/0QWDOBSNiPaM73Y2AxXQ4L"
     },
     {

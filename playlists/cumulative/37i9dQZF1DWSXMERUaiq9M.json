@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 191001,
       "name": "Bananas",
       "url": "https://open.spotify.com/track/6Hze42mslIeUDRGeq8NnlQ"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 416318,
       "name": "Haze - Marlon Hoffstadt AKA DJ Daddy Trance Remix",
       "url": "https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G"
@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Teenage Dreams",
+        "url": "https://open.spotify.com/album/1SSgm7YR2sCfkP0gfF9L5G"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241750,
+      "name": "I've Been Meaning To Tell You",
+      "url": "https://open.spotify.com/track/5n3ukwahCHdDfgDN4Vs4V0"
+    },
+    {
+      "album": {
         "name": "Irre",
         "url": "https://open.spotify.com/album/6XEuoKZxz5zuNkYFFx5doW"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8"
@@ -820,7 +838,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 221750,
       "name": "Make It Thru",
       "url": "https://open.spotify.com/track/2jD9uQeNEPIqFEJmJ33zuk"
@@ -842,7 +860,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 253548,
       "name": "Mayday Anthem - Thomas Schumacher Remix",
       "url": "https://open.spotify.com/track/0h5bjHIioNsHAV58lcNVqs"
@@ -907,6 +925,28 @@
     },
     {
       "album": {
+        "name": "Neo Eros",
+        "url": "https://open.spotify.com/album/6ouucH3hin2Y2IKUUAi3cD"
+      },
+      "artists": [
+        {
+          "name": "BXTR",
+          "url": "https://open.spotify.com/artist/5DVHsT32QqMheNUahCSEAA"
+        },
+        {
+          "name": "Trudge",
+          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327555,
+      "name": "Neo Eros",
+      "url": "https://open.spotify.com/track/1OWIJ8oVoeoKto8vNKQs5R"
+    },
+    {
+      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI"
       },
@@ -918,7 +958,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 249250,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O"
@@ -1064,7 +1104,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 250348,
       "name": "Phonky Tribu - DJ HEARTSTRING Remix",
       "url": "https://open.spotify.com/track/7w8qT1UcnJIZafNiLu2C7h"
@@ -1282,7 +1322,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 346339,
       "name": "Take That",
       "url": "https://open.spotify.com/track/1rRBOQnG1Y86iszGf4J7Px"
@@ -1442,10 +1482,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 349393,
       "name": "Vigour - Julian Muller Remix",
       "url": "https://open.spotify.com/track/0Wh4YlbUtNSrgHq6HnfD0c"
+    },
+    {
+      "album": {
+        "name": "Walking Alone",
+        "url": "https://open.spotify.com/album/4vVG1aL4wDWz1dpJTMTNfD"
+      },
+      "artists": [
+        {
+          "name": "Julien Bracht",
+          "url": "https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189729,
+      "name": "Walking Alone",
+      "url": "https://open.spotify.com/track/1YHcwgrbsYdyyAFYiW8MNN"
     },
     {
       "album": {

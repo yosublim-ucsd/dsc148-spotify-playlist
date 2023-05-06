@@ -2521,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/2WuNuLoaj2LFVqTlGnVDIn"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205764,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/2m5EUOqv1XjDW4yP0TZFKN"
+    },
+    {
+      "album": {
         "name": "Futurism - EP",
         "url": "https://open.spotify.com/album/3k9FBTWLgUyzTrhkZSUwEI"
       },

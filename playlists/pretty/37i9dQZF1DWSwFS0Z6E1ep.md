@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s\. Cover: Elvis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,747 likes - 150 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,040 likes - 150 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 149 | [I Need a Man](https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [I Need a Man / No Matter Who's to Blame](https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD) | 2:52 |
 | 150 | [Move It \- Live; 1998 Remaster](https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Cliff: Cliff Sings](https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er) | 2:18 |
 
-Snapshot ID: `MCwzYTgzOTQ0ODQyMmI2YTExMDBlODJhZjdmZjMxYmFiM2Y2OGRjMGRh`
+Snapshot ID: `MCwzZDU5MzIyNjVhNzBkYzg4MmZhZjUzZmI4NWM4NDk0ZTJlMjkwMGNl`

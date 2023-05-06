@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,815 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,873 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Dawncolored Horse](https://open.spotify.com/track/3InAiW7SMYPaO3roqeGVY5) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Dawncolored Horse](https://open.spotify.com/album/1DDLJqQKVmRMnQDDNXtFtN) | 4:04 |
 | 80 | [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 |
 
-Snapshot ID: `MCwyOTU2MWE3NjcyYWEyMTcyMGQzYjcwMDdlNzNjMDI1NWJiZWNhMTMw`
+Snapshot ID: `MCw2MDllZDhjYWU3MjM4YmU0Y2ZlYTgwODMzOWYwY2E1YmZiMTY0ZmFm`

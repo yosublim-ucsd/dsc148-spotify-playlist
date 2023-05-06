@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of R&B music today. Cover: Miguel",
+  "description": "The pulse of R&B music today. Cover: Q",
   "name": "Are & Be",
   "tracks": [
     {
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 225882,
       "name": "Curious (feat. Fabolous)",
       "url": "https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx"
@@ -1704,6 +1704,28 @@
       "duration_ms": 209493,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
+    },
+    {
+      "album": {
+        "name": "Fell In Love",
+        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121283,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
     },
     {
       "album": {
@@ -3252,7 +3274,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 178720,
       "name": "Like Her Too",
       "url": "https://open.spotify.com/track/2prgEUNls0vlOlZoDzTw5m"
@@ -5327,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "TODAY",
+        "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "TODAY",
+      "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
+    },
+    {
+      "album": {
         "name": "Good Morning Gorgeous (Deluxe)",
         "url": "https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6"
       },
@@ -5610,7 +5650,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 163700,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
@@ -5826,6 +5866,28 @@
       "duration_ms": 230136,
       "name": "white rice d\u00e9j\u00e0 vu",
       "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
+    },
+    {
+      "album": {
+        "name": "Life On Earth - EP",
+        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "NO1-NOAH",
+          "url": "https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "White Tee (with NO1-NOAH)",
+      "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
     },
     {
       "album": {

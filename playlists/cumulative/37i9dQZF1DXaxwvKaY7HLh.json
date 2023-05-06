@@ -528,7 +528,7 @@
     {
       "album": {
         "name": "Flowers",
-        "url": "https://open.spotify.com/album/2N0sEHS8gQ0Lkc0BEhW4nO"
+        "url": "https://open.spotify.com/album/25ekzltG7lGkSfGYacKSIH"
       },
       "artists": [
         {
@@ -539,6 +539,24 @@
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174813,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4gdaqSDmrBW3iqc8cS4GYx"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2N0sEHS8gQ0Lkc0BEhW4nO"
+      },
+      "artists": [
+        {
+          "name": "Espanglish",
+          "url": "https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
       "duration_ms": 174863,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6gCH48ApMfuvrbtedc1ID3"

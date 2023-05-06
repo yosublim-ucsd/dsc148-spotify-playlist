@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Bree Runway & Khalid",
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Lewis Capaldi",
   "name": "Everyday Favorites ",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 170906,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 185675,
       "name": "Boat",
       "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 157655,
       "name": "Easier",
       "url": "https://open.spotify.com/track/0yFecWYbAQnY8DJlHjp1K5"
@@ -1850,6 +1850,24 @@
       "duration_ms": 194255,
       "name": "Electric Life",
       "url": "https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "End Of Youth",
+      "url": "https://open.spotify.com/track/0vber253Le8WWt7gKorVe9"
     },
     {
       "album": {
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 204503,
       "name": "Face in the Crowd",
       "url": "https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl"
@@ -2124,7 +2142,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 211266,
       "name": "feel it now (alive)",
       "url": "https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD"
@@ -2925,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "Hello Love",
+      "url": "https://open.spotify.com/track/40bgBzGrYBURVjiQ4itEkh"
+    },
+    {
+      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ"
       },
@@ -3287,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143573,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
+    },
+    {
+      "album": {
         "name": "How I'm Feeling Now",
         "url": "https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj"
       },
@@ -3518,6 +3572,24 @@
       "duration_ms": 218701,
       "name": "I Feel Like Dancing",
       "url": "https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP"
+    },
+    {
+      "album": {
+        "name": "Blood Orange",
+        "url": "https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193950,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg"
     },
     {
       "album": {
@@ -4005,6 +4077,24 @@
     },
     {
       "album": {
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170975,
+      "name": "james (bleeding alone)",
+      "url": "https://open.spotify.com/track/5VS8Efjwq1WcAm3B0cmMit"
+    },
+    {
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/5r1DgUZlvQtt0R5JRZBOBo"
       },
@@ -4232,10 +4322,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 227924,
       "name": "Last Train To London",
       "url": "https://open.spotify.com/track/7djOJmSvxXtq0Q49iC9qsX"
+    },
+    {
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/4aAHlX9XKBRfdqUp4JVvr0"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232606,
+      "name": "Last Train To London (I Won't Look Back)",
+      "url": "https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5"
     },
     {
       "album": {
@@ -4709,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "Love Is The New Money",
+        "url": "https://open.spotify.com/album/6yg9aXhK3IhmiCD7RZ469S"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150704,
+      "name": "Love Is The New Money",
+      "url": "https://open.spotify.com/track/6SQzw4ZppE6ahHRAtkLvU4"
+    },
+    {
+      "album": {
         "name": "Love Like That",
         "url": "https://open.spotify.com/album/44hBex1hvysza12ZjXBk8s"
       },
@@ -5127,6 +5253,24 @@
     },
     {
       "album": {
+        "name": "MY FAVORITE SONG",
+        "url": "https://open.spotify.com/album/5RMb4MqLgLBjUzNDzyh0wT"
+      },
+      "artists": [
+        {
+          "name": "clide",
+          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159363,
+      "name": "MY FAVORITE SONG",
+      "url": "https://open.spotify.com/track/24XNbv00pqhodOI2473wTs"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
       },
@@ -5366,7 +5510,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 133506,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/2vV4jkfEqASruPUHV4Ieir"
@@ -6048,10 +6192,32 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 185162,
       "name": "Seasonal Love",
       "url": "https://open.spotify.com/track/4XsIjNzaTd19Kuldexl3RA"
+    },
+    {
+      "album": {
+        "name": "Bebe",
+        "url": "https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203427,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6sbqpXpDBb6MNv93lhqKvl"
     },
     {
       "album": {
@@ -6092,6 +6258,24 @@
       "duration_ms": 243180,
       "name": "Secondhand Smoke",
       "url": "https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9"
+    },
+    {
+      "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/6YgCC8d3DSJVDYPBDkPsEb"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168455,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/4rmboUXxyv5FhkqdSwiBeG"
     },
     {
       "album": {
@@ -6572,7 +6756,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
@@ -7006,7 +7190,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 152703,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p"
@@ -7302,7 +7486,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200479,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/5x748P8u1DkAIbquBuYOjm"
@@ -7385,6 +7569,24 @@
     },
     {
       "album": {
+        "name": "What More Can I Say",
+        "url": "https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141141,
+      "name": "What More Can I Say",
+      "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"
+    },
+    {
+      "album": {
         "name": "What Other People Say",
         "url": "https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW"
       },
@@ -7404,6 +7606,24 @@
       "duration_ms": 194890,
       "name": "What Other People Say",
       "url": "https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9"
+    },
+    {
+      "album": {
+        "name": "Whatever It Takes",
+        "url": "https://open.spotify.com/album/0cgPswcsgn7OSiqsrk71TO"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153640,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/2Bv3pU74afHFWdCAZ8irlT"
     },
     {
       "album": {
@@ -7516,7 +7736,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210952,
       "name": "Wild Dogs (Running in a Slow Dream)",
       "url": "https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB"

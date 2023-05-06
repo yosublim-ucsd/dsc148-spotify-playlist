@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "It Wasn't Enough",
+        "url": "https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265973,
+      "name": "It Wasn't Enough",
+      "url": "https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q"
+    },
+    {
+      "album": {
         "name": "Let's\u2026",
         "url": "https://open.spotify.com/album/5dalkwkZMUKZsO9TlvBhWN"
       },
@@ -3612,7 +3630,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 211786,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM"

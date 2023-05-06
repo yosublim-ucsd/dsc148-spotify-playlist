@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 161791,
       "name": "Fazendo o Sinal",
       "url": "https://open.spotify.com/track/0azZcZsS8POiuYJQMM8b7Q"
@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 141281,
       "name": "NA RISCA",
       "url": "https://open.spotify.com/track/6LcrQm4HkhTeYhAhcvzHNJ"
@@ -3319,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "Sem Remorso",
+        "url": "https://open.spotify.com/album/3QzXO1kcPGHrtPuouwSsN7"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Sem Remorso",
+      "url": "https://open.spotify.com/track/1deAMrUofYXWI1ELLG9aiC"
+    },
+    {
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
       },
@@ -3972,6 +3990,32 @@
       "duration_ms": 88333,
       "name": "XXX",
       "url": "https://open.spotify.com/track/5S5DLXSjrCKC7LCJ9qsdx8"
+    },
+    {
+      "album": {
+        "name": "Yo Mami",
+        "url": "https://open.spotify.com/album/66OTbNBvgT9VFMd4aMDdj6"
+      },
+      "artists": [
+        {
+          "name": "Mc XC da Santa Cruz",
+          "url": "https://open.spotify.com/artist/1TpZVD01guvaoeEZMWzFLf"
+        },
+        {
+          "name": "Gustaviis",
+          "url": "https://open.spotify.com/artist/4HryQl93pMBuVmVvBaAWwk"
+        },
+        {
+          "name": "Cortez Caza13",
+          "url": "https://open.spotify.com/artist/0AQHWHsZx0zuIYmh8UtpIj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174168,
+      "name": "Yo Mami",
+      "url": "https://open.spotify.com/track/1f5zESheEAJvU2hYZxMGRX"
     },
     {
       "album": {

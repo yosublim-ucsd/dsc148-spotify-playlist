@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,530 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,562 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 49 | [Cinta Sederhana](https://open.spotify.com/track/5srmbaORKvTMUYpYME1fuy) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 3:23 |
 | 50 | [Pulih](https://open.spotify.com/track/1T7NMrWDpNQ25wm4druuHN) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Pulih](https://open.spotify.com/album/3qtnTp6JYFCij89TNpH5cq) | 3:46 |
 
-Snapshot ID: `MCwwZWUwN2M4YmYxODdiZGRkMGZjZDYyZjZkMTg2MTczNmEzYTU1YjU4`
+Snapshot ID: `MCxkMmZiMDM5NmU4NjlmMGI1MjEyY2Q5YTg4OTdiMzk3OTRjNDUyOTll`

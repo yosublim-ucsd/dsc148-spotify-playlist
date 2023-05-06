@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,715 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,748 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Prisoner Of Love](https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt) | 6:40 |
 | 45 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 
-Snapshot ID: `MCxiY2RmZjJlMjE2OGUwZjlkZTFiOThmMDY1MmM0YjY5NmRlZGZhYTdm`
+Snapshot ID: `MCwxZDZhYTU5NjRjMTlmNGJhZmQxMDRkYmZkNDI2Y2U0YzFkZWE3ZTU3`

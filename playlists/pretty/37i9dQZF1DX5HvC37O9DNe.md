@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 
 > Semplicemente noi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,447 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,510 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 | 74 | [Duemilaminuti](https://open.spotify.com/track/59nchDV5vZqIP0m1DgpSuS) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Duemilaminuti](https://open.spotify.com/album/7LZw3UWmtxA9mP8s9ZeIEb) | 3:44 |
 | 75 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 |
 
-Snapshot ID: `MCxhYWQ3YTU1NjhiYjFmYzVhY2M5NzExOTA2YmI1OWViYzQ0NDE0M2Y5`
+Snapshot ID: `MCxjZGQ1MjA3N2UzNTVkOWQyMGVkYzk1NjdiNmYyYWVjMzNmZjE1NWEw`

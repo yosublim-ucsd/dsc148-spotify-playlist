@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/2liB5eCQr3ZXlAWektTeH8"
+      },
+      "artists": [
+        {
+          "name": "Kumbhaka",
+          "url": "https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172814,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/2qdP9OsPTkqBVSpKyBlh62"
+    },
+    {
+      "album": {
         "name": "Leaves Breathing",
         "url": "https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5"
       },

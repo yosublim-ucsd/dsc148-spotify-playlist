@@ -1,12 +1,12 @@
 {
   "description": "Soft, shimmering strings to help you relax.",
-  "num_followers": 169597,
+  "num_followers": 169623,
   "original_name": "Shimmering Strings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjliNGNlOWNiZDIyNzBhM2JmNzc5OWI2MzBkMjliNjA5YmIxNzU1",
+  "snapshot_id": "MCxkYjg4ZWMwOWQxNDFkYzIxNWU5ODcxMzY4MDMxNjk1YWI1YWZmYmRh",
   "tracks": [
     {
       "added_at": "2023-05-04 14:19:20",
@@ -101,7 +101,7 @@
         }
       ],
       "duration_ms": 300231,
-      "name": "Respighi: 6 Pieces for Piano, P. 44 - No. 3. Notturno. Lento (Version for Harp)",
+      "name": "6 Pieces for Piano, P. 44: No. 3. Notturno. Lento (Version for Harp)",
       "url": "https://open.spotify.com/track/3mk0kPavvau5tz8b174cdl"
     },
     {
@@ -237,7 +237,7 @@
         }
       ],
       "duration_ms": 178786,
-      "name": "Field: Nocturne in B Flat Major, H. 37 (Version for Harp)",
+      "name": "Nocturne in B Flat Major, H. 37 (Version for Harp)",
       "url": "https://open.spotify.com/track/5UhNUgVvEDNY7FBYo5f7QJ"
     },
     {
@@ -469,7 +469,7 @@
         }
       ],
       "duration_ms": 163285,
-      "name": "Gregson: II. Up",
+      "name": "Quartets: Three: II. Up",
       "url": "https://open.spotify.com/track/4R4WPTImKqVHIXEIpqbuWN"
     },
     {
@@ -1036,6 +1036,10 @@
       },
       "artists": [
         {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
           "name": "Pl\u00ednio Fernandes",
           "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
         },
@@ -1045,7 +1049,7 @@
         }
       ],
       "duration_ms": 317781,
-      "name": "Villa-Lobos: Bachianas brasileiras No. 5: I. Aria (Cantilena): Adagio",
+      "name": "Bachianas brasileiras No. 5: I. Aria (Cantilena): Adagio",
       "url": "https://open.spotify.com/track/1BpKbG3NkHgK5AypMtdUv9"
     },
     {
@@ -1365,7 +1369,7 @@
         }
       ],
       "duration_ms": 290847,
-      "name": "Lawson: fields of forever",
+      "name": "fields of forever",
       "url": "https://open.spotify.com/track/6g4APvysGUmiSl9hyxPboK"
     },
     {

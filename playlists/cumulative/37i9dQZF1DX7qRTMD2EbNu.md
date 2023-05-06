@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=B\-gkqPYAQ3CDQqrj40ZpDQ"> Kwesi Arthur</a>
 
-211 songs - 10 hr 54 min
+212 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [45](https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:52 | 2023-01-13 |  |
 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 | 2023-03-17 | 2023-03-31 |
 | [A\-Liens](https://open.spotify.com/track/34MuuwKjd0PvbuQu4H5y7I) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [A\-Liens](https://open.spotify.com/album/74TSApsNw3pwcNsrrwKuUA) | 2:23 | 2023-01-20 | 2023-02-04 |
-| [Accra](https://open.spotify.com/track/0Qr8XJNyftBRk0MyD1DFyr) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/3GBEpfWyKBlONW7DO4Y0ks) | [The Unbroken \(Clean\)](https://open.spotify.com/album/6m2AB5GhRt6qEVNnllcPnd) | 4:34 | 2023-04-27 |  |
+| [Accra](https://open.spotify.com/track/07IGm3D3QJrZkrpqWovJi6) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/3GBEpfWyKBlONW7DO4Y0ks) | [The Unbroken](https://open.spotify.com/album/2j44U6xDDXZtlQQ6UUhkpY) | 4:34 | 2023-05-04 |  |
+| [Accra](https://open.spotify.com/track/0Qr8XJNyftBRk0MyD1DFyr) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/3GBEpfWyKBlONW7DO4Y0ks) | [The Unbroken \(Clean\)](https://open.spotify.com/album/6m2AB5GhRt6qEVNnllcPnd) | 4:34 | 2023-04-27 | 2023-05-06 |
 | [Accra \(feat\. Akan\)](https://open.spotify.com/track/70VDlfsvRSVu5WrtfqCC0N) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/7baoHltUTBKIDzzHLJ1aXT) | [The Unbroken](https://open.spotify.com/album/42i9e2ejdzOAyBCG0oRSzO) | 4:34 | 2022-08-05 | 2023-05-04 |
 | [Affairs](https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Affairs](https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G) | 2:44 | 2023-04-20 |  |
 | [Agatha](https://open.spotify.com/track/29j1Nc7uQj1LxeYjiszTGb) | [D3MI](https://open.spotify.com/artist/7uh8LdpyMZ8SeMZfD2ZaRs) | [Agatha](https://open.spotify.com/album/39etPLAXCXpsXNbUBJpJ3E) | 2:15 | 2023-02-23 | 2023-03-03 |

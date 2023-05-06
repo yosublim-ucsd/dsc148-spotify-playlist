@@ -3773,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "album": {
         "name": "Rhythm Sister - EP",
         "url": "https://open.spotify.com/album/2DOdjtWqm3AqAHvedMmCRr"
       },
@@ -6644,7 +6662,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 224515,
       "name": "My Feelings For You - Mark Knight Remix",
       "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
@@ -7724,7 +7742,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 220581,
       "name": "Pump the Brakes",
       "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
@@ -9841,6 +9859,24 @@
     },
     {
       "album": {
+        "name": "The Throne",
+        "url": "https://open.spotify.com/album/0jbdpVS8HSlnPe2UhxSGwA"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "The Throne",
+      "url": "https://open.spotify.com/track/6Jl28uiFdGBPOx5EScNZw7"
+    },
+    {
+      "album": {
         "name": "The World You See",
         "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
       },
@@ -10298,7 +10334,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 208374,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc"
@@ -10324,7 +10360,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"

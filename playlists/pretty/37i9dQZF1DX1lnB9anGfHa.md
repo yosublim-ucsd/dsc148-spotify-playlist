@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,417 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,535 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 49 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 |
 | 50 | [Bu Izdırabın Panzehiri](https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:24 |
 
-Snapshot ID: `MCwxMDAwNmQ1ZTJiNzQyMGFlYWRkNGNjZGUzZjQ5NmJiYWMwZjAzM2Fh`
+Snapshot ID: `MCxmMTc0YzBmMGFhN2U3YWFiYTFkOTM4NzhjZTYzM2RjZjNiYmM2NDI4`

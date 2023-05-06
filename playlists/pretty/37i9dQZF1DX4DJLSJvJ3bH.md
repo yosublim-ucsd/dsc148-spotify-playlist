@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,881 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,874 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [Christmas Time Is Here](https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:34 |
 | 100 | [Santa Claus Blues \- 2004 \- Remaster](https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/4S6Mb14EIOM4aIrBf3i9x3) | 5:46 |
 
-Snapshot ID: `MCxjYWEyMWE5YWVlYmMyMjA1NmJmZWYzNjM2NGRiZTMzZTdiYWQ2YTI4`
+Snapshot ID: `MCxhYWFmNmIwNzU3ZTRjYjU4MmRjN2ZmZDNiMTQ1ODUzMmVlMTM3MjIz`

@@ -1,13 +1,41 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 42293,
+  "num_followers": 42313,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTNhNmY3ZWNhYjMzNWFjODc4NGUxYmQxODVkMWRiOGQ3MzM4OTJk",
+  "snapshot_id": "MCxmNjM3MTU2YmNkNTNmYmRhNmUxOGQyYWNkZjNkZDI3MjI2MDU5ZDRl",
   "tracks": [
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Look For Water",
+        "url": "https://open.spotify.com/album/2fFPASABUYoAT64T6KSbCZ"
+      },
+      "artists": [
+        {
+          "name": "Jeff Coffin",
+          "url": "https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D"
+        },
+        {
+          "name": "Johnny Vidacovich",
+          "url": "https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA"
+        },
+        {
+          "name": "James Singleton",
+          "url": "https://open.spotify.com/artist/3A07LOMMmRbj9cFQ7xAqQt"
+        },
+        {
+          "name": "Tony Dagradi",
+          "url": "https://open.spotify.com/artist/7jY3IF3mLOfmkuTMZr5d70"
+        }
+      ],
+      "duration_ms": 405054,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/35vLmAqKYb2R9KwKP2aKOV"
+    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {

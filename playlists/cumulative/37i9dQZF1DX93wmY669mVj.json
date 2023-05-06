@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Liszt: Consolations, S. 172: No. 3 in D-Flat Major. Lento placido",
+        "url": "https://open.spotify.com/album/0r5hDMFwSFDdabAVgoZoQq"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283106,
+      "name": "Consolations, S. 172: No. 3 in D-Flat Major. Lento placido",
+      "url": "https://open.spotify.com/track/5HMB40txXdGhVcPH5QxibE"
+    },
+    {
+      "album": {
         "name": "Liszt Complete Piano Music, Vol. 24: Mephisto Waltzes, 2 Elegies & Grosso Konzertsolo",
         "url": "https://open.spotify.com/album/6b6cLj6UakxAFUhQnrNhCR"
       },
@@ -1320,28 +1342,6 @@
       "duration_ms": 1330560,
       "name": "Liszt: A Faust Symphony, S. 108: II. Gretchen",
       "url": "https://open.spotify.com/track/3uOQBWIqDmIvpwiGWwBGl4"
-    },
-    {
-      "album": {
-        "name": "Liszt: Consolations, S. 172: No. 3 in D-Flat Major. Lento placido",
-        "url": "https://open.spotify.com/album/0r5hDMFwSFDdabAVgoZoQq"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "date_added": "2021-08-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 283106,
-      "name": "Liszt: Consolations, S. 172 - No. 3 in D-Flat Major. Lento placido",
-      "url": "https://open.spotify.com/track/5HMB40txXdGhVcPH5QxibE"
     },
     {
       "album": {

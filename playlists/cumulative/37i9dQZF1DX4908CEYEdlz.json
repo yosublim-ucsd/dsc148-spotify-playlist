@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
+  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Bush",
   "name": "Volume M\u00e1ximo",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 149214,
       "name": "Aglomera\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6oV9vEUb5dmXic5bjeg7GP"
+    },
+    {
+      "album": {
+        "name": "All Things Must Change",
+        "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215318,
+      "name": "All Things Must Change",
+      "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
     },
     {
       "album": {
@@ -2662,7 +2680,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 232933,
       "name": "Nowhere Generation",
       "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"

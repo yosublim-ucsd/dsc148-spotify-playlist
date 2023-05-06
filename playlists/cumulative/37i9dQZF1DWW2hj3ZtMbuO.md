@@ -4,11 +4,12 @@
 
 > Sapphic songs that defined your music taste as "yearning."
 
-334 songs - 19 hr 58 min
+335 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [02:00 AM](https://open.spotify.com/track/3RSnbJiWwd3hP4d7T5D0w5) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [02:00 AM](https://open.spotify.com/album/0w5jwceudnMpE3e6eGFOF2) | 3:19 | 2023-01-24 |  |
+| [02:00 AM](https://open.spotify.com/track/1kyU60IXfHJrgpNPUYtYJX) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [02:00 AM](https://open.spotify.com/album/7j1pdxWUiAEjNY49NDNLtS) | 3:19 | 2023-03-31 |  |
+| [02:00 AM](https://open.spotify.com/track/3RSnbJiWwd3hP4d7T5D0w5) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [02:00 AM](https://open.spotify.com/album/0w5jwceudnMpE3e6eGFOF2) | 3:19 | 2023-01-24 | 2023-05-06 |
 | [18 Cigarettes](https://open.spotify.com/track/5GoyQfDO2yYMu8xerIlsRH) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Under the Rolling Moon](https://open.spotify.com/album/6jXMVz8QGTiNkVXS6BlOJQ) | 3:13 | 2022-01-08 | 2022-04-11 |
 | [4am](https://open.spotify.com/track/4BWJGWmzbjsnA94Weyi5j4) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/4K5i1l5M44nXP81JK2HP8L) | 1:50 | 2021-12-15 | 2022-10-13 |
 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 | 2022-10-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,479 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,476 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 99 | [Playing with Plastic](https://open.spotify.com/track/0dHMX9II1dwAzBinJEeRhX) | [Ximena ASMR](https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C) | [Plastic Triggers](https://open.spotify.com/album/0EBo2gGUwi5YuXAf8v8wQj) | 4:08 |
 | 100 | [We Taped Microphones on Her Face, Pt\. 2](https://open.spotify.com/track/2KlmTjyXISEq11QbfNYPZW) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [We Taped Microphones on Her Face](https://open.spotify.com/album/1KZrHGA1WQ8a3bweqDZe2t) | 2:50 |
 
-Snapshot ID: `MCw5ZDI1YzM4NjAyMzExZGNkNjRiYzdjMWZmOWFjY2I3MDBhYWZkNjhj`
+Snapshot ID: `MCxlNjdjMGZkZTM2ZDU4N2FmNTJmNzM0YjQxM2JkM2JjMjJiNzU3M2Nl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 
 > Kick back to the best new and recent chill hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,054,780 likes - 130 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,056,600 likes - 130 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 | 129 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 |
 | 130 | [right here](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:15 |
 
-Snapshot ID: `MCxjNTc4YzBiMmI4OGU3ZGU1M2M3OTljYzYwZDU1ZTFiNmEzNTk1MWVh`
+Snapshot ID: `MCxlYTZkMDNiMWMyMzkzMjU5ODQ5MTEwZTg1M2VjMjE3NmE4ZmI1NGUz`

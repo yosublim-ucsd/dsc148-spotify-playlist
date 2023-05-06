@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 225886,
       "name": "Paulina",
       "url": "https://open.spotify.com/track/6htw75SIT1q1SSp681lA2V"
@@ -1800,6 +1800,24 @@
       "duration_ms": 292386,
       "name": "Shosholoza",
       "url": "https://open.spotify.com/track/2O32KTWp8w2JO0v58wuNQa"
+    },
+    {
+      "album": {
+        "name": "Umthombo Wamanzi",
+        "url": "https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "Siligugu Isiphambano",
+      "url": "https://open.spotify.com/track/1NPc4dIbxgekcxpJIMa6A6"
     },
     {
       "album": {

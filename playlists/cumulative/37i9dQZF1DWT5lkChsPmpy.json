@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 240806,
       "name": "Anna's Guesthouse",
       "url": "https://open.spotify.com/track/5MT9dKhdTy2bg6dvxKxhvO"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 161590,
       "name": "Carte blanche",
       "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151230,
       "name": "Ebullience",
       "url": "https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 149647,
       "name": "Etoile",
       "url": "https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m"
@@ -2064,6 +2064,28 @@
       "duration_ms": 152121,
       "name": "Extramundane",
       "url": "https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s"
+    },
+    {
+      "album": {
+        "name": "Window Shades",
+        "url": "https://open.spotify.com/album/5Yh3xIKw4VK04mSZXPLIyN"
+      },
+      "artists": [
+        {
+          "name": "NueBoo",
+          "url": "https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Fair Sky",
+      "url": "https://open.spotify.com/track/2MULc6gHMdtUukyIYifPqw"
     },
     {
       "album": {
@@ -2204,7 +2226,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 111750,
       "name": "Fika",
       "url": "https://open.spotify.com/track/32gy3AZgAjxHUUpVzA42YD"
@@ -3203,6 +3225,28 @@
     },
     {
       "album": {
+        "name": "Window Shades",
+        "url": "https://open.spotify.com/album/5Yh3xIKw4VK04mSZXPLIyN"
+      },
+      "artists": [
+        {
+          "name": "NueBoo",
+          "url": "https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Humbling",
+      "url": "https://open.spotify.com/track/1kcX7g54f1TW6JtzIXJI6F"
+    },
+    {
+      "album": {
         "name": "I and Love",
         "url": "https://open.spotify.com/album/254L0w6tz1JkfmmYNCuX4t"
       },
@@ -3938,7 +3982,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 123950,
       "name": "logical!!",
       "url": "https://open.spotify.com/track/55FwE9jOLEiDhK4Wc8A9Ny"
@@ -5142,7 +5186,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197058,
       "name": "One for Babushka",
       "url": "https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno"
@@ -5704,7 +5748,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 261461,
       "name": "Retronym",
       "url": "https://open.spotify.com/track/3jqzty9EQ5TRe3UzhrtwVU"
@@ -6068,7 +6112,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180000,
       "name": "Semiconcious",
       "url": "https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox"
@@ -6739,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "synthetic",
+        "url": "https://open.spotify.com/album/5FLvrmW24QH7cCM8Xj7dNY"
+      },
+      "artists": [
+        {
+          "name": "dillyphone",
+          "url": "https://open.spotify.com/artist/3MjBxFThZFerMrfiHYl5kT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "synthetic",
+      "url": "https://open.spotify.com/track/08kj1mLiwnc4X4S2gC6HYO"
+    },
+    {
+      "album": {
         "name": "Wiktoria",
         "url": "https://open.spotify.com/album/7hXi2g38I1GwsArIAy8iHE"
       },
@@ -6804,7 +6866,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 290026,
       "name": "The Ethereal",
       "url": "https://open.spotify.com/track/0SX89QeyR4Pvberfp2zA4z"
@@ -7536,7 +7598,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151525,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"

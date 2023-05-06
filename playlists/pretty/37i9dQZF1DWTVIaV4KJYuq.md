@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,565 likes - 110 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,659 likes - 110 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Bell Bottom Blues](https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 3:38 |
 | 110 | [Have A Little Faith In Me](https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Have A Little Faith In Me](https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3) | 3:42 |
 
-Snapshot ID: `MCxkYmJiN2Y5Y2I5NDc0N2VmMTZlY2FiMzAxY2ZjNDhjNTQ4NGM1Mjdm`
+Snapshot ID: `MCxhZjA0Yzk0NTE3NWIyOGU0MGIzZGRlNzY3YzJiOWEwODg2NDRkNDFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,960 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,956 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [MY GROWN UP CHRISTMAS LIST](https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [HITMAN PROJECT \#1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER](https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ) | 4:49 |
 | 100 | [Snowball \(feat\. Vanilla Acoustic\)](https://open.spotify.com/track/6ATxvOBCZYRLXh318dD59I) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 |
 
-Snapshot ID: `MCw4NDMyZWFhNGIzMDg5N2Q0MTBiZWZjNDY3YmU3NDcxYzY3OGVkZTkw`
+Snapshot ID: `MCxhYjc3YzYzYTNjNGRjZGE5M2UzYTU1MmU0ZGM4ZTgyYWRiNDIwNzQ1`

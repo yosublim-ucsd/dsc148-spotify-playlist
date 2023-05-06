@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-340 songs - 17 hr 28 min
+341 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Friendship Of The Gebora](https://open.spotify.com/track/5kJiKkxRlAX62gNCCoMBan) | [Lost Rainbow](https://open.spotify.com/artist/2AcvgHNvj15wvGtQZQDTbh) | [Friendship Of The Gebora](https://open.spotify.com/album/592uas3YkCZMuDdVQnV4BL) | 3:24 | 2022-05-25 |  |
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2022-05-25 | 2022-09-03 |
 | [Gamma Freq Pads](https://open.spotify.com/track/1yOlQ6v0E3Jgo9iY0dtMyQ) | [Masters of Binaurality](https://open.spotify.com/artist/6em3rrtKhjff80iJWE6m6K) | [Total Sleep And Relaxation](https://open.spotify.com/album/11mWqnd5PEdfYuQYEHa2to) | 3:40 | 2022-05-25 | 2022-09-28 |
+| [Gemoedsrust](https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Gemoedsrust](https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC) | 2:17 | 2023-05-05 |  |
 | [Gentle](https://open.spotify.com/track/19PlKAonAMJI24h468rBFp) | [Geneva Semere](https://open.spotify.com/artist/77VKKzoNiFyfVSn32eDiwD) | [Gentle](https://open.spotify.com/album/4EIyV7nsjGmJBgYjA5HtT5) | 2:58 | 2022-05-25 |  |
 | [Gentle Cure](https://open.spotify.com/track/3a4HwrietoocD2toa1Pezg) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 2:54 | 2022-05-25 | 2022-09-28 |
 | [Geologic Time Scale](https://open.spotify.com/track/1TCsfrVx9SZkpevWO1U0sg) | [Hyperion Towers](https://open.spotify.com/artist/5baGEdkemC63ShOCaIoALm) | [Rovaniemi](https://open.spotify.com/album/3XsWkarPPP5cgVEDStABsJ) | 3:20 | 2022-05-25 |  |
@@ -302,7 +303,7 @@
 | [The Cradle](https://open.spotify.com/track/16fzJ5HF36qfBX0ttZad6m) | [Enlightment Spirits](https://open.spotify.com/artist/0OLeckavC2DOpjGiVUTqTF) | [The Cradle](https://open.spotify.com/album/1X4qRvNyOdhiISK1D6Tdpo) | 2:04 | 2022-05-25 | 2022-09-28 |
 | [The Destination](https://open.spotify.com/track/2mGpfyZuvwQT7qimhly4S1) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Time Traveller](https://open.spotify.com/album/6PqJZZ81yzT16VmqLUST6A) | 4:07 | 2022-05-25 | 2022-09-28 |
 | [The Light](https://open.spotify.com/track/0cJOITxJRoFwuMkP4H6v4O) | [Felix Vidal](https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A) | [The Light](https://open.spotify.com/album/4N3mQcawYnSYJPRl1LFPFV) | 2:53 | 2022-12-20 |  |
-| [The Long White](https://open.spotify.com/track/5mY0N7UZF81zOQv9N3RHZi) | [Ben Jinn](https://open.spotify.com/artist/40ZZSzRJe2W6JFoAGOcrfP) | [The Long White](https://open.spotify.com/album/6lVFVsL2h2IGhEhQ3CSSmX) | 3:10 | 2022-05-25 |  |
+| [The Long White](https://open.spotify.com/track/5mY0N7UZF81zOQv9N3RHZi) | [Ben Jinn](https://open.spotify.com/artist/40ZZSzRJe2W6JFoAGOcrfP) | [The Long White](https://open.spotify.com/album/6lVFVsL2h2IGhEhQ3CSSmX) | 3:10 | 2022-05-25 | 2023-05-06 |
 | [The Mystery](https://open.spotify.com/track/0FsQ35iQbVF9UQPZxBhbo1) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [The Mystery](https://open.spotify.com/album/5Khvo321SMlp5HVK6ZZDud) | 3:41 | 2022-05-25 | 2022-09-03 |
 | [The NIght Sky](https://open.spotify.com/track/74BilO0zChICzNl6bXBFWI) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [The NIght Sky](https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG) | 2:58 | 2022-05-25 | 2022-09-28 |
 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 | 2022-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,565 likes - 83 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,562 likes - 83 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 82 | [Merry Christmas Baby \- New Orleans Version](https://open.spotify.com/track/3ps6Pv734JDeN2iZG54EDe) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Merry Christmas Baby \(New Orleans Version\)](https://open.spotify.com/album/2xnAx374BbuXmXUt0OvODM) | 3:23 |
 | 83 | [Christmas Morning Blues](https://open.spotify.com/track/1O8t2pHd3gurIbOhPkWk8h) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/17AJmShSJtRTsPnt0lAfsA) | 3:25 |
 
-Snapshot ID: `MCxjMGU1ZjhhMGY4MGIyNDg0ZDc5YzhmYTBmNWFhZTg2ZGQ2N2Q3YTAy`
+Snapshot ID: `MCxjNTQzNGY0Y2E0Nzg1MGJhZTk5YjNhNjQxNWFjOThlNjZkMDM4OTE0`

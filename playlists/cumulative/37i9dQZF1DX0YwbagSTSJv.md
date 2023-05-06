@@ -4,7 +4,7 @@
 
 > Let it all go and lift yourself up with inspiring ambient music.
 
-163 songs - 9 hr 15 min
+164 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Afterthoughts](https://open.spotify.com/track/1wCeUYtGDLPVFMIF2rMaJ8) | [Zachary Winslow](https://open.spotify.com/artist/3msrl8nVpOm5bwGTr5lyLm) | [Tunnels](https://open.spotify.com/album/74MFpDyFJmMCtvBOznvpve) | 3:20 | 2021-12-23 |  |
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2021-12-23 |  |
 | [Amplector](https://open.spotify.com/track/3rL6i7GokWtuOwZQ3bWcV9) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:03 | 2021-12-23 |  |
-| [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 | 2021-12-23 |  |
+| [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 | 2021-12-23 | 2023-05-06 |
 | [Astral Wonder](https://open.spotify.com/track/7En6m2Yg3J1zAq895bxl78) | [Moon Oceans](https://open.spotify.com/artist/39qPWYWkYbi7esvFXiUpss) | [Solitude in the Stars](https://open.spotify.com/album/20QiaX1rJkQLMxS1UDd9uf) | 3:01 | 2021-12-23 |  |
 | [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 | 2022-11-11 |  |
 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-06-16 |  |
@@ -58,6 +58,7 @@
 | [Ethereal Ease](https://open.spotify.com/track/1Frq45fT42aD8tOdxzH6gn) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Ethereal Ease](https://open.spotify.com/album/5wp6m5rlnmPYBALjPvMnG1) | 3:53 | 2022-08-12 |  |
 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 | 2022-02-18 |  |
 | [Evangelic](https://open.spotify.com/track/0XTn1DV7iPYTS9yVXzgnZI) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Evangelic](https://open.spotify.com/album/6Aa9HH5W8IQHhPuFChIJj1) | 2:33 | 2023-03-17 |  |
+| [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 | 2023-05-05 |  |
 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 |  |
 | [Explorer](https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:03 | 2022-12-30 |  |
 | [Far And Away](https://open.spotify.com/track/44DKn5hqvnO4912GLZqHYI) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:04 | 2021-12-23 |  |

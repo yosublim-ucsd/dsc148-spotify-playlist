@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Didik Budi
 
-153 songs - 12 hr 35 min
+154 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Mergawe](https://open.spotify.com/track/5N2z1MNzKTszoXTZmPnwgG) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ) | [Mergawe](https://open.spotify.com/album/3msYUmQcFQO1D01tcyNmn5) | 3:50 | 2023-04-27 |  |
 | [Minggato](https://open.spotify.com/track/0pyIRAkOApRPrYThYzv1eF) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka) | [Minggato](https://open.spotify.com/album/35ZdXSLT9YEhRHNmTzHKP2) | 4:03 | 2022-08-14 | 2022-11-14 |
 | [Moro Moro Teko \- From "Cidro Asmoro"](https://open.spotify.com/track/2Dbdw6yYIatVj2ka3tUa8l) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Moro Moro Teko \(From "Cidro Asmoro"\)](https://open.spotify.com/album/2A3Acl80HV6wwTqFiVURi8) | 4:46 | 2022-05-26 | 2022-11-14 |
+| [Mulyomu Mulyoku](https://open.spotify.com/track/2YuyuyKmfgtnK5GqZSJntw) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy) | [Mulyomu Mulyoku](https://open.spotify.com/album/48Lw2KHfTibGKGFoCdRhdA) | 2:50 | 2023-05-05 |  |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2022-05-26 |  |
 | [NEMEN](https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU) | [Sasya Arkhisna](https://open.spotify.com/artist/3k3ezqE9kuA9gkrojBhxeS) | [NEMEN](https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn) | 5:16 | 2023-04-27 |  |
 | [Neng Ngarep Moto](https://open.spotify.com/track/0CM5l5s1nmswT56EzrT7F2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Neng Ngarep Moto](https://open.spotify.com/album/78OXxum7Wes8xs99bSuznr) | 5:55 | 2022-05-26 | 2023-03-03 |
@@ -103,7 +104,7 @@
 | [OTW \(Omong Taek We\)](https://open.spotify.com/track/3jebXtdikTKuG7m6YtEhbU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [OTW \(Omong Taek We\)](https://open.spotify.com/album/12FLfnCnXLLvqdR75ilOYW) | 4:52 | 2022-05-26 |  |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2022-05-26 |  |
 | [Pedhot Janji](https://open.spotify.com/track/2Z8sz5V61e7mUQHl7WTP69) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Pedhot Janji](https://open.spotify.com/album/3YnvGg3QhzKyYE733kw6fu) | 6:15 | 2022-05-26 |  |
-| [Pengangguran Yo Lumayan](https://open.spotify.com/track/6p8N18UzPaCugzW4C5XzSo) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kathul](https://open.spotify.com/artist/7JyZ5v5vVHpdl5pS1JrCLA) | [Pengangguran Yo Lumayan](https://open.spotify.com/album/2T43tjtvE6n0UJeG11MrX4) | 4:26 | 2022-05-26 |  |
+| [Pengangguran Yo Lumayan](https://open.spotify.com/track/6p8N18UzPaCugzW4C5XzSo) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kathul](https://open.spotify.com/artist/7JyZ5v5vVHpdl5pS1JrCLA) | [Pengangguran Yo Lumayan](https://open.spotify.com/album/2T43tjtvE6n0UJeG11MrX4) | 4:26 | 2022-05-26 | 2023-05-06 |
 | [Penting Yakin \- From "Cidro Asmoro"](https://open.spotify.com/track/1wbgdqJbPE5s4Lbhytnx5R) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Penting Yakin \(From "Cidro Asmoro"\)](https://open.spotify.com/album/4IleNOgGPg2x5B7ObHtpzt) | 4:38 | 2022-05-26 | 2023-01-27 |
 | [Pingal](https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pingal](https://open.spotify.com/album/28TKreEgcsm0NaP8eT7CHK) | 5:04 | 2022-05-26 |  |
 | [Pingal](https://open.spotify.com/track/0EdbwWWEBu587R9DsURQS0) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP) | [Pingal](https://open.spotify.com/album/4J36TrflDx5KLvyi4OmHdF) | 5:05 | 2022-05-26 | 2022-08-19 |

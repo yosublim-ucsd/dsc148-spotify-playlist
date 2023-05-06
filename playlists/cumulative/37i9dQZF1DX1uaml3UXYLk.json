@@ -3583,6 +3583,24 @@
     },
     {
       "album": {
+        "name": "Grapefruit Diet",
+        "url": "https://open.spotify.com/album/1vlo1lL9bs1e6xuGcsob0X"
+      },
+      "artists": [
+        {
+          "name": "Mechagnome",
+          "url": "https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177199,
+      "name": "Grapefruit Diet",
+      "url": "https://open.spotify.com/track/2wALasLtHG5IBHxc5Xlj2O"
+    },
+    {
+      "album": {
         "name": "grip drop",
         "url": "https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO"
       },
@@ -5404,6 +5422,24 @@
       "duration_ms": 178909,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6f2s1QUKZksKTm77l17oov"
+    },
+    {
+      "album": {
+        "name": "motor",
+        "url": "https://open.spotify.com/album/6AxmADQcHlPPYY2G4py0AX"
+      },
+      "artists": [
+        {
+          "name": "Androm",
+          "url": "https://open.spotify.com/artist/4e0hkGJ86D7I16d4vBnx3j"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "motor",
+      "url": "https://open.spotify.com/track/70t40X77HO7jtb2O8Y1ZDk"
     },
     {
       "album": {

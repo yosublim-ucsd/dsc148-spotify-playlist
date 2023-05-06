@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Kenia OS y Gera MX en portada.
 
-103 songs - 5 hr 31 min
+107 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2022-04-25 |  |
 | [Algo Mágico](https://open.spotify.com/track/7D93pJcwymzaZx8WgBo2zG) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:21 | 2022-04-25 |  |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2022-04-25 |  |
+| [Amiga](https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:45 | 2023-05-05 |  |
 | [antídoto](https://open.spotify.com/track/76WhhOuq2FLhzA9g90tKEG) | [D\. Krugga](https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH) | [antídoto](https://open.spotify.com/album/7LTfZVq7KYAesuz68KxhNs) | 2:54 | 2023-01-07 |  |
 | [Apaga la Luz](https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Naked Geometry](https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl) | [Apaga la Luz](https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s) | 2:49 | 2022-04-25 |  |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-25 |  |
@@ -83,10 +84,12 @@
 | [Notificación](https://open.spotify.com/track/6qWukaKIiMt1G7TEfVHlzZ) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/1LzkBjuMTYNgFLaOmcx3UW) | 3:43 | 2022-07-23 |  |
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-04-25 |  |
 | [Otra Cosa](https://open.spotify.com/track/6x9R4S1aazZdd40qO4PMFa) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Otra Cosa](https://open.spotify.com/album/2eSm1XW0wbnObahsf5Dtr1) | 3:12 | 2022-04-25 |  |
+| [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2023-05-05 |  |
 | [Para Qué Regresas](https://open.spotify.com/track/29R2zvgyIWqAerVBq1JWsl) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Para Qué Regresas](https://open.spotify.com/album/6NBM3RbIBcoezqh5A4hev8) | 2:28 | 2022-04-25 |  |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2022-04-25 |  |
 | [Pulsiones](https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Pulsiones](https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I) | 2:57 | 2022-04-25 |  |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-04-25 |  |
+| [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 | 2023-05-05 |  |
 | [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 | 2022-04-25 |  |
 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2022-04-25 |  |
 | [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-04-21 |  |
@@ -109,6 +112,7 @@
 | [Volando a Ti](https://open.spotify.com/track/1O65SV67NMFiQDzM33tyGk) | [Jezreel](https://open.spotify.com/artist/7iGFvtUk5Aq6Tb5GVisMvx) | [Volando a Ti](https://open.spotify.com/album/3BPKMfndun4bLRrRRo3NBl) | 4:18 | 2022-04-25 |  |
 | [Volvernos a Amar](https://open.spotify.com/track/1gtYYvvXluyVxS6HNXefco) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Volvernos a Amar](https://open.spotify.com/album/1Rr0AMdbX6fBn19rKrxo60) | 3:09 | 2023-02-10 |  |
 | [Vuelves A Llamar](https://open.spotify.com/track/6FBG0d4cNJUqp0JpXAf0S8) | [PPMARI](https://open.spotify.com/artist/6FA353e9NUHzoa0z1r9bbq), [Jozue](https://open.spotify.com/artist/4xfZnRMSGaNr3zZ9VG4oGG), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Vuelves A Llamar](https://open.spotify.com/album/4RObhJeSMtfft3ALBO4Pwg) | 3:19 | 2023-04-07 |  |
+| [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 | 2023-05-05 |  |
 | [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 | 2022-04-25 | 2022-12-01 |
 | [Íntimo](https://open.spotify.com/track/1gqbU9zB1RHIhID5XFmOM7) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/4pbsAXJhDBGKiXKuBiJspO) | 2:23 | 2022-07-23 |  |
 

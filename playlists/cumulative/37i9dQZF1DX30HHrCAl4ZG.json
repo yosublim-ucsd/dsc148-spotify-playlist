@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Are You In",
+        "url": "https://open.spotify.com/album/2lyN14f6FTtvCL0ztt6Sxg"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171392,
+      "name": "Are You In",
+      "url": "https://open.spotify.com/track/5vVqAE6Y9LLXj7YoCxbeRM"
+    },
+    {
+      "album": {
         "name": "Armchair",
         "url": "https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY"
       },
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174843,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2f3nKktmEGhZsQGXhmA5aN"
@@ -1394,6 +1412,28 @@
       "duration_ms": 157759,
       "name": "Back3School",
       "url": "https://open.spotify.com/track/5bO7xNramHw1hrwhuLvUAL"
+    },
+    {
+      "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        },
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X"
     },
     {
       "album": {
@@ -2028,7 +2068,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 225391,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/2VMhrbfj7f1lbJWOXrDaW9"
@@ -3946,7 +3986,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 255174,
       "name": "Daily News",
       "url": "https://open.spotify.com/track/1yhY41ETiHG3g8SulQMCaL"
@@ -4540,7 +4580,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 228840,
       "name": "Disappointment",
       "url": "https://open.spotify.com/track/3q08Ty0Y32SXBDumtlFT8v"
@@ -4994,7 +5034,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 166687,
       "name": "Dumb Like Daisies",
       "url": "https://open.spotify.com/track/1TF0Y8CmQnFZBYXcOHFHqV"
@@ -5649,6 +5689,24 @@
     },
     {
       "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160263,
+      "name": "Failed at Math(s)",
+      "url": "https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp"
+    },
+    {
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX"
       },
@@ -6226,7 +6284,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 172073,
       "name": "Free Woman",
       "url": "https://open.spotify.com/track/62ysIzrh0P90QROriGbVfK"
@@ -6827,6 +6885,24 @@
     },
     {
       "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184765,
+      "name": "Gwen Everest",
+      "url": "https://open.spotify.com/track/0jgS3Mw4Q32NSb6r3iDh4J"
+    },
+    {
+      "album": {
         "name": "half alive",
         "url": "https://open.spotify.com/album/5mbI4LGBukyNORhfu4nrMC"
       },
@@ -6842,6 +6918,24 @@
       "duration_ms": 193446,
       "name": "half alive",
       "url": "https://open.spotify.com/track/4impZnrNgbel1s7u5eV4lE"
+    },
+    {
+      "album": {
+        "name": "Happy Anniversary (To Being Lonely)",
+        "url": "https://open.spotify.com/album/0yykwlrNLn2yAYfFHsbyCG"
+      },
+      "artists": [
+        {
+          "name": "BLOXX",
+          "url": "https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205481,
+      "name": "Happy Anniversary (To Being Lonely)",
+      "url": "https://open.spotify.com/track/1tWtxE1UiQRkX1yVVZ7KeL"
     },
     {
       "album": {
@@ -8211,6 +8305,24 @@
     },
     {
       "album": {
+        "name": "I've Been Taking Walks (La La Song)",
+        "url": "https://open.spotify.com/album/3r66sVvKnnKkQsTfDWPD6u"
+      },
+      "artists": [
+        {
+          "name": "Nitefire",
+          "url": "https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163995,
+      "name": "I've Been Taking Walks (La La Song)",
+      "url": "https://open.spotify.com/track/299EVwi7vNWOGxKOTxUaly"
+    },
+    {
+      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq"
       },
@@ -8258,7 +8370,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 150251,
       "name": "idk how to luv",
       "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
@@ -9475,6 +9587,24 @@
     },
     {
       "album": {
+        "name": "Live it Up",
+        "url": "https://open.spotify.com/album/2sIHgPFSCfdcRXDurrKFQI"
+      },
+      "artists": [
+        {
+          "name": "Carter Cook",
+          "url": "https://open.spotify.com/artist/0KHc7N6EG0MPyIgJCsEGff"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119620,
+      "name": "Live it Up",
+      "url": "https://open.spotify.com/track/69T4LVwrEv0QNGHmlGaPnd"
+    },
+    {
+      "album": {
         "name": "Liz (New York)",
         "url": "https://open.spotify.com/album/1fv5jGrYUx7N8MWMLUGkNG"
       },
@@ -9728,7 +9858,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210323,
       "name": "Love in the Afternoon",
       "url": "https://open.spotify.com/track/7GdhqmcbfFfTLXVfhysn1Y"
@@ -12130,7 +12260,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 222105,
       "name": "Portraits",
       "url": "https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX"
@@ -12602,7 +12732,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 158866,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/5Cklo32fSNbvHRbXLs3dc5"
@@ -12660,6 +12790,24 @@
       "duration_ms": 155146,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa"
     },
     {
       "album": {
@@ -13429,6 +13577,24 @@
     },
     {
       "album": {
+        "name": "She's On Fire",
+        "url": "https://open.spotify.com/album/3CQ4NKe4v9ro6LFpeklmaY"
+      },
+      "artists": [
+        {
+          "name": "Strange Ranger",
+          "url": "https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265160,
+      "name": "She's on Fire",
+      "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
+    },
+    {
+      "album": {
         "name": "Shit Show",
         "url": "https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp"
       },
@@ -13941,6 +14107,24 @@
     },
     {
       "album": {
+        "name": "Sorry Like You Mean It",
+        "url": "https://open.spotify.com/album/1j2YF9cYbGQZiTg8aTE7WE"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209401,
+      "name": "Sorry Like You Mean It",
+      "url": "https://open.spotify.com/track/503iuUPKIXQLSmLsMQDYIN"
+    },
+    {
+      "album": {
         "name": "Sort Of Stranger",
         "url": "https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH"
       },
@@ -14324,6 +14508,24 @@
       "duration_ms": 199626,
       "name": "Stop Making This Hurt",
       "url": "https://open.spotify.com/track/32srSGuuy12hEhrD2iCIIK"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187228,
+      "name": "Strawberry Daydream",
+      "url": "https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE"
     },
     {
       "album": {
@@ -14952,6 +15154,24 @@
       "duration_ms": 241746,
       "name": "Tennis",
       "url": "https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82"
+    },
+    {
+      "album": {
+        "name": "Terrify",
+        "url": "https://open.spotify.com/album/6oP8VAZA3zOn40lyLxBEtG"
+      },
+      "artists": [
+        {
+          "name": "Good Boy Daisy",
+          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168090,
+      "name": "Terrify",
+      "url": "https://open.spotify.com/track/6cLnBdjkUmxt5TYJssSSTu"
     },
     {
       "album": {
@@ -15692,7 +15912,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 236838,
       "name": "To Love",
       "url": "https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT"
@@ -16158,7 +16378,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 203368,
       "name": "Until I Know",
       "url": "https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ"

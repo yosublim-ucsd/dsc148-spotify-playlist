@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,055,896 likes - 300 songs - 17 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,056,005 likes - 300 songs - 17 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Only Girl In The World \- Radio 1 Live Lounge Acoustic Version](https://open.spotify.com/track/6mz7nudr70riksmajdpGMS) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Acoustic Covers](https://open.spotify.com/album/5clX8eIQwBUCIuueIUU5XP) | 4:07 |
 | 300 | [If I Lose Myself \- Acoustic](https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hangover Hug](https://open.spotify.com/album/0bQ1ggkiRbGhWgYXNXxqaj) | 3:50 |
 
-Snapshot ID: `MCwyOWM2N2FlMDUzODEwZmVjN2I2MjgxY2EwZDZmYTExOGE5YWIwYmM2`
+Snapshot ID: `MCxhMTQ1NTBkODQyN2FhMWM5YTgwZGFiMTg3MmI5NGIxZjUxYTUyZDM2`

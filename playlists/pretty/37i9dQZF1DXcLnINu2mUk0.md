@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,605 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,674 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Preciso de alguém](https://open.spotify.com/track/30U1EU9Tn3cx8iFp2QSbQn) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Preciso de alguém](https://open.spotify.com/album/5j326RJto69tuJk04jned4) | 2:30 |
 | 75 | [Compensa](https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Compensa](https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY) | 3:11 |
 
-Snapshot ID: `MCwyM2M4ZDg3MmEwNjcxMzE0NTQ2Y2EyZGI5NTY1MzdlMjMxNzQwZDI5`
+Snapshot ID: `MCxiODRkOGM3MWQ5OGJjNWYxYzhhNmZkMWQxYTZiMmJiMzU4MjI3YzUy`

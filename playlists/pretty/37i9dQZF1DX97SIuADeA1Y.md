@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,072 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,245 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [The Riddle](https://open.spotify.com/track/0ZLhf4nmiS3bGvsq8kW90W) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Chris Gallery](https://open.spotify.com/artist/4PTPTcok71K1ZInDWQFL53) | [The Riddle](https://open.spotify.com/album/1Oypf1hT1igGaSZKEoOv9J) | 2:56 |
 | 60 | [Little Do You Know](https://open.spotify.com/track/70wufoW9TjFQfcTGgFCiMV) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Tim Savey](https://open.spotify.com/artist/3TEL2DJbZdLd1YzZ39lDvL) | [Little Do You Know](https://open.spotify.com/album/1Lz3akge4vrDghd00codq2) | 2:44 |
 
-Snapshot ID: `MCxiMjVlZmY2NzRhYmVmYTBkY2IzYWYzYzdmNGY0ZjJkYjE0ZmI1NTg4`
+Snapshot ID: `MCwwMzE5MWI4NmQ4ZWVkZmMyZmI5NDM4NjA1ZjYzZGYxY2FjN2IxMDVj`

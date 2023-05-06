@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,677 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,714 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Plain Letters \- Reimagined](https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Plain Letters \(Reimagined\)](https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O) | 4:33 |
 | 150 | [Wax & Wane](https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd) | 4:31 |
 
-Snapshot ID: `MCw1NWQ3OTI5YWRhZmU3NDg1MTEwY2E3NThhYmZiOWFkNmFkYjM5N2I4`
+Snapshot ID: `MCxjYTU1ODc5NmM0NTEzMGY2OWMxODU2NjNlYzdiNzAwYzQ4ZDhkMWRm`

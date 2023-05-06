@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Luckt Brown.",
+  "description": "Flow sudamericano con Apolo Kidd.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 173793,
       "name": "'Ta Conmigo",
       "url": "https://open.spotify.com/track/4q7VsuFHeglzawWjqNBvgl"
+    },
+    {
+      "album": {
+        "name": "+ SINCERO",
+        "url": "https://open.spotify.com/album/6zWsMwn5J8zyA5P72LaUpZ"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137100,
+      "name": "+ SINCERO",
+      "url": "https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J"
     },
     {
       "album": {
@@ -494,7 +516,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197147,
       "name": "A Poto Pe",
       "url": "https://open.spotify.com/track/6iu7Evq3KjMKFWSQlKQnhW"
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 208750,
       "name": "Ay Mam\u00e1 (feat. Dillom) - Remix",
       "url": "https://open.spotify.com/track/6z1ptmvVhtzrRA2nSX49Qc"
@@ -1754,6 +1776,24 @@
       "duration_ms": 164657,
       "name": "Beboteo - Remix",
       "url": "https://open.spotify.com/track/6H2bIFyes5mBnjWGpCxL3c"
+    },
+    {
+      "album": {
+        "name": "Bellaka",
+        "url": "https://open.spotify.com/album/5RVN4rGbwHA5BzVK2HDnGR"
+      },
+      "artists": [
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Bellaka",
+      "url": "https://open.spotify.com/track/6CDN62fkyLVzsMA21CoYgg"
     },
     {
       "album": {
@@ -3622,7 +3662,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
@@ -3750,6 +3790,24 @@
       "duration_ms": 162056,
       "name": "C\u00f3mo Te Explico?",
       "url": "https://open.spotify.com/track/2ouBjgKseCiYoGBAJm3S7B"
+    },
+    {
+      "album": {
+        "name": "Dale Mecha",
+        "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150829,
+      "name": "Dale Mecha",
+      "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
     },
     {
       "album": {
@@ -4696,6 +4754,50 @@
       "duration_ms": 158673,
       "name": "DONDE SEA",
       "url": "https://open.spotify.com/track/7gKMsitQAQRu0xmr4weDlb"
+    },
+    {
+      "album": {
+        "name": "Down Down (Remix)",
+        "url": "https://open.spotify.com/album/0TdtOC9EJQrwPMSs2xs4TA"
+      },
+      "artists": [
+        {
+          "name": "NATYASH",
+          "url": "https://open.spotify.com/artist/4ES3NiYbsUzD8EQ2V5ceST"
+        },
+        {
+          "name": "Sofia Hervier",
+          "url": "https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Down Down - Remix",
+      "url": "https://open.spotify.com/track/7kCMKb65bgQqGY1yaPoKUq"
+    },
+    {
+      "album": {
+        "name": "Drill Ar 6",
+        "url": "https://open.spotify.com/album/2DjDPmqIYeVYb6UdPkc6x1"
+      },
+      "artists": [
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        },
+        {
+          "name": "Despu\u00e9s de la fiesta",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102669,
+      "name": "Drill Ar 6",
+      "url": "https://open.spotify.com/track/4WDbhOoYYizdcM0ifB62wp"
     },
     {
       "album": {
@@ -5810,7 +5912,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 162278,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/3ghmJeHGNkPTI89dt9lI4y"
@@ -8338,7 +8440,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 160573,
       "name": "Lento",
       "url": "https://open.spotify.com/track/3n718OS6VC04q3SZRIcU5x"
@@ -8660,7 +8762,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200000,
       "name": "Locura y Maldad",
       "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
@@ -9608,7 +9710,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 178666,
       "name": "ME OYES",
       "url": "https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh"
@@ -10324,6 +10426,28 @@
       "duration_ms": 191524,
       "name": "Minimo Esfuerzo (feat. Duki)",
       "url": "https://open.spotify.com/track/4VOTF9Cnw0paixB9X0KUMh"
+    },
+    {
+      "album": {
+        "name": "Minina",
+        "url": "https://open.spotify.com/album/0PFnsXXIOeZFgcWd49Epg3"
+      },
+      "artists": [
+        {
+          "name": "Apolo Kidd",
+          "url": "https://open.spotify.com/artist/20ScfavHH5N3vZc62GS5k1"
+        },
+        {
+          "name": "scarface el tyger",
+          "url": "https://open.spotify.com/artist/5MlZuriWb6dZV0VFOClFys"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211651,
+      "name": "Minina",
+      "url": "https://open.spotify.com/track/5UJgQ7DVvZsN4vA1DwSvo1"
     },
     {
       "album": {
@@ -12084,7 +12208,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 169090,
       "name": "Olvido",
       "url": "https://open.spotify.com/track/3gkePnO3CBVSS6UQmfAwGT"
@@ -13275,6 +13399,24 @@
     },
     {
       "album": {
+        "name": "Pol\u00e9mica",
+        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151718,
+      "name": "Pol\u00e9mica",
+      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
+    },
+    {
+      "album": {
         "name": "Ponle (Remix)",
         "url": "https://open.spotify.com/album/6cNQVNGtsG2QHIXK8tsTtO"
       },
@@ -13616,7 +13758,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 175773,
       "name": "Pygmali\u00f3n",
       "url": "https://open.spotify.com/track/4694ylyiap7VfdeWJ7ZWEg"
@@ -14032,7 +14174,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 149801,
       "name": "REBOTA",
       "url": "https://open.spotify.com/track/1YFVWYOb38ypAtMmS2eWBD"
@@ -14637,6 +14779,28 @@
     },
     {
       "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/1YbmBZvVgsebo2fDVM2tVY"
+      },
+      "artists": [
+        {
+          "name": "Brenda Aliendro",
+          "url": "https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0OVJibv9jDMMhMfnqUDLka"
+    },
+    {
+      "album": {
         "name": "Sangre",
         "url": "https://open.spotify.com/album/7jxepQCHjYw27f7DWpApSW"
       },
@@ -14714,7 +14878,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 159157,
       "name": "SE ENDIABLA",
       "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
@@ -14864,7 +15028,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197792,
       "name": "SEXTIME",
       "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
@@ -17711,6 +17875,24 @@
     },
     {
       "album": {
+        "name": "Vicera Pa Tra",
+        "url": "https://open.spotify.com/album/3QyDfXc21VGkXoQvL3cyPM"
+      },
+      "artists": [
+        {
+          "name": "Eliz",
+          "url": "https://open.spotify.com/artist/1jagX6wMpCUYSNQGvF0D11"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197814,
+      "name": "Vicera Pa Tra",
+      "url": "https://open.spotify.com/track/1PipeGbBrT0kKgzC4B31ra"
+    },
+    {
+      "album": {
         "name": "Vida Gangster",
         "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
       },
@@ -18114,6 +18296,28 @@
       "duration_ms": 195555,
       "name": "X5",
       "url": "https://open.spotify.com/track/6GiPJ61pvbekGilrzztD7n"
+    },
+    {
+      "album": {
+        "name": "XXX",
+        "url": "https://open.spotify.com/album/5ZrEPAh971GaELmPeStG9H"
+      },
+      "artists": [
+        {
+          "name": "Wise",
+          "url": "https://open.spotify.com/artist/3z49d9eTIxwkK2QcmfPN3j"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "XXX",
+      "url": "https://open.spotify.com/track/1GwLqaYQ5Tskx376CNFnpX"
     },
     {
       "album": {

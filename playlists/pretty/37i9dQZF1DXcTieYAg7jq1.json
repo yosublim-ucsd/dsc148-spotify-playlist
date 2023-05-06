@@ -1,13 +1,61 @@
 {
-  "description": "Featuring that new vintage. Cover: Stacey Ryan",
-  "num_followers": 406625,
+  "description": "Featuring that new vintage. Cover: Angelina Jordan",
+  "num_followers": 406743,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjEwZmJhNTJmYjIxMDI4ZTAyYzYwNTNhNjA4MjQ3OWFhOTIzMDQ1",
+  "snapshot_id": "MCwwZGZkNDE0ZjRiZTI5ZTBmZTU2OGJmNDdlN2Y0ZTIxYWJmZjM4MmZl",
   "tracks": [
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Love Don\u2019t Let Me Go",
+        "url": "https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN"
+      },
+      "artists": [
+        {
+          "name": "Angelina Jordan",
+          "url": "https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb"
+        }
+      ],
+      "duration_ms": 177793,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "What More Can I Say",
+        "url": "https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 141141,
+      "name": "What More Can I Say",
+      "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/0gbHZgbY0i3emsMmSBoxRb"
+      },
+      "artists": [
+        {
+          "name": "Meghan Linsey",
+          "url": "https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/2GqqgM1zN4kyym6EVciDIn"
+    },
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
@@ -309,22 +357,6 @@
       "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 180807,
-      "name": "dose",
-      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
-    },
-    {
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Unknown",
@@ -411,22 +443,6 @@
       "duration_ms": 199186,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "If You Need Me, Don't",
-        "url": "https://open.spotify.com/album/78h9nHFcTuXx78rRBUJdVA"
-      },
-      "artists": [
-        {
-          "name": "Meghan Linsey",
-          "url": "https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn"
-        }
-      ],
-      "duration_ms": 206163,
-      "name": "If You Need Me, Don't",
-      "url": "https://open.spotify.com/track/7KkMAQjDSxPFH9VY4XL6ow"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 224333,
       "name": "Steady Love",
       "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
-    },
-    {
-      "added_at": "2022-02-07 15:13:07",
-      "album": {
-        "name": "Grammy",
-        "url": "https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6"
-      },
-      "artists": [
-        {
-          "name": "AJ Smith",
-          "url": "https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973"
-        }
-      ],
-      "duration_ms": 143504,
-      "name": "Grammy",
-      "url": "https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N"
     },
     {
       "added_at": "2022-03-18 05:00:00",

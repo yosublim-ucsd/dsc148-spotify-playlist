@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,840 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,054 likes - 75 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
 | 75 | [Tú Eres Mi Gozo](https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Alumbras Mi Vida](https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH) | 3:02 |
 
-Snapshot ID: `MCxmM2NiNzI0ZmFkNWZiYjYwY2UyODI1OTUyNzY2YWEyMTViZTZlMDcx`
+Snapshot ID: `MCw5ZWFlMDEyNzI0MjQ1NTM5MmMzOTk2ZmE5OTU5NzlhZjg5MmRkY2Iz`

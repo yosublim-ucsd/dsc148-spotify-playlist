@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,110 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,139 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [27 Dias](https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6) | [Douriel](https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF), [Dracko](https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [27 Dias](https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX) | 2:19 |
 | 75 | [Voe](https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs) | 2:32 |
 
-Snapshot ID: `MCxmZjFkMDA4MTRiNTA4MmZkZDk0ZjQxODY3ZGRkYjBjODdlZDQ2YWFj`
+Snapshot ID: `MCw1ZTQ1MWRiMTc0MTZlMjY5MDZmNDIzYmVjZWFlNjExYmJjMjMwMmFi`

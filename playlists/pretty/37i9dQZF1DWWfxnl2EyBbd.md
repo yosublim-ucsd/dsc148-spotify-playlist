@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,082 likes - 400 songs - 1 day 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,159 likes - 400 songs - 1 day 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Farewell Farewell](https://open.spotify.com/track/16ZGpsR577U0BD8nTdENL9) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [A Brand New Silver Dollar](https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G) | 5:43 |
 | 400 | [Baby Plays Around](https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 10:07 |
 
-Snapshot ID: `MCw1ZDY0MDc2M2E2MjA0NzI2MTQxMDZiMTBjZmQzYWI5NDZjMGExNzZl`
+Snapshot ID: `MCwyNjU0ZjQyODc3YzRjMWQ4ZTY1Y2FmYTA0Njg0ZjVmNmM3YzYyYjgy`

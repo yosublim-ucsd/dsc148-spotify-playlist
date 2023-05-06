@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Azimah Fada
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Batavia Collective
 
-126 songs - 9 hr 4 min
+128 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Best Friend](https://open.spotify.com/track/0QMKNY9xswyHRqA7OjVrNj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Best Friend](https://open.spotify.com/album/1HJWP2NJ19Sa1TxZtpTou0) | 3:09 | 2022-09-02 |  |
 | [bitterlove](https://open.spotify.com/track/74OLXYsvpfmSgPCMMi898K) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [bitterlove](https://open.spotify.com/album/5pSxeG2bdlj3MYdBVRBexK) | 3:36 | 2022-09-02 |  |
 | [Can Good Things Last Forever?](https://open.spotify.com/track/6MWw5eGSjfkNLmGTmMqTPn) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [Can Good Things Last Forever?](https://open.spotify.com/album/73536AVZgGnJQOCrfgCuve) | 5:22 | 2023-03-03 |  |
+| [Changes](https://open.spotify.com/track/69sr0eULGJPlIMphhtNNk6) | [Juhan Ongbrian](https://open.spotify.com/artist/7mEJxWdf21g1dRVwNDaLq8), [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj) | [Changes](https://open.spotify.com/album/6K4SQ1N5cqEZmoy8beycUc) | 2:31 | 2023-05-05 |  |
 | [Chega de Saudade](https://open.spotify.com/track/2eNQgIisOJLKnGSfZjUgPB) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Modinha](https://open.spotify.com/album/6AdW9SB1FDBv5mxA35VAZn) | 4:23 | 2023-03-03 |  |
 | [Christy](https://open.spotify.com/track/0M3l9QtKkL4QJpJUmXxEGc) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 3:27 | 2022-09-02 |  |
 | [Cinta Dalam Diam](https://open.spotify.com/track/76npF4CedfcIz0p6YN8UAY) | [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd), [Nadine Emmanuella](https://open.spotify.com/artist/02nmmf0lZ42hJgaZpNo6oW) | [Cinta Dalam Diam](https://open.spotify.com/album/6JfU4yHFF4vl4L8JymLvOp) | 5:25 | 2022-09-02 |  |
@@ -112,6 +113,7 @@
 | [Selangkah Lagi](https://open.spotify.com/track/044pFmYIZBYKUWNVbhQJ8e) | [Abdul & The Coffee Theory](https://open.spotify.com/artist/7rTRICDeckWVatQYWZM93J) | [Old Fashioned Way](https://open.spotify.com/album/0z8ipHoQLEcx1nTUAJitTh) | 2:57 | 2022-09-02 | 2023-03-04 |
 | [Senandung Saja](https://open.spotify.com/track/2yWtnT8eqlv7O6UU1P3xeR) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Senandung Saja](https://open.spotify.com/album/0Hgko728r60VRnLaOoJfIh) | 3:50 | 2022-12-22 |  |
 | [Sendiri](https://open.spotify.com/track/2EpLkn1XKYL29Yf3WFs0ld) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [Sendiri](https://open.spotify.com/album/2SW0gDq418CMUn9J6LYTY8) | 2:15 | 2023-03-03 |  |
+| [Senopati Shuffle](https://open.spotify.com/track/5LwukjIPavFO64vjVfhLQa) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [BTVC](https://open.spotify.com/album/52QTTpeSM35ixuCvnoJ0w3) | 3:40 | 2023-05-05 |  |
 | [SESAL KEKAL](https://open.spotify.com/track/27YcoSUtKAtJThNR6293UB) | [Bintang Indrianto](https://open.spotify.com/artist/0iy4a8OhW1qCOG2uBlzmJC), [Freza Anhar](https://open.spotify.com/artist/0yaCjTavcpUhb2TRDXMt8r) | [SESAL KEKAL](https://open.spotify.com/album/0NskzXx22J1gjpfRVxZXIp) | 2:48 | 2023-03-09 |  |
 | [Seumpama](https://open.spotify.com/track/0IXgRbsg9XkWlTB0L9UbUI) | [Kenneth Mariw](https://open.spotify.com/artist/4Wr5Lu1ieLsS0VrDzad4rs) | [Seumpama](https://open.spotify.com/album/1sJ2WPxYHIVL08WDhAN8Ww) | 3:54 | 2022-09-02 |  |
 | [Simfoni Terindah](https://open.spotify.com/track/3uEyCGXO7k8pOa03MN5EOI) | [R.I.M.A](https://open.spotify.com/artist/5J3sqHpT5WhczXbUp3EJbv), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Ivan Saba](https://open.spotify.com/artist/072CgAk1HmFGMjDXD9W8XH), [Ryan V](https://open.spotify.com/artist/6ANuxxQyRWG4GvsxBQJvDD), [DJ Faith](https://open.spotify.com/artist/55JM0kFrnN2lsNWhhdv1JG) | [Simfoni Terindah](https://open.spotify.com/album/2wFyzSPeGj9eTzTuCyTuZ8) | 3:20 | 2022-09-02 |  |

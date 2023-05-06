@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,354 likes - 164 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,926 likes - 165 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,6 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 161 | [Don't Wait For Me](https://open.spotify.com/track/1C6qilcpgci5bJSBB6qSK4) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Don't Wait For Me](https://open.spotify.com/album/6o1B9rcKo0eWEQ6yg2OSj2) | 2:50 |
 | 162 | [SOBER](https://open.spotify.com/track/6PPV3LHJvfYsRizfCEMLYj) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/4pFhXFulMduMOUGKSPVCnX) | 2:50 |
 | 163 | [Bad For Me \- 49th & Main Remix](https://open.spotify.com/track/38FA5zTDl8fQY0mGoCosxd) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY), [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Bad For Me \(49th & Main Remix\)](https://open.spotify.com/album/5eg2sHsFBcTbHeXsazb8p2) | 2:50 |
-| 164 | [Please Come Home](https://open.spotify.com/track/2JOxQUCJ24EpytRxkFrrdG) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Muzique, Vol\. 01](https://open.spotify.com/album/43VpirC4MMe2q15WRbz66a) | 3:52 |
+| 164 | [Out My Head](https://open.spotify.com/track/4r7TGHgy8e7r4Qzhlo0yZL) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Out My Head](https://open.spotify.com/album/37JDfW6LMqnAhItiGfVEE7) | 3:33 |
+| 165 | [Please Come Home](https://open.spotify.com/track/2JOxQUCJ24EpytRxkFrrdG) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Muzique, Vol\. 01](https://open.spotify.com/album/43VpirC4MMe2q15WRbz66a) | 3:52 |
 
-Snapshot ID: `MCw2MDdhN2JhOGQ4ZjIxZjQwM2Y1NjQyYjhiMWQ1MjA0ZWNkZmQ2MDZl`
+Snapshot ID: `MCxiN2EzYWU0Mzk1Nzk5NjRhZGE2OGYxYjdiN2FjNGIxNWYyZjQ3MWJk`

@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 330977,
+  "num_followers": 331034,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzhiYzMzMTRlZWVlNWMwMjc3MDg1NTQ5Njk4NDNlZGYwZjM3M2E3",
+  "snapshot_id": "MCwyNTI1YWQ3NDI4M2ZkNDk2NzYxZWIxNGUyMzc3MzYyNDRlZjkxYjM3",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -249,7 +249,7 @@
         }
       ],
       "duration_ms": 149786,
-      "name": "Moux: heart pieces",
+      "name": "heart pieces",
       "url": "https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za"
     },
     {
@@ -977,7 +977,7 @@
         }
       ],
       "duration_ms": 182805,
-      "name": "Moux: how we sleep",
+      "name": "how we sleep",
       "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
     },
     {
@@ -1267,6 +1267,10 @@
         "url": "https://open.spotify.com/album/3xVzYw1poJVwmGG1dUcrRe"
       },
       "artists": [
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
         {
           "name": "Hiroco.M",
           "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"

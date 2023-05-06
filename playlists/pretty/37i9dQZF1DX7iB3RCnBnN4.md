@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,411 likes - 400 songs - 1 day 0 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,816 likes - 400 songs - 1 day 0 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 399 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 | 400 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 
-Snapshot ID: `MCxhZGEzNjI2OGJjNTlhYTk4M2I3ZWZhMjhmZTgzNjRhYjg0MmMxNGE3`
+Snapshot ID: `MCw0NmU5ZjMzYzFhNjU5N2MzZDAyYjhjYzIxZjQ1NmI5ZmVjYTYxYzIy`

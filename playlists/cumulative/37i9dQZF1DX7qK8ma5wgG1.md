@@ -4,7 +4,7 @@
 
 > Songs for a broken heart
 
-181 songs - 10 hr 14 min
+183 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,9 @@
 | [Lego Bricks](https://open.spotify.com/track/3I9qqk6Ey3ZN9q87TLTjCG) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem), [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Lego Bricks](https://open.spotify.com/album/2vXvZKmgmntK1WAiiejy6B) | 3:55 | 2022-09-06 | 2022-11-23 |
 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 | 2022-03-29 | 2022-09-07 |
 | [lie to me](https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [lie to me](https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO) | 2:57 | 2021-12-16 | 2023-03-15 |
+| [Life Goes On](https://open.spotify.com/track/74eJR4gwG1ZmG4BFkbrOlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:30 | 2023-05-05 |  |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2021-12-16 |  |
+| [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 | 2023-05-05 |  |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-25 |  |
 | [London's Requiem](https://open.spotify.com/track/0TxJGoYx7racCE2idGNN0O) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [London's Requiem](https://open.spotify.com/album/0GCrz2OgzPwLDGLv26GiAi) | 5:02 | 2021-12-16 | 2022-06-28 |
 | [Lonely](https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:24 | 2022-10-14 |  |
@@ -158,11 +160,11 @@
 | [Something to Someone \- Piano](https://open.spotify.com/track/5LMMHLhxyicdWm3uEdbNrV) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/26WEpGNBMTJE5jyRcMtE01) | 3:03 | 2022-11-22 |  |
 | [Something to Someone \- Piano](https://open.spotify.com/track/5YLGr2aXsNZWpZmwQiaX7H) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone \(Piano\)](https://open.spotify.com/album/2es7Wvv9mh7IK9K874jQJW) | 3:03 | 2022-06-27 | 2022-11-30 |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2022-09-06 |  |
-| [Talk](https://open.spotify.com/track/1r5MwvQZLff9Y2o1QCMY9N) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Warm](https://open.spotify.com/album/5eed330fRyfporIAak7ZmH) | 2:52 | 2022-09-20 |  |
+| [Talk](https://open.spotify.com/track/1r5MwvQZLff9Y2o1QCMY9N) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Warm](https://open.spotify.com/album/5eed330fRyfporIAak7ZmH) | 2:52 | 2022-09-20 | 2023-05-06 |
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2021-12-16 |  |
 | [The Hardest Part \- Acoustic](https://open.spotify.com/track/0rYhl022XHl0RPay00dGdh) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part \(Acoustic\)](https://open.spotify.com/album/34e0sR4qdjjB7l1nrVAL9x) | 2:55 | 2022-09-06 |  |
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-29 | 2022-09-07 |
-| [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2021-12-16 |  |
+| [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2021-12-16 | 2023-05-06 |
 | [trust issues](https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [trust issues](https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN) | 2:14 | 2023-01-31 |  |
 | [Trying My Best](https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:42 | 2022-09-06 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-08-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Alice et Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,456 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,549 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 15 | [sois en sûre](https://open.spotify.com/track/4og5X5Y2gvX3UN80eWe46p) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/3I1vs7XOz164tMAaICcxi7) | 2:53 |
 | 16 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 |
 | 17 | [Reconnection](https://open.spotify.com/track/76uKLoAvr2tHSZPbJHZSmY) | [Fantastic Mister Zguy](https://open.spotify.com/artist/0yBkxUvlgbxKXQmjQ252iu) | [Reconnection](https://open.spotify.com/album/19rAn3kxCoqkzXzOwfxF8q) | 2:47 |
-| 18 | [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 |
+| 18 | [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 |
 | 19 | [Laisse courir](https://open.spotify.com/track/1dxCI4KuVhWHxbqeYMomSf) | [Lou de la Falaise](https://open.spotify.com/artist/5Hm0bxvHlfSILH2LY4pvnK) | [Sans espoir ni desespoir](https://open.spotify.com/album/4uT1OZcV64iPYm024ApCL3) | 2:59 |
 | 20 | [Memories \(with Olivia Merilahti\)](https://open.spotify.com/track/6yAjRkafLkS95M2HeM2Y0O) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Prudence](https://open.spotify.com/artist/6G7P1WNRTlg3FxiYaW0hYh), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [PrimaDonna vol\. 2](https://open.spotify.com/album/3SQpwXGk9dcI22c0jJsoQv) | 3:25 |
 | 21 | [Dans ma tête](https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Dans ma tête](https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Photographies](https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographies](https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD) | 2:56 |
 | 50 | [Laura](https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:08 |
 
-Snapshot ID: `MCw5OTdmNjYyNmQ2MWY1OTYyNTI1MjM2YWFjYTVlNDg0Nzg3NzI0OWQy`
+Snapshot ID: `MCxjNGUyMDNiYWVmZjBkOTE5Y2Q3ZDkzYTliOWEyOGU2ZTQyNWUyODdh`

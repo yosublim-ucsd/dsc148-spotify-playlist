@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,131 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,203 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [Mirrors](https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 4:30 |
 | 100 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 |
 
-Snapshot ID: `MCxlMTQzOWY0ZWQ5ZmQ2MTVhNTQzNmQ3YTBlZTc3MjU4ZDI0YzU2ZDUw`
+Snapshot ID: `MCxhMzEwNGQwZTRiNDAyOThkM2Y3MzliNzAwYjRkYzlkYWYwZWYwZThi`

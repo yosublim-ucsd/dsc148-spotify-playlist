@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,211 likes - 500 songs - 1 day 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,422 likes - 500 songs - 1 day 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Hoe Down](https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 4:41 |
 | 500 | [For Lena And Lennie](https://open.spotify.com/track/5uNtaTmigAubx5fLfO92AW) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Quintessence](https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH) | 4:19 |
 
-Snapshot ID: `MCxjNWM4N2M2ZWEzOTM3NzU4ZTk4OTBjNTkyMzJmNmE2ZGRlNDk1YzU2`
+Snapshot ID: `MCwyMTA5Mjg3NDk2NTQwNWIzNDA5YTJkNGM1MmI0YmRkM2U0Nzc4NTRl`

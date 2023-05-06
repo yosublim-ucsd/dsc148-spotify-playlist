@@ -2,7 +2,7 @@
 
 ### [Mixtape: Arlo Parks "drum tones"](https://open.spotify.com/playlist/37i9dQZF1DWU9jBen8IUSn)
 
-> Arlo's selections "of the crunchiest and most singular drums on the planet"\. Welcome to mixtape.
+> Arlo's selections "of the crunchiest and most singular drums on the planet"\. Welcome to mixtape, a curator's playground.
 
 27 songs - 1 hr 55 min
 

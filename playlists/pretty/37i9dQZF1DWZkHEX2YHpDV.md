@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Waterparks
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,248 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,356 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 99 | [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 |
 | 100 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
 
-Snapshot ID: `MCw5MWNjZGFjOTE0NTEyMjI0YjZiYmVkYjQ0NmI1NDE2YTE5YWYyYzc1`
+Snapshot ID: `MCw3MTE2NjFhYTQ5OTgyYjRkZDA3YjcxMDg3YzBlMmYxMTA5Nzc1YzFk`

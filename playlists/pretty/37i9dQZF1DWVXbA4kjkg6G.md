@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,195 likes - 75 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,533 likes - 75 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 74 | [Unreal](https://open.spotify.com/track/3g8iM8biW7FRpmkG3fbuff) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Psyence Fiction](https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS) | 5:08 |
 | 75 | [Galactic Funk](https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [This Is Home Entertainment](https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn) | 6:07 |
 
-Snapshot ID: `MCxmN2EzN2Q3MWVjNTkyZDAwYjIzZjVmM2ZmNGNiMGVmZDJjZTI1Zjgy`
+Snapshot ID: `MCxmYjA3ODQwNmU0MzBmMjdiYzVlOWI0MDIxNDY2NWY1MzAxZDY2OTYx`

@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-214 songs - 11 hr 7 min
+215 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Enigma](https://open.spotify.com/track/3uPv7gwfs6YzUVeD8pyZ4c) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Enigma](https://open.spotify.com/album/4pD6ofyOFWOYJwuxrWhpuY) | 2:38 | 2022-04-15 | 2022-09-23 |
 | [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2022-04-15 | 2022-09-23 |
 | [Feelings](https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Feelings](https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J) | 2:48 | 2022-04-15 | 2023-04-22 |
-| [Feelings Pt\. 2](https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt) | [Genzlinger](https://open.spotify.com/artist/1CG6oa21WSjpjtNPhAOqmN) | [Feelings Pt\. 2](https://open.spotify.com/album/3J5LyLG4PJGoNtnyGZJzxa) | 3:19 | 2022-04-15 |  |
+| [Feelings Pt\. 2](https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt) | [Genzlinger](https://open.spotify.com/artist/1CG6oa21WSjpjtNPhAOqmN) | [Feelings Pt\. 2](https://open.spotify.com/album/3J5LyLG4PJGoNtnyGZJzxa) | 3:19 | 2022-04-15 | 2023-05-06 |
 | [Femme](https://open.spotify.com/track/1ox6W1kkA1C6okKgpQK5e9) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Zanzibar](https://open.spotify.com/album/0HFKcAkd2zQDxi7or6ENLh) | 2:53 | 2022-07-08 |  |
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-15 | 2022-09-02 |
 | [Float](https://open.spotify.com/track/4PlgKsJWBUiQRtqaYkqFZB) | [Brisaque](https://open.spotify.com/artist/1vlSEAUaqja6NwcQ94ASih) | [Float](https://open.spotify.com/album/0b0YFwzQsWlYN609iTYpOf) | 2:52 | 2022-10-14 |  |
@@ -110,7 +110,7 @@
 | [Il Mondriano](https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Il Mondriano](https://open.spotify.com/album/6kXz6KY2SuqFbq2O9qwnzG) | 3:27 | 2023-02-17 |  |
 | [In Brevi](https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [In brevi](https://open.spotify.com/album/5BgW2Tfu7CgefHz7gEDMAj) | 3:20 | 2022-04-15 |  |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2022-04-15 |  |
-| [Infinite Twin](https://open.spotify.com/track/7wRn9WJMM6yGFobxdeRrBh) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Infinite Twin](https://open.spotify.com/album/3MAH6xeGdAZB1tLDKeTBBB) | 2:52 | 2022-12-09 |  |
+| [Infinite Twin](https://open.spotify.com/track/7wRn9WJMM6yGFobxdeRrBh) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Infinite Twin](https://open.spotify.com/album/3MAH6xeGdAZB1tLDKeTBBB) | 2:52 | 2022-12-09 | 2023-05-06 |
 | [Insights](https://open.spotify.com/track/1kwpL3EqUjKXhmEttZ78Md) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Insights](https://open.spotify.com/album/2BcSmACfCfIDnCnzpp1Cyq) | 3:26 | 2022-09-09 |  |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2022-04-15 |  |
 | [Isla de es Vedrá](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM) | [Bongo Percy](https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg) | [Isla de es Vedrá](https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz) | 4:20 | 2022-04-15 | 2022-09-09 |
@@ -149,6 +149,7 @@
 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2022-05-10 |  |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2022-04-15 |  |
 | [Purity](https://open.spotify.com/track/0bRuqIi3CZrEt9ORtCHHHW) | [Calvatress](https://open.spotify.com/artist/2UxH255utiME1XAA9fXUsh) | [Purity](https://open.spotify.com/album/0eN2BQy4PSiRifsVOhUdVx) | 3:05 | 2022-04-15 | 2022-06-03 |
+| [Puzzles](https://open.spotify.com/track/6e726bx26LWxCR2XQLnM6i) | [Galian](https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w) | [Puzzles](https://open.spotify.com/album/5f6vDyKnh2izBLIvY9yYrw) | 1:58 | 2023-05-05 |  |
 | [Rainbows](https://open.spotify.com/track/1Y3ELkSuRZmsJE4WYGvN49) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Rainbows](https://open.spotify.com/album/7cMxy5MaWjYy6cH1V9Zujv) | 3:15 | 2022-04-15 | 2022-05-11 |
 | [re\-echo \- Edit](https://open.spotify.com/track/4UthBu9ExYtrCZKpvMKYbO) | [Kheega](https://open.spotify.com/artist/1QM500pZXuktetTjJ2fHxz) | [re\-echo \- Edit](https://open.spotify.com/album/5oUODEgj8G9XZp6HyZgEkT) | 1:32 | 2023-02-03 |  |
 | [Reach](https://open.spotify.com/track/1HWy19J4EI51m1RR9iqzn5) | [Jox Talay](https://open.spotify.com/artist/0qDTl4Bh2K6djIvLh91QQP) | [Reach](https://open.spotify.com/album/2koR8FUMFEEaDRH61Irgvt) | 3:26 | 2022-04-15 |  |
@@ -182,7 +183,7 @@
 | [Sona](https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Sona](https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF) | 3:32 | 2022-09-09 |  |
 | [Southern Sky](https://open.spotify.com/track/7b5JVYNwXrFVB94lBBqeQU) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Southern Sky](https://open.spotify.com/album/2FND9HEcVEEmhGzfQuNnYH) | 3:54 | 2022-04-15 | 2022-06-03 |
 | [SPF](https://open.spotify.com/track/1tqvyTyYlfi3CMH5dnaySS) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [SPF](https://open.spotify.com/album/6G2WsFZ9YKQhXyJZUc1UJ8) | 2:59 | 2022-04-15 |  |
-| [Spicy \- Disco Edit](https://open.spotify.com/track/01b16Z7WnxoK8EkZmj8yF6) | [Curacado](https://open.spotify.com/artist/3MnwSIICaUw2aBQiOklr1b) | [Spicy \- Disco Edit](https://open.spotify.com/album/5EVKank3vCy7E0ZW7Bo6XU) | 2:57 | 2022-04-15 |  |
+| [Spicy \- Disco Edit](https://open.spotify.com/track/01b16Z7WnxoK8EkZmj8yF6) | [Curacado](https://open.spotify.com/artist/3MnwSIICaUw2aBQiOklr1b) | [Spicy \- Disco Edit](https://open.spotify.com/album/5EVKank3vCy7E0ZW7Bo6XU) | 2:57 | 2022-04-15 | 2023-05-06 |
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2022-04-15 |  |
 | [SRY](https://open.spotify.com/track/6ReYd2EPIrieI1s7fpm41f) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [SRY / Blame Me](https://open.spotify.com/album/6abDeahvTe453GxeIP462g) | 4:44 | 2022-06-10 |  |
 | [Stay Hazy](https://open.spotify.com/track/6kO1RFWTIgletNVPVj9H5S) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Stay Hazy / Insomnia](https://open.spotify.com/album/6jiv6wvCNTN6bHiloaS8mt) | 4:44 | 2022-04-15 | 2022-05-11 |

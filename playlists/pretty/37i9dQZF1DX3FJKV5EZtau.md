@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,452 likes - 125 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,505 likes - 125 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [IN YOUR EYES 「瞳の中で」](https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 4:15 |
 | 2 | [Dreamfields](https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Dreamfields](https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS) | 2:40 |
 | 3 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 |
-| 4 | [skyscraper](https://open.spotify.com/track/4i87u5anIS97aQmulZU11D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎skyscraper](https://open.spotify.com/album/78r14RCs0xkOIIM38usQXQ) | 1:25 |
+| 4 | [skyscraper](https://open.spotify.com/track/2DJcpcaK67nhs4kKo1lZpv) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎cath](https://open.spotify.com/album/4zuXPp6XnpbC0GzhmCkkr5) | 1:15 |
 | 5 | [Overthinker](https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/1eCYiLDLT6ZLzCeThN90UF) | 4:28 |
 | 6 | [Drift Like A Cloud, Flow Like Water](https://open.spotify.com/track/4eH90XBDNITj5M8TradkSS) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Drift Like A Cloud, Flow Like Water](https://open.spotify.com/album/5Tfvcp2QbPL3caRaJQXeIE) | 3:20 |
 | 7 | [Aurora](https://open.spotify.com/track/5XND8aufA4UvtqAgARcjfN) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Aurora](https://open.spotify.com/album/25DMpXc3h4lBPIwBRvCEiI) | 2:44 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [stay](https://open.spotify.com/track/5CkrwMZvgBO068EhQyiTZt) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [stay](https://open.spotify.com/album/4ptRVYNs2KBa74ED3MvKmK) | 2:42 |
 | 125 | [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 |
 
-Snapshot ID: `MCxkZTY3OWQ5OTZlZjZiMzc2ZmE0Y2Y2NThjYTNmNmI5ZmJlMDlhYWZm`
+Snapshot ID: `MCw0NDZlY2Y0OWU2ZTc0OWVlMjY0NWYzYmE0NzhjMzcyMDkxOWRhOGIz`

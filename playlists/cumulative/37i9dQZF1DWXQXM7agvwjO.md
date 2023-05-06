@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: The Chairs \(Taiwan\)
 
-759 songs - 1 day 21 hr 33 min
+760 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2012](https://open.spotify.com/track/0h5AVdS7PvvY0PpA36neaP) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [2012](https://open.spotify.com/album/18cRIUHPI3xSIjeBizAokA) | 3:08 | 2022-12-23 | 2023-02-03 |
 | [20:37](https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Skin](https://open.spotify.com/album/2XEHXx2cRclNP5ThLEqStX) | 3:26 | 2022-08-11 | 2022-09-10 |
 | [247](https://open.spotify.com/track/5MvZpSUkVwtWScGm5uJAGA) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [247](https://open.spotify.com/album/15jWaDEBJyFQ21FTwk34v0) | 4:14 | 2022-10-13 | 2022-12-16 |
+| [6HRS](https://open.spotify.com/track/61A5Doh50xlDcf9hjLtjiE) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [6HRS](https://open.spotify.com/album/7eCIML9RC3CNoeMdZF5GMl) | 2:45 | 2023-05-04 |  |
 | [7 Years](https://open.spotify.com/track/03IkbWWtLydmBuo9jQYC2Z) | [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [7 Years](https://open.spotify.com/album/2qmux3wpZ1Xs6Qr44SYZel) | 5:05 | 2022-10-28 | 2023-01-20 |
 | [A Change in Seasons](https://open.spotify.com/track/5oZ4I9J2ILqIyd7M3eBsWL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [A Change in Seasons](https://open.spotify.com/album/3rq8PzE5IqmkRK8LzhdooK) | 2:34 | 2023-02-09 | 2023-04-01 |
 | [A Dream of Wings](https://open.spotify.com/track/4WOSqKjvEJfkzM7I2UfVMV) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [A Dream of Wings](https://open.spotify.com/album/4dIl9q8HabZF7ZJ0UdCZa9) | 3:24 | 2022-10-06 | 2022-12-16 |

@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-298 songs - 15 hr 2 min
+299 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Feign Life](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a) | 2:52 | 2022-12-09 |  |
 | [Feign Life](https://open.spotify.com/track/7rb4YTkWp1r02r1RoLHuDx) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/1sBHzpr8XOICD07hNMSPSU) | 2:52 | 2023-01-20 | 2023-02-10 |
 | [Feuilles](https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Feuilles](https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN) | 2:33 | 2022-05-20 |  |
+| [Fireworks](https://open.spotify.com/track/0c6srdC9tBzXuUwNkRL5IA) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [Fireworks](https://open.spotify.com/album/6hpDHQo53NmZ3iBFohMp2Q) | 2:23 | 2023-05-05 |  |
 | [Five Ponds](https://open.spotify.com/track/2t2CbcfZxqtXybZktLGmtk) | [Vacant Van](https://open.spotify.com/artist/7lg84TeldpA0Dqev3YMBZL) | [Five Ponds](https://open.spotify.com/album/7Kgnc78hmFgqYEY1eCbuRq) | 3:07 | 2022-05-20 |  |
 | [Fives](https://open.spotify.com/track/13UEDh7Imgd0BTOY0n4wnr) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Fives](https://open.spotify.com/album/0lr9HrEbGPxh0JSllsGsMM) | 1:58 | 2022-08-19 |  |
 | [Flic\-en\-Flac](https://open.spotify.com/track/4xDeeLhlfZkp0fvEDirlvl) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Flic\-en\-Flac](https://open.spotify.com/album/2BynXAAYqXtPpbAclrbb7u) | 3:05 | 2022-05-20 |  |

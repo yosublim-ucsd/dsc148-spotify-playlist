@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,210,297 likes - 150 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,211,090 likes - 150 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,16 +147,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 137 | [Clouds Over California](https://open.spotify.com/track/21WIpZXepY9HA7NDwYiNaM) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [The Last Kind Words](https://open.spotify.com/album/6MkJ7IHLd9pebsk09okG1t) | 4:09 |
 | 138 | [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 |
 | 139 | [The Shape of Water](https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [The Shape of Water](https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN) | 3:34 |
-| 140 | [1234](https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [A Million Degrees](https://open.spotify.com/album/1aqmmK0ORKz719r7MLMHQO) | 3:22 |
-| 141 | [Drop Dead Cynical](https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MASSIVE ADDICTIVE](https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe) | 3:17 |
-| 142 | [All Animal](https://open.spotify.com/track/4PEHqVEh5MPmvdYw1oiIKI) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:30 |
-| 143 | [Killing Me Slowly](https://open.spotify.com/track/6E5gsJm3t0RqmiHBfUBaya) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Killing Me Slowly](https://open.spotify.com/album/4JJYvxmSDCIExVj13cWCes) | 3:57 |
-| 144 | [Do You Really Want It](https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:53 |
-| 145 | [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 |
-| 146 | [Rapture](https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Erase Me](https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL) | 3:34 |
-| 147 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |
-| 148 | [Lost in the Grey](https://open.spotify.com/track/2bnsTOWLjWLNnWoDyT4S9E) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:30 |
-| 149 | [Broken](https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Future](https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC) | 3:20 |
-| 150 | [Let The Chaos Reign](https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Let The Chaos Reign](https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8) | 3:18 |
+| 140 | [Drop Dead Cynical](https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MASSIVE ADDICTIVE](https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe) | 3:17 |
+| 141 | [All Animal](https://open.spotify.com/track/4PEHqVEh5MPmvdYw1oiIKI) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:30 |
+| 142 | [Killing Me Slowly](https://open.spotify.com/track/6E5gsJm3t0RqmiHBfUBaya) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Killing Me Slowly](https://open.spotify.com/album/4JJYvxmSDCIExVj13cWCes) | 3:57 |
+| 143 | [Do You Really Want It](https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:53 |
+| 144 | [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 |
+| 145 | [Rapture](https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Erase Me](https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL) | 3:34 |
+| 146 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |
+| 147 | [Lost in the Grey](https://open.spotify.com/track/2bnsTOWLjWLNnWoDyT4S9E) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:30 |
+| 148 | [Broken](https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Future](https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC) | 3:20 |
+| 149 | [Let The Chaos Reign](https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Let The Chaos Reign](https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8) | 3:18 |
+| 150 | [Unbreakable](https://open.spotify.com/track/0UKIP5PzRX6WY0rURFxxqQ) | [Kingdom Collapse](https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4) | [Unbreakable](https://open.spotify.com/album/2S2fJjhwJknUU0GoBLMrmb) | 2:39 |
 
-Snapshot ID: `MCw5MDU4M2JlMzA5ZDhjNDg4ODI5NmM5OWY0MjA3ZTZmZjVjYjEzNGJk`
+Snapshot ID: `MCw0OTYzYjYyZTBmMTE0MTQ3YzhjNWUxNWExMjBjN2E3NTVlMzFjNTVm`

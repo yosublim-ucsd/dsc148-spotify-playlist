@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,896 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,425 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 |
 | 70 | [One Kiss \- Hardstyle Remix](https://open.spotify.com/track/0Z2adSk6KmnD22xsUuBKLP) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [One Kiss \(Hardstyle Remix\)](https://open.spotify.com/album/2wkkPYISfaTdPhOuZxeAfh) | 2:22 |
 
-Snapshot ID: `MCw1NDk0NGM5ZjIwMzQ2MDEyYTU5OGRjZWFlOGMwMTliZjNhZWE1MTcw`
+Snapshot ID: `MCxmMWZmYTRjOWYxNGQxNmIwYTYzNGUxNzRlZDQ3N2ZlNjAwNzE1OTQz`

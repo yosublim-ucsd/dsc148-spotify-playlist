@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,262 songs - 2 day 16 hr 31 min
+1,263 songs - 2 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,7 +499,7 @@
 | [Jedna Dva](https://open.spotify.com/track/4YVsXiijWW1hqn7NISLeP6) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 3:18 | 2022-02-26 | 2022-03-13 |
 | [jedno bez druhýho neni](https://open.spotify.com/track/4krayvJGllhBZjFzUL7pMC) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 2:00 | 2022-02-26 | 2022-02-28 |
 | [Jedno s kým som](https://open.spotify.com/track/1IJgpjm8odjowsZY4OgMIc) | [Nerieš](https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN) | [311](https://open.spotify.com/album/7ghNPD080WPQqy7gYiPT8E) | 2:32 | 2021-06-23 | 2021-07-11 |
-| [Jednou nohou tam](https://open.spotify.com/track/2EQ3fUf1zjUXmGAg5pnaWK) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Secret Eyes](https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ) | 2:36 | 2023-05-04 |  |
+| [Jednou nohou tam](https://open.spotify.com/track/2EQ3fUf1zjUXmGAg5pnaWK) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Secret Eyes](https://open.spotify.com/album/2NNTwDg6TiMRM4pzTslnGQ) | 2:36 | 2023-05-04 | 2023-05-06 |
 | [Jennifer](https://open.spotify.com/track/4Lrbef6AlNYAVJGIQqyj5W) | [LUISA](https://open.spotify.com/artist/7J8NWckBrcIlgoE7Ue8v9H), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Sad & Savage](https://open.spotify.com/album/19i9Pxul5jFdBRmrU8sGOZ) | 2:45 | 2022-11-01 | 2022-11-07 |
 | [Jesenna laska](https://open.spotify.com/track/3cKWgFtucr9BG5fNg9pA1n) | [Miro Žbirka](https://open.spotify.com/artist/38vf1Wys8uNYdbZQwtGpmr) | [Symphonic Album](https://open.spotify.com/album/6l4Cyr1wf5YgN8aWbeawZ1) | 3:12 | 2021-11-12 | 2021-11-14 |
 | [Jesus Lord](https://open.spotify.com/track/56JwgcQcxo08w7YXrBzrA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 8:58 | 2021-08-31 | 2021-09-02 |
@@ -915,6 +915,7 @@
 | [Rolls](https://open.spotify.com/track/0E92CGQj3E7REEC9TWqYze) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Melanž](https://open.spotify.com/album/7rK33Ae8DE1Hb4PLItVTvo) | 3:26 | 2021-04-02 | 2022-08-11 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-19 | 2023-01-11 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2021-03-27\* | 2021-05-14 |
+| [Rozdělený světy](https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Barvy](https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj) | 3:31 | 2023-05-05 |  |
 | [Rozený vrah](https://open.spotify.com/track/1jOLEepLQN1uDjqJwieaZB) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Finesa](https://open.spotify.com/album/6mDThweCb6pZxqwfThAw8Q) | 3:40 | 2022-06-14 | 2022-06-20 |
 | [Ruka Na Volante](https://open.spotify.com/track/4OhVw8lHCuy8S8Q0YyD57B) | [Nerieš](https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN) | [OK](https://open.spotify.com/album/4EXNFurxo8oRpHvN6M8iEp) | 2:52 | 2021-03-27\* | 2021-07-21 |
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2021-08-29 | 2021-11-07 |

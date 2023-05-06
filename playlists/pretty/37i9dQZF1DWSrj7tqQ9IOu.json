@@ -1,12 +1,12 @@
 {
   "description": "The best French indie tracks right now. Cover: Alice et Moi",
-  "num_followers": 389456,
+  "num_followers": 389549,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTdmNjYyNmQ2MWY1OTYyNTI1MjM2YWFjYTVlNDg0Nzg3NzI0OWQy",
+  "snapshot_id": "MCxjNGUyMDNiYWVmZjBkOTE5Y2Q3ZDkzYTliOWEyOGU2ZTQyNWUyODdh",
   "tracks": [
     {
       "added_at": "2023-05-04 22:01:00",
@@ -302,6 +302,10 @@
         {
           "name": "Peter Dallas",
           "url": "https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh"
+        },
+        {
+          "name": "\u00e9ol",
+          "url": "https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N"
         }
       ],
       "duration_ms": 160714,

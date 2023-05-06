@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 224069,
       "name": "Quatro Paredes",
       "url": "https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX"
@@ -2376,6 +2376,28 @@
       "duration_ms": 135268,
       "name": "Sagaz",
       "url": "https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9"
+    },
+    {
+      "album": {
+        "name": "Sem Medo",
+        "url": "https://open.spotify.com/album/7ArlUfHABsExfPlONAztaB"
+      },
+      "artists": [
+        {
+          "name": "Killa Bi",
+          "url": "https://open.spotify.com/artist/0fvXYAyHJ26i3CxGo2HSX2"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/0oVkrusu3IE56ZxkIrUo1s"
     },
     {
       "album": {

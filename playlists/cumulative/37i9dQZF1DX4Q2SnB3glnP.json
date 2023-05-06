@@ -3157,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "I start to feel",
+        "url": "https://open.spotify.com/album/7KiKS5NY51JOiE0sjH40XK"
+      },
+      "artists": [
+        {
+          "name": "Udda Jnhale",
+          "url": "https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Pressure Behavior",
+      "url": "https://open.spotify.com/track/22aK1Gkcy25yWYHtHPB2zJ"
+    },
+    {
+      "album": {
         "name": "Relajaci\u00f3n y Meditaci\u00f3n",
         "url": "https://open.spotify.com/album/7lf9GNRElS8xe9isYjh3bL"
       },
@@ -3654,7 +3672,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 139593,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"

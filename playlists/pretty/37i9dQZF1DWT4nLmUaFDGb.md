@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,093 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,516 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 99 | [Lucky](https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Lucky](https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy) | 2:40 |
 | 100 | [The Good Life \(with Billy Joel\)](https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 3:20 |
 
-Snapshot ID: `MCw4MmU4NjM3NDY2NGUzMTI1ZTNlZTY4ODZmZjcyMzJlNjI5ZDgyNDI1`
+Snapshot ID: `MCw3ODg1MDFkY2ZiZjc4ODM0MDc0ZWJhZjMxY2NlNGM0NjMxYTE0NTA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,472,449 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,473,331 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 99 | [Falling for You](https://open.spotify.com/track/0ymYPgVwNv1GdORWEiQzUz) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trouvaille](https://open.spotify.com/album/390nr9u7GE9Jeb0uS4LOzb) | 3:19 |
 | 100 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
 
-Snapshot ID: `MCw3N2NmNTA0OWQ2MDc5ZmVlMjA2YTNkOWY1ZWFkODdmOTYzZGYzMmQ1`
+Snapshot ID: `MCwzYTc5OGRmMzFkNTMzYTcwZGZlNzcyZThlYjczNjU5YTI4M2I0MDUz`

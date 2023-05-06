@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,105 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,103 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [How Great Thou Art \- Live](https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Hymns Ancient And Modern \(Live\)](https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA) | 4:40 |
 | 75 | [Love Shines \- Acoustic Version](https://open.spotify.com/track/0wO8DKDFIW1RpSaVHhRmQd) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Love Shines \- EP](https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO) | 5:19 |
 
-Snapshot ID: `MCw0NWQ3ZDQ0NDMwMDcyOTAzMzBhOWEyOTExNTM0MmI3YzAyNjI1MjZi`
+Snapshot ID: `MCwyOWQxMDNjYTFhNjgxM2NiZTUxMjg5MGQ0YWU3YzQ5NWI0NWI0ZDQ1`

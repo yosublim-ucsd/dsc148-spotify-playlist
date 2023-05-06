@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,061 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,245 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Certi Giorni \(feat\. Nitro\)](https://open.spotify.com/track/4nvsA575k8HrEjdQ78Ymvi) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 3:14 |
 | 100 | [Fiori Del Male \(feat.Sfera Ebbasta\)](https://open.spotify.com/track/6L9c3eo0Mcfmom3QqsGN0j) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [The Dark Album](https://open.spotify.com/album/6dcABz37PK2Q9bnv8kYTt0) | 3:08 |
 
-Snapshot ID: `MCwyOTM4YzEwNTQ5ZjI0YjNlZDNkMzA0MjMzYzQwNjM5Mjk2NTQzNzYx`
+Snapshot ID: `MCxkZmNjMDRlZjFhYmM0NmM5NjBjNWQ4N2YyNWJhNjNlYTU1YmJjNzM1`

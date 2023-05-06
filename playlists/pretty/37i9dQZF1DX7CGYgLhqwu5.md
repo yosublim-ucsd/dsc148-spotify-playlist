@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,130 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,255 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Keeps Right On A\-Hurtin'](https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH) | 2:53 |
 | 100 | [Wine Me Up](https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [Hello Walls](https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL) | 2:24 |
 
-Snapshot ID: `MCxhY2RiMTM1OTlkY2IxMDgzZTM5ODE1YmUwMDBiNTVhMDMxYjhjNjk2`
+Snapshot ID: `MCxlZTk4MjIyMmZlOGJlOTcyNTBkY2NhNWM5MWM1NGZjMWM1NzM5MTQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,416 likes - 90 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,681 likes - 90 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 89 | [Piccola Valle Verde](https://open.spotify.com/track/1luHl5aJg7nei9z6bXhw1a) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Piccola Valle Verde](https://open.spotify.com/album/331p32IoM4u2VYT264nO4g) | 2:57 |
 | 90 | [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 |
 
-Snapshot ID: `MCw5OGEzMzE5M2Y0MjE2MTJiNDc4Y2I0MDljMGRlNmViNjNlZjQxZDc5`
+Snapshot ID: `MCw2NTViNzhkMGQ2MWIyNzhiOGQ1MDdhNzVmZWE2YTVmMmYwOTk3NzAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Nerissima Serpe in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,460 likes - 55 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,540 likes - 55 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [CASPER](https://open.spotify.com/track/2LE6wtqBInDciga2cYRBNx) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [CASPER](https://open.spotify.com/album/7cB2F64LFKDZdwyMVzyvpj) | 2:30 |
 | 55 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
 
-Snapshot ID: `MCwyNzYzZjgzZWQ3NTZhNzcxOTNhOGQzYmI4YmFhOTI4YmU4MGFlNzEw`
+Snapshot ID: `MCxiZjkwYmQzY2JhNTAwOThiNjJiNmUyODhhNGZkOWQ3NjAyNjQzZDBh`

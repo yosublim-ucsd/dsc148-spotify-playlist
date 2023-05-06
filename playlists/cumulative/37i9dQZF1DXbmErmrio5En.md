@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: ThxSoMch
 
-158 songs - 7 hr 5 min
+161 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alive](https://open.spotify.com/track/27XTTUlL99G8lcfuaetPij) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT), [bloom](https://open.spotify.com/artist/3cXtMPyjj49G5dfZiO7W7Q) | [Alive](https://open.spotify.com/album/2udKLu1JEzjTssCifkxxRJ) | 2:21 | 2022-12-16 | 2023-02-18 |
 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 | 2022-12-04 |  |
 | [another night on the edge](https://open.spotify.com/track/4BE1RiDAUPdO7cknzaVHQf) | [fats'e](https://open.spotify.com/artist/6XFt0iOyYmGY19gn8upF5t) | [im sorry i never texted u back](https://open.spotify.com/album/0Uv6EaqO8PWeJxMoAwc7Nv) | 1:45 | 2023-03-20 |  |
+| [anything u want](https://open.spotify.com/track/4iV9i4oVWpJdwnI86VPh5o) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [anything u want](https://open.spotify.com/album/73CV9zUvuDoKWkBCnBFzIV) | 2:26 | 2023-05-05 |  |
 | [apartmnt](https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [apartmnt](https://open.spotify.com/album/1mqj22B6EL8FsqVOBfRtFJ) | 1:34 | 2022-12-04 | 2023-02-18 |
 | [battle](https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [battle](https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx) | 1:17 | 2023-03-07 |  |
 | [before i go](https://open.spotify.com/track/7oRWfs4HVAglIlSK7ytUuf) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [psychosis](https://open.spotify.com/album/42gnvKERgMw72qxGnEIEhN) | 2:15 | 2022-12-16 |  |
@@ -32,6 +33,7 @@
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-13 | 2023-04-15 |
 | [catherine never broke again](https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [catherine never broke again](https://open.spotify.com/album/0SS7QRTl0W0CBbUCPkmmaM) | 1:54 | 2023-02-24 |  |
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-12-04 |  |
+| [Cops and robbers](https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cops and robbers](https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo) | 4:25 | 2023-05-05 |  |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 | 2023-01-20 | 2023-03-03 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:39 | 2023-01-20 |  |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 | 2023-01-20 | 2023-03-12 |
@@ -128,6 +130,7 @@
 | [ShoulderBlades](https://open.spotify.com/track/3wpqJnWQWl4bY4BtMWTbtk) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [ShoulderBlades](https://open.spotify.com/album/3BTJdS4xG8Pah4MkBJEukW) | 2:29 | 2023-01-20 |  |
 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-12-04 | 2023-02-18 |
 | [Sierra Echo X\-Ray](https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Sierra Echo X\-Ray](https://open.spotify.com/album/0qTRuR0gfRdiViqE7gk3QQ) | 2:12 | 2023-01-13 | 2023-03-22 |
+| [SNAKE EYES](https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [SNAKE EYES](https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ) | 2:10 | 2023-05-05 |  |
 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 | 2022-12-04 |  |
 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 | 2022-12-09 | 2023-04-15 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-04 | 2023-04-09 |

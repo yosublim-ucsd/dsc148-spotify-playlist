@@ -4329,6 +4329,32 @@
     },
     {
       "album": {
+        "name": "Bumsbar",
+        "url": "https://open.spotify.com/album/5scHLxNmarpll2bsmIP9ny"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Bumsbar",
+      "url": "https://open.spotify.com/track/62NrIrsxxNXJVvtRivWYjM"
+    },
+    {
+      "album": {
         "name": "Bunny Bars (Osterhase)",
         "url": "https://open.spotify.com/album/6STSuQBHx97jufQT2cB2qK"
       },
@@ -4608,6 +4634,28 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
     },
     {
       "album": {
@@ -7468,6 +7516,24 @@
       "duration_ms": 200629,
       "name": "DUNYA",
       "url": "https://open.spotify.com/track/2D1hGSFBSTcKccY1FI3blA"
+    },
+    {
+      "album": {
+        "name": "D\u017eanum",
+        "url": "https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y"
+      },
+      "artists": [
+        {
+          "name": "Teya Dora",
+          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174045,
+      "name": "D\u017eanum",
+      "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
     },
     {
       "album": {
@@ -15046,7 +15112,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 207500,
       "name": "LORBEERKRANZ",
       "url": "https://open.spotify.com/track/3ixYwMhY3eLvdrz0paiYGD"
@@ -20964,7 +21030,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 146029,
       "name": "Rajske kise",
       "url": "https://open.spotify.com/track/31EIzRV2HqVDQttJ6oeQLh"
@@ -28110,7 +28176,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"

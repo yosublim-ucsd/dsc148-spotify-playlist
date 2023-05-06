@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Jota Rosa, Alvaro Diaz & DJ Blass",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Alejo",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -160,6 +160,24 @@
       "duration_ms": 289853,
       "name": "3 Deseos Remix (with Dalex & Eix, feat. Alejo)",
       "url": "https://open.spotify.com/track/7ygbhCP2yANDe8Z4xXpvKk"
+    },
+    {
+      "album": {
+        "name": "EL FAVORITO DE LAS NENAS",
+        "url": "https://open.spotify.com/album/6xkhGbgMC7zouP3ofEbV7S"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130741,
+      "name": "305",
+      "url": "https://open.spotify.com/track/4bIzQDCQH9g7h2GPWsWFoP"
     },
     {
       "album": {
@@ -778,7 +796,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 160484,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/73KMCXbjASgPjAuaHCQoxb"
@@ -6178,7 +6196,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 186727,
       "name": "Lo Que T\u00f9 Digas",
       "url": "https://open.spotify.com/track/45UwuICLPKJmjUhnDUoK1F"
@@ -6684,7 +6702,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 137931,
       "name": "Marquesina - Spotify Singles",
       "url": "https://open.spotify.com/track/7BHXZzga7nV1LuTyn1PF2q"
@@ -6922,6 +6940,32 @@
       "duration_ms": 332608,
       "name": "Medio Crazy Remix",
       "url": "https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Yo",
+        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242696,
+      "name": "Mejor Que Yo",
+      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
     },
     {
       "album": {
@@ -7594,7 +7638,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 215000,
       "name": "NANANA",
       "url": "https://open.spotify.com/track/3cjm5VQKY4lKbZQPv0AxNE"
@@ -9035,6 +9079,24 @@
     },
     {
       "album": {
+        "name": "Pol\u00e9mica",
+        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151718,
+      "name": "Pol\u00e9mica",
+      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
+    },
+    {
+      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
       },
@@ -10362,7 +10424,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 187951,
       "name": "Sin Ropa",
       "url": "https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk"
@@ -11088,7 +11150,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 222786,
       "name": "Tentretiene",
       "url": "https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB"
@@ -11306,7 +11368,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151181,
       "name": "Tota",
       "url": "https://open.spotify.com/track/6t1tYlR0DLZn1pIKOp1BgJ"
@@ -11460,7 +11522,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 285986,
       "name": "TRIPLE H - REMIX",
       "url": "https://open.spotify.com/track/308zx3494Sp10C1eBTK3Y6"
@@ -11840,6 +11902,24 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v?si=22c30acde37743c7\">Brandon Lake</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5?si=ccd26b8deb094ff3\">Abbie Gamboa</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -829,6 +829,32 @@
     },
     {
       "album": {
+        "name": "Breaking Me Down",
+        "url": "https://open.spotify.com/album/45E5aRQy738kHrJlxzuGUZ"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Praise Paige",
+          "url": "https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e"
+        },
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257337,
+      "name": "Breaking Me Down",
+      "url": "https://open.spotify.com/track/0HzYgueezLLElF3nU6owz3"
+    },
+    {
+      "album": {
         "name": "Breathe - EP",
         "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
       },
@@ -1514,7 +1540,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 261318,
       "name": "eyes locked on the king",
       "url": "https://open.spotify.com/track/19Jl5Q60tGlp0aNBUIMnzO"
@@ -2008,7 +2034,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 338900,
       "name": "Good Things - (Live) [Acoustic]",
       "url": "https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R"
@@ -2358,6 +2384,32 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "album": {
+        "name": "Holy Hallelujah (Live)",
+        "url": "https://open.spotify.com/album/7rfV4Idh5eq0yEam2mviM2"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        },
+        {
+          "name": "Carrington Gaines",
+          "url": "https://open.spotify.com/artist/06KVH7flbJYpynOJ0pcUwZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547598,
+      "name": "Holy Hallelujah - Live",
+      "url": "https://open.spotify.com/track/0rLMg3eCwLHCNKQcN0TZ3I"
     },
     {
       "album": {
@@ -4250,10 +4302,36 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 338493,
       "name": "Monday Morning Faith - Acoustic",
       "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
+    },
+    {
+      "album": {
+        "name": "Monday Morning Faith (Studio Version)",
+        "url": "https://open.spotify.com/album/34SQZDK7kntzsEMmWfFCaL"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256531,
+      "name": "Monday Morning Faith - Studio Version",
+      "url": "https://open.spotify.com/track/5pttLvlCeWoUsjMqoQL54O"
     },
     {
       "album": {
@@ -5249,6 +5327,28 @@
     },
     {
       "album": {
+        "name": "pure",
+        "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356962,
+      "name": "pure",
+      "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
+    },
+    {
+      "album": {
         "name": "Pursuit (As The Deer) [Live]",
         "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
       },
@@ -5268,6 +5368,24 @@
       "duration_ms": 374437,
       "name": "Pursuit (As The Deer) - Live",
       "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
+    },
+    {
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/7qDEjJbSBc4xBKZhoiEwGw"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333989,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7EV5YGeMxguEhWFZZJi21V"
     },
     {
       "album": {
@@ -5450,7 +5568,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 326586,
       "name": "Revive Us",
       "url": "https://open.spotify.com/track/482JokR9fmFzeaJfMTdvzr"

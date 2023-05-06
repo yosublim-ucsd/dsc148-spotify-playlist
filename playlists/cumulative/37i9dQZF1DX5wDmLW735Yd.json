@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Luude, Bru-C",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Bou",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1394,6 +1394,28 @@
       "duration_ms": 284137,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/3WpZaVBGjVgR7lxekzkXTY"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Slay",
+          "url": "https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135796,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
     },
     {
       "album": {
@@ -4383,6 +4405,24 @@
     },
     {
       "album": {
+        "name": "Magnetize",
+        "url": "https://open.spotify.com/album/4P4zPkKSyzkDC9aIVkAuGy"
+      },
+      "artists": [
+        {
+          "name": "Audioscribe",
+          "url": "https://open.spotify.com/artist/1zCwEEtlGUmFFAEvQ9jW6D"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "Magnetize",
+      "url": "https://open.spotify.com/track/5Cqzp9lLkwo17ayc7sUNte"
+    },
+    {
+      "album": {
         "name": "Make It",
         "url": "https://open.spotify.com/album/6J5zuNXf1JR6ft8tmyWyap"
       },
@@ -6806,7 +6846,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 164898,
       "name": "Special Powers",
       "url": "https://open.spotify.com/track/3dIKsuKDHXRfiZ56lm8g7T"
@@ -8206,7 +8246,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 226206,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5asj11vQ6VWmTJP8kQ2Lig"

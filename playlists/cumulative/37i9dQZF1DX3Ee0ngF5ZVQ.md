@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-438 songs - 1 day 2 hr 6 min
+439 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Hang Me Out to Dry](https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Hang Me Out to Dry](https://open.spotify.com/album/35ZxnWk862bt1mVkkGWqlK) | 3:57 | 2021-12-17 | 2022-12-08 |
 | [Hangover](https://open.spotify.com/track/52PsNZPUNkR78ZKwS7rhQ5) | [Houston Bernard](https://open.spotify.com/artist/47sMYU4wkPXThnOUOSqbXl) | [Hangover](https://open.spotify.com/album/6rPXn5nw8hjO0o0KC1aNri) | 3:10 | 2022-03-11 | 2022-08-03 |
 | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 | 2021-12-17 |  |
-| [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 | 2022-09-02 |  |
+| [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 | 2022-09-02 | 2023-05-06 |
 | [Harder Stuff](https://open.spotify.com/track/13KCXYA2sMXKisvfsiKmPH) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Harder Stuff](https://open.spotify.com/album/4gaF0LwArBfbpauA1n5wlG) | 4:32 | 2022-08-12 | 2022-09-21 |
 | [Harder Stuff](https://open.spotify.com/track/3CodabhvUlO7TqeOX1V2F1) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Harder Stuff](https://open.spotify.com/album/0MxGwGfnilpKimNfupanVB) | 4:32 | 2022-05-20 | 2022-08-14 |
 | [Harder Stuff](https://open.spotify.com/track/6BzCBm0qXbMsDQYDUAYQNO) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Bad Days Better](https://open.spotify.com/album/0cI9YhCkHa1JcxbhyY8mBX) | 4:32 | 2022-09-16 | 2023-03-06 |
@@ -417,6 +417,7 @@
 | [Whatever It Is](https://open.spotify.com/track/5GIHSqXNkKFn0H0N1hWh20) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Whatever It Is](https://open.spotify.com/album/4WAcafmCgjkUIcYDqGAVLQ) | 3:27 | 2021-12-17 | 2022-03-19 |
 | [When I See You](https://open.spotify.com/track/3q1K2sy4cleHRdaSWpwmlt) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/6I6ykKV4SbTOK7ecmTtjDw) | 3:20 | 2022-03-11 | 2022-06-18 |
 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 | 2021-12-17 | 2022-05-20 |
+| [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:02 | 2023-05-05 |  |
 | [When You're Coming Down](https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [When You're Coming Down](https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z) | 4:20 | 2021-12-17 | 2022-03-19 |
 | [Where Cotton Is King](https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Where Cotton Is King](https://open.spotify.com/album/5rkQu4FxupIR0c3py7AHz7) | 3:31 | 2022-09-02 | 2023-02-11 |
 | [Where the Lonely Go](https://open.spotify.com/track/3ExEYtIdVTuIebZsoc8l2v) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:31 | 2022-01-28 | 2022-06-25 |

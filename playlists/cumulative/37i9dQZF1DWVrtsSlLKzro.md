@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-274 songs - 16 hr 32 min
+275 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 | 2022-02-18 |  |
 | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/track/7hCZVX8ogwzgszIKtkD6Bv) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/album/20BQqiuNutjnDzWLSBZfWL) | 4:32 | 2021-12-03 |  |
 | [Other Side of Love](https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Other Side of Love](https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU) | 3:42 | 2022-07-01 |  |
+| [Out My Head](https://open.spotify.com/track/4r7TGHgy8e7r4Qzhlo0yZL) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Out My Head](https://open.spotify.com/album/37JDfW6LMqnAhItiGfVEE7) | 3:33 | 2023-05-05 |  |
 | [Out Of Reach](https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Out Of Reach](https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF) | 4:15 | 2021-12-03 |  |
 | [Out Of Touch \- Edit](https://open.spotify.com/track/3Q7cF0uvDhoorWDWpsg024) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Out Of Touch](https://open.spotify.com/album/0lzKzx043JEPXSe3ht4LK3) | 3:32 | 2021-12-03 | 2022-05-07 |
 | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/track/2WCInR4Z5mlpuk6qbYooQE) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/album/2LVHnGD0b6KrJvyGmOuG8Q) | 2:53 | 2021-12-03 |  |

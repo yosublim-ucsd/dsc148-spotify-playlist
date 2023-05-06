@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=2tuFGhMOTQq74hieYvJjVw">Ruff Majik</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn?si=Dy\-6K\_\_kSu6y\-7gjp5Fyzw">Glaskas</a>
 
-247 songs - 14 hr 44 min
+251 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,10 +64,11 @@
 | [Demons](https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk), [Bobby XX](https://open.spotify.com/artist/7M22xUpObTRyRjHa5b3frp) | [Demons](https://open.spotify.com/album/6E37QS4o6fWjdAQ6mHhaK8) | 2:05 | 2022-01-21 | 2022-09-23 |
 | [Destination](https://open.spotify.com/track/41HTRLeK7GD9251tiuX1vX) | [Indie Dog](https://open.spotify.com/artist/3RXbBpqUbS5sBzgyWgkotn) | [Theory of Emotion](https://open.spotify.com/album/4BznP0N1xfGkGR0aWspdvE) | 4:48 | 2023-03-02 |  |
 | [Didn't Want To Fall In Love With You \- Radio Edit](https://open.spotify.com/track/1SLwPTrcTMwEDX2b7pQp8s) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Didn't Want To Fall In Love With You \(Radio Edit\)](https://open.spotify.com/album/6mxPuV54mjYg3kOYDNOkgh) | 2:55 | 2021-11-25 | 2022-07-29 |
-| [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 |  |
+| [Die Lig](https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Die Lig](https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb) | 2:25 | 2023-05-05 |  |
+| [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 | 2023-05-06 |
 | [Doesn't Mean You](https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ) | [Gary Collocott](https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO) | [Doesn't Mean You](https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY) | 3:15 | 2021-06-24 | 2022-02-18 |
 | [Don't Say Goodbye](https://open.spotify.com/track/7GTj7UNfrqE3glRpZxza7I) | [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Don't Say Goodbye](https://open.spotify.com/album/6B86LoRK5Ddip3RoMUHijd) | 4:24 | 2022-11-24 | 2022-12-09 |
-| [Down](https://open.spotify.com/track/5HZHEJr2lB9UuJdTnJ2LlC) | [Tailyn](https://open.spotify.com/artist/2qzHxFKbv8nubU91e90OHx) | [Down](https://open.spotify.com/album/1iY7kl6SSFgsvanujYfz4n) | 4:00 | 2023-02-09 |  |
+| [Down](https://open.spotify.com/track/5HZHEJr2lB9UuJdTnJ2LlC) | [Tailyn](https://open.spotify.com/artist/2qzHxFKbv8nubU91e90OHx) | [Down](https://open.spotify.com/album/1iY7kl6SSFgsvanujYfz4n) | 4:00 | 2023-02-09 | 2023-05-06 |
 | [Down \- Remastered](https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi) | [Naranjo](https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R) | [Saints and Sinners \(Remastered\)](https://open.spotify.com/album/4kopPPmW09PGMnh85jojya) | 3:40 | 2022-08-25 | 2023-01-20 |
 | [Drunk 'n Irate](https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Drunk 'n Irate](https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF) | 2:33 | 2022-08-25 | 2023-02-10 |
 | [Druppels](https://open.spotify.com/track/6jZR5jBiTTfWIlR0dIlZnc) | [Gevoel van Veiligheid](https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS) | [Druppels](https://open.spotify.com/album/719CSrqyLBVI2KKrr1hDeL) | 3:49 | 2022-03-03 | 2022-09-16 |
@@ -99,6 +100,7 @@
 | [Get Over Here](https://open.spotify.com/track/6DuZOFGc4LBr0HSbbd03q3) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/23aiLlsImhhiuCfYGcBpfC) | 3:16 | 2022-05-26 | 2023-01-28 |
 | [Gimme Love](https://open.spotify.com/track/4LSR4g2XMq2jbZtYUxhbUo) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 3:33 | 2021-10-07 | 2022-08-05 |
 | [Gods Gift](https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N) | [Beyond Rebellion](https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe) | [Gods Gift](https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi) | 3:16 | 2022-11-17 | 2023-03-03 |
+| [Good Little Girl](https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y) | [Saturn Return](https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt) | [Good Little Girl](https://open.spotify.com/album/2A2SF1ydODURrgfp9hOp8A) | 3:25 | 2023-05-05 |  |
 | [Hartseer Freaks](https://open.spotify.com/track/0QkQXlKStGokMoWhngW99p) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 3:25 | 2022-12-01 | 2022-12-09 |
 | [Heaving](https://open.spotify.com/track/0sYJEJYGBKaiTcHdAcMAUP) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/4vVdnV7qeVHfw6eXvsuAHj) | 3:26 | 2023-02-16 | 2023-03-31 |
 | [Hey Jy](https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe) | [SAKKIE](https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Hey Jy](https://open.spotify.com/album/18kpyRiXNAOEuTfRRks6xM) | 2:39 | 2023-03-16 |  |
@@ -149,15 +151,16 @@
 | [Mud](https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Mud](https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x) | 3:07 | 2023-04-14 |  |
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 | 2022-11-18 |
 | [My Wolf](https://open.spotify.com/track/1O9wH2a4pYvKvQflK61JVL) | [Hansie Roodt](https://open.spotify.com/artist/78nUGs2i0NV2hsgPQya8E3) | [My Wolf](https://open.spotify.com/album/1zLCBWxCWdinLZLX9KMiCf) | 3:44 | 2023-03-30 |  |
-| [Nameless Days](https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Nameless Days](https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n) | 4:11 | 2023-02-09 |  |
+| [Nameless Days](https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Nameless Days](https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n) | 4:11 | 2023-02-09 | 2023-05-06 |
 | [Nice Dress](https://open.spotify.com/track/6Kd1izacFjRIP7qUYwqOea) | [SUGAR DIP](https://open.spotify.com/artist/4LguOGGtT3KZLhdCYRN7JG) | [Damage and Dodge](https://open.spotify.com/album/34kSCWvTzuTg3YG2Rr1hRk) | 3:04 | 2023-02-02 | 2023-03-31 |
-| [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 |  |
+| [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 | 2023-05-06 |
 | [No One Else Will](https://open.spotify.com/track/76KLjagyMyDblwHHHgVJLZ) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [No One Else Will](https://open.spotify.com/album/3xq4IJTrAK1atE6FVsBY98) | 3:20 | 2023-02-16 | 2023-03-18 |
 | [Nothing Feels Good Without You](https://open.spotify.com/track/0ldL6b3ZxXX5hcAntTHsi6) | [Louise Carver](https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD) | [Nothing Feels Good Without You](https://open.spotify.com/album/2oRvkrGd0ceGblE1Ui8hBe) | 3:25 | 2022-07-21 | 2023-02-03 |
 | [Nothing to Show \- Bonus Track](https://open.spotify.com/track/0a9srDwDH1sSIp9jvSP9rX) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk) | [The Aviary \(Deluxe Edition\)](https://open.spotify.com/album/77lEYneVqteKZOJjzi88MZ) | 3:37 | 2021-11-11 | 2022-02-18 |
 | [Ntuthwane](https://open.spotify.com/track/26LjhwE4l45AnMbvyxavn9) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Ntuthwane](https://open.spotify.com/album/6H3Afy1rryTXuENzc6JQhy) | 2:05 | 2023-04-20 |  |
 | [Oh No!](https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [Oh No!](https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3) | 2:25 | 2022-09-15 | 2023-03-03 |
 | [ohmygosh \- Acoustic](https://open.spotify.com/track/3ANoysTDtk5sUv54J5esM5) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [ohmygosh \(Acoustic\)](https://open.spotify.com/album/2hEBqU7NAneCBKhh7SUoJ9) | 4:12 | 2021-12-09 | 2022-08-05 |
+| [ONE](https://open.spotify.com/track/1NXO41gIxIzpBVc3JIO00v) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [ONE](https://open.spotify.com/album/6I10aJiMRq2h1jqF1zhYtF) | 4:22 | 2023-05-05 |  |
 | [One Lane Road](https://open.spotify.com/track/7jsZdatNbVONa1V6tF0Tm3) | [Dead Man's Son](https://open.spotify.com/artist/56BAnDZ3dSkEonH2yShhSx) | [Dead Man's Son](https://open.spotify.com/album/253Z7aBKpm5kgYSKO1fEpI) | 3:47 | 2023-01-26 | 2023-03-25 |
 | [Ongevalle](https://open.spotify.com/track/1shcVBVEDQ43bJOIThkiR2) | [Stones & Gold](https://open.spotify.com/artist/07H4TBAQGyIVUYxLKoFlEP) | [Two of a Kind, Pt\. 2](https://open.spotify.com/album/1WyS8TcOhUmN6XZdlJtYcc) | 3:53 | 2022-12-01 | 2022-12-09 |
 | [Ons Het Gewen](https://open.spotify.com/track/11CVceR6cMGoXEA9IM18sO) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Ons Het Gewen](https://open.spotify.com/album/2hJ1WMh8F9qtnLHpgr9J3O) | 3:02 | 2021-06-10 | 2022-11-18 |
@@ -239,6 +242,7 @@
 | [Until I Forget You](https://open.spotify.com/track/505KIwDfwJFpwVpza70TmC) | [Wayne Cumming](https://open.spotify.com/artist/7yOrr8uio6byKlQC6NLufS) | [Until I Forget You](https://open.spotify.com/album/5FLo5HPAAhRiKtNnpxuvqg) | 3:32 | 2022-02-03 | 2022-07-22 |
 | [Use Me](https://open.spotify.com/track/3SAvq5q3kuXSQ2qKxuBGMI) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 2:58 | 2022-02-10 | 2022-11-18 |
 | [Vanilla Sky](https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Vanilla Sky](https://open.spotify.com/album/1W3iNe6Kn0pvJ9h4OqjjZO) | 4:06 | 2022-02-17 | 2022-12-09 |
+| [Verby](https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz) | [Swerwer](https://open.spotify.com/artist/2Agm0pczmzwW1mpWQjioPJ) | [Verby](https://open.spotify.com/album/0F7M5RLUaX36HO8wYf2vYF) | 3:49 | 2023-05-05 |  |
 | [Verlede](https://open.spotify.com/track/4Rv72ElRdcLDMi7r5ENtRz) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Verlede](https://open.spotify.com/album/03WqCunPsGa51cHENo2QYc) | 3:10 | 2023-04-27 |  |
 | [Vodka and Smoke](https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Vodka and Smoke](https://open.spotify.com/album/3oDXIxLl40ilYOg0yfIfZm) | 4:36 | 2023-03-09 | 2023-04-21 |
 | [Wabaleka](https://open.spotify.com/track/3hYjSz0QfFeaG9CTP8hNJF) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [Hawema](https://open.spotify.com/album/5QZq4FHvOHdlgr1mts4T89) | 4:47 | 2023-04-20 |  |

@@ -2,18 +2,19 @@
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: PLK
+> Le rap francophone est en forme\. Photo: Lost x Loud
 
-65 songs - 3 hr 23 min
+67 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 | 2023-03-03 |  |
 | [3 singes](https://open.spotify.com/track/57JhjU33uXlZtmr2Dsk8TX) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 3:02 | 2023-03-03 | 2023-03-18 |
-| [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2023-03-03 |  |
+| [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2023-03-03 | 2023-05-06 |
 | [Belle](https://open.spotify.com/track/1GTwuwkt4hejBcymq849Cg) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [QCLTUR](https://open.spotify.com/album/4bHZOMo5sjb7SrSvaevvKy) | 3:18 | 2023-03-03 |  |
 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 | 2023-03-03 |  |
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/1vhGzynTAXJ0MD0gkXPxzX) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BODIES \(feat\. Damso\)](https://open.spotify.com/album/61G5Kmh73wP41ZN0sBdlBB) | 2:46 | 2023-03-03 |  |
+| [C'est carré le S](https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est carré le S](https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y) | 3:21 | 2023-05-05 |  |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2023-03-03 |  |
 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 | 2023-03-03 |  |
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2023-03-03 |  |
@@ -59,11 +60,12 @@
 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-17 |  |
 | [Quand tout s'enflamme](https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Années Sauvages](https://open.spotify.com/album/3zsnpMh0K6pM1Rbo7btDtN) | 2:50 | 2023-03-03 |  |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:10 | 2023-03-03 |  |
-| [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2023-03-03 |  |
+| [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2023-03-03 | 2023-05-06 |
 | [Rien de moins](https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 2:54 | 2023-03-03 | 2023-03-11 |
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-03-03 |  |
 | [Sentencé](https://open.spotify.com/track/3n9VHoMlVJvotkaXLFNqA2) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Sentencé](https://open.spotify.com/album/0A8VTHR0FqyOwGeiaiuMc7) | 3:32 | 2023-03-03 | 2023-03-18 |
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-17 |  |
+| [Sosa](https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sosa](https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625) | 2:37 | 2023-05-05 |  |
 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:37 | 2023-03-03 |  |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2023-03-03 |  |
 | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE) | 2:48 | 2023-03-03 |  |

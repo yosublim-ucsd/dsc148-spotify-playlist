@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 256663,
       "name": "Ch\u1ebft Trong Em",
       "url": "https://open.spotify.com/track/1dUmmBh2nw8XzEI3au0uFs"
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
@@ -3726,6 +3726,28 @@
       "duration_ms": 148880,
       "name": "Don't C\u00f4i",
       "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
+    },
+    {
+      "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Don't ever say love me (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
     },
     {
       "album": {
@@ -6876,7 +6898,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 244218,
       "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i - Piano Version",
       "url": "https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b"
@@ -7888,6 +7910,24 @@
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "album": {
+        "name": "MAKING MY WAY",
+        "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258006,
+      "name": "MAKING MY WAY",
+      "url": "https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ"
     },
     {
       "album": {
@@ -13036,7 +13076,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"

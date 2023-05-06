@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: 神はサイコロを振らない
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,654 likes - 81 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,759 likes - 81 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 39 | [Boat on a Lake](https://open.spotify.com/track/3x8hSRbpLA0GLg57DGxpDA) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Boat on a Lake](https://open.spotify.com/album/2NFWScTjalY0pPUfjue5w9) | 2:55 |
 | 40 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 |
 | 41 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 |
-| 42 | [Girl in the Mirror](https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the Mirror](https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA) | 3:10 |
+| 42 | [Girl in the Mirror](https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Portrait](https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj) | 3:11 |
 | 43 | [Ougon No Hibi](https://open.spotify.com/track/4AjvNnE1FWK8kz0p85qrWS) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr) | 3:26 |
 | 44 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
 | 45 | [ただそれだけのことがさ](https://open.spotify.com/track/3B6vc2GvuGBmoNESYzpkze) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ただそれだけのことがさ](https://open.spotify.com/album/2xO7qPcley2aBcIy0Lf6mK) | 4:13 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 80 | [Spread City](https://open.spotify.com/track/3GmSEfuuFLpRxC6iZV9Mv7) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [Midnight Chocolate \- EP](https://open.spotify.com/album/6Jjha9eFKiS7bvJbxU2U7Y) | 3:52 |
 | 81 | [OKASHi NA DEAi](https://open.spotify.com/track/1G0ZZ3vKImarwxWFwf9wHD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [OKASHi NA DEAi](https://open.spotify.com/album/6XtHOEb6BZHR6WUnylSUQz) | 4:07 |
 
-Snapshot ID: `MCw2OGYyOWExODNkMmYzZjFiOGEzOWQ5MzRmNGNjOTdiNjY1ZDI3Y2Ux`
+Snapshot ID: `MCw0MDAyM2I4MDhlYWQzYzEzY2E4Y2QxMjc1NDlmNGFjNWIwMjc1NTVh`

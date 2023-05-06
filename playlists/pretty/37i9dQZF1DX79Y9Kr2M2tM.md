@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,518 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,600 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
 | 100 | [Bombs](https://open.spotify.com/track/5h9kCImRSHs7xabbDOYCYC) | [Sami Simon](https://open.spotify.com/artist/0QNjXIQx37k8fIIzO4g71q) | [Bombs](https://open.spotify.com/album/0uEl2CeXpVSKVeaZL1upw5) | 4:26 |
 
-Snapshot ID: `MCwyOTNkNDNjZjdkNmU0M2Y3MTZmMWZiYjg1Nzk1NmQwMzlmODZhOGY4`
+Snapshot ID: `MCw4ZGIzMzA2ZTc4Zjg0MjUyMzhhMzhiMDljMjJiYTUyMWQ2ODIzM2I3`

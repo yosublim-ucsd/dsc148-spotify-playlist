@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,523 likes - 250 songs - 14 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,643 likes - 250 songs - 14 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 249 | [Silver Moon \- EP Version](https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land Of The Living EP](https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8) | 4:51 |
 | 250 | [Rainbow](https://open.spotify.com/track/5C1FM56hBj76tK4CFPEi7A) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/2nbaIZHfhRXEkmADZ9jSzG) | 3:51 |
 
-Snapshot ID: `MCxjMWMzYmU4MDYxYmRkNmU2NzdlMTZiMjNlYWVhZjkzZGYwNDcxODM5`
+Snapshot ID: `MCwwNzc0ODI3OGJmYmUxOGIzMWY3YzI3YjgxNDBlYmE1ZDUyYjhmMzAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Digital cameras, smudged eyeliner, house parties and electroclash.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,729 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,977 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 79 | [Day 'N' Nite \- Crookers Remix](https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Day 'N' Nite \(Crookers Remix\)](https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F) | 4:41 |
 | 80 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 |
 
-Snapshot ID: `MCxhOWE3ZGZlYzAzNjdiZjljYjU4ZDE0MzE0ZTlhNTdkN2JmZWZjODdk`
+Snapshot ID: `MCxhZTEwMTZkOGZlN2U4N2QzYWI1NTI3N2MxNzJjZWQ2MDYyZWU0Y2E2`

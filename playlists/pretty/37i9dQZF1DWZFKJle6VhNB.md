@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,521 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,790 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Camaro Amarelo](https://open.spotify.com/track/5ivya8USJX3ezDjd2FYSXa) | [Munhoz & Mariano](https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN) | [Camaro Amarelo \- Single](https://open.spotify.com/album/7M33XB2qec8tmOlUF529eb) | 3:32 |
 | 100 | [Santinha \- Ao Vivo](https://open.spotify.com/track/3e7cnQ5KYSSIwUo6tfQqwB) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [\#Bailedasantinha \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/6idqgJfwMMX19rzy6oI5bm) | 5:10 |
 
-Snapshot ID: `MCxkMDk2MmFlZjQ4MDA0ZmZmMGYyMTEyODVjYmQxMzM1MzdkMTVhMWUy`
+Snapshot ID: `MCxhZTI1YWQ3NzAwZDkxYzBiNTdhMDg4NzM3OGQ0NDk0N2Q3YWZmMTUz`

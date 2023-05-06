@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,076 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,065 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [Noel \- Live](https://open.spotify.com/track/08isGd2M7LhvFIrh4hNwJ7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:17 |
 | 100 | [Joy to the World/Our God Saves](https://open.spotify.com/track/5theMlNBtF80y4WXPzSCAZ) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Christmas Worship, Vol\. 2](https://open.spotify.com/album/0Oebjw58B0C8Jx5tuJiDuS) | 4:35 |
 
-Snapshot ID: `MCwxMjE5ODc0ODE2OGM3OWM1Yjk3ZDViOTJjNjM3OTA3YTNiZWNjZDJj`
+Snapshot ID: `MCxhNzFlMDYxNzYyYzA5N2QwZTdmOWMzMTNhY2EyNTk1Y2M2ZGViMjQz`

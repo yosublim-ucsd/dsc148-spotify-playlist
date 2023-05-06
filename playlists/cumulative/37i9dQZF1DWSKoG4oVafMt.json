@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The very best of Punjabi romance featuring Diljit Dosanjh & Nimrat Khaira",
+  "description": "The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill",
   "name": "Punjabi Pyar",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 117606,
       "name": "9:45",
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Chaand Baaliyan",
+        "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103264,
+      "name": "Chaand Baaliyan",
+      "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
+    },
+    {
+      "album": {
         "name": "Chabbi",
         "url": "https://open.spotify.com/album/0V3JwNUon6yzdrDn3zsgLY"
       },
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 283902,
       "name": "Challa - Spotify Singles",
       "url": "https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm"
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 215142,
       "name": "Chitthiyan",
       "url": "https://open.spotify.com/track/0jkKCoQ74XO0VFcNGs43pV"
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 343112,
       "name": "Dhola",
       "url": "https://open.spotify.com/track/0uKWc88ehixBsihqkiAQT8"
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 233666,
       "name": "Dil Nu",
       "url": "https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm"
@@ -3037,6 +3055,28 @@
     },
     {
       "album": {
+        "name": "Dilawara",
+        "url": "https://open.spotify.com/album/6Q9uRhFdTKxWGItb71JcQh"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        },
+        {
+          "name": "Ezu",
+          "url": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222827,
+      "name": "Dilawara",
+      "url": "https://open.spotify.com/track/1C6auFaK08OhOTJ8bfrAiG"
+    },
+    {
+      "album": {
         "name": "Diljale",
         "url": "https://open.spotify.com/album/2DyHNBY6qhQeLaEA1eY5rG"
       },
@@ -3117,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "In Love With Diljit Dosanjh",
+        "url": "https://open.spotify.com/album/29DT4MsLF2eLJxyJwivlnD"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212470,
+      "name": "Do You Know",
+      "url": "https://open.spotify.com/track/3kKfPlamJ5CO6j9tA4RdyS"
+    },
+    {
+      "album": {
         "name": "Alll Rounder",
         "url": "https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS"
       },
@@ -3150,6 +3208,24 @@
       "duration_ms": 188000,
       "name": "Dooja Pyaar",
       "url": "https://open.spotify.com/track/4MqRN7DQQXxxU4eZdC0zcb"
+    },
+    {
+      "album": {
+        "name": "Door Hovi Na",
+        "url": "https://open.spotify.com/album/57ho2PRvTKLI60wtf8QUF8"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181231,
+      "name": "Door Hovi Na",
+      "url": "https://open.spotify.com/track/2AL8a8ftamuJ7D0Pw1rroa"
     },
     {
       "album": {
@@ -3380,7 +3456,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 150588,
       "name": "Everything Changed",
       "url": "https://open.spotify.com/track/0IVryjFfPlLge7jAyB7KqU"
@@ -4160,7 +4236,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 225542,
       "name": "God's Art",
       "url": "https://open.spotify.com/track/1plZ5d6vaJZJKgX1ynCAJk"
@@ -4268,7 +4344,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 189333,
       "name": "Guitar Sikhda",
       "url": "https://open.spotify.com/track/7HGhE2zK1VToDev4SLCXHK"
@@ -4566,6 +4642,24 @@
       "duration_ms": 205469,
       "name": "Heer Wargiye - From: \"Mahi Mera Nikka Jeha\"",
       "url": "https://open.spotify.com/track/2z8jSGOE1jJnIMCwfZokIQ"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154080,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr"
     },
     {
       "album": {
@@ -5578,7 +5672,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174413,
       "name": "Jigra Te Laija Gabrua (From \"Jodi\")",
       "url": "https://open.spotify.com/track/6jwxRsmJwIezmZxYVQCcVa"
@@ -6328,7 +6422,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 138000,
       "name": "Kashni",
       "url": "https://open.spotify.com/track/0dGCeam7cfKSUZwLuMZ1kd"
@@ -6558,7 +6652,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 215333,
       "name": "Ki Karde Je",
       "url": "https://open.spotify.com/track/0NFkqpzm3kisw9cG8I36Cy"
@@ -7186,7 +7280,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 59325,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/5VfiTJFLB1wNrVy7bXhiso"
@@ -7244,6 +7338,24 @@
       "duration_ms": 200571,
       "name": "Lemme See",
       "url": "https://open.spotify.com/track/4dOUwxwiA3Bp2SQTjBPV1K"
+    },
+    {
+      "album": {
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W"
     },
     {
       "album": {
@@ -7508,9 +7620,9 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 232258,
-      "name": "Love Sick (feat. AR Paisley)",
+      "name": "Love Sick",
       "url": "https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr"
     },
     {
@@ -9094,7 +9206,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 122449,
       "name": "NEED YA",
       "url": "https://open.spotify.com/track/4XHd1IEB9waIcG2NOAzYQU"
@@ -9723,6 +9835,28 @@
     },
     {
       "album": {
+        "name": "Pasoori",
+        "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
+      },
+      "artists": [
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224146,
+      "name": "Pasoori",
+      "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
+    },
+    {
+      "album": {
         "name": "Password",
         "url": "https://open.spotify.com/album/0lxZ4cOQs3JYsii2lyKacl"
       },
@@ -10336,7 +10470,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 185178,
       "name": "Pyar Nahi Hoya",
       "url": "https://open.spotify.com/track/3Cc8gxx7RX0k3b1O3jghBn"
@@ -10474,7 +10608,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 143828,
       "name": "Raanjha - Spotify Singles",
       "url": "https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge"
@@ -11218,7 +11352,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 164444,
       "name": "Saaya",
       "url": "https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O"
@@ -11542,7 +11676,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 154736,
       "name": "Sath Tera",
       "url": "https://open.spotify.com/track/1uwwPP5m9lt8zEAkVcyca4"
@@ -12026,6 +12160,28 @@
       "duration_ms": 200769,
       "name": "Sira E Hou",
       "url": "https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ"
+    },
+    {
+      "album": {
+        "name": "All Bamb",
+        "url": "https://open.spotify.com/album/6VwfjmLseQZblxn1r7xDn2"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200769,
+      "name": "Sira E Hou",
+      "url": "https://open.spotify.com/track/639CDARmxoRC57gK0nej6V"
     },
     {
       "album": {
@@ -12634,7 +12790,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 171019,
       "name": "Sunset With You",
       "url": "https://open.spotify.com/track/1BwP2jVdo1DjkH84rxRVhi"
@@ -13156,7 +13312,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 168975,
       "name": "Tera Dil",
       "url": "https://open.spotify.com/track/1q1tHRdOw0lGtbaJtIn8ki"

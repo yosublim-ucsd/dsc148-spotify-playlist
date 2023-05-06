@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-528 songs - 1 day 5 hr 53 min
+530 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Better Not \(with Wafia\)](https://open.spotify.com/track/7n1940b6kHcaEewFSZXnXa) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Kids At Play\- EP](https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG) | 3:42 | 2021-06-19 | 2021-12-24 |
 | [Better with You](https://open.spotify.com/track/7s2YoloTmfNK5udUDsv00O) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Better with You](https://open.spotify.com/album/4s5Vpl9QhDE28pRbO5EZSa) | 3:04 | 2022-03-11 | 2022-07-29 |
 | [betty](https://open.spotify.com/track/3IhtE4fkytdrtEfV34UzkD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:54 | 2021-09-25 | 2022-01-01 |
+| [Biblical](https://open.spotify.com/track/5CGFCCgW9mOXxWiNNIPBeG) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Biblical](https://open.spotify.com/album/6kZkJxmZFEh8rtIYQQnvkQ) | 2:45 | 2023-05-05 |  |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-11 | 2022-02-26 |
 | [Black & Blue](https://open.spotify.com/track/1Y59TyltHoDl4YK2R3nCRm) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Black & Blue](https://open.spotify.com/album/6UEjnGUIcJjL2uBZJGD3tt) | 3:11 | 2020-10-13\* | 2021-06-26 |
 | [Black Coffee](https://open.spotify.com/track/4ZeIo1UFQoroC5kYXXxpwq) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Talk You Down](https://open.spotify.com/album/5dVlE2fykYq1VbfMV4WYeR) | 3:47 | 2020-10-13\* | 2020-11-18 |
@@ -168,7 +169,7 @@
 | [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2022-12-28 | 2023-04-20 |
 | [Fireworks](https://open.spotify.com/track/61z7Y4qVBKKVJbpePfH5l6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 4:02 | 2020-11-18 | 2021-07-17 |
 | [First Time](https://open.spotify.com/track/4L4lClgi5m2Itz6Fgt750F) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [First Time](https://open.spotify.com/album/3brTW6AYnC94Uafukxvhcu) | 2:26 | 2021-07-10 | 2021-10-02 |
-| [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 | 2023-03-24 |  |
+| [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 | 2023-03-24 | 2023-05-06 |
 | [Follow My Girl](https://open.spotify.com/track/0lCfUyNC5NAsfILnKEVj23) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 4:04 | 2020-10-13\* | 2021-07-04 |
 | [For My Friends](https://open.spotify.com/track/3yMbQSMN738HPm5gSRwUPq) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 3:35 | 2022-07-21 | 2022-08-01 |
 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 | 2022-07-31 | 2023-05-01 |
@@ -217,6 +218,7 @@
 | [Heaven](https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Heaven](https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W) | 3:00 | 2023-02-17 |  |
 | [Heavenly](https://open.spotify.com/track/4HQj53RJeJ0hah1i8qF068) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Tomorrow's Yesterdays](https://open.spotify.com/album/20YnSENPukDCIyjvNxAZvW) | 3:44 | 2022-03-18 | 2022-04-16 |
 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 | 2022-08-19 | 2022-11-19 |
+| [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 | 2023-05-05 |  |
 | [Hesitate](https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj) | 4:11 | 2020-11-18 | 2021-06-26 |
 | [High and Dry](https://open.spotify.com/track/5znRHTk8ihBQLkzq47hXM3) | [TRACES](https://open.spotify.com/artist/74qSjJarNp1Ilz2kp7IMdL) | [High and Dry](https://open.spotify.com/album/4903dr7fEcftLA7W2Z74L7) | 3:10 | 2020-10-13\* | 2021-02-19 |
 | [High School](https://open.spotify.com/track/0xdYu0o6OjgMPPOoLptru1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [High School](https://open.spotify.com/album/353XEqU2rwbH11JjyFHp5v) | 3:08 | 2020-10-13\* | 2021-02-19 |
@@ -362,7 +364,7 @@
 | [passionfruit](https://open.spotify.com/track/7lW2HbFRh65PMz82J7mPnb) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/1haNHfsOFIrDKDFYr0pbsy) | 4:34 | 2020-10-13\* | 2020-11-18 |
 | [Patterns](https://open.spotify.com/track/5Wok14DtMdF9y57EnofNWO) | [Conventioner](https://open.spotify.com/artist/2DdKYZ2hIsoUTUV54Q0k1y) | [Patterns](https://open.spotify.com/album/2B4T4FLP3NgcdoPOCOk5hx) | 2:53 | 2021-07-04 | 2022-02-26 |
 | [Phases](https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Phases](https://open.spotify.com/album/4q983qnYbzKzO8ulICPKgm) | 3:35 | 2021-07-10 | 2021-09-11 |
-| [Piece of Art](https://open.spotify.com/track/0CF9ZyQR7X9DpgwJSBOwja) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ) | 4:04 | 2023-04-14 |  |
+| [Piece of Art](https://open.spotify.com/track/0CF9ZyQR7X9DpgwJSBOwja) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ) | 4:04 | 2023-04-14 | 2023-05-06 |
 | [Piece of Art](https://open.spotify.com/track/48igULTT3gZFYS1FOxCQQ6) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/4EFSsesDCNX5l1EalI2mRS) | 4:04 | 2023-04-07 | 2023-04-23 |
 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 | 2022-06-24 |  |
 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 | 2021-07-04 | 2021-08-10 |
@@ -380,7 +382,7 @@
 | [Quicksand](https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Quicksand](https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW) | 4:11 | 2022-01-21 | 2022-04-17 |
 | [Real Love](https://open.spotify.com/track/6qjISOkB9F6X6FgsvdI2fR) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Real Love](https://open.spotify.com/album/3NWJXg0aK1Wo2EPhv46IRP) | 3:18 | 2022-06-17 | 2022-07-24 |
 | [Real Thing \(ft\. Elohim\)](https://open.spotify.com/track/5wb8h2gUzyhmCwOtGp29z4) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Real Thing \(feat\. Elohim\)](https://open.spotify.com/album/6BelAZUC4yUO1wVouRJNmN) | 3:05 | 2021-12-24 | 2022-03-09 |
-| [Rear View](https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Rear View](https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02) | 3:14 | 2023-03-17 |  |
+| [Rear View](https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Rear View](https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02) | 3:14 | 2023-03-17 | 2023-05-06 |
 | [Reasons](https://open.spotify.com/track/4FQqwtrVJFsliLCrlN0zrz) | [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [Reasons](https://open.spotify.com/album/0rHdJzccejp5TytlhCMP5Q) | 2:48 | 2020-10-13\* | 2021-10-16 |
 | [red hot winter](https://open.spotify.com/track/7BQ99tXeS5sSz5CjplV6YY) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [red hot winter](https://open.spotify.com/album/3av2LlMoOFIJKjEW11SL1o) | 3:57 | 2022-05-27 | 2022-07-29 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2021-07-10 | 2022-03-09 |
@@ -440,7 +442,7 @@
 | [sucks 4 u](https://open.spotify.com/track/75TJ9ufHDs6R45Wg8wOeEE) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [sucks 4 u](https://open.spotify.com/album/6EqK6gDuQDc43k2kvh83TR) | 3:25 | 2020-10-13\* | 2021-07-17 |
 | [sugar free rush](https://open.spotify.com/track/7trA8o8CVShDf2u5oSrDnv) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [sugar free rush](https://open.spotify.com/album/4sMsQV3B7hW8sSeWgrkd9o) | 4:12 | 2022-05-06 | 2022-07-29 |
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2021-06-19 | 2021-07-04 |
-| [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 | 2022-10-21 | 2023-05-05 |
+| [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 | 2022-10-21 |  |
 | [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-05-06 | 2022-07-31 |
 | [SUPERIMPOSE](https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [SUPERIMPOSE](https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO) | 3:07 | 2021-11-13 | 2022-10-29 |
 | [sweetheart](https://open.spotify.com/track/54gImafwZHEf6MYlJ6S0nH) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [sweetheart](https://open.spotify.com/album/4VaYGVZHG91XPMqes6yGJ8) | 3:32 | 2022-03-25 | 2022-07-12 |

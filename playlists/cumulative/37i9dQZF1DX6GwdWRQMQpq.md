@@ -2,7 +2,7 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Coi Leray
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice & Nicki Minaj
 
 318 songs - 14 hr 24 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L93gfg5cPa.md) - [plain]
 
 > El mejor pop de todos los tiempos\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,505 likes - 200 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,826 likes - 200 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L93gfg5cPa.md) - [plain]
 | 199 | [Cuando Me Enamoro](https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 3:20 |
 | 200 | [Me cuesta tanto olvidarte](https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 2:54 |
 
-Snapshot ID: `MCw0MjQ4MmQ1NTI2ZDUxZDcyZWY5NzVhYmNmZjQxZTUxZGE4OWE4Njhk`
+Snapshot ID: `MCw0NmVhZDZlNzVmYjVhZTEzNzUwNDY4ZjZlMmQ1MzZjNDJmZDFjMTM5`

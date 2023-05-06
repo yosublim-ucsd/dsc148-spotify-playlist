@@ -577,6 +577,32 @@
     },
     {
       "album": {
+        "name": "Howard: Dappled Light",
+        "url": "https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251573,
+      "name": "Dappled Light",
+      "url": "https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F"
+    },
+    {
+      "album": {
         "name": "Eden Roc",
         "url": "https://open.spotify.com/album/2bMAybKFTHhsiM27LGeAaE"
       },
@@ -1066,32 +1092,6 @@
       "duration_ms": 160240,
       "name": "Lo, the full, final sacrifice, Op.26: Amen - Instrumental",
       "url": "https://open.spotify.com/track/5j2W2Ev9tukxk27a8yULOw"
-    },
-    {
-      "album": {
-        "name": "Howard: Dappled Light",
-        "url": "https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        },
-        {
-          "name": "Jess Gillam",
-          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
-        },
-        {
-          "name": "Jess Gillam Ensemble",
-          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
-        }
-      ],
-      "date_added": "2020-10-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 251573,
-      "name": "Luke Howard: Dappled Light",
-      "url": "https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F"
     },
     {
       "album": {

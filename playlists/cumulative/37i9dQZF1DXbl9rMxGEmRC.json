@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Brutalist Imperator",
+        "url": "https://open.spotify.com/album/4VRVOdVcmDGunInXBqNSz1"
+      },
+      "artists": [
+        {
+          "name": "Nightmarer",
+          "url": "https://open.spotify.com/artist/6MqL55fccEqCvqitp4Nfbx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226068,
+      "name": "Brutalist Imperator",
+      "url": "https://open.spotify.com/track/0ojJNiUQs8Uo95M91xHqvv"
+    },
+    {
+      "album": {
         "name": "m\u00e5sstaden under vatten",
         "url": "https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u"
       },
@@ -4232,7 +4250,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 285000,
       "name": "Night of the Blasphemy",
       "url": "https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi"

@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Bellaka",
+        "url": "https://open.spotify.com/album/5RVN4rGbwHA5BzVK2HDnGR"
+      },
+      "artists": [
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Bellaka",
+      "url": "https://open.spotify.com/track/6CDN62fkyLVzsMA21CoYgg"
+    },
+    {
+      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/7Eo44MvuVaLGz2zIlvrhTO"
       },
@@ -2594,6 +2612,28 @@
       "duration_ms": 159587,
       "name": "Perreo Bendito",
       "url": "https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM"
+    },
+    {
+      "album": {
+        "name": "POSA / Take #1",
+        "url": "https://open.spotify.com/album/09lp7LEaGjC1YnS1DWKsd1"
+      },
+      "artists": [
+        {
+          "name": "Yair B-By",
+          "url": "https://open.spotify.com/artist/1M3ii08Vltteb2VdTiC2aE"
+        },
+        {
+          "name": "DJ Kuff",
+          "url": "https://open.spotify.com/artist/2TnyAEgw7OuIIhShiZUvtu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156466,
+      "name": "POSA / Take #1",
+      "url": "https://open.spotify.com/track/2K4CK7j2WuB4y7nLVC0FRf"
     },
     {
       "album": {

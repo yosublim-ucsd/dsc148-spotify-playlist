@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 160250,
       "name": "c\u00f3mo quieres que me enfade",
       "url": "https://open.spotify.com/track/1JoZpWoOpDZWCbfhVgjRiC"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 204131,
       "name": "Nada Y Nadie",
       "url": "https://open.spotify.com/track/5jpYOzDqu7xv75FHk0KIw2"
@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
+    },
+    {
+      "album": {
         "name": "brent ii",
         "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
       },
@@ -2232,6 +2250,24 @@
       "duration_ms": 161933,
       "name": "ya mi mam\u00e1 me dijo que contigo s\u00ed",
       "url": "https://open.spotify.com/track/79aAJcZ53aO99CdMDnWcLx"
+    },
+    {
+      "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1vH2ylOhtch"

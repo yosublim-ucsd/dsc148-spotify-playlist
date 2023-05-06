@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,634 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,621 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Snow Place Like Home](https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Snow Place Like Home](https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8) | 3:20 |
 | 100 | [Christmas Angel](https://open.spotify.com/track/0J4u3HXFFZMtKQb2fZPZbq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B) | [Christmas Angel](https://open.spotify.com/album/6tjj25SBB1Slk8o3QDPXt5) | 2:10 |
 
-Snapshot ID: `MCxjZGYzMGYzZDg5NzQ4YWRiZmU5YWQ3NGM1YzAxZmNjMzJlYTkzNmEx`
+Snapshot ID: `MCw2NDkxYjViZDM4MDI5MmM2YWM2NWIxOTY2YjIyN2E5MzNiZTQ0MTYy`

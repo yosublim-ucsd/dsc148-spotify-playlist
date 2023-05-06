@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,067 songs - 2 day 7 hr 42 min
+1,068 songs - 2 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Avantgarde](https://open.spotify.com/track/5nB3zVeuHoAHmwHQuQqhzD) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:46 | 2022-01-15 | 2022-02-13 |
 | [B.O\. Bop](https://open.spotify.com/track/3ZQEA3yfMMVcZYHtjYc1S4) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [B.O\. Bop/Wawa](https://open.spotify.com/album/0yvKiAxti5yd16tJt4FeAU) | 3:13 | 2021-03-27\* | 2021-03-29 |
 | [Baby Boo](https://open.spotify.com/track/1UrIsBtFnNzWh3ENHMsKqm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Baby Boo](https://open.spotify.com/album/4Ef4mh3T7OVtIiFw30VwMv) | 2:39 | 2021-09-19 | 2021-10-10 |
-| [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-19 |  |
+| [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-19 | 2023-05-06 |
 | [Back 2 Front](https://open.spotify.com/track/3GSdYoWnrEFwWeiO8ediDe) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Back 2 Rave](https://open.spotify.com/album/6bE0jnPO1Nh5rbIvMZV76H) | 2:20 | 2022-07-31 | 2022-08-03 |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-05 | 2022-11-12 |
 | [Backseat \(feat\. A2 Difulani\)](https://open.spotify.com/track/1nHt2nHQfNzf99ovxVrnkL) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [A2 Difulani](https://open.spotify.com/artist/51EOxScrkoU00JXiuRMBIY) | [FORZA](https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi) | 2:22 | 2022-03-11 | 2022-03-18 |
@@ -439,6 +439,7 @@
 | [Home Movies \(feat\. Mickey Guyton\)](https://open.spotify.com/track/614RTZYXauXsqJ1n2GUPmg) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [4 \(The Pink Album\)](https://open.spotify.com/album/1pMHhe4WlERO69FvVOaB3y) | 3:16 | 2023-01-22 | 2023-01-29 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-30 | 2022-05-08 |
 | [HONEY \(IM HOME\)](https://open.spotify.com/track/6UZRfqrDFYr4OfcHBXnWd0) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:19 | 2021-09-25 | 2021-11-16 |
+| [HONEYMOON](https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [HONEYMOON](https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA) | 2:39 | 2023-05-05 |  |
 | [Hop Ind I Bilen \(feat\. Gilli\)](https://open.spotify.com/track/5UweB9ExGhruhWeEYSHmG1) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Dit Liv Dit Valg](https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4) | 3:18 | 2023-03-11 | 2023-03-18 |
 | [Hot!](https://open.spotify.com/track/7xWiCG3N7tFgPTNGVYQoq8) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [Nik & Jay](https://open.spotify.com/album/0cINk796XT7YhwuL0okHpE) | 3:12 | 2023-01-01 | 2023-01-03 |
 | [HOTBOYZ](https://open.spotify.com/track/6FPE8PdEpNUty0GIpN9Lne) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 1:49 | 2021-09-25 | 2021-10-10 |

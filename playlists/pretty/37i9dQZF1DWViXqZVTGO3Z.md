@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,847 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,840 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 |
 | 150 | [I've Heard About You](https://open.spotify.com/track/6CATl1XIBbQqva5OXirWoF) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [I've Heard About You](https://open.spotify.com/album/7qrsgIB37dv92OBW4OdD21) | 3:32 |
 
-Snapshot ID: `MCw5Yjc3MmRhMGYxNmEwYmQ3MGQ4ZGQ5MTIxNmMyYmNkNjcwNDExZTY2`
+Snapshot ID: `MCxmOGZiZGUwZWY3NTM4NzY4MDIwMDMyNWQyMThmY2FkNGUwZGFkYWI3`

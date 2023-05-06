@@ -4,7 +4,7 @@
 
 > Esta selección musical se te hará agua la boca.
 
-87 songs - 5 hr 2 min
+88 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 | 2022-04-20 |  |
 | [Febril Remanso](https://open.spotify.com/track/1HEYwf5sBT77R4Gys0GCxV) | [Daniel Drexler](https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk) | [Febril Remanso](https://open.spotify.com/album/7iI3cwNpOIQwgPeNac5hKP) | 3:43 | 2022-04-20 |  |
 | [Flotando](https://open.spotify.com/track/3xKDkBzjqWoHuuHLuiUJjY) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z), [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Flotando](https://open.spotify.com/album/4CyIt0V7u0MOWKRcZTOfAg) | 3:12 | 2022-04-20 |  |
-| [Flowers](https://open.spotify.com/track/6gCH48ApMfuvrbtedc1ID3) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Flowers](https://open.spotify.com/album/2N0sEHS8gQ0Lkc0BEhW4nO) | 2:54 | 2022-04-20 |  |
+| [Flowers](https://open.spotify.com/track/4gdaqSDmrBW3iqc8cS4GYx) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Flowers](https://open.spotify.com/album/25ekzltG7lGkSfGYacKSIH) | 2:54 | 2022-04-20 |  |
+| [Flowers](https://open.spotify.com/track/6gCH48ApMfuvrbtedc1ID3) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Flowers](https://open.spotify.com/album/2N0sEHS8gQ0Lkc0BEhW4nO) | 2:54 | 2022-04-20 | 2023-05-06 |
 | [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 | 2022-04-20 |  |
 | [Hola](https://open.spotify.com/track/44AObNRHjsG6s9MeGVjJrM) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Hola](https://open.spotify.com/album/0m6Zw2QEW2T1urAiv6yUeR) | 3:34 | 2022-04-20 |  |
 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 | 2022-04-20 |  |

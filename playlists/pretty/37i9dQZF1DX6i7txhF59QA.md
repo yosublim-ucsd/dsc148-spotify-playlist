@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Hong Ja\(홍자\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,152 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,164 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [Flower of love](https://open.spotify.com/track/63YAKF8nP1kfYzmAFlWKie) | [Oh YooJin](https://open.spotify.com/artist/0r95i21g0cV4u5OVzzksZx) | [Flower of love](https://open.spotify.com/album/0SY2JG8lS4cOaJ2iD33W5d) | 3:43 |
 | 100 | [하트뿅뿅](https://open.spotify.com/track/3xV3HFBSTVhqgI0UmXYJ4e) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [첫번째 이야기](https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo) | 3:14 |
 
-Snapshot ID: `MCwzZmQ1ZTE1Y2E0MzEyZjg4OWJlYTFkOTI2OGM3NWFjMDgyZTMxZGJi`
+Snapshot ID: `MCw2NDkyNGQ5MmZiMWNkOWViNzJlZDUyMDg4MDMwNzcwMzUwOWNhYzNk`

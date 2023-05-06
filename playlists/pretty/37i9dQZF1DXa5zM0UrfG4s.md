@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,652 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,718 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Denne Sommer´n](https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Denne Sommer´n](https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl) | 2:40 |
 | 70 | [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 |
 
-Snapshot ID: `MCwwNDRkNzU5MTBhMDUzM2Q4Yzc2OTNiYzBkNjI3NWE2Y2VlMTQzODk3`
+Snapshot ID: `MCwyYzEyYmYwMzU2OGRhNmVmMTU1MjgxMzE0NWQ0OGZjNGVhZjM1MWMz`

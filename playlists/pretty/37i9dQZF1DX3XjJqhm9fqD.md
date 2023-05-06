@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Tafa Mi\-Soleil
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,871 likes - 91 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,898 likes - 91 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 90 | [Family](https://open.spotify.com/track/0T1U4AfxwwJgVjBrVVlrB0) | [SLESH](https://open.spotify.com/artist/0iETUq1npNcYLaeKJfQxyE) | [Family](https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3) | 3:08 |
 | 91 | [Nou Pare](https://open.spotify.com/track/1MlKmqvA2LonoOif1Kgq5y) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 3:14 |
 
-Snapshot ID: `MCwyZGZkZjE5ODNhNDIxM2Y0NWRjMmRkNTdlYjc4OGU2ZmM4ZDk0YWU4`
+Snapshot ID: `MCxkY2MyMjVhZTZjNmM3M2ZlOTNmY2NiNzk0NjJmODIxYmMzMTAxYTU4`

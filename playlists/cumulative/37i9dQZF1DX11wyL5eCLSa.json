@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Cometa 1984",
+        "url": "https://open.spotify.com/album/0E1oJl1teRMLS1KTwKhOb6"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Cometa 1984",
+      "url": "https://open.spotify.com/track/23WnCzq7npJbLDw6iqIJpQ"
+    },
+    {
+      "album": {
         "name": "Comida",
         "url": "https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ"
       },
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 209480,
       "name": "Descending To Nowhere",
       "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 207560,
       "name": "D\u00ednamo",
       "url": "https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq"
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 190232,
       "name": "Fresno",
       "url": "https://open.spotify.com/track/3S1L6zZ7cPVdNiK2cYXc74"
@@ -4319,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Teatro del absurdo",
+        "url": "https://open.spotify.com/album/2ADvULJtZQpapB8I6VGJW2"
+      },
+      "artists": [
+        {
+          "name": "Prismatic Shapes",
+          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Teatro del absurdo",
+      "url": "https://open.spotify.com/track/7pzj7aFZxaPrvproUNEaf8"
+    },
+    {
+      "album": {
         "name": "Tecolotes",
         "url": "https://open.spotify.com/album/243ojdy2kghaCPBSjfxQRt"
       },
@@ -4950,6 +4986,28 @@
       "duration_ms": 188598,
       "name": "\u00c1ngel El\u00e9ctrico",
       "url": "https://open.spotify.com/track/6fCrDaFJJrBVibwCOu7Nea"
+    },
+    {
+      "album": {
+        "name": "\u00c1rbol",
+        "url": "https://open.spotify.com/album/2EmvmqrZduLbrkcpVyVutX"
+      },
+      "artists": [
+        {
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "\u00c1rbol",
+      "url": "https://open.spotify.com/track/6MkWgZNpY548ccjs2PJSyq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa"

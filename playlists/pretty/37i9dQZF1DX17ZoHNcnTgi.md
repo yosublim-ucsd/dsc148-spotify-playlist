@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > De costa a costa, de frontera a frontera..\.  un banquete de sonidos de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,323 likes - 150 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,334 likes - 150 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 149 | [La Malagueña](https://open.spotify.com/track/7jTmCxBET6Nk43JyjyGHPL) | [Conjunto de Juan Reynoso](https://open.spotify.com/artist/2SWABlfQlQFjqf8m17TkOo) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 3:27 |
 | 150 | [La Pasión](https://open.spotify.com/track/0OVLeriUe1AmkZA6toIq1l) | [Trío Los Rancheros del Pánuco](https://open.spotify.com/artist/4hwE6shIeDDlxuWJKI7bok) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:26 |
 
-Snapshot ID: `MCxhMjBmOGU4ZWYzZjUwZGU4NDE2MTFlZmMxNzBhMDI2YzBkYjA2MWNk`
+Snapshot ID: `MCxkNDE5Mjc3OWFkMWUxYmViZTIxYzAxMzM1OWUxNjU5MWUzM2JhMWIy`

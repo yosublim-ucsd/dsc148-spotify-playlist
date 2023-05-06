@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,178 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,171 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 149 | [What Christmas Is All About](https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [What Christmas Is All About](https://open.spotify.com/album/2V2iD07k1eyamnVHAWcZDY) | 3:15 |
 | 150 | [The Christmas Song](https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Christmas Song](https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj) | 4:06 |
 
-Snapshot ID: `MCwwZDUxYWQ1NzQ0YThmYWUzODllOTU2MDY3Y2NlYWU0NmE3ODJmZmIx`
+Snapshot ID: `MCxlNzZlMGM3YzQ2OWY2YjYyMTkxZWU1YTMxMmRmZjEzMTA2MzU3MzI3`

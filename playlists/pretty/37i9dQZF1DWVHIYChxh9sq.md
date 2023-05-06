@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,291 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,357 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 149 | [Popurrí El Primer Tonto / Eres Mi Droga](https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Los De La Noria En Vivo](https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF) | 4:17 |
 | 150 | [Aquí en Mi Corazón Tú Mandas](https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU) | [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [Aquí en Mi Corazón Tú Mandas \(En Vivo\)](https://open.spotify.com/album/5oN8kpQItso4HSZCZ3zc5c) | 2:08 |
 
-Snapshot ID: `MCxlZjQzZmI0YzAzNzllZDQ5N2JkMTM0ZTkzNmU2N2FhYjFhYjU5ZmI0`
+Snapshot ID: `MCwzNWE0OTg3NGEwOTg4NWMzN2FjOTU1NTM2ZjUwN2UzMTFiMmE4NjVj`

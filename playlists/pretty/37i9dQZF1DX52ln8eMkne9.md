@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,521 likes - 150 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,606 likes - 150 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 149 | [The Silence](https://open.spotify.com/track/6fE9UEIXyYjyQiq4qnho4S) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [The Silence](https://open.spotify.com/album/0mB59lYkczjRkYpdcZ4dI4) | 4:25 |
 | 150 | [When The World Was Young](https://open.spotify.com/track/041C0yfThCF0m5dKdrO3zZ) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 3:29 |
 
-Snapshot ID: `MCwxNTJjYWVlODBiMzgxYjk5NjUxMmE4NDYyN2JhYjlmNzk3Y2EwYzlk`
+Snapshot ID: `MCw1ZjE0MDdmZTAzMGM5YzFjNDI5MjM4NGRhNjFlNjZjODNjMGQxNDZl`

@@ -4,7 +4,7 @@
 
 > aqueles papo de amor, tlgd não?
 
-245 songs - 12 hr 16 min
+247 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Casual](https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Casual](https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu) | 3:30 | 2022-09-30 | 2023-04-01 |
 | [Cayman](https://open.spotify.com/track/0nSB2FoQtYA7KH5YlCwKDu) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Cayman](https://open.spotify.com/album/6dutuSkyW1ai6TzcjxoNsX) | 2:46 | 2023-02-24 |  |
 | [Chata e Gostosa](https://open.spotify.com/track/0xKXnstHHGpf2hUnWI6BgX) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Chata e Gostosa](https://open.spotify.com/album/7sIcpqILyxEOYDA8Rh4B73) | 2:30 | 2022-09-09 | 2022-09-24 |
+| [CHOVE \(calor em sp\)](https://open.spotify.com/track/5WqMwoLQyTVQY7OhkMKukX) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [CHOVE \(calor em sp\)](https://open.spotify.com/album/69BgJJZqwM497GrqP4LqtS) | 3:19 | 2023-05-05 |  |
 | [CHÁZIN](https://open.spotify.com/track/3yPLovCYNWAD2hCO9Zaeyg) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q), [Mati](https://open.spotify.com/artist/6q4OTLGMcroTVXFFKSkzzC) | [ALÉM DE LOVE](https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3) | 3:16 | 2022-09-02 | 2022-09-24 |
 | [Como Sua Vida Anda](https://open.spotify.com/track/3V3hYHmZFVXmAoxYFPvfc6) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c) | [Como Sua Vida Anda](https://open.spotify.com/album/0CBqLmsBNYX9sxJnfN7Wgq) | 3:09 | 2023-01-27 |  |
 | [Conexão Rare](https://open.spotify.com/track/3A4SgUBQVRtNDmZ5fzj5HH) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Conexão Rare](https://open.spotify.com/album/4kBwsmJ15KE8I2gJsIcFfR) | 2:32 | 2023-02-03 | 2023-03-25 |
@@ -226,6 +227,7 @@
 | [Só me ligar](https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:13 | 2022-12-23 |  |
 | [Tattoo](https://open.spotify.com/track/65WbRpNqHIlyJ7V8U4yspX) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Vulto](https://open.spotify.com/artist/0O8fcYK65bu5T7wqm8FXVl) | [Tattoo](https://open.spotify.com/album/3nuQgAJqmoCEpX30Cn5Vue) | 3:09 | 2022-03-07 | 2022-10-15 |
 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 | 2022-03-07 | 2022-10-01 |
+| [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 | 2023-05-05 |  |
 | [Te Observando](https://open.spotify.com/track/2gJT3axX6u8nekLSkkryZt) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Te Observando](https://open.spotify.com/album/0AqeHHrJOsFpMkqID7Iy4i) | 3:33 | 2022-03-07 | 2022-08-27 |
 | [Te Proponho](https://open.spotify.com/track/23MHqq90J3w5FjgOxmT4NS) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Dandara Anastacia](https://open.spotify.com/artist/047gy12zod3f3CfQPcwtQE) | [Te Proponho](https://open.spotify.com/album/2GSFg86SJgNGevK5XR4FXN) | 3:00 | 2022-09-23 | 2022-10-01 |
 | [Tentei](https://open.spotify.com/track/2lqarp7I2WewTXAqYKOxeT) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [2000's](https://open.spotify.com/album/6N331b70c3C5DGR5UsXQ5t) | 2:47 | 2022-11-25 | 2022-12-03 |

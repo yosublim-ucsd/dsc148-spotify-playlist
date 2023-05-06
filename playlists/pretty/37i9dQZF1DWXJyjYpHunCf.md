@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Brenn!
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,021 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,240 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 |
 | 100 | [Any Day Now](https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:21 |
 
-Snapshot ID: `MCw0Yjg0OTA3ZGIwZjM1ZjdiYzMxOWMxODhhYWYyMmM4NGMwMGEzZTll`
+Snapshot ID: `MCxhOWNiNWRmZGI5ZGEzNjlmZmMzODIwMjExMWNkZTBjZDYzMzY0MzVh`

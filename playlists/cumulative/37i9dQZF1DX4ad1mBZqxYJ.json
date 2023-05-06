@@ -2301,6 +2301,36 @@
     },
     {
       "album": {
+        "name": "FCK Love",
+        "url": "https://open.spotify.com/album/2H1rKPlSCrQREG1o52hvAj"
+      },
+      "artists": [
+        {
+          "name": "Fenix The Producer",
+          "url": "https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261186,
+      "name": "FCK Love",
+      "url": "https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB"
+    },
+    {
+      "album": {
         "name": "FEEL ME??",
         "url": "https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR"
       },
@@ -2346,7 +2376,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
@@ -5554,7 +5584,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
@@ -5740,6 +5770,36 @@
       "duration_ms": 172954,
       "name": "Sencillo Soy",
       "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
+    },
+    {
+      "album": {
+        "name": "Sentosa",
+        "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151594,
+      "name": "Sentosa",
+      "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
     },
     {
       "album": {

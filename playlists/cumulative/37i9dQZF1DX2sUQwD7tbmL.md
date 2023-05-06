@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-534 songs - 1 day 6 hr 15 min
+536 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2022-04-13 | 2023-03-25 |
 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 | 2022-04-13 | 2023-02-14 |
 | [Amateur](https://open.spotify.com/track/39MzfwZjkbGSbnccjf5E5j) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Amateur](https://open.spotify.com/album/2ZSTag8VupMhvtzBg2R4aP) | 4:39 | 2021-05-01 | 2022-06-14 |
-| [American Blood](https://open.spotify.com/track/6eZEK9AIRG5p2xuB8aNU9V) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [American Blood](https://open.spotify.com/album/1OODGHbK7jXyjIDRkL7f3g) | 4:22 | 2023-04-14 |  |
+| [American Blood](https://open.spotify.com/track/6eZEK9AIRG5p2xuB8aNU9V) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [American Blood](https://open.spotify.com/album/1OODGHbK7jXyjIDRkL7f3g) | 4:22 | 2023-04-14 | 2023-05-06 |
 | [American Cigarettes](https://open.spotify.com/track/7Kw8Mxe12tdJUMk20ZpV0b) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [American Cigarettes](https://open.spotify.com/album/7hfa24NOCD5QKEvV1bpWqy) | 3:42 | 2021-05-01 | 2022-03-04 |
 | [American Honey](https://open.spotify.com/track/2CG6oeuMEtbL5OvKsyT7JL) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [American Honey](https://open.spotify.com/album/3V9AjOHddNkAIx7fmX9UcP) | 4:13 | 2021-05-01 | 2022-07-29 |
 | [Amsterdam](https://open.spotify.com/track/0egSjRANLaacRqzguUnu5C) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Dance With Me Before We Cry](https://open.spotify.com/album/6xFhh5Yd7Pr7IwJNjxypoL) | 4:09 | 2021-07-19 | 2022-04-13 |
@@ -66,7 +66,7 @@
 | [Balenciaga](https://open.spotify.com/track/7y7ExXQ8gjfE9x2toP7YbJ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Balenciaga](https://open.spotify.com/album/1a2UoM4rHjI9Q4KvEJeuFk) | 3:28 | 2021-05-01 | 2022-07-29 |
 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 | 2022-04-13 |  |
 | [Barbara Ann](https://open.spotify.com/track/4dbi2vb0iGOyGcNuryUvLt) | [Rosie Tucker](https://open.spotify.com/artist/21IgTzfAyrn8DJpEY7F4DM) | [Barbara Ann](https://open.spotify.com/album/49NlN8tH3vCVB20sfzhcnH) | 3:15 | 2021-05-01 | 2022-01-06 |
-| [baseball](https://open.spotify.com/track/5lO1htX1UPjwyItDLurhR5) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 3:18 | 2021-05-01 |  |
+| [baseball](https://open.spotify.com/track/5lO1htX1UPjwyItDLurhR5) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 3:18 | 2021-05-01 | 2023-05-06 |
 | [Begin Again](https://open.spotify.com/track/2p7YemMTF5HRnAeL139VxD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Begin Again](https://open.spotify.com/album/2V3TNPXvdNjqXAHPKYXUAT) | 3:46 | 2021-05-01 | 2022-07-29 |
 | [Best Life](https://open.spotify.com/track/28iK43ARX3yTiPtqJACq8q) | [Alex Cameron](https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG) | [Best Life](https://open.spotify.com/album/4GazguxmEp7xECnvJJJXrO) | 3:14 | 2022-03-07 | 2022-04-17 |
 | [Better off Alone](https://open.spotify.com/track/5v2Abx4cG0ficwE2hQgKUv) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Better off Alone](https://open.spotify.com/album/5fvpmXNBEOdgxP6ZoOlYlZ) | 4:00 | 2021-05-01 | 2021-12-31 |
@@ -394,6 +394,7 @@
 | [Reality Check Please](https://open.spotify.com/track/6EoXGCeTcvw8vZT9alKAbK) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Reality Check Please](https://open.spotify.com/album/72lxdwJAq3wPbEAosGsfOC) | 3:40 | 2021-05-01 | 2022-04-13 |
 | [Reason To Be Reasonable](https://open.spotify.com/track/1moSuO8oqbiqBYmvbmqCkA) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Reason To Be Reasonable](https://open.spotify.com/album/2n1WskOzxMSicIUR4BpwDa) | 3:50 | 2021-05-01 | 2022-04-13 |
 | [Receive](https://open.spotify.com/track/6mI9mXAyLw9f8R1HHC89yi) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Receive](https://open.spotify.com/album/2khUHHIhRqDyWtOp8bHJ7h) | 2:12 | 2021-05-01 | 2022-07-29 |
+| [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/7u7KN63awFeiDCfk9dq1xm) | 2:53 | 2023-05-05 |  |
 | [Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:35 | 2022-04-13 |  |
 | [Rich Man](https://open.spotify.com/track/2WaaqcSdsLliuWTnmY4rLC) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:29 | 2021-05-01 | 2022-03-21 |
 | [Ride or Die](https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 3:30 | 2022-04-13 | 2022-07-29 |
@@ -444,6 +445,7 @@
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2022-04-13 | 2023-04-22 |
 | [Stop Sign](https://open.spotify.com/track/0rUy5il8xc12tbAkpHaubN) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stop Sign](https://open.spotify.com/album/7FLYPQ543VVhvyrC1qIBH1) | 3:01 | 2023-01-11 | 2023-01-18 |
 | [Stories](https://open.spotify.com/track/2RZZTpMYCpb86ZMmrnAbe9) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4) | [Stories](https://open.spotify.com/album/4OuC5XWbbEuuo1Q7RetSLV) | 3:39 | 2021-05-01 | 2022-04-13 |
+| [Strawberry Daydream](https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS) | 3:07 | 2023-05-05 |  |
 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 | 2023-01-15 | 2023-04-15 |
 | [Stressed](https://open.spotify.com/track/6hvs3DIe8eG6IdhehKz31I) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Stressed](https://open.spotify.com/album/6ZxGRxOayLqvUjhQycTW5R) | 1:37 | 2021-05-01 | 2022-04-14 |
 | [Summer](https://open.spotify.com/track/3YmTTULju4GaSlnkizJPrq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/1YHlj5gp5YYLcBscSxBNHA) | 4:02 | 2021-05-01 | 2022-02-28 |

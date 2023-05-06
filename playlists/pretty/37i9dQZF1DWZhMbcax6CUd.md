@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 
 > Explore the great works of Maurice Ravel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,131 likes - 69 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,169 likes - 69 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 | 68 | [Piano Concerto for the Left Hand in D Major, M\. 82: III\. Tempo I](https://open.spotify.com/track/6p4nfsao6pTiZQrkhB71VE) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Yuja Wang](https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg), [Lionel Bringuier](https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB) | [Ravel](https://open.spotify.com/album/7whP0NhvOkitAntffyJHeL) | 4:56 |
 | 69 | [Valses nobles et sentimentales, M.61 \- for Orchestra: 2\. Assez lent](https://open.spotify.com/track/7Mq0Sz8UNRtZDCgbbz0MB1) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Classics for Autumn: Ravel](https://open.spotify.com/album/2HQGF44I64Ku9rKGjb7CEo) | 2:07 |
 
-Snapshot ID: `MCxiNWVjZjkxMjViZGVjYzViM2M4ODI3ODA5MmE4ZmVlY2YzZDEyNGJj`
+Snapshot ID: `MCw4MDhlYjU5MWFkNzkwMzkzYWU0ZWE4Y2E4OTAyMjhkNjJjOGEyMGI3`

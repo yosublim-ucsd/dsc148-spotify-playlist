@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,806 likes - 75 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,004 likes - 75 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Just Gets Better \- Extended Dub](https://open.spotify.com/track/4yF939fEIyto1xOaxb6GmA) | [TJR](https://open.spotify.com/artist/2mOi0sQN0m20JitMkBLkWP), [Xavier](https://open.spotify.com/artist/6CO9AMgdkYPAC1rPyChGwB) | [Just Gets Better](https://open.spotify.com/album/3WSB8rJfDTxT192dR3ZXkR) | 7:19 |
 | 75 | [Buddy X '99 \- Dreem House Edit](https://open.spotify.com/track/5NqKNGegPd7IBAZORoK0sb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [The Dreem Teem](https://open.spotify.com/artist/1Q60RIUO8DaJqi1bU2oFTE), [B Simms](https://open.spotify.com/artist/3KRl3x5ii6cK06QiW2na3j) | [Buddy X '99](https://open.spotify.com/album/2uErcMEL1ul0hABDrxMJFv) | 3:21 |
 
-Snapshot ID: `MCwzMGExZWY2MDM2YzVkYzQxMGVkMDg3YTc2MjY5NzY1ZTM4ZTIyMDQy`
+Snapshot ID: `MCxjOGY5MjAwMjA2OWZkNTc5ZjRlNWYyYjZiMDM2YTJkNmIzODQ2ZWEw`

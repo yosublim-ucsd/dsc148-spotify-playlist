@@ -1,12 +1,12 @@
 {
   "description": "Where jazz meets classical, and classical meets jazz. ",
-  "num_followers": 279835,
+  "num_followers": 279922,
   "original_name": "Jazz Meets Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTU3YjgzYjhmMmRkMDIyNWY5NWMxZTRkM2RkZDdkOGE4ZDhiNWIy",
+  "snapshot_id": "MCxjYjU2ZGUxOWJkYmU5MjNmNDQzNDJiMjk0ZTllMWUxMDM5OGExYTYw",
   "tracks": [
     {
       "added_at": "2023-05-04 09:31:29",
@@ -515,6 +515,10 @@
         "url": "https://open.spotify.com/album/76QAlWkYwv50dBTyK2VEGc"
       },
       "artists": [
+        {
+          "name": "Arthur Hamilton",
+          "url": "https://open.spotify.com/artist/2BsR3OFeUUPr8xB4fQMWj0"
+        },
         {
           "name": "Sheku Kanneh-Mason",
           "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
@@ -1121,7 +1125,7 @@
         }
       ],
       "duration_ms": 170626,
-      "name": "Parker: Ornithology (Arr. Horsting for Recorder and Ensemble)",
+      "name": "Ornithology (Arr. Horsting for Recorder and Ensemble)",
       "url": "https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF"
     },
     {

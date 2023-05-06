@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,273 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,281 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Champagne](https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Champagne](https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k) | 3:30 |
 | 100 | [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 |
 
-Snapshot ID: `MCxmYTkzYTIwZTc3YjRkMGJlZDJjZjc4ODliZTIxNjNjNzc5MThmOWM0`
+Snapshot ID: `MCw3OThlNzRhYWJlY2ZjNTFkOTM0Y2U3MzMwNzEzOTU4N2RkOTliMzg3`

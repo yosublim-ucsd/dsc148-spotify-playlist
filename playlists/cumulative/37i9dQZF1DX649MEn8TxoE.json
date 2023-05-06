@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "Paz",
+        "url": "https://open.spotify.com/album/7lQMPfBaZEewTGeyPXz46u"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4"
+    },
+    {
+      "album": {
         "name": "Pensamos",
         "url": "https://open.spotify.com/album/3mhYvnYd8l0MGQVJsrPEK1"
       },

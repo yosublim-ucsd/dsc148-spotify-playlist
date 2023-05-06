@@ -1,12 +1,12 @@
 {
   "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Vico C en portada. ",
-  "num_followers": 298899,
+  "num_followers": 299044,
   "original_name": "Rap en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDNlNjc1ZDBiMWQwMzFiN2UzMTg5ZDliNDMxYWRhNWYwYzE2NzQ1",
+  "snapshot_id": "MCxhNjMzMzVlZDEwMzYxMzk0MTVhOTY1NmZiNzM5YjYyNjllOGQ3Mzk3",
   "tracks": [
     {
       "added_at": "2023-03-31 06:00:00",
@@ -39,6 +39,150 @@
       "duration_ms": 236000,
       "name": "Defectos y Taras",
       "url": "https://open.spotify.com/track/36bpPEAwmSzy3IKDWvalmL"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Estrecho / Alvarado (feat. pablopablo)",
+        "url": "https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 150141,
+      "name": "Estrecho / Alvarado (feat. pablopablo)",
+      "url": "https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Morena 420",
+        "url": "https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 236712,
+      "name": "Morena 420",
+      "url": "https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "CALIENTE",
+        "url": "https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 302104,
+      "name": "CALIENTE",
+      "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "PALO SANTO",
+        "url": "https://open.spotify.com/album/0fVvlm6dL6M2GLqOvaQ86v"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 202176,
+      "name": "PALO SANTO",
+      "url": "https://open.spotify.com/track/2iu2Ozrm9ebrF4QbeA8J3d"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Leyendas Urbanas",
+        "url": "https://open.spotify.com/album/5OmXbLjATSwGq0x8fpyXa8"
+      },
+      "artists": [
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Leyendas Urbanas",
+      "url": "https://open.spotify.com/track/4dDofP6HpYPAqJmYBeYfHs"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Las Horas Pasan",
+        "url": "https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 210625,
+      "name": "Las Horas Pasan",
+      "url": "https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Almas Benditas",
+        "url": "https://open.spotify.com/album/2dr3uDKeRGlwyePqf44aKp"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "duration_ms": 193557,
+      "name": "Almas Benditas",
+      "url": "https://open.spotify.com/track/5ITPRg6QYpppI92bgZoV5D"
     },
     {
       "added_at": "2023-04-28 06:00:00",

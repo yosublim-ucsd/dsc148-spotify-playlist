@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 201894,
       "name": "Blue Flame (2023 Ver.)",
       "url": "https://open.spotify.com/track/2ahp0wvyEzyvgWfOhStHWp"
@@ -4749,6 +4749,28 @@
     },
     {
       "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Don't ever say love me (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
+    },
+    {
+      "album": {
         "name": "DON'T FIGHT THE FEELING - Special Album",
         "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
       },
@@ -6106,7 +6128,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 206831,
       "name": "FEARNOT (Between you, me and the lamppost)",
       "url": "https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM"
@@ -8552,7 +8574,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 239026,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2lsRp40mCRkhqULWdMbOzn"
@@ -11042,7 +11064,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 242760,
       "name": "Love Always Run Away",
       "url": "https://open.spotify.com/track/4rMEoXVYww6Xy7q9wSj4gy"
@@ -11060,7 +11082,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"

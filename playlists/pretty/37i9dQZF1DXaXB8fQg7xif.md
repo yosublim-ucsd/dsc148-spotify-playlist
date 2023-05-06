@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,001,924 likes - 150 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,002,643 likes - 150 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 149 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 |
 | 150 | [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 |
 
-Snapshot ID: `MCw2MjEwMzIwYTg0M2Q4N2NiNzYxZjc0M2RmMDc3YzkxNzQ4OThlYzYy`
+Snapshot ID: `MCw4YzU4MjBmNjQ4MzBmNjI4YmQ2NmMwZDcxMTA2MzM4YTBlYWVjZWQz`

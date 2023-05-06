@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > West African love stories wrapped up in song
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,542 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,620 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 79 | [YAHWEH](https://open.spotify.com/track/4KfFubXepl2rdjPXH2oNNi) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:45 |
 | 80 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 |
 
-Snapshot ID: `MCwwYTkxMWVhMzZmZWI4MWEzNzlhODAwYmQzNmI4MmI5NjFjMGZhYzk4`
+Snapshot ID: `MCxjY2QzMzJiNzA2YjkyYWE1NDRiODEzMTNjYWNlMjM5ZmE0MTdkMzFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,221 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,308 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 |
 | 150 | [I Could Have Told You](https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Could Have Told You](https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh) | 3:36 |
 
-Snapshot ID: `MCwxNDlhMDkxZDA1OGE4ZGI3Mzg2Yjk1MTU2NTk1YTNhNzlhMmU1ZTI1`
+Snapshot ID: `MCw1NmM3M2JjYmVhMDYxZjJiYjhiMzNmZjQzNzRhZGQ4OTdiOGZjMjZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,170 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,294 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
 | 50 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
 
-Snapshot ID: `MCxjMTY2Zjc0MGI1ZTE5MmI1NzI0ZTMxMGY0MDYyZGY0NmM4MTEyOWNi`
+Snapshot ID: `MCw3OTA0OWZkZjVmMjBiMDk5ZGFjMDdjZmM5Y2NkZjA0Yjc0Yzc5ODQz`

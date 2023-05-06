@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,179 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,182 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 99 | [Up up and away](https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:02 |
 | 100 | [Little Brothers \(Feat\. LIL GIMCHI\)](https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:17 |
 
-Snapshot ID: `MCw3MGJkMjg4ZjliMGQ5OTUyZTI0NjM5NTg0M2QzOGQxYTc5NzgwYzYx`
+Snapshot ID: `MCxmMmM2MWNhYWM0N2JiYjhmMTBmNWFiN2U5ZjliYzg4N2I4MjNkYWE0`

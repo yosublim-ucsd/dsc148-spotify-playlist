@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week.
 
-292 songs - 15 hr 25 min
+295 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Chasing Ghosts](https://open.spotify.com/track/6fB74plQyGv3vsevsbxKPo) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:59 | 2022-10-03 |  |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-29 |  |
 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 | 2022-06-17 | 2022-10-04 |
-| [Claymore \(feat\. Smino\)](https://open.spotify.com/track/051zam2WDIKOLdu4XYpCaA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:06 | 2022-02-18 |  |
+| [Claymore \(feat\. Smino\)](https://open.spotify.com/track/051zam2WDIKOLdu4XYpCaA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:06 | 2022-02-18 | 2023-05-06 |
 | [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2022-02-18 | 2022-04-16 |
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2023-03-06 |  |
 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-02-03 |  |
@@ -67,7 +67,7 @@
 | [CYBERKISS 2 U\*](https://open.spotify.com/track/6OtZmfVTQgUnsAw128KpHh) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [CYBERKISS\*](https://open.spotify.com/album/5acmAj0gYKed2bcsRY4b2C) | 3:08 | 2023-02-09 |  |
 | [Dark & Handsome](https://open.spotify.com/track/0Zgcv1wy4bRWpfsM27uPGK) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Angel's Pulse](https://open.spotify.com/album/3KLLRiCnqYvt78H52TeZ1k) | 2:33 | 2022-02-18 | 2022-03-05 |
 | [day to day](https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:57 | 2022-10-03 |  |
-| [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-21 |  |
+| [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-21 | 2023-05-06 |
 | [Deadman Deadman Deadman](https://open.spotify.com/track/3KH13eIaIOl0e75yLfFWV0) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Deadman Deadman Deadman](https://open.spotify.com/album/6kGZlSN6C6At36Hcxk3y84) | 3:28 | 2023-04-21 | 2023-05-01 |
 | [Deadman Deadman Deadman](https://open.spotify.com/track/6d4DDFeJ05P1JzYHiPsYox) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly The Same Snake](https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw) | 3:28 | 2023-04-21 |  |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2022-05-13 | 2022-10-04 |
@@ -102,6 +102,7 @@
 | [Get Closer](https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Get Closer](https://open.spotify.com/album/1SKAfddsLQC9iKrYq1dAOm) | 3:21 | 2022-02-18 | 2022-10-04 |
 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2023-01-18 |  |
 | [GHOST\*](https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [GHOST\*](https://open.spotify.com/album/4UmCXtYrA5Bodd4HGKCQzM) | 2:20 | 2023-02-17 |  |
+| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-05-05 |  |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-11 |  |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2022-02-18 | 2022-05-21 |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-11 | 2022-06-19 |
@@ -188,6 +189,7 @@
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2022-02-18 | 2022-06-19 |
 | [mutual\-fren\*](https://open.spotify.com/track/4zI2ttmEwmvotQcphBaNTE) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [mutual\-fren\*](https://open.spotify.com/album/39bSqPRq6f7lSNl0dC1IYE) | 3:39 | 2023-04-21 |  |
 | [My My](https://open.spotify.com/track/6o96AEsHYibjCQSjzhguAm) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [My My](https://open.spotify.com/album/57XuVQ9SLM3DOSBTA8wOAq) | 1:42 | 2023-03-09 |  |
+| [No Comply](https://open.spotify.com/track/59IFFdXjFoKr9Yf5gwmCVR) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Curser's Lament EP](https://open.spotify.com/album/7fM6cruyi0SeSc4q7dfTEk) | 3:48 | 2023-05-05 |  |
 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 | 2022-11-11 |  |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-02-18 | 2022-02-26 |
 | [NYC](https://open.spotify.com/track/5SfOaWCMXCR2b01GJqXLOr) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 2:26 | 2023-01-18 |  |
@@ -218,6 +220,7 @@
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-17 | 2023-04-22 |
 | [Rapture in Blue](https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Rapture in Blue](https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy) | 2:24 | 2022-02-18 | 2022-11-12 |
 | [Rearrange](https://open.spotify.com/track/1APcu1K9e8tT6gqcxZ8PZS) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 4:26 | 2022-05-13 | 2022-11-12 |
+| [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 | 2023-05-05 |  |
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-01-18 |  |
 | [Rider](https://open.spotify.com/track/3E2GaYRo0NLKLX3R00e5t8) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Rider](https://open.spotify.com/album/6Or5zQjNuLi7VaUSfxSGpp) | 2:45 | 2022-02-18 | 2022-07-29 |
 | [Rider](https://open.spotify.com/track/3g34kHf04oVc95RqP9QeCS) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [2021 Hits](https://open.spotify.com/album/18T2rYc48U86hle44MrSgj) | 2:45 | 2022-05-13 | 2022-11-14 |
@@ -287,7 +290,7 @@
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-02-18 | 2022-12-26 |
 | [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 | 2023-03-29 |  |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-18 |  |
-| [whatever u like](https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [whatever u like](https://open.spotify.com/album/721LnudJW05TovLVLcSoMa) | 3:20 | 2022-06-17 |  |
+| [whatever u like](https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [whatever u like](https://open.spotify.com/album/721LnudJW05TovLVLcSoMa) | 3:20 | 2022-06-17 | 2023-05-06 |
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2022-02-18 | 2022-03-18 |
 | [Where To With You](https://open.spotify.com/track/7gvqfps147O34gKtpYX39F) | [Lance Skiiiwalker](https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O) | [Audiodidactic](https://open.spotify.com/album/1AIxnk3VGjUenx1vsU9gIt) | 2:29 | 2023-02-10 |  |
 | [where u are \[Feat\. Dreamer Isioma\]](https://open.spotify.com/track/4pGHZRjdm1G7xWYAjgA0m4) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [where u are \[Feat\. Dreamer Isioma\]](https://open.spotify.com/album/0JJsENkkCm9U2sgfzQIi8o) | 4:31 | 2023-04-21 |  |

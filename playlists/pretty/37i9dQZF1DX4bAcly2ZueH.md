@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,379 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,392 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 63 | [Wind](https://open.spotify.com/track/3lcbXj3b9lMzfuGvQlznmN) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/01BChai4qQGpbKQeDXRi7K) | 2:43 |
 | 64 | [three](https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [three](https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl) | 3:07 |
 | 65 | [garden](https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Afterglow](https://open.spotify.com/album/1xgaY66wY1j5WOW8J7orN8) | 3:20 |
-| 66 | [In Your Arms](https://open.spotify.com/track/24tlBs7UEBwNIPB3hFwkjH) | [Mattheus Fedorova](https://open.spotify.com/artist/5fynz3YRv7vghPyLm3gTTE) | [In Your Arms](https://open.spotify.com/album/393FqXTdXkw5pQwpnOuhfo) | 4:40 |
+| 66 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 |
 | 67 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 |
 | 68 | [Emi](https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Emi](https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM) | 2:29 |
 | 69 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 | 100 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 |
 
-Snapshot ID: `MCxjNDg2Y2QxODAzNGYxYTNlYmQwMzc0YjU3MDZkNjcxNDM1NGUwZGJj`
+Snapshot ID: `MCwzZTBjYzJkOWY3M2UxY2I4ZjBlZjk0Mjc5ZTI2M2JiNjA3OTM4N2Yx`

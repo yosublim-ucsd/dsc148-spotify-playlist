@@ -966,7 +966,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 188902,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/7s41MjYTO8bOQblhtYj3RP"
@@ -2223,6 +2223,28 @@
     },
     {
       "album": {
+        "name": "Blister",
+        "url": "https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Kaeve",
+          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx"
+    },
+    {
+      "album": {
         "name": "Bloody Bloody Border",
         "url": "https://open.spotify.com/album/6tt6ih80VcCdBOwyxXjeEy"
       },
@@ -2346,7 +2368,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 265800,
       "name": "Brindis",
       "url": "https://open.spotify.com/track/0s7VQGJmw6OEEaKbcA5es6"
@@ -2382,7 +2404,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 186245,
       "name": "BSOS",
       "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
@@ -5670,7 +5692,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "El Pibe de los Astilleros",
       "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
@@ -9276,7 +9298,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 150008,
       "name": "Llorando en Madrid",
       "url": "https://open.spotify.com/track/7D3djmQ7m0mg9bUEmQ0ZiH"
@@ -10174,7 +10196,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 215866,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
@@ -11782,7 +11804,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 154373,
       "name": "OLA DE SUICIDIOS",
       "url": "https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N"
@@ -13447,6 +13469,24 @@
     },
     {
       "album": {
+        "name": "q haces?",
+        "url": "https://open.spotify.com/album/1wBLasyWpyYSmMbkEAjhfy"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71190,
+      "name": "q haces?",
+      "url": "https://open.spotify.com/track/75UAP2WWZFJQSOk06m1HPT"
+    },
+    {
+      "album": {
         "name": "Quando Quando",
         "url": "https://open.spotify.com/album/1zXhMd6e6BB9zkm3SYdTa8"
       },
@@ -13944,7 +13984,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 250173,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
@@ -16448,7 +16488,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 198499,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
@@ -16584,6 +16624,28 @@
       "duration_ms": 136176,
       "name": "Un Cactus",
       "url": "https://open.spotify.com/track/1ryPVXya20fTWNhxzydX4K"
+    },
+    {
+      "album": {
+        "name": "Un Camino",
+        "url": "https://open.spotify.com/album/4mfmZsJmyXzn0bF2UCYYWz"
+      },
+      "artists": [
+        {
+          "name": "Cris Rye",
+          "url": "https://open.spotify.com/artist/0OGduw6Oii6PJFM8bevFw7"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Un Camino",
+      "url": "https://open.spotify.com/track/5iIuGZtMdR9PNzfPncZX25"
     },
     {
       "album": {

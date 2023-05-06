@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,808 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,003 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 99 | [Llamarada](https://open.spotify.com/track/3gy3pz80G5bBYUHyucUOx3) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Llamarada](https://open.spotify.com/album/6ZTIEeOVHZxipf6HvADV5t) | 3:24 |
 | 100 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/00zD9aiaLdQcIwSNoWD0pW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:55 |
 
-Snapshot ID: `MCxiZDVlNTE4YWFkOWU0ZGE3ZGNjMjUxZThmMmU4ZmYzODI4NGFhM2Ni`
+Snapshot ID: `MCxjOGFhNDMwYjJkNjQ4MTA4YjBlOWQ5YzU5NzkyNjBlNzAxNGI4OGE1`

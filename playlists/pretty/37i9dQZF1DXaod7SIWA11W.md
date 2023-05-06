@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,741 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,800 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Anymore](https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Anymore](https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw) | 3:52 |
 | 80 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
 
-Snapshot ID: `MCw4YmE2Mjg3OWNiMmQ0NDkxODMwNjEyYWU1OTNkYmM0NDM5M2RhODdl`
+Snapshot ID: `MCwwOGVhMjc4NDNmZWE3MGZlMDA0NDg3NzYwNWZkNGRhNmM5MWI0N2Qy`

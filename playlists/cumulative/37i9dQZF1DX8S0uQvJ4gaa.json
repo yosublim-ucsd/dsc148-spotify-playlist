@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Colbie Caillat",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: MacKenzie Porter",
   "name": "New Boots",
   "tracks": [
     {
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 203239,
       "name": "At The End Of The Dirt Road",
       "url": "https://open.spotify.com/track/2IR8eI1sWfJlTaYGcIsOxv"
@@ -3205,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Brain On Love",
+        "url": "https://open.spotify.com/album/4WWRqLivbF5Wy4EE8ey2KM"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181746,
+      "name": "Brain On Love",
+      "url": "https://open.spotify.com/track/5wtwjtyA5qNF1Ml0yACm5d"
+    },
+    {
+      "album": {
         "name": "Brave Girl",
         "url": "https://open.spotify.com/album/5HeEbJz7D5hcjg3MvQ6u4j"
       },
@@ -3616,6 +3634,24 @@
       "duration_ms": 169373,
       "name": "Busy",
       "url": "https://open.spotify.com/track/7f96cOAkzyaN9QxvJhjyMk"
+    },
+    {
+      "album": {
+        "name": "But I Got A Beer In My Hand",
+        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "But I Got A Beer In My Hand",
+      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
     },
     {
       "album": {
@@ -4042,6 +4078,24 @@
       "duration_ms": 205453,
       "name": "Chasin' You",
       "url": "https://open.spotify.com/track/5MwynWK9s4hlyKHqhkNn4A"
+    },
+    {
+      "album": {
+        "name": "Chasing Tornadoes",
+        "url": "https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177008,
+      "name": "Chasing Tornadoes",
+      "url": "https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx"
     },
     {
       "album": {
@@ -11394,7 +11448,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 176245,
       "name": "Hideaway - Studio Version",
       "url": "https://open.spotify.com/track/2g8vCblRvgG61BgghzHiwv"
@@ -13612,7 +13666,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 205333,
       "name": "I'm on a Dirt Road",
       "url": "https://open.spotify.com/track/0wDDINIKBfpedPrdQvgGQX"
@@ -13692,6 +13746,24 @@
       "duration_ms": 180360,
       "name": "If I Didn\u2019t Wear Boots",
       "url": "https://open.spotify.com/track/2imQgpXrOacGLfgx9nevja"
+    },
+    {
+      "album": {
+        "name": "If I Die Young Pt. 2",
+        "url": "https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Perry",
+          "url": "https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203765,
+      "name": "If I Die Young Pt. 2",
+      "url": "https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v"
     },
     {
       "album": {
@@ -16188,7 +16260,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 161042,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7fqqGL94As2CNyMy54plgo"
@@ -16790,7 +16862,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 220440,
       "name": "Me Pt. 2",
       "url": "https://open.spotify.com/track/6C4dL9m6mVWPNyIst3o9HU"
@@ -16964,6 +17036,24 @@
       "duration_ms": 188987,
       "name": "Met Me Now",
       "url": "https://open.spotify.com/track/2LGg1V41nzsVIdsUhtsnZB"
+    },
+    {
+      "album": {
+        "name": "Middle Of Nowhere Class",
+        "url": "https://open.spotify.com/album/0zN8UMoWb3j1yIfdfjfzTE"
+      },
+      "artists": [
+        {
+          "name": "Drew Parker",
+          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221075,
+      "name": "Middle Of Nowhere Class",
+      "url": "https://open.spotify.com/track/0hzkbUtBgEgMyfbymWuDKc"
     },
     {
       "album": {
@@ -18738,7 +18828,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 189070,
       "name": "Nobody's Nobody",
       "url": "https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI"
@@ -21089,6 +21179,24 @@
     },
     {
       "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172861,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv"
+    },
+    {
+      "album": {
         "name": "Red Lights",
         "url": "https://open.spotify.com/album/5Enbth38qf3E9uHyOXs2HO"
       },
@@ -21104,6 +21212,24 @@
       "duration_ms": 190942,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/27J3bSJSg3Ph1ouTOexhoe"
+    },
+    {
+      "album": {
+        "name": "Greatest Show On Dirt",
+        "url": "https://open.spotify.com/album/54phHp2BG1tg3SuLdiWqio"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264424,
+      "name": "Red Roses & Red Flags",
+      "url": "https://open.spotify.com/track/3w1FQLKbeoZ5FD3Y4B5RJF"
     },
     {
       "album": {
@@ -21782,7 +21908,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 206760,
       "name": "Runnin (with JP Saxe)",
       "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
@@ -22420,7 +22546,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 205651,
       "name": "She's No Good for Me",
       "url": "https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E"
@@ -27027,6 +27153,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153296,
+      "name": "Traitor Joe",
+      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
+    },
+    {
+      "album": {
         "name": "Trash My Heart",
         "url": "https://open.spotify.com/album/6zCZXNcqTKOCuQ7zE15wwl"
       },
@@ -27096,7 +27240,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214798,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
@@ -28927,6 +29071,24 @@
     },
     {
       "album": {
+        "name": "When My Baby\u2019s In Boots",
+        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "When My Baby\u2019s In Boots",
+      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
+    },
+    {
+      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -30369,6 +30531,24 @@
     },
     {
       "album": {
+        "name": "Wrong Side of a Sunrise",
+        "url": "https://open.spotify.com/album/12It5FS5HApJv54o6hfawf"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195368,
+      "name": "Wrong Side of a Sunrise",
+      "url": "https://open.spotify.com/track/2iEhrJwK2glWAvqtyuulgq"
+    },
+    {
+      "album": {
         "name": "Wyoming",
         "url": "https://open.spotify.com/album/6Bu3PLmcCVupzfFsU2FlJU"
       },
@@ -30636,7 +30816,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 183570,
       "name": "You In A Honky Tonk",
       "url": "https://open.spotify.com/track/6uMlDbkMx22aWyoWgyCbTo"

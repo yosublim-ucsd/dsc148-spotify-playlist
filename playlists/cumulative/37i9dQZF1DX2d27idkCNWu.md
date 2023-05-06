@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-150 songs - 8 hr 54 min
+151 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All of Me \- Live from Spotify Milan](https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 4:51 | 2021-11-05 |  |
 | [America](https://open.spotify.com/track/2ydhxOqJQrYEETtWcuD06y) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [America](https://open.spotify.com/album/165tYANcQE4kZWM0NHx6Y6) | 4:03 | 2021-11-05 | 2022-07-29 |
 | [America](https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 4:03 | 2021-11-05 | 2023-03-10 |
-| [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 | 2023-03-24 |  |
+| [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 | 2023-03-24 | 2023-05-06 |
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-11-25 |  |
 | [Arcade \- Acoustic Version](https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade \(Acoustic Version\)](https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz) | 3:19 | 2021-11-05 |  |
 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 | 2021-11-05 | 2023-01-28 |
@@ -141,6 +141,7 @@
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 | 2021-11-05 |  |
 | [The Remedy \(I Won't Worry\) \- Live](https://open.spotify.com/track/0f0k6SsnHoZRR4Vkzvr2NO) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Waiting for My Rocket to Come \(Expanded Edition\)](https://open.spotify.com/album/5XmgxU4rDcAoP1EHiSFYBX) | 3:49 | 2022-10-14 | 2022-12-08 |
 | [Thunder \- Live/Acoustic](https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4) | 3:34 | 2021-11-05 |  |
+| [Tudo Em Seu Lugar \- Acústico](https://open.spotify.com/track/5EfORdSqq61w3qnG52BS4e) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim Do Mundo \(Deluxe\)](https://open.spotify.com/album/19z3Qn8hGiaffgpT8mEz6I) | 2:46 | 2023-05-05 |  |
 | [Tudo Pah \- Casa Filtr](https://open.spotify.com/track/5QPj2GvEMAsca12RmRiMoX) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Pah \(Casa Filtr\)](https://open.spotify.com/album/4UKtzqwGYpn2miqMvpDfhO) | 2:43 | 2022-09-02 | 2022-10-08 |
 | [Two Commas](https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Two Commas](https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt) | 3:34 | 2021-11-05 | 2022-12-13 |
 | [Unfinished \- Acoustic](https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Unfinished \(Acoustic\)](https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq) | 4:07 | 2022-10-14 | 2023-02-12 |

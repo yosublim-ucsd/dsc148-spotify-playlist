@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWddJiPzbvb.md) - [plain]
 
 > Chilled songs that you are familiar with \- no surprises!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820,319 likes - 200 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,821,252 likes - 200 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWddJiPzbvb.md) - [plain]
 | 199 | [There for You](https://open.spotify.com/track/6jA8HL9i4QGzsj6fjoxp8Y) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [There for You](https://open.spotify.com/album/0OK35duHpTPnvqya2d4pnn) | 3:41 |
 | 200 | [Just You and I](https://open.spotify.com/track/03x2rVJRFUrvwlfxoHd9Mo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 2:54 |
 
-Snapshot ID: `MCw5Y2I4OTY3ZGJiMTdkNTFlZjUwYmE2YmM2ODQxNTM0OWVmYjJiMmIx`
+Snapshot ID: `MCw2M2Y0ZmQyYTY5YjAwZWQ4Njc2MzU3ZDFmYzgxMGI2Y2JhYzBhNzEz`

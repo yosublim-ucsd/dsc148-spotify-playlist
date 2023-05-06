@@ -1,13 +1,89 @@
 {
   "description": "Strictly for the streets. Cover: Moneybagg Yo",
-  "num_followers": 1167818,
+  "num_followers": 1167942,
   "original_name": "Out The Mud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODQ3ZGVkMWNkOWM2YzZkYjg0NjRhNDNiNTBjNWEyY2I4NDQyMjk3",
+  "snapshot_id": "MCxkZDkxNzc0NTc4MzY5YjE5NWQ2NDg4YjFiOGVmOWI0ZmE5YzEwNTM3",
   "tracks": [
+    {
+      "added_at": "2023-05-05 17:48:54",
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Glockoma 2",
+        "url": "https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 151080,
+      "name": "Chromosomes",
+      "url": "https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ"
+    },
+    {
+      "added_at": "2023-05-05 17:48:54",
+      "album": {
+        "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+        "url": "https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 218172,
+      "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+      "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
+    },
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
@@ -27,32 +103,8 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Mello Buckzz",
-          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
-        }
-      ],
-      "duration_ms": 188157,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8"
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I"
       },
       "artists": [
         {
@@ -60,45 +112,9 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 157377,
-      "name": "Levels",
-      "url": "https://open.spotify.com/track/6hgTMdO3CyXlNQJ1K58ruH"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Glockoma 2",
-        "url": "https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 151080,
-      "name": "Chromosomes",
-      "url": "https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "WTF (feat. Polo G) [Remix]",
-        "url": "https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL"
-      },
-      "artists": [
-        {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 173458,
-      "name": "WTF (feat. Polo G) - Remix",
-      "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
+      "duration_ms": 137716,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -129,24 +145,88 @@
       "url": "https://open.spotify.com/track/1UFCw2ZU50ZXdjHUtKg9mp"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+        "name": "WTF (feat. Polo G) [Remix]",
+        "url": "https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Peaches & Eggplants (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
+      "duration_ms": 173458,
+      "name": "WTF (feat. Polo G) - Remix",
+      "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
+    },
+    {
+      "added_at": "2023-05-05 17:48:54",
+      "album": {
+        "name": "GEEZYWORLD 2",
+        "url": "https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "duration_ms": 146285,
+      "name": "Max Payne",
+      "url": "https://open.spotify.com/track/5dcE2jamWIMursVBqVARSw"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+    },
+    {
+      "added_at": "2023-05-05 17:48:54",
+      "album": {
+        "name": "Off The Court (with Polo G & Einer Bankz)",
+        "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Einer Bankz",
+          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
+        }
+      ],
+      "duration_ms": 193937,
+      "name": "Off The Court (with Polo G & Einer Bankz)",
+      "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -189,6 +269,26 @@
       "url": "https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl"
     },
     {
+      "added_at": "2023-05-05 17:48:54",
+      "album": {
+        "name": "Welcome To The Trap",
+        "url": "https://open.spotify.com/album/0YtTlvxkbtWjmtGA5trfXQ"
+      },
+      "artists": [
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        },
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        }
+      ],
+      "duration_ms": 175830,
+      "name": "Supafly",
+      "url": "https://open.spotify.com/track/6fPo9VRtXEGu6Jg1TRk7EX"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Put It On Da Floor",
@@ -203,6 +303,54 @@
       "duration_ms": 181437,
       "name": "Put It On Da Floor",
       "url": "https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Whole Nother League",
+        "url": "https://open.spotify.com/album/247OXdx4UMTpuL2gi5hulJ"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "duration_ms": 154283,
+      "name": "Whole Nother League",
+      "url": "https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/6hgTMdO3CyXlNQJ1K58ruH"
+    },
+    {
+      "added_at": "2023-05-05 17:48:54",
+      "album": {
+        "name": "Cuban Links & Drug Habits",
+        "url": "https://open.spotify.com/album/2E2XaelGPkXXJCQ1LDWOgD"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 158406,
+      "name": "Cuban Links",
+      "url": "https://open.spotify.com/track/70PwWKcHVAMSpdNAuq1P7i"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -245,22 +393,6 @@
       "url": "https://open.spotify.com/track/63nPz8Y0oPCvGDcmDdLs9Z"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Whole Nother League",
-        "url": "https://open.spotify.com/album/247OXdx4UMTpuL2gi5hulJ"
-      },
-      "artists": [
-        {
-          "name": "BigWalkDog",
-          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
-        }
-      ],
-      "duration_ms": 154283,
-      "name": "Whole Nother League",
-      "url": "https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Cottonwood 2",
@@ -299,22 +431,6 @@
       "duration_ms": 168856,
       "name": "Andale",
       "url": "https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 137716,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -367,22 +483,6 @@
       "duration_ms": 152213,
       "name": "Just Relax",
       "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Hot Sauce",
-        "url": "https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -589,6 +689,22 @@
       "url": "https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Hot Sauce",
+        "url": "https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Pound Town (and Tay Keith)",
@@ -607,6 +723,22 @@
       "duration_ms": 129429,
       "name": "Pound Town (and Tay Keith)",
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
+    },
+    {
+      "added_at": "2023-05-05 17:48:54",
+      "album": {
+        "name": "InstaKill",
+        "url": "https://open.spotify.com/album/5fcZnOQoSBoiGaJ0qmZGtx"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "duration_ms": 117791,
+      "name": "InstaKill",
+      "url": "https://open.spotify.com/track/0mUAyevrsYZRUR3yVfyI3M"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -659,6 +791,46 @@
       "duration_ms": 171872,
       "name": "GOMD",
       "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
+    },
+    {
+      "added_at": "2023-05-05 17:48:54",
+      "album": {
+        "name": "BING BONG",
+        "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "duration_ms": 106736,
+      "name": "BING BONG",
+      "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "4148 (feat. Edot Babyy)",
+        "url": "https://open.spotify.com/album/1qJk9YuaI0GBx9kYm8o5li"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "Edot Babyy",
+          "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
+        },
+        {
+          "name": "Lawsy",
+          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
+        }
+      ],
+      "duration_ms": 108004,
+      "name": "4148 (feat. Edot Babyy)",
+      "url": "https://open.spotify.com/track/4LqfNIRWW0MrIvLS5UbASS"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -753,6 +925,22 @@
       "url": "https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF"
     },
     {
+      "added_at": "2023-05-05 17:48:54",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/3JPeEBVhCMWmGDHIr9jdjp"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7iL4ZEt5ReMuK61ADBznCw"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Bank Appointment",
@@ -841,22 +1029,6 @@
       "url": "https://open.spotify.com/track/2qAfq0eV8GYdQqTWJbeGrd"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 198722,
-      "name": "Real Spill",
-      "url": "https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Back In That Mode",
@@ -871,30 +1043,6 @@
       "duration_ms": 183999,
       "name": "Back In That Mode",
       "url": "https://open.spotify.com/track/5oTcPgMn0btxetet1nxYEp"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "4148 (feat. Edot Babyy)",
-        "url": "https://open.spotify.com/album/1qJk9YuaI0GBx9kYm8o5li"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        },
-        {
-          "name": "Edot Babyy",
-          "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
-        },
-        {
-          "name": "Lawsy",
-          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
-        }
-      ],
-      "duration_ms": 108004,
-      "name": "4148 (feat. Edot Babyy)",
-      "url": "https://open.spotify.com/track/4LqfNIRWW0MrIvLS5UbASS"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1177,26 +1325,6 @@
       "url": "https://open.spotify.com/track/6GfhoE4A0qgC3eO4WxKVBN"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 142277,
-      "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
-      "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Ether",
@@ -1273,22 +1401,6 @@
       "url": "https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Blast Off",
-        "url": "https://open.spotify.com/album/5mfmkBq7JGuNgU4OOMIlbM"
-      },
-      "artists": [
-        {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
-        }
-      ],
-      "duration_ms": 105365,
-      "name": "Blast Off",
-      "url": "https://open.spotify.com/track/0lfVhOvKOPILinrrahAz6p"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Trench Baby",
@@ -1303,26 +1415,6 @@
       "duration_ms": 180705,
       "name": "Vision Blurry",
       "url": "https://open.spotify.com/track/2d88S13urqCz2WgWonX48Z"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Out the Gutter (feat. Cash Kidd)",
-        "url": "https://open.spotify.com/album/2iImQkMkevdfVwk9xMnMPQ"
-      },
-      "artists": [
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        },
-        {
-          "name": "Cash Kidd",
-          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
-        }
-      ],
-      "duration_ms": 193002,
-      "name": "Out the Gutter (feat. Cash Kidd)",
-      "url": "https://open.spotify.com/track/2dwHXffVR1okPxatga6WTF"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1561,42 +1653,6 @@
       "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Hanging With Wolves",
-        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "King Snipe",
-        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 214593,
-      "name": "King Snipe",
-      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Ron Artest",
@@ -1735,66 +1791,6 @@
       "duration_ms": 170962,
       "name": "MO UP FRONT",
       "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Protect Me From Evil",
-        "url": "https://open.spotify.com/album/16gD38m4uMp78GLekoVP7y"
-      },
-      "artists": [
-        {
-          "name": "BigWalkDog",
-          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Protect Me From Evil",
-      "url": "https://open.spotify.com/track/12zZRWYbmGwLAM3AHGw5Aq"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "DOG SHIT (with Baby Money)",
-        "url": "https://open.spotify.com/album/5ZgGsUpnQnowHb4X9GMaIn"
-      },
-      "artists": [
-        {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
-        },
-        {
-          "name": "Baby Money",
-          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "DOG SHIT (with Baby Money)",
-      "url": "https://open.spotify.com/track/4f6whET6RFEWTy4dYmQF3n"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Motion [feat. Wizz Havinn & Loe Shimmy] (Remix)",
-        "url": "https://open.spotify.com/album/65XJ1g5lSvHqQWisRVpRKh"
-      },
-      "artists": [
-        {
-          "name": "C Stunna",
-          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
-        },
-        {
-          "name": "Wizz Havinn",
-          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
-        },
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        }
-      ],
-      "duration_ms": 188451,
-      "name": "Motion [feat. Wizz Havinn & Loe Shimmy] - Remix",
-      "url": "https://open.spotify.com/track/419P7pvcvRBkz94d2B0F0J"
     },
     {
       "added_at": "2023-03-17 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,562 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,643 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Welcome to the Jungle](https://open.spotify.com/track/6SiYPSuNfD9Erz5mRUH8N4) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Guns N' Roses](https://open.spotify.com/album/58PG2MINfE9JQmgj02xPM3) | 3:26 |
 | 100 | [Stairway to Heaven](https://open.spotify.com/track/4ckFn0Nhap9sCPIF4IJori) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Led Zeppelin](https://open.spotify.com/album/11nihhKvWVwU8cM9QWoF4Y) | 7:11 |
 
-Snapshot ID: `MCxlNjMwOWRjNDRiZmFiZTdmYWRmYjAyNDA0OTM1N2ZlOTMxMzcxNzNk`
+Snapshot ID: `MCw5MDQxMzkyNzhkMDBmYzFjYjgwMTVlZTEzYmE3ZTA3MzZlMjZkMzBj`

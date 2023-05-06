@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,757 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,842 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Loco](https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Loco](https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g) | 3:33 |
 | 100 | [Mythology of Hardcore \- Official Masters of Hardcore Russia 2022 Anthem](https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Mythology of Hardcore \(Official Masters of Hardcore Russia 2022 Anthem\)](https://open.spotify.com/album/6cHbfD9YozJvYcUIDF1J9J) | 4:55 |
 
-Snapshot ID: `MCxkNTRjNmI2M2VjODQ1ODYyNDI1MTEzZmI2M2U1ZGQyMzhmZWZlOGIz`
+Snapshot ID: `MCw2OWFjY2UwODliNzE1MjQ2ODg1ZTYzODI0YTU1OTVmYzA1NmM0YWY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,493 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,678 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [La Luz](https://open.spotify.com/track/18BIUBXVi4c5HwNCjKeANr) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/5CA3UREgO8R0pJOqpsby3r) | 3:48 |
 | 150 | [Stay](https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Stay](https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY) | 2:32 |
 
-Snapshot ID: `MCwyMjk2YzQ5NDE0MDcxNWM5MjY3YTU4MTM5OTQ0ZDVlZjk5OGI2Y2Y4`
+Snapshot ID: `MCxjMTEwNTY2M2UzNjI0YmZlNTBkYjlmMDA4YWFiMDNjMDgyNzUyNmZi`

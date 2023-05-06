@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,044 songs - 2 day 9 hr 40 min
+1,045 songs - 2 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Alfrido](https://open.spotify.com/track/4NkvaoWObVgeJQSi4JFKJw) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 5:04 | 2021-09-15 | 2021-09-17 |
 | [Alfrido](https://open.spotify.com/track/6XV0zSmbhaEgqPpmSS5ML9) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alfrido](https://open.spotify.com/album/0lqKWGdNQGOah2rD6rmm4F) | 5:04 | 2021-07-22 | 2021-07-24 |
 | [Alizée](https://open.spotify.com/track/7dMtOa5oS22TtuDffQfLcN) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Alizée](https://open.spotify.com/album/1p2RcRTONGpE4j6TFdMExq) | 3:14 | 2021-07-05 | 2021-07-06 |
-| [All Eyez On Me \- Gangsta Remix](https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [All Eyez On Me \(Gangsta Remix\)](https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS) | 2:45 | 2023-04-18 |  |
+| [All Eyez On Me \- Gangsta Remix](https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [All Eyez On Me \(Gangsta Remix\)](https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS) | 2:45 | 2023-04-18 | 2023-05-06 |
 | [Allaho Akbar](https://open.spotify.com/track/2Omr2NN6IRfzxnXlGw7dSs) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM) | [٤in \(Act 3\)](https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv) | 3:49 | 2022-11-18 | 2022-11-28 |
 | [Allez Allez Maroc \- Les lions de l'Atlas](https://open.spotify.com/track/62Xa07qiCLwsMM8bKqlwQl) | [Hamid Bouchnak](https://open.spotify.com/artist/5ZVSJTyYo7IeR12fItMX4Y) | [Allez Allez Maroc \(Les lions de l'Atlas\)](https://open.spotify.com/album/02ZZScQImDg7Ulymdu88CM) | 3:36 | 2022-12-02 | 2022-12-13 |
 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 | 2022-06-09 | 2022-07-20 |
@@ -474,6 +474,7 @@
 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 | 2021-08-15 | 2022-05-27 |
 | [Khaliji Westcoast](https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Khaliji Westcoast](https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t) | 2:34 | 2022-04-04 | 2022-04-07 |
 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-02-18 | 2022-06-09 |
+| [Khssara](https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj) | 2:32 | 2023-05-05 |  |
 | [KIFKIF](https://open.spotify.com/track/0Ssdb1vqoW6w2eRgZT1Itp) | [Ali S Music](https://open.spotify.com/artist/5eOPZ5faFYHymqWmpg7c6m), [PROFIT ZA3IM](https://open.spotify.com/artist/48bjrojtnj3wjC1cSvGX9z) | [KIFKIF](https://open.spotify.com/album/3jc1hsgXkElhSuud62MDDt) | 3:44 | 2022-06-22 | 2022-07-20 |
 | [KIFKIF \- Remixed by Ali S](https://open.spotify.com/track/3GoQSJXtzbDtejWNADev6f) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or), [Profit Za3im](https://open.spotify.com/artist/1lgjg7Ws1qm4jojTua1nrn) | [KIFKIF](https://open.spotify.com/album/2UhLGCTnNMxR2Eyv2RorkV) | 3:44 | 2022-07-19 | 2022-12-14 |
 | [KIKI](https://open.spotify.com/track/3n58EssjWguXRIQucF12cZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 2:59 | 2022-03-04 | 2022-03-06 |

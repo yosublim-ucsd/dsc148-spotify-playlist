@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > la primavera non è una stagione, è un mood 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,048 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,071 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 99 | [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 |
 | 100 | [still](https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [still](https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3) | 2:59 |
 
-Snapshot ID: `MCw4NTA5MWQ1NDAwN2FmMDUxNWNkNDhlZDUwZTkxOWRkOWI1NDI1NjFj`
+Snapshot ID: `MCw0MDQ5NDVjMDNjNzkxZjRlNzg5OGFmYWI3NDIwZDNjODc5NDJmY2I3`

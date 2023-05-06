@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-29",
-  "description": "yeah it was love then it was just married",
+  "description": "our favorite emo cowgirl Megan Moroney is taking over to celebrate her new album \"Lucky\" \ud83e\udd72",
   "name": "sad girl country",
   "tracks": [
     {
@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+        "url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598150,
+      "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+      "url": "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 329160,
       "name": "All Too Well (Taylor's Version)",
       "url": "https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu"
@@ -200,7 +218,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 199693,
       "name": "Break Up in the End",
       "url": "https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180053,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
@@ -802,7 +820,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 167796,
       "name": "homecoming queen?",
       "url": "https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200573,
       "name": "I Don't Go Back",
       "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 201013,
       "name": "I Got the Boy",
       "url": "https://open.spotify.com/track/6tbNaE7kvGNqS7FvJ0dzLB"
@@ -1083,6 +1101,28 @@
     },
     {
       "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/0sHqVmVxBi8pF8k3OhqQfp"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        },
+        {
+          "name": "Sarah Buxton",
+          "url": "https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/0DAjiINHQTnPnnY939Qyhw"
+    },
+    {
+      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
       },
@@ -1098,6 +1138,24 @@
       "duration_ms": 182800,
       "name": "Let Me Get Over Her",
       "url": "https://open.spotify.com/track/2YAEntcShBOrHi2wSKTOZA"
+    },
+    {
+      "album": {
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163531,
+      "name": "Loom",
+      "url": "https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s"
     },
     {
       "album": {
@@ -1188,6 +1246,24 @@
       "duration_ms": 206893,
       "name": "Merry Go 'Round",
       "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
+    },
+    {
+      "album": {
+        "name": "Come May",
+        "url": "https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5Sx22WASoyuCUbK72Fs78y"
     },
     {
       "album": {
@@ -1339,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
+    },
+    {
+      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
@@ -1476,7 +1570,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 198466,
       "name": "She Ain't In It",
       "url": "https://open.spotify.com/track/1Be8liECvEP5NYZjYvukbI"
@@ -1530,10 +1624,46 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 215552,
       "name": "Someone Else's Heartbreak",
       "url": "https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/6aFXC1z6tjtpYfS2CylqeW"
+      },
+      "artists": [
+        {
+          "name": "Peytan Porter",
+          "url": "https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211256,
+      "name": "Someone's Love Song",
+      "url": "https://open.spotify.com/track/4BOP2qhiCXIBVJp0bZ0NE5"
+    },
+    {
+      "album": {
+        "name": "Songs We Used To Sing",
+        "url": "https://open.spotify.com/album/4RGZ7oHIaT5gc1pz7X3xdj"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185730,
+      "name": "Songs We Used To Sing",
+      "url": "https://open.spotify.com/track/0EAzZ4aKlERuRmAYIXcRX6"
     },
     {
       "album": {
@@ -1710,7 +1840,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 259279,
       "name": "Tin Man",
       "url": "https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE"
@@ -1750,6 +1880,24 @@
       "duration_ms": 219640,
       "name": "Try Losing One",
       "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
+    },
+    {
+      "album": {
+        "name": "Old Boots, New Dirt",
+        "url": "https://open.spotify.com/album/5p3nTBqh8WCoQfRDAaVp68"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225680,
+      "name": "Tryin' to Love Me",
+      "url": "https://open.spotify.com/track/267txPAKdhzYpRPWWSrH36"
     },
     {
       "album": {
@@ -1836,7 +1984,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 215640,
       "name": "Wasting All These Tears",
       "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
@@ -2031,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241837,
+      "name": "Why Johnny",
+      "url": "https://open.spotify.com/track/3yCcJIX6VbB1DKXrIsm0BE"
+    },
+    {
+      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -2144,7 +2310,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 217807,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"

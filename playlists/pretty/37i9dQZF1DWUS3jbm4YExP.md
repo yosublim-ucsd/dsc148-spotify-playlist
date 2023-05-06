@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,658 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,932 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Sun Khosi](https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb) | 3:56 |
 | 100 | [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 |
 
-Snapshot ID: `MCxkY2IyNzg4ZjZhYTY5ZjNmMTg0Yzk3MjI0OTg5ZTEyYzIxODQ3ZTdj`
+Snapshot ID: `MCw2ZWQwZGRiNmY2NjU2OTZhNWJlMjU0MTEwNjk0MzE0OGZmZjI3M2Q1`

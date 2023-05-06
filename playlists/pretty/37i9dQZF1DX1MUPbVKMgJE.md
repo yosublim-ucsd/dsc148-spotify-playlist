@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites\. Cover: Donna Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,492 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,837 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 49 | [Get Down Tonight](https://open.spotify.com/track/4msPRe3NEDVL6dsBcE7AhL) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band..\. and More](https://open.spotify.com/album/6ufis2iWp3hrox9QJfg5Jq) | 5:17 |
 | 50 | [Boogie Oogie Oogie](https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo) | [ATaste Of Honey](https://open.spotify.com/artist/36QtaDX43dspq1RBpANmTD) | [A Taste Of Honey](https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo) | 4:05 |
 
-Snapshot ID: `MCxmNGQ4ODk3MjQ2NDk0MzAxYmYyZDRmNThmODUyNjM0MDc1MGIzYWRj`
+Snapshot ID: `MCxjZTk0ZDNhMmVlODBiYTk2NTVmNDY3ZmRlMjc1MGViODNlMWQ4MGE5`

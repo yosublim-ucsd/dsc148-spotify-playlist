@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Aaron Obra Artwork: mica yui
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,671 likes - 74 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,726 likes - 74 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Go Slide](https://open.spotify.com/track/75KLPxkL98UeK3Msrqge4C) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [Go Slide](https://open.spotify.com/album/01f9prGndfaEvSgw5ATPUQ) | 3:02 |
 | 74 | [You](https://open.spotify.com/track/1rKfQ7uAl2x3oQVgZqHscb) | [Sean Andrae](https://open.spotify.com/artist/3wcoOSFXygwGD05qWTTFcj) | [You](https://open.spotify.com/album/752J8aQhoJ33Yz6VuXIfUq) | 2:36 |
 
-Snapshot ID: `MCwzM2YwZTgyZjVlYTZhMjIzZGY5NWE0MWEwOTJiNjdlNjJiYWU5NTMw`
+Snapshot ID: `MCwyMjQzYjJmMWU5NjQwZDZhOWVhMDg1MDc1MWM0ZjY3MzA0NTRkM2E5`

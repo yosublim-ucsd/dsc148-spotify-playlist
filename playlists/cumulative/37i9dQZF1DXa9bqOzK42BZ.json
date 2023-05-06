@@ -995,6 +995,28 @@
     },
     {
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/4Hl2UURqrZ88wlOolmc7Mv"
+      },
+      "artists": [
+        {
+          "name": "Nahash Mwathi",
+          "url": "https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1"
+        },
+        {
+          "name": "Jackson Saya",
+          "url": "https://open.spotify.com/artist/7EFTCBaclOkenIPumLmGyn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271949,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1cXe35isIgaErKaSyi1nP3"
+    },
+    {
+      "album": {
         "name": "Wewe Ni Zaidi",
         "url": "https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1"
       },

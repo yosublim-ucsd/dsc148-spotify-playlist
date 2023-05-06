@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,654 likes - 134 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,639 likes - 134 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 133 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 134 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MCwxN2NhYzllOTE2OWNhYjI0MzcxMmU2ZjEyNjIxYTUxOTE3MjM3YWE3`
+Snapshot ID: `MCw2N2M2NjBhNDZmMjEzZmYwYWNjN2IxZWYwNDYwNDkyYjRhZTk5ZWZl`

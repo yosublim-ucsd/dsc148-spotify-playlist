@@ -4,11 +4,12 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-190 songs - 11 hr 3 min
+192 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10\-4](https://open.spotify.com/track/13JH4T5Vwy9bZ9g2Yene4Y) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [Bad Case of the Good Ole Boy](https://open.spotify.com/album/0Ns3824RcYOCJzq2VZdiVP) | 3:07 | 2021-10-15 |  |
+| [21 Forever](https://open.spotify.com/track/7aYzn6SP2JYi7Wx4Yk3TIN) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [21 Forever](https://open.spotify.com/album/015R3QaOLULmgl68tTxUXZ) | 5:19 | 2023-05-05 |  |
 | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 | 2022-09-09 |  |
 | [A Million and One](https://open.spotify.com/track/6298i3fOw3l5rmtR462TFe) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [A Million and One](https://open.spotify.com/album/2ITnWh4L3RKZdnQN0R6TcC) | 2:38 | 2021-10-15 |  |
 | [Ain't No Closing Me Down](https://open.spotify.com/track/4kqSHwiAg5Su68ifqjUPNm) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Ain't No Closing Me Down](https://open.spotify.com/album/5B0XkXMEc6pdzdoyaDjZM5) | 3:16 | 2021-11-05 |  |
@@ -187,6 +188,7 @@
 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 | 2022-09-23 |  |
 | [Waste Of A Whiskey Drink](https://open.spotify.com/track/7wruXOjVoOBFjqzCb8dz33) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Waste Of A Whiskey Drink](https://open.spotify.com/album/54RJlVwpUPj4jqzCyY6Exu) | 3:25 | 2021-10-15 |  |
 | [When the Cowboys Gone](https://open.spotify.com/track/72U86afw7ZhxeNsPo76bxf) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [When the Cowboy's Gone](https://open.spotify.com/album/2ja9bHN4AHzlIKuc5eIJ0t) | 3:17 | 2021-10-15 |  |
+| [When The Rodeo Is Over \(Where Does The Cowboy Go?\)](https://open.spotify.com/track/2hZ2CDziK90laOB2inWp8X) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [When The Rodeo Is Over \(Where Does The Cowboy Go?\)](https://open.spotify.com/album/55JUFgPqNq7KIoomgcaw2v) | 4:02 | 2023-05-05 |  |
 | [When This Is Over \(feat\. The Oak Ridge Boys\)](https://open.spotify.com/track/6U1MkhLKg0j00z9ZiWcl46) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:41 | 2021-10-15 |  |
 | [Where Have You Gone](https://open.spotify.com/track/1BdqRVyZeZrCWnbR5zsUz5) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Have You Gone](https://open.spotify.com/album/2VK5OGhlI6yJUSvQ1VMb6J) | 4:46 | 2021-10-15 |  |
 | [Where Her Heart Has Always Been \(Written for Mama’s funeral with an old recording of her reading from the Bible\)](https://open.spotify.com/track/0YhPTrNqHLOVp1zNpXtgP6) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Her Heart Has Always Been \(Written for Mama’s funeral with an old recording of her reading from the Bible\)](https://open.spotify.com/album/6tEbgG4tbB7nYNNzgRcPji) | 3:27 | 2021-10-15 |  |

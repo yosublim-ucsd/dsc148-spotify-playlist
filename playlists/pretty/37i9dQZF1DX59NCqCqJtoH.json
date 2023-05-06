@@ -1,77 +1,13 @@
 {
   "description": "We hear you.",
-  "num_followers": 1139242,
+  "num_followers": 1139354,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWRkYjk2MGViNmE4NDAyYjI1OWFlOGQ1YmU5NjFhOWViYjA1ZDM3",
+  "snapshot_id": "MCw3YWNmZmM2ODc4Y2FhYTRmZTJmZThiMzQ0MDZkOWIwODE4MTc3MThi",
   "tracks": [
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "Sometimes (Backwood)",
-        "url": "https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Sometimes (Backwood)",
-      "url": "https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "Antisocial",
-        "url": "https://open.spotify.com/album/5AYFv9iMMbwWAR5APhNHrp"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "idtwcbf (friends)",
-      "url": "https://open.spotify.com/track/4FAdGJxiagKwaF2d8ER1dn"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Thank You For Attending",
-        "url": "https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 179360,
-      "name": "Paper Houses",
-      "url": "https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "Do You Love Me, or Are You Just Lonely?",
-        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
-      },
-      "artists": [
-        {
-          "name": "Jess Benko",
-          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
-        }
-      ],
-      "duration_ms": 316556,
-      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
-      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
-    },
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
@@ -89,22 +25,6 @@
       "url": "https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Downers Grove",
-        "url": "https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71"
-      },
-      "artists": [
-        {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
-        }
-      ],
-      "duration_ms": 199255,
-      "name": "tattletale",
-      "url": "https://open.spotify.com/track/1oG97U59L8fVYrVByMCtNI"
-    },
-    {
       "added_at": "2023-04-26 17:21:25",
       "album": {
         "name": "Atlas: II",
@@ -119,6 +39,22 @@
       "duration_ms": 256299,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Thank You For Attending",
+        "url": "https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "Paper Houses",
+      "url": "https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -169,6 +105,22 @@
       "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Downers Grove",
+        "url": "https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "duration_ms": 199255,
+      "name": "tattletale",
+      "url": "https://open.spotify.com/track/1oG97U59L8fVYrVByMCtNI"
+    },
+    {
       "added_at": "2023-04-26 17:21:25",
       "album": {
         "name": "Historian",
@@ -183,22 +135,6 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/4sSPmKSCOT2tGiLe2pKbgk"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/4nRec7qeTl60jthtmzQfIo"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -231,22 +167,6 @@
       "duration_ms": 100465,
       "name": "Somewhere in the Universe",
       "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "If I Showed You",
-        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
-      },
-      "artists": [
-        {
-          "name": "Henry Verus",
-          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
-        }
-      ],
-      "duration_ms": 195467,
-      "name": "If I Showed You",
-      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -283,24 +203,8 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "You Tear Me Apart",
-        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 177957,
-      "name": "You Tear Me Apart",
-      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "I'll Scream (All the Words)",
-        "url": "https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/4sSPmKSCOT2tGiLe2pKbgk"
       },
       "artists": [
         {
@@ -308,25 +212,9 @@
           "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 193458,
-      "name": "I'll Scream (All the Words)",
-      "url": "https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "still",
-        "url": "https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 179642,
-      "name": "still",
-      "url": "https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H"
+      "duration_ms": 181416,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/4nRec7qeTl60jthtmzQfIo"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -365,6 +253,22 @@
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "If I Showed You",
+        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
+      },
+      "artists": [
+        {
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+        }
+      ],
+      "duration_ms": 195467,
+      "name": "If I Showed You",
+      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
+    },
+    {
       "added_at": "2023-04-26 17:21:25",
       "album": {
         "name": "I'm Not Enough and I'm Sorry",
@@ -399,6 +303,22 @@
       "duration_ms": 124743,
       "name": "hospital beach",
       "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "You Tear Me Apart",
+        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 177957,
+      "name": "You Tear Me Apart",
+      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -555,22 +475,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Violets",
-        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
-      },
-      "artists": [
-        {
-          "name": "Josh Golden",
-          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
-        }
-      ],
-      "duration_ms": 115263,
-      "name": "Violets",
-      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
       },
@@ -667,22 +571,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Worn Out Heart",
-        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 142588,
-      "name": "I Need U",
-      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -695,6 +583,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Worn Out Heart",
+        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 142588,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1023,22 +927,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Second Place",
         "url": "https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK"
       },
@@ -1071,6 +959,22 @@
       "duration_ms": 238734,
       "name": "curse,",
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1227,6 +1131,26 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
+        "name": "Things I Wanted To Tell You",
+        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Feel Again (Feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
         "name": "I even told my mom about u",
         "url": "https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ"
       },
@@ -1295,42 +1219,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Things I Wanted To Tell You",
-        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Feel Again (Feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "keep our love alive",
-        "url": "https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        }
-      ],
-      "duration_ms": 176775,
-      "name": "keep our love alive",
-      "url": "https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Stoner",
         "url": "https://open.spotify.com/album/6kkweQ6EwBhFCTbaFM9jgc"
       },
@@ -1359,6 +1247,22 @@
       "duration_ms": 202346,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "keep our love alive",
+        "url": "https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "duration_ms": 176775,
+      "name": "keep our love alive",
+      "url": "https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1715,6 +1619,118 @@
       "duration_ms": 230615,
       "name": "freckles,",
       "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Ball",
+        "url": "https://open.spotify.com/album/75RDBx0Z18jNRzwQafl5Hi"
+      },
+      "artists": [
+        {
+          "name": "Eryn Martin",
+          "url": "https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph"
+        }
+      ],
+      "duration_ms": 151525,
+      "name": "Ball",
+      "url": "https://open.spotify.com/track/3CL4OEx96xE6eO9vrHunJY"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "hurt me enough",
+        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Archie",
+          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
+        }
+      ],
+      "duration_ms": 186032,
+      "name": "hurt me enough",
+      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "squares / y 13",
+        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 267031,
+      "name": "squares",
+      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 214768,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "CLOUDS (Music From The Disney+ Original Movie)",
+        "url": "https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "duration_ms": 175321,
+      "name": "afterthoughts",
+      "url": "https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "essential",
+        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 162656,
+      "name": "essential",
+      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
     }
   ],
   "unique_name": "idk.",

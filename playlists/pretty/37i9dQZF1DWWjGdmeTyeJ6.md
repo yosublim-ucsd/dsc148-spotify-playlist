@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: henri\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,630 likes - 62 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,602 likes - 62 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 61 | [In My Head \(La La La\)](https://open.spotify.com/track/1RQM2yOTy9QKavWWSiqK2z) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [In My Head \(La La La\)](https://open.spotify.com/album/7aCUjCD8Xx7GuAri85cEHY) | 2:32 |
 | 62 | [Stuck](https://open.spotify.com/track/7tINVtuVcE4lcVy6yJqn3T) | [William Florelle](https://open.spotify.com/artist/4OLJ5b0PpifX02BNNoXkeG) | [Stuck](https://open.spotify.com/album/451YhtkJQenhaMGgTz8NA2) | 4:50 |
 
-Snapshot ID: `MCxmMzQ1OTUyOWI0ODJkYjAxYTVlMjcwOTg4MWMwYTNiZDQyNjc0MjNm`
+Snapshot ID: `MCwyYTA2NDg4N2M5N2ZkOWUxZTk0ZTZlODM0NzczZWFiZmEyMDkyOWQ5`

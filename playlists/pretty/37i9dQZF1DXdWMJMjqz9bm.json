@@ -1,13 +1,69 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Felly",
-  "num_followers": 191541,
+  "num_followers": 191593,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzg3ZDI1ZmI1OTFjN2FmMWE3N2IzMGQ1Zjg1ZDBlNjU4M2RmMGU1",
+  "snapshot_id": "MCwzYzJkZjJhMGMwMTlmZjBkYmUzN2YzZmNmOWY0MDM4ZWU5NmNmYWQy",
   "tracks": [
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Vroom",
+        "url": "https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 137915,
+      "name": "Vroom",
+      "url": "https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "harvey dent",
+        "url": "https://open.spotify.com/album/3eYDrexE20vyIhz4kPlATc"
+      },
+      "artists": [
+        {
+          "name": "PmBata",
+          "url": "https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw"
+        },
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        }
+      ],
+      "duration_ms": 151714,
+      "name": "harvey dent",
+      "url": "https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "fvcked up",
+        "url": "https://open.spotify.com/album/5UWUE2F3kGOZmsMB3w6fjU"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "fvcked up",
+      "url": "https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ"
+    },
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
@@ -97,48 +153,20 @@
       "url": "https://open.spotify.com/track/3tLxUfISaz59RTcJIAPqDJ"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS"
+        "name": "Practically Strangers",
+        "url": "https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob"
       },
       "artists": [
         {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        },
-        {
-          "name": "4Korners",
-          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8"
-    },
-    {
-      "added_at": "2023-04-17 16:20:33",
-      "album": {
-        "name": "Who's Taking You Home",
-        "url": "https://open.spotify.com/album/6du4ktHaeE4Ot5dpDh57ya"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 162892,
-      "name": "Who's Taking You Home",
-      "url": "https://open.spotify.com/track/0eezrc1XfAfhceVFRXdiY4"
+      "duration_ms": 130173,
+      "name": "Practically Strangers",
+      "url": "https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL"
     },
     {
       "added_at": "2023-04-26 17:59:01",
@@ -241,26 +269,6 @@
       "url": "https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY"
     },
     {
-      "added_at": "2023-04-26 17:59:01",
-      "album": {
-        "name": "age tape 3",
-        "url": "https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        },
-        {
-          "name": "Allen Haley",
-          "url": "https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb"
-        }
-      ],
-      "duration_ms": 154787,
-      "name": "serotonin highs (feat. Allen Haley)",
-      "url": "https://open.spotify.com/track/20GbyJrUmAAZIt2x180YUF"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
@@ -295,6 +303,26 @@
       "duration_ms": 160676,
       "name": "OUT OF MY MIND",
       "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
+    },
+    {
+      "added_at": "2023-04-17 16:20:33",
+      "album": {
+        "name": "Who's Taking You Home",
+        "url": "https://open.spotify.com/album/6du4ktHaeE4Ot5dpDh57ya"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 162892,
+      "name": "Who's Taking You Home",
+      "url": "https://open.spotify.com/track/0eezrc1XfAfhceVFRXdiY4"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -969,26 +997,6 @@
       "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
-      "added_at": "2023-01-06 16:32:55",
-      "album": {
-        "name": "Chirp",
-        "url": "https://open.spotify.com/album/0HM18dhYH5jMz3SPZ2p9Fo"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        }
-      ],
-      "duration_ms": 134826,
-      "name": "Chirp",
-      "url": "https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "That's What I Get",
@@ -1471,22 +1479,6 @@
       "duration_ms": 184285,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "villains",
-        "url": "https://open.spotify.com/album/11VKtnnjZ81tDFAoB5u412"
-      },
-      "artists": [
-        {
-          "name": "PmBata",
-          "url": "https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw"
-        }
-      ],
-      "duration_ms": 153926,
-      "name": "villains",
-      "url": "https://open.spotify.com/track/0eaWFvBi1kPbhKgvOx0Adz"
     },
     {
       "added_at": "2022-09-09 04:00:00",

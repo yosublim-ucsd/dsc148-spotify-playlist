@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 135000,
       "name": "Energy (feat. DJ Obi)",
       "url": "https://open.spotify.com/track/3EklQCmvvd8kjZ5YtGoXnF"
@@ -2270,6 +2270,24 @@
       "duration_ms": 151304,
       "name": "Koma",
       "url": "https://open.spotify.com/track/05QBSYagui3cfuxySqprhx"
+    },
+    {
+      "album": {
+        "name": "YUSFUL MUSIC",
+        "url": "https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197916,
+      "name": "komplete riddim",
+      "url": "https://open.spotify.com/track/1n4ddwMC0TWGuVSpA4XwK6"
     },
     {
       "album": {
@@ -3491,6 +3509,28 @@
     },
     {
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180745,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
+    },
+    {
+      "album": {
         "name": "Sip (Alcohol)",
         "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
@@ -3542,7 +3582,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 206775,
       "name": "Snapchat",
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"

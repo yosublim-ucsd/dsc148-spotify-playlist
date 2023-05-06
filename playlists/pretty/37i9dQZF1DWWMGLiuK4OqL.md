@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,281 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,419 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 149 | [I Cried For You](https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Piano Duets](https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd) | 3:28 |
 | 150 | [Join Me in a Dream](https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:33 |
 
-Snapshot ID: `MCwzMWE5OTkxMDgxOTUyMWY2YWRkZDQwNWMwYzdhMjYwYzAwYzc4YWY0`
+Snapshot ID: `MCwyN2RmMDQwNzJkMjczODg2YWUyOTk1YWYzNDUwNzJmOTdjMzQ4MDFk`

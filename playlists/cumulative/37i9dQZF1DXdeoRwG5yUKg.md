@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-148 songs - 10 hr 17 min
+149 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [How Many Tears](https://open.spotify.com/track/3d8ZtqYPchg3dY05IpPNIM) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [How Many Tears](https://open.spotify.com/album/3PP99enC9m8vnlM5FJST6X) | 3:32 | 2021-04-09 | 2022-07-29 |
 | [How Many Tears](https://open.spotify.com/track/4hYjPSFmCPeYL8JGinnD4N) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [Wide Awake](https://open.spotify.com/album/2b7MbvztGNG6i21VrDclME) | 3:32 | 2021-04-09 |  |
 | [How Many Times?](https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [How Many Times?](https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK) | 4:45 | 2022-11-11 |  |
+| [I Found A Place In My Heart](https://open.spotify.com/track/2JMcnVo0GurJvj5BF6APuY) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [I Found A Place In My Heart](https://open.spotify.com/album/6gQRIuxmGLeFzNCbJF4kM5) | 3:05 | 2023-05-05 |  |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/4FcpPf53TWKOrsdfX9pA5O) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Blue Again](https://open.spotify.com/album/5mIuCWBG1unPCj6YKTF16O) | 5:38 | 2020-11-05 |  |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/7FUqdSCIFQCNdaX3bGXfw8) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Blue Again](https://open.spotify.com/album/0pLAn8grfMFtJoKU310Etx) | 5:38 | 2020-11-05 | 2022-07-29 |
 | [I'm Gonna Find Another You](https://open.spotify.com/track/2KbKSPA3oHnZGlreYLGA92) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/6feeQj5H1QIpt1y17F1jJG) | 2:39 | 2020-11-05 | 2022-07-29 |

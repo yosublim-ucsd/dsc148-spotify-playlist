@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Always Believed",
+        "url": "https://open.spotify.com/album/2slp7A7kwstJKJrg6hTWpu"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350075,
+      "name": "Always Believed",
+      "url": "https://open.spotify.com/track/3gaIIBUh8npzwh1ObuEVdM"
+    },
+    {
+      "album": {
         "name": "Amigdala",
         "url": "https://open.spotify.com/album/1pT0i5maf1yNOLrDhfUfR9"
       },
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 386666,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/19MYFJHlTK4bUn3wYEl3TO"
@@ -5615,6 +5633,24 @@
     },
     {
       "album": {
+        "name": "Notre Dame",
+        "url": "https://open.spotify.com/album/7HvUdTTSn9818mPuwkHIOf"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Notre Dame - Original Mix",
+      "url": "https://open.spotify.com/track/2XCfdXbtoqVTXxw3vIOGTo"
+    },
+    {
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA"
       },
@@ -5996,7 +6032,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 342773,
       "name": "Plan of Escape",
       "url": "https://open.spotify.com/track/216VaEa5u8Z90Ql8WrySsZ"
@@ -6388,6 +6424,24 @@
       "duration_ms": 401165,
       "name": "Reddo",
       "url": "https://open.spotify.com/track/6TDGXhuLnKwiSQ5WxRufAo"
+    },
+    {
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/2cX4zlGQSTwgL6b2ia98m6"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373026,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/4prvj25xjRhb9LkXOFjGhH"
     },
     {
       "album": {
@@ -8283,6 +8337,24 @@
     },
     {
       "album": {
+        "name": "Touch The Darkness",
+        "url": "https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453333,
+      "name": "Touch The Darkness",
+      "url": "https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3"
+    },
+    {
+      "album": {
         "name": "Toxic People",
         "url": "https://open.spotify.com/album/3RaHkhI4pg1nM0q7AmMqL7"
       },
@@ -8668,7 +8740,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 321176,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/4b4rqSQbfSnUKESuj49BQT"
@@ -9186,7 +9258,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 425290,
       "name": "XXL",
       "url": "https://open.spotify.com/track/2upd6rVgXLQzVEZg3aZgim"

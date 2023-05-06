@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Kingfishr
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,772 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,775 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [I Want You](https://open.spotify.com/track/64CWn4kbgfghtleoVRhnSJ) | [Ria Rua](https://open.spotify.com/artist/5MDQCswurtJyl1bigqfzki) | [I Want You](https://open.spotify.com/album/0TW1BwEEMw421oSTnkES3C) | 3:49 |
 | 80 | [0101](https://open.spotify.com/track/3WN5rtYKalSLobWAtEQ51m) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7), [t l k](https://open.spotify.com/artist/1i3lco9WAy7YqKzCIc3Ahd) | [Chapters](https://open.spotify.com/album/7ccvGMcywqBQXxSZ4vXkFX) | 3:52 |
 
-Snapshot ID: `MCxjYjQxZDgwZjhjZmY2ZGEwMDM4ZGRiOWJiYzI2NjE0YmE1YjA5NDAx`
+Snapshot ID: `MCxhMjJlY2JlNDRmNTEwZDUyNDcyNmUzMjBjYjI3ZTZjMWMxZGI5YTE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 
 > Éxitos del Regional Mexicano de ayer y hoy para acompañarte en la troca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,887 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,172 likes - 150 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 | 149 | [No Se Vuelve A Repetir](https://open.spotify.com/track/5S8bGN62F8XQfZo26caGjv) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Se Vuelve A Repetir](https://open.spotify.com/album/1LwEYfRvKkCQY1KojHlRYE) | 3:14 |
 | 150 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 |
 
-Snapshot ID: `MCwzODIwMWM0NTdjNmQ5NmNlMTI3ZTJhMDU5YjVhOTlhNjU0MzY0Mjk2`
+Snapshot ID: `MCwzMzNiNWNlNmZhYzQwNjRiMzlkZTIyZjE5MjRjOGM2NzQ3YTkyMWU0`

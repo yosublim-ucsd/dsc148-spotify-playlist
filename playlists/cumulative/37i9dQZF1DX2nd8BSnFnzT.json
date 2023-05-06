@@ -3091,6 +3091,28 @@
     },
     {
       "album": {
+        "name": "Mais um Podcast",
+        "url": "https://open.spotify.com/album/5aMGEksFkMsVeEJjkR3P3N"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        },
+        {
+          "name": "Ugo Ludovico",
+          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159729,
+      "name": "Mais um Podcast",
+      "url": "https://open.spotify.com/track/6H3aGsBZRZcrhruCIVndV7"
+    },
+    {
+      "album": {
         "name": "Mais um S\u00e1bado Perdido",
         "url": "https://open.spotify.com/album/2RnAXXsGewXhBgdqeiFf99"
       },
@@ -3464,7 +3486,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 359140,
       "name": "Na Hora Do Almo\u00e7o / A Palo Seco",
       "url": "https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby"

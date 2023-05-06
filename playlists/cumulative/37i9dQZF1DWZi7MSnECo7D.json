@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: \u00c0IY\u00c9 ",
+  "description": "Novidades e destaques do indie nacional. Foto: Tangerim ",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 188647,
       "name": "Certeza Absoluta",
       "url": "https://open.spotify.com/track/2l3DoB4RLzkjZ4VQHLstzI"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 195942,
       "name": "Chega",
       "url": "https://open.spotify.com/track/1LmFgUhpIEjwWRqWTkw77M"
@@ -1840,6 +1840,28 @@
       "duration_ms": 193950,
       "name": "Desejos de um Le\u00e3o",
       "url": "https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U"
+    },
+    {
+      "album": {
+        "name": "Destello",
+        "url": "https://open.spotify.com/album/5JQxK89YLJr75ZNykjUwEL"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        },
+        {
+          "name": "Tagua Tagua",
+          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220344,
+      "name": "Destello",
+      "url": "https://open.spotify.com/track/5ODNx60tIgYLzgwTFX1g9w"
     },
     {
       "album": {
@@ -2745,6 +2767,42 @@
     },
     {
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1uCiWf182CcKW1iN3tDfJQ"
+      },
+      "artists": [
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207446,
+      "name": "Fragmentos",
+      "url": "https://open.spotify.com/track/5RC7xO3f185S5s8qxlSt1h"
+    },
+    {
+      "album": {
+        "name": "Frutas",
+        "url": "https://open.spotify.com/album/4GXAxNN4YzQsUPvxDUcNhd"
+      },
+      "artists": [
+        {
+          "name": "alici",
+          "url": "https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202393,
+      "name": "Frutas",
+      "url": "https://open.spotify.com/track/5X8Mv7ksfj4mEo2yyOwmK6"
+    },
+    {
+      "album": {
         "name": "Fruto Bruto",
         "url": "https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin"
       },
@@ -3018,6 +3076,24 @@
       "duration_ms": 250786,
       "name": "Infame",
       "url": "https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe"
+    },
+    {
+      "album": {
+        "name": "Inimigo do Fim",
+        "url": "https://open.spotify.com/album/2Bj3pd03x4NY9uCe17U0B7"
+      },
+      "artists": [
+        {
+          "name": "Tangerim",
+          "url": "https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160853,
+      "name": "Inimigo do Fim",
+      "url": "https://open.spotify.com/track/1eJ8RTAsQi5tdxQKWR3e1V"
     },
     {
       "album": {
@@ -5974,7 +6050,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 181858,
       "name": "Sigo dizendo sim",
       "url": "https://open.spotify.com/track/4xEjI6ZKVUVTZBDFAKljJx"
@@ -6686,7 +6762,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 179333,
       "name": "Tudo que eu n\u00e3o fa\u00e7o",
       "url": "https://open.spotify.com/track/46BFqbGaJ0pC8FOYX68qR2"
@@ -7144,7 +7220,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 195200,
       "name": "Voc\u00ea",
       "url": "https://open.spotify.com/track/3b6IgM70DasoHSQ2NQbgfR"
@@ -7294,6 +7370,24 @@
       "duration_ms": 211655,
       "name": "VOU TE CONVIDAR",
       "url": "https://open.spotify.com/track/0nGfP61h8yHToSYiXnngXi"
+    },
+    {
+      "album": {
+        "name": "vou te respirar",
+        "url": "https://open.spotify.com/album/58fSX5594JIk1O5wHICbd6"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138578,
+      "name": "vou te respirar",
+      "url": "https://open.spotify.com/track/1Tz1iLZ557WeHvf7tYHe6Z"
     },
     {
       "album": {

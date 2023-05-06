@@ -8236,7 +8236,7 @@
     {
       "album": {
         "name": "This Time Tomorrow",
-        "url": "https://open.spotify.com/album/4oj20OCf2PsnZYOniBjacV"
+        "url": "https://open.spotify.com/album/3efIhVkzBPxJnYHVy2me9S"
       },
       "artists": [
         {
@@ -8247,6 +8247,24 @@
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 129625,
+      "name": "This Time Tomorrow",
+      "url": "https://open.spotify.com/track/4Eivcpu9MoHaEvYLJ9fV4k"
+    },
+    {
+      "album": {
+        "name": "This Time Tomorrow",
+        "url": "https://open.spotify.com/album/4oj20OCf2PsnZYOniBjacV"
+      },
+      "artists": [
+        {
+          "name": "Evergreen Dream",
+          "url": "https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
       "duration_ms": 129625,
       "name": "This Time Tomorrow",
       "url": "https://open.spotify.com/track/5acLw8ejNDk15x0qr4ys9D"

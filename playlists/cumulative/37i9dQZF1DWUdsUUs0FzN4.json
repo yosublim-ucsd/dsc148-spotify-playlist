@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Con licuachela en mano y perreando hasta el piso. L-Gante en portada. ",
+  "description": "Con licuachela en mano y perreando hasta el piso. Chencho Corleone en portada ",
   "name": "Perreo Bellakoso",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 113831,
       "name": "23",
       "url": "https://open.spotify.com/track/4jlDZhdrDYzeVIjx0tklrM"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 173195,
       "name": "Flow Soltera",
       "url": "https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 160714,
       "name": "Jugando con la Nieve",
       "url": "https://open.spotify.com/track/6HnlIqJUzp4kv4QvPzolem"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187580,
       "name": "La Mano (feat. Tavo Rayo)",
       "url": "https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 169142,
       "name": "Lo Que Pas\u00f3 Ayer",
       "url": "https://open.spotify.com/track/2RSkodSjQbhRKbozUWLe6u"
@@ -2012,6 +2012,28 @@
       "duration_ms": 164210,
       "name": "LOS CULOS DE MEDALLO",
       "url": "https://open.spotify.com/track/2CvfXjMfoheLIdjlkIBjXA"
+    },
+    {
+      "album": {
+        "name": "Maldades",
+        "url": "https://open.spotify.com/album/7uJRnxKIlIfh29O7EGCVkX"
+      },
+      "artists": [
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Maldades",
+      "url": "https://open.spotify.com/track/6C8XeTHHVoqNEgg20x4J1t"
     },
     {
       "album": {
@@ -2320,7 +2342,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "M\u00e1s Tarde - Remix",
       "url": "https://open.spotify.com/track/6RE8xvoIrJSBQGPSC6V3mr"
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 212630,
       "name": "Pal Bellakeo",
       "url": "https://open.spotify.com/track/3HNJzcAtMDkmyjcIP4AekL"
@@ -2947,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "Pornostar",
+        "url": "https://open.spotify.com/album/446Fo4BuciXurBjxyXbSNZ"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Remix",
+          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190999,
+      "name": "Pornostar",
+      "url": "https://open.spotify.com/track/5nSLXMzZlOBTy8g8ogX6s8"
+    },
+    {
+      "album": {
         "name": "Prende y Fuma",
         "url": "https://open.spotify.com/album/5LpJAVFzv017KcuUppdoj8"
       },
@@ -3285,6 +3325,28 @@
     },
     {
       "album": {
+        "name": "Sabes",
+        "url": "https://open.spotify.com/album/3Ntn7x1ExfBPzgtBEEQWPB"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Karely Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0gADqrzsPZ7MgRsyvToWuC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222068,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/24lfgBbcrVKe3njykuW89K"
+    },
+    {
+      "album": {
         "name": "Saca",
         "url": "https://open.spotify.com/album/5uObXIxpN6BcyH3LJRKEPy"
       },
@@ -3596,7 +3658,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 237720,
       "name": "S\u00fabelo & B\u00e1jalo",
       "url": "https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO"
@@ -3911,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+    },
+    {
+      "album": {
         "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
         "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
       },
@@ -3966,7 +4046,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 164210,
       "name": "Vota X Mi",
       "url": "https://open.spotify.com/track/7wJCRaV0z6Ca9b4YjP04wf"
@@ -4080,6 +4160,28 @@
       "duration_ms": 146938,
       "name": "\u00d1ero Session 2",
       "url": "https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 3",
+        "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jencko el Shinobi",
+          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168293,
+      "name": "\u00d1ero Session 3",
+      "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4"

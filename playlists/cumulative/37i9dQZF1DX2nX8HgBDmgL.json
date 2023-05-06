@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "THE BRIDGE",
+        "url": "https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN"
+      },
+      "artists": [
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191881,
+      "name": "BORN TO WIN",
+      "url": "https://open.spotify.com/track/0PxAEK8LM9eE6tO5LaDEcQ"
+    },
+    {
+      "album": {
         "name": "Challa - Spotify Singles",
         "url": "https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J"
       },
@@ -390,7 +408,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 283902,
       "name": "Challa - Spotify Singles",
       "url": "https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm"
@@ -654,6 +672,28 @@
       "duration_ms": 182400,
       "name": "Dhundhala",
       "url": "https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ"
+    },
+    {
+      "album": {
+        "name": "Dilawara",
+        "url": "https://open.spotify.com/album/6Q9uRhFdTKxWGItb71JcQh"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        },
+        {
+          "name": "Ezu",
+          "url": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222827,
+      "name": "Dilawara",
+      "url": "https://open.spotify.com/track/1C6auFaK08OhOTJ8bfrAiG"
     },
     {
       "album": {
@@ -1898,6 +1938,24 @@
       "duration_ms": 212928,
       "name": "Phone",
       "url": "https://open.spotify.com/track/6MRuNaMaH65vGyek33fXMV"
+    },
+    {
+      "album": {
+        "name": "Pom Pom",
+        "url": "https://open.spotify.com/album/47CMdZRR1r8LSnePdeKB8d"
+      },
+      "artists": [
+        {
+          "name": "Ezu",
+          "url": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174817,
+      "name": "Pom Pom",
+      "url": "https://open.spotify.com/track/0QvUIiUqzI0kcjMdbUhThY"
     },
     {
       "album": {

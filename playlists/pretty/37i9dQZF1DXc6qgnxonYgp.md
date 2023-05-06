@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6qgnxonYgp.md) - [plain]
 
 > Featuring today's dopest MCs.<br/>Cover : ADK
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,088 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,094 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6qgnxonYgp.md) - [plain]
 | 74 | [SUPERSTAR](https://open.spotify.com/track/5HUbuhPO54I6iEQrpmOLoJ) | [Emzy Shady](https://open.spotify.com/artist/3kNgX4u7lDyGcp1cK9osEQ), [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Kxngxta](https://open.spotify.com/artist/1PZUOVm0y4rZsnhRAFeQbC) | [SUPERSTAR](https://open.spotify.com/album/0WJLJJL367rGzVyUHSqjg8) | 2:55 |
 | 75 | [Stable In The Game](https://open.spotify.com/track/0oiDqLcaMEctgI7iAyC9No) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Stable In The Game](https://open.spotify.com/album/3tXYv2pduUPMu2ztvYnu4u) | 3:23 |
 
-Snapshot ID: `MCxjYmUzZTkwY2Y1NDQ3M2Q3ZjRmMjYxZWIxNjkxYzhjZDQ2NWFmN2I2`
+Snapshot ID: `MCxiNDE5MjNhYWNkYmFmYTlmZjIwNDM1OTY2OWM5NDI5YTgzZDg2Y2Jm`

@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Lauren Morrow
 
-150 songs - 9 hr 8 min
+151 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Mercy](https://open.spotify.com/track/0ZewwU3gkgXbYr0ixnDco4) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Mercy](https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl) | 4:02 | 2022-01-28 |  |
 | [Mercy](https://open.spotify.com/track/4w0QzyomWJrHmSTa5e4ewe) | [Zelly](https://open.spotify.com/artist/1qM5w3OHdjYkPRQi7pKM4F) | [Mercy EP](https://open.spotify.com/album/5vz8G9TxA2WmQuiClujyp8) | 3:09 | 2022-01-28 |  |
 | [Middle of a Heart](https://open.spotify.com/track/1bNPHWCDOGQMrzKHja2927) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Middle of a Heart](https://open.spotify.com/album/5vzJc5UkAhd1GZvJpM0ODL) | 4:00 | 2022-10-14 |  |
+| [Never Be Another You](https://open.spotify.com/track/6UsLgUJiWSop2SjSqQuoBu) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4) | [Never Be Another You](https://open.spotify.com/album/7ABeZH6hlS5VXmRgakp1ys) | 3:29 | 2023-05-05 |  |
 | [New Light](https://open.spotify.com/track/3eTXEabmUmHcTbx6d9u1nq) | [Ava Earl](https://open.spotify.com/artist/4PouHBQ1thPvzhfP1LsSAQ) | [The Roses](https://open.spotify.com/album/1Qr5eJnPsGtPRVliGuqkTI) | 3:24 | 2022-01-28 |  |
 | [No More Candy](https://open.spotify.com/track/1TRwhlZHJVd6kgFu1SgzQ7) | [Cash & Skye](https://open.spotify.com/artist/0ZwK1LsLZvFbhLU6OycrhO) | [No More Candy](https://open.spotify.com/album/2o0u8HkyHrQfy4mrD3JZjJ) | 2:50 | 2022-01-28 |  |
 | [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 | 2023-03-31 |  |

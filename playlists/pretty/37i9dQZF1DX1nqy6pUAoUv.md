@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,525 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,548 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [He Calls Me River](https://open.spotify.com/track/1Sq7OyYJTqTM15QhjrJxIg) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg) | 3:27 |
 | 100 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 |
 
-Snapshot ID: `MCwyMzE1ODM4YjRiMDEzZWE1YWU5NjI3YWQ2YzJjZTRhNGJkNTdmYTQz`
+Snapshot ID: `MCwzODUwM2UzZGUxMjA4NzdkY2NmOGMyNzkwMzMyN2Y5YTU5OGM4Yzgx`

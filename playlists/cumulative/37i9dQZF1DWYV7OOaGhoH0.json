@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Joy Oladokun \n",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Nathaniel Rateliff & The Night Sweats\n",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 238300,
       "name": "100 Proof",
       "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
+    },
+    {
+      "album": {
+        "name": "4runner",
+        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265453,
+      "name": "4runner",
+      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
     },
     {
       "album": {
@@ -1139,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Buy My Round",
+        "url": "https://open.spotify.com/album/2IWnXOBRdLybyCc4HgogCu"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264799,
+      "name": "Buy My Round",
+      "url": "https://open.spotify.com/track/2MhTrtRPIIZoVuXQFjyeSx"
+    },
+    {
+      "album": {
         "name": "By and By",
         "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
@@ -1662,7 +1698,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210666,
       "name": "Dance with Everybody",
       "url": "https://open.spotify.com/track/7qNIz2zkEnSjnDPuo10HEr"
@@ -2222,7 +2258,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
@@ -4840,7 +4876,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 234156,
       "name": "Quietly Yours",
       "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
@@ -5848,10 +5884,50 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 221320,
       "name": "That's How I Got To Memphis",
       "url": "https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa"
+    },
+    {
+      "album": {
+        "name": "That's On You, That's On Me",
+        "url": "https://open.spotify.com/album/5Ry6LXvOutD0knHfrZr0y0"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "That's on You, That's on Me",
+      "url": "https://open.spotify.com/track/4NKrrhHXSyobZHMImI9izz"
+    },
+    {
+      "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "album": {

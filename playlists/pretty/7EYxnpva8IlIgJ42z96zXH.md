@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,516 likes - 50 songs - 2 hr 25 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,519 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 49 | [All I Ever](https://open.spotify.com/track/5g5ImAyBj1AZpRFspFIJWt) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [All I Ever EP](https://open.spotify.com/album/3nRODdh5F8Wn2NDp8qKzXa) | 2:52 |
 | 50 | [Gucci](https://open.spotify.com/track/4UQuyiposzTgE7uOQM2DBB) | [J Bookey](https://open.spotify.com/artist/2fnWn2arMNwYLP2OURItc2) | [Gucci](https://open.spotify.com/album/1E1Nsxo1DndfMRIsmhtVm7) | 3:02 |
 
-Snapshot ID: `MjU3MixjYTdjMTYyZDZjYjVlZmI0NTI4ZjYzZGJkNmQyODYzYWU1ODYzODkw`
+Snapshot ID: `MjU3NCwxNDY4OGZhYzVlOTY5MDljMDAzNDlmMmZmMDYwYzRmNjYwMmI3NzVk`

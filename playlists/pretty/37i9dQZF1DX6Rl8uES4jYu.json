@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 241157,
+  "num_followers": 241148,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzVmZDVjNGUzY2NhZTAxNGUzNDAyMjA0ZThhOWQ4YmM5ZDliNjFj",
+  "snapshot_id": "MCw5YmIxY2NkMGZiNzQxNWQxNTk5YzdhYjgxM2U1NTkxODQwNWRlZDFl",
   "tracks": [
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Love Is The New Money",
+        "url": "https://open.spotify.com/album/6yg9aXhK3IhmiCD7RZ469S"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 150704,
+      "name": "Love Is The New Money",
+      "url": "https://open.spotify.com/track/6SQzw4ZppE6ahHRAtkLvU4"
+    },
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
@@ -1791,22 +1807,6 @@
       "duration_ms": 194498,
       "name": "Lunar Eclipse",
       "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
-    },
-    {
-      "added_at": "2022-07-12 18:25:04",
-      "album": {
-        "name": "Kids Are Born Stars",
-        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Kids Are Born Stars",
-      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
     }
   ],
   "unique_name": "Ready for the Day",

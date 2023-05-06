@@ -10198,7 +10198,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 156000,
       "name": "Jednou nohou tam",
       "url": "https://open.spotify.com/track/2EQ3fUf1zjUXmGAg5pnaWK"
@@ -18684,6 +18684,24 @@
       "duration_ms": 176867,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
+    },
+    {
+      "album": {
+        "name": "Barvy",
+        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211891,
+      "name": "Rozd\u011blen\u00fd sv\u011bty",
+      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
     },
     {
       "album": {

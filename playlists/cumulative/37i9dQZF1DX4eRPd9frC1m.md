@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-266 songs - 14 hr 38 min
+267 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [FOOTWORK](https://open.spotify.com/track/1LDAyB24s26kvMt6hXFBks) | [Dropwizz](https://open.spotify.com/artist/3t4Po0hp4Vi8XqKipK3WJQ) | [FOOTWORK](https://open.spotify.com/album/0oi8NQS13uy43aHcy3xSFi) | 3:53 | 2021-11-19 | 2022-01-08 |
 | [Forever](https://open.spotify.com/track/0gWQBwxwQRum86Rx4DaDHL) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Forever](https://open.spotify.com/album/3NkRNGqhU0WONr1ob77DKD) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [FUCK IT UP](https://open.spotify.com/track/5s5Iv5IJ0hz0KDLXi14jRY) | [M?STIC](https://open.spotify.com/artist/0xlnHj0LM8ohKxoVEu56L4), [808GONG](https://open.spotify.com/artist/0JjEnXvT2nZMKYGmkZY5qC), [KEWL JERK](https://open.spotify.com/artist/0OCxBT7jOo0arczn7H4aKT) | [FUCK IT UP](https://open.spotify.com/album/3lnshycm7c7Kv24RpPTXWb) | 2:53 | 2021-11-19 | 2022-01-08 |
-| [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-27 |  |
+| [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-27 | 2023-05-06 |
 | [Gainz](https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU) | [Deadlyft](https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY) | [Gainz](https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr) | 3:53 | 2021-11-19 |  |
 | [Gang Shit](https://open.spotify.com/track/2dDDwAvdVHHNTnfRFzGMgK) | [Dotcom](https://open.spotify.com/artist/3mS6BpiviqsTL1uuYghf3s), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Gang Shit](https://open.spotify.com/album/5mQTotzqXAyEpQXiWrXaDV) | 3:20 | 2021-11-19 | 2022-01-08 |
 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 | 2022-01-07 |  |
@@ -166,6 +166,7 @@
 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 | 2023-01-06 |  |
 | [Oceans & Galaxies](https://open.spotify.com/track/5NQKpa6uCqZcaFkAbUK4XB) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Oceans & Galaxies](https://open.spotify.com/album/68ktA77AGDVlrifYU53GzL) | 3:20 | 2021-11-19 | 2022-06-04 |
 | [Old School](https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Old School](https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk) | 2:19 | 2023-02-24 |  |
+| [One Three Nine](https://open.spotify.com/track/3fDASogRbq1vEZGLFcN9QA) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [One Three Nine](https://open.spotify.com/album/1NZ4fJ0HxdQ4L4X418SpLi) | 2:48 | 2023-05-05 |  |
 | [Outta Here](https://open.spotify.com/track/2FAtvwUovZe4rx2xFgq19O) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Outta Here](https://open.spotify.com/album/45ftOGlHABO8dnOPjH9Q7s) | 4:00 | 2021-11-19 | 2022-01-08 |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-04-22 | 2022-07-29 |
 | [Paint Drippin'](https://open.spotify.com/track/4PVmcL4fRgOWjHYx9VYxD0) | [Elderbass](https://open.spotify.com/artist/282rYedOk9KV25lJ3HRSfR) | [Paint Drippin'](https://open.spotify.com/album/5OX6mZLSjHCPCn5UJcQ3hy) | 3:08 | 2021-11-19 | 2022-01-08 |

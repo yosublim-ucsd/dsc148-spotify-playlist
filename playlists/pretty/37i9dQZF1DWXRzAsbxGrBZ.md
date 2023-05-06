@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,841 likes - 50 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,953 likes - 50 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Push It](https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [Let It Rain](https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X) | 7:56 |
 | 50 | [7 Steps \- Soulcalmic Mingle](https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [7 Steps \(Soulcalmic Mingle\)](https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8) | 5:33 |
 
-Snapshot ID: `MCxiZGJjZTYzOTBiZjVmOTEwNjY0ZTI1ODM5NDA5NjJlNGRkODU2NWVm`
+Snapshot ID: `MCw1ZDEwOWU1YzlmODk5MTJkZmQ3MmQ1Mzk3MjNhYTgyNGQyMzBkMmFm`

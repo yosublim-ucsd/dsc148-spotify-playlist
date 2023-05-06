@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,444 likes - 150 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,717 likes - 150 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [In My Head](https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM) | 2:55 |
 | 150 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/6V6gP9CIMr1GmyzhvzknOv) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Surrounded \(Fight My Battles\)](https://open.spotify.com/album/34Wo5KdLAnaF6LxMFQGOz0) | 3:00 |
 
-Snapshot ID: `MCw0YjI2YTMyOTg3OTQ5NTY4YzQyODAzYzhiYjQyZGY1NTMxY2ZiNWUx`
+Snapshot ID: `MCw3M2RhODE2MjNmMzA0MjEzZmYxNGNjNjkxNTQ1MDEwZTRjOTNkOWZi`

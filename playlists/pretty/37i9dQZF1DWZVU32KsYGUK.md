@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style background music for chill dinner ambiance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,782 likes - 205 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,804 likes - 205 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 64 | [momento](https://open.spotify.com/track/0jc45ayOCYylnDYe7XLxGR) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [momento](https://open.spotify.com/album/1gHpdRJRGaIkk9CoUV7B97) | 2:04 |
 | 65 | [My beloved](https://open.spotify.com/track/0RG3MSnGOZLDB7ksmWlzDc) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [My beloved](https://open.spotify.com/album/6ucqRTMn10VOvWl55D0wxz) | 2:25 |
 | 66 | [Sorrisi](https://open.spotify.com/track/5Sies2EfN1e7CNHhfaAq8g) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Girasole](https://open.spotify.com/album/6D63OsGo4i9O0wZ4h15Eoa) | 2:27 |
-| 67 | [Gjeilo: Sun Prelude](https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Sun Prelude](https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK) | 2:34 |
+| 67 | [Sun Prelude](https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Sun Prelude](https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK) | 2:34 |
 | 68 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 |
 | 69 | [I Am Here](https://open.spotify.com/track/6pXYmnJROexnkjfPZU8QEA) | [Soetkin Milbouw](https://open.spotify.com/artist/1QRCe2LSWp2iLzLycqzsWO) | [I Am Here](https://open.spotify.com/album/5attuLLTFRoKJCQb4BFgjh) | 2:43 |
 | 70 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 |
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 154 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 |
 | 155 | [Montmarte](https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:03 |
 | 156 | [Finito](https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Finito](https://open.spotify.com/album/1zrmFxQTfjPUoEZepbJaSS) | 2:42 |
-| 157 | [Moux: avenue des reves](https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [avenue des reves](https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp) | 2:11 |
+| 157 | [avenue des reves](https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [avenue des reves](https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp) | 2:11 |
 | 158 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 |
 | 159 | [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 |
 | 160 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 204 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 |
 | 205 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MCxjNTk3MzViMmFiYWI0MjA4Mjc2Mzg2OGFhYTdhMzNmNjhiMmJkYjc2`
+Snapshot ID: `MCw1OTdiNjFhMDgxMjJmZDgwNDlkMjllZGZiZGZjM2M0OTk1YWM2MTU5`

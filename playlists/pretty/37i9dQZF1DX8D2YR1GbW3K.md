@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,187 likes - 125 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,332 likes - 125 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [U](https://open.spotify.com/track/7ej6hXuIvbHAz5tKRikMi1) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Drive](https://open.spotify.com/album/0xt7caaIpRnFVyCHcl4zsW) | 4:20 |
 | 125 | [Million Voices \- Extended Original Mix](https://open.spotify.com/track/70R53Oq9IegG1kwhxo2Lxm) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 5:57 |
 
-Snapshot ID: `MCxmY2Y0NTA3Mjg1N2ZhMDVkOGM3MzQwMGM1MjVjZGIwZWQxZjNiODRh`
+Snapshot ID: `MCxmYTQ3MzU0MDAyYmUwYzJlNTk2NDVmODFiNThmNDE4YWQ2NDhiYTNh`

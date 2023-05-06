@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,927 likes - 70 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,220 likes - 70 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 |
 | 70 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Preciso de Ti \- Diante do Trono 4 \(Ao Vivo\)](https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN) | 15:19 |
 
-Snapshot ID: `MCw2NWQ0NWRhMzc3NjUxMmMxOGE3NzVlODhlY2Q2MWE2MzZiZTEzOTI1`
+Snapshot ID: `MCxkMzA0YzkxYTg4MDAwMThkNzBmMWY4ZWVhNmJiOGY5Njk1Y2Y1MWQ3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Zinadelphia",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Sadie Jean",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 220430,
       "name": "Almost Loved You",
       "url": "https://open.spotify.com/track/1gCIGVbF00N5toEK0TEmWr"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 182296,
       "name": "Broken English",
       "url": "https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z"
@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5KEfMWnIzvVRaDZtHdrpkb"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167301,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2e9OcSUPm48Eo1JqGf9z0b"
+    },
+    {
+      "album": {
         "name": "Easy Love",
         "url": "https://open.spotify.com/album/3ZjApkMiuqIxvsZbEGCo0o"
       },
@@ -2793,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "handgun",
+        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173446,
+      "name": "handgun",
+      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
+      "album": {
         "name": "Happening Again",
         "url": "https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM"
       },
@@ -3366,7 +3402,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 189525,
       "name": "I Don't Do Anything",
       "url": "https://open.spotify.com/track/5sEw7zJzxgMzmLqE3Ov4XT"
@@ -3881,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "In Plain Sight",
+        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156802,
+      "name": "In Plain Sight",
+      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
+    },
+    {
+      "album": {
         "name": "In The Kitchen",
         "url": "https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q"
       },
@@ -3950,6 +4004,24 @@
       "duration_ms": 202066,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/4jFWWwXkW037NJvLuZs9Kj"
+    },
+    {
+      "album": {
+        "name": "Introverted",
+        "url": "https://open.spotify.com/album/2uZ4tlQGq0AAhNvhYQp7pm"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240186,
+      "name": "Introverted",
+      "url": "https://open.spotify.com/track/23hY0BOxI8uDhVxxKtStBE"
     },
     {
       "album": {
@@ -4040,6 +4112,24 @@
       "duration_ms": 139655,
       "name": "July (Later On)",
       "url": "https://open.spotify.com/track/4aOn1poQUctDNYifxmgK61"
+    },
+    {
+      "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "album": {
@@ -4324,7 +4414,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 164081,
       "name": "Locksmith",
       "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
@@ -4414,7 +4504,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 195893,
       "name": "Lose a Friend",
       "url": "https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd"
@@ -4908,6 +4998,24 @@
       "duration_ms": 135332,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1502aGzxNUgwcv2r1rG91S"
+    },
+    {
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2"
+      },
+      "artists": [
+        {
+          "name": "Isaac Stuart",
+          "url": "https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201515,
+      "name": "Midnight Train From Marylebone",
+      "url": "https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o"
     },
     {
       "album": {
@@ -5834,6 +5942,24 @@
       "duration_ms": 162135,
       "name": "Rocket Science",
       "url": "https://open.spotify.com/track/7El19GVmLKoGANrPxbWSa7"
+    },
+    {
+      "album": {
+        "name": "Role Model",
+        "url": "https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133540,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz"
     },
     {
       "album": {
@@ -6990,7 +7116,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 165080,
       "name": "The Day That I Met You",
       "url": "https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1"
@@ -7502,7 +7628,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174118,
       "name": "Us and Pigs",
       "url": "https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt"

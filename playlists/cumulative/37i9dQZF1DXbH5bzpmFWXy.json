@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Luis R Conriquez & Beto Sierra en portada.",
+  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eladio Carri\u00f3n & Peso Pluma en portada.",
   "name": "El Barrio MP3",
   "tracks": [
     {
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 201872,
       "name": "Clave Ali",
       "url": "https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 209367,
       "name": "Delivery",
       "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
@@ -3339,6 +3339,28 @@
     },
     {
       "album": {
+        "name": "Me Met\u00ed en el Ruedo (Remix)",
+        "url": "https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174174,
+      "name": "Me Met\u00ed en el Ruedo - Remix",
+      "url": "https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7"
+    },
+    {
+      "album": {
         "name": "Amor Y L\u00e1grimas",
         "url": "https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i"
       },
@@ -4013,6 +4035,24 @@
     },
     {
       "album": {
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
+    },
+    {
+      "album": {
         "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
         "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
       },
@@ -4299,6 +4339,28 @@
     },
     {
       "album": {
+        "name": "Querida",
+        "url": "https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf"
+    },
+    {
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -4580,7 +4642,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151594,
       "name": "Sentosa",
       "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
@@ -5668,7 +5730,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 126498,
       "name": "Whiskey Con Agua",
       "url": "https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ"
@@ -5724,6 +5786,28 @@
       "duration_ms": 201600,
       "name": "Yo Vengo de Abajo",
       "url": "https://open.spotify.com/track/4p353XbLuVSgXlwjhpKjzp"
+    },
+    {
+      "album": {
+        "name": "\u00bfCu\u00e1les Fronteras?",
+        "url": "https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u00bfCu\u00e1les Fronteras?",
+      "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
     },
     {
       "album": {

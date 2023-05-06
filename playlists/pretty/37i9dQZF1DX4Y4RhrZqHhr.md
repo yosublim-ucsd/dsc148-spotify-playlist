@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,778 likes - 200 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,812 likes - 200 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 199 | [Letting Go](https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Letting Go](https://open.spotify.com/album/6veielpwGAJ4FKG7w3q69H) | 3:12 |
 | 200 | [Bromance \- Avicii's Radio Edit](https://open.spotify.com/track/0xHQuV3c496RjG7ocxBINZ) | [Tim Berg](https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Bromance \(Remixes\)](https://open.spotify.com/album/4zQnSr3qIEuy9Wv6sOXJXY) | 3:38 |
 
-Snapshot ID: `MCwxY2Y0OGFkNDY2OGJiMTg4NmRlYzEyZTRjNWM4NjkyZmVhOTQ4Y2M2`
+Snapshot ID: `MCw2NmY2ZjkwZTI1ZWE0MmIxMWYxODlhZGRjNDI0NWJkODAzMWJmM2Qx`

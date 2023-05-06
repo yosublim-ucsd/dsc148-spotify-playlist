@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: PG
 
-98 songs - 7 hr 53 min
+99 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cadê o Amor](https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y) | [Rozeniltton](https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Cadê o Amor](https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3) | 4:33 | 2022-10-14 | 2022-11-26 |
 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 | 2022-09-02 |  |
 | [Canta Minha'alma \(Behold\) \- Live Session](https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro Henrique: Live Session {Lado B}](https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu) | 6:42 | 2022-09-02 | 2023-04-16 |
+| [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 | 2023-05-05 |  |
 | [Chega](https://open.spotify.com/track/34Ibxcbi3VvdgkJT6fDIA6) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Chega](https://open.spotify.com/album/4L3ZfTeBbooQhaYvG36rmQ) | 3:05 | 2022-09-02 | 2022-11-26 |
 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 | 2022-09-02 |  |
 | [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 | 2023-04-15 |  |
@@ -53,7 +54,7 @@
 | [Jesus é o Amigo da Hora](https://open.spotify.com/track/7aeJCG02CJAMgXjX5NmJX8) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Jesus é o Amigo da Hora](https://open.spotify.com/album/29CVx12VyXFjyNZbvC2iSW) | 3:19 | 2023-01-20 | 2023-03-04 |
 | [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 | 2022-10-07 |  |
 | [justiça, paz, alegria](https://open.spotify.com/track/0uFxeF9GqOOOlYAwHQVOjW) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY), [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4) | [justiça, paz, alegria](https://open.spotify.com/album/2xtFRJflfGl6hkMIoZ1fKS) | 4:30 | 2022-09-02 | 2022-10-08 |
-| [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 | 2022-10-14 |  |
+| [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 | 2022-10-14 | 2023-05-06 |
 | [Livre Sou](https://open.spotify.com/track/62aGtaEunlFAd8HagOBeWx) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Livre Sou](https://open.spotify.com/album/28NPgRLhM0u0UiIQnTvUKd) | 3:26 | 2023-03-24 |  |
 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 | 2022-09-02 |  |
 | [Luz \- Ao Vivo](https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Luz \(Ao Vivo\)](https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF) | 3:40 | 2022-09-02 |  |

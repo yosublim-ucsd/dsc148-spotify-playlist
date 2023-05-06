@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con George Rhoads en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Pau Laggies en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -202,6 +202,24 @@
       "duration_ms": 185217,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Para Adultos",
+        "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166246,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
     },
     {
       "album": {
@@ -628,7 +646,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 240326,
       "name": "Bolero Triste",
       "url": "https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3"
@@ -1062,6 +1080,24 @@
       "duration_ms": 148370,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+    },
+    {
+      "album": {
+        "name": "contigo me siento en casa",
+        "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171725,
+      "name": "contigo me siento en casa",
+      "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
     },
     {
       "album": {
@@ -1610,7 +1646,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 159453,
       "name": "El Club",
       "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
@@ -1632,6 +1668,28 @@
       "duration_ms": 176538,
       "name": "El Cuarto",
       "url": "https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD"
+    },
+    {
+      "album": {
+        "name": "El Principal",
+        "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "ni-hao!!!!",
+          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210187,
+      "name": "El Principal",
+      "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
     },
     {
       "album": {
@@ -1730,7 +1788,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 152960,
       "name": "Enferma Despedida",
       "url": "https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp"
@@ -2642,6 +2700,24 @@
       "duration_ms": 205160,
       "name": "Match",
       "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
+    },
+    {
+      "album": {
+        "name": "Me Caga Tu Novia",
+        "url": "https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170124,
+      "name": "Me Caga Tu Novia",
+      "url": "https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4"
     },
     {
       "album": {
@@ -3591,6 +3667,28 @@
     },
     {
       "album": {
+        "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184284,
+      "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO"
+    },
+    {
+      "album": {
         "name": "Femme Fatale",
         "url": "https://open.spotify.com/album/6wX6esnD9cfrG4WszpaE4r"
       },
@@ -4321,6 +4419,24 @@
     },
     {
       "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
@@ -4566,7 +4682,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 128639,
       "name": "satisfacci\u00f3n",
       "url": "https://open.spotify.com/track/1eVlIs77JL0shfA3Itvy7P"
@@ -5220,7 +5336,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 325733,
       "name": "te quiero tanto",
       "url": "https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso"
@@ -5318,7 +5434,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 176620,
       "name": "todo bien :-)",
       "url": "https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2"
@@ -5506,7 +5622,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 142000,
       "name": "T\u00e9 De Pi\u00f1a",
       "url": "https://open.spotify.com/track/1oWmADHtpjSRWFGI6OPC67"
@@ -5782,6 +5898,24 @@
       "duration_ms": 189621,
       "name": "vienes y te vas :|",
       "url": "https://open.spotify.com/track/7JYmphizKecTyAicTJYgco"
+    },
+    {
+      "album": {
+        "name": "Viral",
+        "url": "https://open.spotify.com/album/2VN93aG8R8faNUVMe9NCn7"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/3BF2QSnbrLfwR51WLAT1Nn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-233 songs - 14 hr 47 min
+234 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Doobie Bronson](https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:23 | 2021-12-09 |  |
 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 | 2021-12-09 |  |
 | [Down In The Dirt](https://open.spotify.com/track/7tOqak4EI2F6D1x6Qa1FnL) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Down In The Dirt](https://open.spotify.com/album/0q7qdiuMBPLB19eAJSDM25) | 3:35 | 2023-04-14 |  |
+| [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 | 2023-05-05 |  |
 | [Elastic Heart](https://open.spotify.com/track/5QUBz8NnN1LfHTckvldMNc) | [Longfellow](https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU) | [Elastic Heart](https://open.spotify.com/album/2pgXrkogTz9L82tULHZekY) | 4:17 | 2022-02-17 | 2023-04-29 |
 | [Elastic Heart](https://open.spotify.com/track/2EqFvg1GaWik5nwCmnZVN1) | [Longfellow](https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU) | [Elastic Heart](https://open.spotify.com/album/1Y50NzwC91YDY4fqTv3gpC) | 4:17 | 2022-02-17 | 2022-11-12 |
 | [Electric Indigo](https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [twelvefour](https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t) | 3:43 | 2022-02-17 |  |
@@ -149,7 +150,7 @@
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2021-12-09 |  |
 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 | 2021-12-09 | 2023-03-08 |
 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 | 2021-12-09 | 2023-04-29 |
-| [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 | 2023-04-07 |  |
+| [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 | 2023-04-07 | 2023-05-06 |
 | [Only Songs \(Radio Edit\)](https://open.spotify.com/track/6oToe0shcqyTZ00Hgdl9ZB) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 3:03 | 2021-12-09 | 2022-07-25 |
 | [Open up the Heavens](https://open.spotify.com/track/1dthu6dMsSfRe2k1nBTL36) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Open up the Heavens](https://open.spotify.com/album/6uNbLM4IL5OojfhAb8nISM) | 2:41 | 2021-12-09 | 2022-07-29 |
 | [Open up the Heavens](https://open.spotify.com/track/5N2DUST2UGPbE6EiWNpbd1) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:41 | 2022-02-17 | 2022-11-13 |

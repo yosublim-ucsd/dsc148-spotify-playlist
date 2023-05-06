@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,675 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 59 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
 | 60 | [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 |
 
-Snapshot ID: `MCxhNjk2MjRiYWVkM2Y2YzRkMTg2MTk3YjAzOTY4YTQ0OTY2NDQ5ZjE2`
+Snapshot ID: `MCw0YTExZDIyZGFiOTg0NjJjYjI4NzBjMzlmYTczODc4OTFkNGY1ZWNl`

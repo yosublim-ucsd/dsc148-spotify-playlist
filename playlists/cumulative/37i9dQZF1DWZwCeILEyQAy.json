@@ -282,10 +282,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "album": {
+        "name": "Area Codes (415 Remix) [feat. Lil Kayla]",
+        "url": "https://open.spotify.com/album/1C5lG5EynggKASzT5CEtz0"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137033,
+      "name": "Area Codes (415 Remix) [feat. Lil Kayla]",
+      "url": "https://open.spotify.com/track/1euNS5zhdt7TnsVMMZWTBw"
     },
     {
       "album": {
@@ -2796,7 +2818,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 108413,
       "name": "Here I Come",
       "url": "https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj"
@@ -3032,7 +3054,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
@@ -4337,6 +4359,42 @@
     },
     {
       "album": {
+        "name": "Pocket Rocket",
+        "url": "https://open.spotify.com/album/1pQI9kIuJdkxdPcm9oPv4y"
+      },
+      "artists": [
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122293,
+      "name": "Pocket Rocket",
+      "url": "https://open.spotify.com/track/35IF7iaIXi6E9tzg5DlflF"
+    },
+    {
+      "album": {
+        "name": "Point Me To The Slut's",
+        "url": "https://open.spotify.com/album/56lKFl1PWdU3Hf0X4QYlni"
+      },
+      "artists": [
+        {
+          "name": "Fendi",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175378,
+      "name": "Point Me To The Slut's",
+      "url": "https://open.spotify.com/track/2tu7n1Pxm75szYU3ySCpri"
+    },
+    {
+      "album": {
         "name": "Poker Night",
         "url": "https://open.spotify.com/album/5Exn9ByIbD37Ew6fEhgzvb"
       },
@@ -5047,6 +5105,24 @@
     },
     {
       "album": {
+        "name": "Silly Heaux",
+        "url": "https://open.spotify.com/album/03DunL87YaUMadDMdIPzRA"
+      },
+      "artists": [
+        {
+          "name": "Nikki Jayy",
+          "url": "https://open.spotify.com/artist/4MONW063BePUr0702vTw6c"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130464,
+      "name": "Silly Heaux",
+      "url": "https://open.spotify.com/track/4dqToym9mPeED3cSkpRogr"
+    },
+    {
+      "album": {
         "name": "SIXTEEN",
         "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
       },
@@ -5254,7 +5330,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 192000,
       "name": "Stand On It",
       "url": "https://open.spotify.com/track/5vttUta1Kn5aDGiHopxozA"
@@ -5695,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "This Is New York",
+        "url": "https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM"
+      },
+      "artists": [
+        {
+          "name": "Scar Lip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133170,
+      "name": "This Is New York",
+      "url": "https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5"
+    },
+    {
+      "album": {
         "name": "TMU",
         "url": "https://open.spotify.com/album/14pVzTX0DTUFJ85z5soNFU"
       },
@@ -5874,7 +5968,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151620,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3qHAoKIwRZPW0rbtPMje5t"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,330 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,639 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 99 | [Meyrin Fields](https://open.spotify.com/track/0Em7kYMP9LGyRNc7KroJTZ) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Meyrin Fields EP](https://open.spotify.com/album/74Duvq6GksnldghnjwYRdB) | 2:46 |
 | 100 | [Sun](https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:44 |
 
-Snapshot ID: `MCwyYmE1ZTMwZDg1OWM2NWJiY2U3YWRmMzBiZTliM2RjNGRkM2NlZjVm`
+Snapshot ID: `MCw0YWMyNjQxNDg1YTlkNzAwNTQ1ZTg3ODIwZTgyN2UwMTI3YzJlOWQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > Classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,325 likes - 150 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,796 likes - 150 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 149 | [Georgy Girl](https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Seekers](https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4) | 2:20 |
 | 150 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
 
-Snapshot ID: `MCwzZDI2YmQ4YmVjOTNlMzQyZGY1YTg0NmRhYThkYzhiN2RlYzIyNzJi`
+Snapshot ID: `MCw4YjRlYzljOWJjN2JjYmJlMmM5MjI1ZTEwOWNhMjFkYmQ3M2JhOWJj`

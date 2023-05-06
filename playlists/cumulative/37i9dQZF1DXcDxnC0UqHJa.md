@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-240 songs - 15 hr 22 min
+241 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2022-06-03 |  |
 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 | 2023-04-28 |  |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2021-12-13 |  |
+| [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/track/1qMJAquNvVR74RlAxYG6Ys) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7) | [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/album/4GDA3v5DT10GdOhOPyY85q) | 3:03 | 2023-05-05 |  |
 | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF) | 4:22 | 2023-04-14 |  |
 | [Heaven Help The Child](https://open.spotify.com/track/1FkGD5BKk9uaFrNxuLBc6b) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | ["Heaven Help The Child"](https://open.spotify.com/album/3WveYXV6ceBK1AOoB7Vy8H) | 5:07 | 2021-12-13 | 2022-07-29 |
 | [Hello Sunshine](https://open.spotify.com/track/5G43H7suQSoOwRfyIRH9tX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4), [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [Other People's Songs Volume One](https://open.spotify.com/album/7wKsuHFtWGNkUC1nCnrJR2) | 3:04 | 2021-12-13 | 2022-07-29 |
@@ -167,7 +168,7 @@
 | [My Happiness \(feat\. Fiona Prine\)](https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Fiona Prine](https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI) | [For Better, Or Worse](https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT) | 2:55 | 2021-12-13 |  |
 | [Nebraska \- Acoustic](https://open.spotify.com/track/0gEOycr5Mb2WJaqZwcIyjn) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Nebraska \(Acoustic\)](https://open.spotify.com/album/7my4IbcOeSYbTrd0UYyKps) | 3:48 | 2021-12-13 | 2022-07-29 |
 | [Nebraska \- Acoustic](https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:48 | 2022-06-03 | 2023-04-30 |
-| [No Ordinary Love \(Live at Eddie's Attic\)](https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:29 | 2023-04-28 |  |
+| [No Ordinary Love \(Live at Eddie's Attic\)](https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:29 | 2023-04-28 | 2023-05-06 |
 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 | 2021-12-13 |  |
 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 | 2021-12-13 |  |
 | [Perfect Places \- Live From BBC Radio 2](https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 3:38 | 2021-12-13 |  |

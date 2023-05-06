@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "avenue des reves",
+        "url": "https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "avenue des reves",
+      "url": "https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3"
+    },
+    {
+      "album": {
         "name": "Avenues",
         "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
@@ -3002,24 +3020,6 @@
       "duration_ms": 129975,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/0CSW0V2PU9WOEbxBkltPio"
-    },
-    {
-      "album": {
-        "name": "avenue des reves",
-        "url": "https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "date_added": "2022-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131600,
-      "name": "Moux: avenue des reves",
-      "url": "https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover:Lena Park\(박정현\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,980 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,006 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [파란 봄](https://open.spotify.com/track/0KpXBGMi5TPHu8cJGWvNBb) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Dunia \- Into A New World, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5zfvPWlLE1LpYewbAejTgX) | 4:11 |
 | 100 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 |
 
-Snapshot ID: `MCxkMjllOTY1YzViNTRiOWVmMWJjMmI4ZjAzYWU2MmJhOGYzMzZlMDFk`
+Snapshot ID: `MCw1YzNkN2MyNWRkNjVjOTA1ODhkNmYzODZjODlhYWEzYWVhNDJkYjI4`

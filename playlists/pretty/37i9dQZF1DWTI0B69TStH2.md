@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Daniel Godson \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,936 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,934 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 5 | [I Think I Know](https://open.spotify.com/track/0q3yh1B3DmywBPqmCL2Lkl) | [Tappahall](https://open.spotify.com/artist/3Ghzgg4CEzt9wNdNfKcndW) | [I Think I Know](https://open.spotify.com/album/69jmO4TNGEicpRwQwOzF11) | 3:05 |
 | 6 | [Flauta](https://open.spotify.com/track/3kPIOox4rxlwGRRNIhacDY) | [Michał Wrzos](https://open.spotify.com/artist/4mxTm66QsRgChITSPcGvkI) | [Flauta](https://open.spotify.com/album/7DdIuWQl0ZKNle8Qc9y0Sw) | 3:14 |
 | 7 | [Dynie](https://open.spotify.com/track/2XDMjGOHwJXtN6YXIFg4Py) | [Administratorr Electro](https://open.spotify.com/artist/6FPamV3tkyoMVnCBPejBVy) | [Dynie](https://open.spotify.com/album/2uFw0gbI4zvc7v6d2WSWlL) | 3:49 |
-| 8 | [Tinder](https://open.spotify.com/track/3Zm9QpYkmK56oFKNsuNhNs) | [Na Wpół Ślepy Człowiek](https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV) | [Tinder](https://open.spotify.com/album/09B2gh6LZxM77laTOg8uho) | 3:12 |
+| 8 | [Tinder](https://open.spotify.com/track/3Zm9QpYkmK56oFKNsuNhNs) | [Na Wpół Ślepy Człowiek](https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV), [beniaminjakub](https://open.spotify.com/artist/5w0bUNzJKdtb0eRGW1weq1) | [Tinder](https://open.spotify.com/album/09B2gh6LZxM77laTOg8uho) | 3:12 |
 | 9 | [How Do I Even Breathe Still](https://open.spotify.com/track/7BvOmzHLzdNwvFTI5VAthQ) | [Basia Siciarek](https://open.spotify.com/artist/6WcYkSf44ojtwFJ4jENIOh), [Helena Pyłka](https://open.spotify.com/artist/1jimlac7RknSbFMRoxUw9e) | [How Do I Even Breathe Still](https://open.spotify.com/album/02WYd8LeWQYudO7qbzDoLo) | 3:19 |
-| 10 | [Każda z moich łez](https://open.spotify.com/track/7vaUFwcTn8ZxrwUlMk42iq) | [Cukier](https://open.spotify.com/artist/3UmNP0jcTfIGbtLaoklQa1) | [Każda z moich łez](https://open.spotify.com/album/17Cd7Pv1oVlHGnsclArLi0) | 3:17 |
+| 10 | [Każda z moich łez](https://open.spotify.com/track/7vaUFwcTn8ZxrwUlMk42iq) | [Cukier](https://open.spotify.com/artist/3UmNP0jcTfIGbtLaoklQa1), [Niko](https://open.spotify.com/artist/4OtS8VpJ4LrtMmGQIh7Gpx) | [Każda z moich łez](https://open.spotify.com/album/17Cd7Pv1oVlHGnsclArLi0) | 3:17 |
 | 11 | [Przypomnij mi](https://open.spotify.com/track/6cK6TCBl2NNav93JFokMKw) | [IVO](https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D), [St\. Elmo](https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy) | [Przypomnij mi](https://open.spotify.com/album/5QtkmHrEQVdNZKrtu1Bt1n) | 3:36 |
 | 12 | [Drogi Pożarowe](https://open.spotify.com/track/55ErAJhexhbnNnv6S3mn0M) | [noco](https://open.spotify.com/artist/4M3HMSoC2JKbhCRdHQ5wkA) | [Drogi Pożarowe](https://open.spotify.com/album/2dQAMCLaJP3Oha3J3Uc8rr) | 2:54 |
 | 13 | [WÓDA](https://open.spotify.com/track/4cIwQuBiJE4cWAp3lIZbqX) | [Zahood](https://open.spotify.com/artist/4pjPhxjueJ2hpPrpRZQiOu) | [WÓDA](https://open.spotify.com/album/6oxmENID2bgYLMSfzt0bWL) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Kino Wolność](https://open.spotify.com/track/6pBFHD3GMaY4A3Ax7wiyoE) | [Ostatni Dzień Lata](https://open.spotify.com/artist/031rW8B8jh30aKYuYkwNVD) | [Kino Wolność](https://open.spotify.com/album/2V4DV8KETUx5OqIbW9f57w) | 3:59 |
 | 100 | [SKÓRA](https://open.spotify.com/track/3HMzMjDKgeO5EGJfgsNQrz) | [KRASTOROCKSTAR](https://open.spotify.com/artist/7s8k81qFCHqXhnsC1x2Jyo), [Białek](https://open.spotify.com/artist/1JyhPB8k3sxZFLmBE7gx3g) | [SKÓRA](https://open.spotify.com/album/1mRHGnEL6S1qd38CSO5Prp) | 2:35 |
 
-Snapshot ID: `MCw4MGI0ZTk4Mjc5YzVkODQzM2Q0NjY0YzQ4OGVkNThjYzIyMDhiY2Ux`
+Snapshot ID: `MCw4ZTFmYjZhMjY5NWNhZTgwMjE4N2Q2MzJiMzg3MjkzOWQ4N2ZmMWM0`

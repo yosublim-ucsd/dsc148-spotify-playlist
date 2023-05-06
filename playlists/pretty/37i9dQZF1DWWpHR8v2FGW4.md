@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,037 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,325 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Climax](https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Climax](https://open.spotify.com/album/5HuiKWU9kTp3H4hE4m4UVQ) | 4:29 |
 | 50 | [HARDCORE](https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [HARDCORE](https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J) | 1:53 |
 
-Snapshot ID: `MCwyMDlkODVlMDM0Y2I1NmJjOGNlZDBjNmI2ZmZlM2MyNzU1MjJkN2Q2`
+Snapshot ID: `MCxjYWUwNTExOGU3MGRiZjY1OTZhM2FhZTI4Njg5ZDM1ZmRmZGI3ZGQ5`

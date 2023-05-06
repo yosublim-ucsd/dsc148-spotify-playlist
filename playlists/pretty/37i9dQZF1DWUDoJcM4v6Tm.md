@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,936 likes - 136 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,976 likes - 136 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 135 | [Miss Misanthrope](https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:55 |
 | 136 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
 
-Snapshot ID: `MCw3OTVkYjEyMDRlYTExNmVmMzJlZDIzZDQwODg2MWM3YmViZGVlMWQ1`
+Snapshot ID: `MCxlNzI3ODU3ZTRkNjJkOWYzMzg2NjdkNWFlMTVmNzk3ZjFiOGRhMjFi`

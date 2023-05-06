@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177594,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/3QWPsfOA2yGVFN36XadkKt"
+    },
+    {
+      "album": {
         "name": "Dance Monkey (Stripped Back) / Dance Monkey",
         "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
       },
@@ -2316,6 +2334,24 @@
       "duration_ms": 189486,
       "name": "Memories Remix (feat. Nipsey Hussle & YG)",
       "url": "https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170311,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/7uRyICzl03iUchXWAu0E5v"
     },
     {
       "album": {

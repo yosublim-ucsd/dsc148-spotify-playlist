@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,209 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,231 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [Daily Duppy \(Dem Dead\)](https://open.spotify.com/track/1RLFNhcRa6572GRGfa6TBB) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Daily Duppy \(Dem Dead\)](https://open.spotify.com/album/6H1aU8exiYl8OI0Xt8d4GG) | 2:59 |
 | 120 | [SPEND IT](https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [THE HUSTLE CONTINUES](https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO) | 3:18 |
 
-Snapshot ID: `MCwxNTE1OGI4NGRmZDhmMWVjZGRhZGFmMmRiMDc4NDkwOTU5MGM3ZDVl`
+Snapshot ID: `MCw2MzA5Mzk3NmY2NWEwYzhhZGJkNTVkOWFiMzVkNmVjN2M3YWNmZWZi`

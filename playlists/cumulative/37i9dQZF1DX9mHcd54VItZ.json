@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=2tuFGhMOTQq74hieYvJjVw\">Ruff Majik</a> ",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn?si=Dy-6K__kSu6y-7gjp5Fyzw\">Glaskas</a> ",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Die Lig",
+        "url": "https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb"
+      },
+      "artists": [
+        {
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145528,
+      "name": "Die Lig",
+      "url": "https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R"
+    },
+    {
+      "album": {
         "name": "Die Son",
         "url": "https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ"
       },
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214266,
       "name": "Die Son",
       "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 240133,
       "name": "Down",
       "url": "https://open.spotify.com/track/5HZHEJr2lB9UuJdTnJ2LlC"
@@ -1668,6 +1686,24 @@
       "duration_ms": 196753,
       "name": "Gods Gift",
       "url": "https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N"
+    },
+    {
+      "album": {
+        "name": "Good Little Girl",
+        "url": "https://open.spotify.com/album/2A2SF1ydODURrgfp9hOp8A"
+      },
+      "artists": [
+        {
+          "name": "Saturn Return",
+          "url": "https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205100,
+      "name": "Good Little Girl",
+      "url": "https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y"
     },
     {
       "album": {
@@ -2630,7 +2666,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 251189,
       "name": "Nameless Days",
       "url": "https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j"
@@ -2666,7 +2702,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 159494,
       "name": "Nie Alleen Nie",
       "url": "https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3"
@@ -2778,6 +2814,24 @@
       "duration_ms": 252375,
       "name": "ohmygosh - Acoustic",
       "url": "https://open.spotify.com/track/3ANoysTDtk5sUv54J5esM5"
+    },
+    {
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/6I10aJiMRq2h1jqF1zhYtF"
+      },
+      "artists": [
+        {
+          "name": "Fortunes Fool",
+          "url": "https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262682,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/1NXO41gIxIzpBVc3JIO00v"
     },
     {
       "album": {
@@ -4296,6 +4350,24 @@
       "duration_ms": 246173,
       "name": "Vanilla Sky",
       "url": "https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr"
+    },
+    {
+      "album": {
+        "name": "Verby",
+        "url": "https://open.spotify.com/album/0F7M5RLUaX36HO8wYf2vYF"
+      },
+      "artists": [
+        {
+          "name": "Swerwer",
+          "url": "https://open.spotify.com/artist/2Agm0pczmzwW1mpWQjioPJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229293,
+      "name": "Verby",
+      "url": "https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz"
     },
     {
       "album": {

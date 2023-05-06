@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,633 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,666 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 |
 | 100 | [Lost Without You](https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:59 |
 
-Snapshot ID: `MCw3YmFhODgyOGI0YjRkNzVmMTUzOGQ4MTNiNWFhYzUyYmJlMmY3ZTYz`
+Snapshot ID: `MCw2NGQ4MGMwMGE4MzhmOWNjNGNjYTI5MjhmMmZkNjdkMGFhYTBmNjc4`

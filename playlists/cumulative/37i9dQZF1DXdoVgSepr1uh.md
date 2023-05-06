@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Rusherking, Yami Safdie & Micro TDH.
 
-179 songs - 8 hr 40 min
+181 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [BABY DRIP](https://open.spotify.com/track/5rsR3HabI5cDfztvbFvUJr) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [BABY DRIP](https://open.spotify.com/album/5PyWxSxtmxTO0F46TrFWZu) | 3:22 | 2022-05-24 | 2022-07-29 |
 | [Bailando Te Conocí](https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bailando Te Conocí](https://open.spotify.com/album/1SfkXB9PkSL5ctluCBpXqC) | 3:14 | 2022-05-24 |  |
 | [BANDIDA](https://open.spotify.com/track/579JvpCcewz3IBcbv9ea8e) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [TURROMANTICO](https://open.spotify.com/album/0lSIshi0zVMrl1N2MvAEIn) | 3:07 | 2022-05-24 | 2023-03-18 |
+| [Bellaka](https://open.spotify.com/track/6CDN62fkyLVzsMA21CoYgg) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Bellaka](https://open.spotify.com/album/5RVN4rGbwHA5BzVK2HDnGR) | 2:30 | 2023-05-05 |  |
 | [Bendición](https://open.spotify.com/track/5fIpvX6QRQ9hLtMjJYeKty) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Bendición](https://open.spotify.com/album/7Eo44MvuVaLGz2zIlvrhTO) | 2:49 | 2022-05-24 |  |
 | [Bien Backeao](https://open.spotify.com/track/17a9aplVkXXIvbiZ1nsv4Q) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Bien Backeao](https://open.spotify.com/album/0L856tfb66xrX8st1zTCrT) | 2:09 | 2022-05-24 |  |
 | [Blokeao](https://open.spotify.com/track/5au1ohqMri0oI2JyCbkl9J) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Blokeao](https://open.spotify.com/album/08Eyi1GTWoDYfVzHOGikDW) | 3:17 | 2022-08-05 |  |
@@ -134,6 +135,7 @@
 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 | 2022-05-24 |  |
 | [Perreo Bendito](https://open.spotify.com/track/56uvG8rHQkvEtbRXK2R8rx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:39 | 2022-08-05 | 2022-11-19 |
 | [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-06-23 | 2022-08-09 |
+| [POSA / Take \#1](https://open.spotify.com/track/2K4CK7j2WuB4y7nLVC0FRf) | [Yair B\-By](https://open.spotify.com/artist/1M3ii08Vltteb2VdTiC2aE), [DJ Kuff](https://open.spotify.com/artist/2TnyAEgw7OuIIhShiZUvtu) | [POSA / Take \#1](https://open.spotify.com/album/09lp7LEaGjC1YnS1DWKsd1) | 2:36 | 2023-05-05 |  |
 | [Prende la Cámara](https://open.spotify.com/track/2UcWAHN6TRQtkZovAuwySo) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Prende la Cámara](https://open.spotify.com/album/4IYIOVFW703lcHN7ZTHexe) | 2:28 | 2022-05-24 |  |
 | [PRESIÓN](https://open.spotify.com/track/4zCyJr1apBS2791oMtea5f) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PRESIÓN](https://open.spotify.com/album/0pTere7czaMnyRpVs7i6fP) | 3:07 | 2023-05-02 |  |
 | [Pretinha](https://open.spotify.com/track/0gokl2danyrRzlPh8OcOtN) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pretinha](https://open.spotify.com/album/7rAsMPibZeliLEAwohmqZz) | 2:29 | 2022-05-24 |  |

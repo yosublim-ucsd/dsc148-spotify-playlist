@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Todo lo que es cultura pop\. ¡La música mexicana está al tope con Eslabon Armado y Peso Pluma! \#1, \#2 y \#3  global 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,254 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,445 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 | 24 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 |
 | 25 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
 
-Snapshot ID: `MCxjNGZlOTJhMTE3YmQzNjI4ZGRmMmMwM2UwMWExMmE5MDlhYzUyM2Y0`
+Snapshot ID: `MCw3OGMzNDUxYWExMDE3MWI1NGUyNmVlMmQ1NGRhMjMyNzM1YTVmZmY0`

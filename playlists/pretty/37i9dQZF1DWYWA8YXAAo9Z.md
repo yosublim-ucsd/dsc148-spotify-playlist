@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,262 likes - 75 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,311 likes - 75 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Sonic Winds](https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY) | [Patrick Zelinski](https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K), [Karl Edh](https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K), [Ryan Dimmock](https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY) | [Sonic Winds](https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z) | 2:46 |
 | 75 | [Liquid Planta Seeds](https://open.spotify.com/track/0EHxTCvQpFpXkiyx0FwBRq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Liquid Planta Seeds](https://open.spotify.com/album/2qobaujPblxqumcde6yjVY) | 3:24 |
 
-Snapshot ID: `MCxiYzU0MDBiYzc2ZjA5MDU0YzM1NTAxZGE4MjBjNzU2MTgwOWFkMWNi`
+Snapshot ID: `MCwzZWExM2FkYjdkNjBjNmQwZTVjZDAwZjRjNmY4ODM4NzVmMWM3ZjEy`

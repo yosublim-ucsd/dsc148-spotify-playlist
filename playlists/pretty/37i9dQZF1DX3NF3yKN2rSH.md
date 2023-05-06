@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,128 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,127 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
 | 100 | [These Nails \- Live](https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl) | [Donald Lawrence & The Tri\-City Singers](https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V) | [Donald Lawrence & The Tri\-City Singers Collection](https://open.spotify.com/album/5ejaaJUSkQ6k7LdxFAniDs) | 5:28 |
 
-Snapshot ID: `MCw3NTFlOWIwMWU3NTZlYjI5ODA4ODE5YjNlZTYyYWIwZGUwN2MzZmI2`
+Snapshot ID: `MCxhZDg1MWM2NGRkNzhiOTViNzRjODM2YWFjNzkwMTA5ZWJkYTY2MWJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,654 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,695 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [In A Loop](https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:13 |
 | 80 | [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 |
 
-Snapshot ID: `MCxjYmNjZDU0NDU3ODcxMDNjNmU5MjdjMDk5NzI4OTVmMGY3NDQ1N2Jh`
+Snapshot ID: `MCxhOWJlNmNiNGZhZGJmZWVlNDYwZTIzMTNiYzAwOGViOTE5NGU3ODQ3`

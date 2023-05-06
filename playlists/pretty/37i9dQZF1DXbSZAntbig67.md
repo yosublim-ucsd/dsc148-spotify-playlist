@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,810 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,805 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 38 | [Hacia Bélen va una burra, rin rin](https://open.spotify.com/track/3KA2Y5e9Ert3b9Cp6qS5DS) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Navidad Navidad](https://open.spotify.com/album/1IWZv2eiVbzCkOpmujRJUL) | 2:36 |
 | 39 | [Paseo en Trineo](https://open.spotify.com/track/7A9lcwkCPrbsrWHeAPv9dG) | [Las Ardillitas](https://open.spotify.com/artist/6GthntuQGvG7F72j9850Td) | [Las Ardillitas: Paseo en Trineo, Vol\. 1](https://open.spotify.com/album/1rPVI2q16wVDSYnUGYPIQm) | 2:40 |
 | 40 | [Los Peces en el Rio](https://open.spotify.com/track/5ZqjpXE2c5ek9jJ3CpHGA9) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:03 |
-| 41 | [Feliz Navidad](https://open.spotify.com/track/2ASZEvGTYJKeM27iGej1je) | [El Payaso Plim Plim](https://open.spotify.com/artist/1E7NoA5YJu5N0XEm6ojotR), [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Feliz Navidad](https://open.spotify.com/album/5yzBHrlea3rhUMpSxs5LbN) | 2:17 |
+| 41 | [Feliz Navidad](https://open.spotify.com/track/0DpjUwuKAtDBRJ76H0lHlo) | [El Payaso Plim Plim](https://open.spotify.com/artist/1E7NoA5YJu5N0XEm6ojotR) | [Feliz Navidad](https://open.spotify.com/album/2Eox8nau4HXNMIRslo1Jfm) | 2:17 |
 | 42 | [Navidades Blancas](https://open.spotify.com/track/25C6SHZN5v5jZB81lMWVXX) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:26 |
 | 43 | [El Pequeño Tamborilero](https://open.spotify.com/track/1dgsRGc9yOmgke898IelmO) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 3:31 |
 | 44 | [Mucho más allá \- De "Frozen 2"](https://open.spotify.com/track/1WMfmBKlRTUGafwEjtJIhN) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Mucho más allá \(De "Frozen 2"\)](https://open.spotify.com/album/2HpjCcz1zgMiFJBLesaqc9) | 3:10 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 107 | [Farolito \(Little Star\)](https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 4:39 |
 | 108 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 |
 
-Snapshot ID: `MCw4MmUyOTRlMGMyNWVjMmYwODcwZWM4YmYwZDAyOTg2N2VlNDA3ZjQ5`
+Snapshot ID: `MCwwNGJjMGRjZGM1MzYzNWY2NzY2MmJlYjUwOTA1MWE4NjdlNzA1MDkz`

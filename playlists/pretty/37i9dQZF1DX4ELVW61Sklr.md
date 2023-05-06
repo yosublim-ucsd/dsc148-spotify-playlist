@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,606 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,596 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Deck the Halls](https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Your Favorite Christmas Songs](https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2) | 2:40 |
 | 75 | [Silver Bells](https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:56 |
 
-Snapshot ID: `MCw2M2IzYzIzNWY0YWJhMDQ3NjA1M2I2NjAzZmE1MzhkNDI0YjQwMzdi`
+Snapshot ID: `MCw0OTJiOTJkYWZlZmVhM2JhZGE1MzE2ZGRjMDI0M2VjMzRkOGVmNDE0`

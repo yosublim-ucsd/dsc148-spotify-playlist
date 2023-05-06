@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clodelle",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Olivier Dion",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -866,7 +866,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 199899,
       "name": "A toi",
       "url": "https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f"
@@ -1554,6 +1554,24 @@
       "duration_ms": 168354,
       "name": "Ami",
       "url": "https://open.spotify.com/track/0N0Ymk2UB6yzGBL2Xqo82L"
+    },
+    {
+      "album": {
+        "name": "Amn\u00e9sia",
+        "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Amn\u00e9sia",
+      "url": "https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2"
     },
     {
       "album": {
@@ -2390,6 +2408,24 @@
       "duration_ms": 139688,
       "name": "AVANT",
       "url": "https://open.spotify.com/track/2665Y8wNFXaVlcvDy4y0cW"
+    },
+    {
+      "album": {
+        "name": "Avant Elle",
+        "url": "https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200813,
+      "name": "Avant Elle",
+      "url": "https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw"
     },
     {
       "album": {
@@ -5208,7 +5244,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200626,
       "name": "Central Park La Fontaine",
       "url": "https://open.spotify.com/track/4sKRzvs3WsNQSyCOivbiSl"
@@ -6519,6 +6555,24 @@
     },
     {
       "album": {
+        "name": "Confetti (VF)",
+        "url": "https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184649,
+      "name": "Confetti - VF",
+      "url": "https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN"
+    },
+    {
+      "album": {
         "name": "Contentement",
         "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
       },
@@ -6972,7 +7026,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174240,
       "name": "CV (feat. RK)",
       "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
@@ -7262,6 +7316,24 @@
       "duration_ms": 197386,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/43eoqH9CIZqy7VXLnwwMnu"
+    },
+    {
+      "album": {
+        "name": "Sur le fil",
+        "url": "https://open.spotify.com/album/5k4lBRvB4GiLmH3gWJwukK"
+      },
+      "artists": [
+        {
+          "name": "Olivier Dion",
+          "url": "https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155047,
+      "name": "Dames",
+      "url": "https://open.spotify.com/track/2CBNpnSiBJCvil3fsPZ3S7"
     },
     {
       "album": {
@@ -9188,7 +9260,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 156788,
       "name": "Eastside Story",
       "url": "https://open.spotify.com/track/75XxDL422jppGj97qBCVxy"
@@ -9206,7 +9278,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 206056,
       "name": "EAU DE MARS",
       "url": "https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq"
@@ -11082,7 +11154,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 190466,
       "name": "Fisheye (feat. PLK)",
       "url": "https://open.spotify.com/track/4sHaH3RTui7BYduD9b9Hrt"
@@ -11524,6 +11596,24 @@
       "duration_ms": 168045,
       "name": "FREE FOR ALL",
       "url": "https://open.spotify.com/track/3kAibz4DTPCrdXKhjjuxiE"
+    },
+    {
+      "album": {
+        "name": "Freestyle LVL UP 1",
+        "url": "https://open.spotify.com/album/3TwCsRI1sJRIUi6SPcFPhq"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114182,
+      "name": "Freestyle LVL UP 1",
+      "url": "https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY"
     },
     {
       "album": {
@@ -15160,7 +15250,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 140368,
       "name": "Je t'haine",
       "url": "https://open.spotify.com/track/1Rn1zphLtXbGF436KG5Ft9"
@@ -16100,7 +16190,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210707,
       "name": "L'h\u00e9riti\u00e8re",
       "url": "https://open.spotify.com/track/6TFQrEE08PznI4meYKFm5I"
@@ -17124,7 +17214,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 198789,
       "name": "La symphonie des \u00e9clairs",
       "url": "https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS"
@@ -20884,7 +20974,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 175255,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/0au6ZQtQNZf6sKl7rK1BoN"
@@ -23375,6 +23465,24 @@
     },
     {
       "album": {
+        "name": "On arrive demain (Extrait de la BO du film 'Pour l'honneur')",
+        "url": "https://open.spotify.com/album/21nkUqfFZPUei57OxwpUv7"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232830,
+      "name": "On arrive demain - Edit Single",
+      "url": "https://open.spotify.com/track/1qh3qq67ilkG0pe68h74Dj"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
       },
@@ -24920,7 +25028,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 167346,
       "name": "Personne",
       "url": "https://open.spotify.com/track/2KM5FqdL9I7HI1KAXoVsxK"
@@ -29153,6 +29261,24 @@
     },
     {
       "album": {
+        "name": "Seule sans toi",
+        "url": "https://open.spotify.com/album/6ld0yFbiJKDth6dmtGKffN"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Seule sans toi",
+      "url": "https://open.spotify.com/track/1DsnRwPvZ67uC52PgUKQwt"
+    },
+    {
+      "album": {
         "name": "Shawty",
         "url": "https://open.spotify.com/album/6wUSxMbKzYcp4miD7eQNe6"
       },
@@ -29266,7 +29392,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214173,
       "name": "Si j'avais (feat. La Fouine)",
       "url": "https://open.spotify.com/track/3uymlCR4UeQQvspZdk7tkW"
@@ -30824,7 +30950,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 113500,
       "name": "Ta lettre",
       "url": "https://open.spotify.com/track/1KMY4Lf7dvGi2yEsTvySyc"
@@ -32924,7 +33050,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 150053,
       "name": "uet",
       "url": "https://open.spotify.com/track/2tUfesk6jwISYkygWV9481"
@@ -33228,6 +33354,42 @@
       "duration_ms": 193781,
       "name": "Un soleil toujours",
       "url": "https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx"
+    },
+    {
+      "album": {
+        "name": "un \u00e9clair",
+        "url": "https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D"
+      },
+      "artists": [
+        {
+          "name": "Lonepsi",
+          "url": "https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210751,
+      "name": "un \u00e9clair",
+      "url": "https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph"
+    },
+    {
+      "album": {
+        "name": "Une autre vie",
+        "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
+      },
+      "artists": [
+        {
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205312,
+      "name": "Une autre vie",
+      "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
     },
     {
       "album": {
@@ -35040,7 +35202,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 236260,
       "name": "\u00c0 quoi tu penses",
       "url": "https://open.spotify.com/track/7tS2TnBWC05xJ0GXLZ9kTD"

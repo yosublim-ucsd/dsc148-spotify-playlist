@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Colter Wall
 
-311 songs - 19 hr 3 min
+313 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Kingdom For A Fool](https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11) | 3:28 | 2022-11-11 | 2023-05-05 |
 | [Ko'jua](https://open.spotify.com/track/4C7Lj6dioL1CbzjYFls0R6) | [Morgan Toney](https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv) | [Ko'jua](https://open.spotify.com/album/1sREECdv5BRRtA1qCpsiRE) | 3:30 | 2022-05-13 | 2022-10-01 |
 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 | 2022-05-20 |  |
+| [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-05-05 |  |
 | [Let's All Help the Cowboys \(Sing the Blues\)](https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:04 | 2023-04-21 | 2023-04-29 |
 | [Lighthouse in Little Lorraine](https://open.spotify.com/track/5OoH1BWs8xVTvNNcARmP5R) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Concertos & Serenades](https://open.spotify.com/album/1lnm1yLB86rkOcThRb0iRG) | 6:07 | 2022-09-23 | 2023-04-22 |
 | [Little Red](https://open.spotify.com/track/2VaWteuuiYb4spgqgMqvXq) | [Vikki Gilmore](https://open.spotify.com/artist/7dRZclXkaEE73U3Tx1u9qV) | [Little Red](https://open.spotify.com/album/19haDyx2HW3RUE3B51HUhQ) | 3:31 | 2022-05-13 | 2022-10-29 |
@@ -262,7 +263,7 @@
 | [Souvenir](https://open.spotify.com/track/0DZM7vZBFKRkXnPpq17siT) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Souvenir B/W Pale Morning](https://open.spotify.com/album/0Gsju9lPWoExFjkRdz0izK) | 3:23 | 2022-05-13 | 2023-04-22 |
 | [Staring Down the North](https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg) | [Tylor & the Train Robbers](https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F) | [Non\-Typical Find](https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7) | 4:49 | 2022-07-22 |  |
 | [Starting Over](https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:00 | 2023-04-21 |  |
-| [Stolen Lands](https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Beyond the Reservoir](https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W) | 6:10 | 2022-10-14 |  |
+| [Stolen Lands](https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Beyond the Reservoir](https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W) | 6:10 | 2022-10-14 | 2023-05-06 |
 | [Summer Wine](https://open.spotify.com/track/35j22HqMiHRVFz6aMSYlAd) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Summer Wine](https://open.spotify.com/album/171i564OD81tTVFvBxUEIh) | 4:41 | 2022-06-03 | 2022-07-16 |
 | [Supposed To Be](https://open.spotify.com/track/0GTbfwPBpAJ8B4Dpw5Rwka) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [Supposed To Be](https://open.spotify.com/album/1jMFIViRO10jYNe5KEC9cG) | 4:46 | 2022-05-13 | 2022-07-20 |
 | [Sweet Relief](https://open.spotify.com/track/00VZJCC2kTust8GYSlpxHL) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Sweet Relief](https://open.spotify.com/album/6JZ2zxBOyJXLc5pwUTHGGJ) | 4:15 | 2022-08-05 | 2023-04-22 |
@@ -306,8 +307,9 @@
 | [What Is a Broken Heart For](https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:00 | 2023-03-24 |  |
 | [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 | 2023-02-03 |  |
 | [When You're Gone](https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [When You're Gone](https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX) | 2:45 | 2022-12-09 |  |
+| [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 | 2023-05-05 |  |
 | [Wide Awake](https://open.spotify.com/track/1j0yLM2bq8IXOmkahkV22Z) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Wide Awake](https://open.spotify.com/album/0CuE6LWfLi55IwDchyGEDp) | 4:15 | 2022-08-12 | 2022-10-15 |
-| [Windows](https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:20 | 2022-05-13 |  |
+| [Windows](https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:20 | 2022-05-13 | 2023-05-06 |
 | [With You](https://open.spotify.com/track/1WoAQ1TRwi47BqUTt5hLNV) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [With You](https://open.spotify.com/album/1tqgfhub2RpAfGqXBC89EV) | 2:21 | 2022-05-13 | 2022-07-23 |
 | [Witness](https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Gypsy](https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh) | 2:52 | 2023-04-28 |  |
 | [Witness](https://open.spotify.com/track/3owPyyMaxY6KbcUPKcTuhl) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Gypsy](https://open.spotify.com/album/3XjRVqf066pbYdBUgHEMdH) | 2:52 | 2023-04-21 | 2023-04-30 |

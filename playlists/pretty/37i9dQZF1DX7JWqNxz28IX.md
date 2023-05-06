@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,482 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,491 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 80 | [DOVE SEI](https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB) | [Faster](https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd), [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga) | [ONIRO](https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x) | 2:54 |
 | 81 | [Palude 4](https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Palude 4](https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu) | 3:33 |
 | 82 | [LE PAROLE GIUSTE](https://open.spotify.com/track/00lhPwTUbM0yZUmiHKCDNp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9), [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [LE PAROLE GIUSTE](https://open.spotify.com/album/224PJseyAs5K9VZTyuURcp) | 2:47 |
-| 83 | [bellacomestai](https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT) | [bellacomestai](https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM) | 1:58 |
+| 83 | [bellacomestai](https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT), [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [pippx](https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv) | [bellacomestai](https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM) | 1:58 |
 | 84 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
 | 85 | [Clipper](https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [Fuori di me](https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv) | 2:46 |
 | 86 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [Mille Gatti](https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Ayden Lau](https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [Mille Gatti](https://open.spotify.com/album/3lul0L0dQhpxFrgA4oudMB) | 2:44 |
 | 100 | [sai che...](https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b) | 2:40 |
 
-Snapshot ID: `MCxlMGNmMjEzZWM1MTMyNmQ3NzQyYjcyZTgxY2M1Yzc1ZjA5MDFkOTll`
+Snapshot ID: `MCw2NzJhMjA2ZWZmNjJhMTFkZmVlMWZlYjY0MGU2ZWU4MjJmZTNjMjg5`

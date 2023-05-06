@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Maru2D",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Ebony",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -194,6 +194,32 @@
       "duration_ms": 150447,
       "name": "4 Real",
       "url": "https://open.spotify.com/track/5zJQWY0aWwNkUWLXXfJulA"
+    },
+    {
+      "album": {
+        "name": "5min",
+        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128181,
+      "name": "5min",
+      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
     },
     {
       "album": {
@@ -1135,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "Atlantico",
+        "url": "https://open.spotify.com/album/2L9YEYETTDz1SqJsgxEjlX"
+      },
+      "artists": [
+        {
+          "name": "Mc negrone",
+          "url": "https://open.spotify.com/artist/660rMB6VLmtOdSBdtm62hw"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125133,
+      "name": "Atlantico",
+      "url": "https://open.spotify.com/track/4WIHjPnhFq8pcGSFhGvcxq"
+    },
+    {
+      "album": {
         "name": "At\u00e9 de Manh\u00e3",
         "url": "https://open.spotify.com/album/3FYfkAQyRHctDMYBARczaO"
       },
@@ -1640,7 +1688,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 182496,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/5mt2prcPNJRL00VAW1KfXl"
@@ -2278,7 +2326,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 152971,
       "name": "Caixa Postal",
       "url": "https://open.spotify.com/track/17waQ7PkBtYeutHzDxS6lw"
@@ -2708,7 +2756,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 143225,
       "name": "Cart\u00f5es Internacionais",
       "url": "https://open.spotify.com/track/5Sd1Ruf8macA9NKuCaqxQI"
@@ -3073,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Colombinha de Pirata",
+        "url": "https://open.spotify.com/album/5R4E5TlDR96eYdLIHO2vcc"
+      },
+      "artists": [
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115437,
+      "name": "Colombinha de Pirata",
+      "url": "https://open.spotify.com/track/1Bibvo9XnIqdgkXZ3wIzu2"
+    },
+    {
+      "album": {
         "name": "Com Press\u00e3o",
         "url": "https://open.spotify.com/album/1p8Zf8GdClzaFEnkHQ2UMj"
       },
@@ -3126,7 +3192,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 190850,
       "name": "Combate",
       "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
@@ -4858,7 +4924,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 144435,
       "name": "Ela Me Fala pra N\u00e3o Ter Pressa",
       "url": "https://open.spotify.com/track/3fwuVZuKMQT9kYCph76F9X"
@@ -6784,6 +6850,28 @@
       "duration_ms": 140146,
       "name": "Independente",
       "url": "https://open.spotify.com/track/6JANfYmIxxhFY0krk2z2Wf"
+    },
+    {
+      "album": {
+        "name": "INJURIADO",
+        "url": "https://open.spotify.com/album/54icBT2gO11RCf5RESZIbZ"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150395,
+      "name": "INJURIADO",
+      "url": "https://open.spotify.com/track/0Z04QToWHQUCzRT7OT99sE"
     },
     {
       "album": {
@@ -10419,6 +10507,32 @@
     },
     {
       "album": {
+        "name": "Pega Nada!",
+        "url": "https://open.spotify.com/album/4vqzxSQqKG8DbwNELpeuKj"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paczin",
+          "url": "https://open.spotify.com/artist/5jTwmL3W9w5DWeTUhSL4kS"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123351,
+      "name": "Pega Nada!",
+      "url": "https://open.spotify.com/track/17NT6ZcJMP9XhxEzOzk2yX"
+    },
+    {
+      "album": {
         "name": "Pensamentos Negativos",
         "url": "https://open.spotify.com/album/1d1n79fvIMJnUclallzcSj"
       },
@@ -11604,6 +11718,28 @@
       "duration_ms": 149610,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/2i6THMdWOd8mqwwqy7zpS8"
+    },
+    {
+      "album": {
+        "name": "RB No Comando",
+        "url": "https://open.spotify.com/album/1DmbN7DKKO7fmTd481D562"
+      },
+      "artists": [
+        {
+          "name": "Robinho Du\u00f3",
+          "url": "https://open.spotify.com/artist/1vaHLFercdMoZQrDZupT0B"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163256,
+      "name": "RB No Comando",
+      "url": "https://open.spotify.com/track/5otZzeEMoMS6tAw2LjYRYs"
     },
     {
       "album": {
@@ -14656,7 +14792,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 162812,
       "name": "Xurrasco Freestyle",
       "url": "https://open.spotify.com/track/7JkJMKjvNT4jOWcOh6alIG"

@@ -4613,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "Grayson",
+        "url": "https://open.spotify.com/album/5kK3qRTcUDnYgt7IYqdCgD"
+      },
+      "artists": [
+        {
+          "name": "Palo Santo",
+          "url": "https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193090,
+      "name": "Grayson",
+      "url": "https://open.spotify.com/track/36XVAEtyB6gBrBso9ZDUcw"
+    },
+    {
+      "album": {
         "name": "grip drop",
         "url": "https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO"
       },
@@ -8876,6 +8894,24 @@
       "duration_ms": 185000,
       "name": "Purity",
       "url": "https://open.spotify.com/track/0bRuqIi3CZrEt9ORtCHHHW"
+    },
+    {
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/5f6vDyKnh2izBLIvY9yYrw"
+      },
+      "artists": [
+        {
+          "name": "Galian",
+          "url": "https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118909,
+      "name": "Puzzles",
+      "url": "https://open.spotify.com/track/6e726bx26LWxCR2XQLnM6i"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-144 songs - 9 hr 35 min
+145 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,8 +111,9 @@
 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 | 2021-12-29 |  |
 | [Noa Noa](https://open.spotify.com/track/74b6K0AZr4tNKeA3gab9UU) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:40 | 2021-12-29 |  |
 | [Perdóname, Olvídalo](https://open.spotify.com/track/77lUx4Z36ydmIOFK67qfR3) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Filippa Giordano](https://open.spotify.com/artist/40f4c3LvZNQAjn487No6K4) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:49 | 2021-12-29 |  |
+| [Popurrí Al Divo \(La Diferencia, Si Quieres, Mi Fracaso\)](https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Hecho En México…Mágico](https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv) | 7:03 | 2023-05-05 |  |
 | [Popurrí Juan Gabriel \- En Vivo](https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 8:04 | 2021-12-29 |  |
-| [Querida](https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Querida](https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7) | 3:13 | 2021-12-29 |  |
+| [Querida](https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Querida](https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7) | 3:13 | 2021-12-29 | 2023-05-06 |
 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 | 2021-12-29 |  |
 | [Querida](https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Amar y Querer \(Homenaje a Las Grandes Canciones\)](https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU) | 4:21 | 2021-12-29 |  |
 | [Querida](https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:29 | 2021-12-29 |  |

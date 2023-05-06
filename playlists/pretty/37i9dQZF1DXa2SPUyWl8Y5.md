@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,469 likes - 80 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,605 likes - 80 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Endless Dancing](https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Lost in Berlin](https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU) | 4:19 |
 | 80 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 |
 
-Snapshot ID: `MCxmOGFlMGNhOGFmMjlhMzkzZTQ0OWYxZDE5MGYxMzkyMWJiYjAzMGYz`
+Snapshot ID: `MCwxMTQxNmQyNmUyZTAwYjBiNmZlNTc5NTFkMzEyZGYwN2RkNTdkNmRl`

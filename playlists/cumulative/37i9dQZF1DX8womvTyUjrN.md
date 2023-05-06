@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: Vale
+> Fresh Latin pop on the rise\. Cover: Alvaro Diaz
 
-369 songs - 18 hr 45 min
+371 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Otra Vez](https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Otra Vez](https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4) | 2:35 | 2022-09-23 | 2023-03-18 |
 | [Pa Que Te Digo Que No](https://open.spotify.com/track/3WFJyF05yGekUuBmvEFDT0) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/3qtC5ySwx05J9unmNaXsTQ) | 2:54 | 2022-10-07 | 2022-10-29 |
 | [Pa Que Te Digo Que No](https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/5ISB8ui1kJkiMkaMNOO8jr) | 2:54 | 2022-07-25 | 2022-10-13 |
+| [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2023-05-05 |  |
 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 | 2022-07-01 | 2022-10-29 |
 | [Papeles](https://open.spotify.com/track/0vVebEdgHxQAi7ksITt9Jx) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Papeles](https://open.spotify.com/album/44YsTX2SYhfnvGZnCBI6hE) | 2:43 | 2022-07-01 | 2022-07-26 |
 | [Papelito](https://open.spotify.com/track/6MHN9H0xjXlBNqBu9vuYOt) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 2:59 | 2022-10-28 | 2022-12-10 |
@@ -336,7 +337,7 @@
 | [Telenovela](https://open.spotify.com/track/3WMRQ1kWWBpNV3hJFhqmhB) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Telenovela](https://open.spotify.com/album/7jrUStxYyNBOmz5ul1iGoC) | 2:30 | 2022-10-07 | 2022-12-10 |
 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 | 2022-05-06 | 2022-07-26 |
 | [Tequila](https://open.spotify.com/track/1HBV27zgy1PZtsxOFVqjKS) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Tequila](https://open.spotify.com/album/6trCxrKOwHCax3lOcRB2dg) | 2:58 | 2022-04-01 | 2022-07-02 |
-| [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 | 2023-04-21 |  |
+| [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 | 2023-04-21 | 2023-05-06 |
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2022-08-11 | 2022-10-29 |
 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 | 2022-05-20 | 2022-06-18 |
 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 | 2022-04-15 | 2022-05-21 |
@@ -363,7 +364,7 @@
 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 | 2022-09-09 | 2022-10-29 |
 | [Vamos Pa la Playa](https://open.spotify.com/track/7u4iBYiUYBJNr10Ov2u4s9) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vamos Pa la Playa](https://open.spotify.com/album/3WJUMEadyo3WnCQDQw6vLc) | 2:46 | 2022-12-09 | 2023-02-11 |
 | [Verano](https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Verano](https://open.spotify.com/album/3fAhHCHL12IjUVUMmImIUs) | 3:15 | 2023-04-28 |  |
-| [Vestido Azul](https://open.spotify.com/track/1AhK0LVcXaZ4SRcaJvU6MK) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Vestido Azul](https://open.spotify.com/album/1cG0jWGYtjHLwkBDLu3evL) | 2:52 | 2023-04-21 |  |
+| [Vestido Azul](https://open.spotify.com/track/1AhK0LVcXaZ4SRcaJvU6MK) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Vestido Azul](https://open.spotify.com/album/1cG0jWGYtjHLwkBDLu3evL) | 2:52 | 2023-04-21 | 2023-05-06 |
 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 | 2023-03-24 |  |
 | [Vientos De Octubre](https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [Javi Mendoza](https://open.spotify.com/artist/5uE0qYeF6eqoLgxLfDi3vl) | [Vientos De Octubre](https://open.spotify.com/album/3jU3G4fSqMKze4kZHTNdkG) | 3:22 | 2022-12-16 | 2023-01-14 |
 | [Volver a Casa](https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Volver a Casa](https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E) | 2:53 | 2022-09-23 | 2023-01-15 |
@@ -373,6 +374,7 @@
 | [Yo Primero](https://open.spotify.com/track/3I4rvoB4ih3URCTdIpWmFt) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Yo Primero](https://open.spotify.com/album/1QLxtuYX7Ojojm8I5zmLmI) | 2:45 | 2023-03-17 | 2023-03-25 |
 | [Yo Te Diré](https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Yo Te Diré](https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J) | 3:27 | 2023-01-20 | 2023-04-29 |
 | [Yo\-yo](https://open.spotify.com/track/4p9q8knpkk8vx7RTilNiyr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Yo\-yo](https://open.spotify.com/album/5Bydy5fT7Q1mNDzgb6aDzs) | 3:17 | 2022-10-07 | 2023-01-14 |
+| [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 | 2023-05-05 |  |
 | [¿Cómo Es Que Tú?](https://open.spotify.com/track/4xzoXEyNlodC0yT0i62got) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Es Que Tú?](https://open.spotify.com/album/6AXc9vXxu4vgTrMaeb3jo5) | 2:40 | 2022-12-23 | 2023-01-23 |
 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Qué Hubiera Pasado?](https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs) | 2:36 | 2023-02-03 | 2023-02-25 |
 | [Ácido Sabor](https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ácido Sabor](https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh) | 3:30 | 2022-07-25 | 2022-07-29 |

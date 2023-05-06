@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "PINK YOUR MOMENT",
+        "url": "https://open.spotify.com/album/0XJXxqADyzn0ed4QbTvsBD"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177055,
+      "name": "PINK YOUR MOMENT",
+      "url": "https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT"
+    },
+    {
+      "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
       },

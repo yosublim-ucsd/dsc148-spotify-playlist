@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: lighthearted \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,539 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,618 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [The Empress](https://open.spotify.com/track/4tFMZjv7dJxrKfKxoTv0bl) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [The Empress](https://open.spotify.com/album/46rqgDr8lEce9hwnT59TRW) | 1:58 |
 | 100 | [Some Strange Notion](https://open.spotify.com/track/34ZARRmxs59mqcp2TyIjGB) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:42 |
 
-Snapshot ID: `MCw5ZmEyYjExZDg3ZWYyN2ZiOTljMWI3NjBjMmYwNjlkYTI1NTZiODk2`
+Snapshot ID: `MCw0NmFiNDZjN2IyM2FhNGE5ZTcxODE2Y2FiYWVlNjMyMWE2NzUwNDk0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 
 > Get those vocal chords working with these Indie favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,763 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,077 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 149 | [The Bucket](https://open.spotify.com/track/5LZSXhywLD0CXBPQs3ULoL) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Aha Shake Heartbreak](https://open.spotify.com/album/3fNRzhnl6WAtghBXEeyaub) | 2:55 |
 | 150 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 
-Snapshot ID: `MCxkOTk2MjgxNjkyMzQ4YzA4ZTQ5M2Q1ZWFmMDBmODQwMmZjNzAwNmZm`
+Snapshot ID: `MCw1ZmRlMzRlY2Q5OTdmZjgyMzZmNDYyMjY0NDdmYjdhYjJlNzRhYTQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,081 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,121 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Sixteen](https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Sixteen](https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH) | 3:19 |
 | 100 | [He Don't Love Me](https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:30 |
 
-Snapshot ID: `MCwwZmQzMDNjZjE5NzBlNjc3NDhjYmYzYWUwNGI3NjIzZDI3ZjMzMTBm`
+Snapshot ID: `MCxlOTk4YTFmMTYwMmMwNzRiMTI4YTUxYTIzZWY2NzYxZjQxY2Q5NGIy`

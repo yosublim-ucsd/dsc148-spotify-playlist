@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,993 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,387 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 99 | [Coronamos](https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43) | [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Coronamos](https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR) | 3:08 |
 | 100 | [A fuego](https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
 
-Snapshot ID: `MCwxOGRmMmI3ZGM1OWUwMzcwNjhhODgwMmM1ZjEwMWE2NDM5MTE0MDZm`
+Snapshot ID: `MCxhODBmY2MyZWQ4NjZlZDI4MzY3MGJjNzQxZjc3ODRkYmE0MTc1Y2E4`

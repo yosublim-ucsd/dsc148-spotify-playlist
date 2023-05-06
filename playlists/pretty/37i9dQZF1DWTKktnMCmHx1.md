@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,934 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,953 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:28 |
 | 80 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 |
 
-Snapshot ID: `MCxjYzQxNGNiMjQ1ODI1ZTQxYWFjMzhiYjc4MWJlY2ZlYjFjY2I5ODYw`
+Snapshot ID: `MCw5MjdmMTg3ZmFmNmJiZjFkZWIwNTg3Y2E4ZDVkM2NhYTM2ZmMzOTMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,322 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,339 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 49 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 |
 | 50 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
 
-Snapshot ID: `MCwwNmE0MDEyYWJmOTU4MGY0ZDY0NDg0MmQ2MTI4OWNmZTljYzMxYzgw`
+Snapshot ID: `MCwxNzcyYmZhMGM5MjI3Mjc3YmUzZWIxMDk3NGM1ZjE4ZjEyZTQ2YzJh`

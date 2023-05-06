@@ -375,6 +375,32 @@
     },
     {
       "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "AIDN",
+          "url": "https://open.spotify.com/artist/3odNd531aBdTtCFryB2zYr"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc"
+    },
+    {
+      "album": {
         "name": "Again & Again",
         "url": "https://open.spotify.com/album/3tuBZEgIqr6HdYe7fYSlGs"
       },
@@ -690,7 +716,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 218000,
       "name": "All I've Ever Known",
       "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
@@ -1552,7 +1578,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180480,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/7bHXtJzt0TNV0S4TLqG5G6"
@@ -2358,7 +2384,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 206335,
       "name": "Cliffside",
       "url": "https://open.spotify.com/track/5zSIE31rRSg7dOrdtirOJX"
@@ -2436,7 +2462,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
@@ -3870,7 +3896,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 274795,
       "name": "Elenore",
       "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
@@ -4645,6 +4671,24 @@
     },
     {
       "album": {
+        "name": "Fog Wall",
+        "url": "https://open.spotify.com/album/1ejlm7Dl4L1sry7K2YQYEl"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451655,
+      "name": "Fog Wall",
+      "url": "https://open.spotify.com/track/7jV55wiMuMWSM5PRaX80hv"
+    },
+    {
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
       },
@@ -4700,10 +4744,36 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210562,
       "name": "Food for the Soul",
       "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
+    },
+    {
+      "album": {
+        "name": "Fool 4 U (feat. Enisa)",
+        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146076,
+      "name": "Fool 4 U (feat. Enisa)",
+      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
     },
     {
       "album": {
@@ -5078,7 +5148,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 217410,
       "name": "Gimme That Bounce",
       "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
@@ -5815,6 +5885,28 @@
     },
     {
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
+    },
+    {
+      "album": {
         "name": "Hey (I Miss You)",
         "url": "https://open.spotify.com/album/0YrZnNms5Psu0n3ttkkC3K"
       },
@@ -5998,6 +6090,28 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "album": {
+        "name": "Hold Tight",
+        "url": "https://open.spotify.com/album/5ieJc3mDGH3kYxerTWF73r"
+      },
+      "artists": [
+        {
+          "name": "Nicolaas",
+          "url": "https://open.spotify.com/artist/5IqWaBUBZviyaMlZ78ZmtI"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216449,
+      "name": "Hold Tight",
+      "url": "https://open.spotify.com/track/62jsrqQue4ADYdmQ40Mn72"
     },
     {
       "album": {
@@ -6900,7 +7014,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 170213,
       "name": "Inhale / Exhale (with Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
@@ -7203,6 +7317,28 @@
     },
     {
       "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        },
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk"
+    },
+    {
+      "album": {
         "name": "Just Say",
         "url": "https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG"
       },
@@ -7280,7 +7416,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 226500,
       "name": "Kamili",
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
@@ -8142,7 +8278,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 186798,
       "name": "Lose Control (feat. Shungudzo)",
       "url": "https://open.spotify.com/track/5IHi5WPEKTAY9YrIFAWZaB"
@@ -8632,7 +8768,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 249160,
       "name": "MADLY",
       "url": "https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH"
@@ -9068,7 +9204,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 153109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
@@ -9707,6 +9843,32 @@
     },
     {
       "album": {
+        "name": "never thought it'd be over",
+        "url": "https://open.spotify.com/album/1B7Z02E0fddNoM6CkLkZUX"
+      },
+      "artists": [
+        {
+          "name": "Tep No",
+          "url": "https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8"
+        },
+        {
+          "name": "Pete Alauk",
+          "url": "https://open.spotify.com/artist/744QOPtPxEmtOb0WXEQZzV"
+        },
+        {
+          "name": "benjamiin",
+          "url": "https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169057,
+      "name": "never thought it'd be over",
+      "url": "https://open.spotify.com/track/6olWEI7Q14CZxU6bezFU2Z"
+    },
+    {
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -10094,6 +10256,24 @@
       "duration_ms": 228407,
       "name": "O Retha",
       "url": "https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4QsV0Pg8ME7G5oJ9R5MniF"
+      },
+      "artists": [
+        {
+          "name": "Kisaya",
+          "url": "https://open.spotify.com/artist/51Rmu9mstzis4wE5v6c28R"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3UMun1cKfBA7NPlVXcF7Ul"
     },
     {
       "album": {
@@ -12357,6 +12537,24 @@
     },
     {
       "album": {
+        "name": "Say You Love Me",
+        "url": "https://open.spotify.com/album/0JmVjpgQ3LdRGLh7i6IS43"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/1dg1cs83LaQwpfM39tA1Hd"
+    },
+    {
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS"
       },
@@ -12610,6 +12808,28 @@
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
+    },
+    {
+      "album": {
+        "name": "Shit We Do For Love",
+        "url": "https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167566,
+      "name": "Shit We Do For Love",
+      "url": "https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn"
     },
     {
       "album": {
@@ -13275,6 +13495,24 @@
     },
     {
       "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
+    },
+    {
+      "album": {
         "name": "Still Sleepless",
         "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
       },
@@ -13440,6 +13678,28 @@
       "duration_ms": 273997,
       "name": "SUMMER RENAISSANCE",
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
+    },
+    {
+      "album": {
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186123,
+      "name": "Sumthin Crazy (with Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
     },
     {
       "album": {
@@ -14777,6 +15037,32 @@
     },
     {
       "album": {
+        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159161,
+      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "album": {
         "name": "To Feel Again / Trois",
         "url": "https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI"
       },
@@ -15774,7 +16060,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187646,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/48IVW1WGlFeJ1USJAa9Y8t"

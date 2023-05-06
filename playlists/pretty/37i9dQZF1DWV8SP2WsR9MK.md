@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,851 likes - 100 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,921 likes - 100 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
 | 100 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
 
-Snapshot ID: `MCw5ZmQ5ODM4NTgzZTI1MjVjNzQ2NjkyOTU4MTQwNzcwNmRiZmZhM2Y4`
+Snapshot ID: `MCw4ZGU2ZDBhNjQ5MGQ1MmQ2YjkwMDlkMzI5M2ExZDI2MDk5MGM2NWFk`

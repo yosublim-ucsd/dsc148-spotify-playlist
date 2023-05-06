@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187026,
       "name": "Kids Are Born Stars",
       "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
@@ -3692,6 +3692,24 @@
       "duration_ms": 244500,
       "name": "Love Is Loving - Radio Edit",
       "url": "https://open.spotify.com/track/4p2ohDIkoF2MAUW3gJqGdp"
+    },
+    {
+      "album": {
+        "name": "Love Is The New Money",
+        "url": "https://open.spotify.com/album/6yg9aXhK3IhmiCD7RZ469S"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150704,
+      "name": "Love Is The New Money",
+      "url": "https://open.spotify.com/track/6SQzw4ZppE6ahHRAtkLvU4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,889 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,992 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 99 | [That Old Feeling](https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Cool Imagination](https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY) | 5:45 |
 | 100 | [Almost Like Being In Love](https://open.spotify.com/track/5T7Yd8dDaNLeFhv4dRfrkA) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:16 |
 
-Snapshot ID: `MCxiNjIzMGRiZDhjZDViYjIxOGNmMjUyMjZlZTMyYWE2OGIwZWU3NTZj`
+Snapshot ID: `MCwwNGMwYzFmMjJiOWEyNDlkNjNkNGEyYmU5ODU0MWI5ZWU3NjVhY2I4`

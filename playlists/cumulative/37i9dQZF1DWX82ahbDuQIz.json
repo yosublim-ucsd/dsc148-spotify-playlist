@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Parade",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: Shucked",
   "name": "Best of Broadway",
   "tracks": [
     {
@@ -436,6 +436,24 @@
       "duration_ms": 252453,
       "name": "Cabaret (from \"Cabaret\")",
       "url": "https://open.spotify.com/track/5ySJFXo0jQmn8O8J81yzJD"
+    },
+    {
+      "album": {
+        "name": "Shucked (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5UPeHg0XKon2sq9N6jtSVA"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of Shucked",
+          "url": "https://open.spotify.com/artist/2Dc5cmoiYcZNXnI6BkDHDj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205187,
+      "name": "Corn - Reprise",
+      "url": "https://open.spotify.com/track/3DYz2J2hY4LBoUMKVhh1zJ"
     },
     {
       "album": {
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151008,
       "name": "Maybe Love",
       "url": "https://open.spotify.com/track/1f9NPtObzwBvyBDcx737O6"
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 191040,
       "name": "With One Look",
       "url": "https://open.spotify.com/track/0UVGQYFxB6CYQd8lDiWKJY"

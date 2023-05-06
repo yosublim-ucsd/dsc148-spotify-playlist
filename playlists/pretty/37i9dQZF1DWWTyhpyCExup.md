@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,654 likes - 84 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,662 likes - 84 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 83 | [Mountain Top](https://open.spotify.com/track/7rJNvxjt9dXQkRYNrQfjOV) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:27 |
 | 84 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 |
 
-Snapshot ID: `MCxmMjA0MDg5ODQ5OTFjM2EzZmIwYzM0NzQ1OTQ4NzhjYTRmYjNjMmI0`
+Snapshot ID: `MCxkOTE1MTE0Yzk2MDAxNmIzNDc1ZWNmNTdmYjIzNDJjYzlhNWYwMzEy`

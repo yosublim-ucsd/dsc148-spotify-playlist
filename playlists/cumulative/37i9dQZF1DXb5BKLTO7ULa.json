@@ -2419,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Bogus Operandi",
+        "url": "https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223785,
+      "name": "Bogus Operandi",
+      "url": "https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I"
+    },
+    {
+      "album": {
         "name": "Bohemian Eclectic",
         "url": "https://open.spotify.com/album/5McHbOLSWnypUHIDlx8Hz8"
       },
@@ -4250,6 +4268,24 @@
       "duration_ms": 186000,
       "name": "Day Off",
       "url": "https://open.spotify.com/track/2sDueun8rjVzcOchc85sn0"
+    },
+    {
+      "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148395,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv"
     },
     {
       "album": {
@@ -12237,6 +12273,24 @@
     },
     {
       "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186268,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
       },
@@ -12430,6 +12484,24 @@
     {
       "album": {
         "name": "Muero",
+        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180329,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
+    },
+    {
+      "album": {
+        "name": "Muero",
         "url": "https://open.spotify.com/album/46ZpeeYCLnDrb0VmsRF1IH"
       },
       "artists": [
@@ -12440,7 +12512,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180329,
       "name": "Muero",
       "url": "https://open.spotify.com/track/5hGSpLdMdvm3epAiyhEJdp"
@@ -12614,6 +12686,32 @@
     {
       "album": {
         "name": "Nasty",
+        "url": "https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E"
+    },
+    {
+      "album": {
+        "name": "Nasty",
         "url": "https://open.spotify.com/album/2Lt6F1UoKsFa6qYk60wdOy"
       },
       "artists": [
@@ -12632,7 +12730,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 160615,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/5mLMev7skmmcBn0Woo03SM"
@@ -14122,6 +14220,24 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169949,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,588 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,646 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 |
 | 50 | [heart cocktail](https://open.spotify.com/track/6cer5UGwSk3DT6774RxEXT) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [Alice333](https://open.spotify.com/artist/4RleTopZn6FPgixOm9Xkl3) | [heart cocktail](https://open.spotify.com/album/53XOdPgOyVUx1HDvwzb1Uz) | 2:56 |
 
-Snapshot ID: `MCw4OTc0YTc1YTg2MjM2OWRlZjVmNjllYTZjNzg0YmZjMzNhMWEyYzY2`
+Snapshot ID: `MCw3NzgyMDg4YzdhOTJkZTY4YmI1YjY3OGE3OWRmNjViZjlhOGYwNzcx`

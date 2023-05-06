@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/6hpDHQo53NmZ3iBFohMp2Q"
+      },
+      "artists": [
+        {
+          "name": "Generation.",
+          "url": "https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/0c6srdC9tBzXuUwNkRL5IA"
+    },
+    {
+      "album": {
         "name": "Five Ponds",
         "url": "https://open.spotify.com/album/7Kgnc78hmFgqYEY1eCbuRq"
       },

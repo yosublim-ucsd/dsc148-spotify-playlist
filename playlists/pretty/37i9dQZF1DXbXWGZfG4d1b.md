@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,697 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,708 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 99 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 |
 | 100 | [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 |
 
-Snapshot ID: `MCwzYjNhOTIwYjhjMDQ4YjMyMGJlMGYyN2MzOTkzMDU4MGQ4OGY2NzYz`
+Snapshot ID: `MCw3YjVhYTI0YjQ3M2M5ZDVmNjY3OWNjZGU4YjhmYWY1M2Q5ZWU2MmU3`

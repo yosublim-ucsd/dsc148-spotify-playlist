@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,671 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,977 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Behind](https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Deep Kontakt](https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna) | [Behind](https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt) | 4:33 |
 | 75 | [Crash & Burn](https://open.spotify.com/track/2BaYYrCKr6Uv8Vs1TD0xHS) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Crash & Burn](https://open.spotify.com/album/2bF58OdXln8I3ZqpAxGDjS) | 3:08 |
 
-Snapshot ID: `MCw1NTVmZTFiZDdlZTc5YWE0MjgwYTFhYjczOWFkODEzM2E5NzY1YzBi`
+Snapshot ID: `MCxjZThlYTZhYWNiNjMwNGVkMDgyN2Q1YWI2N2VlMmMzYjA3ODEyNjYw`

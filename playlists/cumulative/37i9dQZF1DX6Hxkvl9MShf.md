@@ -4,7 +4,7 @@
 
 > Melodic house and techno to concentrate the mind.
 
-84 songs - 5 hr 59 min
+85 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Lotus \- Club Mix](https://open.spotify.com/track/2SIbyyyKMYeZUrNgXMAl88) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Lotus \(Club Mix\)](https://open.spotify.com/album/2aeejn2J3EFcjihtTDNOIj) | 4:19 | 2023-01-06 |  |
 | [Malfunction](https://open.spotify.com/track/3D4jG7Y8X8McysevNpy8Cj) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho) | [Malfunction](https://open.spotify.com/album/5Qrv5ulhZrnvhrUdKthVwO) | 4:37 | 2023-01-06 |  |
 | [Marble](https://open.spotify.com/track/7w2Uz5hNCkrKjfgzvvNe6i) | [Miss Melera](https://open.spotify.com/artist/3P7dBiGBrfbqVE1Etbr9f1) | [Nocturnal 008](https://open.spotify.com/album/1zO69WjJDc7QBGpDbscldx) | 4:16 | 2023-01-06 |  |
-| [Meds \- yuma\. Remix](https://open.spotify.com/track/3VbGkKIFxuUP6fAcmKwEYc) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [DISPOSABLE SOCIETY \(DELUXE\)](https://open.spotify.com/album/4ydB44OU7hMXY65PJroOnF) | 3:27 | 2023-01-06 |  |
+| [Meds \- yuma\. Remix](https://open.spotify.com/track/3VbGkKIFxuUP6fAcmKwEYc) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [DISPOSABLE SOCIETY \(DELUXE\)](https://open.spotify.com/album/4ydB44OU7hMXY65PJroOnF) | 3:27 | 2023-01-06 | 2023-05-06 |
+| [Meds \- yuma\. Remix](https://open.spotify.com/track/3aIjxH92Y5thPmaJZV8EtZ) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [DISPOSABLE SOCIETY \(DELUXE\)](https://open.spotify.com/album/2ToPwhMJhWGPPr1JXY0f6H) | 3:27 | 2023-01-06 |  |
 | [Melodic Flow](https://open.spotify.com/track/6yfkhmXK9eBGGrBMR3ypzt) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Take Me Home \(Flow\)](https://open.spotify.com/album/4b2TWiGPq0iDNzYKyndF3f) | 6:11 | 2023-01-06 |  |
 | [Melodic Mind](https://open.spotify.com/track/4vRHOvD3C0sESg8srdkunk) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:09 | 2023-01-06 |  |
 | [Melodic Space](https://open.spotify.com/track/7ojus18AAOWFneqLSxRyTn) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 4:56 | 2023-01-06 |  |

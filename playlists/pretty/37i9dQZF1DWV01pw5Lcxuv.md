@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 
 > Disfruta con mamá la era dorada de los 80's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,409 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,554 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 74 | [Me Va A Extranar](https://open.spotify.com/track/0RWbbc4NCcd33aU9tQnaZA) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/7xpuQcTsD5qYl4kOJkhVPi) | 4:17 |
 | 75 | [Voy a Llenarte Toda](https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 5:24 |
 
-Snapshot ID: `MCxkMDFhZTQwNzBmMWVkOWJhNWVmMWMzYzJjYzcwOGZiN2I0MDc3YzQ3`
+Snapshot ID: `MCxhNTYxYTdhZGUxY2YwYWRmZWIzNjFkZGI4Y2RjMzczMTNkNGMzZGQw`

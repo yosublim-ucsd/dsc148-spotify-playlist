@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,123 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,159 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 49 | [可能是比較內向而已](https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [可能是比較內向而已](https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN) | 3:51 |
 | 50 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 |
 
-Snapshot ID: `MCw2NTRmZGM1MDBjYzQwZTk0NDdiM2Q1MGU0ZTUxYTQ1NGM1OTQyNzc2`
+Snapshot ID: `MCwxMWRhM2I0YjkyOTExNzdhNGFiYzgyY2EzMGVlMGMyZjg0NzRjODQ4`

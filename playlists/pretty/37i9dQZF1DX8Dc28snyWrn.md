@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dc28snyWrn.md) - [plain]
 
 > Take a breath with these uplifting songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,834 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,102 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dc28snyWrn.md) - [plain]
 | 49 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
 | 50 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
 
-Snapshot ID: `MCxjMGY1YzM4YmIxMTc5NTAxYWVjYmFlMDdjMzAyYTcyMmFkODlmOWNi`
+Snapshot ID: `MCxlMmJlNjM1YjMwMzExNDllZTg1ZjY5MDhkZmJlZjViNjQ4NGIyYjUz`

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Armani White)",
-  "num_followers": 424775,
+  "num_followers": 424845,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmVlYzZiYThiMzBlYjljYTE2ZGE1OWEwMWI0NWY3NTE3YWVhNDdi",
+  "snapshot_id": "MCxmNmUyMWJmOGRlNmQyMjJiMGY1NGY1NzY1ZjAzMTQ0YjUwNDczNTM3",
   "tracks": [
     {
       "added_at": "2023-05-04 16:00:00",
@@ -31,6 +31,22 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 148395,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
         "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman) [FAST X / Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/4CU2iotem1HERk9Rm3V8w6"
       },
@@ -51,6 +67,26 @@
       "duration_ms": 163257,
       "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/7JODkWwpYsZt5racs1IiOJ"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
+        "name": "WON'T HE DO IT",
+        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 190310,
+      "name": "Brucifix",
+      "url": "https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns"
     },
     {
       "added_at": "2023-05-04 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,629 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,793 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 49 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
 | 50 | [Sommerregen](https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Sommerregen](https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl) | 3:45 |
 
-Snapshot ID: `MCxkNmQyYzZjMmEwMTczOGU1MWQzYTNlZGY0ZTU1NDE3ZjE3YjVmYzgy`
+Snapshot ID: `MCw1NzgxYWZmZWMwMjA0YzFiYTRiZTExNjc5OGQzZWRmYzI0MjE1ZmMy`

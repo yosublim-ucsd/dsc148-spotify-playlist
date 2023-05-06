@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,415,096 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,415,638 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Discoteca \(Deorro Remix\)](https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Discoteca \(Deorro Remix\)](https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj) | 3:10 |
 | 100 | [Free Yourself \- Paul Woolford Remix](https://open.spotify.com/track/6HakCt8rCQejqqoB3RKj4Y) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Free Yourself \(Paul Woolford Remix\)](https://open.spotify.com/album/4eSdCOymBMoeuqHH1V6yeL) | 3:01 |
 
-Snapshot ID: `MCwzZTIxNzk3MTJhNzU3MDVlZmNlYjQ2YzliNDY4M2RiNjdiZGY2ZDFi`
+Snapshot ID: `MCxlMDQzMmQ5YjFhY2M1ZjIzYzU5ODkyZTcwMGRiYjk3ZmViZjc3OTJm`

@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: The Aces",
-  "num_followers": 204363,
+  "num_followers": 204393,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWQ0NTg4YzhlYTFhZTM5NTM0OGU1NGVkYzdiMDRkMDEyYjhhZTI4",
+  "snapshot_id": "MCwyMDMzY2QwOTRkNmVkMTQ2MjU5YTQ0Zjg1ODE3OTBkYzIwMTYzZjAy",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -23,6 +23,42 @@
       "duration_ms": 176423,
       "name": "I've Loved You For So Long",
       "url": "https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Redlight (feat. Teezo Touchdown)",
+        "url": "https://open.spotify.com/album/7u7KN63awFeiDCfk9dq1xm"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Redlight (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -57,52 +93,20 @@
       "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt"
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/4vs2mQsCkcQCNeRzUDRTyE"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Break For You",
-        "url": "https://open.spotify.com/album/6mRtETwPNimVfkeyKOMzBH"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 154885,
-      "name": "Break For You",
-      "url": "https://open.spotify.com/track/3Y37BUtMctTp22i1LC1sE7"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+      "duration_ms": 143573,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -121,6 +125,38 @@
       "url": "https://open.spotify.com/track/6pnGJhKuluYoxJMuJwuhy0"
     },
     {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Break For You",
+        "url": "https://open.spotify.com/album/6mRtETwPNimVfkeyKOMzBH"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 154885,
+      "name": "Break For You",
+      "url": "https://open.spotify.com/track/3Y37BUtMctTp22i1LC1sE7"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/4vs2mQsCkcQCNeRzUDRTyE"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Change",
@@ -135,6 +171,22 @@
       "duration_ms": 222133,
       "name": "Change",
       "url": "https://open.spotify.com/track/1m1WkrpWMJ5ic1D0oLd5EF"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "coachella",
+        "url": "https://open.spotify.com/album/4p5USHMiYnI4oRWufK8Ghn"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 124830,
+      "name": "coachella",
+      "url": "https://open.spotify.com/track/1C8oR7bQs66ZHJxiKGwUT2"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -183,6 +235,22 @@
       "duration_ms": 190933,
       "name": "Designer",
       "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Practically Strangers",
+        "url": "https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob"
+      },
+      "artists": [
+        {
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "Practically Strangers",
+      "url": "https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL"
     },
     {
       "added_at": "2023-04-24 14:34:02",
@@ -265,6 +333,22 @@
       "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Precious",
+        "url": "https://open.spotify.com/album/22iBOFbMdxYUK3IA9AtPld"
+      },
+      "artists": [
+        {
+          "name": "Alt Bloom",
+          "url": "https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP"
+        }
+      ],
+      "duration_ms": 149118,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/3VdAHgjdtCYkuYP1erMWqi"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "What Am I Missing?",
@@ -279,22 +363,6 @@
       "duration_ms": 172714,
       "name": "What Am I Missing?",
       "url": "https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE"
-    },
-    {
-      "added_at": "2023-03-31 03:59:46",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/0a7Qd2a1DiTqRJIdJgtcSC"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 167029,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6YYvWyhAqooh8RqNeGsOlq"
     },
     {
       "added_at": "2023-04-24 14:56:45",
@@ -567,26 +635,6 @@
       "duration_ms": 160866,
       "name": "My Stupid Heart",
       "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Feel my love",
-        "url": "https://open.spotify.com/album/4vUImSqOSspVWu02FH4HTy"
-      },
-      "artists": [
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        },
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 160940,
-      "name": "Feel my love",
-      "url": "https://open.spotify.com/track/3xJjp7RYkmW2RRWcPfQY0e"
     },
     {
       "added_at": "2023-03-31 03:59:46",
@@ -883,22 +931,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "You'll Get It When You're Older",
         "url": "https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu"
       },
@@ -947,22 +979,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Fine Lines",
-        "url": "https://open.spotify.com/album/7oHo3runeV3nHPtjOy4uK3"
-      },
-      "artists": [
-        {
-          "name": "Alt Bloom",
-          "url": "https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP"
-        }
-      ],
-      "duration_ms": 147804,
-      "name": "Fine Lines",
-      "url": "https://open.spotify.com/track/6adCqDwVKcdXK8f4JHkOfo"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Free Love",
         "url": "https://open.spotify.com/album/6XJGZ5RmmHVvOJEDFPL8f3"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 173263,
       "name": "Free Love",
       "url": "https://open.spotify.com/track/3hX0cncUUZ3A6cx9w1dW4w"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Glad We Didn't Meet",
-        "url": "https://open.spotify.com/album/26SFXMuuftdkZmt4E3gEOH"
-      },
-      "artists": [
-        {
-          "name": "Mykyl",
-          "url": "https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "Glad We Didn't Meet",
-      "url": "https://open.spotify.com/track/0WFNSbhvCFNPuAdHfMEQV2"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1039,22 +1039,6 @@
       "duration_ms": 195104,
       "name": "Naive",
       "url": "https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 157400,
-      "name": "Nervous System",
-      "url": "https://open.spotify.com/track/673bojA0jR34cPblKgt3D5"
     }
   ],
   "unique_name": "soda",

@@ -872,7 +872,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 88620,
       "name": "attachment (she wanna love)",
       "url": "https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S"
@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "3P",
+        "url": "https://open.spotify.com/album/45SXQPBqxExCQ3D7q4cCEq"
+      },
+      "artists": [
+        {
+          "name": "Tony Velour",
+          "url": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83934,
+      "name": "big 3M",
+      "url": "https://open.spotify.com/track/7HrxtHXU8N6gQLPxX7Eg5r"
+    },
+    {
+      "album": {
         "name": "CHPT. 2: PLAYTiME",
         "url": "https://open.spotify.com/album/4OzlyMvspWaltQtB9XUZGJ"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 106736,
       "name": "BING BONG",
       "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 143283,
       "name": "BLITZ",
       "url": "https://open.spotify.com/track/6sMos8CBjRScWJktutm8ek"
@@ -2370,6 +2388,24 @@
       "duration_ms": 123428,
       "name": "COINCIDENCE",
       "url": "https://open.spotify.com/track/4Y3E5Y3kaBJqFc1vmSyg7V"
+    },
+    {
+      "album": {
+        "name": "REAL RAW!",
+        "url": "https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108529,
+      "name": "COME HERE!",
+      "url": "https://open.spotify.com/track/4lJEAyZDt8m7vXREjEXS6q"
     },
     {
       "album": {
@@ -3737,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Short Term Agreement",
+        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "external meMories",
+      "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
+    },
+    {
+      "album": {
         "name": "EXTRAVAGANT",
         "url": "https://open.spotify.com/album/3pzuz8GN7Ee50O0leQLkUw"
       },
@@ -4498,7 +4552,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 63396,
       "name": "g3t to work sylv3st3r",
       "url": "https://open.spotify.com/track/20lxzDRrKIm9FHaReEcPlP"
@@ -4722,7 +4776,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 147695,
       "name": "GNARLY! (WITH ARMANI WHITE)",
       "url": "https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu"
@@ -5357,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233794,
+      "name": "how u feel?",
+      "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
+    },
+    {
+      "album": {
         "name": "Humans Being Humans",
         "url": "https://open.spotify.com/album/2st8Kbp56wmwC5Z2MLo5R3"
       },
@@ -5672,7 +5744,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 109830,
       "name": "I Like",
       "url": "https://open.spotify.com/track/5q783kxh5FeJnfXaCUgPhc"
@@ -6084,6 +6156,24 @@
       "duration_ms": 203662,
       "name": "IN THE MIDDLE",
       "url": "https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb"
+    },
+    {
+      "album": {
+        "name": "internet",
+        "url": "https://open.spotify.com/album/43erv0pAph2Owt6ZjDHry0"
+      },
+      "artists": [
+        {
+          "name": "BLCKK",
+          "url": "https://open.spotify.com/artist/4Zs1wgcjD3aYvaN1lFRMRt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126003,
+      "name": "internet",
+      "url": "https://open.spotify.com/track/6bESi3HGdhlapCvsG1vhL7"
     },
     {
       "album": {
@@ -7361,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "MATHEMATICAL DISRESPECT",
+        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88304,
+      "name": "MATHEMATICAL DISRESPECT",
+      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
+    },
+    {
+      "album": {
         "name": "mathematics",
         "url": "https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm"
       },
@@ -7550,7 +7658,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 154893,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
@@ -7832,10 +7940,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 150453,
       "name": "Mys\u00eblf",
       "url": "https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy"
+    },
+    {
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100122,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
     },
     {
       "album": {
@@ -7962,7 +8088,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 144000,
       "name": "NEVEREVER",
       "url": "https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ"
@@ -8122,7 +8248,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 160007,
       "name": "NO SNITCHING (with Dusty Locane)",
       "url": "https://open.spotify.com/track/07NgzcfZh94EiueKm5KiT4"
@@ -8778,7 +8904,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 137142,
       "name": "Penthouse (feat. Zzz.)",
       "url": "https://open.spotify.com/track/11HCblH3YChzvCTGUB1hcs"
@@ -9184,7 +9310,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 162208,
       "name": "pRETTy",
       "url": "https://open.spotify.com/track/6vDyzD9o8aYhR1963oJpkO"
@@ -10158,7 +10284,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 154800,
       "name": "SIMPLE",
       "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
@@ -10248,7 +10374,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
@@ -10320,7 +10446,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 175774,
       "name": "Slide Den",
       "url": "https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR"
@@ -10510,6 +10636,24 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137579,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL"
     },
     {
       "album": {
@@ -10970,7 +11114,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151428,
       "name": "TAN",
       "url": "https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh"
@@ -11046,6 +11190,24 @@
       "duration_ms": 140000,
       "name": "Tears of a Tiger",
       "url": "https://open.spotify.com/track/2pRU7Hr7vmSWT90NNOQiTd"
+    },
+    {
+      "album": {
+        "name": "TELL ME U ALONE!",
+        "url": "https://open.spotify.com/album/0hdMPzrNIR56NiEsICG7h1"
+      },
+      "artists": [
+        {
+          "name": "CAIRO!",
+          "url": "https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165180,
+      "name": "TELL ME U ALONE!",
+      "url": "https://open.spotify.com/track/1gfQDhApqDoOsPmLtMhP0z"
     },
     {
       "album": {
@@ -11514,7 +11676,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 148333,
       "name": "Trapping & Finessing (LOVE Song)",
       "url": "https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb"
@@ -11638,6 +11800,24 @@
       "duration_ms": 117066,
       "name": "TWINNEM",
       "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
+    },
+    {
+      "album": {
+        "name": "twisted",
+        "url": "https://open.spotify.com/album/7pQye8vr3i3YbGJmDLFytj"
+      },
+      "artists": [
+        {
+          "name": "blxty",
+          "url": "https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155211,
+      "name": "twisted",
+      "url": "https://open.spotify.com/track/2eJSp2cHMegpyQpddwnB3o"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify with Nigerian gospel music\.  Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,011 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 |
 | 50 | [Mighty God \- Remix](https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God \(Remix\)](https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX) | 5:23 |
 
-Snapshot ID: `MCxjNTUwZTMwMWNkNDI1ZThiYjViYjhjMzY2YWRiNDc5ZDg2M2QwMjQz`
+Snapshot ID: `MCxmOTMxMGU5MTljNDBlYmMzZDBmM2M1MTMzNjBhMWQzZWNiODQ2OWQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,942 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,102 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 |
 | 100 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 2:56 |
 
-Snapshot ID: `MCxhNzViNzBhNTM1YzcxZGQ3NWQ0MGEzMzA2MTA5MDY5MTE2OTVmZjk3`
+Snapshot ID: `MCwxOWE4ZjgxYjhlNmRlYzI5M2ViMTIxMzE2ZDY3YTRhMGY5MGIyM2Y1`

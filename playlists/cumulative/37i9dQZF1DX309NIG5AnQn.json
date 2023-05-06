@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "TReSMO",
+        "url": "https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111989,
+      "name": "GENERA-VIT",
+      "url": "https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd"
+    },
+    {
+      "album": {
         "name": "Gualicho",
         "url": "https://open.spotify.com/album/2NeIHG0JddnTE6hAd5XzGM"
       },

@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Ana Wein",
+        "url": "https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Ana Wein",
+      "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
+    },
+    {
+      "album": {
         "name": "Ana Weyak",
         "url": "https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um"
       },
@@ -280,6 +298,24 @@
       "duration_ms": 213504,
       "name": "Ashani - \u0639\u0634\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/1xXXbPSAXe6LPr6tWqvIvT"
+    },
+    {
+      "album": {
+        "name": "Atyab Qalb",
+        "url": "https://open.spotify.com/album/1CwNkOTza2CTdPQIh5uMeV"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Zmaili",
+          "url": "https://open.spotify.com/artist/4ocVQVhOCz7s01n7K6xmrq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239074,
+      "name": "Atyab Qalb",
+      "url": "https://open.spotify.com/track/0h1vwIUblTT3Ue9K2UE36f"
     },
     {
       "album": {
@@ -554,6 +590,24 @@
       "duration_ms": 208837,
       "name": "Dawri Sar",
       "url": "https://open.spotify.com/track/7swi5ILNDVCNhW1ApDPLmD"
+    },
+    {
+      "album": {
+        "name": "Eftahli Albak",
+        "url": "https://open.spotify.com/album/0vg1yWxtXpaFXGDFPbr3BX"
+      },
+      "artists": [
+        {
+          "name": "Mohamed el Majzoub",
+          "url": "https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193859,
+      "name": "Eftahli Albak",
+      "url": "https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ"
     },
     {
       "album": {
@@ -1091,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Ma Byetkarar",
+        "url": "https://open.spotify.com/album/3xH3ywXsLQAQUOTk4nt5dJ"
+      },
+      "artists": [
+        {
+          "name": "Wadih El Cheikh",
+          "url": "https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Ma Byetkarar",
+      "url": "https://open.spotify.com/track/4BZl8mgWXlv6v6RsQNaABx"
+    },
+    {
+      "album": {
         "name": "Ma Tarakna",
         "url": "https://open.spotify.com/album/7bOBrNOz7Ey6GLfKyBj1a1"
       },
@@ -1482,7 +1554,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197289,
       "name": "TiTi",
       "url": "https://open.spotify.com/track/4LoPkMbA7F5byELSc0MAKs"
@@ -1558,6 +1630,24 @@
       "duration_ms": 281624,
       "name": "Wahdani",
       "url": "https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX"
+    },
+    {
+      "album": {
+        "name": "Waldane",
+        "url": "https://open.spotify.com/album/74V5jyIbatLqRzkWHMNzCk"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258880,
+      "name": "Waldane",
+      "url": "https://open.spotify.com/track/0s6FNOFMwaEL1tQSOwSMUz"
     },
     {
       "album": {
@@ -1828,7 +1918,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 250680,
       "name": "\u0632\u0647\u0631\u0629 \u0645\u0646 \u0627\u0644\u064a\u0627\u0633\u0645\u064a\u0646",
       "url": "https://open.spotify.com/track/0tS4ytQ1au13MkSFESa6B7"

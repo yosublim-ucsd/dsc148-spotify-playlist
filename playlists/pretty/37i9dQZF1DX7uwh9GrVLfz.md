@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Hi\-STANDARD
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,128 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,191 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | [EVERGREEN](https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [EVERGREEN](https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt) | 3:01 |
 | 100 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 |
 
-Snapshot ID: `MCxlMjNiYjc0YzFiOWY3ZmI2MjcyYjJlNDMyMGJlMTI2YmUxNjM4M2Qz`
+Snapshot ID: `MCw2ZTZkZDllYmFkNTgwOTE2ZGE2ZDczZDQ3YTVkZGQ4NWQ4YjcxMWUz`

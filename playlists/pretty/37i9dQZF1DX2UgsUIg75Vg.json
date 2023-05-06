@@ -1,48 +1,28 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Baby Rose",
-  "num_followers": 2326623,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Phabo",
+  "num_followers": 2326830,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjUzNTQ1ZDA5YTJkNTZjOWQ5MTQzZWVkMDVkOWU1ZGI5ODc0Nzcy",
+  "snapshot_id": "MCxjMzA1Y2ExZjY0MjM2ZmZkMWY5MTM1ZTYwOTFhMjc1NDY0MTkxOTU0",
   "tracks": [
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Through and Through",
-        "url": "https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt"
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed"
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 200653,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/5TdzPzC6hlBT5cofaaqybi"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 241232,
-      "name": "Disillusioned (with serpentwithfeet)",
-      "url": "https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd"
+      "duration_ms": 142191,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -137,6 +117,110 @@
       "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Eve Gene",
+        "url": "https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Eve Gene",
+      "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Through and Through",
+        "url": "https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0Rkn75x8Xcw8PdFDfYFTjR"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "ME YOU & GOD",
+        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "MAYBE SWANKAFORNiA",
+      "url": "https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Full Circle : Sonic Book 1",
+        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 205630,
+      "name": "BS",
+      "url": "https://open.spotify.com/track/4c5VzowOXBYPveZPa51eRw"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "B4L",
+      "url": "https://open.spotify.com/track/5WsGpThlS3yoMHbSwHNmx1"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "The Hurtbook (Homegirl Pack)",
@@ -157,52 +241,20 @@
       "url": "https://open.spotify.com/track/4It2tsHgHW7gdEDCh0Jfo8"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
         }
       ],
-      "duration_ms": 228080,
-      "name": "B4L",
-      "url": "https://open.spotify.com/track/5WsGpThlS3yoMHbSwHNmx1"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Scorpio Moon",
-        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Scorpio Moon",
-      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
+      "duration_ms": 159532,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/7sqLzX73av3Gy1aPM4i1tG"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -219,6 +271,30 @@
       "duration_ms": 208941,
       "name": "ANGEL",
       "url": "https://open.spotify.com/track/30s0R1Kz4E3yIDaZFxvTwc"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "The Energy",
+        "url": "https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        },
+        {
+          "name": "KOLE",
+          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
+        }
+      ],
+      "duration_ms": 219464,
+      "name": "The Energy",
+      "url": "https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -305,60 +381,76 @@
       "url": "https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "UNDERSTAND",
-        "url": "https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX"
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 243866,
-      "name": "UNDERSTAND (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
+      "duration_ms": 190474,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Scorpio Moon",
+        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Scorpio Moon",
+      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
     },
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Enigmatic Society",
-        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
       "artists": [
         {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "9th Wonder",
-          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
         }
       ],
-      "duration_ms": 172000,
-      "name": "For Granted (feat. Arin Ray)",
-      "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
+      "duration_ms": 241232,
+      "name": "Disillusioned (with serpentwithfeet)",
+      "url": "https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "F65",
+        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 160010,
+      "name": "Elmina",
+      "url": "https://open.spotify.com/track/3NlFpLNLAyv1f838clGuQD"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -395,6 +487,42 @@
       "duration_ms": 171000,
       "name": "Brandy Joint",
       "url": "https://open.spotify.com/track/5sDIe7tx9ZenBPTH4cgb33"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Enigmatic Society",
+        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "For Granted (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -499,6 +627,26 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "UNDERSTAND",
+        "url": "https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "UNDERSTAND (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Damn",
         "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
       },
@@ -547,22 +695,6 @@
       "duration_ms": 205869,
       "name": "I'm Baby (ft. Jvck James) - Acoustic",
       "url": "https://open.spotify.com/track/3xT5b5eHJ4j5XZO1jiqzUi"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Through and Through",
-        "url": "https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/0Rkn75x8Xcw8PdFDfYFTjR"
     },
     {
       "added_at": "2023-03-10 05:00:00",

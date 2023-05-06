@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194754,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 155912,
       "name": "Diego",
       "url": "https://open.spotify.com/track/5qXrCYldye4GqQN3gk2HX2"
@@ -13732,7 +13732,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 183092,
       "name": "MEDITERRANEAN",
       "url": "https://open.spotify.com/track/0C11SdO6nuqHDx230fZ2Gh"
@@ -15872,7 +15872,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 216931,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/29kTgA9pGo9RYwhED65ZrS"
@@ -16692,6 +16692,24 @@
       "duration_ms": 271058,
       "name": "Papafeio",
       "url": "https://open.spotify.com/track/6LIqOunAkraEyXV2kIDNEE"
+    },
+    {
+      "album": {
+        "name": "PAPAGOU",
+        "url": "https://open.spotify.com/album/0D5o2Ne3OXuErZZC6KP717"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "PAPAGOU",
+      "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
     },
     {
       "album": {
@@ -24148,7 +24166,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180000,
       "name": "Zoume Epikindyna",
       "url": "https://open.spotify.com/track/1LMkpB3wIOBe7I7cX0zmNM"

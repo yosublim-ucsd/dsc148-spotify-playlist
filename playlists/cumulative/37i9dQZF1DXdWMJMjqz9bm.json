@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 134826,
       "name": "Chirp",
       "url": "https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 112500,
       "name": "fvcked up",
       "url": "https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ"
@@ -3782,6 +3782,28 @@
       "duration_ms": 143414,
       "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
       "url": "https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL"
+    },
+    {
+      "album": {
+        "name": "harvey dent",
+        "url": "https://open.spotify.com/album/3eYDrexE20vyIhz4kPlATc"
+      },
+      "artists": [
+        {
+          "name": "PmBata",
+          "url": "https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw"
+        },
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "harvey dent",
+      "url": "https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo"
     },
     {
       "album": {
@@ -6825,6 +6847,24 @@
     },
     {
       "album": {
+        "name": "Practically Strangers",
+        "url": "https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob"
+      },
+      "artists": [
+        {
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130173,
+      "name": "Practically Strangers",
+      "url": "https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL"
+    },
+    {
+      "album": {
         "name": "PRADA ME",
         "url": "https://open.spotify.com/album/5KbRQhHI3WZVr9DaIjPd3z"
       },
@@ -7626,7 +7666,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 154787,
       "name": "serotonin highs (feat. Allen Haley)",
       "url": "https://open.spotify.com/track/20GbyJrUmAAZIt2x180YUF"
@@ -8550,7 +8590,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 129000,
       "name": "Swing",
       "url": "https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8"
@@ -9310,7 +9350,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 153926,
       "name": "villains",
       "url": "https://open.spotify.com/track/0eaWFvBi1kPbhKgvOx0Adz"
@@ -9358,6 +9398,28 @@
       "duration_ms": 188575,
       "name": "Voices (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
+    },
+    {
+      "album": {
+        "name": "Vroom",
+        "url": "https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137915,
+      "name": "Vroom",
+      "url": "https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 
 > Relax to the sounds of the kora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,827 likes - 111 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,883 likes - 111 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 11 | [Bafoulabe](https://open.spotify.com/track/7dIVfgxNlXzS5H6yimDaH1) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 6:26 |
 | 12 | [Mansaya](https://open.spotify.com/track/2C8CO9xXwuFzBCrNAfS1aG) | [Kadialy Kouyate](https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS) | [Taling Dimalu Beautiful Tales](https://open.spotify.com/album/1iqpOLLDg7AggjbSQbD2ic) | 4:06 |
 | 13 | [Abdou N'diaye](https://open.spotify.com/track/4SgumXbVGlf36DDwSx2C2w) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 2:48 |
-| 14 | [Mandinka King](https://open.spotify.com/track/0CbmnbJhtFIkVbEdMo4Agk) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 5:07 |
+| 14 | [Mandinka King](https://open.spotify.com/track/0CbmnbJhtFIkVbEdMo4Agk) | [Ravi](https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 5:07 |
 | 15 | [Nganiyo](https://open.spotify.com/track/5At2V2sL4uslVV8uqiF71p) | [Kadialy Kouyate](https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS) | [Aado: Senegalese Kora](https://open.spotify.com/album/2V00IKstbKgZaXLHVKRwmM) | 5:06 |
 | 16 | [Kalanso](https://open.spotify.com/track/2MyDs6s5ChSX3n9nYIUND2) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [At Peace](https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1) | 3:17 |
 | 17 | [Kanou Foro](https://open.spotify.com/track/0K3mAgkQUDHoIMRB79wbiL) | [Kadialy Kouyate](https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS) | [Taling Dimalu Beautiful Tales](https://open.spotify.com/album/1iqpOLLDg7AggjbSQbD2ic) | 4:12 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 20 | [Lampedusa](https://open.spotify.com/track/6HMrdo2aPHXiEC0FbQqNLt) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 4:26 |
 | 21 | [Les Chemins De L'amour](https://open.spotify.com/track/3PdEm3fmxF1X0xbnWeH4Wn) | [Jacques Burtin](https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x) | [Le Jour Des Merveilles \(Kora En Prière\)](https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye) | 7:04 |
 | 22 | [Kora by Night](https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:45 |
-| 23 | [Bush Telegraph](https://open.spotify.com/track/6FkTjNbOte9EgoRvfkDdJs) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 2:28 |
+| 23 | [Bush Telegraph](https://open.spotify.com/track/6FkTjNbOte9EgoRvfkDdJs) | [Ravi](https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 2:28 |
 | 24 | [Tatono](https://open.spotify.com/track/3J2joz4SmGKKfSnCi3VsQU) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 6:12 |
 | 25 | [Simbo Salaba](https://open.spotify.com/track/2emh3LCxxzqekzR0ekc6t5) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [Simbo Salaba](https://open.spotify.com/album/5hEajz3vakPl6PYnVikUCA) | 4:30 |
 | 26 | [I Met Her By The River](https://open.spotify.com/track/569Ur4YOxQ2OOzE7gtjZmL) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [I Met Her by the River](https://open.spotify.com/album/7GMUq2GDaIzQHaCdsG3nDV) | 4:26 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 33 | [A\. C\. I\. 2000 Diaby](https://open.spotify.com/track/3EqSYc4byGnSylatX6JcwG) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 4:40 |
 | 34 | [Boubalaka](https://open.spotify.com/track/0SvQOHxb2n9QUAshGsyGCx) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [At Peace](https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1) | 4:43 |
 | 35 | [Elyne Road](https://open.spotify.com/track/0A3E8E3CRhUPYYar0w2pqA) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [The Mandé Variations](https://open.spotify.com/album/7zucRbIbI4ULiiZdX9x48t) | 8:47 |
-| 36 | [The Jali](https://open.spotify.com/track/4Vp0ROMUhkMUAjxRTaTNtu) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 3:49 |
+| 36 | [The Jali](https://open.spotify.com/track/4Vp0ROMUhkMUAjxRTaTNtu) | [Ravi](https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 3:49 |
 | 37 | [Heureux Ceux Qui Chantent](https://open.spotify.com/track/0V0rkZkRAGImlaOzbJzGAV) | [Jacques Burtin](https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x) | [Le Jour Des Merveilles \(Kora En Prière\)](https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye) | 4:17 |
 | 38 | [Kaira](https://open.spotify.com/track/35cTt4VTLameSYHAwsDGjq) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kaira](https://open.spotify.com/album/7ISzQ5S7GhWyses4XVPwti) | 8:08 |
 | 39 | [Claudia & Salma](https://open.spotify.com/track/1hB4I6K8Y3T1PAwR3B3Liz) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 4:39 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 42 | [Le Chemin Clair](https://open.spotify.com/track/4ShKWvE03JkEjapnCg1Yct) | [Jacques Burtin](https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x) | [Le Jour Des Merveilles \(Kora En Prière\)](https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye) | 5:26 |
 | 43 | [Suutoo Yé Diyaa](https://open.spotify.com/track/5kIBPysewGr9y9nNamk0mG) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:51 |
 | 44 | [Kayra](https://open.spotify.com/track/1mWH8SrszV1ilSHG59ee2B) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 4:37 |
-| 45 | [Soul of Life](https://open.spotify.com/track/7jUGnanNpc16zhVo53bLkR) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 5:44 |
+| 45 | [Soul of Life](https://open.spotify.com/track/7jUGnanNpc16zhVo53bLkR) | [Ravi](https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 5:44 |
 | 46 | [L'aube](https://open.spotify.com/track/6Ki3Bt5AKwth2UGzHcq9Xy) | [Jacques Burtin](https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x) | [Le chant de la forêt \- Un compositeur dialogue avec la création](https://open.spotify.com/album/6vRnda2nqFPDMuOH5Gc7Lg) | 4:46 |
 | 47 | [Jaama](https://open.spotify.com/track/1WxwwBDnWCj0WllmIEELVj) | [Sillaba](https://open.spotify.com/artist/1RdauZCGtADc6pmitjjBzB) | [Kairo](https://open.spotify.com/album/64w5d95xhMjyVJOBgsf0k0) | 4:11 |
 | 48 | [Maimouna](https://open.spotify.com/track/1QJTBTHxAjjOaFrXi66k3B) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [At Peace](https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1) | 3:34 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 72 | [Kaira Konkoba](https://open.spotify.com/track/0Gkomv7zRN8WlLg6B4gyIv) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ), [Derek Gripper](https://open.spotify.com/artist/6kUx0oARAtS3eKx7B6CKH2) | [Mali in Oak](https://open.spotify.com/album/2LoVU095gIMOkVet1EWSf8) | 3:48 |
 | 73 | [Tara](https://open.spotify.com/track/3BjfQ2umqNOTCtjv8d4JQU) | [Sourakata Koité](https://open.spotify.com/artist/1aEXvBo9XF1pXQJwKbg0aX) | [Kora](https://open.spotify.com/album/2lKpNUGOdijNQMmLxR64MN) | 3:57 |
 | 74 | [Jimbasengo](https://open.spotify.com/track/5aif2fkDgRcupS99mCAuDJ) | [Jali Nyama Suso](https://open.spotify.com/artist/4VxOIPLlxpLabgTCIptjUQ) | [Gambie, L'art De La Kora \(Série archives\)](https://open.spotify.com/album/5mmF03WUy4FXsK3uMF44SV) | 5:09 |
-| 75 | [The Village](https://open.spotify.com/track/0OM6zZomxmJzWTlzfUL3Ec) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 5:35 |
+| 75 | [The Village](https://open.spotify.com/track/0OM6zZomxmJzWTlzfUL3Ec) | [Ravi](https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 5:35 |
 | 76 | [Rose](https://open.spotify.com/track/1ZkrIDSI88jfOVwUTIiVXA) | [Ablaye Cissoko](https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx) | [Diam \(La paix\)](https://open.spotify.com/album/6Dt3pAgQpu0HtPLWcwgUzi) | 5:42 |
 | 77 | [Alla La Ké](https://open.spotify.com/track/7abRzD4bFjgt4ZlTNpUkdW) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 3:53 |
 | 78 | [Wo Yé N'Gnougobine](https://open.spotify.com/track/07KsS4IqdRckOlD4LqjqAe) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Chamber Music](https://open.spotify.com/album/3X9jyh4EcJSKO1X0mdQkXJ) | 5:51 |
@@ -118,6 +118,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 108 | [Cheiknah Demba](https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 4:30 |
 | 109 | [Kora Solo](https://open.spotify.com/track/6HTTBEPexAJGXAzzJEOr6i) | [Hélène Blazy](https://open.spotify.com/artist/33m7gT6eP9unPArdo8wfbr) | [Faces of Africa: An Inspirational Celebration of Africa Then and Now](https://open.spotify.com/album/59OpJHZvPKsU5SounjoUzq) | 1:51 |
 | 110 | [Toutou Diarra](https://open.spotify.com/track/6jPRIrQI72sXLhLseNwmrf) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1) | 4:18 |
-| 111 | [The Griot](https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 4:32 |
+| 111 | [The Griot](https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO) | [Ravi](https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 4:32 |
 
-Snapshot ID: `MCxiNTkzYWM2YzFiNjM1ZjRiYjM2ODZjNjM4NGI1YjRhMmEyNGViNWU0`
+Snapshot ID: `MCxlNDRhNjBjNWEzNjEzMjFlMTAxODc0MzgwOGQ1N2Y1M2FmNzkxNjNh`

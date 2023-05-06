@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,252 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,335 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [Speak Low](https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK) | 6:15 |
 | 100 | [St\. James Infirmary Blues](https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Fatha](https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw) | 4:08 |
 
-Snapshot ID: `MCxiN2YwNjE2MzI1MWIxMzIzODhmYjQ1YTAzYWQyMzE0OTU4MDYzNWY5`
+Snapshot ID: `MCxhOTFkMmVjNjIzNzFiZTM2ZTg4NjQ1OWI1MzdhZWRmZmY0MDVmYjY2`

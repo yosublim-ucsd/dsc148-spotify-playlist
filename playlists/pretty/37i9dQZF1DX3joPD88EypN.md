@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,882 likes - 100 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,931 likes - 100 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Pols etter Marta\-Johannes](https://open.spotify.com/track/1ChqMXKvspLW7I0WZlG32b) | [Trondheim Jazz Orchestra](https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw), [Sofia Jernberg](https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F), [Olav Luksengård Mjelva](https://open.spotify.com/artist/202hJ5IG2CriMfxynnQcUs) | [Trondheim Jazz Orchestra with Sofia Jernberg & Olav Luksengård Mjelva](https://open.spotify.com/album/0KXmbhHnUtgpaU0x9Xh3gL) | 6:56 |
 | 100 | [Faculties](https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:41 |
 
-Snapshot ID: `MCxlMmQ1ODM2MjkyMTVhMDk1NzhlZmQ4ZWFmMTk5MWYxM2FhMDEwNjBm`
+Snapshot ID: `MCw5ZDQ5OGU4YzU2ZGNlMjMxOTJjOTJlZTg2YzE2MDhhZGVlYmFlMjdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,755 likes - 64 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,888 likes - 64 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 12 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Lark Ascending collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
 | 13 | [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 |
 | 14 | [5 Pieces, Op\. 75, "The Trees": No\. 5 Granen \(The Spruce\)](https://open.spotify.com/track/5gA69lYP3nCULBTdL3quJO) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Håvard Gimse](https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I) | [Sibelius: Piano Music, Vol\. 4](https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2) | 3:38 |
-| 15 | [Respighi: Antiche danze ed arie per liuto, Suite No\. 3, P\. 172 \- I\. Italiana\. Andantino](https://open.spotify.com/track/3pQCRKRbApGrjEpj1r4BKA) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Filarmonica della Scala](https://open.spotify.com/artist/50M4HDvsvjxF5BYChgubmq), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Respighi: Antiche danze ed arie per liuto, Suite No\. 3, P\. 172: I\. Italiana\. Andantino](https://open.spotify.com/album/2nC71ZQwT1MZx3lNNy4UPq) | 3:14 |
+| 15 | [Antiche danze ed arie per liuto, Suite No\. 3, P\. 172: I\. Italiana\. Andantino](https://open.spotify.com/track/3pQCRKRbApGrjEpj1r4BKA) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Filarmonica della Scala](https://open.spotify.com/artist/50M4HDvsvjxF5BYChgubmq), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Respighi: Antiche danze ed arie per liuto, Suite No\. 3, P\. 172: I\. Italiana\. Andantino](https://open.spotify.com/album/2nC71ZQwT1MZx3lNNy4UPq) | 3:14 |
 | 16 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 |
 | 17 | [Lyric Pieces Book II, Op\. 38: I\. Berceuse](https://open.spotify.com/track/1Wy5fW4R9zU0wQcC7ufHxi) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Grieg: Lyric Pieces; Sonata; Fugues](https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8) | 2:46 |
 | 18 | [Limu, limu, lima \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:35 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 63 | [Bluebird](https://open.spotify.com/track/6iL0pob2CNH1KNXPsSl9Fo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Relaxing Classical](https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12) | 3:24 |
 | 64 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |
 
-Snapshot ID: `MCxhYWNhMGE4N2IwNWIxM2FhZDExODhlNWRhN2RjYWE2ZGM5MTE5Zjcz`
+Snapshot ID: `MCxjZTk1ZTlkZDUyNmNiY2Y4ZThiYzI5NzFlODA4YzE4NDgwMzBhMWEz`

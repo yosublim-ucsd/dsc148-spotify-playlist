@@ -4,7 +4,7 @@
 
 > Did you hear that?
 
-96 songs - 6 hr 18 min
+97 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Big Bad Wolf](https://open.spotify.com/track/212uDN3Bw9HohtowG5KF6U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Can't Wake Up](https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5) | 3:16 | 2022-09-23 |  |
 | [Black Car](https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:11 | 2022-09-23 |  |
 | [Black Magic](https://open.spotify.com/track/2fMUHAZoqHjscGlC8NVzqX) | [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Jarvis \(2020 Complete Edition\)](https://open.spotify.com/album/6VNKKb04mPaPPLE8fmMRAP) | 4:23 | 2022-09-23 |  |
-| [Black Magic](https://open.spotify.com/track/16unahashOe5GkfLykXrIZ) | [Magic Wands](https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL) | [Aloha Moon \(Deluxe Edition\)](https://open.spotify.com/album/622C1Fom2FmQH9makye91a) | 2:33 | 2022-09-23 |  |
+| [Black Magic](https://open.spotify.com/track/16unahashOe5GkfLykXrIZ) | [Magic Wands](https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL) | [Aloha Moon \(Deluxe Edition\)](https://open.spotify.com/album/622C1Fom2FmQH9makye91a) | 2:33 | 2022-09-23 | 2023-05-06 |
+| [Black Magic](https://open.spotify.com/track/1b5d8HYUNnZs5ILTfkXuK5) | [Magic Wands](https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL) | [Aloha Moon](https://open.spotify.com/album/0lDs9co9ZUzZcjT0KB9n6k) | 2:33 | 2022-09-23 |  |
 | [Black Magic](https://open.spotify.com/track/58LeCCS4v8dBxL1ApCkg5R) | [Magic Wands](https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL) | [Black Magic](https://open.spotify.com/album/7dOVieYlIOdSFjbpRTKVZv) | 2:33 | 2022-09-23 | 2022-11-13 |
 | [Black Venom](https://open.spotify.com/track/58TRjjLEDZWzOTXsw0SLAx) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band III](https://open.spotify.com/album/4wGhy77LCdzpd7bdUiwQFN) | 3:32 | 2022-09-23 | 2023-04-30 |
 | [Black Venom](https://open.spotify.com/track/6i7etqtto9YoUBFrA1kIFO) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band III](https://open.spotify.com/album/5zmTjYZUebsP2GKjzFq9Zm) | 3:32 | 2022-09-23 |  |

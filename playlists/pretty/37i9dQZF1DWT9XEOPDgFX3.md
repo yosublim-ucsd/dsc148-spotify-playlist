@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Jana Horn
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,437 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,492 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [Friends](https://open.spotify.com/track/32irCtqVudXga5frCUDFVH) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Friends](https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD) | 3:02 |
 | 125 | [needy](https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB) | 3:52 |
 
-Snapshot ID: `MCwxYjFmNTA3ZDAwOTJlMWM4YjU0MTRiODJjYWMwMjhjN2E1MzNmOTFi`
+Snapshot ID: `MCwyNDU1MjljZTQ1YzE0OWQxZTY1NWUzMTZlNzczY2ZmNTc4NjgwMDVi`

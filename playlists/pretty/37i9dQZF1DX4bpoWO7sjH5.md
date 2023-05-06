@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,056 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,052 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [Venid Adoremos](https://open.spotify.com/track/2iOTC85KkWjQG6HwEr7fCh) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp), [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [La Navidad es Jesús](https://open.spotify.com/album/6XqJivuGFhVC9DYXdFq6JP) | 1:39 |
 | 100 | [Ya Llegó La Navidad](https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Llegó La Navidad](https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya) | 3:12 |
 
-Snapshot ID: `MCw1NjM3NjY5NWI5MDlmMjY3ZjUyNjVhYTg5OTE2NjMzZDNlY2MzMGY1`
+Snapshot ID: `MCxlMmMxNDFkOWZiMzEyYjU3MTI2ODg2YTk1ZTUxYzM0ODg2MTEzNjcy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,361 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,528 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 13 | [Dos Besitos](https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Dos Besitos](https://open.spotify.com/album/1lwLGfbG3i8IIe8k92yv58) | 2:29 |
 | 14 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
 | 15 | [Mujer Del Paraiso](https://open.spotify.com/track/6IRnwt8WFgysjevOZbPMbc) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 5:32 |
-| 16 | [Latidos](https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7) | 3:01 |
-| 17 | [Como Te Amo Yo](https://open.spotify.com/track/3fPKTWTbhTnXjI5T3YAklK) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Disciplina](https://open.spotify.com/album/2AJHstP2C7QChprVZHZzMd) | 3:47 |
-| 18 | [Disfruto](https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto](https://open.spotify.com/album/3QGHVWaXZfHNFsH7NEQvp5) | 2:10 |
-| 19 | [La Mujer del Pelotero](https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Llegó Papá](https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv) | 3:18 |
-| 20 | [TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 |
+| 16 | [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 |
+| 17 | [Latidos](https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7) | 3:01 |
+| 18 | [Como Te Amo Yo](https://open.spotify.com/track/3fPKTWTbhTnXjI5T3YAklK) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Disciplina](https://open.spotify.com/album/2AJHstP2C7QChprVZHZzMd) | 3:47 |
+| 19 | [Mentiras \- Remix](https://open.spotify.com/track/5oKMZ1Q1CgPUER0f1suWWu) | [Ezequiel Llanos](https://open.spotify.com/artist/3l4qjCL1496zAgprejycLi), [gonza maza](https://open.spotify.com/artist/16sCPb3OQ3HmvFLCcjWeyL) | [Mentiras \(Remix\)](https://open.spotify.com/album/3CAQ5A6NPGPhYlYFVvt9x6) | 3:26 |
+| 20 | [La Mujer del Pelotero](https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Llegó Papá](https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv) | 3:18 |
 | 21 | [Amor de Madre](https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 5:50 |
 | 22 | [Mi amor para siempre](https://open.spotify.com/track/3FPrD3cbQQDmI3wohLeoVi) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Sin Fluctuar](https://open.spotify.com/album/3NgiKf6ZieNXNlMr3piBQV) | 4:09 |
 | 23 | [Que Te Vaya Bien](https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Que Te Vaya Bien](https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 74 | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/track/6Vp8EcHAHjC9u7Qnsn2kob) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/album/7z6DWyWrMQPPCGs5H0IU67) | 3:37 |
 | 75 | [LO MISMO QUE MORIR](https://open.spotify.com/track/1XYjy0yiCL1utjnBRWou6f) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:26 |
 
-Snapshot ID: `MCw0YTg3NDMwNzBlY2QwYjAyN2U0YzVmMjQyYzBjMTE5NTdhN2VkNjIz`
+Snapshot ID: `MCw3YzU3NWQ2YmJmODE0N2UxZWVhYjEzZjc2N2EyY2ExYWM5Y2FiYThi`

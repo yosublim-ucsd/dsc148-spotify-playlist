@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-298 songs - 16 hr 45 min
+299 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-28 |  |
 | [Mirror Girl](https://open.spotify.com/track/02MfV88yWVP3VYiC5dehEA) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Mirror Girl](https://open.spotify.com/album/26gKunuZOUnRvVOEHNjWPi) | 2:58 | 2022-06-03 | 2022-07-25 |
 | [Mirror Girl](https://open.spotify.com/track/1arPneL5ZtuFrd4Q6kWv7y) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Mirror Girl](https://open.spotify.com/album/4LCE6P8B7vv0XzwBgrVN4j) | 2:58 | 2022-06-10 |  |
-| [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-18 |  |
+| [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-18 | 2023-05-06 |
 | [Natural Blues \- Moby's West Side Highway Remix](https://open.spotify.com/track/3GaCSIfcHDhfpLPgCCDF61) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Reprise \- Remixes](https://open.spotify.com/album/1ebgTtKt8c9dMZADohgv7v) | 5:30 | 2022-05-20 | 2023-04-22 |
 | [Never on the Day You Leave](https://open.spotify.com/track/3TQbr3G3U5wlwEJejmqC1F) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:40 | 2021-08-05 | 2022-01-19 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-01-19 |  |
@@ -290,6 +290,7 @@
 | [we'll be fine](https://open.spotify.com/track/7KKamdf8oLVz1eFcNRjvnq) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we'll be fine](https://open.spotify.com/album/6vLZ785JdIDq7VO3hVX6at) | 4:22 | 2021-10-26 | 2022-01-20 |
 | [What Am I Here For](https://open.spotify.com/track/5ZuMDliM4Kf7XYybWxj2mP) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [What Am I Here For](https://open.spotify.com/album/0poQC8eFbBU7KU8yMeEUVX) | 3:15 | 2023-02-03 |  |
 | [What Doesn’t Kill You Mutates and Tries Again](https://open.spotify.com/track/2AAelyYn8MafDdW5merUfD) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [What Doesn’t Kill You Mutates and Tries Again](https://open.spotify.com/album/3vrrjsR4sOTlg6StJET8xq) | 2:56 | 2022-10-07 | 2022-10-15 |
+| [whatever](https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [whatever](https://open.spotify.com/album/7dt6sUWujCzWUkNhI73mk7) | 1:59 | 2023-05-05 |  |
 | [When The Lights Go Out](https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:18 | 2022-01-19 | 2023-04-22 |
 | [When You Lose Someone](https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone](https://open.spotify.com/album/1FsTVcCyDJUTdi4TgsKzWK) | 3:25 | 2022-01-19 | 2023-04-22 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-01 |  |

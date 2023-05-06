@@ -977,32 +977,6 @@
     },
     {
       "album": {
-        "name": "Coleridge-Taylor: Petite Suite de Concert, Op. 77: III. Un sonnet d'amour",
-        "url": "https://open.spotify.com/album/0I1imAdheexQgRTs6t7Hg2"
-      },
-      "artists": [
-        {
-          "name": "Samuel Coleridge-Taylor",
-          "url": "https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR"
-        },
-        {
-          "name": "Chineke! Orchestra",
-          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
-        },
-        {
-          "name": "Anthony Parnther",
-          "url": "https://open.spotify.com/artist/7ra8Zt3B4DlqRDYMyT1Okx"
-        }
-      ],
-      "date_added": "2022-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220000,
-      "name": "Coleridge-Taylor: Petite Suite de Concert, Op. 77 - III. Un sonnet d'amour",
-      "url": "https://open.spotify.com/track/57RRXysNvNZl8f5KPwEvuU"
-    },
-    {
-      "album": {
         "name": "Film trifft Klassik",
         "url": "https://open.spotify.com/album/1Jk67VV9YnH7WUmNMBlwHd"
       },
@@ -2279,6 +2253,40 @@
     },
     {
       "album": {
+        "name": "Merry Christmas Mr. Lawrence",
+        "url": "https://open.spotify.com/album/2Q15bdTn337lqsf4zXhH18"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Oscar Holch",
+          "url": "https://open.spotify.com/artist/0yAcZP2jxBzykyUu92Wm2Z"
+        },
+        {
+          "name": "Rowena Calvert",
+          "url": "https://open.spotify.com/artist/5vg0ucoBJjqBXYU4eun1q0"
+        },
+        {
+          "name": "Sam Becker",
+          "url": "https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT"
+        },
+        {
+          "name": "Lysandre M\u00e9nard",
+          "url": "https://open.spotify.com/artist/5Is7r23SF0uCXeFzwOMZW5"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277147,
+      "name": "Merry Christmas Mr. Lawrence (Arr. Metcalfe)",
+      "url": "https://open.spotify.com/track/6aHZQ2a2ZgBDLZsx1usftw"
+    },
+    {
+      "album": {
         "name": "Mozart: Clarinet Concerto & Piano Concerto No. 25",
         "url": "https://open.spotify.com/album/1KP7j2LWS67KxDKVO51Yvp"
       },
@@ -2906,6 +2914,32 @@
       "duration_ms": 233400,
       "name": "Pell\u00e9as et M\u00e9lisande, Op. 80: 4. Sicilienne",
       "url": "https://open.spotify.com/track/0oIQl9tFpCiKBRavEIIGzo"
+    },
+    {
+      "album": {
+        "name": "Coleridge-Taylor: Petite Suite de Concert, Op. 77: III. Un sonnet d'amour",
+        "url": "https://open.spotify.com/album/0I1imAdheexQgRTs6t7Hg2"
+      },
+      "artists": [
+        {
+          "name": "Samuel Coleridge-Taylor",
+          "url": "https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Anthony Parnther",
+          "url": "https://open.spotify.com/artist/7ra8Zt3B4DlqRDYMyT1Okx"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Petite Suite de Concert, Op. 77: III. Un sonnet d'amour",
+      "url": "https://open.spotify.com/track/57RRXysNvNZl8f5KPwEvuU"
     },
     {
       "album": {
@@ -3938,40 +3972,6 @@
       "duration_ms": 257000,
       "name": "R\u00eaverie, L. 68: R\u00eaverie",
       "url": "https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J"
-    },
-    {
-      "album": {
-        "name": "Merry Christmas Mr. Lawrence",
-        "url": "https://open.spotify.com/album/2Q15bdTn337lqsf4zXhH18"
-      },
-      "artists": [
-        {
-          "name": "Jess Gillam",
-          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
-        },
-        {
-          "name": "Oscar Holch",
-          "url": "https://open.spotify.com/artist/0yAcZP2jxBzykyUu92Wm2Z"
-        },
-        {
-          "name": "Rowena Calvert",
-          "url": "https://open.spotify.com/artist/5vg0ucoBJjqBXYU4eun1q0"
-        },
-        {
-          "name": "Sam Becker",
-          "url": "https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT"
-        },
-        {
-          "name": "Lysandre M\u00e9nard",
-          "url": "https://open.spotify.com/artist/5Is7r23SF0uCXeFzwOMZW5"
-        }
-      ],
-      "date_added": "2022-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 277147,
-      "name": "Sakamoto: Merry Christmas Mr. Lawrence (Arr. Metcalfe)",
-      "url": "https://open.spotify.com/track/6aHZQ2a2ZgBDLZsx1usftw"
     },
     {
       "album": {

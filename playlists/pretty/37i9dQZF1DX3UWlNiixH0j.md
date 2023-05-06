@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: イハラカンタロウ
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,206 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,225 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [Ready To Say Goodbye \- feat\. Misi Ke](https://open.spotify.com/track/7kx2HMEHrRyi3nhlhnDGot) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Ready To Say Goodbye \(feat\. Misi Ke\)](https://open.spotify.com/album/2wSTNJxMq78DSnNemgrk2D) | 3:23 |
 | 100 | [one way](https://open.spotify.com/track/5DQX3YKH3270aIOqMQfpzt) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [one way](https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA) | 3:34 |
 
-Snapshot ID: `MCw2YjY0OTM5NzNhZjc4N2FiZWNhNzQxYWJhZjI5MzlmOTBlYWQ4OTRi`
+Snapshot ID: `MCw1MjE3MzI0ODBiMDI3NTZjYTA2NDU3YjY5OGRiNmFmMGZlMGQxMTBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 90s\. Cover: <a href="spotify:artist:0Ty63ceoRnnJKVEYP0VQpk">Sting</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,659 likes - 200 songs - 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,353 likes - 200 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 199 | [I Will Remember](https://open.spotify.com/track/1MzFmVDSl7Vm00f3Hw4Xfx) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Tambu](https://open.spotify.com/album/6euMPZz8wRBQBf9U2W91Xw) | 6:06 |
 | 200 | [Almost Unreal](https://open.spotify.com/track/5AKBbv9A9jfPce0KkH27Cd) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 3:54 |
 
-Snapshot ID: `MCxjZDJmNDlhMjg1N2Y0MjFiOWE4NTUxZTA4ODBjM2I0YjEyYmM0MTBi`
+Snapshot ID: `MCxkZDMxMmZjYmM4M2Y2NWEyNmI5M2RlMDMwMTVmZTczNzVjMjMwYTI3`

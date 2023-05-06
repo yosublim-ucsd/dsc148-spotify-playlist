@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,870 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,826 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 149 | [Country Stuff \(feat\. Jake Owen\)](https://open.spotify.com/track/00fjo9x6qJTFwARfpQYijD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Country Stuff \(feat\. Jake Owen\)](https://open.spotify.com/album/1s0CXVaG2oWEDCoSDdSxe2) | 2:34 |
 | 150 | [I Get That With You](https://open.spotify.com/track/6o0sttjutkWGYefP7OsaYX) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [I Get That With You](https://open.spotify.com/album/5GclVHfgWVglhbVOom2TIx) | 3:09 |
 
-Snapshot ID: `MCw4YzVhNDQ0YzM0NGZiNzRkMzZkYTQyY2FhNzIyODM2Y2RiMWM3Nzg4`
+Snapshot ID: `MCxmMzU0ODU0ZWQ0YjBhZTQwNTExNzJhYTdjNWRiN2YzZTFhY2U4NGYy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Pierce The Veil along with today's Rock songs you need to hear.",
+  "description": "Bring Me The Horizon along with today's Rock songs you need to hear.",
   "name": "Rock This",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
@@ -330,6 +330,24 @@
       "duration_ms": 164826,
       "name": "Applause",
       "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
+    },
+    {
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164682,
+      "name": "BABY SAID",
+      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
     },
     {
       "album": {
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 150007,
       "name": "Drones",
       "url": "https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 149142,
       "name": "FREAK (Feat. jxdn)",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
@@ -2000,6 +2018,24 @@
       "duration_ms": 160380,
       "name": "hair out",
       "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
+    },
+    {
+      "album": {
+        "name": "I Love You, I\u2019m Trying",
+        "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164899,
+      "name": "Half My Heart",
+      "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
     },
     {
       "album": {
@@ -2572,7 +2608,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 245240,
       "name": "Jesus He Knows Me",
       "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
@@ -2857,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "life imitates life",
+      "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
+    },
+    {
+      "album": {
         "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
       },
@@ -3009,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -3056,7 +3128,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187460,
       "name": "Love Abuser (Save Me)",
       "url": "https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa"
@@ -3439,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Never Ending Moment",
+        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257946,
+      "name": "Never Ending Moment",
+      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
+    },
+    {
+      "album": {
         "name": "See What\u2019s On The Inside",
         "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
       },
@@ -3642,7 +3732,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174259,
       "name": "PANIC",
       "url": "https://open.spotify.com/track/3L4MAUb1N2dsAludyS8ra8"
@@ -3927,6 +4017,24 @@
     },
     {
       "album": {
+        "name": "Positive Charge",
+        "url": "https://open.spotify.com/album/65tqECce0kcEihRHm8QDmR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245506,
+      "name": "Positive Charge",
+      "url": "https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO"
+    },
+    {
+      "album": {
         "name": "Prescription Kid",
         "url": "https://open.spotify.com/album/1fR0QXuE9xmQwvQKkYcNpi"
       },
@@ -4048,6 +4156,24 @@
       "duration_ms": 181797,
       "name": "Raised By Wolves",
       "url": "https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l"
+    },
+    {
+      "album": {
+        "name": "Raw Raw",
+        "url": "https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177933,
+      "name": "Raw Raw",
+      "url": "https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ"
     },
     {
       "album": {
@@ -5714,6 +5840,24 @@
       "duration_ms": 167034,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/0KBRMpZVUTxrU8blRUBfm3"
+    },
+    {
+      "album": {
+        "name": "Welcome to My House",
+        "url": "https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207008,
+      "name": "Welcome to My House",
+      "url": "https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,319 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,521 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 |
 | 100 | [I Surrender All \(Allt till Jesus\)](https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [I Surrender All \(Allt till Jesus\)](https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG) | 3:12 |
 
-Snapshot ID: `MCw2YWM5NDM4ZGQ1ZjcxYjNiMWQ3YmYwNmYwYmY0NDMyOTA3MjhmMjg0`
+Snapshot ID: `MCwyZTFjNGU3YjYyYTc1ZGE3Yjg0MTEyNTZiYzQxNWJjYWRhZGE4ZDkx`

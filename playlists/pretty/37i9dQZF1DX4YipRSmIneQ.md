@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,581 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,687 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [Georgia](https://open.spotify.com/track/2pqDpDsdxlZZFdNNrEE29C) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [All I Need](https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h) | 3:50 |
 | 50 | [Hummer](https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Hummer](https://open.spotify.com/album/2iT8KeGh5G7yOtdnWL3U1q) | 3:54 |
 
-Snapshot ID: `MCw3OGJmODI3OGEyZmUxNjQ0ODFjZjNhZWY1OTI4YjFhYTc3MTM5MTg2`
+Snapshot ID: `MCwwNWE2MDcwNWZiZWRmZjFmMzU5NzJkYWIyNWNjMDEwNWJhNGI0ZDMy`

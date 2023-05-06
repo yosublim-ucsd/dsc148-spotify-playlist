@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,007 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,035 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [We Belong To The Stars](https://open.spotify.com/track/2ud8DOtMIZABZJC0huKtFC) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [We Belong To The Stars](https://open.spotify.com/album/2geyxNpK0n1rdkWJFAmajU) | 3:09 |
 | 120 | [Galactic Walz](https://open.spotify.com/track/2SHMIYyt2YYPkginGos4Bu) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Galactic Walz](https://open.spotify.com/album/0DSNkmAdy7JO20OCOV7Afb) | 3:26 |
 
-Snapshot ID: `MCxkMWUwN2ZjMTMwMDY4MmFjZWRiMTc2MzgyN2U0ZDEwOTI3Nzk0MGU1`
+Snapshot ID: `MCw3Y2IwMzM1ZjE3Y2M3NmZiOWUxNDdhOTJmMTgyMzhjYjA5MmFlZGNm`

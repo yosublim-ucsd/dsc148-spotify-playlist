@@ -1843,6 +1843,32 @@
     },
     {
       "album": {
+        "name": "WASTELAND - CHOPPED NOT SLOPPED",
+        "url": "https://open.spotify.com/album/3DpamulE7VP1pDprRODb28"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "DJ Candlestick",
+          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "name": "OG Ron C",
+          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307060,
+      "name": "JACKIE BROWN (CHOPNOTSLOP REMIX)",
+      "url": "https://open.spotify.com/track/2TqPcMoynCqfa7GbPQMIYA"
+    },
+    {
+      "album": {
         "name": "Dil Mila Mera, Inti Si Bhaat Hai",
         "url": "https://open.spotify.com/album/1TbmtHDUtucciYcFp9Hl6O"
       },
@@ -3154,7 +3180,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"

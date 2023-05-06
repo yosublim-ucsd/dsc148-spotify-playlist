@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive x Ohash
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,982 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,651 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 8 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
 | 9 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 | 10 | [TALIBANA](https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX) | 2:38 |
-| 11 | [PAVYON](https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J) | [masthon](https://open.spotify.com/artist/7sEM2coB7d8PGVKBbyBWD8) | [KAPITAL](https://open.spotify.com/album/34TsaH9wHudgsQqrSGj1VT) | 2:30 |
+| 11 | [Yolunda "pavyon"](https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Yolunda "pavyon"](https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM) | 2:30 |
 | 12 | [GAZ PEDAL](https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [GAZ PEDAL](https://open.spotify.com/album/71HKIz40EJPU0BKrCtO0rg) | 2:25 |
 | 13 | [Mavi Chivas](https://open.spotify.com/track/4Q55vNJjN2mfmwFxhA6aPk) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Mavi Chivas](https://open.spotify.com/album/70Uk9tVc3UL8K9zOeizE8I) | 2:57 |
 | 14 | [Korkma](https://open.spotify.com/track/4PHNtKeSSLIaT2sl36pGfH) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kanguru & Korkma](https://open.spotify.com/album/4gE93TmnTMHh2dUqLdHnWC) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Sevmiş Gibi](https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Sevmiş Gibi](https://open.spotify.com/album/4NCr871WaDS8dLFk6wBMA8) | 2:30 |
 | 50 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 |
 
-Snapshot ID: `MCxjMGIxZjY0NzE0Y2RkYjQxMzk4ZGMxMzQ1N2FiMTdiMzFmZTI4ZGFi`
+Snapshot ID: `MCw0MzA5N2NhMTE4Y2I1NjhmOTE4NjdhODI3OTQ5OWY3NTAyZmVhN2M5`

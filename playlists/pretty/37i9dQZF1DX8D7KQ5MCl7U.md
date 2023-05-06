@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,590 likes - 150 songs - 16 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,656 likes - 150 songs - 16 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Wah Jo Kalaam](https://open.spotify.com/track/7B4rv8RrlWr5qTIQ5UCrQk) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn), [Vishnu](https://open.spotify.com/artist/3C6fEluNfcYDBAy6nBQpdS), [Shamu Bai](https://open.spotify.com/artist/6ImUiMuTiMjlhRKfMCXe8Q) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:20 |
 | 150 | [Gal Sunn](https://open.spotify.com/track/1phj6T3DxXAf1luwNP7PqQ) | [Ali Pervez Mehdi](https://open.spotify.com/artist/3HLmrqEDEHkQ7VFXwdKdKa), [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Gal Sunn](https://open.spotify.com/album/5Fcxf078ec2OYKvl9m8NgS) | 6:38 |
 
-Snapshot ID: `MCw1NzE2NmU1OTVjZGE2OGE0MDAwODc3ZGExNzhjODYyYmI5ZWUwOTEy`
+Snapshot ID: `MCwwMTU2OWI2N2FkNzgzOTVhYzE5MzIzMzhlOGUyOTlhZGZmMTc1NjAw`

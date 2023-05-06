@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Custody
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,367 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,392 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 |
 | 50 | [Seethakoka Chiluka](https://open.spotify.com/track/4V1B6HlZ7UABy0FBuyqaHU) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1Mf6cONL3hjHRkxXXbFbWX) | 4:05 |
 
-Snapshot ID: `MCxjMGFiYTc0OTg4NjYyMmFjOTVjODY4NTU5MjMzZDk2YTYyNGMwNWMy`
+Snapshot ID: `MCwyMTczYjJjOWU4N2QzNjMxNjY4ZGU5NjgwMWVjMTgxMjg5ZGUxMTcw`

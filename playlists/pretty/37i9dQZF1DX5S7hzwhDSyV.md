@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,916 likes - 100 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,023 likes - 100 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 99 | [In A Mellow Tone](https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:26 |
 | 100 | [You've Changed](https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 7:27 |
 
-Snapshot ID: `MCwwOGI4YWE5NjUwNDUwZGE2NTI0YmJiZmJjNWUxYjM4YzllMWFkZmJm`
+Snapshot ID: `MCxkODRkOTA0NzQ1MjE5NTNjOWI3MTEzZGY3ZDU5ZGZlNTk1Yzc0ZmZj`

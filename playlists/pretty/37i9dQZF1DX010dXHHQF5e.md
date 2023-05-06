@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX010dXHHQF5e.md) - [plain]
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,376 likes - 200 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,401 likes - 200 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX010dXHHQF5e.md) - [plain]
 | 199 | [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 |
 | 200 | [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 |
 
-Snapshot ID: `MCxiMjE5YWIxMDcwMDM5YjYzMTgyNWViOTc0ZmZiOTlmNWQwYjQ1MGU3`
+Snapshot ID: `MCxmMDAzOTJmOTg2YjExOWU4ODkxY2U4ZDk4ZjM2NjYyZDVmNmQ5OGEz`

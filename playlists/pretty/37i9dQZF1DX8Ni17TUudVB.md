@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,980 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,001 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Back to the Oldskool](https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Back to the Oldskool](https://open.spotify.com/album/0YHcF5aiUDLAYM2mpF7Pwz) | 2:24 |
 | 90 | [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 |
 
-Snapshot ID: `MCw4NjJmZDM5YWUxZTM4OTQyMDQ4NDBjMGIzYjNkZDY2N2U2ZjVkZjhm`
+Snapshot ID: `MCxmOWQ3MTNkMDNhODY0ZmFmY2RjNTc4NzVlMTA2OTIxZTRkZDg5YWE2`

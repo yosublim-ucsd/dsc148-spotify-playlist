@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,195 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,376 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 99 | [The Feeling \(Of Warmth And Beauty\)](https://open.spotify.com/track/1RHS3g5lqOhVqrPbimpjYD) | [Richard H\. Kirk](https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr) | [Virtual State](https://open.spotify.com/album/7M5rzBraccybLpiYBSpty0) | 6:08 |
 | 100 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
 
-Snapshot ID: `MCxmZGQ1MjU5OTZmNjZjM2FkMjFiM2Y1NmY5NjY5ZWZmOGI2NzcxMDA3`
+Snapshot ID: `MCxlYjZkYThhZGM4YTAwNGVlNTNmMDlhZTEyMzExM2RmMjYzZDQxYmZi`

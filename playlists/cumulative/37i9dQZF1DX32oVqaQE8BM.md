@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-525 songs - 22 hr 20 min
+528 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [French Toast](https://open.spotify.com/track/0jVkzGqvMnt05arGxdHo0q) | [rezov](https://open.spotify.com/artist/6qkecg8KZjkwnYkLGP4H3H) | [Morning Mantra](https://open.spotify.com/album/7s8Srq69sCA1h92jcXQlNs) | 3:02 | 2022-01-21 |  |
 | [Fruity Flavor](https://open.spotify.com/track/4a5zK2frFoJIH7MsJvC7Lp) | [Gaura](https://open.spotify.com/artist/4Zv99UKFFZKDVl2OsQS7Vp) | [ENGL](https://open.spotify.com/album/1TlcUSr83vfKHkQ2RCsnWI) | 1:52 | 2021-11-10 | 2022-08-20 |
 | [Fun Fact](https://open.spotify.com/track/4bCQBQwCFZ9fGIzbBe8aie) | [Dozed Again](https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf) | [Fun Fact](https://open.spotify.com/album/2x7mmLM0rn4USeYDSGaEMX) | 2:01 | 2023-01-13 |  |
+| [Furrow](https://open.spotify.com/track/6e51C5E6jH2RDjvf7LDiwW) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Furrow](https://open.spotify.com/album/5zXNpTsOBSmpR8QX7KisG2) | 2:18 | 2023-05-05 |  |
 | [Future Love](https://open.spotify.com/track/4exS0JoS1YgAaqdINA6FGS) | [420am](https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m) | [Future Love](https://open.spotify.com/album/2SGR9Rhs2ooZtY7Tx7LeV1) | 2:28 | 2022-10-28 |  |
 | [gardening notebook](https://open.spotify.com/track/6aMVqYKx96gZ88Q4wYT4eN) | [feline empire](https://open.spotify.com/artist/7pNrcc1Bgzb1i88M8TnIVX) | [gardening notebook](https://open.spotify.com/album/4skOFMUf6dKMN9QNaj9sKF) | 1:58 | 2022-01-21 |  |
 | [gather around](https://open.spotify.com/track/3FrRr3UM1bdurTy0bxdU3f) | [Starzero](https://open.spotify.com/artist/2WmS1I4SYqnO6zLSXMpIlj) | [gather around](https://open.spotify.com/album/3DmutGlmDC8W3Ie9PLQiZ4) | 2:35 | 2021-11-10 | 2022-07-22 |
@@ -204,6 +205,7 @@
 | [hitchin’](https://open.spotify.com/track/7abaOX6JnwFqvCP0pc2Ncj) | [en røute](https://open.spotify.com/artist/4nb6zXxz2NTHLAVDYsM2tt) | [hitchin’](https://open.spotify.com/album/34NvevMEOW62GvBhbMkKOY) | 1:50 | 2021-11-10 | 2022-07-01 |
 | [holy cows](https://open.spotify.com/track/2nSpe6yeULSw6pu4DEJAN0) | [Hicut Lopass](https://open.spotify.com/artist/1sS4XmaU4vzA2TQ2PbKqJX) | [holy cows](https://open.spotify.com/album/46GCXSORoBE6MnvIGEg6Yb) | 2:01 | 2022-01-21 |  |
 | [Honesty \(remix\)](https://open.spotify.com/track/4ee5oGHZjUw3vzr9vWaeJp) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Honesty \- Remix](https://open.spotify.com/album/14MA1BYwnBTv5XZlwezpBC) | 3:14 | 2021-11-10 |  |
+| [Honeymoon Phase](https://open.spotify.com/track/63Ssxd5ncnJwewaas3ckDe) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [Honeymoon Phase](https://open.spotify.com/album/264YZHWhYHqE5QagWO7DDJ) | 2:14 | 2023-05-05 |  |
 | [Household](https://open.spotify.com/track/3yLH7wNlK2iBrGWzMyvHvC) | [Pete LaCroix](https://open.spotify.com/artist/02oVnpIPcBnM3aLWynbqpo) | [Household](https://open.spotify.com/album/1My5RrUvVBgYMTdlDVCarf) | 2:24 | 2022-06-03 | 2022-07-08 |
 | [Howl](https://open.spotify.com/track/0jv8Wc070R7666f1ZqOBc6) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Howl](https://open.spotify.com/album/2dVX4NHJr7an0lAZiGjB4H) | 2:54 | 2021-11-10 | 2022-04-15 |
 | [Hudson chills](https://open.spotify.com/track/5O27DFLFm5vvESlrvsFkUG) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Hudson chills](https://open.spotify.com/album/4W3O9IQs8OKMdo7uVCrUlU) | 2:15 | 2022-11-25 |  |
@@ -372,6 +374,7 @@
 | [Red Eye](https://open.spotify.com/track/0eP23MmFQeMqVSlMdyWgp5) | [Calendar Echoes](https://open.spotify.com/artist/4ANlASV891L3OO3snkMbHN) | [Red Eye](https://open.spotify.com/album/20HYMq6O9YGT6Gi17tHsWT) | 2:39 | 2022-07-22 |  |
 | [Reflect](https://open.spotify.com/track/6KoJqqoM9nwU9Gpo0mMPA9) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [Reflect](https://open.spotify.com/album/35Ho0LxFGqmkEfuiLVYHkp) | 3:09 | 2021-11-10 | 2022-05-20 |
 | [reflect](https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [reflect](https://open.spotify.com/album/3sla1YDETOdnRRrmyn5jDy) | 2:44 | 2022-07-15 |  |
+| [relativity](https://open.spotify.com/track/4b8RSoGd1kGLZLllrlOQYc) | [Jasmineflour](https://open.spotify.com/artist/48XxrR0pCyOtiWqWrx8YB9) | [relativity](https://open.spotify.com/album/7g1DY2b3vCILA6UZxZEftq) | 2:17 | 2023-05-05 |  |
 | [Remember that Thing?](https://open.spotify.com/track/6qrWKbbY97z18o3nGiquGn) | [HEH](https://open.spotify.com/artist/0TPeimMKCuW9cVVu4DUOz0) | [Heroes in Heartbreak](https://open.spotify.com/album/2GKm63re8wsbsaJKUihCmO) | 2:29 | 2021-11-10 | 2022-05-11 |
 | [Restored](https://open.spotify.com/track/1nCp6nbwwhm1DLEL7KT9Li) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Restored](https://open.spotify.com/album/7BpIbyON9DO2vxHGLCdpfE) | 2:41 | 2022-04-05 |  |
 | [Rhodes](https://open.spotify.com/track/2EFTZJN5orePrHn2k6Lsxe) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Rhodes](https://open.spotify.com/album/3ib4ZrpTSLEEqPIt49BnGs) | 3:48 | 2021-11-10 | 2022-02-11 |

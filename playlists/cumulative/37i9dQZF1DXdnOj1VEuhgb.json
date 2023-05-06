@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 150961,
       "name": "PAVYON",
       "url": "https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J"
@@ -2280,6 +2280,28 @@
       "duration_ms": 161308,
       "name": "Yolum A\u00e7\u0131k",
       "url": "https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6"
+    },
+    {
+      "album": {
+        "name": "Yolunda \"pavyon\"",
+        "url": "https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "Yolunda \"pavyon\"",
+      "url": "https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo"
     },
     {
       "album": {

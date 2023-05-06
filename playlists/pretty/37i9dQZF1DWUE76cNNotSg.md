@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,010 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,197 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 |
 | 80 | [Chihiro](https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Chihiro \(Remixes\)](https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ) | 3:32 |
 
-Snapshot ID: `MCw2MTZlNTVhMGU3MWNlOTlkYWRlYTY1NmJhN2IxMjhjZWQwMWJjZDdh`
+Snapshot ID: `MCxlOGQ2N2E4NmI1YWUzYjY1OTQ0YjI4MmMyNzAyOGJkNWJkOGRjNWJl`

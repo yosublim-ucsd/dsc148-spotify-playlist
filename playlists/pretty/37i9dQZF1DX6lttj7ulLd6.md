@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,087 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,401 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [Squeeze Me](https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 6:54 |
 | 100 | [Days Of Soul](https://open.spotify.com/track/5d55M6BUwHsxXPneoiXb84) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Seven Large](https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR) | 6:13 |
 
-Snapshot ID: `MCw4NGMzZDQ2YzBiZmUzYjY4MGJlNjE1NTM1Y2Q5MTAzNTRkZjE5MjVj`
+Snapshot ID: `MCxjZDk3M2I3YzAxZTYxMWMzN2E4Y2RkMDc4MGNhNmYwYmI3ODI4MjVk`

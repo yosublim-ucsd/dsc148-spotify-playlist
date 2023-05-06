@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-118 songs - 5 hr 56 min
+120 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Follow the Creek](https://open.spotify.com/track/1MicbuqBTieG0Z2bXhjJZq) | [Credenza](https://open.spotify.com/artist/4ke0i6kG8o2rTxZzoRaoZ5) | [Follow the Creek](https://open.spotify.com/album/651sLcIRdIJLBUuC96Iy4l) | 2:58 | 2023-04-28 |  |
 | [Forest Lake](https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:49 | 2023-04-28 |  |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2023-04-28 |  |
+| [Forever Still](https://open.spotify.com/track/1uUMHYJpNiev5x1vZPdXsc) | [Zen Om](https://open.spotify.com/artist/1rM7kgU05ig5vYpYTpSPZs), [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu) | [Forever Still](https://open.spotify.com/album/3M7iDJTVb6CDB0c65rzVzD) | 1:42 | 2023-05-05 |  |
 | [Fortune Teller](https://open.spotify.com/track/2jf6qaFGfXR2avaQ2QkmEf) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [The whim of fate](https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru) | 3:11 | 2023-04-28 |  |
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2023-04-28 |  |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-04-28 |  |
@@ -72,6 +73,7 @@
 | [Namah \(Nature\)](https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Namah](https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU) | 3:19 | 2023-04-28 |  |
 | [Natural Healing](https://open.spotify.com/track/4xqHr91EEXm4qhnEeju02d) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Natural Healing](https://open.spotify.com/album/724HzfOLKOY1i1vx0f6ziy) | 3:33 | 2023-04-28 |  |
 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 | 2023-04-28 |  |
+| [Nature Spirit](https://open.spotify.com/track/6h0IOgeKJufk8JeSlX5Q4I) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Nature Spirit](https://open.spotify.com/album/4XQd6piWXsg8bOagxKxJYV) | 2:27 | 2023-05-05 |  |
 | [Nature Surrounded](https://open.spotify.com/track/3WRuZ3OxgT37nzDxS1feyr) | [Nordic Atmos](https://open.spotify.com/artist/3MfbMpKaXMdMo8DZkvobfn) | [Galactic Relaxation](https://open.spotify.com/album/7cGfQ8xodLAuY07fwp2YMy) | 3:06 | 2023-04-28 |  |
 | [Nature's Canvas](https://open.spotify.com/track/3gn4qQjNar63wHcK5DOJYU) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Nature's Canvas](https://open.spotify.com/album/58HOen5kFIqFH0AgNn8qfs) | 2:42 | 2023-04-28 |  |
 | [Naturopathy](https://open.spotify.com/track/7sn9S28CworpMPtVi9waWI) | [Nordic Spa Music](https://open.spotify.com/artist/000g1xoERW2wrJusJdfBpf) | [Naturopathy](https://open.spotify.com/album/1jSpCHxu3ds5UDgQDWdcIv) | 2:53 | 2023-04-28 |  |

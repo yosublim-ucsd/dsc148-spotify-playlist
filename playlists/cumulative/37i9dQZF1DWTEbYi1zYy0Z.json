@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 294840,
       "name": "Convergency",
       "url": "https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP"
@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 213723,
       "name": "Heat of the Rhythm",
       "url": "https://open.spotify.com/track/7HCdFjqTKyxShTz58ohH8A"
@@ -3463,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "Smooth Jazz Renditions of Daniel Caesar (Instrumental)",
+        "url": "https://open.spotify.com/album/3VKiW7p1ekczui9eA0kZqK"
+      },
+      "artists": [
+        {
+          "name": "Smooth Jazz All Stars",
+          "url": "https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185617,
+      "name": "LOVE AGAIN - Instrumental",
+      "url": "https://open.spotify.com/track/3HlCC1C3oMLOn5khnK82PP"
+    },
+    {
+      "album": {
         "name": "With Every Turn",
         "url": "https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G"
       },
@@ -4148,6 +4166,28 @@
       "duration_ms": 259044,
       "name": "Off The Top - radio single",
       "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
+    },
+    {
+      "album": {
+        "name": "On Cue",
+        "url": "https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI"
+      },
+      "artists": [
+        {
+          "name": "Rick Habana",
+          "url": "https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds"
+        },
+        {
+          "name": "Ragan Whiteside",
+          "url": "https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229612,
+      "name": "On Cue",
+      "url": "https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc"
     },
     {
       "album": {

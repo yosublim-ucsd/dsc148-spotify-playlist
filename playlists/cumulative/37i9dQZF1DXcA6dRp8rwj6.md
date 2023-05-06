@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Armani White\)
 
-1,221 songs - 2 day 14 hr 18 min
+1,223 songs - 2 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Bridge](https://open.spotify.com/track/30J6nzaBD9yZsfuv9DFd7f) | [Tre Capital](https://open.spotify.com/artist/6IrPXagDuE6hxorH635Rtz), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Nottz](https://open.spotify.com/artist/1iGcDQbhw4Slu7bygkuV2T) | [Bridge](https://open.spotify.com/album/1BFbz8NFz39SlMBjgVlbEN) | 2:57 | 2022-06-09 | 2022-07-15 |
 | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/album/0fFqPfWEy8FdDqaPzXMOLx) | 2:55 | 2022-05-12 | 2022-06-17 |
 | [BRODIES](https://open.spotify.com/track/1pGxSl5VmzBtejKSmuAKKU) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [BRODIES](https://open.spotify.com/album/5xSam2UgSOM6sXR7C6SuVc) | 2:30 | 2023-01-19 | 2023-03-18 |
+| [Brucifix](https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [WON'T HE DO IT](https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc) | 3:10 | 2023-05-04 |  |
 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 | 2022-08-25 | 2022-09-30 |
 | [BRUISE \(Feat\. Skinny Brown, Loopy\)](https://open.spotify.com/track/45pjYjmR1qekpLX5SviYXZ) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [루피 \(Loopy\)](https://open.spotify.com/artist/1m9RWAAMDiUdOo9WDW9JoP) | [BRUISE](https://open.spotify.com/album/7Ci64GT3vPXALHb9j7rEAh) | 4:17 | 2022-12-08 | 2023-01-28 |
 | [Buckshot Flow 93'](https://open.spotify.com/track/1ZlPonESk2e41ZuJhzUkBp) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Buckshot Flow 93'](https://open.spotify.com/album/23RC8Xrzg1MIgVuZjCdJg6) | 2:33 | 2022-06-16 | 2022-07-29 |
@@ -297,6 +298,7 @@
 | [Dawn to Dusk](https://open.spotify.com/track/0fM5RgjEhuB9UYei2EEQUR) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Dawn to Dusk](https://open.spotify.com/album/6g16lvVzSTtKSutNr8qscW) | 2:37 | 2022-02-24 | 2022-03-18 |
 | [Dawn to Dusk \(AFTRSHOK Dawn Remix\)](https://open.spotify.com/track/0XfJL4J7RqwVr3A7dV4cBF) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Dawn to Dusk](https://open.spotify.com/album/78FBSbzPQmGYiLw4GJxZPJ) | 2:26 | 2022-05-26 | 2022-07-15 |
 | [day in time](https://open.spotify.com/track/79HkMbZ55DXxzxr3rJ9V8k) | [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl) | [day in time](https://open.spotify.com/album/0qCqIfRn94Thy4fF7H7Vuy) | 2:01 | 2022-07-21 | 2022-08-26 |
+| [Day One](https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Day One](https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi) | 2:28 | 2023-05-04 |  |
 | [DDD](https://open.spotify.com/track/5QI2DBP4SGwu0LpWG2gjVQ) | [YoungQueenz](https://open.spotify.com/artist/4L55QUybdNNklpqnecZ5Bl), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1), [GrymeMan](https://open.spotify.com/artist/0mMZXEzP0xfLFD0W8XCTwx) | [DDD](https://open.spotify.com/album/3mVxptWfVz2onML3Fs5HIl) | 2:48 | 2023-03-30 | 2023-04-14 |
 | [DDKD \(Feat\. JUSTHIS, Dynamicduo\)](https://open.spotify.com/track/1v48PanV5fux8FH5RYxaj4) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [DDKD](https://open.spotify.com/album/4oQwIsUmLQZrlWSWaMyFHU) | 3:31 | 2022-06-30 | 2022-07-15 |
 | [Dead Wrong](https://open.spotify.com/track/2RWHnUfoeI5RPU3EINDl3R) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Dead Wrong](https://open.spotify.com/album/3znv6GDb3h4zrDGHTZpyFj) | 2:37 | 2022-08-11 | 2022-09-30 |

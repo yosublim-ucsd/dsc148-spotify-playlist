@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,789 likes - 99 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,833 likes - 99 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 | 98 | [Santa Cecília](https://open.spotify.com/track/2aBcW0F2W0r11qShc1oaCt) | [MINIDocs](https://open.spotify.com/artist/3T2xCfhBZQj5kk6S6aGpCV), [Oritá](https://open.spotify.com/artist/1xVqmKq5IfPibJultYqpcc) | [Oritá No Minidocs](https://open.spotify.com/album/5rfUjgWMbXgm93fP69Paew) | 5:30 |
 | 99 | [Nasceu o Amor](https://open.spotify.com/track/1C8bNtsT3FF5AFMISWVqKt) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Daniel Santiago](https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g), [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE), [Thiago Espirito Santo](https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx) | [Harmonize](https://open.spotify.com/album/50FauL4PvB8nRiTO44pWcF) | 6:42 |
 
-Snapshot ID: `MCwwNWVjNzNhNTI4N2QxZGZhOWFlZDE1ZDdmY2Q1ODkyNzFiNzQzOTM1`
+Snapshot ID: `MCxjNGFlOGRmNDI1ZjQ5YTRjNDFkNDlhZWI3ZTg4ZDVlNmQxYThmN2Zi`

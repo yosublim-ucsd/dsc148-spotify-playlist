@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 
 > Soft piano music to accompany your reading
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,503 likes - 133 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,515 likes - 133 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 | 63 | [Rue Au Pain](https://open.spotify.com/track/43pVgyjB9yACAHeoJzsVpg) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Rue Au Pain](https://open.spotify.com/album/2aASt56NiEervWgl35oO23) | 3:11 |
 | 64 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 |
 | 65 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 |
-| 66 | [Moux: avenue des reves](https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [avenue des reves](https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp) | 2:11 |
+| 66 | [avenue des reves](https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [avenue des reves](https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp) | 2:11 |
 | 67 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 |
 | 68 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 |
 | 69 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 | 132 | [Kokyu](https://open.spotify.com/track/5v9dmm3md5BdP2qpH0lriI) | [Mizuki Lee](https://open.spotify.com/artist/3Q4E32Z1xrz9ZrDx8pyB0y) | [Kokyu](https://open.spotify.com/album/5C72uHPlWlDljYbWxVGjhU) | 2:06 |
 | 133 | [Vitality](https://open.spotify.com/track/10tC4GQIfS6saBeCfXda1h) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Vitality](https://open.spotify.com/album/5FciHHdDCIuNUnI1jt24nr) | 2:06 |
 
-Snapshot ID: `MCxlZDYxOTQ1MDExMTQ2NzEyZTk4ZDBmNGJkZGJmM2VjNzZjNDY5OTE0`
+Snapshot ID: `MCxiMjBhZTcyZTczYTQwYWUyNWU3MGEzYzVkYTZlZTllNzI4ZjU4OGEy`

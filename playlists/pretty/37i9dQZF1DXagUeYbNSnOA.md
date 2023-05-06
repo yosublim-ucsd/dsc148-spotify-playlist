@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Juli Gervasoni\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,790 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,792 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Hace Días](https://open.spotify.com/track/0LwYew0vKp72ZFTc1dN3xj) | [Santiago Vélez](https://open.spotify.com/artist/5nCnuQHyws6IKOKvQaCyIq), [Los Melancohólicos](https://open.spotify.com/artist/74eLPblHbplIGaeXwgEmUj) | [Hace Días](https://open.spotify.com/album/1ouqzJCYVO8CYUQtf11n3z) | 4:40 |
 | 50 | [Nina Flowers](https://open.spotify.com/track/3uzfNVfGwWnLUwv5bE71et) | [Ladrones de Bicicletas](https://open.spotify.com/artist/6nNkhgWX9xu8T3s9h1Bu65) | [Nina Flowers](https://open.spotify.com/album/0C3x6sgrHvN8VUlhgitnUC) | 3:35 |
 
-Snapshot ID: `MCw1ZGI0MDZlMjFiNTZiMzU4NWJjZmM2NzE4NTkxYjBmZWIyMGFmZmVi`
+Snapshot ID: `MCxlZjZhZDI3MGQxYTk2ZmZmMmZhMTJjN2ZhM2ZiNmM3ZDY5MjE3Nzcy`

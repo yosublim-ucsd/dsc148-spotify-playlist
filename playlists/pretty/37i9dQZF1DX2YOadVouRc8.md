@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,430 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,448 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 |
 | 80 | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/track/3YMPFjNdqspuEvCUYXbWAl) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/album/2pTkLDnVeiVT3HOdeh2r5Y) | 3:17 |
 
-Snapshot ID: `MCwyYWE1NWVmYjUzZGYyYWQ3NDYzYmVlYjYyZGFlNzE3ZDgxMTMzZjY4`
+Snapshot ID: `MCxkNjQ3YjcyMjMzMzBiMTIyODhhMjNkNDhjYTBmMmUyZWMwYzQ1ZGY5`

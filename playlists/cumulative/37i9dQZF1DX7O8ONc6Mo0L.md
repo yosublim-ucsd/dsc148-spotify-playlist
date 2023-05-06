@@ -2,9 +2,9 @@
 
 ### [Gospel Acústico](https://open.spotify.com/playlist/37i9dQZF1DX7O8ONc6Mo0L)
 
-> Relaxe com hinos acústicos\. Foto: Preto no Branco
+> Relaxe com hinos acústicos\. Foto: Eli Soares
 
-109 songs - 8 hr 7 min
+111 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Descansa](https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Jay Santana](https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do) | [Minha Essência](https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG) | 4:29 | 2022-09-02 |  |
 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 | 2022-09-02 |  |
 | [Deus Cuida de Mim](https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn) | 3:44 | 2022-12-05 |  |
+| [Deus Não É Culpado \- Ao Vivo](https://open.spotify.com/track/7maxojilY61gGGWX6xcpo1) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Deus Não É Culpado \(Ao Vivo\)](https://open.spotify.com/album/66ThLOkhewpwuRcD6bsftw) | 4:49 | 2023-05-05 |  |
 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 | 2022-09-02 |  |
 | [Ele Mudará](https://open.spotify.com/track/2X4wT4QUUQl7tL9dI0ELH8) | [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3) | [Ele Mudará](https://open.spotify.com/album/3su6MTa1S1Zrli6mCyfGKZ) | 4:00 | 2022-09-02 |  |
 | [Ele Nos Ama \- Acústico](https://open.spotify.com/track/6mfGVJl7uQ6LcE3owuUOPs) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Ele Nos Ama \(Acústico\)](https://open.spotify.com/album/12QmRuNPuRcLA9uYjXSC5N) | 4:09 | 2022-09-02 | 2022-11-26 |
@@ -54,7 +55,7 @@
 | [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l) | 2:36 | 2022-09-02 |  |
 | [Eu Te Agradeço \(Essência Sessions\)](https://open.spotify.com/track/2gMLLBjJgVTWiH4u8X3xVV) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Weslei Santos no Essência Sessions](https://open.spotify.com/album/57c7bRChhj4vPRaeafLnI5) | 5:00 | 2022-09-02 | 2023-03-25 |
 | [Eu Te Vejo Em Tudo \- Acoustic Session](https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 4:40 | 2022-09-02 |  |
-| [Existe uma Saída](https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Existe uma Saída \(Acoustic\)](https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09) | 3:36 | 2023-03-24 |  |
+| [Existe uma Saída](https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Existe uma Saída \(Acoustic\)](https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09) | 3:36 | 2023-03-24 | 2023-05-06 |
 | [Expressão de Louvor \- Acústico](https://open.spotify.com/track/3vMnBRfXNxKqr8TeCi7L1K) | [Lincoln Baena](https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57) | [Acústico](https://open.spotify.com/album/2zyQ9AgE1siYNFwTVZHECX) | 4:09 | 2023-04-15 |  |
 | [Falar Com Deus \- Faixa Bônus](https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [On Tape \(Ao Vivo\)](https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL) | 3:48 | 2022-09-02 |  |
 | [Faz Chover \- Acústica](https://open.spotify.com/track/5FPjAIOZoxboGvYkr7eawZ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Série Acústica Com Fernandinho, Vol\. 3 \(Acústico\)](https://open.spotify.com/album/461uxJ7Fk4jjJ1q8gYo16L) | 3:54 | 2022-09-02 |  |
@@ -62,7 +63,7 @@
 | [Impressionante \- Acústico](https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Impressionante \(Acústico\)](https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p) | 5:31 | 2023-02-03 |  |
 | [Intimidade \- Ao Vivo](https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Intimidade \(Ao Vivo\)](https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T) | 3:39 | 2022-09-02 |  |
 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 | 2022-09-02 |  |
-| [Mais Que Uma Voz](https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Mais Que Uma Voz / A Ele a Glória](https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN) | 4:02 | 2022-09-02 |  |
+| [Mais Que Uma Voz](https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Mais Que Uma Voz / A Ele a Glória](https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN) | 4:02 | 2022-09-02 | 2023-05-06 |
 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 | 2022-09-02 |  |
 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 | 2022-09-02 |  |
 | [Me Ensina a Depender \- Acústico](https://open.spotify.com/track/3uwk3N4xVvtdS4mk2AaOB0) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Me Ensina a Depender \(Acústico\)](https://open.spotify.com/album/3xTpjjSHdWJfwYO3lM7kiG) | 4:50 | 2022-09-02 | 2022-10-08 |
@@ -92,6 +93,7 @@
 | [O Tamanho da Tua Dor](https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [O Tamanho da Tua Dor](https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg) | 3:36 | 2022-11-25 |  |
 | [O Tempo Voa](https://open.spotify.com/track/7bwnpc3RD1K90md80Yk9gP) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [O Tempo Voa](https://open.spotify.com/album/720WqhrubKhHaG6Acp8yT8) | 4:37 | 2023-01-14 | 2023-02-11 |
 | [Pai](https://open.spotify.com/track/518dbOPcDV45Zi2u1VEITp) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Pai](https://open.spotify.com/album/2U65qCgWMTyJCfwABYbfnT) | 5:21 | 2023-02-03 |  |
+| [Palavra e Canção](https://open.spotify.com/track/3Lhg1L7Qoh4sSaJ15ddmTo) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Isaque Music](https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe), [Raquel Fonseca](https://open.spotify.com/artist/4hjAqzyv778SCdFjJ8Hpct) | [Palavra e Canção](https://open.spotify.com/album/6MbjgocQypjuf0gpmWaOk8) | 4:33 | 2023-05-05 |  |
 | [Paz da Minha Alma](https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Paz da Minha Alma](https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l) | 4:38 | 2022-09-02 |  |
 | [Pra Sempre \- Acústico](https://open.spotify.com/track/3uLESUUCo5sq0c03Q0WxFr) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Paula Santos](https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 5:31 | 2022-09-02 |  |
 | [Preciso de Ti](https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Preciso de Ti](https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc) | 3:40 | 2022-09-02 |  |

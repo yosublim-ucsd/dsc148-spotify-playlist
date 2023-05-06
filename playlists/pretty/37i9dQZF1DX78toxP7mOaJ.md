@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: ALEXSUCKS \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,431 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,474 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Felt](https://open.spotify.com/track/2eCtOHnjLydSU56f4peoO2) | [Blessed](https://open.spotify.com/artist/0IE68xHQxczOqBXTnB1cGD) | [Felt](https://open.spotify.com/album/43lh4EdeuXAGx42pBnM3iY) | 3:03 |
 | 100 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 
-Snapshot ID: `MCwyZGU0ZWVmZDg4ZWZlYzkxZjc5Y2MxMWJiYjdiZmVlNWVmZGY0MTAw`
+Snapshot ID: `MCw4NzViMjg1Yjc0MzVkYjlkYzFmNDk5Mjk5ZjJkMzE1NDM2Zjc3YzA1`

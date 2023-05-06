@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-172 songs - 9 hr 1 min
+175 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 | 2021-11-11 |  |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2021-11-11 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2021-11-11 | 2023-03-10 |
+| [Breeze](https://open.spotify.com/track/0whoBMh85W6OGcp9SXvpeH) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Breeze](https://open.spotify.com/album/15NQ6RxghzQVEOrms9xl5S) | 2:54 | 2023-05-05 |  |
 | [Bubbly Vibes](https://open.spotify.com/track/1cvX6BDM6QiuPfOFeXXRuM) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Bubbly Vibes](https://open.spotify.com/album/6e2RkxY6bYkhuT0tmsGKod) | 3:03 | 2023-03-10 |  |
 | [Campion](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Campion / Geimfar](https://open.spotify.com/album/552e1oUOvaktE907WmfQPR) | 3:29 | 2021-11-11 | 2023-03-10 |
 | [Cannonball](https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:41 | 2021-11-11 | 2022-04-06 |
@@ -38,6 +39,7 @@
 | [Chateau \- Holmsey Remix](https://open.spotify.com/track/1J2IGKsTJZDRy1MO3DJPsG) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr), [Holmsey](https://open.spotify.com/artist/1MLYmLwA6D9xQUwsHdDYKI) | [Chateau \(Holmsey Remix\)](https://open.spotify.com/album/4RdQAts3q3WmEJmZKNjdUK) | 4:00 | 2021-11-11 | 2022-01-22 |
 | [Cheap Week](https://open.spotify.com/track/6FApcHEMgIKjS59AJHQxth) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Cheap Week](https://open.spotify.com/album/1GRm4CtpICVfP9ACydDVsi) | 3:22 | 2022-07-15 |  |
 | [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2021-11-11 | 2022-01-22 |
+| [Closer To You](https://open.spotify.com/track/1LZcITKf7e25HXphIdzXuD) | [Dee Delvechio](https://open.spotify.com/artist/6MGmJoRyVYie4OBBtkvLQ2) | [Closer To You](https://open.spotify.com/album/1qjq4ZlSZKg4uyEntuHhMN) | 2:21 | 2023-05-05 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-11 |  |
 | [Crepuscular](https://open.spotify.com/track/5mFUHYZXlZhiSdqKmscDcU) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Balmy](https://open.spotify.com/album/2w24KFSj3y18ardZ75SIMm) | 5:10 | 2021-11-11 |  |
 | [Dawn](https://open.spotify.com/track/3VFCT5TD5P9HQQIIEPcaiY) | [Von Sunshine](https://open.spotify.com/artist/3cSqgxGzUiV21kYqcrD6zB) | [Dawn](https://open.spotify.com/album/4gjEOyzw5Zwqc2fjFKyX7a) | 3:32 | 2021-11-11 | 2022-04-06 |
@@ -135,6 +137,7 @@
 | [Rich In Mind](https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Rich In Mind](https://open.spotify.com/album/1gWYZW7bfXIEL1OY9cdTkH) | 2:55 | 2021-11-11 | 2022-05-11 |
 | [Rooftop](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Rooftop](https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o) | 3:10 | 2021-11-11 |  |
 | [Saharan Nights](https://open.spotify.com/track/2xzGTbiRdVuRGnLISbZuQ4) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [My Everything](https://open.spotify.com/album/6LibNk6jpDCze0Zb7Y8QLi) | 2:44 | 2023-03-24 |  |
+| [saturday thunder](https://open.spotify.com/track/3TXyytRgN8IoyOxoAQ41cd) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [saturday thunder](https://open.spotify.com/album/3CYxz9iPi8Uu6IxWLITo5V) | 2:35 | 2023-05-05 |  |
 | [Scuba](https://open.spotify.com/track/2p9EvU7lq9Aa0kPH9ZpMaR) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Scuba](https://open.spotify.com/album/1iqfJB94wDQkICP9m840RG) | 2:19 | 2022-11-25 |  |
 | [See Me](https://open.spotify.com/track/6jHI5mf1ahYvoSwx0tdbNB) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [See Me](https://open.spotify.com/album/4LOia9loCga2tcDc8HQU5J) | 3:48 | 2022-07-22 |  |
 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2021-11-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,079 likes - 130 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,123 likes - 130 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [How High](https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK) | [We Have The Name](https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH) | 5:46 |
 | 130 | [Holy Holy Here With Me \- Live](https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Holy Holy Here With Me \(Live\)](https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL) | 4:57 |
 
-Snapshot ID: `MCw5NDM0YWIyZmJlNjg1YjAxNWFiYjg5YjI1NGE1ZjU2MzE3MmVlOWQ4`
+Snapshot ID: `MCxlZGY2ODgyNWEwZDY2YWRhMDcxNTQ4ZDQwY2ZlYjgzYTM3YTZhNTQ5`

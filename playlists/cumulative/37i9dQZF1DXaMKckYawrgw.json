@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 233513,
       "name": "Cumbia Feminista",
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187200,
       "name": "Embicia2",
       "url": "https://open.spotify.com/track/4oaJqoY1zTYObJzsRkv5bQ"
@@ -1104,6 +1104,24 @@
       "duration_ms": 219193,
       "name": "Freska - Skuela de Baile",
       "url": "https://open.spotify.com/track/3VvSqcarbQm0xqyLBqtAIA"
+    },
+    {
+      "album": {
+        "name": "Para Toda la Galaxia vol. 2",
+        "url": "https://open.spotify.com/album/6luxn1l5vG8abhh9whh37a"
+      },
+      "artists": [
+        {
+          "name": "Los Tianguis",
+          "url": "https://open.spotify.com/artist/1fa3AKOYR1d4MDrnPKoYxG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252272,
+      "name": "Gata bajo la lluvia",
+      "url": "https://open.spotify.com/track/0J2iP4xkhj6ZlQQ4mKndON"
     },
     {
       "album": {
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
@@ -2204,6 +2222,24 @@
       "duration_ms": 156820,
       "name": "Polic\u00eda",
       "url": "https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo"
+    },
+    {
+      "album": {
+        "name": "Que te vaya bien",
+        "url": "https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp"
+      },
+      "artists": [
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174150,
+      "name": "Que te vaya bien",
+      "url": "https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A"
     },
     {
       "album": {
@@ -2963,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Tu nombre",
+        "url": "https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173335,
+      "name": "Tu nombre",
+      "url": "https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt"
+    },
+    {
+      "album": {
         "name": "The Maskatonians All Stars And Friends",
         "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
@@ -2996,7 +3050,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 218064,
       "name": "T\u00fa Lo Decidiste",
       "url": "https://open.spotify.com/track/0ys6yLVGYNKHqoV5YgDKG8"

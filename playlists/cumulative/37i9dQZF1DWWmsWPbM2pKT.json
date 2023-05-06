@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-06",
-  "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Molchat Doma on cover.",
+  "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Cover: Mareux",
   "name": "Darkwave",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 296727,
       "name": "Against the Law",
       "url": "https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS"
@@ -290,6 +290,28 @@
       "duration_ms": 240000,
       "name": "Audiotool Day 2016",
       "url": "https://open.spotify.com/track/0j0BYhRSoVbYDvDlVoSP4a"
+    },
+    {
+      "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        },
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X"
     },
     {
       "album": {
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 169973,
       "name": "If Love Is Just a Word",
       "url": "https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0"
@@ -1220,6 +1242,24 @@
       "duration_ms": 192000,
       "name": "Judas Effect",
       "url": "https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ"
+    },
+    {
+      "album": {
+        "name": "Lovers From The Past",
+        "url": "https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6"
     },
     {
       "album": {

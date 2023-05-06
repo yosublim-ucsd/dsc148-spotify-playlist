@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 ### [Mediodía Acústico](https://open.spotify.com/playlist/37i9dQZF1DWWoDbniQLBJY)
 
-> Pop Acústico para tu día.
+> Pop acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016,292 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,016,316 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 99 | [Mocca](https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Mocca](https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q) | 1:35 |
 | 100 | [el bufón](https://open.spotify.com/track/21BSvkIPRTD4noWUoXrjGd) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [el bufón](https://open.spotify.com/album/3dbV7ZYLqGRsTbpcte68Q8) | 2:57 |
 
-Snapshot ID: `MCwyNDM5M2E2MTYxMGFiYTdjOGE5ZWEzZTQ2ODIxMzZkNWI5N2Q4NTBh`
+Snapshot ID: `MCw5OTc0MzgzZTA5Njk1Njk0MGY1MWUzZmM3OTNkN2Q4YjhmMzIxY2Vl`

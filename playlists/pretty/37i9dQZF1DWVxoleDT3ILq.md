@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Hausi Kuta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,883 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,886 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Anatta](https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Anatta](https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG) | 6:38 |
 | 100 | [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 |
 
-Snapshot ID: `MCw1NjRhNzQ3ZjY3NzhkY2FlZjFmMTg3MTY5ZGNiNmNiZGY2YzgyMGQw`
+Snapshot ID: `MCxjMWE0MjJiZjMzNWQyYThkOWQxMzg0NDY2ZTYyZmU4Yzg4ZTI3MDI2`

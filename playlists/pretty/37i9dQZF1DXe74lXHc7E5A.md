@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,149 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,185 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 |
 | 60 | [Born To Win](https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA) | 2:58 |
 
-Snapshot ID: `MCxlODk2MTAxNzk1Mjk0NTVjNThlY2I3YTY2OGYyNjhiYWMzMDQxMTFm`
+Snapshot ID: `MCw1NjRjNzk1OWU5OTg3Yjk4NTYyYTEzNGViZTNlZDI3MDQ5ZjJlNTIx`

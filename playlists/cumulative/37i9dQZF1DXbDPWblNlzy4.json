@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Mike Bah\u00eda",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Las Villa, Marco Mares",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -475,6 +475,32 @@
     },
     {
       "album": {
+        "name": "Curar (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/33PpVaUlb4lTLMCrkoO5Bf"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Nia Vanie",
+          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
+        },
+        {
+          "name": "Fabiana Brenner",
+          "url": "https://open.spotify.com/artist/3FzRkXZD5SfQXxkjcQYJpo"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "Curar - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0QyfLgk0dopKiPDBb1tlCc"
+    },
+    {
+      "album": {
         "name": "Dame Un Break",
         "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
       },
@@ -915,6 +941,24 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
+    },
+    {
+      "album": {
         "name": "Legendaria",
         "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
       },
@@ -973,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "Lo Que Me Har\u00edas En Otra Parte",
+      "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
+    },
+    {
+      "album": {
         "name": "Los Hombres Son Todos Iguales",
         "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
       },
@@ -984,7 +1046,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 244053,
       "name": "Los Hombres Son Todos Iguales",
       "url": "https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb"
@@ -1176,7 +1238,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 164826,
       "name": "Netflix & Chill",
       "url": "https://open.spotify.com/track/0KPDkJ5UfDsGKw7gsieU54"
@@ -1278,7 +1340,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180003,
       "name": "No Te Sientes Igual",
       "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
@@ -1432,6 +1494,28 @@
       "duration_ms": 198880,
       "name": "Ojos Marrones - Con Sebasti\u00e1n Yatra",
       "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
     },
     {
       "album": {
@@ -1822,7 +1906,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 137167,
       "name": "Tiempo Indefinido",
       "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"

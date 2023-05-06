@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,404,495 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,406,123 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 99 | [Revolution](https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Revolution](https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X) | 2:46 |
 | 100 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 |
 
-Snapshot ID: `MCw1YTQ3OGRkZDU2NzZkODY1YjlmODNiMjdhMTdmZGQyNjJiOTAzOWY1`
+Snapshot ID: `MCwwNmIwMzNiODQxMDc0NDRiYjUyM2ZkZmQxMTBmZWQxNDA1NDNlMjU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Jards Macalé
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,751 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,792 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 99 | [Estrela Negríssima](https://open.spotify.com/track/3Hiq2UxTdyOQdZ1EUaZCUG) | [Lirinha](https://open.spotify.com/artist/4ZeMZtEeCive0yI4CmD8AY) | [MÊIKE RÁS FÂN](https://open.spotify.com/album/4jaTgMzkvAguSI8Q2WuxyK) | 2:27 |
 | 100 | [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 |
 
-Snapshot ID: `MCxhZjAwMGNkZDdjMjRkOWJkYjQzZjExYjMyMjZhZGZjMDFiZjUxMzhi`
+Snapshot ID: `MCw5ZjgwZjgyNTEwYjhiMzMwYzVjYmI0YWE2M2MzMmZhNTc1YmIxNDdj`

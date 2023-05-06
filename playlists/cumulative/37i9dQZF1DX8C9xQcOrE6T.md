@@ -2,7 +2,7 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
+> All your favorite Disney Hits, including songs from The Little Mermaid.
 
 160 songs - 8 hr 2 min
 

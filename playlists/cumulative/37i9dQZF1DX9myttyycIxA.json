@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 182475,
       "name": "bodies",
       "url": "https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210458,
       "name": "Bound To Be",
       "url": "https://open.spotify.com/track/2UEIBvImcmgwOJsw7UCesE"
@@ -6381,6 +6381,24 @@
     },
     {
       "album": {
+        "name": "Guessing",
+        "url": "https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS"
+      },
+      "artists": [
+        {
+          "name": "Purr",
+          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303773,
+      "name": "Guessing",
+      "url": "https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq"
+    },
+    {
+      "album": {
         "name": "Guessing in a Row",
         "url": "https://open.spotify.com/album/5j4nsSORgIB3H4yigy4wbA"
       },
@@ -10462,7 +10480,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 207371,
       "name": "Nothing In Particular",
       "url": "https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u"
@@ -11581,6 +11599,24 @@
     },
     {
       "album": {
+        "name": "Time Is Elastic",
+        "url": "https://open.spotify.com/album/0ccmoGBiZzB3B81rUC7zpH"
+      },
+      "artists": [
+        {
+          "name": "Middle Part",
+          "url": "https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "Rather B Dead",
+      "url": "https://open.spotify.com/track/0BvwY3gLswQKxK3yvgWpw2"
+    },
+    {
+      "album": {
         "name": "reach u",
         "url": "https://open.spotify.com/album/0PPAvDTaRrsKWiyyaLtYMN"
       },
@@ -12111,6 +12147,24 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152800,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq"
+    },
+    {
+      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/18iJRLRwdzvZAzeb82ApaT"
       },
@@ -12350,6 +12404,24 @@
       "duration_ms": 270293,
       "name": "Shark Eyes",
       "url": "https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB"
+    },
+    {
+      "album": {
+        "name": "She's On Fire",
+        "url": "https://open.spotify.com/album/3CQ4NKe4v9ro6LFpeklmaY"
+      },
+      "artists": [
+        {
+          "name": "Strange Ranger",
+          "url": "https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265160,
+      "name": "She's on Fire",
+      "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
     },
     {
       "album": {
@@ -13879,6 +13951,24 @@
     },
     {
       "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/4wLiI1xFR9EdYvJs6pF99n"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226468,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/32ZKfUxISWjSTgeaPldd7l"
+    },
+    {
+      "album": {
         "name": "teeth (you)",
         "url": "https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY"
       },
@@ -15124,7 +15214,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 262826,
       "name": "Unfun",
       "url": "https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u"
@@ -15434,7 +15524,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 142031,
       "name": "Waking Up 2 A Heartbreak",
       "url": "https://open.spotify.com/track/7CrP18CRBQjKIfr6R68zAJ"

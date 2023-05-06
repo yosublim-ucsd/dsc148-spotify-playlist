@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,686 likes - 150 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,942 likes - 150 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Midnight Run](https://open.spotify.com/track/0f49rlkhrHcAHwGCde5sfi) | [Sebastian Gampl](https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy) | [City Hunter](https://open.spotify.com/album/6E5uRUjPHy4iikqyUDF8d7) | 4:45 |
 | 150 | [Transmission](https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Transmission](https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw) | 3:06 |
 
-Snapshot ID: `MCxmY2E0NWM5NDNkNjhkYmQ3MWI0ZTA3NjU3NDZlN2U1M2M0YjliYzA1`
+Snapshot ID: `MCxmYzE2ZTFjNWU5NmMzYmQ4OTVlNjU3YWRhZjdlZTMzMmU4MDJjNTQz`

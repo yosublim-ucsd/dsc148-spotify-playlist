@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,035 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,257 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Heavenly \- Ethan C\. Davis Remix](https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II) | [Heavenly \(Ethan C\. Davis Remix\)](https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon) | 3:42 |
 | 100 | [Keep Me](https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Keep Me](https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52) | 2:30 |
 
-Snapshot ID: `MCw4MWNhYjYzZDQxNDM1YTUwMmVhOTkwMTg2NDkyYTc4MDJlOGI3MDBh`
+Snapshot ID: `MCwzY2ZjODViOTBlYWQ2NTMxYTZiMDU4Yjg0ZWFkZGIwOTEyZTE2Nzlk`

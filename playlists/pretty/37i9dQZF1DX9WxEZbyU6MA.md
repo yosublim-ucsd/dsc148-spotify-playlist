@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 
 > Relax to the calming sounds of choral music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,819 likes - 79 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,897 likes - 79 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 11 | [Byrd: Retire My Soul](https://open.spotify.com/track/6MKNiRPLEHZE8fikKRL3Vq) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Stile Antico](https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG) | [Byrd: Retire My Soul](https://open.spotify.com/album/1OpmDXX4BS0ZB7l8YhcKmQ) | 4:26 |
 | 12 | [Scene Suspended \(Arr\. Lawson\)](https://open.spotify.com/track/1XAwBkH7vpJvNbq8yB3Rji) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Eleanor Turner](https://open.spotify.com/artist/2iWdlFp0AxoJNj3QH18at4) | [Infinity](https://open.spotify.com/album/74eIgzLtcbJVr4NIajGzrb) | 3:58 |
 | 13 | [Whilst Great Is Our Poverty](https://open.spotify.com/track/4x0gTKvCwR5gn9yFw0xWWX) | [Cyrillus Kreek](https://open.spotify.com/artist/528iLyUEtO3pvruI4EwXx2), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Anna\-Liisa Eller](https://open.spotify.com/artist/6QQang0hfuU52p2fD0EWVu), [Angela Ambrosini](https://open.spotify.com/artist/7qoWr7Ppp1vF2vfprEYXSF), [Marco Ambrosini](https://open.spotify.com/artist/7I6Sb7kQGrSkWMh2NVfUVy), [Vox Clamantis](https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p), [Jaan\-Eik Tulve](https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k) | [Cyrillus Kreek \- The Suspended Harp of Babel](https://open.spotify.com/album/4mymYsp2fuShH5ogNWPcj7) | 5:17 |
-| 14 | [Whitacre: All Seems Beautiful to Me](https://open.spotify.com/track/2sUUIC71IhXJbmeO4jPGN7) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Whitacre: All Seems Beautiful to Me](https://open.spotify.com/album/0hISHS4h1cuHnhtocHhus3) | 4:52 |
+| 14 | [All Seems Beautiful to Me](https://open.spotify.com/track/2sUUIC71IhXJbmeO4jPGN7) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Whitacre: All Seems Beautiful to Me](https://open.spotify.com/album/0hISHS4h1cuHnhtocHhus3) | 4:52 |
 | 15 | [momentary \- choir version](https://open.spotify.com/track/3Wa0N4CYjsUEzzfrrPCy5U) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [momentary \(choir version\)](https://open.spotify.com/album/2Bqy8Y0KOt3leOpABhixnA) | 2:51 |
 | 16 | [Heyr, himna smiður](https://open.spotify.com/track/5R1sIewu1amxKBwg0BPC7V) | [Härlanda Chamber Choir](https://open.spotify.com/artist/7n8be4ctMXToYUUjSA3iI9), [David Molin](https://open.spotify.com/artist/7fNB0WFwLcyrJh0shYe6Zv) | [A Bright Star Shineth](https://open.spotify.com/album/3qw4BAKdjP6ce7FMbvxqXX) | 3:38 |
 | 17 | [Byrd: Mass for Four Voices \- V\. Agnus Dei](https://open.spotify.com/track/4tJTytklwv0NENMQxzKp8d) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Stile Antico](https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG) | [Byrd: Mass for Four Voices: V\. Agnus Dei](https://open.spotify.com/album/2Qnw992U1fGiV0OeoCfaj1) | 4:03 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 78 | [Os justi](https://open.spotify.com/track/5y41AyXVAt68eHyY2Z75sP) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [A Choral Tapestry](https://open.spotify.com/album/7GYUPGkWZHeYqC6bZUT68x) | 4:42 |
 | 79 | [Allá se me ponga el sol à 4](https://open.spotify.com/track/7A14bdlIw9CU10VMdXe8Rg) | [Juan Ponce](https://open.spotify.com/artist/6VmMKWrL3Ppmv49NFd0QH5), [Huelgas Ensemble](https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM), [Paul Van Nevel](https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1) | [Allá se me ponga el sol à 4](https://open.spotify.com/album/63GCQSLn5ST8LSG0P2yDG4) | 2:55 |
 
-Snapshot ID: `MCxjZDEyMmNlNzUzMmFjMmE1NGI5Yzc0NjJiNmZiMzUwNWM5YTRlZjgw`
+Snapshot ID: `MCwwMWIxMzg4M2FiMTk4ZjFkNzA4YTAyMzE1MzQwZWE0Y2NlZmE1ZjAz`

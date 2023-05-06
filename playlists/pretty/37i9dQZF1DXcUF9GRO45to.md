@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,132 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,178 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [No Brain No Shame](https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy) | [J.C\. Satàn](https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW) | [Centaur Desire](https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np) | 3:29 |
 | 100 | [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 |
 
-Snapshot ID: `MCw3OTViYTE2MWZiMDA4YzZhZWZiOGVmNGUwMWQ5NjAzYTkxYjBkYzRi`
+Snapshot ID: `MCwwYTBmMzAxYjE1YzVkMzNlYmJmM2ZmOTBiNmNkMzIyMTZhNmZlN2Fi`

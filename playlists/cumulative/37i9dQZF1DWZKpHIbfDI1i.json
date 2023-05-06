@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Cartel de Santa y La Kelly en portada.",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Christian Nodal en portada.",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 158875,
       "name": "Ando Sad",
       "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
@@ -5209,6 +5209,24 @@
     },
     {
       "album": {
+        "name": "Me Caga Tu Novia",
+        "url": "https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170124,
+      "name": "Me Caga Tu Novia",
+      "url": "https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4"
+    },
+    {
+      "album": {
         "name": "PUNTO Y APARTE",
         "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
       },
@@ -6640,6 +6658,24 @@
       "duration_ms": 165613,
       "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
       "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
+    },
+    {
+      "album": {
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "album": {
@@ -8630,7 +8666,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151600,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
@@ -9374,7 +9410,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 155481,
       "name": "Vuela T\u00fa",
       "url": "https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY"
@@ -9806,6 +9842,28 @@
       "duration_ms": 187250,
       "name": "Zaguf Roma",
       "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
+    },
+    {
+      "album": {
+        "name": "\u00bfCu\u00e1les Fronteras?",
+        "url": "https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u00bfCu\u00e1les Fronteras?",
+      "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
     },
     {
       "album": {

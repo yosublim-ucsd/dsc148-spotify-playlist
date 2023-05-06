@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 149142,
       "name": "fable",
       "url": "https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP"
@@ -2546,6 +2546,28 @@
       "duration_ms": 170860,
       "name": "Fairytail",
       "url": "https://open.spotify.com/track/05gpQCSjj80MvJtRbAz8Th"
+    },
+    {
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        },
+        {
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212732,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY"
     },
     {
       "album": {
@@ -2770,7 +2792,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 193187,
       "name": "For Leah",
       "url": "https://open.spotify.com/track/1PVSCJHI5Q0jAyvu0qSKXm"
@@ -6616,7 +6638,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 148432,
       "name": "Surfaced - From \"Surface\"",
       "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"

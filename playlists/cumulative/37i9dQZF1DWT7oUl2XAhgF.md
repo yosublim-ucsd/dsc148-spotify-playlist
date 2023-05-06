@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Jalen Ngonda
+> A new take on a classic sound\. Cover: Durand Jones
 
-292 songs - 17 hr 57 min
+294 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Long Gone](https://open.spotify.com/track/1ovRvPWwCmdmmO4RKxMSgO) | [Claire Davis](https://open.spotify.com/artist/7k4BeoQINC5sC1p7P4UBLA) | [Long Gone](https://open.spotify.com/album/44nTzEQoPoYAWBVwVDKcxx) | 2:43 | 2022-10-07 | 2022-10-22 |
 | [Looking For A Brand New Game \- Live From Easy Eye Sound](https://open.spotify.com/track/1sU1M5bEdRDSfPactx6LdK) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Live From Easy Eye Sound](https://open.spotify.com/album/6lY1atAneLktIAWKI9ixrh) | 2:59 | 2023-01-14 | 2023-01-21 |
 | [Looking For Moses](https://open.spotify.com/track/3crGdqxcBCvHVeG7VaxNY1) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Party For One / Looking For Moses](https://open.spotify.com/album/1RmGdBJcGcO9dse9IdL8XN) | 5:13 | 2022-01-14 | 2022-07-29 |
-| [Lord Have Mercy](https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lord Have Mercy](https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF) | 4:01 | 2023-02-24 |  |
+| [Lord Have Mercy](https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lord Have Mercy](https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF) | 4:01 | 2023-02-24 | 2023-05-06 |
 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 | 2021-07-09 | 2023-01-28 |
 | [Love and Hate in a Different Time \- Edit](https://open.spotify.com/track/1aTzG5OLk5m868nYMeAn7W) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 3:28 | 2021-08-06 |  |
 | [Love Bird](https://open.spotify.com/track/280aVp4Q3m5g9RZkVSp50p) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Love Bird](https://open.spotify.com/album/0iniUlY3Z8tAruoZhXdl1d) | 3:09 | 2022-11-11 | 2023-01-14 |
@@ -229,6 +229,7 @@
 | [Save Your Tears For Someone New](https://open.spotify.com/track/6NZZW5KsaurTurkESdixSq) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/5pmMftX2kDOQPbzop5G7ie) | 2:51 | 2022-10-28 | 2022-11-03 |
 | [Seasons of Trouble](https://open.spotify.com/track/2J4arL11h4pQBCi4HvzcNY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Operator, Please / Seasons of Trouble](https://open.spotify.com/album/78iOU4PyWExwlwiTrvzyJF) | 4:52 | 2022-09-09 |  |
 | [Seasons of Trouble](https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Seasons of Trouble](https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF) | 4:52 | 2022-09-09 | 2022-09-17 |
+| [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 | 2023-05-05 |  |
 | [Sentimental Fool](https://open.spotify.com/track/04JYB3xkI99dosFBeP6W5Z) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/1mvLDGAm4xagW3SX03mCNq) | 3:05 | 2022-08-19 | 2022-08-27 |
 | [Shy](https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 | 2021-07-09 | 2023-02-18 |
 | [Side by Side](https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje) | [Collin Miller & the Brother Nature](https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6) | [Side by Side](https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF) | 5:34 | 2021-07-09 | 2022-07-26 |
@@ -258,7 +259,7 @@
 | [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 | 2023-02-10 |  |
 | [TELL THE TRUTH](https://open.spotify.com/track/4j6PFhmK5mOmZK5H8vkzXF) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:22 | 2021-12-03 | 2022-07-29 |
 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 | 2022-07-29 | 2023-02-18 |
-| [That Feeling](https://open.spotify.com/track/2Ysz3zB0xV1w96CxhYq0bR) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [That Feeling](https://open.spotify.com/album/236G8bErE6jhTq1i912HQ9) | 4:22 | 2023-03-24 |  |
+| [That Feeling](https://open.spotify.com/track/2Ysz3zB0xV1w96CxhYq0bR) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [That Feeling](https://open.spotify.com/album/236G8bErE6jhTq1i912HQ9) | 4:22 | 2023-03-24 | 2023-05-06 |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-08-26 |  |
 | [The Light of the Sun](https://open.spotify.com/track/5o6klEdkcOSbzw9E3iHUYy) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj), [Pep Love](https://open.spotify.com/artist/4onNLSRXS0x0dZaisdMo4E) | [The Light of the Sun](https://open.spotify.com/album/4uQNBaCXO5UIBiK1zpuny2) | 4:20 | 2022-05-13 | 2022-07-28 |
 | [The Makings of you](https://open.spotify.com/track/5mdBYpo07zvlOTuSjooegw) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [The Makings of you](https://open.spotify.com/album/2HNuWHhCYirWiUWjkaJ8km) | 2:52 | 2023-02-24 |  |
@@ -284,6 +285,7 @@
 | [Under The Sun](https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:21 | 2021-12-17 | 2023-02-18 |
 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Minions: The Rise Of Gru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN) | 2:55 | 2022-07-01 | 2022-08-27 |
 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/6sBErahr0v0QRvwboz1oSl) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Vehicle \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1kGXvzn5iUfVOUl1jNyNeh) | 2:55 | 2022-07-01 | 2022-07-29 |
+| [Waiting on the Sidelines](https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/3ayx7YiPVzsRUfz8v42E76) | 4:03 | 2023-05-05 |  |
 | [Warpaint](https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Warpaint](https://open.spotify.com/album/2MkJIYLt4fz2SDSozVntDD) | 4:50 | 2022-03-21 | 2022-07-29 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-02-18 |
 | [What's on Your Mind \(OurVinyl Sessions\)](https://open.spotify.com/track/5Zon0BSyiQYHD06Yrf57zh) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Greyhounds \| OurVinyl Sessions](https://open.spotify.com/album/5i9W52ffNzgpjVOfM6ZfsZ) | 4:07 | 2022-03-21 |  |

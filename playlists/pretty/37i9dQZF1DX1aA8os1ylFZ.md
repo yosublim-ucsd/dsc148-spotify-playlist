@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,108 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,161 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [P.G.N.L.](https://open.spotify.com/track/5X7eCLVnUIxEcjGsJCKIsz) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [P.G.N.L.](https://open.spotify.com/album/6i1S9izMd6VpzEjovsMfgT) | 2:24 |
 | 100 | [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 |
 
-Snapshot ID: `MCxlNGZmZmQ1YjRjZDBkYzU3NmYzOTc1YTg1Zjc1YmNhNjdmM2FhYTRh`
+Snapshot ID: `MCw0ODUyYWExOTFiZWIyNmQ1YmZiNjdlYTk2ZjBhZDE3NWEzMzA4ZTli`

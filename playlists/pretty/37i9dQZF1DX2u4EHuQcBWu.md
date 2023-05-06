@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,886 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,948 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 | 100 | [Bella Ciao](https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Bella Ciao](https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e) | 2:02 |
 
-Snapshot ID: `MCxmMzc5M2E5YmFkZGM1N2QwZTA2YThlYTcxN2E1ZjExNTkzZDUxMjk4`
+Snapshot ID: `MCxiY2M4Nzg4NTI1YWUzZGVlNmU5MTA3YjYyNDUzYzE4NjA1YTEzYzVj`

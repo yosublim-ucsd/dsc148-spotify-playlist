@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental Jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,681 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,740 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 99 | [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 |
 | 100 | [A Real Show](https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [A Real Show](https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z) | 2:54 |
 
-Snapshot ID: `MCwyZjFlYTRiOTEwYTU1YjJlN2E0OTNkMDczMmIyZjUzM2YzMzc0YTU2`
+Snapshot ID: `MCxhZTNlZmIzOGNhNDU3NDU3M2E2OGZlOTE0NGMzYTA5MGVhNzMwZGJi`

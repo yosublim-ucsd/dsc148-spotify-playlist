@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-85 songs - 4 hr 41 min
+86 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Nxde \(Steve Aoki Remix\)](https://open.spotify.com/track/6HXVUmiqWSg3OW6yr5mJCJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Nxde \(Steve Aoki Remix\)](https://open.spotify.com/album/6khD0lw8LFHvPWoRfhAfym) | 2:47 | 2023-03-24 |  |
 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2022-05-22 |  |
 | [Oh my god \- English Version](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2022-05-22 |  |
+| [PINK YOUR MOMENT](https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [PINK YOUR MOMENT](https://open.spotify.com/album/0XJXxqADyzn0ed4QbTvsBD) | 2:57 | 2023-05-05 |  |
 | [POLAROID](https://open.spotify.com/track/1XCoTc12Trl56sgCPP4R8M) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:38 | 2022-05-22 |  |
 | [POP/STARS](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [POP/STARS](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) | 3:11 | 2022-05-22 |  |
 | [Psycho](https://open.spotify.com/track/57LioO1gSll1wvPDAjiET3) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:35 | 2022-05-22 |  |

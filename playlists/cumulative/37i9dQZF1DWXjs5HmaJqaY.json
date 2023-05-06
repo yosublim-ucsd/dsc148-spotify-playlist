@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2084",
+        "url": "https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366235,
+      "name": "2084",
+      "url": "https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR"
+    },
+    {
+      "album": {
         "name": "3 DAYS AWAKE",
         "url": "https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at"
       },
@@ -100,6 +118,28 @@
       "duration_ms": 475766,
       "name": "Andromeda Mission",
       "url": "https://open.spotify.com/track/7EKpyfbmopbXMaMLW9QEd3"
+    },
+    {
+      "album": {
+        "name": "Apache (Nusha Remix)",
+        "url": "https://open.spotify.com/album/0QzWgGeyFEcy2gWFzZykDQ"
+      },
+      "artists": [
+        {
+          "name": "Dense & Pika",
+          "url": "https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC"
+        },
+        {
+          "name": "Nusha",
+          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366222,
+      "name": "Apache - Nusha Remix",
+      "url": "https://open.spotify.com/track/5CHtVqIbKlNFHvrHEUNwaj"
     },
     {
       "album": {
@@ -278,7 +318,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 480642,
       "name": "Castamaer",
       "url": "https://open.spotify.com/track/5nqtCmVai6flScoNJ5GnJf"
@@ -332,7 +372,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 234370,
       "name": "Create",
       "url": "https://open.spotify.com/track/4yAK1AUtAxayjyuQDEoMSv"
@@ -766,10 +806,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 240000,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK"
+    },
+    {
+      "album": {
+        "name": "Bruno",
+        "url": "https://open.spotify.com/album/49qEVjH4D06eOqvQkGLdez"
+      },
+      "artists": [
+        {
+          "name": "Fabique",
+          "url": "https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380800,
+      "name": "Full Down",
+      "url": "https://open.spotify.com/track/0bveAKf49WsDplk7iIjNnJ"
     },
     {
       "album": {
@@ -814,6 +872,28 @@
       "duration_ms": 195692,
       "name": "Good Life - Inner City Edit of Carl Craig Remix",
       "url": "https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL"
+    },
+    {
+      "album": {
+        "name": "Sound of Tomorrow",
+        "url": "https://open.spotify.com/album/5xAXfZAzNCZVLXwciE2PtG"
+      },
+      "artists": [
+        {
+          "name": "Tom Wax",
+          "url": "https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX"
+        },
+        {
+          "name": "Drea Perlon",
+          "url": "https://open.spotify.com/artist/66z8ifbUF6uMEg6X44vXbw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390977,
+      "name": "Hangxiety",
+      "url": "https://open.spotify.com/track/28f17VAedyfqKIx1MShnnG"
     },
     {
       "album": {
@@ -1018,6 +1098,24 @@
       "duration_ms": 399000,
       "name": "It's Our Future - Rico Puestel Re-WeX Mix",
       "url": "https://open.spotify.com/track/7mYCPswhMcmhsEzQ7L4pii"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261903,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0"
     },
     {
       "album": {
@@ -1499,6 +1597,28 @@
     },
     {
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/1hQTMJz6lWgj4CKPj8o0I9"
+      },
+      "artists": [
+        {
+          "name": "Drumcomplex",
+          "url": "https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId"
+        },
+        {
+          "name": "Marco Zaffarano",
+          "url": "https://open.spotify.com/artist/52bAOymZ9bKSEuyiNMLXjY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517526,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/78jpLxZ2o7iWFNI7YPaI7f"
+    },
+    {
+      "album": {
         "name": "Moulin Rouge",
         "url": "https://open.spotify.com/album/2so5MifEWb91gnz2YtQysq"
       },
@@ -1550,7 +1670,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 183649,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
@@ -1876,6 +1996,24 @@
       "duration_ms": 322020,
       "name": "Purple Noise",
       "url": "https://open.spotify.com/track/0PkwtUYZiNpGtbkVYZkvMZ"
+    },
+    {
+      "album": {
+        "name": "Red Wedding",
+        "url": "https://open.spotify.com/album/2iyr07RGqSkTHIT5BI0Rvq"
+      },
+      "artists": [
+        {
+          "name": "SOURCE+RUMITZ",
+          "url": "https://open.spotify.com/artist/07naaE7QfabZrVoPqsa0Lh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526226,
+      "name": "Red Wedding",
+      "url": "https://open.spotify.com/track/6WO56O5QJgoSwDwOTsbIM9"
     },
     {
       "album": {
@@ -2590,7 +2728,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 439069,
       "name": "You - Wankelmut Remix",
       "url": "https://open.spotify.com/track/1UbJMShJ8K22WX3vW9FVas"
@@ -2608,7 +2746,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 232200,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH"

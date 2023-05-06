@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,166 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,474 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 |
 | 150 | [Bring It](https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY) | [DJ Ecko](https://open.spotify.com/artist/2SxKRbDOk3ZbpXxzKCwS0J), [Stefario](https://open.spotify.com/artist/0pMIyWZ9WFbOCVqRaavWhj), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Bring It](https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y) | 2:32 |
 
-Snapshot ID: `MCxlNGMzYTRlZGMxODcxMjE1ZTU0ZDJhN2JkODE1MzIwMTc2ODgzZTBi`
+Snapshot ID: `MCxmZDM1MGQ0Zjk5MzVlMzQ3NzBkMTEyMzc4YjJjYjVkZTJkNTYwOTM1`

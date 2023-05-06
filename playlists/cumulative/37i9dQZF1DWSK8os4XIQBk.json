@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best modern country music. Cover: Cole Swindell",
+  "description": "Nothing but the best modern country music. Cover: Luke Bryan",
   "name": "All About Country",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 211053,
       "name": "5 Leaf Clover",
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "But I Got A Beer In My Hand",
+        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "But I Got A Beer In My Hand",
+      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
+    },
+    {
+      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
@@ -1022,6 +1040,24 @@
       "duration_ms": 207666,
       "name": "Chasing After You",
       "url": "https://open.spotify.com/track/3MkXV52jXtsG4pvKp4cGE8"
+    },
+    {
+      "album": {
+        "name": "Chasing Tornadoes",
+        "url": "https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177008,
+      "name": "Chasing Tornadoes",
+      "url": "https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx"
     },
     {
       "album": {
@@ -1908,7 +1944,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 183466,
       "name": "Dying Man",
       "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
@@ -2350,6 +2386,24 @@
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "album": {
+        "name": "Stray Dog",
+        "url": "https://open.spotify.com/album/1S4RLMaMM74SVgNYaBP5d2"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320929,
+      "name": "Get Rich Or Drunk Trying",
+      "url": "https://open.spotify.com/track/1cwPxz4iIWoqWrdtmy7CUv"
     },
     {
       "album": {
@@ -5194,7 +5248,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 170631,
       "name": "Ours",
       "url": "https://open.spotify.com/track/3W7PrwnCfE8WPV7Yxpc1xW"
@@ -5646,6 +5700,24 @@
       "duration_ms": 172861,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv"
+    },
+    {
+      "album": {
+        "name": "Greatest Show On Dirt",
+        "url": "https://open.spotify.com/album/54phHp2BG1tg3SuLdiWqio"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264424,
+      "name": "Red Roses & Red Flags",
+      "url": "https://open.spotify.com/track/3w1FQLKbeoZ5FD3Y4B5RJF"
     },
     {
       "album": {
@@ -7415,6 +7487,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153296,
+      "name": "Traitor Joe",
+      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
       },
@@ -8026,7 +8116,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 239533,
       "name": "Where the Wild Things Are",
       "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
@@ -8528,7 +8618,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187941,
       "name": "You, Me, And Whiskey",
       "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"

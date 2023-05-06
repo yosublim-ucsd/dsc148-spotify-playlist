@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,685 likes - 78 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,691 likes - 78 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 77 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
 | 78 | [9pm](https://open.spotify.com/track/3aGcPlMBBA7t0UTRgfYGNX) | [Safiyah Hernandez](https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK) | [9pm](https://open.spotify.com/album/6QwUm0GDhznorwhPbgdrca) | 2:26 |
 
-Snapshot ID: `MCw1NjliMDUwMTQ5OTFkMGNiNjU3NWY1MjlkYzBkZTcwNjIxNjU2NDU4`
+Snapshot ID: `MCwxMGUzYmM1ZmM3OWZkZTJlNGRjM2VkMDFlZTdjYWIzNWJlOWU2Mzcw`

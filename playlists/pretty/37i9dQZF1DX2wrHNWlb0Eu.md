@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,412 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,469 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [รักเธอ \(ONLY YOU\) \- From ค่อยๆรัก Step By Step](https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักเธอ \(ONLY YOU\) \[From ค่อยๆรัก Step By Step\]](https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2) | 3:36 |
 | 100 | [เพลงส่วนบุคคล](https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [nerd eye view](https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN) | 3:27 |
 
-Snapshot ID: `MCxjMzQ3NTYyOTU5ZjY1OTBmYjgyNTgxNDBlNTU0MjNmZDVjMWUwY2Rm`
+Snapshot ID: `MCw0YmFkZWE1OGM3YTU4NjY2MThmMzIxYTY5Y2VmMjcwOTY5OGRiODU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,019,870 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,020,960 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [I Do \(Cherish You\)](https://open.spotify.com/track/6XgwPf0cqjySCMsOmQq4t6) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/16oW7he0sWe3dBxV2XaQx6) | 3:46 |
 | 150 | [Bette Davis Eyes \- Re\-Recorded](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:44 |
 
-Snapshot ID: `MCxmODk4ZmI1YTQ1MzAyM2VhOGU3OTIzYTYzN2YwMjQ5YTViYTczN2Fk`
+Snapshot ID: `MCxhZTQzMWE2ZjQyNTRjN2RjN2Y3ODEyMDM2MzI1NDgyZTk2YzA2Nzli`

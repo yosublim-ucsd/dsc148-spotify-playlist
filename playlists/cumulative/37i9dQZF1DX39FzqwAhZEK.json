@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "The East Wind",
+        "url": "https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW"
+      },
+      "artists": [
+        {
+          "name": "Warren Blues",
+          "url": "https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Heavy Cloud",
+      "url": "https://open.spotify.com/track/3PnhtonoNabJjbuTxFqT2Z"
+    },
+    {
+      "album": {
         "name": "Enigma",
         "url": "https://open.spotify.com/album/4Uomo41pftRsm71w7sjZZl"
       },
@@ -4488,6 +4506,24 @@
       "duration_ms": 218500,
       "name": "Schwebend",
       "url": "https://open.spotify.com/track/775dmuIRQojrplsns8VKen"
+    },
+    {
+      "album": {
+        "name": "Ur",
+        "url": "https://open.spotify.com/album/71bc7U2CxvmTDrTKmD4C52"
+      },
+      "artists": [
+        {
+          "name": "Zooids",
+          "url": "https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193495,
+      "name": "Sclavia",
+      "url": "https://open.spotify.com/track/1EWbhAgdQNwYau5DvgdEtW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: AHYRE
 
-140 songs - 7 hr 51 min
+141 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Juan de la Calle](https://open.spotify.com/track/3DPLr9BavOPisMFAHwsCCJ) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/5TyDRD791MEoJfshww4v4K) | 2:53 | 2021-12-31 | 2022-07-29 |
 | [Juan de la Calle](https://open.spotify.com/track/6jIh1e1KgSF5c7FaK0rmC5) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR) | 2:55 | 2022-07-01 |  |
 | [Juglar Chuncano](https://open.spotify.com/track/5FTwYtNlI7G5fWSGjaPVWU) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [Juglar Chuncano](https://open.spotify.com/album/13Mj1uBTzv5Pp2JwPLBFla) | 2:33 | 2021-12-31 |  |
-| [Kuntur](https://open.spotify.com/track/7xhqqjuPlSs2kLnrLRskBc) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Kuntur](https://open.spotify.com/album/1ZBqCd1fTi93qpDutvmJtS) | 3:19 | 2021-12-31 |  |
+| [Kuntur](https://open.spotify.com/track/7xhqqjuPlSs2kLnrLRskBc) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Kuntur](https://open.spotify.com/album/1ZBqCd1fTi93qpDutvmJtS) | 3:19 | 2021-12-31 | 2023-05-06 |
 | [La Alucinada](https://open.spotify.com/track/6HVG1pjvGHxmOdQj4TQWJ0) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [La Alucinada](https://open.spotify.com/album/2Xa4MMFxqXoPXD7u7JcfXf) | 2:38 | 2021-12-31 |  |
 | [La Bicicleta](https://open.spotify.com/track/7c5AYFF7kNDnDTLjxuzDaF) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [La Bicicleta](https://open.spotify.com/album/6tC0mVd9UooFsdbD2hwe1o) | 3:30 | 2022-04-29 |  |
 | [La Canción de la Alegría](https://open.spotify.com/track/41rWjU20AiwfVN5pmOtn6I) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6BT25DiCRkOLy3om6fE23O) | 3:31 | 2022-07-01 |  |
@@ -147,6 +147,7 @@
 | [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo Seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 | 2021-12-31 |  |
 | [Yo Soy](https://open.spotify.com/track/0JRPALRWpLmVif7MafmBja) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Yo Soy](https://open.spotify.com/album/7pcf9UsIsZWSQqSVMf4t6C) | 2:41 | 2022-02-18 |  |
 | [Zamba de los yuyos](https://open.spotify.com/track/7ipuwOjqoLy5hyAEGSMZj5) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN) | [Zamba de los yuyos](https://open.spotify.com/album/6s7uk19jxa0drzsviWj3ih) | 4:16 | 2022-11-11 |  |
+| [Zamba del Amanecido](https://open.spotify.com/track/0kc4mJhfEK1D8WyxI1ff50) | [Dalmiro Cuellar](https://open.spotify.com/artist/5fx2gAF0dCFWULwx4TwQS0), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Zamba del Amanecido](https://open.spotify.com/album/4PoJfnL3jFgQjFyNbPvvm4) | 2:53 | 2023-05-05 |  |
 | [Zapateo](https://open.spotify.com/track/7DRlzBCGO83lfVHV4Z4YjS) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Zapateo](https://open.spotify.com/album/3e5YZATI5VXN1UCKbi3a60) | 2:59 | 2021-12-31 | 2022-03-12 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

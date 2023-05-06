@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-145 songs - 7 hr 41 min
+146 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 | 2022-05-25 |  |
 | [Escapism](https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [Escapism](https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH) | 3:18 | 2022-12-09 |  |
 | [Evangelic](https://open.spotify.com/track/0XTn1DV7iPYTS9yVXzgnZI) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Evangelic](https://open.spotify.com/album/6Aa9HH5W8IQHhPuFChIJj1) | 2:33 | 2023-03-17 |  |
+| [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 | 2023-05-05 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-05-25 | 2023-04-14 |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-05-25 | 2023-02-25 |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
@@ -88,7 +89,7 @@
 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 | 2023-01-13 |  |
 | [Lifted](https://open.spotify.com/track/0CQwD2KxIfQUAGz4WChZZw) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Book Of Calmness](https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4) | 3:56 | 2022-05-25 |  |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-05-25 |  |
-| [Long\-Horned Beetles](https://open.spotify.com/track/2Fi1BIoPwqLyFmi49IaIp5) | [Dominico Lucci](https://open.spotify.com/artist/2Oh8aUjFUfE8lFUF2fANyT) | [Dominico's Resting Hands](https://open.spotify.com/album/0LC6hCqk7mIKv2Ytt6CaaK) | 3:45 | 2022-05-25 |  |
+| [Long\-Horned Beetles](https://open.spotify.com/track/2Fi1BIoPwqLyFmi49IaIp5) | [Dominico Lucci](https://open.spotify.com/artist/2Oh8aUjFUfE8lFUF2fANyT) | [Dominico's Resting Hands](https://open.spotify.com/album/0LC6hCqk7mIKv2Ytt6CaaK) | 3:45 | 2022-05-25 | 2023-05-06 |
 | [Lost in Drone](https://open.spotify.com/track/2pb3QDAHMNsNzsv1hsk3WG) | [Boran Duibhe](https://open.spotify.com/artist/5OVxbsgojWXKQQTojykDwx) | [Lost in Drone](https://open.spotify.com/album/3AI3ATqLKIfmnpGQtjjoHN) | 2:28 | 2023-03-24 |  |
 | [Mandala](https://open.spotify.com/track/5xe5oU9NJYyUTL2THo1TPy) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Mandala](https://open.spotify.com/album/4QCv678G6eTUG92CwBuwnA) | 3:02 | 2022-07-11 |  |
 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 | 2022-12-30 |  |

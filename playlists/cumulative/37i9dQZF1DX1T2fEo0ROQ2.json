@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 172000,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
@@ -4826,6 +4826,24 @@
       "duration_ms": 178050,
       "name": "Power Nap",
       "url": "https://open.spotify.com/track/2g2cJg9FbFVmEtamXclS8L"
+    },
+    {
+      "album": {
+        "name": "I start to feel",
+        "url": "https://open.spotify.com/album/7KiKS5NY51JOiE0sjH40XK"
+      },
+      "artists": [
+        {
+          "name": "Udda Jnhale",
+          "url": "https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Pressure Behavior",
+      "url": "https://open.spotify.com/track/22aK1Gkcy25yWYHtHPB2zJ"
     },
     {
       "album": {

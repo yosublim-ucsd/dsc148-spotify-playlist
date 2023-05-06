@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,694 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,692 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
 | 50 | [It Was Willow](https://open.spotify.com/track/7qpuXw0hLcJtZ6aa5WiagC) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7) | 2:02 |
 
-Snapshot ID: `MCxkZGZkZjljMGY2YzBiNzQ5NmY3MDgzNjUwZjk2MmI0NzQyMDFhMTNi`
+Snapshot ID: `MCxiMjcyMTZiOWI2OTgxNjZhZmY0NWU3NmVhNDFlMmU1ZDI1YTg5MzFk`

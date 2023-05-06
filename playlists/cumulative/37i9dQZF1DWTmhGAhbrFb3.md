@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-305 songs - 15 hr 8 min
+306 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Sleeping Beauty](https://open.spotify.com/track/0e8cWeGGK506BTR56KOopd) | [Lahasara](https://open.spotify.com/artist/2e0jbFLa4g3PR9lpXv9kAB) | [Sleeping Beauty](https://open.spotify.com/album/6dARYqQCoczKIcZanMcfLD) | 3:03 | 2023-04-06 |  |
 | [Sleepy Octaves](https://open.spotify.com/track/4yxzs04RjHm7phdG6qNgUH) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [Sleepy Octaves](https://open.spotify.com/album/1JeQa2LsszYiBLHlPiwZFU) | 2:13 | 2023-04-06 |  |
 | [Slow Rise](https://open.spotify.com/track/4GRx1yycMU6w3iyVn7S0SQ) | [Swimming In A Liquid Sky](https://open.spotify.com/artist/7bEDblE0QFuQVPiEXVunAy) | [Slow Rise](https://open.spotify.com/album/5JMixXfF7HIiWaxOlY9XbE) | 3:45 | 2023-04-06 |  |
-| [Slumber](https://open.spotify.com/track/6A72j6HPfF8Y52nPK6BXRk) | [Richard Ramsey](https://open.spotify.com/artist/1wrKAWlJXtkD5eVfAa5IJi) | [Slumber](https://open.spotify.com/album/3RhTSEYSGcXwcDMmdx3jnx) | 1:58 | 2023-04-06 |  |
+| [Slumber](https://open.spotify.com/track/6A72j6HPfF8Y52nPK6BXRk) | [Richard Ramsey](https://open.spotify.com/artist/1wrKAWlJXtkD5eVfAa5IJi) | [Slumber](https://open.spotify.com/album/3RhTSEYSGcXwcDMmdx3jnx) | 1:58 | 2023-04-06 | 2023-05-06 |
 | [Soft And Quiet](https://open.spotify.com/track/3wEYRfHvBH8enJnak36lRS) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Soft And Quiet](https://open.spotify.com/album/41Fz56qqfcIjIpEzjFh58z) | 2:49 | 2023-04-06 |  |
 | [Soft Answers](https://open.spotify.com/track/5cNxtUwvAsml2dxp4zpoVa) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Soft Answers](https://open.spotify.com/album/4n5WkZT1FkBtYkTXtlbEaE) | 3:23 | 2023-04-06 |  |
 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2023-04-06 |  |
@@ -312,6 +312,7 @@
 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 | 2023-04-06 |  |
 | [Ygeia](https://open.spotify.com/track/7ioQve0LIq1qfNp3rkvj4N) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Ygeia](https://open.spotify.com/album/0lPYdWgTQ8Id3Z6fy1ZMQb) | 2:59 | 2023-04-06 |  |
 | [You've Sent Me Peace](https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:14 | 2023-04-06 |  |
+| [Your Are The Calm](https://open.spotify.com/track/2APApFAWZgn1F0Efpl6jlj) | [Takhall](https://open.spotify.com/artist/5JT8XbqZDGSHR91TqvUKi0) | [Element](https://open.spotify.com/album/0USAI4oXakWxAFFvMXYjmp) | 3:10 | 2023-05-05 |  |
 | [Your Peace](https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:44 | 2023-04-06 |  |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

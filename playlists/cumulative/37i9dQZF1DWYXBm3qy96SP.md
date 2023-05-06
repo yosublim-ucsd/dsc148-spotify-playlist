@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Bring Me The Horizon
 
-227 songs - 12 hr 45 min
+228 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 | 2023-03-30 | 2023-04-07 |
 | [Self\-Destruct](https://open.spotify.com/track/29ffs4yVqnGEzwCazHzJrd) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Self\-Destruct](https://open.spotify.com/album/7uMAqt7XYA49zcwAhLT4wk) | 2:53 | 2023-03-16 | 2023-03-25 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2023-03-16 | 2023-04-28 |
-| [Shine Your Light](https://open.spotify.com/track/3kfwbWS1p36dUyehslHA8U) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Shine Your Light](https://open.spotify.com/album/3BlQyZ8nux4TaWOwgQuQpr) | 3:25 | 2023-05-04 |  |
+| [Shine Your Light](https://open.spotify.com/track/3kfwbWS1p36dUyehslHA8U) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Shine Your Light](https://open.spotify.com/album/3BlQyZ8nux4TaWOwgQuQpr) | 3:25 | 2023-05-04 | 2023-05-06 |
+| [Shine Your Light](https://open.spotify.com/track/7C7PtdAsILyMPWb0LBoj4A) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Shine Your Light](https://open.spotify.com/album/6kZrdw758XZf0AotWmKXPJ) | 3:25 | 2023-05-04 |  |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2023-03-16 | 2023-04-14 |
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-16 | 2023-03-31 |
 | [Something Like This](https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4) | 3:18 | 2023-05-04 |  |

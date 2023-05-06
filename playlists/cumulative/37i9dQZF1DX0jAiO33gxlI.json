@@ -497,6 +497,32 @@
     },
     {
       "album": {
+        "name": "Levante",
+        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "JD On Tha Track",
+          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "Amor Virou Um Pr\u00eamio",
+      "url": "https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP"
+    },
+    {
+      "album": {
         "name": "Aparte",
         "url": "https://open.spotify.com/album/4CTWa1yv9vPeEUbidGDqQO"
       },
@@ -664,7 +690,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 192669,
       "name": "Autoajuda",
       "url": "https://open.spotify.com/track/3tanNnZqsuzyBgE9Z1buUG"
@@ -1286,7 +1312,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 77428,
       "name": "Classe",
       "url": "https://open.spotify.com/track/4lHxMEW42RcfvryJwdy5Md"
@@ -2604,7 +2630,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 144000,
       "name": "Favela Presente",
       "url": "https://open.spotify.com/track/3nTA6j8wg41EEWCUCNSMzK"
@@ -3304,7 +3330,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 219425,
       "name": "Hiroshima",
       "url": "https://open.spotify.com/track/2Rd7XN7wG58VXLid2LUF9P"
@@ -3606,7 +3632,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 300000,
       "name": "INVEJOSO",
       "url": "https://open.spotify.com/track/5YURHESoQKz81fL4IxV7NJ"
@@ -4571,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/2HVTFH36aWRoF4FWWnDnnY"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71042,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/0X81yV30SDmoEoqu9lZjVK"
+    },
+    {
+      "album": {
         "name": "Menor Sagaz",
         "url": "https://open.spotify.com/album/71Q84aztwb3NWIRD4EVB3n"
       },
@@ -5020,6 +5064,44 @@
       "duration_ms": 207071,
       "name": "Na Entrada Do C\u00e9u",
       "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
+    },
+    {
+      "album": {
+        "name": "Nacional Sessions #3",
+        "url": "https://open.spotify.com/album/7p18ojNgA05ztMQmInOTey"
+      },
+      "artists": [
+        {
+          "name": "Fam\u00edlia de Rua",
+          "url": "https://open.spotify.com/artist/0W9haaHomzfUQ9YLln9MMO"
+        },
+        {
+          "name": "Big\u00e3o",
+          "url": "https://open.spotify.com/artist/2GHTmTvaOOh8qJXE3BdcXd"
+        },
+        {
+          "name": "Youngui",
+          "url": "https://open.spotify.com/artist/4cYPESnLDYxvl3eqb6OPCT"
+        },
+        {
+          "name": "Kaemy",
+          "url": "https://open.spotify.com/artist/2drS74o9cyh1klmoG09suE"
+        },
+        {
+          "name": "MZS",
+          "url": "https://open.spotify.com/artist/5NCH5FG3ymxsnI02erdOK0"
+        },
+        {
+          "name": "DJ Cia",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216780,
+      "name": "Nacional Sessions #3",
+      "url": "https://open.spotify.com/track/2DQGRfJsCzGVtkMPGsJ8uI"
     },
     {
       "album": {
@@ -5521,6 +5603,32 @@
     },
     {
       "album": {
+        "name": "N\u00fameros",
+        "url": "https://open.spotify.com/album/1vvVluY8YAkxNNpPWDUjgB"
+      },
+      "artists": [
+        {
+          "name": "Renan Samam",
+          "url": "https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Dj KLJay",
+          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "N\u00fameros",
+      "url": "https://open.spotify.com/track/47olnePGzAws1RQqiqaWYq"
+    },
+    {
+      "album": {
         "name": "Dai a Cesar o Que \u00c9 de Cesar",
         "url": "https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux"
       },
@@ -5778,7 +5886,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 208000,
       "name": "Olhos Apagados",
       "url": "https://open.spotify.com/track/18VjBDBdbXoe0FKCCl21AH"
@@ -5800,7 +5908,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 203592,
       "name": "Original Demais pra Ser Dubl\u00ea (Sai)",
       "url": "https://open.spotify.com/track/4yWUkmX0BY5yFpq68Zufho"
@@ -5984,6 +6092,40 @@
       "duration_ms": 166153,
       "name": "Paypal",
       "url": "https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH"
+    },
+    {
+      "album": {
+        "name": "Peda\u00e7o do C\u00e9u",
+        "url": "https://open.spotify.com/album/3dPqGV0oeig8vHcCVWPfW3"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "VNegreen",
+          "url": "https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194293,
+      "name": "Peda\u00e7o do C\u00e9u",
+      "url": "https://open.spotify.com/track/0qP9VZOspgCzkDff3Xcl92"
     },
     {
       "album": {
@@ -6371,6 +6513,28 @@
     },
     {
       "album": {
+        "name": "Kayode no Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7wSSkG98NQOCdOjeZiz3gX"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192962,
+      "name": "Podcast - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vuVz9btN4PBd2rdTdAVQE"
+    },
+    {
+      "album": {
         "name": "Ponta da Leste",
         "url": "https://open.spotify.com/album/5FMZw2zU7v8G1PNSo3WGWy"
       },
@@ -6718,6 +6882,28 @@
       "duration_ms": 205717,
       "name": "Quem Viver Ver\u00e1",
       "url": "https://open.spotify.com/track/2j37LqkQiiHaQJUZg47EZK"
+    },
+    {
+      "album": {
+        "name": "Quem?!",
+        "url": "https://open.spotify.com/album/487CkbGur6dRM4UYW3pJTm"
+      },
+      "artists": [
+        {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104063,
+      "name": "Quem?!",
+      "url": "https://open.spotify.com/track/5bUK6QuWQqJVkFd8wspq3U"
     },
     {
       "album": {
@@ -8404,7 +8590,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 125163,
       "name": "Tropa do Unlock",
       "url": "https://open.spotify.com/track/02OXgwzsb4jNrcUAFbI1kO"
@@ -8548,6 +8734,28 @@
       "duration_ms": 181867,
       "name": "Vamo Que Vamo",
       "url": "https://open.spotify.com/track/3JcJEHOWJzC75PuoWO9DiD"
+    },
+    {
+      "album": {
+        "name": "Complexo Guache",
+        "url": "https://open.spotify.com/album/19lTjd5ID3ZiFFwtWb1W4C"
+      },
+      "artists": [
+        {
+          "name": "Set",
+          "url": "https://open.spotify.com/artist/3DCEBDdzHGVNYKpBtaDx8Q"
+        },
+        {
+          "name": "BRK Mallone",
+          "url": "https://open.spotify.com/artist/0G2IMBWGCrKOWPwFIhM3Ye"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149269,
+      "name": "Verde Online",
+      "url": "https://open.spotify.com/track/30QhGizp9OMGqbskR9WLWx"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Divididos",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: WOS.",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Consuelo Eterno",
+        "url": "https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241461,
+      "name": "Consuelo Eterno",
+      "url": "https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF"
+    },
+    {
+      "album": {
         "name": "Discop\u00e1tico",
         "url": "https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r"
       },
@@ -595,6 +613,24 @@
     },
     {
       "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181782,
+      "name": "DESCARTABLE",
+      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
+    },
+    {
+      "album": {
         "name": "Destruida Roll (Versi\u00f3n 1989)",
         "url": "https://open.spotify.com/album/1tJKMu9iIZaQy9G3NjRu2C"
       },
@@ -704,10 +740,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 218247,
       "name": "D\u00eda Mil",
       "url": "https://open.spotify.com/track/0C8sntkt9YJMgPNMJYDQEL"
+    },
+    {
+      "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "album": {
@@ -1352,7 +1406,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210802,
       "name": "Kiev",
       "url": "https://open.spotify.com/track/64Ty8b36mMxSHxMUzfM7GT"
@@ -2475,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Reflejo",
+        "url": "https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259039,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
+    },
+    {
+      "album": {
         "name": "L\u00e1mina Once",
         "url": "https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi"
       },
@@ -2650,7 +2722,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 239760,
       "name": "Solo por Ser Indios",
       "url": "https://open.spotify.com/track/2cwlrXkjj3ZGNK8kM67MZI"

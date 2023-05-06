@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-111 songs - 5 hr 47 min
+114 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,10 @@
 | [Bansuri](https://open.spotify.com/track/4Cy9EEXAjmzjIa2hBYJa7R) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Bansuri](https://open.spotify.com/album/1os3PzBysPuwHUOAJIQlHs) | 2:50 | 2022-05-25 |  |
 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 | 2022-05-25 |  |
 | [Bombay Sunrise](https://open.spotify.com/track/6Qnj1hZkw76PzZdvpH0DRH) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Bombay Sunrise](https://open.spotify.com/album/1IczgH7IBmw7pcgcGEb6B8) | 2:47 | 2022-05-25 |  |
+| [Breath of Serenity](https://open.spotify.com/track/6xvwVbKvkCnhq4xUFnBphS) | [Project Gayā](https://open.spotify.com/artist/76PzU6hA4dr6ViFleVXtyD) | [Breath of Serenity](https://open.spotify.com/album/22ObzSlZ9JMRameD2pdPbh) | 2:12 | 2023-05-05 |  |
 | [Breathe With Me](https://open.spotify.com/track/5Yg8xfu4paQ3HLeYsHYL3A) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Breathe With Me](https://open.spotify.com/album/1fujTK186d1YXh85ub1jQD) | 3:36 | 2022-05-25 |  |
 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 | 2022-05-25 |  |
+| [Calmness of the Forest](https://open.spotify.com/track/4qzkv7etidO7fBmBECLF9T) | [Life Line Hub](https://open.spotify.com/artist/1VFGLQHXOKyzfPDf9FTcTx) | [Calmness of the Forest](https://open.spotify.com/album/0r1VjlkbthsZbOT8wWNdh2) | 1:58 | 2023-05-05 |  |
 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 | 2022-05-25 |  |
 | [Cape Cod](https://open.spotify.com/track/2DnjmwnSLvMS78MW0y8czV) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Glowing Aura](https://open.spotify.com/album/0hxddVL6RtkujMPjGvegn0) | 3:11 | 2022-05-25 |  |
 | [Circle of Life](https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Circle of Life](https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT) | 2:44 | 2022-05-25 |  |
@@ -53,6 +55,7 @@
 | [Far And Away](https://open.spotify.com/track/44DKn5hqvnO4912GLZqHYI) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:04 | 2022-05-25 |  |
 | [Feeling Zen](https://open.spotify.com/track/2bzxCAQug0YCQCOxr0l4KB) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Feeling Zen](https://open.spotify.com/album/64ii0rt71mknNqsG2tLoLf) | 3:17 | 2022-05-25 |  |
 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-05-25 | 2022-07-09 |
+| [Floating in Stillness](https://open.spotify.com/track/2yxjJ6zoZW4kysV5wPqTzl) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [Floating in Stillness](https://open.spotify.com/album/0N8e5UlCvI3I515gJDkpGs) | 2:08 | 2023-05-05 |  |
 | [Forever close](https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Forever close](https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK) | 3:43 | 2022-05-25 |  |
 | [Forward](https://open.spotify.com/track/6fy6hBtZMY8sAjG8ynqUbV) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Forward](https://open.spotify.com/album/7Hp3Glq4Aoy8ubBEXCQtlj) | 2:33 | 2022-05-25 |  |
 | [Fragility](https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Fragility](https://open.spotify.com/album/5xoJiIPUG9kVH5HoQiKRb6) | 2:28 | 2022-05-25 |  |

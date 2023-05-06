@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,702,219 likes - 74 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,702,192 likes - 74 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 73 | [Rêve](https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Rêve](https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G) | 3:09 |
 | 74 | [I Take It Back](https://open.spotify.com/track/6DcI73tbK4PoyI3GGV4zZS) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:59 |
 
-Snapshot ID: `MCxmZGU5ODk1NjQ0YjIzZjJmN2YzOTZlY2RmYWZkMTdkZjMyYTMzYjIx`
+Snapshot ID: `MCw3MGJlZDE2Nzk4ODMxNzllNjE4YWNhNmY0MDhjMDFiMjFkZGQzNDE1`

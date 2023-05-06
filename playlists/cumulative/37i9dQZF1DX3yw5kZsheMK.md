@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-108 songs - 4 hr 56 min
+109 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Falling Slowly](https://open.spotify.com/track/0yupWfe68gD7soULefeynB) | [Samantha Barks](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) | [Into The Unknown](https://open.spotify.com/album/22Qyf2iquUXN1VPfa4dUpB) | 3:49 | 2022-03-11 |  |
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2022-03-11 |  |
 | [Full Moon](https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI) | 3:02 | 2022-03-11 |  |
+| [Go To Sleep](https://open.spotify.com/track/0jvUB9ZhpQ8g7xA4mIanu7) | [Astrid Lindgren](https://open.spotify.com/artist/3MDsnjqnEd5TJaYsuacX1I), [Annie Wiggins](https://open.spotify.com/artist/6g62t1HP0mIS394PDby3xB) | [Go To Sleep](https://open.spotify.com/album/3KC84qwDEw7VuGBV4Roibl) | 1:19 | 2023-05-05 |  |
 | [Go to Sleep My Teddy Bear](https://open.spotify.com/track/2frrIhxZdD67NYk0bX4Uai) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [Songs For Children, Vol\. 2](https://open.spotify.com/album/1xM7IU1K3OrgJrAGvs67Tc) | 1:19 | 2022-03-11 |  |
 | [Golden Slumbers](https://open.spotify.com/track/4wDjXh9DyUisZAZ7V2EVb7) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Golden Slumbers](https://open.spotify.com/album/26HS7AIvR0Sb1smgYK98xt) | 2:15 | 2022-03-11 | 2022-12-14 |
 | [Golden Slumbers](https://open.spotify.com/track/4zSTcxSkj1SuHXoB0inmMj) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Dreams](https://open.spotify.com/album/7ncEZ4CS2B8estE57JkkG1) | 2:15 | 2022-03-11 |  |

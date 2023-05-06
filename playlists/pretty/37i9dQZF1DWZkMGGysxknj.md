@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,491 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,521 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 | 149 | [Goodbyes](https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Goodbyes](https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik) | 2:05 |
 | 150 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 |
 
-Snapshot ID: `MCxkNTc1NDlhZDAwMmIzYjM1MmQwZDE3NDVmZGQ1ZjkxMTZlZGM0Y2Zj`
+Snapshot ID: `MCxkOTQ2YzY1ZGYxZjNmODZiMDJhOGFmMjFiMzUyMTNmZDRiMTM3Yjc3`

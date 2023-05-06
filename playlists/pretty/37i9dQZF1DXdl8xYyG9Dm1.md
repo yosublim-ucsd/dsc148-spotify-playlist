@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=5kcYUJToRKKCA6nuJ2XUuw"> ODUMODUBLVCK </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,928 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,991 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Lord Protect My Steppings](https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:01 |
 | 70 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
 
-Snapshot ID: `MCw4OTUyMWMyYWQ5ZDNiNGNkMzc5ZmFhMzZjOWIzNjk5ZTc4YjdkNjhj`
+Snapshot ID: `MCwxMWVmMjdhYjk5OWI5MGI1ZGMyNTY2N2ExZmYwY2FiMzM4NWVlZTE5`

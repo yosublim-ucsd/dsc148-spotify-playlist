@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,080 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,891 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Call It Love](https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds) | [Uhuru](https://open.spotify.com/album/7H88l7XMg9gALr0Ug4ZbGp) | 4:10 |
 | 100 | [Wassup](https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe) | [RAIZA BIZA](https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo) | [Day & Night](https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG) | 4:03 |
 
-Snapshot ID: `MCxmODQ1ZTM2NGVlYTZjZTdkZDI4Yjc2NDg3ZjUzNmJhZjlkYjJmNGQ4`
+Snapshot ID: `MCxkODYxYzJiZDZiY2M5NDRhMjg2YzhlN2I2YzUwZWM0MzU5NWI2NDNh`

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-214 songs - 13 hr 34 min
+215 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Pinball Wizard](https://open.spotify.com/track/3wWmZKqmJkQEdsfIsncoFz) | [The HillBenders](https://open.spotify.com/artist/2Igp5ty1Smn5hqFrVQmmXE) | [Tommy: A Bluegrass Opry](https://open.spotify.com/album/30JWrDVhcL9nXRPEantke9) | 3:43 | 2021-08-20 | 2022-07-29 |
 | [Pinball Wizard](https://open.spotify.com/track/61PS7u4z4JCXfN6VdVbcjT) | [The HillBenders](https://open.spotify.com/artist/2Igp5ty1Smn5hqFrVQmmXE) | [Tommy: A Bluegrass Opry](https://open.spotify.com/album/5ALFsEy1iZE8Megoyj77IW) | 3:43 | 2022-05-27 |  |
 | [Pursuit of Happiness](https://open.spotify.com/track/1geAoz2QzafYdcLYTTlCzB) | [Honeybucket](https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e) | [Stompin' Grounds](https://open.spotify.com/album/0PwVhOH4LzW48zVN6bisFz) | 3:33 | 2021-08-20 |  |
+| [Pursuit of Happiness](https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW) | [Tray Wellington Band](https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp), [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Pursuit of Happiness](https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq) | 5:33 | 2023-05-05 |  |
 | [Rich Girl](https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Rich Girl](https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf) | 3:50 | 2022-04-01 |  |
 | [Rocket Man](https://open.spotify.com/track/72dagJWCsNeAmHYBdQdksq) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Rocket Man](https://open.spotify.com/album/2OmgpU3fI3fmUvbl69QqB8) | 3:23 | 2021-08-20 |  |
 | [Running Up That Hill](https://open.spotify.com/track/3VxdLLHdGq3axyW5OJwJKz) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Running Up That Hill](https://open.spotify.com/album/6BK9JbwMtZ4pTKNiZeF7if) | 2:44 | 2023-03-24 | 2023-04-29 |

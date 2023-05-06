@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901,579 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,901,783 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 89 | [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 |
 | 90 | [Verdad O Reto](https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:30 |
 | 91 | [Anímate](https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Anímate](https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq) | 3:38 |
-| 92 | [Tu Y Yo](https://open.spotify.com/track/5xVLmPSxDOMCrSJdhomxUQ) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Game over \(Bachata’s Most Wanted\)](https://open.spotify.com/album/3hZ9IfqBn0Vi2tDfv2Bs6h) | 3:21 |
-| 93 | [Vete Y Aléjate De Mí](https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [I Love Bachata \(Bachata Hits\)](https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s) | 4:34 |
-| 94 | [Tatuaje](https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:51 |
-| 95 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 |
-| 96 | [Adicta](https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [Mayinbito](https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA) | [Adicta](https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5) | 3:31 |
-| 97 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
-| 98 | [La Victima](https://open.spotify.com/track/0d1v3Dux5AhQm2TCJMASxZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:05 |
-| 99 | [Que Vuelva](https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata De Amor Vol\. 1](https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v) | 4:48 |
-| 100 | [Saborearte de Nuevo](https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Saborearte de Nuevo](https://open.spotify.com/album/7mUe69AI4KYHKg7elasxYd) | 3:36 |
+| 92 | [Vete Y Aléjate De Mí](https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [I Love Bachata \(Bachata Hits\)](https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s) | 4:34 |
+| 93 | [Tatuaje](https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:51 |
+| 94 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 |
+| 95 | [Adicta](https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [Mayinbito](https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA) | [Adicta](https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5) | 3:31 |
+| 96 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
+| 97 | [La Victima](https://open.spotify.com/track/0d1v3Dux5AhQm2TCJMASxZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:05 |
+| 98 | [Que Vuelva](https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata De Amor Vol\. 1](https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v) | 4:48 |
+| 99 | [Saborearte de Nuevo](https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Saborearte de Nuevo](https://open.spotify.com/album/7mUe69AI4KYHKg7elasxYd) | 3:36 |
+| 100 | [Mi Maldito Turno \- Bachata Version](https://open.spotify.com/track/6wFsJfZ6PrkOPMlQWS5ysr) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Mi Maldito Turno \(Bachata Version\)](https://open.spotify.com/album/7yl7WikTdR12Mx03bv0Cmj) | 3:58 |
 
-Snapshot ID: `MCwxZmZiMmY3NzVkMDgzZjg2ZTU5OGExNWQ3YzRlYTFhMThiZDgyOWRk`
+Snapshot ID: `MCxkODYyNmFlYTgwMzIxNDNlM2RjN2ZhZWYwMjg3OGZkMTA3YjAwNjA5`

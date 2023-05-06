@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,353 likes - 188 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,374 likes - 188 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 187 | [Theme from Lazarus](https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb) | [Federico Montoya](https://open.spotify.com/artist/1ZLMB9gdFAhzKVx1LeCIdh) | [Theme from Lazarus](https://open.spotify.com/album/5S8cxsdtUGu5AaNBaFYw6d) | 1:41 |
 | 188 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 |
 
-Snapshot ID: `MCwxNjk4MDMwMWJmYzAzZGQyZDcxZGE5NWJkOGRjNzk4OGU5ZjZmY2Ix`
+Snapshot ID: `MCxjOTE2ZmVmNjAwNTRlMzk4ZDRlZTEyM2ViNmIzMDhkYTZjZjhiOWRi`

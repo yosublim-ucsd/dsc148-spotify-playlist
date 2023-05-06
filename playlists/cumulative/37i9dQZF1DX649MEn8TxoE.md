@@ -4,7 +4,7 @@
 
 > Soy parte de tí, tu parte de mí.
 
-51 songs - 2 hr 38 min
+52 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 | 2023-03-29 |  |
 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2023-03-29 |  |
 | [Parte de Mí](https://open.spotify.com/track/3qW3oIG7ZYzs3Ru5988fP5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/4bshN7IkjA4YcKnrx4Ij2G) | 2:55 | 2023-03-29 |  |
+| [Paz](https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Paz](https://open.spotify.com/album/7lQMPfBaZEewTGeyPXz46u) | 3:06 | 2023-05-05 |  |
 | [Pensamos](https://open.spotify.com/track/1Y5G2UvRplEzSs7ngBKUgb) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Pensamos](https://open.spotify.com/album/3mhYvnYd8l0MGQVJsrPEK1) | 2:53 | 2023-03-29 |  |
 | [Perdido](https://open.spotify.com/track/32lQvhtbF8RHGaja4Maa6d) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 3:46 | 2023-03-29 |  |
 | [Plegarias](https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:18 | 2023-03-29 |  |

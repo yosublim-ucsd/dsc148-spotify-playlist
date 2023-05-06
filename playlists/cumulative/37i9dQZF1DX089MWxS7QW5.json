@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+    },
+    {
+      "album": {
         "name": "Safely arrived \u2708",
         "url": "https://open.spotify.com/album/6bW8E912AETQyFdtB6OD14"
       },
@@ -2767,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255253,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
+    },
+    {
+      "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
       },
@@ -3321,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "What i can't forget is",
+        "url": "https://open.spotify.com/album/7Fcsm6kJuA3N2EVZ4ExNm3"
+      },
+      "artists": [
+        {
+          "name": "PEKKI",
+          "url": "https://open.spotify.com/artist/6yTrk5y7hFaFJn3PEWuSQq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170679,
+      "name": "What i can't forget is",
+      "url": "https://open.spotify.com/track/1LRGV6MpzodcHHw6CTIcLR"
+    },
+    {
+      "album": {
         "name": "what is love",
         "url": "https://open.spotify.com/album/3OTYp7rdFNh8RQWSbnaKpk"
       },
@@ -3680,6 +3734,24 @@
       "duration_ms": 226015,
       "name": "YOU AND I",
       "url": "https://open.spotify.com/track/0t1MauhY0fE0dV1M7V9tnd"
+    },
+    {
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/0CGBkyLZW3izWrGZDcMz7u"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215653,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb"
     },
     {
       "album": {

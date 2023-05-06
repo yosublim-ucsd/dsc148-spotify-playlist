@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/65d7QIwgBAFuqsW14SfTs6"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/6oHszCRqdIvOmjKf6vu67Y"
+    },
+    {
+      "album": {
         "name": "ALIENSPEAK (feat. Curtis Waters)",
         "url": "https://open.spotify.com/album/6Xuvfov4S6qh8MNv42ReFX"
       },
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 172309,
       "name": "BORN AGAIN",
       "url": "https://open.spotify.com/track/3jiZXHJ0RmINhKha29LYKR"
@@ -3240,6 +3258,24 @@
       "duration_ms": 162821,
       "name": "BULLSEYE",
       "url": "https://open.spotify.com/track/7oNd2pO6PAS8LzLJx4RreF"
+    },
+    {
+      "album": {
+        "name": "BUMMER!",
+        "url": "https://open.spotify.com/album/6GqD7THNXRsasEGuDZ6wpL"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159880,
+      "name": "BUMMER!",
+      "url": "https://open.spotify.com/track/2kI3DIQk5TZNRhwQxDlAC3"
     },
     {
       "album": {
@@ -5704,6 +5740,28 @@
       "duration_ms": 129220,
       "name": "DEATH FANTASY",
       "url": "https://open.spotify.com/track/5D5GaTQzhnRCewTB4yMnIk"
+    },
+    {
+      "album": {
+        "name": "DEATH KEEPS CALLING MY NAME (feat. Shrimp)",
+        "url": "https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        },
+        {
+          "name": "Shrimp",
+          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "DEATH KEEPS CALLING MY NAME (feat. Shrimp)",
+      "url": "https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa"
     },
     {
       "album": {
@@ -14558,7 +14616,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 221293,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/64u544VQPMuJUGklB7dbtK"
@@ -18142,7 +18200,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 220000,
       "name": "Purple Dye",
       "url": "https://open.spotify.com/track/0a6GQAjN5xk87BaNEPIBOA"
@@ -19831,6 +19889,24 @@
     },
     {
       "album": {
+        "name": "SHIMMY SHIMMY YA",
+        "url": "https://open.spotify.com/album/4IOwSAB1ty8ESwo5WBhph5"
+      },
+      "artists": [
+        {
+          "name": "Kevin Holliday",
+          "url": "https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126333,
+      "name": "SHIMMY SHIMMY YA",
+      "url": "https://open.spotify.com/track/3JAFE76eFFBLWH42wrPjQZ"
+    },
+    {
+      "album": {
         "name": "Shlumped Up",
         "url": "https://open.spotify.com/album/7reMj7mGQEOwWaJjYV01Ws"
       },
@@ -20528,6 +20604,24 @@
       "duration_ms": 228640,
       "name": "Smoking Section",
       "url": "https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP"
+    },
+    {
+      "album": {
+        "name": "SNAKE EYES",
+        "url": "https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "SNAKE EYES",
+      "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
     },
     {
       "album": {
@@ -21822,7 +21916,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 159000,
       "name": "Supply/Demand",
       "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
@@ -24170,7 +24264,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 170735,
       "name": "Under Tongues",
       "url": "https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml"

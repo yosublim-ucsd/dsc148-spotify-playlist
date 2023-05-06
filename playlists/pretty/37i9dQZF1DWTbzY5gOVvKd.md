@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,087 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,174,292 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Stardust](https://open.spotify.com/track/6tMbxAYrQl0qaORbkNeoTp) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [Stardust](https://open.spotify.com/album/0mG4xDyB6SN5We5RCOVr6e) | 6:18 |
 | 100 | [Prelude To A Kiss](https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL) | 4:36 |
 
-Snapshot ID: `MCw0OTMwZmZlMWQ1YzBjMDNlYTkwNDA5MmVjMzI3NzRlZGQxYzIwYTYy`
+Snapshot ID: `MCwxOTkyMDJkMzQ4NDI3MzNiMjQ3NzMyMjYwYmQyOGUzN2U2YzY1M2Zi`

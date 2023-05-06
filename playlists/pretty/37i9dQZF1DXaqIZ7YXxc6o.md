@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Hermitude
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,516 likes - 110 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,533 likes - 110 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW) | 3:22 |
 | 2 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 |
-| 3 | [Duo Yo](https://open.spotify.com/track/7mYWdIYJkijirczC5HJDXU) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [HyperParadise \(10 Year Anniversary Edition\)](https://open.spotify.com/album/6by92ximjblUJ9SwHDK2Z4) | 3:19 |
+| 3 | [Duo Yo](https://open.spotify.com/track/5ttlfc3eGjEsqgEj4nfjkk) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [HyperParadise \(10 Year Anniversary Edition\)](https://open.spotify.com/album/5xq238uclAps1CpnjBjDED) | 3:19 |
 | 4 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 |
 | 5 | [Through My Teeth](https://open.spotify.com/track/5yPQydEFlztCWLs9vzf0lA) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Through My Teeth](https://open.spotify.com/album/1nN0SJGvy1QB3R6vmJP9A5) | 3:48 |
 | 6 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 109 | [Reptiles](https://open.spotify.com/track/2JDdSaNvQrlEucMA0KOonb) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Reptiles](https://open.spotify.com/album/1AJeFPsi69OzgyzenprjzP) | 3:08 |
 | 110 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 |
 
-Snapshot ID: `MCxkMmQwZTMzZjU1NzVhM2YyYjE0ZWVkZmUyNDFiZGQzYTk4ZmM0YTQ4`
+Snapshot ID: `MCxkYzUxOGMyYWQ5NjFhMjlmZDg1MDM0MmRjNWQ0NDg1MGFlM2JiY2Nh`

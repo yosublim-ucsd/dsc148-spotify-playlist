@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-154 songs - 8 hr 0 min
+155 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A villa Guillermina](https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg) | [Paquito Aranda](https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:50 | 2021-11-19 |  |
 | [Academia Corrientes \(Remix 2020\)](https://open.spotify.com/track/5Xs59QjuahLS5smYdlLzin) | [Blasito Martínez Riera](https://open.spotify.com/artist/1frzWc2DBA3q5YDj9Eoe6f) | [El Salón De La Fama Del Chamamé](https://open.spotify.com/album/3B1iXO9wsx3qLUG3wBHmoZ) | 2:39 | 2021-11-19 | 2022-07-21 |
 | [Acordeona No Llores](https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:11 | 2021-11-19 | 2022-07-29 |
-| [Adios palomita ingrata](https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3) | [Palomita y Teresita base](https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 | 2021-11-19 |  |
+| [Adios palomita ingrata](https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3) | [Palomita y Teresita base](https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 | 2021-11-19 | 2023-05-06 |
 | [Adiós Ciudad de Mercedes](https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z) | [Los Sena](https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv) | [Reyes de la Alegría](https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ) | 2:10 | 2021-11-19 |  |
 | [Ah Mi Corrientes Porá](https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s), [Domingo Rodriguez](https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:22 | 2021-11-19 |  |
 | [Al Gaucho Gil](https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc) | [Los Chaqueñísimos Cardozo](https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:26 | 2021-11-19 |  |
@@ -144,6 +144,7 @@
 | [Seleccion de temas enganchados](https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 3:30 | 2021-11-19 |  |
 | [Sembrador de Esperanza](https://open.spotify.com/track/3sova4l2K0UmdbfbGeJxO3) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Sembrador de Esperanza](https://open.spotify.com/album/2GtsBdivtsUEDKILnnT91c) | 3:21 | 2021-11-19 | 2022-07-29 |
 | [Sentimiento Correntino](https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy), [Óscar Fernández](https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm) | [Muchachita Sos Mi Sueño](https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A) | 2:19 | 2021-11-19 | 2022-10-21 |
+| [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 | 2023-05-05 |  |
 | [Siento haberte perdido](https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:15 | 2021-11-19 |  |
 | [Siete Higueras](https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Tarrago Ros](https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:27 | 2021-11-19 |  |
 | [Sobredosis de Chamamé](https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [Sobredosis De Chamamé](https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi) | 2:40 | 2022-09-22 |  |

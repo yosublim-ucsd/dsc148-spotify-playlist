@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-134 songs - 5 hr 57 min
+135 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Pula em Mim](https://open.spotify.com/track/3hIc3UgiyAF8290nR24149) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Volúpia](https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8) | 2:17 | 2022-03-18 | 2022-05-14 |
 | [Pussy Gang](https://open.spotify.com/track/2uXXWRuYv6A70mj0cq3qhI) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pussy Gang](https://open.spotify.com/album/67ZypIXlENQDTdK8b61b8M) | 2:43 | 2022-03-18 |  |
 | [Qual Teu Preço](https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Qual Teu Preço](https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK) | 2:35 | 2022-09-23 |  |
-| [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 | 2022-03-18 |  |
+| [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 | 2022-03-18 | 2023-05-06 |
 | [Quero Ver Pegar](https://open.spotify.com/track/4lwzCs6SGC97ha4OvW4TU1) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Quero Ver Pegar](https://open.spotify.com/album/2KCX9iuSV51vkp3vMnPQYY) | 2:10 | 2022-09-30 | 2023-03-11 |
 | [quero ver tu me parar](https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [quero ver tu me parar](https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3) | 2:05 | 2023-01-13 | 2023-03-25 |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-18 | 2022-11-12 |
@@ -119,6 +119,7 @@
 | [Respeita as Minas](https://open.spotify.com/track/12eokSUVGbuNJpYZE07W8b) | [Somos um Só Banca](https://open.spotify.com/artist/6NH95N14iT8vk07LI7JoxL), [Liz Mc](https://open.spotify.com/artist/7eRDqAb3G1WpQdOq2Oxpnt), [MC Brendah](https://open.spotify.com/artist/1zcVZK6ImeqEX9vOJkSEaw), [Nubia Chris](https://open.spotify.com/artist/5IWKMNYQ8H9IuRCWOtBB1Z), [Andressa MC](https://open.spotify.com/artist/5rQZxNji6HtjNrQOeOVjas) | [Respeita as Minas](https://open.spotify.com/album/071sm1lfCvgoKA0kstQJUg) | 4:06 | 2022-03-18 | 2022-04-23 |
 | [S N P B](https://open.spotify.com/track/2ZILRHM8AfMlXY8FshGkgy) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Kave](https://open.spotify.com/artist/30AsB6yzTLmEiqnHcSzTCw) | [S N P B](https://open.spotify.com/album/7oXtdqWwZM27N0v1oKMjus) | 2:30 | 2022-03-18 |  |
 | [Sagaz](https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Sagaz](https://open.spotify.com/album/1qysRiSfDDpuxQNaS8AG6p) | 2:15 | 2022-03-18 |  |
+| [Sem Medo](https://open.spotify.com/track/0oVkrusu3IE56ZxkIrUo1s) | [Killa Bi](https://open.spotify.com/artist/0fvXYAyHJ26i3CxGo2HSX2), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Sem Medo](https://open.spotify.com/album/7ArlUfHABsExfPlONAztaB) | 2:49 | 2023-05-05 |  |
 | [Sem Tempo](https://open.spotify.com/track/09ziftydXrtCwTqIQl5PFj) | [CALI](https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8) | [Sem Tempo](https://open.spotify.com/album/4Av4a7XW2YxfupT4mJDXXh) | 2:44 | 2022-03-18 | 2022-04-23 |
 | [Sexy Gangsta](https://open.spotify.com/track/21yVqxCsflyyryXIP28l1t) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK) | [Sexy Gangsta](https://open.spotify.com/album/7gnMA5vsNq0uiIR63BU0AI) | 2:01 | 2023-02-03 |  |
 | [Sinto Te Dizer](https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Sinto Te Dizer](https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V) | 3:22 | 2022-04-22 |  |

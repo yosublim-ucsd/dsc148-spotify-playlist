@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "af1 (sped up)",
+        "url": "https://open.spotify.com/album/5n0OHA9uNQ6voLmTJJkg5B"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118811,
+      "name": "af1 (sped up)",
+      "url": "https://open.spotify.com/track/1HmUGju9HonKgT157b0DLB"
+    },
+    {
+      "album": {
         "name": "After Last Night (Silk Sonic) [Sped Up Version]",
         "url": "https://open.spotify.com/album/6WznmiC77DHK63Zi63PrEf"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 96133,
       "name": "Break it off - Bonus",
       "url": "https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1"
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 242155,
       "name": "I WANNA BE SAVED",
       "url": "https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 242163,
       "name": "I WANNA BE SAVED (REMIX)",
       "url": "https://open.spotify.com/track/7oGbiBAh5LiAoHVZZLyweS"
@@ -2326,6 +2344,32 @@
       "duration_ms": 198946,
       "name": "Lucky Girl - Sped Up",
       "url": "https://open.spotify.com/track/4REUrXWkwh4EdfsdCK4Pb2"
+    },
+    {
+      "album": {
+        "name": "Make Your Own Kind Of Music (Sped Up Radio)",
+        "url": "https://open.spotify.com/album/1gCLPuA568YBJk5wcuPyfn"
+      },
+      "artists": [
+        {
+          "name": "Cass Elliot",
+          "url": "https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk"
+        },
+        {
+          "name": "ex7stence",
+          "url": "https://open.spotify.com/artist/24VULASL3GkrIpKGZUJQBd"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126431,
+      "name": "Make Your Own Kind Of Music - Sped Up Radio",
+      "url": "https://open.spotify.com/track/07cI1xbCgrynXsXb6MIg7R"
     },
     {
       "album": {
@@ -3560,7 +3604,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 147135,
       "name": "Sway - Sped Up Version",
       "url": "https://open.spotify.com/track/2BLXNZq2tVNFzVI7yRk6Hc"
@@ -3936,7 +3980,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194062,
       "name": "Wasted (Nightcore)",
       "url": "https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI"
@@ -4020,6 +4064,28 @@
       "duration_ms": 168341,
       "name": "Where's My Love - Sped Up",
       "url": "https://open.spotify.com/track/6UHkwuFF6CXKMqBtDRxk8C"
+    },
+    {
+      "album": {
+        "name": "White Tee (Sped Up)",
+        "url": "https://open.spotify.com/album/7fjaZibcYJdHjdODt68lDS"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "NO1-NOAH",
+          "url": "https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159327,
+      "name": "White Tee - Sped Up",
+      "url": "https://open.spotify.com/track/0kyM7PrYjF4vH8FyOkEBuN"
     },
     {
       "album": {

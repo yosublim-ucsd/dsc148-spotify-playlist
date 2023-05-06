@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。5月3日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,169 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,319 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Pacific Line](https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [The Miseducation of Kidella](https://open.spotify.com/album/228W8YwNPHPSnWe4ebP6jr) | 4:14 |
 | 50 | [ロマンスの約束](https://open.spotify.com/track/5ig98mJnIIPTvXyftbOEij) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Jukebox](https://open.spotify.com/album/1r811zsBkeiS2leBNkg7YN) | 4:05 |
 
-Snapshot ID: `MCw4ZTJmYjkzNDRkOTM5YTI2YWUyNDQ0MjU2YjBiNTI0ZjU5MTcxMzc3`
+Snapshot ID: `MCw3Nzk1NTA4OTdlYzhiZDg0Y2MwNzcwY2I3Y2UxNTczZTRjYzAyNjRk`

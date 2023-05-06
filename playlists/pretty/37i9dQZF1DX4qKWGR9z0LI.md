@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Luis Figueroa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827,435 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,597 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 |
 | 100 | [Ven a Medellín](https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Afirmando](https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl) | 5:35 |
 
-Snapshot ID: `MCxhYjMyNzBlM2U1Y2Q4Y2UzNjJmMGRiMDBhODJlYzdjN2UzN2FmMWJk`
+Snapshot ID: `MCxkN2FmNTA2MjY5OGIxYjM3MGUzZGJkMDcxODQzMWJmOTIyNmRkMjlh`

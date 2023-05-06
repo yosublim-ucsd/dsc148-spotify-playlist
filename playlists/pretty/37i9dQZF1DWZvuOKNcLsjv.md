@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,448 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,455 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [ALOT](https://open.spotify.com/track/7kb2vMLEB6SmK1ELPjLOBw) | [VLOT](https://open.spotify.com/artist/5I9DSyEXlMP12Qw59gshyk), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [ALOT](https://open.spotify.com/album/0NvR9stzHjZn6coHsYZElI) | 1:56 |
 | 100 | [Levia](https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/7db13r50iuCjvrau6eRcHM) | 4:28 |
 
-Snapshot ID: `MCw1NTUyODFhNTQ1YTZiODNkYjY1MGY1OTYwMGViODJlODY0OGY0Y2Jk`
+Snapshot ID: `MCwwYjlkNWUzYTViMmJkYWEyZDNhOTBkNmMwZTA1YWE3NDFlMjc0M2E1`

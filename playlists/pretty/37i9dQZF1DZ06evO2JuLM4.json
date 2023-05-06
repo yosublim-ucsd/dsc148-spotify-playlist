@@ -1,15 +1,15 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 100137,
+  "num_followers": 100190,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNTMzODEsMDAwMDAwMDAwN2MzZTdhNzA5Zjg5MTE5OTI5MTRkYTU1OTc1MGRlZQ==",
+  "snapshot_id": "MjgwNTUzMjIsMDAwMDAwMDA4YWMyM2UxYWZlMGJmYjMxOGRlY2MxZDQ5ZTFhNjExYw==",
   "tracks": [
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
@@ -57,71 +57,7 @@
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hello Operator",
-      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 212888,
-      "name": "The Hardest Button to Button",
-      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "We're Going to Be Friends",
-      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "The Denial Twist",
-      "url": "https://open.spotify.com/track/4Hzg7Hcqo2aUooTQ0pnBYC"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
@@ -137,10 +73,10 @@
       "url": "https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
       "artists": [
         {
@@ -148,12 +84,12 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 133293,
-      "name": "Apple Blossom",
-      "url": "https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y"
+      "duration_ms": 212888,
+      "name": "The Hardest Button to Button",
+      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
@@ -164,12 +100,12 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 182168,
-      "name": "Dead Leaves and the Dirty Ground",
-      "url": "https://open.spotify.com/track/2ewjgFhHDTE8BkV8kzpiX2"
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
@@ -180,12 +116,28 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 241866,
-      "name": "My Doorbell",
-      "url": "https://open.spotify.com/track/0pzjcWYkyynxhONSm5C8Cu"
+      "duration_ms": 155773,
+      "name": "The Denial Twist",
+      "url": "https://open.spotify.com/track/4Hzg7Hcqo2aUooTQ0pnBYC"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hello Operator",
+      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
@@ -201,23 +153,7 @@
       "url": "https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/7uYoO8Jt7BUib2teUpLFLZ"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
@@ -228,15 +164,15 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 130332,
-      "name": "Hotel Yorba",
-      "url": "https://open.spotify.com/track/4faZbPZPQAmHADVtQNsv5E"
+      "duration_ms": 182168,
+      "name": "Dead Leaves and the Dirty Ground",
+      "url": "https://open.spotify.com/track/2ewjgFhHDTE8BkV8kzpiX2"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
-        "name": "The White Stripes",
-        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
       "artists": [
         {
@@ -244,12 +180,28 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 140194,
-      "name": "Stop Breaking Down",
-      "url": "https://open.spotify.com/track/2zUo58hpXMdR1GUcGYyfmP"
+      "duration_ms": 241866,
+      "name": "My Doorbell",
+      "url": "https://open.spotify.com/track/0pzjcWYkyynxhONSm5C8Cu"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 133293,
+      "name": "Apple Blossom",
+      "url": "https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
@@ -265,23 +217,7 @@
       "url": "https://open.spotify.com/track/0O2SYh5AZ0y8MAPOVC4Mxz"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "You Don't Know What Love Is (You Just Do as You're Told)",
-      "url": "https://open.spotify.com/track/2PVq6RRjQpycXb6yQEkHHt"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
@@ -292,15 +228,15 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 50373,
-      "name": "Little Room",
-      "url": "https://open.spotify.com/track/1ltf1XEP18QMCMRRQtFbAl"
+      "duration_ms": 130332,
+      "name": "Hotel Yorba",
+      "url": "https://open.spotify.com/track/4faZbPZPQAmHADVtQNsv5E"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
-        "name": "Elephant (Deluxe)",
-        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
       },
       "artists": [
         {
@@ -308,12 +244,28 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 171168,
-      "name": "The Air Near My Fingers - Live at The Aragon Ballroom, July 2, 2003",
-      "url": "https://open.spotify.com/track/3ghB4ioxsIapyD6VJF5VGI"
+      "duration_ms": 140194,
+      "name": "Stop Breaking Down",
+      "url": "https://open.spotify.com/track/2zUo58hpXMdR1GUcGYyfmP"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/7uYoO8Jt7BUib2teUpLFLZ"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
@@ -329,10 +281,10 @@
       "url": "https://open.spotify.com/track/0U3iqYVmE62HzF50ydBd05"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
-        "name": "The White Stripes",
-        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
       "artists": [
         {
@@ -340,12 +292,12 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 144266,
-      "name": "St. James Infirmary Blues",
-      "url": "https://open.spotify.com/track/0ujFmyKkSXQnlVMBz4plMM"
+      "duration_ms": 50373,
+      "name": "Little Room",
+      "url": "https://open.spotify.com/track/1ltf1XEP18QMCMRRQtFbAl"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
@@ -356,15 +308,15 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 258066,
-      "name": "Catch Hell Blues",
-      "url": "https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39"
+      "duration_ms": 234400,
+      "name": "You Don't Know What Love Is (You Just Do as You're Told)",
+      "url": "https://open.spotify.com/track/2PVq6RRjQpycXb6yQEkHHt"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
       },
       "artists": [
         {
@@ -372,12 +324,12 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 109720,
-      "name": "You're Pretty Good Looking (For a Girl)",
-      "url": "https://open.spotify.com/track/5OjQHOLMSzm9gkcIhtsgMO"
+      "duration_ms": 171168,
+      "name": "The Air Near My Fingers - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3ghB4ioxsIapyD6VJF5VGI"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
@@ -393,7 +345,55 @@
       "url": "https://open.spotify.com/track/47daaR9V5NnoSo68Geb8wm"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "St. James Infirmary Blues",
+      "url": "https://open.spotify.com/track/0ujFmyKkSXQnlVMBz4plMM"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 258066,
+      "name": "Catch Hell Blues",
+      "url": "https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 109720,
+      "name": "You're Pretty Good Looking (For a Girl)",
+      "url": "https://open.spotify.com/track/5OjQHOLMSzm9gkcIhtsgMO"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Jolene (Live Under Blackpool Lights)",
         "url": "https://open.spotify.com/album/6k7MyXIENM8UY50GMHZIFZ"
@@ -409,23 +409,7 @@
       "url": "https://open.spotify.com/track/3tEP0x51lSCw35zMyXtgtC"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Rag and Bone",
-      "url": "https://open.spotify.com/track/37SxzqcjbwYfZxZlW8jZYA"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
@@ -441,7 +425,23 @@
       "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Rag and Bone",
+      "url": "https://open.spotify.com/track/37SxzqcjbwYfZxZlW8jZYA"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "De Stijl",
         "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Party of Special Things to Do",
         "url": "https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "The White Stripes",
         "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/53ofSOPSvejQkQQLhpEN6X"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "The White Stripes",
         "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/1kw5Mr19smLQWlZPzJkLCL"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "De Stijl",
         "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Hand Springs",
         "url": "https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "The White Stripes",
         "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
@@ -633,71 +633,7 @@
       "url": "https://open.spotify.com/track/3MsWy7Is42kx8OImv41rUG"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "Elephant (Deluxe)",
-        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Stones In My Passway - Live at The Aragon Ballroom, July 2, 2003",
-      "url": "https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Take, Take, Take",
-      "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "The White Stripes",
-        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 114360,
-      "name": "When I Hear My Name",
-      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
-      "album": {
-        "name": "Lafayette Blues",
-        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Lafayette Blues",
-      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
-    },
-    {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Elephant (Deluxe)",
         "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
@@ -713,7 +649,71 @@
       "url": "https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Take, Take, Take",
+      "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 114360,
+      "name": "When I Hear My Name",
+      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "Lafayette Blues",
+        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Lafayette Blues",
+      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Stones In My Passway - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc"
+    },
+    {
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "The White Stripes Greatest Hits",
         "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/5baca16TrfnaLlaYemmTYt"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "City Lights (Previously Unreleased)",
         "url": "https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Elephant (Deluxe)",
         "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/3UKeA8QpDcYCfSSwP129Sw"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Under Great White Northern Lights (Live)",
         "url": "https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2"
     },
     {
-      "added_at": "2023-05-04 12:21:23",
+      "added_at": "2023-05-05 20:42:28",
       "album": {
         "name": "Party of Special Things to Do",
         "url": "https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U"

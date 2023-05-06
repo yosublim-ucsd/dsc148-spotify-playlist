@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "New Start (Binaural Theta)",
+        "url": "https://open.spotify.com/album/7JmgbPfah3X5GIqwNbZlSX"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185462,
+      "name": "New Start (Binaural Theta)",
+      "url": "https://open.spotify.com/track/2EekegJ4qOGkwpO4ENePIb"
+    },
+    {
+      "album": {
         "name": "Binaural Theta for Sleep",
         "url": "https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh"
       },
@@ -876,6 +894,24 @@
       "duration_ms": 217987,
       "name": "Theta secrets 89,5 + 91,3 hz",
       "url": "https://open.spotify.com/track/0pnUJj7iSz3XuSrKvP1k9q"
+    },
+    {
+      "album": {
+        "name": "Binaural Serenade",
+        "url": "https://open.spotify.com/album/75xJLqtlDky9rlnxzknINy"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "Theta Serenade 7 Hz",
+      "url": "https://open.spotify.com/track/1Np70NnU9Dz4i1J3WJw9JY"
     },
     {
       "album": {

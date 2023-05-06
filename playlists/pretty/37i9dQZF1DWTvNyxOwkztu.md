@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,492 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740,087 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 |
 | 100 | [Corridors](https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Corridors](https://open.spotify.com/album/6bboSAM3cK5LgLxt5ILwam) | 3:11 |
 
-Snapshot ID: `MCw1YmYwNDE5M2FkYjcwYTExOWQ3MGQ5MDExZTVkYjc1ZDBlZGY1YTBj`
+Snapshot ID: `MCwxZmU1MzU2NjExZTcxZDhlMWMwOTNmOTkzNWE1YjUwNDMwYmEzMjA1`

@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Abbey Cone, Artwork: Fanélie Muselier
 
-1,485 songs - 3 day 8 hr 58 min
+1,487 songs - 3 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [After The Sun Goes Down](https://open.spotify.com/track/4ZwXTIuBLn3Wc7crqrmo8d) | [Sean Williams](https://open.spotify.com/artist/6tECOHwuesPtQJvJdZ8gs7) | [After The Sun Goes Down](https://open.spotify.com/album/49np5NxIis4GopJx3m5rtT) | 3:32 | 2023-02-23 | 2023-03-30 |
 | [Again](https://open.spotify.com/track/0Ustl8OXZB4GLaGK8HuIPa) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Again](https://open.spotify.com/album/434Wsj2X1jxkxnq4jKq5Sb) | 3:09 | 2023-01-18 | 2023-02-16 |
 | [Ain't Doing Something Right](https://open.spotify.com/track/5lesYQ4UDsSGGFMNf5fLVn) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:32 | 2021-12-01 | 2022-01-13 |
+| [Ain't For Me](https://open.spotify.com/track/0nl6comjSULrsfHy2XohMI) | [Southerland](https://open.spotify.com/artist/5Fft88xB3YSwSWzdS42xyf) | [Southerland](https://open.spotify.com/album/7bx1O8YDqym7lJpHgXlaIK) | 3:08 | 2023-05-05 |  |
 | [Ain't Got the Heart](https://open.spotify.com/track/5WvHZvK7EkrTFOSttRAmTv) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF) | [Ain't Got the Heart](https://open.spotify.com/album/4dJrfQpx73rRWTpN84an2P) | 3:18 | 2023-01-18 | 2023-02-16 |
 | [Ain't Like Me](https://open.spotify.com/track/5KTh8rAnac5XrZ9pm2KXZq) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Ain't Like Me](https://open.spotify.com/album/6eLGa9wM5Ua0h1qQkz2C7L) | 2:54 | 2022-04-13 | 2022-05-26 |
 | [Ain't Met Us Yet](https://open.spotify.com/track/6w9aRQglMZxvxwdxyEWnCm) | [Matt Cooper](https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM) | [Ain't Met Us Yet](https://open.spotify.com/album/2AEbCbSsX0tmNpOybSzWdA) | 5:04 | 2021-12-01 | 2022-01-13 |
@@ -723,6 +724,7 @@
 | [It Rains In Tulsa Too](https://open.spotify.com/track/3bNPvARsh5k1tlPT6GSnHi) | [Trenton Fletcher](https://open.spotify.com/artist/0BxNZyhp1irivmr7qrqEl5) | [It Rains In Tulsa Too](https://open.spotify.com/album/5wr5SwucXRIPrsZa1LJs8j) | 4:42 | 2022-09-28 | 2022-12-01 |
 | [It's All Good](https://open.spotify.com/track/0gftHg6T8wYqxJE5Yio59P) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Phillip Good](https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN) | [It's All Good](https://open.spotify.com/album/12riebItPDmiUXfLLbrMdY) | 3:06 | 2022-08-26 | 2022-09-29 |
 | [It's Still Here](https://open.spotify.com/track/5zql3uLuEXCF4mUfx2rt7m) | [Charlie Berry](https://open.spotify.com/artist/13uuE1bMMUxMCsAL4mpTp3) | [It's Still Here](https://open.spotify.com/album/2UDJ8nWfgv4JplXShimC9L) | 3:31 | 2022-09-28 | 2022-12-01 |
+| [It's Still January](https://open.spotify.com/track/5tsecZZhFatEW7sf4cjNKP) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [It's Still January](https://open.spotify.com/album/3VGSxxbLn9eXCRCAq75XIp) | 3:42 | 2023-05-05 |  |
 | [Jack Daniel's Cologne](https://open.spotify.com/track/67ult90dlUpa9syKKDMTHi) | [Cam Allen](https://open.spotify.com/artist/7H0xTw1Db9fziT2JzwNRR3) | [Jack Daniel's Cologne](https://open.spotify.com/album/5U0ukPAeMWpB5gnJDi9yOT) | 4:45 | 2022-06-09 | 2022-07-21 |
 | [Jealous](https://open.spotify.com/track/2gaoVz3l7saRE9KAS9z1Y1) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Jealous](https://open.spotify.com/album/1GQO4HMmLzAXv6M0q9io26) | 3:09 | 2022-02-16 | 2023-01-12 |
 | [Jesus and Jesse James](https://open.spotify.com/track/1ZSuRjgXoq4IMfHZvKjxVo) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Jesus and Jesse James](https://open.spotify.com/album/1K3SVTjEpKBZbeludZ1NQw) | 3:45 | 2023-04-05 |  |

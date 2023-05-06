@@ -4,7 +4,7 @@
 
 > This is the PROOF of BTS history\. Check out <a href="https://open.spotify.com/playlist/37i9dQZF1DXaR2kf8OYllT">BTS Yet To Come in Busan LIVE SET</a> as well\. ARMY is unbeatable💜
 
-456 songs - 1 day 3 hr 20 min
+457 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [DNA](https://open.spotify.com/track/6Z7m5DLNPOaPg9T6nXK0rQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 3:43 | 2022-06-10 | 2022-06-18 |
 | [DNA](https://open.spotify.com/track/2Ygw4CPjg1lg4zxTITYY2V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:43 | 2022-06-17 | 2022-11-13 |
 | [DNA \- Pedal 2 LA Mix](https://open.spotify.com/track/0RFxljd297sk7sKm5ZDD5J) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:07 | 2022-05-27 |  |
+| [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-05 |  |
 | [Don't Leave Me](https://open.spotify.com/track/3zIG0WuI5RoJsFYnErkFDU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [FACE YOURSELF](https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t) | 3:47 | 2022-06-10 | 2022-06-18 |
 | [Dope](https://open.spotify.com/track/4TiKZrN7gtc62SUiufpFCM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 4:00 | 2022-06-10 | 2022-06-18 |
 | [Dope](https://open.spotify.com/track/4o3Ao6wY5fbJR32fQKabfQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 4:00 | 2022-05-27 |  |

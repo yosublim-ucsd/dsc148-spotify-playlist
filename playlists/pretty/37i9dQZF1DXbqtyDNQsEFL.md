@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,543 likes - 80 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,614 likes - 80 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 |
 | 80 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 |
 
-Snapshot ID: `MCwzMzcyNTI3OWNiM2E0ODMzYzQ3YjBiZWZjMDg0YjI4NTU3YmM1NWM4`
+Snapshot ID: `MCwyYzNjYjNjYzA5NWM0MTE1ZDhhNDlmZDVlZjE1M2I2YWNmOGRiMzNh`

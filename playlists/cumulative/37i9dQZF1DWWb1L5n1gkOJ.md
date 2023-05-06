@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-135 songs - 6 hr 23 min
+136 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Nightsong](https://open.spotify.com/track/2C9K86QpeEP3d6eXIgkdEe) | [Hwerna](https://open.spotify.com/artist/3UC102aeEAt0cbnucl3qjT) | [Nightsong](https://open.spotify.com/album/1CATANReaF9hPVAhmdjr2A) | 3:09 | 2022-10-12 |  |
 | [Noche Brilliante](https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Noche Brilliante](https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e) | 2:21 | 2022-10-12 |  |
 | [Nothing else mattered](https://open.spotify.com/track/1LRjbCFrOBUQ9L1Ot4xuIO) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 2:42 | 2023-03-16 |  |
-| [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 | 2022-10-12 |  |
+| [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 | 2022-10-12 | 2023-05-06 |
 | [Old Faro](https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Old Faro](https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH) | 3:09 | 2022-12-20 |  |
 | [One And Only](https://open.spotify.com/track/5dhf443YVdBpZZOGutxjsx) | [Dragon Wind](https://open.spotify.com/artist/282sN96UnlBm6hhQdpGHMG) | [Deja Vu](https://open.spotify.com/album/47m2jkxUKg7LKwTuAvifdt) | 3:04 | 2022-10-12 | 2022-11-23 |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-10-12 |  |
@@ -108,6 +108,7 @@
 | [Rosētum](https://open.spotify.com/track/0Q8YbkwiUQTvxTYvofeAJB) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Rosētum](https://open.spotify.com/album/3nug1l3A0hWw3xNS7zhflP) | 3:20 | 2022-10-12 |  |
 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-10-12 |  |
 | [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 | 2022-10-12 |  |
+| [Sclavia](https://open.spotify.com/track/1EWbhAgdQNwYau5DvgdEtW) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Ur](https://open.spotify.com/album/71bc7U2CxvmTDrTKmD4C52) | 3:13 | 2023-05-05 |  |
 | [Seventh Heaven](https://open.spotify.com/track/2bV4AO2zBHjmlTxcUhY3w9) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Arcadia](https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33) | 3:14 | 2022-12-02 |  |
 | [Shadows](https://open.spotify.com/track/6fdDm8BUpOpM5fbxv3zhSZ) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Shadows](https://open.spotify.com/album/1RqHF0Lf1nrRnExXA9Tpjg) | 3:11 | 2022-10-12 |  |
 | [Silver Ocean](https://open.spotify.com/track/0nUmtaGW0KUELFtMBhxeAt) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Silver Ocean](https://open.spotify.com/album/2dyjYTPkDOwRfbBEuPxPNC) | 2:49 | 2022-10-12 |  |

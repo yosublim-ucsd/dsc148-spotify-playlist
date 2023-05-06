@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>生命太短促 痛太清楚 才讓你讓我 愛到無退路。
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,522 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,544 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 49 | [难堪](https://open.spotify.com/track/0QDHq2JoM54iTX016iPXIN) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [你我之间](https://open.spotify.com/album/3WBgii1mU51EaTUofSXVVB) | 3:10 |
 | 50 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 |
 
-Snapshot ID: `MCw0Y2QyZGI3ZDA5ZjI2MDg3NDhlZjM5ZmE5MjY3YzdmZTNiMDdkOTc1`
+Snapshot ID: `MCwyMTczMGZhOWQyNjhlZDFlM2UxMzc0MWU2Y2Y0NTc4N2YyNTJhYmRk`

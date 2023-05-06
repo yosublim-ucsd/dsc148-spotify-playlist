@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Cisco Swank Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,338 likes - 90 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,358 likes - 90 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 89 | [Mr\. Lament](https://open.spotify.com/track/0eyeRgx0rRxaENkn9GEgWR) | [Roy Markson](https://open.spotify.com/artist/3DK9rlUAD6yzvic9UUvYSc) | [Mr\. Lament](https://open.spotify.com/album/2AqI1T4b7SIiQKvWNvQrqJ) | 4:15 |
 | 90 | [Mary Lou](https://open.spotify.com/track/3o3DabT0Jh4GXZIm04oqXk) | [Ilaria Crociani](https://open.spotify.com/artist/7dTrQ3T3eXR3eJ4Fnq9K4S), [Paul Grabowsky](https://open.spotify.com/artist/6GGbZHdSd5J2OrJrbDbais), [Mirko Guerrini](https://open.spotify.com/artist/3auQkdrG1Rf4ZkgvCPGZy0), [Geoff Hughes](https://open.spotify.com/artist/453uc8Chuvc6U3GdXOh6in), [Ben Robertson](https://open.spotify.com/artist/7zL7k6ewoFxM7jCCQN99wo), [Niko Schauble](https://open.spotify.com/artist/09fqsjX41xtfPb5dJznRDr) | [Mary Lou](https://open.spotify.com/album/4WWrLpB4RpAl6Mb0I9ZoqI) | 4:52 |
 
-Snapshot ID: `MCwxNzBkY2Q2NDZiOGZkOTVjMTVjMmJhNWNhZDY2YjBlYjZjZDg3NDUy`
+Snapshot ID: `MCw0Nzg0YzYyYTJkNjY1OGJkNmVkNGQyOTM4NzU4YTc4MTM1ODg3ZDI0`

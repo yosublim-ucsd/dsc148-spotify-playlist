@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Willie Nelson & Billy Strings. Happy 90th Willie! ",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Alison Brown",
   "name": "Grass Roots",
   "tracks": [
     {
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
@@ -2438,6 +2438,28 @@
       "duration_ms": 210226,
       "name": "Firewood",
       "url": "https://open.spotify.com/track/19e3bfpKwSnvw4JEFQTihp"
+    },
+    {
+      "album": {
+        "name": "On Banjo",
+        "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Foggy Morning Breaking",
+      "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
     },
     {
       "album": {
@@ -3672,7 +3694,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 202053,
       "name": "If I Could Talk To A Younger Me",
       "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
@@ -3708,7 +3730,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 282480,
       "name": "In The Morning Light",
       "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
@@ -4492,7 +4514,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 242593,
       "name": "Midnight on the Stormy Deep",
       "url": "https://open.spotify.com/track/4gVjsCMBPLqKj0ygvDY9a5"
@@ -8120,7 +8142,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 276004,
       "name": "While I'm Waiting Here",
       "url": "https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8"

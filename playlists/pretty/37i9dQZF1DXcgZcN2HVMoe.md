@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,900 likes - 200 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,004 likes - 200 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Vanilla \(Stairwell Version\)](https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Vanilla \(Stairwell Version\)](https://open.spotify.com/album/30AiPggrojM01hleb8j12f) | 4:06 |
 | 200 | [Lebanon](https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 3:26 |
 
-Snapshot ID: `MCwwYWZmNmZiOGU0ZDU3ZGEzMGY0ZTcxMzkzMmEyNDA3ZjExMWU0ODU0`
+Snapshot ID: `MCxjODU2OGMyYThmNGFkYmMyMTZlMGE0Zjc0MDQyYjRlOGRkZWI0MzFh`

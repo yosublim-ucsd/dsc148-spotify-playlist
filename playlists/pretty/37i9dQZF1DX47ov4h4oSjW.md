@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,163 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,158 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 99 | [Midnight Musette](https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c) | [De Maynes](https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn) | [Midnight Musette](https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb) | 3:17 |
 | 100 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 |
 
-Snapshot ID: `MCw0MmZlMjQzY2Q3N2EwMDdiMzQ1YzE4Yzc4NTRmYmU1YmZjMDA0NWVk`
+Snapshot ID: `MCw3Nzc5NTdhODY5Zjg3NTFmYzBkNDcxOThiYjU0NjUzN2ZiYjBiMjUz`

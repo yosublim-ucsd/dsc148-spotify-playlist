@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,677 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,748 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 79 | [Testimony](https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Testimony](https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY) | 2:26 |
 | 80 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 |
 
-Snapshot ID: `MCw5ZWM1YWRlNTM1NWRlY2IwYmEzYzQ1NjQxMmI4ZWM4YzkxZWE4ODQ3`
+Snapshot ID: `MCwxMzVkNmU0OTQ1ZTIyNWQxZDFmZmM5Mjk4ZTY1NDMzN2ZlZTg2NjIz`

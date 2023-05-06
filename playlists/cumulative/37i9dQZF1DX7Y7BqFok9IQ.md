@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-215 songs - 13 hr 31 min
+218 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Love and Devotion](https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/081mWFWjZU1Dyl2RspScxV) | 3:23 | 2020-10-16 |  |
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-10-16 |  |
 | [Lucky](https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Rollin'](https://open.spotify.com/album/3zv68B02yNlKFqlIbRDY0o) | 4:54 | 2022-04-29 |  |
+| [Make It Shake](https://open.spotify.com/track/57uYXpzoI7dOxdrOPWxZGT) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Make It Shake](https://open.spotify.com/album/165D6axZ9zq76cV1ip2qpo) | 3:14 | 2023-05-05 |  |
 | [Make Your Move](https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N) | [Beyond the Badlands](https://open.spotify.com/artist/5Od4vhwUDRjIKGCu7OrFsP) | [Make Your Move](https://open.spotify.com/album/5upDTjsYYm1tAU1CWHruPz) | 3:21 | 2021-04-16 |  |
 | [Meet Me in the Bottom](https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Meet Me in the Bottom / Friends](https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5) | 3:08 | 2022-11-04 |  |
 | [Mercy](https://open.spotify.com/track/2krcU3B5QoN7aUw648THOk) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Mercy](https://open.spotify.com/album/1nfK9eJnGDD1FDXbRWLwT0) | 3:25 | 2022-02-25 |  |
@@ -130,7 +131,7 @@
 | [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 | 2021-05-14 |  |
 | [No Blood From A Stone](https://open.spotify.com/track/5wnuJCeGo4AWr1iFYYxksC) | [Shawn James](https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm) | [A Place In The Unknown](https://open.spotify.com/album/5m8eSQ62CafLZhBjKEEYw6) | 3:39 | 2022-02-25 | 2022-08-14 |
 | [No More Fire](https://open.spotify.com/track/2yTZSzl6XflxCRU7NnnW8M) | [The Gravel Project](https://open.spotify.com/artist/1aM51hYWVvC9a4piqQcqD4) | [Many Miles Ahead](https://open.spotify.com/album/20KjNLIRKH70voeLo5ohqv) | 4:48 | 2022-03-04 |  |
-| [None of Your Business](https://open.spotify.com/track/6scQaEbZRJRSHlUecMPdMc) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [None of Your Business](https://open.spotify.com/album/6GN9W8VK95e9NLNOSFQkuX) | 3:20 | 2021-04-09 |  |
+| [None of Your Business](https://open.spotify.com/track/6scQaEbZRJRSHlUecMPdMc) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [None of Your Business](https://open.spotify.com/album/6GN9W8VK95e9NLNOSFQkuX) | 3:20 | 2021-04-09 | 2023-05-06 |
 | [Notches](https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Notches](https://open.spotify.com/album/2NREQn8G282SFtYRyj2a0D) | 7:03 | 2021-07-23 | 2022-11-13 |
 | [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 | 2022-08-26 |  |
 | [Nothing Left To Lose](https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX) | [LoveSick Radio](https://open.spotify.com/artist/7zca83vBdFEDg0119J8thJ) | [Nothing Left To Lose](https://open.spotify.com/album/3iCNJpwYv9jKHkL3VOpn2x) | 3:24 | 2021-04-09 |  |
@@ -149,6 +150,7 @@
 | [Pick Your Poison](https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Pick Your Poison](https://open.spotify.com/album/7DVKYtrPILCQxbUgP7EJ0a) | 3:45 | 2020-10-16 | 2022-07-27 |
 | [Poison the Water](https://open.spotify.com/track/4FZTgKUSqTsZ2oSNpHl0O4) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [Poison the Water](https://open.spotify.com/album/0Hl9xfHPd8mm0JTBBf7T9H) | 3:51 | 2022-09-16 | 2022-10-15 |
 | [Prosecution Blues](https://open.spotify.com/track/6DdX7BH2VJzfcjIAlyyPzk) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Prosecution Blues](https://open.spotify.com/album/3GvnjHR6Vm28smZDaxS0Ww) | 3:53 | 2021-07-16 | 2022-07-29 |
+| [Renegade Season](https://open.spotify.com/track/4YcPEgiT0kbnidJYw7OyUb) | [Jax Hollow](https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB) | [Only The Wild Ones](https://open.spotify.com/album/23987SO39NcnKh9gtceZKf) | 4:36 | 2023-05-05 |  |
 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 | 2020-10-16 | 2023-03-04 |
 | [Riders](https://open.spotify.com/track/6qqUXdg4bduFMCf83hZ1pm) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Riders](https://open.spotify.com/album/4ApVp6TSwuXfwmPP4qKtO4) | 3:40 | 2023-03-31 |  |
 | [Roll Bones](https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [All Of This Life](https://open.spotify.com/album/0Xe0NMbJ7t8dTv0wiTH3wi) | 3:41 | 2020-10-16 | 2022-09-03 |
@@ -191,6 +193,7 @@
 | [The Mould](https://open.spotify.com/track/5DWagsDtyFGdUSD2EM0dBQ) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/0F2pZYTsXZ5nWdSuFtTu1Y) | 3:59 | 2022-06-10 |  |
 | [The Waltz](https://open.spotify.com/track/2tj88oEKcx7CXtqsGI8KWy) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2ITas01lzZe2kVZ1YYBZr8) | 5:28 | 2020-10-16 |  |
 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 | 2020-10-16 | 2023-04-30 |
+| [The Way I Wanna Go](https://open.spotify.com/track/6rJnCbylhS9uUujttwYX4l) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [The Way I Wanna Go](https://open.spotify.com/album/0HgJ551rBgPx9sCY6UAOfK) | 5:48 | 2023-05-05 |  |
 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 | 2020-10-16 |  |
 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 | 2020-10-16 | 2023-04-29 |
 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 | 2021-11-19 |  |
@@ -201,7 +204,7 @@
 | [To The Bone](https://open.spotify.com/track/2vDFtFES302W2LdkgJY7Vt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [To The Bone](https://open.spotify.com/album/3rVPrMd1k1qhitQyoKsrPp) | 3:39 | 2022-10-21 | 2023-05-02 |
 | [Too Bad](https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:44 | 2020-10-16 | 2023-03-04 |
 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 | 2022-03-18 |  |
-| [Tricks On My Mind](https://open.spotify.com/track/6k3jiZrFNJ2AeiuwRRO6wC) | [Sweet Crisis](https://open.spotify.com/artist/0VLBsVfOThyVZU94tW3qJ4) | [Tricks On My Mind](https://open.spotify.com/album/0BZeTdDbL03qzEVtQfPloh) | 3:00 | 2021-08-27 |  |
+| [Tricks On My Mind](https://open.spotify.com/track/6k3jiZrFNJ2AeiuwRRO6wC) | [Sweet Crisis](https://open.spotify.com/artist/0VLBsVfOThyVZU94tW3qJ4) | [Tricks On My Mind](https://open.spotify.com/album/0BZeTdDbL03qzEVtQfPloh) | 3:00 | 2021-08-27 | 2023-05-06 |
 | [True Lies](https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [True Lies](https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV) | 5:51 | 2022-09-16 | 2023-04-09 |
 | [Truth Be Told](https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Truth Be Told EP](https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR) | 2:46 | 2022-11-18 |  |
 | [Twisted Angel](https://open.spotify.com/track/1x5dPO4NtMBt8BsVx8cMzs) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [About to Xplode](https://open.spotify.com/album/7H1RSCEdKGrFF9aSQdANnJ) | 2:48 | 2021-04-09 |  |
@@ -221,7 +224,7 @@
 | [Will We Ever](https://open.spotify.com/track/2hYQpTCX3z4LybxKKRhaBO) | [Wille and the Bandits](https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD) | [Will We Ever](https://open.spotify.com/album/4Sea3LyXNqJPZ2EH8s0dy6) | 4:25 | 2021-11-12 |  |
 | [Woolamai](https://open.spotify.com/track/0wXOSacytCzfXqt98sEXLe) | [Smoke Stack Rhino](https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD) | [Woolamai](https://open.spotify.com/album/6jrGRQ0v0jiECoyiWgMnBQ) | 3:55 | 2022-03-18 |  |
 | [Wrong Again](https://open.spotify.com/track/0TOo42fplgu1SFbL5Sts1g) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Wrong Again](https://open.spotify.com/album/7LBOvX3YbHAs90gpBPCW1D) | 4:10 | 2022-03-25 |  |
-| [You Fool No One](https://open.spotify.com/track/3VwX9gYYcPgxBMwFzxLVqT) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss), [Ian Paice](https://open.spotify.com/artist/2gNdXbhyIbXHWvurrlrUAq) | [You Fool No One](https://open.spotify.com/album/6vZ8EJfoHumz3tbNiFDpz0) | 3:46 | 2021-08-20 |  |
+| [You Fool No One](https://open.spotify.com/track/3VwX9gYYcPgxBMwFzxLVqT) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss), [Ian Paice](https://open.spotify.com/artist/2gNdXbhyIbXHWvurrlrUAq) | [You Fool No One](https://open.spotify.com/album/6vZ8EJfoHumz3tbNiFDpz0) | 3:46 | 2021-08-20 | 2023-05-06 |
 | [You Give Me Something](https://open.spotify.com/track/5bSHyDR9VHcFUVUdh3cITx) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Out of My Head](https://open.spotify.com/album/539FA4h32bDJBDO88ruwXV) | 3:52 | 2020-10-16 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

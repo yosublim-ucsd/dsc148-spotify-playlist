@@ -1871,6 +1871,32 @@
     },
     {
       "album": {
+        "name": "Vivaldi: Violin Concerto in E-Flat Major, RV 257: III. Allegro",
+        "url": "https://open.spotify.com/album/63frfMMFBlj2UO2TjXtykq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "Benedetti Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/25V9BjYN1ZSSyAxh7KtxUC"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "Violin Concerto in E-Flat Major, RV 257: III. Allegro",
+      "url": "https://open.spotify.com/track/5AW6hac4JAKu0ygmZUw7HF"
+    },
+    {
+      "album": {
         "name": "Hilary Hahn Plays Bach",
         "url": "https://open.spotify.com/album/2GLJLkriVbdfDi5W5e3LJM"
       },
@@ -1920,32 +1946,6 @@
       "duration_ms": 96840,
       "name": "Violin Sonata No. 2 in D Major: I. Presto",
       "url": "https://open.spotify.com/track/7qpkLZL5ePxCfZMA3PuNjg"
-    },
-    {
-      "album": {
-        "name": "Vivaldi: Violin Concerto in E-Flat Major, RV 257: III. Allegro",
-        "url": "https://open.spotify.com/album/63frfMMFBlj2UO2TjXtykq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Nicola Benedetti",
-          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
-        },
-        {
-          "name": "Benedetti Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/25V9BjYN1ZSSyAxh7KtxUC"
-        }
-      ],
-      "date_added": "2021-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190160,
-      "name": "Vivaldi: Violin Concerto in E-Flat Major, RV 257 - III. Allegro",
-      "url": "https://open.spotify.com/track/5AW6hac4JAKu0ygmZUw7HF"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Goodbye Karelle
+> La scène musicale montréalaise au premier plan\. Photo: Aliocha Schneider
 
-306 songs - 17 hr 40 min
+308 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 | 2022-03-25 | 2022-06-04 |
 | [An Introduction](https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp) | [Mimo](https://open.spotify.com/artist/3eIJIZKEFoBYxr8A12M00k) | [An Introduction](https://open.spotify.com/album/2tWhEALTbr4KFkuI3TZ17d) | 2:26 | 2022-03-25 | 2023-04-01 |
 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 | 2022-03-25 | 2022-08-06 |
+| [Avant Elle](https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Avant Elle](https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW) | 3:20 | 2023-05-05 |  |
 | [Away from You](https://open.spotify.com/track/6YWrJWR12Z5XEXB37n3LAy) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Away from You](https://open.spotify.com/album/0CU7rzU77WcKtNROwbywxk) | 3:30 | 2022-03-25 | 2022-04-23 |
 | [Back There](https://open.spotify.com/track/0NBFHo21e5tX6nZdIjAIhT) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Aurora](https://open.spotify.com/album/4X7K9bedTvlVHd06eywvHL) | 2:02 | 2022-03-25 | 2022-10-01 |
 | [Bad Behaviour \- Busty and the Bass Remix](https://open.spotify.com/track/7wEhnDrdSm7bUAl5g1jDX8) | [Blue Belly](https://open.spotify.com/artist/03bICu3gRRsxcnjEpG6u3g), [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Bad Behaviour \(Busty and the Bass Remix\)](https://open.spotify.com/album/1jeYjFGaJvNoC3VgrPdxKE) | 3:43 | 2022-03-25 | 2022-04-16 |
@@ -161,7 +162,7 @@
 | [La nuit te ressemble](https://open.spotify.com/track/6sbeMTdnXolT6YZwfSsVbu) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [La nuit te ressemble](https://open.spotify.com/album/345aq3mWimamc7hD1kbhvk) | 2:49 | 2023-01-06 |  |
 | [La richesse des pauvres](https://open.spotify.com/track/4jV3QKV40FmtcJikbBpfCf) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO), [Rau Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Échos d'une vie distante: volume 1](https://open.spotify.com/album/4n4gw9wDp29mV0tAYxcFol) | 2:23 | 2022-03-25 | 2022-04-16 |
 | [La Ronde](https://open.spotify.com/track/5mxvBhTdtp8bVxUOg1qjBe) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [La Ronde](https://open.spotify.com/album/44zJbRgjUPe7jlGjXBKUcQ) | 3:40 | 2022-03-25 | 2022-08-27 |
-| [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 | 2022-03-25 |  |
+| [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 | 2022-03-25 | 2023-05-06 |
 | [La vie ce n'est qu'un rêve](https://open.spotify.com/track/3PxTVq57d0XcGxM2xVRC3Q) | [Efy Hecks](https://open.spotify.com/artist/4wIYnRyhOUsYlfOyYgRFv5) | [Somnifère](https://open.spotify.com/album/4OgOjuzYRDMh2t9fWCISHy) | 4:40 | 2022-03-25 | 2022-06-11 |
 | [Laurence](https://open.spotify.com/track/4ittp8FlfefXuOMx8sWofb) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [Laurence](https://open.spotify.com/album/5xHe1D6FTdMmgnmxCO4UbS) | 2:23 | 2023-02-17 | 2023-04-01 |
 | [Le calme](https://open.spotify.com/track/2RBRsOhmjwvPY5KcHEQxRV) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Le calme](https://open.spotify.com/album/4T6H2NDFAJcwPIyGcMj4Uz) | 3:54 | 2022-03-25 | 2022-04-29 |
@@ -238,7 +239,7 @@
 | [PLS \- sunset version](https://open.spotify.com/track/7Icpr4emncvQ7AbZ7RXlg3) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [PLS](https://open.spotify.com/album/2cfg8Kin7uYBJEsQBdyjdS) | 3:28 | 2022-03-25 | 2022-04-09 |
 | [Polymorphe](https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Polymorphe](https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI) | 3:36 | 2023-03-17 |  |
 | [Porcelaine](https://open.spotify.com/track/3qeQtEMW0HsxrN8qbvdr6b) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/5N1sDD5VHZpjs4ViydetqY) | 3:22 | 2022-03-25 | 2022-04-16 |
-| [Pourquoi](https://open.spotify.com/track/7kpXh1DGtvwlKGxxJZawKL) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Pourquoi](https://open.spotify.com/album/7octbaqwUajyIePHuALwAi) | 3:14 | 2022-03-25 |  |
+| [Pourquoi](https://open.spotify.com/track/7kpXh1DGtvwlKGxxJZawKL) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Pourquoi](https://open.spotify.com/album/7octbaqwUajyIePHuALwAi) | 3:14 | 2022-03-25 | 2023-05-06 |
 | [Pourtant](https://open.spotify.com/track/1npKOQwxUWDGKQr10Rd8I9) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Pourtant](https://open.spotify.com/album/4EQZ4Z6OniZVeYjfSkaxHx) | 5:42 | 2022-09-16 |  |
 | [Prends ça doux](https://open.spotify.com/track/6MAyFXAiCZPmEMrW90M5CS) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl) | [Prends ça doux](https://open.spotify.com/album/6Hl0yM1LMl41PsS9hL7gfc) | 3:27 | 2022-03-25 | 2022-04-29 |
 | [Prettier Things](https://open.spotify.com/track/1jFAREzr20dvAfkegfEbTV) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Prettier Things](https://open.spotify.com/album/6gmX0VR24fi5eVPf2fg7sW) | 3:52 | 2023-02-24 |  |
@@ -295,6 +296,7 @@
 | [Umami \(edit\)](https://open.spotify.com/track/0N2efiVO6AXws1R4O8Rhhs) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Umami \(edit\)](https://open.spotify.com/album/4UxataWu6cEL0ihgfkFl4i) | 2:51 | 2022-03-25 | 2022-05-07 |
 | [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-13 | 2022-09-03 |
 | [Un soleil toujours](https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Un soleil toujours](https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh) | 3:13 | 2022-09-16 | 2022-10-22 |
+| [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-05 |  |
 | [Untouchable](https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 3:04 | 2022-04-29 | 2022-12-10 |
 | [Vampire](https://open.spotify.com/track/7Iy3isMoMHYsKPtUZdXWE6) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO) | [Vampire](https://open.spotify.com/album/1Ps1zKHpyr3X35EuxXTLXE) | 2:33 | 2023-03-10 | 2023-04-01 |
 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 | 2022-03-25 |  |

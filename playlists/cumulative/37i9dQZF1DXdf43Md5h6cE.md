@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-126 songs - 9 hr 7 min
+127 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,10 +129,11 @@
 | [watching the stars \(Slowed + Reverb\)](https://open.spotify.com/track/6V3bFXfMuKX7xJ3v2ate2J) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [watching the stars \(Remixes\)](https://open.spotify.com/album/7tVjWJao2UMh0kluQBHVPy) | 1:57 | 2022-09-12 |  |
 | [We Don't Like You](https://open.spotify.com/track/08cdH83ZfXtkGphVBTmDEa) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [We Don't Like You](https://open.spotify.com/album/6YYArKrqw0tL9cG1y0Mr65) | 4:58 | 2022-07-08 | 2023-03-25 |
 | [Weightless](https://open.spotify.com/track/0U86hztiLpoyVjJiRVZxJF) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Weightless](https://open.spotify.com/album/6uruLBCnRc6Kd33Q1wJtbV) | 2:04 | 2023-01-20 |  |
-| [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-05-19 |  |
+| [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-05-19 | 2023-05-06 |
 | [What a day I](https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXIIVoid XXIIII](https://open.spotify.com/album/2RhfFJKxFTEVTOYlNcqELm) | 5:34 | 2022-05-19 |  |
 | [Your Way](https://open.spotify.com/track/6FDJwjtEaug5O8F8R1j5A4) | [Old Futures](https://open.spotify.com/artist/6GqHocik7Id2Em8f7Gv0Z1) | [Your Way](https://open.spotify.com/album/0k28sUPUtxguPEe9Ww9ruO) | 2:42 | 2022-07-22 |  |
 | [yuugata](https://open.spotify.com/track/65pNFP4VlE4PFKuEKbkpT4) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Soyogu](https://open.spotify.com/album/0udr94g55aVGIq8zXy60X7) | 3:02 | 2023-04-28 |  |
+| [zatu](https://open.spotify.com/track/4scwisvOsvaFPIxPwNsirE) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kansei](https://open.spotify.com/album/1BbrCC1XoKHkJF8Bwkp1wp) | 3:02 | 2023-05-05 |  |
 | [Zenith](https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 3:01 | 2023-03-03 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

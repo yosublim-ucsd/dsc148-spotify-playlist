@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: OH MY GIRL\(오마이걸\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: tripleS \(트리플에스\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-340 songs - 19 hr 11 min
+341 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Catch the Stars](https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Catch the Stars](https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk) | 3:20 | 2022-01-04 | 2022-07-29 |
 | [Changed Number](https://open.spotify.com/track/1L0kL5aaG3tUwbHECFbdB4) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Changed Number](https://open.spotify.com/album/5bYChUxAMA4r6U8dGwkyFq) | 3:28 | 2022-07-05 | 2022-07-20 |
 | [CHEER UP](https://open.spotify.com/track/1D7e4LrjdB4mKaI9XYrmPY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/1AHK0VYfnND7mAiZ5VneXG) | 3:28 | 2021-11-29 | 2022-07-26 |
+| [Cherry Talk](https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [+\(KR\)ystal Eyes <AESTHETIC>](https://open.spotify.com/album/5GNSmUrJmZvgBvouXS8ZGp) | 2:51 | 2023-05-05 |  |
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-11-29 | 2022-08-14 |
 | [Chillin' Chillin'](https://open.spotify.com/track/5RwUH2QDC6BIZlesRkQKxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:26 | 2021-11-29 | 2022-07-29 |
 | [Chococo](https://open.spotify.com/track/3uJiBnEDBji3kNOA22exfL) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.3 Chococo Factory](https://open.spotify.com/album/4FcriwGRWvBmjw1NYD87dO) | 3:40 | 2021-11-29 | 2022-05-02 |
@@ -178,7 +179,7 @@
 | [Mi\-myo Mi\-myo](https://open.spotify.com/track/3tW9Gbkdgzh1L5UHzpXUiX) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 4th Mini Album Heal](https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX) | 3:02 | 2021-11-29 | 2022-07-29 |
 | [MIL \(Make it love\)](https://open.spotify.com/track/1rraEPDPhjZT3SEIM0hFAY) | [Song Ji Eun](https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8) | [Dream](https://open.spotify.com/album/70SUj1ZtGPnWyL72iQhTyC) | 3:21 | 2021-11-29 | 2022-05-31 |
 | [Miracle](https://open.spotify.com/track/4vFgYhZDcv3ociO2QI5qAd) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:42 | 2021-11-29 | 2022-07-26 |
-| [Miracle](https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Miracle](https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS) | 3:19 | 2023-04-24 |  |
+| [Miracle](https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Miracle](https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS) | 3:19 | 2023-04-24 | 2023-05-06 |
 | [Miracle](https://open.spotify.com/track/3nfJEBbHVCJHj1Kn5WIx1r) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:43 | 2022-02-09 | 2022-06-23 |
 | [Mojito](https://open.spotify.com/track/7qCfSyTqh4xGeua7hQXT0Z) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:04 | 2021-11-29 | 2022-04-21 |
 | [MOLAE MOLAE](https://open.spotify.com/track/2arh49ZwNDv1t9srQkjK5z) | [I.B.I](https://open.spotify.com/artist/1R5iQMzT9jP5DIzVGPmWy6) | [MOLAE MOLAE](https://open.spotify.com/album/6f6rGWFfTL83eWvqcY9pEw) | 3:49 | 2022-03-29 | 2022-04-20 |

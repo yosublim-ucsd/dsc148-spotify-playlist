@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,662 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,702 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Midnight In Memphis](https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps) | [Curtis Baker & The Bravehearts](https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR) | [Midnight In Memphis](https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60) | 3:07 |
 | 80 | [Homesick's Shuffle](https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Blues On The South Side](https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC) | 4:14 |
 
-Snapshot ID: `MCxkOTYyMzc0NTljZGFmZjYzNmMwMTQ5Y2MyZGMzZDkxYzFiMTk1NmU0`
+Snapshot ID: `MCxhNTI3Y2E4ZjBlNTFkMWVjNjg3MjJiM2E0N2NkNzY3NGE2YWNlYmFm`

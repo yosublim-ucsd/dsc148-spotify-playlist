@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,914 likes - 80 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,107 likes - 80 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
 | 80 | [Open Sesame \- Original 12" Extended Version](https://open.spotify.com/track/6byGMdwFLHl4KNAk9i7Dom) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Open Sesame \(Expanded Edition\)](https://open.spotify.com/album/1W97hgeJQ5c9DyX1PvNXXn) | 8:44 |
 
-Snapshot ID: `MCxiYWMxMzk4MGFmZjdiZDI5YjMxZjkyODk5MTdmZDQ4YzUwMzlhZjQ0`
+Snapshot ID: `MCxkM2VmMjRkY2U2Y2NmYzUwM2U1MjQ2OTRiYmUxODk5MDgzNjAxYjMw`

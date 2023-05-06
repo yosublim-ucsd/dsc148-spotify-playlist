@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "I Found A Place In My Heart",
+        "url": "https://open.spotify.com/album/6gQRIuxmGLeFzNCbJF4kM5"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185106,
+      "name": "I Found A Place In My Heart",
+      "url": "https://open.spotify.com/track/2JMcnVo0GurJvj5BF6APuY"
+    },
+    {
+      "album": {
         "name": "Blue Again",
         "url": "https://open.spotify.com/album/5mIuCWBG1unPCj6YKTF16O"
       },

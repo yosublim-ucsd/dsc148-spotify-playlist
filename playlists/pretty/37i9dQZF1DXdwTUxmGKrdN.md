@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,958 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,074 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 99 | [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 |
 | 100 | [BLUE MOON](https://open.spotify.com/track/4Nq3SI3SNpsnxwlkaHYL94) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Blue Moon](https://open.spotify.com/album/7nl0iSPHwSEh0K2q27Ba15) | 3:44 |
 
-Snapshot ID: `MCwzZDk3ZWRkNDFmZTQ1NWM0ZTUwNTE4ZTFkM2UyYmUyZmM5YjAxNDZl`
+Snapshot ID: `MCwzODQxNmNmYmQ1ZDkxNThkZGVkNGJhOWUwNjQ5MjA0YWJmYWQzYTQ3`

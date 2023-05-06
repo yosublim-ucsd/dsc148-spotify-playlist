@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s\. Cover: Tom Waits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,840 likes - 150 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,240 likes - 150 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [Sad Eyes \- Remastered 2002](https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Classic Masters](https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo) | 4:13 |
 | 150 | [Sail On](https://open.spotify.com/track/2XMjijS8aVAP1ztyNpVEy8) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o) | 4:00 |
 
-Snapshot ID: `MCwzMTNhNjlkZWU2YTExZDZjODM0MzY5NjBiMjZmNWVlNmJiODQyOWMx`
+Snapshot ID: `MCw0Yjg3Y2JhMzcwZWYxZmFmN2IxZjFlNGZiYTE1MWJiMWZmZTM5NGQy`

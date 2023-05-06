@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,237 likes - 61 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,440 likes - 61 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 48 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
 | 49 | [Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/6StjE2hce01PzynfEkfKvo) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Anna Vinnitskaya](https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr) | [Ravel: Miroirs, Gaspard de la nuit, Pavane](https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh) | 6:29 |
 | 50 | [Nocturne No\. 1 in E Flat Major, H.24](https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Elizabeth Joy Roe](https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs) | [Field: Complete Nocturnes](https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub) | 3:41 |
-| 51 | [4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio \- Musical Moments](https://open.spotify.com/track/3OqFVW82OYx3AvC2hO4Orz) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Brahms: 4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio \(Musical Moments\)](https://open.spotify.com/album/4vIC0euPV2pHGe1bHjPwze) | 4:05 |
+| 51 | [4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio](https://open.spotify.com/track/3OqFVW82OYx3AvC2hO4Orz) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Brahms: 4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio \(Musical Moments\)](https://open.spotify.com/album/4vIC0euPV2pHGe1bHjPwze) | 4:05 |
 | 52 | [Montero: Adagio \(After Bach's Violin Concerto No\. 2, BWV 1042\)](https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Gabriela Montero](https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr) | [Bach and Beyond](https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7) | 5:01 |
 | 53 | [Piano Sonata No\. 20 in A Major, D\. 959: II\. Andantino](https://open.spotify.com/track/2lZ4IicfSIP3e1vwUZ4MQj) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 8:55 |
 | 54 | [Schubert: Piano Sonata No\. 14 in A Minor, Op\. posth\. 143, D\. 784 "Grande Sonate": II\. Andante](https://open.spotify.com/track/6HbZbPPi4uFNtb4iZYfzzP) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eric Lu](https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC) | [Schubert: Piano Sonatas D\. 784 & 959](https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw) | 4:44 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 60 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 |
 | 61 | [Nocturne No\. 2 in C Minor](https://open.spotify.com/track/6cDytuMZ5Z4iMEhK65HiHL) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Benjamin Frith](https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X) | [Field: Piano Music, Vol\. 1](https://open.spotify.com/album/6M8FX7UmvvKWISfxVvxa40) | 3:43 |
 
-Snapshot ID: `MCw5Mjc1MmJjMDUyNzc0ODgwMTg1NWRlNzRjY2MwY2FiZmYxMWY3MTRl`
+Snapshot ID: `MCw4ODY4MTUwOTM1NDBhNjExMGQzYTJjM2M2NDNhODhhYTM1ZjljZGMx`

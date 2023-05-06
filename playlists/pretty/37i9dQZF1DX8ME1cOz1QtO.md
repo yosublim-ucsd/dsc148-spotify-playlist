@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,914 likes - 100 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,026 likes - 100 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Genesis](https://open.spotify.com/track/6foq1vyWppNQuytR8OgSbI) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh) | 5:16 |
 | 100 | [In the Beginning](https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 8:01 |
 
-Snapshot ID: `MCw2MDRjMjllNjNhYmYzMWYwNTI3MDJjZGMzMmI2ZmZlNDNiZDM4MzEw`
+Snapshot ID: `MCw0YzdmZGY5ODIwMDU1ZDA4MmVjZmRkZTY2ZGY1MThlZjZiNmQzNTQ1`

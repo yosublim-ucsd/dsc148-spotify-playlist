@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,672 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,819 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Amar y Querer \- Mariachi Bolero Cover](https://open.spotify.com/track/6mSDnbcXp12MBipY1w1amz) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ) | [Mi Corazón](https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI) | 2:54 |
 | 100 | [Esta Melodia](https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
 
-Snapshot ID: `MCwzYTcyNWQ3OGEwNjQ0ZDM4MDM1NjAxYTI5MTE0YjE3ZTM3OTNlMDk0`
+Snapshot ID: `MCxjNjcyNjI3MTA1MjA5YTZkMGM5OWFhNTk5MzA3YzIyZmQ2YjBkZmU0`

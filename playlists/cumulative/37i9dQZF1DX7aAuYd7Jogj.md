@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-320 songs - 15 hr 36 min
+321 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Ljusa Drömmar](https://open.spotify.com/track/5HkG3ZdLOVZQI4rpUdGZCa) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Ljusa Drömmar](https://open.spotify.com/album/2384yojNT2lobdTrGBbzuA) | 2:38 | 2023-04-06 |  |
 | [Looking Up](https://open.spotify.com/track/6WPhQfpJOY2elhjJHI27H5) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 2:32 | 2023-04-06 |  |
 | [Lucens](https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Lucens](https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY) | 2:18 | 2023-04-06 |  |
-| [Lucent](https://open.spotify.com/track/5rcisQspBrRUatImhKik05) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Lucent](https://open.spotify.com/album/3VICx82chKr8SCGA4AsyRg) | 2:45 | 2023-04-06 |  |
+| [Lucent](https://open.spotify.com/track/5rcisQspBrRUatImhKik05) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Lucent](https://open.spotify.com/album/3VICx82chKr8SCGA4AsyRg) | 2:45 | 2023-04-06 | 2023-05-06 |
 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 | 2023-04-06 |  |
 | [Luova](https://open.spotify.com/track/1fMnqF3hdQWXiC5Amb9EI0) | [Lumi Couri](https://open.spotify.com/artist/3lxrrGQ5yyzG43gu1ttAfP) | [Luova](https://open.spotify.com/album/1jg6KAF2cNqxqaeQnQ9AEI) | 2:04 | 2023-04-06 |  |
 | [Maglovito](https://open.spotify.com/track/6FGF4Cx7hxKHwSCojfGSAT) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Maglovito](https://open.spotify.com/album/54yMSCpwaBUBIwXoUuIsVd) | 2:10 | 2023-04-06 |  |
@@ -190,7 +190,7 @@
 | [Migla](https://open.spotify.com/track/0AY2x7N94uTmkYruyZDPKu) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Migla](https://open.spotify.com/album/1ImyklVXN9AtfPPDfRNYEH) | 2:00 | 2023-04-06 |  |
 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 | 2023-04-06 |  |
 | [Mind](https://open.spotify.com/track/7DvR34weBiIehUpND2sN6O) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:31 | 2023-04-06 |  |
-| [Mind Storm](https://open.spotify.com/track/5kVu56keqlvhaeTbpaKKLM) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Ovnimoon](https://open.spotify.com/album/0NtzOmiqujYbHomKllzUVg) | 3:39 | 2023-04-06 |  |
+| [Mind Storm](https://open.spotify.com/track/5kVu56keqlvhaeTbpaKKLM) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Ovnimoon](https://open.spotify.com/album/0NtzOmiqujYbHomKllzUVg) | 3:39 | 2023-04-06 | 2023-05-06 |
 | [Mirno](https://open.spotify.com/track/21YSyRy6GIFkbzIoWHLbhD) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Mirno](https://open.spotify.com/album/4RAtKiZLrOx2b2PjBQjXKb) | 2:57 | 2023-04-06 |  |
 | [Mist](https://open.spotify.com/track/1cDxN422npw3wU2ZfY6Qb9) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [Mist](https://open.spotify.com/album/2U7MoXvOHyKZorf993LEDt) | 2:58 | 2023-04-06 |  |
 | [Mitigation](https://open.spotify.com/track/7CTMv3eJZ3mQ618kZWAb6f) | [Lorne Kroos](https://open.spotify.com/artist/6Wk6weno4MPG3dutdTNbDD) | [Mitigation](https://open.spotify.com/album/6CqhHR1DRyQHasTVtE7aHN) | 3:31 | 2023-04-06 |  |
@@ -276,9 +276,10 @@
 | [Soundness](https://open.spotify.com/track/45rdJZmlX5VNVcBEqEO89p) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Soundness](https://open.spotify.com/album/4uSscDI9dHSSI62hpoaHCp) | 3:05 | 2023-04-06 |  |
 | [Space Time](https://open.spotify.com/track/0YVdFZrT5wVUwSVM0AbleK) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Space Time](https://open.spotify.com/album/2WGPJT3FrXeqHGQPlaHpYk) | 2:23 | 2023-04-06 |  |
 | [Spherical](https://open.spotify.com/track/3MQfkUkcA1jnEkPkUiKz97) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Spherical](https://open.spotify.com/album/0dWpbhQ9zv1XzWGeJV7OZT) | 4:11 | 2023-04-06 |  |
+| [Spiritual](https://open.spotify.com/track/1aZQokBzBRVdm8d24yPi8P) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Spiritual](https://open.spotify.com/album/1pgpTTjwE9HEdkK9RYQ2VG) | 3:18 | 2023-05-05 |  |
 | [Spiritus](https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Spiritus](https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm) | 2:27 | 2023-04-06 |  |
 | [Stelle](https://open.spotify.com/track/2akxDSUjKxkwuRfuc6HFNH) | [Tiziano Magro](https://open.spotify.com/artist/5i3UTUN8b39fBrRIHfQ9H4) | [Stelle](https://open.spotify.com/album/3gATwUG713NmNIrhkYek6P) | 3:22 | 2023-04-06 |  |
-| [Stelle Cadenti](https://open.spotify.com/track/2pG52ugtKo9cMmlRlaMkdu) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Stelle Cadenti](https://open.spotify.com/album/18umpfdQGdiMjHZcZmgjDs) | 3:25 | 2023-04-06 |  |
+| [Stelle Cadenti](https://open.spotify.com/track/2pG52ugtKo9cMmlRlaMkdu) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Stelle Cadenti](https://open.spotify.com/album/18umpfdQGdiMjHZcZmgjDs) | 3:25 | 2023-04-06 | 2023-05-06 |
 | [Sterrenhemel](https://open.spotify.com/track/1DOG1X3H2A6g6WN5ZQTLaR) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Sterrenhemel](https://open.spotify.com/album/7EfM8IWUS29TfNUC8m2uN8) | 3:16 | 2023-04-06 |  |
 | [Still Moon](https://open.spotify.com/track/019BTPndXWHWyntcFBe2ch) | [Evening River](https://open.spotify.com/artist/3wGGwYmEP3wlM4LtCk5ek0) | [Still Moon](https://open.spotify.com/album/2uXe9u5VBn7YJnVObvSZUM) | 2:27 | 2023-04-06 |  |
 | [Stillheten](https://open.spotify.com/track/45NfL9LFXSj9WpuHkfixOR) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Stillheten](https://open.spotify.com/album/2UiL0eVQ2zO02S9vyxoCEZ) | 2:34 | 2023-04-06 |  |

@@ -2,9 +2,9 @@
 
 ### [Norteñas con Sax](https://open.spotify.com/playlist/37i9dQZF1DWSRuK6ajtwlC)
 
-> A levantar polvadera con lo mejor de la música de sax\. Los Vendavales de Adán Melendez en portada.
+> A levantar polvadera con lo mejor de la música de sax\. La Fiera de Ojinaga en portada.
 
-80 songs - 4 hr 19 min
+82 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 | 2023-03-06 |  |
 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 | 2023-03-06 |  |
 | [De Mañana en Ocho Dias](https://open.spotify.com/track/28GDYBPOsxPp0Si7cYd2wZ) | [Capitanes De Ojinaga](https://open.spotify.com/artist/2cNbtpKKQpwlpltBlTPctQ) | [Volando Hacia Ti](https://open.spotify.com/album/3jZIqx45s0A2gpGp2LOQoh) | 3:06 | 2023-03-06 |  |
-| [Disfruto](https://open.spotify.com/track/0htrqb7HRnPxXB7fWXDR5c) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Conquistando Tu Corazon](https://open.spotify.com/album/3nsgZwGfyP2XsDHf0y7BeR) | 2:45 | 2023-03-06 |  |
+| [Disfruto](https://open.spotify.com/track/0htrqb7HRnPxXB7fWXDR5c) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Conquistando Tu Corazon](https://open.spotify.com/album/3nsgZwGfyP2XsDHf0y7BeR) | 2:45 | 2023-03-06 | 2023-05-06 |
+| [Duele De A Madre](https://open.spotify.com/track/0TkQ3zCOFNJCmB8dYj2i47) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Duele De A Madre](https://open.spotify.com/album/0drIr1wTxVUeQmpu6pYHdv) | 2:55 | 2023-05-05 |  |
 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 | 2023-03-06 |  |
 | [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-14 |  |
 | [El Condor Pasa](https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia) | [Contrabandistas de San Luis](https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb) | [El Condor Pasa](https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx) | 3:28 | 2023-03-06 |  |
@@ -62,6 +63,7 @@
 | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2023-03-06 |  |
 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 | 2023-03-06 |  |
 | [Ojos Marrones](https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Ojos Marrones](https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb) | 2:43 | 2023-03-06 |  |
+| [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 | 2023-05-05 |  |
 | [Piquetitos](https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Un Sueño](https://open.spotify.com/album/3Qx23oTyQnS2tYthd6ihEs) | 3:08 | 2023-03-06 |  |
 | [Pídeme](https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Pídeme](https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t) | 3:27 | 2023-03-06 |  |
 | [Quiero Saber de Ti](https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Nunca Imaginé](https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL) | 3:52 | 2023-03-06 |  |
@@ -87,6 +89,6 @@
 | [Ya Fue Suficiente](https://open.spotify.com/track/6DxehmTpQ7gPuQzIl4oJ67) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso \(Deluxe\)](https://open.spotify.com/album/53WBc1wQGoVpcMAUvdMzvS) | 2:40 | 2023-03-06 |  |
 | [Yo te quiero](https://open.spotify.com/track/5eCr4lBfPoWX7dFYRvac4R) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Yo te quiero](https://open.spotify.com/album/5BJrBgjDmG9ARd4ECAmYiW) | 2:47 | 2023-04-14 |  |
 | [¿De Qué Me Perdí?](https://open.spotify.com/track/1kbH8U4omcQFkgqRGfGiGs) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [¿De Qué Me Perdí?](https://open.spotify.com/album/2MJH3I5JcPmcFR9NyTfGiG) | 3:29 | 2023-04-14 |  |
-| [¿Qué Estás Esperando?](https://open.spotify.com/track/3bVsodddPYMjrnhxgj7EA7) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [¿Qué Estás Esperando?](https://open.spotify.com/album/7MYz39F21zsCRqRl1DKxMB) | 3:43 | 2023-03-06 |  |
+| [¿Qué Estás Esperando?](https://open.spotify.com/track/3bVsodddPYMjrnhxgj7EA7) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [¿Qué Estás Esperando?](https://open.spotify.com/album/7MYz39F21zsCRqRl1DKxMB) | 3:43 | 2023-03-06 | 2023-05-06 |
 
 \*This playlist was first scraped on 2023-03-11. Prior content cannot be recovered.

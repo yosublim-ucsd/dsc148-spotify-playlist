@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,492 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,802 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
 | 150 | [Blue Moon With Heartache](https://open.spotify.com/track/4TDX7TaAUcdb7Emfgh5Vif) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Essential Rosanne Cash](https://open.spotify.com/album/0Ko0hOl571b8Z2HWdzNCCc) | 4:26 |
 
-Snapshot ID: `MCw1NjM3MjNmNWM2Zjk2MGM2YTZhMjViYjhiNTM5ZWZkYTdjYTYzYWYw`
+Snapshot ID: `MCw1OTMyOWVjNzE0NTY3MDQ3NjU5MTMyYzM0ZjgwNjEzODFmNjdmNmQz`

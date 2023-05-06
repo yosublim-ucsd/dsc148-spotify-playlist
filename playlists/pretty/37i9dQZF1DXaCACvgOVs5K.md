@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2023\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,879 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,104 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Feel The Vibe](https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Astrotrax](https://open.spotify.com/artist/0a2I09UQdWzcaUNwdjSjuc), [Shola Phillips](https://open.spotify.com/artist/28sPI1wCY2agHaLPz2Y5O3) | [Feel The Vibe](https://open.spotify.com/album/4jsHIqSscZmgLYIet5ikbm) | 3:05 |
 | 100 | [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 |
 
-Snapshot ID: `MCw0Y2EyZTU1MjQ0ZDM0ZTNiZWMxOTA2MTdmNzAxYmM3MzY3OWM0YzU4`
+Snapshot ID: `MCwzNzE3ZTg2MWYwYmJlOWE2MDliZmUwNGYyNGZmYzQ3ODJjZGI4M2M2`

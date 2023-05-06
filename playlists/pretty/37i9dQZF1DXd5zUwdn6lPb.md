@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,308 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,449 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 99 | [Invention No\. 1 in C Major, BWV 772](https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Simone Dinnerstein](https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ) | [Bach: Inventions & Sinfonias](https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr) | 1:28 |
 | 100 | [Lute Suite in E Minor, BWV 996: III\. Courante \- Arr\. for Harp](https://open.spotify.com/track/0DqjFJY7PF2f7lwO4n5pE3) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Isabelle Perrin](https://open.spotify.com/artist/6I57k3VAHWPm8e7TD7Nxp3) | [Bach: Isabelle Perrin & Shigenori Kudo](https://open.spotify.com/album/0uXYCRIhNHLApjONURxZC9) | 2:27 |
 
-Snapshot ID: `MCxlYTRlMWUzZTc4YTIwN2I3NTY4Zjc5ZDM3MjZhZjI4ZWMyYzNjMjg1`
+Snapshot ID: `MCwxZTU1MGEzYjJkMGQ1YzE2YjI4OTllZGEwZDY5N2RhNjViNDYyNGZl`

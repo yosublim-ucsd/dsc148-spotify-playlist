@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,849 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,847 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [All About Christ](https://open.spotify.com/track/4ALHLGk4L3iJ1FsaHbnQWu) | [Jevon Brock and Restoration](https://open.spotify.com/artist/1HUj4pDexJbZLp2D8s9zBr) | [All About Christ](https://open.spotify.com/album/3rmvbkeXmb9eTQOj26Hg6t) | 3:21 |
 | 100 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 |
 
-Snapshot ID: `MCxjMDlmODdhYzU4MTUwNTIxYThlMTlkNDcyMjE5MTAyYjkwYmVlYzg5`
+Snapshot ID: `MCxlZGE5YWUyMjk0MWE3MWQwNWYzNjY2MjVhYTU3MDhlZGRhOTNkMmY5`

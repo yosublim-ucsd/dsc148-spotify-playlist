@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,996 likes - 157 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,067 likes - 157 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 100 | [11Pm\. Brilla](https://open.spotify.com/track/04040bSQ8gNzSmxuY8fU11) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [11Pm\. Brilla \(Dreaming of Chopin\)](https://open.spotify.com/album/4WA7u4WEccPGhEIpg34KGq) | 4:10 |
 | 101 | [Letters](https://open.spotify.com/track/4wNj7wubtz1KnGaFg2VwcU) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:01 |
 | 102 | [one way](https://open.spotify.com/track/4W2432JBzc5yujNBQOinng) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [one way](https://open.spotify.com/album/1e4qJMNCZwSH001bUM0kuz) | 2:44 |
-| 103 | [Gjeilo: Montana](https://open.spotify.com/track/7HfApg345Hbu3WKIt8MsKO) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Montana](https://open.spotify.com/album/6tEduNgtPFw3KLQaro4cXC) | 2:51 |
+| 103 | [Montana](https://open.spotify.com/track/7HfApg345Hbu3WKIt8MsKO) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Montana](https://open.spotify.com/album/6tEduNgtPFw3KLQaro4cXC) | 2:51 |
 | 104 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 |
 | 105 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 |
 | 106 | [Mundo Flotante](https://open.spotify.com/track/0SCWfuvd3vqNmUM3rJvGoK) | [Sergio Díaz De Rojas](https://open.spotify.com/artist/0dhkL5V7ldKvybgSy3ps27) | [Mundo Flotante](https://open.spotify.com/album/0hdsXfp4q6bVkqu7mnzYLH) | 2:24 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 156 | [Last Waltz](https://open.spotify.com/track/1LJHL7STYRtnth0VHkANFf) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Last Waltz](https://open.spotify.com/album/3NyiAsTrnAgIWmWyw60mgb) | 2:34 |
 | 157 | [Bastille](https://open.spotify.com/track/7BHadNj1tyvcUUtwAyaQMJ) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Bastille](https://open.spotify.com/album/3mIBkkGxrGtbHmCgKvDnDa) | 2:15 |
 
-Snapshot ID: `MCxmNmEyMWMzY2M0MjE0MWJiNGVhNTc4YThmNmJkMzcwNWZjNTlhYTAz`
+Snapshot ID: `MCxjYWZlNzM5MTYxOWZkYTcyZWU0YzExZGExNTNjYWQ0ZjYyYWFkNWVi`

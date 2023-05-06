@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Mishaal Tamer
 
-263 songs - 14 hr 51 min
+264 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Rien](https://open.spotify.com/track/4KP2aiFQnMQLpY80rveHki) | [Mehdi Bahmad](https://open.spotify.com/artist/2JSanFrSbCNhXIolgRbW9T) | [Rien](https://open.spotify.com/album/52Yfa90MAL7z1dG979wDx9) | 3:07 | 2021-12-16 | 2022-10-09 |
 | [Right There](https://open.spotify.com/track/06Xzb5VNN5wE9MWNEF84Fa) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/5GsOXbdCXVhIemXulDWOM9) | 3:59 | 2021-12-16 | 2021-12-31 |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-04-01 |  |
+| [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 | 2023-05-05 |  |
 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 | 2022-12-07 | 2023-04-28 |
 | [Sad Baby](https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Sad Baby](https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9) | 3:40 | 2022-07-07 | 2022-12-08 |
 | [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 | 2022-03-11 | 2022-12-08 |
@@ -245,7 +246,7 @@
 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 | 2021-12-16 | 2022-10-09 |
 | [Twelve](https://open.spotify.com/track/3fr2NOC3yBbxVM4KcqJBcK) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Twelve](https://open.spotify.com/album/1AFZIJkmFj6Di2wYT8hThy) | 2:48 | 2022-07-28 | 2022-11-20 |
 | [Twelve](https://open.spotify.com/track/3ncLkot0E2tpDHlSnmbcIV) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Twelve](https://open.spotify.com/album/3cbxwt8iEKGzd6IFOh6tTX) | 2:48 | 2021-12-16 | 2022-07-29 |
-| [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 | 2022-02-25 |  |
+| [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 | 2022-02-25 | 2023-05-06 |
 | [Us Against the World](https://open.spotify.com/track/4kic2zBTI9CWmtEfYsyOf6) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Us Against the World](https://open.spotify.com/album/3HEULxDbM2NTlTKZwogrpP) | 3:41 | 2021-12-16 | 2022-11-20 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-19 | 2023-03-09 |
 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,284 likes - 61 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,341 likes - 61 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Music for the Royal Fireworks, HWV 351: III\. La Paix\. Largo alla Siciliana](https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Pierre Boulez](https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Handel: Water Music; Royal Fireworks Music \- Expanded Edition](https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH) | 4:34 |
 | 61 | [Gideon, Pt\. 3: Air\. Let the Trumpet's Sound Inviting](https://open.spotify.com/track/6mEr3K1z35IBp0U80Mr9Yg) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [David Cordier](https://open.spotify.com/artist/7c3xuGGE9BOGOaefba2Jqt), [Barbara Hannigan](https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq), [Stephan MacLeod](https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY), [Linda Perillo](https://open.spotify.com/artist/38WMUWJLSoiJvA8geyx1GS), [Knut Schoch](https://open.spotify.com/artist/7wRKUyRFa78oIENRaZhPtA), [Nicola Wemyss](https://open.spotify.com/artist/5I2BCNklyqXTXRFu8ImG0I), [Junge Kantorei](https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO), [Barockorchester Frankfurt](https://open.spotify.com/artist/1G9LByHgxIytuQs7L9u2rC), [Joachim Carlos Martini](https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp) | [Handel: Gideon \(Compiled and Arr\. by J\. C\. Smith\)](https://open.spotify.com/album/4wJY8J6zZCwbkz2m6h63MQ) | 4:21 |
 
-Snapshot ID: `MCwxMjQ0NWUyYTc2NTU5ZTkzMjJhYzQ0MWVmY2JiZmMzMzExYjBmNjNh`
+Snapshot ID: `MCw2YTYwZGRkNTdjMGYxOGNlMGVlZTIxZjkxZTQ4MTE5NjlmZGIxNTk4`

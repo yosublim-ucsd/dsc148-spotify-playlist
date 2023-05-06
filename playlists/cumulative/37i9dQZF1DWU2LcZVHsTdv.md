@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Kane Brown
 
-185 songs - 11 hr 17 min
+186 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [God Moves The Pen](https://open.spotify.com/track/5OVyTSbqz288MkNbZf15rY) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition\)](https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53) | 3:41 | 2022-07-15 |  |
 | [God Moves The Pen](https://open.spotify.com/track/5vGfLxG7TJ0rzKvTPvwwCL) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [God Moves The Pen](https://open.spotify.com/album/2tWnJPE54AM7uJiZHaHSfo) | 3:41 | 2021-12-10 | 2022-07-29 |
 | [God Must Really Love Me](https://open.spotify.com/track/391V2jmxaLRwm5rqC2WJyR) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [That's Why](https://open.spotify.com/album/2yaPAemFbhH61a8w5VOWAt) | 3:41 | 2021-12-10 |  |
+| [God Plays a Gibson](https://open.spotify.com/track/6Ug6GZZzefggGWig5j2vxM) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:31 | 2023-05-05 |  |
 | [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 | 2022-04-01 |  |
 | [God's Been Good To Me](https://open.spotify.com/track/6Ieljz21ViDbNsGkI91lKT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:38 | 2021-12-10 |  |
 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 | 2021-12-10 |  |

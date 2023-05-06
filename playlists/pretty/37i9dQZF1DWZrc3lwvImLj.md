@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad and moody piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,042 likes - 210 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,127 likes - 210 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 76 | [Reverie](https://open.spotify.com/track/2qmYLGvjNm4PlS1p786Xfr) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Reverie](https://open.spotify.com/album/69qZp1tfgNgDPU0M5PtO37) | 4:16 |
 | 77 | [For Annemieke](https://open.spotify.com/track/6d8UCO1LCZUsDRUcN2hBUs) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [For Annemieke](https://open.spotify.com/album/5WZbdzE2PigFpUn4IpwEe1) | 2:12 |
 | 78 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 |
-| 79 | [Gjeilo: Eternity](https://open.spotify.com/track/77Ou8ploPVp1uIrw6YJttx) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Eternity](https://open.spotify.com/album/4LZCr4GDptLhBau8gLAE4s) | 1:45 |
+| 79 | [Eternity](https://open.spotify.com/track/77Ou8ploPVp1uIrw6YJttx) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Eternity](https://open.spotify.com/album/4LZCr4GDptLhBau8gLAE4s) | 1:45 |
 | 80 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 |
 | 81 | [Ruhevoll](https://open.spotify.com/track/3a29LVdJdkqOBNDFnbbqJN) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ruhevoll](https://open.spotify.com/album/3KxGRGWUmnauKY3wXDGqtV) | 2:19 |
 | 82 | [Nuxe](https://open.spotify.com/track/6h0V5bM7dDmwvrrmqHVlPE) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:18 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 103 | [Another Time](https://open.spotify.com/track/4D3yNko56x9TtQgVBKkxRl) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Another Time](https://open.spotify.com/album/2jeYw4SEjdiEUnCanJ2gIr) | 2:32 |
 | 104 | [Frühling](https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Frühling](https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb) | 2:19 |
 | 105 | [Faith](https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P) | [Oscar Grönborg](https://open.spotify.com/artist/6oelQEIUrYRIGVxWcFmtwn) | [Faith](https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE) | 2:00 |
-| 106 | [Bowden: On The Hills](https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [On The Hills](https://open.spotify.com/album/3axzEVHVEU6UL2aqpMcyuC) | 1:52 |
+| 106 | [On The Hills](https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [On The Hills](https://open.spotify.com/album/3axzEVHVEU6UL2aqpMcyuC) | 1:52 |
 | 107 | [Berceuse Lunaire](https://open.spotify.com/track/0zmrJp1U0cMtlYPmYw8nQU) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/16LXWruj5pIr0cJ9dVntNL) | 2:53 |
 | 108 | [Au lecteur curieux](https://open.spotify.com/track/4pKj48uAM0lhxKdg74zJBw) | [Meara Meloquin](https://open.spotify.com/artist/2r3IU74miMmV4b9Qm9kp37) | [Au lecteur curieux](https://open.spotify.com/album/3I68HnQ0IGVaJ6qvXhWeSu) | 2:23 |
 | 109 | [Dear](https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dear](https://open.spotify.com/album/6WtvQb9SmGvC3Gg7Jc0vDk) | 1:56 |
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 133 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 |
 | 134 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 |
 | 135 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 |
-| 136 | [Lobe: The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 |
+| 136 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 |
 | 137 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 |
 | 138 | [La lune](https://open.spotify.com/track/4vuX4bbfayOyWpOYswDBGo) | [Remko Kühne](https://open.spotify.com/artist/6LNkjwPSnLW93YeQz777zC) | [La lune](https://open.spotify.com/album/2xLVugO9GUd9UerwgD5ABB) | 4:27 |
 | 139 | [Home](https://open.spotify.com/track/7xYFoMTtdlx2GmK0sopL0T) | [Adrian Kuipers](https://open.spotify.com/artist/4qA8zZoA4L4YLpJTjgpIwi) | [Home](https://open.spotify.com/album/0v8ArMlSc9QCkB9rTfKPOs) | 3:57 |
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 154 | [Semplice](https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Semplice](https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW) | 2:21 |
 | 155 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 |
 | 156 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 |
-| 157 | [Moux: heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
+| 157 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
 | 158 | [Sværmer](https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Sværmer](https://open.spotify.com/album/5VRsA8TwmgXTgTgDBuHnP6) | 2:18 |
 | 159 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 |
 | 160 | [Once I saw the northern lights](https://open.spotify.com/track/5F0xQGBmdcmcm3bpvHNIt9) | [Bruno Engel](https://open.spotify.com/artist/0Sb2aOfzhbp5opi1w083TP) | [Once I saw the northern lights](https://open.spotify.com/album/4PxukojNA6yqMB3rB17Sda) | 3:34 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 209 | [À Cheval](https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [À Cheval](https://open.spotify.com/album/4S05QzDmpuZ5DvZiod7p27) | 2:54 |
 | 210 | [Waltz For Olivia](https://open.spotify.com/track/5OPVL9eRJePaHRxuULUGju) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:40 |
 
-Snapshot ID: `MCw0M2M0OWUyYTg0M2Q3MjViYzI4YjZhZGQ2OWJiNTExNGUzYWY0ZmNk`
+Snapshot ID: `MCxjYTlhMWFmMzkwNzAyNWQzM2RjZTU2YzUwZGI3ZGM2OTdiNjI1MTYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Yoon Jiyoung\(윤지영\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,786 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,794 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [In My Garden](https://open.spotify.com/track/5IKqWeB2TLj8aCwBpE5ila) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [In My Garden](https://open.spotify.com/album/6pOsJOh8sEaVBmObEI9ArK) | 3:42 |
 | 50 | [U\-Turn](https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 1:18 |
 
-Snapshot ID: `MCxhNjBjM2YwZDQyN2Y2MGYzM2QzNDVkNGIzZjJjY2MxZjdlNDI2YTg1`
+Snapshot ID: `MCwwMzM2NjNiM2IyM2Y2Y2VjNzA1Yjg3NjFmNTZjYjMyZGQ4OTUzZTdm`

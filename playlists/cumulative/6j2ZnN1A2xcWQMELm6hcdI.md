@@ -4,7 +4,7 @@
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Chlöe
 
-245 songs - 12 hr 4 min
+250 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 | 2022-08-31 |  |
 | [Black Mascara.](https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Black Mascara.](https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb) | 4:01 | 2022-08-26 |  |
 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2022-06-03 | 2022-11-05 |
+| [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-05-05 |  |
 | [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-24 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-06-03 |  |
 | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y) | 3:12 | 2022-06-03 |  |
@@ -68,6 +69,7 @@
 | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 | 2023-02-17 |  |
 | [ELEMENT](https://open.spotify.com/track/5AU9zzH93rIhScxS0mDCoh) | [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [INTERMISSION / ELEMENT](https://open.spotify.com/album/4WyBnMfIJdjPr58rUbZBWz) | 3:29 | 2023-04-28 |  |
 | [EMERGENCIA \- Presented by PlayStation, Horizon Forbidden West](https://open.spotify.com/track/5Fj753yCLyWL699hiiCgoJ) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EMERGENCIA \(Presented by PlayStation, Horizon Forbidden West\)](https://open.spotify.com/album/3gnyAB5RtdV38RCk7hW74R) | 3:43 | 2022-06-03 |  |
+| [Evangeline \- bedroom sessions](https://open.spotify.com/track/3uxcO1EhggfMxswMdcOMrc) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [Evangeline \(bedroom sessions\)](https://open.spotify.com/album/0eZjtTvS2HwKmUYJPvkc7f) | 3:09 | 2023-05-05 |  |
 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 | 2023-04-07 |  |
 | [F.R.A.](https://open.spotify.com/track/1G19L5PfO1tBVCTXlnk7Rp) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [F.R.A.](https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW) | 2:14 | 2022-06-03 | 2023-02-05 |
 | [Faces Change](https://open.spotify.com/track/1oC5DiAccEfq3fXUw7mDvY) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Playground Antics](https://open.spotify.com/album/3FBT0vTCbLIYCk9NIln76M) | 3:35 | 2022-06-03 | 2023-03-18 |
@@ -109,6 +111,7 @@
 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 | 2023-04-28 |  |
 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 | 2022-06-03 |  |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-04 |  |
+| [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 | 2023-05-05 |  |
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-10-28 |  |
 | [intoxicao](https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [intoxicao](https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye) | 2:48 | 2022-06-03 |  |
 | [It's Not My Fault](https://open.spotify.com/track/3P27Dj2AqFIyy6ExlstOVi) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [It's Not My Fault](https://open.spotify.com/album/4BIoui4ETt9gynD4XRx8sy) | 2:06 | 2022-06-03 | 2023-02-05 |
@@ -194,6 +197,7 @@
 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 | 2022-06-03 |  |
 | [Scooter](https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Scooter](https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV) | 2:08 | 2022-06-03 | 2023-02-05 |
 | [Selfish \(Single from Servant: Songs from the Attic\) \[Music from the Apple TV+ Original Series\]](https://open.spotify.com/track/5eflGphaYo98OB9jxAwT9r) | [Saleka](https://open.spotify.com/artist/7ESkOK8bwqIEVwerMPuwI7) | [Selfish \(Single from Servant: Songs from the Attic\) \[Music from the Apple TV+ Original Series\]](https://open.spotify.com/album/5VrwaE3ZDB6tqk9hX474aO) | 3:24 | 2023-02-25 | 2023-03-25 |
+| [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 | 2023-05-05 |  |
 | [Sex Lies \(feat\. Lil Baby\)](https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 | 2022-06-03 | 2022-11-05 |
 | [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 | 2023-02-04 |  |
 | [Sick of Me](https://open.spotify.com/track/3ehJ1kKAP9LhGEj8wG5nJ2) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Sick of Me](https://open.spotify.com/album/5af5mMb9yceMDcLXJWF6pZ) | 2:52 | 2023-02-17 |  |
@@ -253,5 +257,6 @@
 | [You Go Thru Girls Like You Go Thru Cigarettes](https://open.spotify.com/track/5OSwEi3DzckU2S5jBiLHp2) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [You Go Thru Girls Like You Go Thru Cigarettes](https://open.spotify.com/album/1Efk34AmrxQc7Ni0N2redn) | 3:42 | 2022-12-09 |  |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-06-03 | 2023-03-25 |
 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-13 |  |
+| [éxtasis](https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [éxtasis](https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk) | 3:05 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

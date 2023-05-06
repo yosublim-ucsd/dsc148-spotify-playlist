@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 246600,
       "name": "1000CANCIONES",
       "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217546,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Dime Algo",
+        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
+      },
+      "artists": [
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143639,
+      "name": "Dime Algo",
+      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
+    },
+    {
+      "album": {
         "name": "Diplomatico (feat. Guaynaa)",
         "url": "https://open.spotify.com/album/6CRX0BdKoJ270MvBcwyoXs"
       },
@@ -796,7 +814,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 249800,
       "name": "El Taxi",
       "url": "https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "FLORES",
       "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 158531,
       "name": "FULANITO",
       "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "Ghetto Star",
       "url": "https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 158297,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ"
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 180520,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
@@ -1756,6 +1774,48 @@
       "duration_ms": 259608,
       "name": "Le Encanta",
       "url": "https://open.spotify.com/track/2cX3Om7xlCQxKRYo1ofvOM"
+    },
+    {
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/33e6yT1LlR5bJPQPgeOuiQ"
+      },
+      "artists": [
+        {
+          "name": "Super Yei",
+          "url": "https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan"
+        },
+        {
+          "name": "Jone Quest",
+          "url": "https://open.spotify.com/artist/6wcKDqJRY3TzbcdRKo6EiE"
+        },
+        {
+          "name": "Towy",
+          "url": "https://open.spotify.com/artist/7iXYHQPYLQSz3b3hbPJpk3"
+        },
+        {
+          "name": "Osquel",
+          "url": "https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd"
+        },
+        {
+          "name": "Sammy & Falsetto",
+          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
+        },
+        {
+          "name": "Beltito",
+          "url": "https://open.spotify.com/artist/6TOKWuw816UU34AE4MCZqr"
+        },
+        {
+          "name": "Sammy",
+          "url": "https://open.spotify.com/artist/71FfEgML4GAokNHmW1GKPF"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260398,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/6r9NmQSzGdt1ydlMmGT9r2"
     },
     {
       "album": {
@@ -1938,7 +1998,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 249142,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
@@ -2070,7 +2130,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 202453,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau"
@@ -2144,7 +2204,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 141198,
       "name": "Me perdiste",
       "url": "https://open.spotify.com/track/1znPo0QYH2TeIBrOCSfrqI"
@@ -2244,7 +2304,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
@@ -2358,7 +2418,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 138209,
       "name": "Nebuleo (feat. DJ Blass)",
       "url": "https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z"
@@ -2446,7 +2506,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 162149,
       "name": "No Me Controles",
       "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
@@ -2490,7 +2550,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 257683,
       "name": "NOPALATELE",
       "url": "https://open.spotify.com/track/0gytcfGU4mtSfckMajYQS9"
@@ -2656,7 +2716,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 221646,
       "name": "Peli-Culeo - Remix",
       "url": "https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF"
@@ -2708,6 +2768,32 @@
     {
       "album": {
         "name": "Poblado",
+        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201596,
+      "name": "Poblado",
+      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
+    },
+    {
+      "album": {
+        "name": "Poblado",
         "url": "https://open.spotify.com/album/1pEYVdgQjapFkuC2MbSY2L"
       },
       "artists": [
@@ -2730,6 +2816,24 @@
       "duration_ms": 201596,
       "name": "Poblado",
       "url": "https://open.spotify.com/track/53mEVvqCCQ382wNAgG5cU7"
+    },
+    {
+      "album": {
+        "name": "Pol\u00e9mica",
+        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151718,
+      "name": "Pol\u00e9mica",
+      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
     },
     {
       "album": {
@@ -2778,7 +2882,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 212629,
       "name": "Prende la C\u00e1mara RMX",
       "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
@@ -2840,7 +2944,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 136746,
       "name": "Prr",
       "url": "https://open.spotify.com/track/5HtcoOKvjH5J0TeaZPUiQz"
@@ -2892,7 +2996,7 @@
       },
       "artists": [
         {
-          "name": "Natti Natasha",
+          "name": "NATTI NATASHA",
           "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
@@ -2902,7 +3006,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
@@ -2920,7 +3024,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 212312,
       "name": "Reggaetonera",
       "url": "https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH"
@@ -2942,7 +3046,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 231594,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
@@ -2960,7 +3064,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 163680,
       "name": "REMIX",
       "url": "https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW"
@@ -3022,10 +3126,32 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
+    },
+    {
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/1YbmBZvVgsebo2fDVM2tVY"
+      },
+      "artists": [
+        {
+          "name": "Brenda Aliendro",
+          "url": "https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0OVJibv9jDMMhMfnqUDLka"
     },
     {
       "album": {
@@ -3082,7 +3208,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
@@ -3184,7 +3310,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
@@ -3298,7 +3424,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
@@ -3368,7 +3494,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
@@ -3566,7 +3692,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"

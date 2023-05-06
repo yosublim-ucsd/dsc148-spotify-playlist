@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "All Her Favorite Songs (with Little Stranger)",
+        "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214753,
+      "name": "All Her Favorite Songs (with Little Stranger)",
+      "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
+    },
+    {
+      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/4ZO52CTQ2EzwDmAIrFjHaW"
       },
@@ -262,7 +284,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 193361,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi"
@@ -1013,6 +1035,28 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Give Up",
+        "url": "https://open.spotify.com/album/0eXCt4ux0K90cSV6Grsowd"
+      },
+      "artists": [
+        {
+          "name": "Of Good Nature",
+          "url": "https://open.spotify.com/artist/76TaiIXCKLs7UeOOwghV7c"
+        },
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234249,
+      "name": "Don't Wanna Give Up",
+      "url": "https://open.spotify.com/track/1NB5al467xC2Hknnx4JMn6"
+    },
+    {
+      "album": {
         "name": "Down With You - Single",
         "url": "https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT"
       },
@@ -1380,6 +1424,32 @@
       "duration_ms": 231976,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
+    },
+    {
+      "album": {
+        "name": "True Colour",
+        "url": "https://open.spotify.com/album/1cyOlB789kiQTJtkkv1Htn"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        },
+        {
+          "name": "Esoterik",
+          "url": "https://open.spotify.com/artist/09NAbswyxDbzblZovO1XcQ"
+        },
+        {
+          "name": "Scraps",
+          "url": "https://open.spotify.com/artist/4xKRehjx1as1IPImlKDta8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188304,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/2zwmQwHIlwDBbzMkdrG8rw"
     },
     {
       "album": {
@@ -1774,7 +1844,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 143856,
       "name": "I Like the Way You Roll (feat. Slightly Stoopid)",
       "url": "https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf"
@@ -1938,6 +2008,24 @@
       "duration_ms": 183694,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/0z420hy7N9l3zV0TVGvCiO"
+    },
+    {
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210573,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
     },
     {
       "album": {
@@ -3450,7 +3538,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214480,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"
@@ -3810,7 +3898,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 213280,
       "name": "The Game",
       "url": "https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje"

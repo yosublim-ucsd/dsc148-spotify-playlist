@@ -4,7 +4,7 @@
 
 > Les hits du moment sont ici\. Cover : Moha K, DYSTINCT
 
-164 songs - 9 hr 8 min
+165 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4 chiffres](https://open.spotify.com/track/5kV9rjO5C8ekF9vFGZdbcw) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Flou](https://open.spotify.com/album/67cpbnbv3A8dewZVqfHams) | 2:44 | 2022-05-12 | 2022-08-10 |
 | [Adios](https://open.spotify.com/track/1vKJzr4lZVR0Mc8tAjov7g) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Adios](https://open.spotify.com/album/1KClKLGPj7DvHflfSCE6U5) | 3:06 | 2022-05-12 | 2022-07-14 |
 | [Ajini](https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj) | 2:48 | 2023-03-16 |  |
+| [All Eyez On Me \- Gangsta Remix](https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [All Eyez On Me \(Gangsta Remix\)](https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS) | 2:45 | 2023-05-05 |  |
 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 | 2022-06-03 |  |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2023-01-18 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-25 | 2022-11-28 |
@@ -87,7 +88,7 @@
 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-05-12 | 2022-07-29 |
 | [Khalini](https://open.spotify.com/track/7vDAeo3f0EmI5ckfsMcI8b) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:02 | 2022-08-16 | 2022-12-10 |
 | [KIFKIF](https://open.spotify.com/track/0Ssdb1vqoW6w2eRgZT1Itp) | [Ali S Music](https://open.spotify.com/artist/5eOPZ5faFYHymqWmpg7c6m), [PROFIT ZA3IM](https://open.spotify.com/artist/48bjrojtnj3wjC1cSvGX9z) | [KIFKIF](https://open.spotify.com/album/3jc1hsgXkElhSuud62MDDt) | 3:44 | 2022-07-18 | 2022-07-24 |
-| [KIFKIF \- Remixed by Ali S](https://open.spotify.com/track/3GoQSJXtzbDtejWNADev6f) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or), [Profit Za3im](https://open.spotify.com/artist/1lgjg7Ws1qm4jojTua1nrn) | [KIFKIF](https://open.spotify.com/album/2UhLGCTnNMxR2Eyv2RorkV) | 3:44 | 2022-07-23 |  |
+| [KIFKIF \- Remixed by Ali S](https://open.spotify.com/track/3GoQSJXtzbDtejWNADev6f) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or), [Profit Za3im](https://open.spotify.com/artist/1lgjg7Ws1qm4jojTua1nrn) | [KIFKIF](https://open.spotify.com/album/2UhLGCTnNMxR2Eyv2RorkV) | 3:44 | 2022-07-23 | 2023-05-06 |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-17 | 2023-01-27 |
 | [Ksser Essouk](https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Ksser Essouk](https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh) | 5:26 | 2022-12-09 | 2023-01-01 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-11-09 |  |

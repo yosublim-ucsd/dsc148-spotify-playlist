@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,858 likes - 250 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,851 likes - 250 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 249 | [Chances](https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv) | [Cindy Bellamy](https://open.spotify.com/artist/0JfQYvUds4dA0p41jg1MD2) | [Chances](https://open.spotify.com/album/5qAEgI2u2QQ2zgk5XlR4WD) | 2:42 |
 | 250 | [Uprise](https://open.spotify.com/track/2Ys6Pl9WewP7ubO6kpevWI) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Uprise](https://open.spotify.com/album/7L1L6rmODWaSldjBga3fEl) | 2:19 |
 
-Snapshot ID: `MCwxNDg2MTU3ZWM1YmQwMWNiMjk3YTEzY2I4ZTdlZTYyMzMxZTAzMzgz`
+Snapshot ID: `MCxmOTExNGY5NmY1NzQyZTcyMjc0YzBjZGE3OGIyMjg4MWY3MmE3MGNi`

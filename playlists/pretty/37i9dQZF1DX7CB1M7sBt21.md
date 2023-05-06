@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 |
 | 80 | [Coffee \(Give Me Something\)](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Coffee \(Give Me Something\)](https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe) | 3:09 |
 
-Snapshot ID: `MCxlMzE4ZTIwMzQ5YTVmMzk5ODQ4N2MyOGE1ODg4OTQ0YzgyZGNmNGRl`
+Snapshot ID: `MCxiZGY4MDIzMjIxZGI2ZmJjNmExYjUwNzg0ZDAzYTI1Y2JiZDg1OTcw`

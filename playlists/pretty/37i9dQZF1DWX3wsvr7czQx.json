@@ -1,13 +1,29 @@
 {
   "description": "Icons only. Cover: Michael Bolton",
-  "num_followers": 9360,
+  "num_followers": 9372,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjBjMWY0NzJhYTk5NzI1Mzk0MTdlNmU3ZTI2ZjFkODQ0ZTlhZDg2",
+  "snapshot_id": "MCw3YTNlM2UyODg4ODYxZWFjNmE0NDE1MmYwYjZhNmJhNDcyN2RhMmY0",
   "tracks": [
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/3iAI36xSp4CxNOuddYICXX"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 182416,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/658sx2DDcxQFawG7EELEpC"
+    },
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 224463,
       "name": "What You Heard",
       "url": "https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Just The Beginning",
-        "url": "https://open.spotify.com/album/64zhv06ZKT442BXcPja3aE"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 205433,
-      "name": "Just The Beginning",
-      "url": "https://open.spotify.com/track/2fMw2LCmWiDVVGCqMIxVOs"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -107,6 +107,22 @@
       "duration_ms": 226488,
       "name": "Big Big Love",
       "url": "https://open.spotify.com/track/1bKccVkVv8Fww7g47ecGKA"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Just The Beginning",
+        "url": "https://open.spotify.com/album/64zhv06ZKT442BXcPja3aE"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 205433,
+      "name": "Just The Beginning",
+      "url": "https://open.spotify.com/track/2fMw2LCmWiDVVGCqMIxVOs"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -639,22 +655,6 @@
       "duration_ms": 221426,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Ride (Edit)",
-        "url": "https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Ride - Edit",
-      "url": "https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb"
     },
     {
       "added_at": "2021-10-22 04:02:00",

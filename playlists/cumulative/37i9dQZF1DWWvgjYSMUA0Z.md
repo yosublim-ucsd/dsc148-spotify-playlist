@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-149 songs - 8 hr 32 min
+151 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Forward](https://open.spotify.com/track/6fy6hBtZMY8sAjG8ynqUbV) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Forward](https://open.spotify.com/album/7Hp3Glq4Aoy8ubBEXCQtlj) | 2:33 | 2021-12-22 |  |
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2021-12-22 |  |
 | [Gemstone](https://open.spotify.com/track/7AVj2FdNkoVRGJMEQPmGaW) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Gemstone](https://open.spotify.com/album/0YonZJr6p64ujZmsEiUqjT) | 2:31 | 2023-01-09 |  |
+| [Glossed Over](https://open.spotify.com/track/14frsYzCdq6mDl6Gxd2C44) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Glossed Over](https://open.spotify.com/album/0Y7gEEr1DATRD28D9dmYxX) | 2:17 | 2023-05-05 |  |
 | [Hands of Love](https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 4:32 | 2022-01-14 |  |
 | [Healer](https://open.spotify.com/track/0s1wFa94M0alEVoQbaXQl3) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 2:55 | 2021-12-22 | 2022-03-30 |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2022-04-21 |  |
@@ -60,6 +61,7 @@
 | [Hearing the Harvest](https://open.spotify.com/track/5wReVVGFR9CyeJqVHGjFjV) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Garden Heart: Reworks](https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx) | 4:02 | 2022-09-20 |  |
 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 | 2021-12-22 |  |
 | [Illumination of the Heart](https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 9:41 | 2021-12-22 | 2022-06-25 |
+| [In Cycles](https://open.spotify.com/track/5vjKJnFZGJf3f1slK57JNp) | [Inez Wolde](https://open.spotify.com/artist/433Ic9GNVFmaxAQz46hIlu) | [In Cycles](https://open.spotify.com/album/1Z3fUgGPw0FrfL5rLQSzlO) | 2:49 | 2023-05-05 |  |
 | [In jouw armen](https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In jouw armen](https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm) | 3:10 | 2021-12-22 |  |
 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 | 2022-12-09 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2021-12-22 |  |

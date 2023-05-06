@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,196 likes - 100 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,224 likes - 100 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 99 | [The Peacocks](https://open.spotify.com/track/1yPQ2JxsmeE0E2KQqBnFEn) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [European Quartet: Introspection](https://open.spotify.com/album/7FQXxckwupKgu1XuqBTPhM) | 5:39 |
 | 100 | [My Ideal](https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [John Webber](https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Inspiration Suite](https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D) | 6:33 |
 
-Snapshot ID: `MCwwYjE3NmZiNTgwNjFhMzFhOTAyNzc0NzI1Yjk1OGMzMzFkNmQxNzdm`
+Snapshot ID: `MCxkNDkzNzRkMzJmODI4ZDU1YzQ0NWUxNzhlNzYwNThlODgyYjI3ZDM3`

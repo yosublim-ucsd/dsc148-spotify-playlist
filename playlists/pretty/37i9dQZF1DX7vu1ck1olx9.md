@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,089 likes - 82 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,118 likes - 82 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 |
 | 82 | [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 |
 
-Snapshot ID: `MCwxYjc1NmZiNmJjZGMzOGQxYTVlMjAwNTEzMWQyNDlhNzQwOTRiNmQz`
+Snapshot ID: `MCxiOTc4MWVhNmFjNTljOWZkOWQyNzRiNTU3NjJiMDI4YzljYzE1Zjgw`

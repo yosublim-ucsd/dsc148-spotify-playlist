@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Beat das Trevas [Slowed + Reverb]",
+        "url": "https://open.spotify.com/album/75fDow9Ssrsi6sQQqzjJuu"
+      },
+      "artists": [
+        {
+          "name": "DJ MENOR DA ZN",
+          "url": "https://open.spotify.com/artist/7GwhJndjWpGB4APQOWpD22"
+        },
+        {
+          "name": "MC MTOODIO",
+          "url": "https://open.spotify.com/artist/7JM0ahYY9xjYeKVUf3Rauf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132794,
+      "name": "Beat das Trevas",
+      "url": "https://open.spotify.com/track/3bzkdI9iT7ygXbHMzl4rkB"
+    },
+    {
+      "album": {
         "name": "BLACKHOUSE",
         "url": "https://open.spotify.com/album/6G88Z2l55DAAS4krrjxiFj"
       },
@@ -1301,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "COLLAPSE",
+        "url": "https://open.spotify.com/album/0wf0691LfTzCCDHc5JR2j9"
+      },
+      "artists": [
+        {
+          "name": "SHADXWBXRN",
+          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111219,
+      "name": "COLLAPSE",
+      "url": "https://open.spotify.com/track/7fb63zBu6Opf73nidHkBjm"
+    },
+    {
+      "album": {
         "name": "coqueta",
         "url": "https://open.spotify.com/album/6azCKU1xPZG3ELddYmSgqM"
       },
@@ -1630,7 +1670,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 141639,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG"
@@ -2026,6 +2066,32 @@
       "duration_ms": 133503,
       "name": "DESTRUCTION",
       "url": "https://open.spotify.com/track/2YiYHqoSQNAwVnRpxLwTJr"
+    },
+    {
+      "album": {
+        "name": "DEUS DA GUERRA",
+        "url": "https://open.spotify.com/album/45BGPCwmSWv26dE1uvDB4s"
+      },
+      "artists": [
+        {
+          "name": "$pidxrs?808",
+          "url": "https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO"
+        },
+        {
+          "name": "LEGIXN",
+          "url": "https://open.spotify.com/artist/0Z7blIFif9IINMXYS3dTlG"
+        },
+        {
+          "name": "FXRCE",
+          "url": "https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106762,
+      "name": "DEUS DA GUERRA",
+      "url": "https://open.spotify.com/track/7E7YqRQZiASXIENrGYlpSU"
     },
     {
       "album": {
@@ -2615,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "ECHO OF TERROR",
+        "url": "https://open.spotify.com/album/4EIlEJkbTHCaCHLIiDiXUY"
+      },
+      "artists": [
+        {
+          "name": "requi3m",
+          "url": "https://open.spotify.com/artist/1dzhL0wTs2Skw8ZI6IuiMl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "ECHO OF TERROR",
+      "url": "https://open.spotify.com/track/6CN5O0edKbnXUJCNDIjZJy"
+    },
+    {
+      "album": {
         "name": "End of the World (Slowed)",
         "url": "https://open.spotify.com/album/0j1BNnTDgLqQtn9wuxyZFj"
       },
@@ -2688,6 +2772,24 @@
       "duration_ms": 136634,
       "name": "ENRAGE",
       "url": "https://open.spotify.com/track/37ylxKs0nwNFCUgwIi1WrG"
+    },
+    {
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi"
+      },
+      "artists": [
+        {
+          "name": "ROMANTICA",
+          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "ERROR",
+      "url": "https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ"
     },
     {
       "album": {
@@ -4711,6 +4813,36 @@
     },
     {
       "album": {
+        "name": "Life in Rio",
+        "url": "https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        },
+        {
+          "name": "TOLCHONOV",
+          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94418,
+      "name": "Life in Rio",
+      "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
+    },
+    {
+      "album": {
         "name": "LIKE YXU WXULD KNXW (AUTUMN TREES)",
         "url": "https://open.spotify.com/album/0SydhvaVdZzioAgD2HxuXY"
       },
@@ -4734,6 +4866,28 @@
       "duration_ms": 210000,
       "name": "LIKE YXU WXULD KNXW (AUTUMN TREES)",
       "url": "https://open.spotify.com/track/75M7UJy4KmcP3ng0vICdPN"
+    },
+    {
+      "album": {
+        "name": "LILITH",
+        "url": "https://open.spotify.com/album/4MzIRT1hENzRVK7GxUIHTZ"
+      },
+      "artists": [
+        {
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        },
+        {
+          "name": "LXST GARDEN",
+          "url": "https://open.spotify.com/artist/2v76nVxaOQu2pbOEG3MzvN"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "LILITH",
+      "url": "https://open.spotify.com/track/3rX2jtf7bD7QB5EDrOVUl5"
     },
     {
       "album": {
@@ -4872,7 +5026,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 118330,
       "name": "MAD!",
       "url": "https://open.spotify.com/track/6kYAPKJjFEbKNze2uz11js"
@@ -5168,6 +5322,32 @@
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
+      "album": {
+        "name": "METAMORPHOSIS 3",
+        "url": "https://open.spotify.com/album/6mMcdfZJVwHQfVLZocxKfs"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        },
+        {
+          "name": "zxcursed",
+          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128015,
+      "name": "METAMORPHOSIS 3",
+      "url": "https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn"
     },
     {
       "album": {
@@ -5536,6 +5716,24 @@
       "duration_ms": 98461,
       "name": "MYSTIC STYLE",
       "url": "https://open.spotify.com/track/1DunAe7kfBcA7yC9KT7wOv"
+    },
+    {
+      "album": {
+        "name": "NEBLINA",
+        "url": "https://open.spotify.com/album/5NGH4phWsvWF7DU0KKK76T"
+      },
+      "artists": [
+        {
+          "name": "Dragon Boys",
+          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "NEBLINA",
+      "url": "https://open.spotify.com/track/26U5IBL7Q8mhBe7gFZpr1w"
     },
     {
       "album": {
@@ -6064,7 +6262,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 112322,
       "name": "PATHOS",
       "url": "https://open.spotify.com/track/2ecoVriOamaSEf5KwlReFM"
@@ -6630,7 +6828,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 122653,
       "name": "Puncher",
       "url": "https://open.spotify.com/track/54NEDYt9RTc7PCLm4AUftc"
@@ -6896,7 +7094,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 101538,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/0KEEzyspcgns3JEdJboguD"
@@ -6914,7 +7112,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 104956,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/2EIzEw3TdQ30XDSmD3R9bT"
@@ -7508,7 +7706,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 159579,
       "name": "SKY ADVENTURE",
       "url": "https://open.spotify.com/track/4Zx1UD86PmcdzGCztafRry"
@@ -7890,7 +8088,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 103944,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/4xtgEsu86GVlUmWj8bgn90"
@@ -9438,7 +9636,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 128118,
       "name": "\u00daltima Oportunidad",
       "url": "https://open.spotify.com/track/7pGYJmXcbTUvi44NfWTHNW"

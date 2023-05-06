@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Run to indie and alternative hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,262 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,646 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 99 | [Take It or Leave It](https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Take It or Leave It](https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9) | 3:03 |
 | 100 | [I Wanna Dance With You](https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [I Wanna Dance With You](https://open.spotify.com/album/7f92wNnQO3sQ3SE3ARVZkA) | 2:54 |
 
-Snapshot ID: `MCxhNzQzYjBiMDA3ODk5Y2YxZjlmNmRkNjgxOTI3ODgyYTBmZjc5OGMz`
+Snapshot ID: `MCwzOWY1ZGU2ZDE3NTUxYzc4NGI3YzZmY2FhZWQ5YWU3ZjUyZjgxYjli`

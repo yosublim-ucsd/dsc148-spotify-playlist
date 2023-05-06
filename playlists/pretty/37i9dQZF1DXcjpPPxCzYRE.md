@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,307 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,354 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 99 | [No Me Merecía La Pena](https://open.spotify.com/track/0lezFXoMcfhkGgWDwYvpJn) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [No Me Merecía La Pena](https://open.spotify.com/album/4E8avZ7MNKPAhKGmgbcLaH) | 2:51 |
 | 100 | [Rayito](https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Borneo](https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc) | 2:52 |
 
-Snapshot ID: `MCw3NDYxYmU5NzgxMWIyMjg1YThlMmZiMWIwYmRmYjFkOGExYjU5NzE0`
+Snapshot ID: `MCxkZjI0N2ViZjY1OWNlODI1Zjk2ZGY4NzBkNzEzYjU3ZjA5MWQ4ODIy`

@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Samantha Barrón en portada.
 
-184 songs - 9 hr 33 min
+186 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Mezcal](https://open.spotify.com/track/0amPleRUJLffVWoNwUf78k) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mezcal](https://open.spotify.com/album/4pcAzYQ2pQWtDTg4Q9tfkh) | 3:14 | 2021-12-13 |  |
 | [Mi Testamento](https://open.spotify.com/track/7KaN9SAj75jQeiMxI39aUi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [33](https://open.spotify.com/album/38H1ajetO9g4ROXNUEIsCx) | 3:11 | 2023-04-14 |  |
 | [Mira Ma](https://open.spotify.com/track/3t7hYqeFKKlXsIc0q8eRLb) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:35 | 2023-04-07 |  |
+| [Missionsuicida](https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Missionsuicida](https://open.spotify.com/album/4dE1TGR0mL2oACOuuAgeYQ) | 1:28 | 2023-05-05 |  |
 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 | 2021-12-13 |  |
 | [My Bae](https://open.spotify.com/track/2L2d7gAq5yZqXhpudUi61Z) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [My Bae](https://open.spotify.com/album/3BSBuJHqZtZtzEK7ZYmZr9) | 2:23 | 2023-04-28 |  |
 | [Nada Más](https://open.spotify.com/track/5A4oXZIqEqTG77wq4B1Txh) | [Sailor An](https://open.spotify.com/artist/0pKECWtFUx8RrVzMDVb6Wr) | [Nada Más](https://open.spotify.com/album/0B63I00LvOlF2F4DDWPqv2) | 3:17 | 2021-12-13 |  |
@@ -153,6 +154,7 @@
 | [RACE](https://open.spotify.com/track/3kHX1Hyy9oJ8fc9nTs7VcP) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [FREE DOLLY / RACE](https://open.spotify.com/album/5fzgYot7HbKytPYWywwLhC) | 2:24 | 2021-12-13 |  |
 | [RAYBEN CAP 3: NIÑAS](https://open.spotify.com/track/48Lpi4yoXkv3Awje2Hesn9) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [RAYBEN CAP 3: NIÑAS](https://open.spotify.com/album/2N6R8g07SKPkUT65SIY9gb) | 3:06 | 2023-04-14 |  |
 | [Renacer](https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MarieV](https://open.spotify.com/artist/3uzYu5ialLsEjbXa5jCEXa), [Bad Panda](https://open.spotify.com/artist/1MtHAFdeExB9QUoEDYN01M) | [Renacer](https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l) | 3:18 | 2023-01-13 | 2023-03-11 |
+| [ReSURrección](https://open.spotify.com/track/0BY84BjIZX2qXnsanQzvVG) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [ReSURrección](https://open.spotify.com/album/4Zl4spMsauBbw3Dr4YGOGJ) | 3:30 | 2023-05-05 |  |
 | [Revolucionaria](https://open.spotify.com/track/3vnwirrjOder3YXDoey979) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9), [Dirtybird](https://open.spotify.com/artist/5Fk0y674atQID4XYwOIMcc) | [Revolucionaria](https://open.spotify.com/album/0ETiIGDVL0zzM8LoJdGfSF) | 2:27 | 2023-03-31 |  |
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2022-10-16 |  |
 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2022-08-01 | 2023-02-18 |

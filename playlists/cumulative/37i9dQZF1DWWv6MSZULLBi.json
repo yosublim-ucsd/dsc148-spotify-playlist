@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "All Dogs Go To Heaven",
+        "url": "https://open.spotify.com/album/4MWgzKggGePOjpjRhlcdHF"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167285,
+      "name": "All Dogs Go To Heaven",
+      "url": "https://open.spotify.com/track/2bnsdRSIKnbsn8cuv88sSr"
+    },
+    {
+      "album": {
         "name": "Stolen Time",
         "url": "https://open.spotify.com/album/5j3jNzAU44DXD91QpIFF8u"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 216013,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/5jBZSh7u8Af31hRzNbyY3z"
@@ -643,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Been A Long Year",
+        "url": "https://open.spotify.com/album/7CmNdw8dFmVhv6sbdEyMkd"
+      },
+      "artists": [
+        {
+          "name": "Alex Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217485,
+      "name": "Been A Long Year",
+      "url": "https://open.spotify.com/track/3SarVK4FfGtHZrAbTZVyxj"
+    },
+    {
+      "album": {
         "name": "Afternoon Bike Ride",
         "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
       },
@@ -1004,7 +1040,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194676,
       "name": "Carol",
       "url": "https://open.spotify.com/track/58raSxI2FUn6xBtkl5VXtm"
@@ -1513,6 +1549,46 @@
     },
     {
       "album": {
+        "name": "Revealer (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283093,
+      "name": "Death By Suspicion",
+      "url": "https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY"
+    },
+    {
+      "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/1zpKAgRhDks0LH73FcojbM"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224643,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/6vxB8pkgTnwEgsQQll7Q0M"
+    },
+    {
+      "album": {
         "name": "Delaney's Dad",
         "url": "https://open.spotify.com/album/1FEn8KVTpedBnhEvPMHav5"
       },
@@ -1564,7 +1640,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 157425,
       "name": "Devil Does",
       "url": "https://open.spotify.com/track/4qBElpjcT3DB8txnI43Jw5"
@@ -1702,6 +1778,24 @@
       "duration_ms": 116511,
       "name": "drive faster",
       "url": "https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ"
+    },
+    {
+      "album": {
+        "name": "Drive You Home",
+        "url": "https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180782,
+      "name": "Drive You Home",
+      "url": "https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ"
     },
     {
       "album": {
@@ -1938,7 +2032,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 256500,
       "name": "empty vessels",
       "url": "https://open.spotify.com/track/1Bg89AyZCtda4EKRTnsYQx"
@@ -1974,7 +2068,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 209133,
       "name": "Envy",
       "url": "https://open.spotify.com/track/3VqVn7nTrAwvzBfGowithl"
@@ -2285,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "False Start",
+        "url": "https://open.spotify.com/album/5594EnVFgb6SCinyZcd40V"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317747,
+      "name": "False Start",
+      "url": "https://open.spotify.com/track/4A1Nvp5QT3ImzRVEfZzxc5"
+    },
+    {
+      "album": {
         "name": "living room sessions 2",
         "url": "https://open.spotify.com/album/3LJZtEJFAbw8SFdANQ2C9X"
       },
@@ -2394,6 +2506,24 @@
       "duration_ms": 175200,
       "name": "fetishizing struggle",
       "url": "https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ"
+    },
+    {
+      "album": {
+        "name": "Firing Line",
+        "url": "https://open.spotify.com/album/5SWoEwl8sybNpO1bSjr74p"
+      },
+      "artists": [
+        {
+          "name": "Craig Stickland",
+          "url": "https://open.spotify.com/artist/6wBV2mHGWBe2Mz4jZJi21K"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204394,
+      "name": "Firing Line",
+      "url": "https://open.spotify.com/track/0yowXhlr88ANGXI4BAuyGn"
     },
     {
       "album": {
@@ -3680,7 +3810,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 278765,
       "name": "juro que vi flores (feat. Silvia P\u00e9rez Cruz)",
       "url": "https://open.spotify.com/track/2O66aZnKeRIa0P1lx2VZmf"
@@ -4128,7 +4258,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 172037,
       "name": "Light in Me",
       "url": "https://open.spotify.com/track/26a0XK6phpV2mCZ6LlMFFy"
@@ -4272,7 +4402,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 244569,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/63zDvmBVcYFsSdv1khtFX0"
@@ -5025,6 +5155,24 @@
     },
     {
       "album": {
+        "name": "On the Vine",
+        "url": "https://open.spotify.com/album/6V9q9qY3TBny1doKIxKdLy"
+      },
+      "artists": [
+        {
+          "name": "Kyle Church",
+          "url": "https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202772,
+      "name": "On the Vine",
+      "url": "https://open.spotify.com/track/0twfYhAuRGyIfyZzsIGHb9"
+    },
+    {
+      "album": {
         "name": "Prospect (Deluxe)",
         "url": "https://open.spotify.com/album/15utleqV2llYGHYuD72rs8"
       },
@@ -5306,7 +5454,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 190961,
       "name": "Part Time Lovers",
       "url": "https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O"
@@ -5425,6 +5573,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264690,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd"
+    },
+    {
+      "album": {
         "name": "Pools",
         "url": "https://open.spotify.com/album/5CfxWwzHgJCjGhxweCDeNn"
       },
@@ -5516,6 +5682,24 @@
       "duration_ms": 142693,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/36MNQV3Kw7wL3VKZIPsaVl"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/5kcZWZvnwksb7zBUD7H53P"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225691,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6cglXxd6F4eWXr6nVXE2Ac"
     },
     {
       "album": {
@@ -5686,7 +5870,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 260721,
       "name": "Salt Circle",
       "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
@@ -6711,6 +6895,24 @@
     },
     {
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195083,
+      "name": "The Hills of Aberfeldy",
+      "url": "https://open.spotify.com/track/1eYafSv4c2aFNf98hSFHX0"
+    },
+    {
+      "album": {
         "name": "The Master",
         "url": "https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm"
       },
@@ -6924,7 +7126,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200265,
       "name": "This City",
       "url": "https://open.spotify.com/track/6r794TiASWZgXGleR2425l"
@@ -7014,7 +7216,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 273000,
       "name": "Thunderhead",
       "url": "https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z"

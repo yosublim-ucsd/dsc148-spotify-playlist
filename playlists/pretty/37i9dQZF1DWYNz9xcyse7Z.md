@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Recordando el legado campirano y rancherón con las clásicas del sierreño\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,029 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,121 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 99 | [Mi Virgencita](https://open.spotify.com/track/2kLYRxamXLrWk11CRRtlp2) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Carnita Asada Sierreña](https://open.spotify.com/album/3wv1ZejKf5Gbk32GYfKPZR) | 2:24 |
 | 100 | [Panfilita](https://open.spotify.com/track/6gaKSvGKBdvHhVL82k9w0E) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [El gavilan de acero](https://open.spotify.com/album/08kWZ6q2C80r8OdhCJcq2R) | 3:09 |
 
-Snapshot ID: `MCwxMDY0YTU5NDNiODhlZmRjMDRiYzVkNGMxZWQyNGIyZmVlZGY0Y2E4`
+Snapshot ID: `MCwzZTg4YzYzNDFiNjc4YTJkNzA0YWZlYTE4M2FhMmE2ZGRkYjE4ODMz`

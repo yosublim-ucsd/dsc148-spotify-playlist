@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-94 songs - 7 hr 5 min
+95 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Like a Robot](https://open.spotify.com/track/5gHb5pxavFmxVJwMvQenl2) | [Dogg Master](https://open.spotify.com/artist/7D7OH1u01xndWNoeG153gy), [Busta Brown](https://open.spotify.com/artist/4KagRlTqZ01I5oyFiUcie0) | [Like a Robot](https://open.spotify.com/album/2OdHcVJdxJVtu9lFmjEt3G) | 3:16 | 2020-09-18 |  |
 | [Livin' It Up](https://open.spotify.com/track/1736zC0ecfHYQf0fSOFx1k) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 3:32 | 2020-10-26 |  |
 | [Love Thang \- Long Version](https://open.spotify.com/track/55Q1gdClrnRYk8HnRkUK0m) | [Fredi Grace](https://open.spotify.com/artist/1lDpsgE48uQcfZh6vpj8Fh), [Rhinstone](https://open.spotify.com/artist/53kfXebhQMaddxG1eDbCgp) | [Get On Your Mark \(Expanded Version\)](https://open.spotify.com/album/1CzTtpcgi4LvfR3u02t1gk) | 7:17 | 2020-09-18 |  |
+| [Make It Funky \- Disco Mix](https://open.spotify.com/track/5nRXDUpWjtU7bCJURktRmE) | [TheDjLawyer](https://open.spotify.com/artist/7k2fD4YbAzbcHX5DFl0RDD) | [Make It Funky](https://open.spotify.com/album/2qhZSAmJea58xjhasjr96u) | 4:50 | 2023-05-05 |  |
 | [Make You Mine](https://open.spotify.com/track/1aKPbD7aGsySdLz27P92Gt) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:23 | 2020-09-18 |  |
 | [Mamacita](https://open.spotify.com/track/2tDdZBlft2KbcRjRdbX13E) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI) | [Mamacita](https://open.spotify.com/album/3VeXhkyKkUPyI6RO9w3sZ3) | 3:14 | 2021-06-04 |  |
 | [More Bounce to the Ounce](https://open.spotify.com/track/3Ho35OJixLg20qshXRgfBs) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 5:12 | 2020-09-18 |  |

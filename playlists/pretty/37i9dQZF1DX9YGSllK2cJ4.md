@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,431 likes - 184 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,524 likes - 184 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 158 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 |
 | 159 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 |
 | 160 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 |
-| 161 | [Moux: heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
+| 161 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
 | 162 | [Problématique](https://open.spotify.com/track/5DuNs8KmyX0Rhpa5cwujXT) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Problématique](https://open.spotify.com/album/0hBgJgCI8ENtYGjj1csyEh) | 1:43 |
 | 163 | [Survivor](https://open.spotify.com/track/1u1aXnuFIFr5rm3Z1h7NWK) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [Wild Life](https://open.spotify.com/album/2cpFdGNeFHT99X4oHmDQe0) | 2:15 |
 | 164 | [A Model of the Universe](https://open.spotify.com/track/5ay0cvjtVAbMLOe8gTadFh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:52 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 183 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
 | 184 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MCw1Y2E5YTFlMTlmMDQzZjg2NjFmZTEzOWU4YzA1MGIxODZhODE3YzRh`
+Snapshot ID: `MCxkNzVkMzVkYjU3NDI1ZWE5Y2IyNjlkMWQ5NWYyM2YxNjM1MTA3YjE1`

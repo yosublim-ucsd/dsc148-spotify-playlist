@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,086 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,098 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 51 | [If Trouble Was Money](https://open.spotify.com/track/63t31Qj7dDoNxeo5UTrEBL) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 8:00 |
 | 52 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
 
-Snapshot ID: `MCw3ZjU1YWMzYjcyNDhhZThmYTQwYTQ1ZDEyOTI4NTcwMzEyYzBjMDE5`
+Snapshot ID: `MCw4NzAxM2VhYTI0N2ZhNjNiOWVhNDY1MjEwZTUyOGI0NzU3ZjUzYTQ3`

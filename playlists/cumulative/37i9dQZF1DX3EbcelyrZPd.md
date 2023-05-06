@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Zuchu
 
-230 songs - 13 hr 2 min
+232 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 | 2022-07-21 |  |
 | [Nampenda](https://open.spotify.com/track/3OV9LcFiJZn4CMulAiPoGP) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Nampenda](https://open.spotify.com/album/0N3ZA8EsUB5qBk2cJUxpx8) | 3:18 | 2022-09-23 | 2023-03-25 |
 | [Namsosomola](https://open.spotify.com/track/3fXb1cxpNEsaQPRZDMmB2U) | [Shetta](https://open.spotify.com/artist/1UaXKMZaYJipBoWQS9XdCT) | [Namsosomola](https://open.spotify.com/album/33uT8tBAbDxnOH12LdoVyV) | 3:08 | 2022-06-02 | 2022-10-22 |
+| [Nani](https://open.spotify.com/track/4dj9HTABb7AGD4ocx9DLUx) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nani](https://open.spotify.com/album/7LNH8B00PTKeB59xmdc2It) | 2:53 | 2023-05-04 |  |
 | [Naoa](https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs) | [Brown Mauzo](https://open.spotify.com/artist/2ee8EQ0K7tAYVxHT9suKdf) | [V the Album](https://open.spotify.com/album/6bTnVI9B98ircUnv8UYXuy) | 3:20 | 2022-01-06 | 2022-08-27 |
 | [Naogopa](https://open.spotify.com/track/7dpCzGxbcTzSL3j6mKdSuG) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Naogopa](https://open.spotify.com/album/0YkcJmRaaQwGjs5BPoQaP5) | 4:00 | 2022-04-14 | 2023-03-03 |
 | [Napambana](https://open.spotify.com/track/6ARSJuBT3AHST84dvdKyZW) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Napambana](https://open.spotify.com/album/4TyVZ4X2oEFC9xav9nUaLA) | 2:58 | 2023-03-02 |  |
@@ -168,6 +169,7 @@
 | [Number One](https://open.spotify.com/track/78upcYKwMTCZ7XjT1LeCuV) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One](https://open.spotify.com/album/3kwC2ffwJioEFnxnFkWO1X) | 3:33 | 2021-10-14 | 2022-07-23 |
 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 | 2021-09-09 | 2022-04-08 |
 | [ODG \- Remix](https://open.spotify.com/track/3BqDMZ9MxSaoXe3zuVIKuR) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [ODG \(Remix\)](https://open.spotify.com/album/6vh28C9UkOKgW8K1KQ5Q2M) | 3:15 | 2022-08-11 | 2023-02-10 |
+| [Okay](https://open.spotify.com/track/5Jgw4HpMpnetmRxc7P8Fm9) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Okay](https://open.spotify.com/album/3h3wSoFadNAYHiEF0XpRGj) | 3:33 | 2023-05-04 |  |
 | [Outside](https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 3:06 | 2021-11-11 | 2022-05-06 |
 | [Oya Oya](https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:27 | 2021-10-07 | 2022-06-03 |
 | [Papaa](https://open.spotify.com/track/06MXbcZxZqPJPcFHaQLmkL) | [B Gway](https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ) | [Papaa](https://open.spotify.com/album/77qytTZiJTwHdJTfANVsrk) | 2:13 | 2022-07-07 | 2022-10-08 |

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: The War and Treaty",
-  "num_followers": 432489,
+  "num_followers": 432568,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDVhYjgzNmRiOWIzZDQ4NjYyYzAzYmYxMTVjNGVjYWI3MWQ1YWYz",
+  "snapshot_id": "MCxlYTljNmM1MDM1ZjE4NzExMGZhNmM0MmM0NTMzNmFjZTIyZGE1YmE4",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 230680,
       "name": "Ain't No Harmin' Me",
       "url": "https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Mountain Road",
+        "url": "https://open.spotify.com/album/7c1Es2Z6SAV6LwwZc2knQp"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 193322,
+      "name": "Mountain Road",
+      "url": "https://open.spotify.com/track/7o2FUCaN5BkqzGrM7kajEo"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
     },
     {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+    },
+    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Pensive Pop",
@@ -119,22 +151,6 @@
       "duration_ms": 218746,
       "name": "99 Ways",
       "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Keep Off of You",
-        "url": "https://open.spotify.com/album/3f44rAp9r0CsGQrHsrYmxb"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 184870,
-      "name": "Keep Off of You",
-      "url": "https://open.spotify.com/track/3oNXDpo7ziScRfWi8d9O37"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -619,22 +635,6 @@
       "duration_ms": 215969,
       "name": "Gullah Geechee",
       "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Rubber Factory",
-        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 294933,
-      "name": "The Lengths",
-      "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
     },
     {
       "added_at": "2022-01-28 05:01:00",

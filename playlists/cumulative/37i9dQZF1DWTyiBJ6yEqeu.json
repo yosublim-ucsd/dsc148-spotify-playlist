@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
@@ -3416,7 +3416,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
@@ -5086,6 +5086,28 @@
     {
       "album": {
         "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
+    },
+    {
+      "album": {
+        "name": "Hero",
         "url": "https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v"
       },
       "artists": [
@@ -5122,6 +5144,24 @@
       "duration_ms": 122221,
       "name": "Hex",
       "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
+    },
+    {
+      "album": {
+        "name": "High Enough",
+        "url": "https://open.spotify.com/album/5ypObidBq97k0wpDkpuCzP"
+      },
+      "artists": [
+        {
+          "name": "Boon",
+          "url": "https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127333,
+      "name": "High Enough",
+      "url": "https://open.spotify.com/track/7FoywP8Gy4HYz5vZ7Oaic5"
     },
     {
       "album": {
@@ -12344,7 +12384,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 113292,
       "name": "They Don't Love It",
       "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
@@ -13096,6 +13136,28 @@
       "duration_ms": 193280,
       "name": "Volt",
       "url": "https://open.spotify.com/track/0hnb3oZMJNc5SALN7K1hmY"
+    },
+    {
+      "album": {
+        "name": "Vroom",
+        "url": "https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137915,
+      "name": "Vroom",
+      "url": "https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Beartooth",
+  "description": "The hardest songs, loud. Very loud. Cover: From Ashes To New ",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -482,6 +482,24 @@
       "duration_ms": 214250,
       "name": "All I Really Know",
       "url": "https://open.spotify.com/track/5JjTtaOLyq48joyhVX3ksj"
+    },
+    {
+      "album": {
+        "name": "All Things Must Change",
+        "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215318,
+      "name": "All Things Must Change",
+      "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
     },
     {
       "album": {
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 240000,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/5ixSIPslhHootnIhXb4hLN"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 182571,
       "name": "Cover Your Tracks",
       "url": "https://open.spotify.com/track/7eihSa4gDZk2LSLwveL2pK"
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 162484,
       "name": "Endless Riots",
       "url": "https://open.spotify.com/track/2tTiytd4vnEyR59st5sTZC"
@@ -4238,6 +4256,24 @@
       "duration_ms": 234149,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
+    },
+    {
+      "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219809,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm"
     },
     {
       "album": {
@@ -5511,6 +5547,36 @@
     },
     {
       "album": {
+        "name": "Head Under Water (feat. REDDSTAR and Dan Sugarman of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/113A6sipFzXOxFf7TUztoN"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "REDDSTAR",
+          "url": "https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Dan Sugarman",
+          "url": "https://open.spotify.com/artist/33tcoGD8qMbSSRzi2LREmz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Head Under Water (feat. REDDSTAR and Dan Sugarman of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/3wpyvgFi5zjTUbIVZS1NPr"
+    },
+    {
+      "album": {
         "name": "Heartache",
         "url": "https://open.spotify.com/album/1202mNUlTJufiL8oVbS7nO"
       },
@@ -5823,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/1XIqrfa41fSUdAI2KdnBAW"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186910,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/3U8dEgE1S6st6Y29qJouu6"
+    },
+    {
+      "album": {
         "name": "Child Of The State",
         "url": "https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y"
       },
@@ -5976,7 +6060,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 191013,
       "name": "Hurts Like Hell",
       "url": "https://open.spotify.com/track/6BrLtFmFUKJVsLCKjqsEsl"
@@ -7519,6 +7603,24 @@
     },
     {
       "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -7740,6 +7842,24 @@
       "duration_ms": 229007,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o"
+    },
+    {
+      "album": {
+        "name": "Maleficent",
+        "url": "https://open.spotify.com/album/1uop7QTETT2EqjPl0ky2cv"
+      },
+      "artists": [
+        {
+          "name": "Halocene",
+          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228947,
+      "name": "Maleficent",
+      "url": "https://open.spotify.com/track/0AQwQFCWk5o51cQONVCuRH"
     },
     {
       "album": {
@@ -8049,6 +8169,24 @@
     },
     {
       "album": {
+        "name": "Missile",
+        "url": "https://open.spotify.com/album/4WArPDAzvEWVt99SwPqfQ5"
+      },
+      "artists": [
+        {
+          "name": "The Anix",
+          "url": "https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Missile",
+      "url": "https://open.spotify.com/track/7tk7GTuflatSdYiJW97Itc"
+    },
+    {
+      "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/5kVYC2LhvuwUxVhfLQ9i6T"
       },
@@ -8132,7 +8270,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 201541,
       "name": "More Than Machines",
       "url": "https://open.spotify.com/track/3kuk5RoJTnBEFDu69GSG1S"
@@ -8678,7 +8816,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
@@ -8816,7 +8954,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 300560,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/3wFpyxWBsobjg8jOTgcdCM"
@@ -8834,7 +8972,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 271417,
       "name": "Our Time Is Now",
       "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"

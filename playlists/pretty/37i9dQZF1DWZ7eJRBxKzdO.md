@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > The summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,268 likes - 120 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,327 likes - 120 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 119 | [Trompeta](https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns) | 2:48 |
 | 120 | [Paper Planes](https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Paper Planes](https://open.spotify.com/album/5qdXy87BeaWnK0vXiX5VI4) | 3:06 |
 
-Snapshot ID: `MCxjNWExMmUwOWMyN2MxN2YwNTAyOGYyMzk0Yzk1ZDkzNWRkNjlkYzk5`
+Snapshot ID: `MCxlNDAzNTJkNDBiNTU1OWFhYWUxYzE5NjNhYmRmMjBmOTY4NmRhMDVm`

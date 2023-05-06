@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Ryan Beatty",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Peter One ",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 257053,
       "name": "Birds Go Die Out Of Sight (Don't Go Home) (feat. Allison Russell)",
       "url": "https://open.spotify.com/track/2ifZiKf2QSQV4yQQzUdyUo"
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 212361,
       "name": "Buried The Day",
       "url": "https://open.spotify.com/track/26LgkRj0GLm2yZrwPFsVug"
@@ -2840,6 +2840,42 @@
       "duration_ms": 264148,
       "name": "Burn",
       "url": "https://open.spotify.com/track/5OXKRcuhKDHZgAWGl2dKKJ"
+    },
+    {
+      "album": {
+        "name": "Buy My Round",
+        "url": "https://open.spotify.com/album/2IWnXOBRdLybyCc4HgogCu"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264799,
+      "name": "Buy My Round",
+      "url": "https://open.spotify.com/track/2MhTrtRPIIZoVuXQFjyeSx"
+    },
+    {
+      "album": {
+        "name": "Buzz Cut",
+        "url": "https://open.spotify.com/album/1Bg5M27H8dswaxXi9tSuNl"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279289,
+      "name": "Buzz Cut",
+      "url": "https://open.spotify.com/track/5egUjyMOaZ8LybJ2ScpKXJ"
     },
     {
       "album": {
@@ -3473,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "Come on Come On",
+        "url": "https://open.spotify.com/album/4Q0w0p22RxSYBD8FQ1elTe"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164720,
+      "name": "Come on Come On",
+      "url": "https://open.spotify.com/track/2uqtyi6mt0f4qvfywrh97v"
+    },
+    {
+      "album": {
         "name": "Misadventures Of Doomscroller",
         "url": "https://open.spotify.com/album/24FkcvXRLoG17447domdkg"
       },
@@ -3674,7 +3728,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 218186,
       "name": "Corduroy",
       "url": "https://open.spotify.com/track/6QhZtK9nfaUBDILHPvAlC6"
@@ -4090,6 +4144,28 @@
       "duration_ms": 219283,
       "name": "Dead Man's Suit",
       "url": "https://open.spotify.com/track/3h21zgsmD8ncbYz3RSlAJI"
+    },
+    {
+      "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/1zpKAgRhDks0LH73FcojbM"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224643,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/6vxB8pkgTnwEgsQQll7Q0M"
     },
     {
       "album": {
@@ -5362,7 +5438,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 274466,
       "name": "Fairweather",
       "url": "https://open.spotify.com/track/4CmA0F2I25DcHz47mXArag"
@@ -6218,7 +6294,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 224760,
       "name": "Full Me, Half You",
       "url": "https://open.spotify.com/track/5oamUk3P75ug587GN7LtMT"
@@ -6395,6 +6471,24 @@
     },
     {
       "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50"
+    },
+    {
+      "album": {
         "name": "give me hell",
         "url": "https://open.spotify.com/album/3rSDVdVKKTVHDqU1cC3pn0"
       },
@@ -6414,7 +6508,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 184666,
       "name": "give me hell",
       "url": "https://open.spotify.com/track/73sWKUWvlzHuYR2iXWRXx6"
@@ -6861,6 +6955,24 @@
     },
     {
       "album": {
+        "name": "handgun",
+        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173446,
+      "name": "handgun",
+      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
       },
@@ -7252,7 +7364,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 229848,
       "name": "Helium",
       "url": "https://open.spotify.com/track/2uvDjPwNsu94t8ATG0yia1"
@@ -7635,6 +7747,24 @@
     },
     {
       "album": {
+        "name": "Holdup",
+        "url": "https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155262,
+      "name": "Holdup",
+      "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
+    },
+    {
+      "album": {
         "name": "Donde Los Terremotos: Songs from and Inspired by the Film",
         "url": "https://open.spotify.com/album/0gcM0ST0KNf9v3ua0rnpkf"
       },
@@ -7740,7 +7870,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 281795,
       "name": "Homesick for the Place I Don't Even Know (feat. Sam Valdez)",
       "url": "https://open.spotify.com/track/1cs14d3VfzeI4z94h30Pit"
@@ -7940,6 +8070,24 @@
       "duration_ms": 182374,
       "name": "How Do You Know",
       "url": "https://open.spotify.com/track/55tFsAqBX9hQa060WnEHK4"
+    },
+    {
+      "album": {
+        "name": "How To Start A Garden",
+        "url": "https://open.spotify.com/album/5Cq8LjM4wG9tQdo8ynIC5g"
+      },
+      "artists": [
+        {
+          "name": "Nanna",
+          "url": "https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302101,
+      "name": "How to Start A Garden",
+      "url": "https://open.spotify.com/track/6pyWPwXCQqB4FcRrcefzmU"
     },
     {
       "album": {
@@ -8287,6 +8435,28 @@
     },
     {
       "album": {
+        "name": "I can\u2019t live without you (feat. Charlie Oriain)",
+        "url": "https://open.spotify.com/album/3wvdcQHybDXh3ktefBzobw"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201310,
+      "name": "I can\u2019t live without you (feat. Charlie Oriain)",
+      "url": "https://open.spotify.com/track/577oJUcFs1m5NGeokmxaAp"
+    },
+    {
+      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/0yltV5fh7vhSvRFLbrHIRa"
       },
@@ -8302,6 +8472,24 @@
       "duration_ms": 210381,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/2Ju20N3DTa4VlqzyBlMKMx"
+    },
+    {
+      "album": {
+        "name": "I Don't Think of You",
+        "url": "https://open.spotify.com/album/5b7evZJgRH1f365cIDjlrw"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230521,
+      "name": "I Don't Think of You",
+      "url": "https://open.spotify.com/track/0v0cFLpEnUR220NYi2Gip0"
     },
     {
       "album": {
@@ -8786,7 +8974,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210437,
       "name": "I'm over being cool",
       "url": "https://open.spotify.com/track/2ZC4pgEdVCpvTOWWllvGaH"
@@ -8844,6 +9032,24 @@
       "duration_ms": 285943,
       "name": "idkwntht",
       "url": "https://open.spotify.com/track/2HrKYkfaYehPkzBy31XBbG"
+    },
+    {
+      "album": {
+        "name": "Idol; RE-run",
+        "url": "https://open.spotify.com/album/2scsrTSiena7kFNUBLQutG"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211037,
+      "name": "Idol; RE-run",
+      "url": "https://open.spotify.com/track/2TmWxMQ6EkfhgUjBdVGlL5"
     },
     {
       "album": {
@@ -10084,10 +10290,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 234366,
       "name": "Lazy River",
       "url": "https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU"
+    },
+    {
+      "album": {
+        "name": "why does everything make me cry?",
+        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "leave flowers",
+      "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
     },
     {
       "album": {
@@ -12562,7 +12786,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 258430,
       "name": "notre dame",
       "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
@@ -12896,7 +13120,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 204212,
       "name": "Once on Another Day",
       "url": "https://open.spotify.com/track/305RKy14KRSxTlYHKAwslx"
@@ -16807,6 +17031,24 @@
     },
     {
       "album": {
+        "name": "Come Back To Me",
+        "url": "https://open.spotify.com/album/561eKNmfenwaF1fZsVayMv"
+      },
+      "artists": [
+        {
+          "name": "Peter One",
+          "url": "https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246346,
+      "name": "Sweet Rainbow",
+      "url": "https://open.spotify.com/track/3uFjMR6c3fmF6Us3phdVWI"
+    },
+    {
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
       },
@@ -17230,7 +17472,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 192706,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"
@@ -17350,6 +17592,24 @@
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+    },
+    {
+      "album": {
+        "name": "That's On You, That's On Me",
+        "url": "https://open.spotify.com/album/5Ry6LXvOutD0knHfrZr0y0"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "That's on You, That's on Me",
+      "url": "https://open.spotify.com/track/4NKrrhHXSyobZHMImI9izz"
     },
     {
       "album": {
@@ -17640,6 +17900,24 @@
       "duration_ms": 383866,
       "name": "The Grass Widow In The Glass Window",
       "url": "https://open.spotify.com/track/3WQoagvXfwFT9Q8CZL5nEm"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195083,
+      "name": "The Hills of Aberfeldy",
+      "url": "https://open.spotify.com/track/1eYafSv4c2aFNf98hSFHX0"
     },
     {
       "album": {
@@ -18202,7 +18480,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 167254,
       "name": "There's Always Room - Alternate Version",
       "url": "https://open.spotify.com/track/2XLD7DGOSkUjZymjqP5irl"
@@ -20394,7 +20672,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197333,
       "name": "Who's Gonna Love You Now?",
       "url": "https://open.spotify.com/track/1RNi19cKwk2G5V9fy9676K"

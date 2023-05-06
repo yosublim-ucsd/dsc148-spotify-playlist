@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive x Ohash",
-  "num_followers": 1220982,
+  "num_followers": 1221651,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGIxZjY0NzE0Y2RkYjQxMzk4ZGMxMzQ1N2FiMTdiMzFmZTI4ZGFi",
+  "snapshot_id": "MCw0MzA5N2NhMTE4Y2I1NjhmOTE4NjdhODI3OTQ5OWY3NTAyZmVhN2M5",
   "tracks": [
     {
       "added_at": "2023-05-04 21:00:00",
@@ -191,18 +191,22 @@
     {
       "added_at": "2023-05-04 21:00:00",
       "album": {
-        "name": "KAPITAL",
-        "url": "https://open.spotify.com/album/34TsaH9wHudgsQqrSGj1VT"
+        "name": "Yolunda \"pavyon\"",
+        "url": "https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM"
       },
       "artists": [
         {
-          "name": "masthon",
-          "url": "https://open.spotify.com/artist/7sEM2coB7d8PGVKBbyBWD8"
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
         }
       ],
-      "duration_ms": 150961,
-      "name": "PAVYON",
-      "url": "https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J"
+      "duration_ms": 150909,
+      "name": "Yolunda \"pavyon\"",
+      "url": "https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo"
     },
     {
       "added_at": "2023-05-04 21:00:00",

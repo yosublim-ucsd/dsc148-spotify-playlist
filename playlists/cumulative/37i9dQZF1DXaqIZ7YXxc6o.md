@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Hermitude
 
-686 songs - 1 day 13 hr 57 min
+687 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [DROP 'EM](https://open.spotify.com/track/0ia4JRneHZ67w3sgTA3fL5) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [DROP 'EM](https://open.spotify.com/album/4d97rkRs2t5uB1Lk9irLky) | 2:42 | 2023-02-16 | 2023-03-18 |
 | [Drop Da Bomb](https://open.spotify.com/track/2p7x2Ogr7rVINUj7AT1M6L) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Drop Da Bomb](https://open.spotify.com/album/1gK92tqHvmH1We7jphlE0N) | 2:29 | 2023-03-09 | 2023-03-31 |
 | [Drug Me](https://open.spotify.com/track/6vxHk7yvqt2BwVJxYHHibG) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [Drug Me](https://open.spotify.com/album/5hU4t7VGCzUP0i7BND17sB) | 2:31 | 2023-02-16 | 2023-03-18 |
-| [Duo Yo](https://open.spotify.com/track/7mYWdIYJkijirczC5HJDXU) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [HyperParadise \(10 Year Anniversary Edition\)](https://open.spotify.com/album/6by92ximjblUJ9SwHDK2Z4) | 3:19 | 2023-05-04 |  |
+| [Duo Yo](https://open.spotify.com/track/5ttlfc3eGjEsqgEj4nfjkk) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [HyperParadise \(10 Year Anniversary Edition\)](https://open.spotify.com/album/5xq238uclAps1CpnjBjDED) | 3:19 | 2023-05-04 |  |
+| [Duo Yo](https://open.spotify.com/track/7mYWdIYJkijirczC5HJDXU) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [HyperParadise \(10 Year Anniversary Edition\)](https://open.spotify.com/album/6by92ximjblUJ9SwHDK2Z4) | 3:19 | 2023-05-04 | 2023-05-06 |
 | [Ease Off \- Phonk Remix](https://open.spotify.com/track/3fJHlnAEDFfIsJ3fa254tT) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [Ease Off \(Phonk Remix\)](https://open.spotify.com/album/4AcUCbiMYe02mYrSPzffhM) | 2:27 | 2022-12-08 | 2022-12-24 |
 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 | 2023-01-12 | 2023-02-10 |
 | [Echoes](https://open.spotify.com/track/0oyqiTMo4tKvxS7PkASNAh) | [Du0](https://open.spotify.com/artist/1nsfed7KDKnuVUMq0ug6NN), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Echoes](https://open.spotify.com/album/0Yep9BMOQZKsAwEu3g9lgo) | 3:31 | 2023-03-31 | 2023-04-21 |

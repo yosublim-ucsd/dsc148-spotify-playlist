@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Calma Meu Filho",
+        "url": "https://open.spotify.com/album/4soMftZMeHhqIZxqTnf6yG"
+      },
+      "artists": [
+        {
+          "name": "Alisson Santos",
+          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250950,
+      "name": "Calma Meu Filho",
+      "url": "https://open.spotify.com/track/5TcHJfpBbJn4aqWnN9ijg8"
+    },
+    {
+      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
       },
@@ -644,7 +662,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 309400,
       "name": "Ele Est\u00e1 Comigo",
       "url": "https://open.spotify.com/track/1IwluqLemFFm8ZGv4ujrkL"
@@ -782,6 +800,28 @@
       "duration_ms": 287769,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
+    },
+    {
+      "album": {
+        "name": "Estou de P\u00e9",
+        "url": "https://open.spotify.com/album/5zjKOh7uyhzm5KmWIwoFFK"
+      },
+      "artists": [
+        {
+          "name": "Virginia Arruda",
+          "url": "https://open.spotify.com/artist/5RUMApncGMcAxDhgg7akQa"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239737,
+      "name": "Estou de P\u00e9",
+      "url": "https://open.spotify.com/track/74n8diqoZCaOrE4cPjH7bv"
     },
     {
       "album": {
@@ -1476,7 +1516,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 242909,
       "name": "O Amor de Deus",
       "url": "https://open.spotify.com/track/33EQhf72X79yomlKYCkIlf"
@@ -1698,6 +1738,24 @@
       "duration_ms": 280634,
       "name": "O Rei e o Jumentinho",
       "url": "https://open.spotify.com/track/0CKGdI0qlp29gMmUjhs8Iv"
+    },
+    {
+      "album": {
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "album": {
@@ -2242,7 +2300,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 267983,
       "name": "S\u00f3 Faz Ajudar",
       "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"

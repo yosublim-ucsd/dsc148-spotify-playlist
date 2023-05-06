@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-105 songs - 5 hr 11 min
+106 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Malianteo 420](https://open.spotify.com/track/6NKrW1a2OYNwAXuN4MgwXi) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Malianteo 420](https://open.spotify.com/album/7xdPNbwpkvpVSllF4CRcyT) | 3:15 | 2021-12-24 | 2022-07-29 |
 | [MECHA](https://open.spotify.com/track/7CIkIJtzCi50N7EcOL4XBx) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [MECHA](https://open.spotify.com/album/4Zj1zVjvxbCxnsdmN8gnfV) | 2:32 | 2021-12-24 |  |
 | [MI WOMAN](https://open.spotify.com/track/49vVap9BA2EbPuFer5uw9l) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [MI WOMAN](https://open.spotify.com/album/20VB81oLTLjAgXAguNcaNt) | 2:56 | 2022-06-24 |  |
+| [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 | 2023-05-05 |  |
 | [Music Trip \#1 – BLANCO, NEGRO](https://open.spotify.com/track/08szdmbF3I44GR4xnIBEOc) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Music Trip \#1 – BLANCO, NEGRO](https://open.spotify.com/album/1e1Ky4iqHHSCmdv1ONNgTW) | 3:16 | 2022-05-13 | 2022-08-06 |
 | [Music Trip \#2 – Insomnio](https://open.spotify.com/track/2qofpJFLgNWHDwduslP5fm) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Music Trip \#2 – Insomnio](https://open.spotify.com/album/1MBwhvZjwygkvqsIEYqWub) | 2:38 | 2022-07-15 |  |
 | [NATALIA](https://open.spotify.com/track/2aDPoUzGObJPHQvzwaabq4) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [NATALIA](https://open.spotify.com/album/0LIBTbu2GkzaCOdiR9JjRT) | 2:39 | 2021-12-24 |  |

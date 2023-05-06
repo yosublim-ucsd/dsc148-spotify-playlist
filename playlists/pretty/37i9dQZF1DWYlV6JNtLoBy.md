@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 529 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 536 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Mungu Mkuu](https://open.spotify.com/track/50Fkvb6cISuTobM1YA7Gys) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Mungu Mkuu](https://open.spotify.com/album/7d5UjFXgi6OO2MYYsFx8aj) | 5:03 |
 | 50 | [My Everything](https://open.spotify.com/track/701bS0JRIz8otP7cNysD63) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Gospel EP](https://open.spotify.com/album/4IAGY70XLlwIs5X4ALHtZ1) | 3:57 |
 
-Snapshot ID: `MCw4NTgzNzY2ZjliMzg0MjBhNzEyMmIyMDhmOGU2ZTRhYWJmOTE1OTMx`
+Snapshot ID: `MCwwMWYwNzg1N2E1MDI3ZDI5NzNhMmQ2N2IwZjI2MWY1NGE4ZWI5ZmE1`

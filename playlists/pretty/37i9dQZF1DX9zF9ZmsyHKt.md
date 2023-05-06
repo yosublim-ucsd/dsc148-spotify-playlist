@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,927 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,982 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 |
 | 100 | [Rosa amarela](https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Rosa Amarela](https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX) | 3:18 |
 
-Snapshot ID: `MCxhMzFlNjhkM2QwZDRiNGIwODI2Mjc3YmExODI3ZDEzZjFiZTkzYWQx`
+Snapshot ID: `MCw3Y2E5NTU5MDM2ODZhNWFmMGFiNTUzMDY3MTA1MzExZjAxNGU2OGM2`

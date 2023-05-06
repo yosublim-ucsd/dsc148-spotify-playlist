@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-368 songs - 18 hr 48 min
+370 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Come With Me](https://open.spotify.com/track/2778ucz8lkSP0Efmol7VO0) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Come With Me](https://open.spotify.com/album/5DqD3yuOiuaWyArTzCErwl) | 3:02 | 2022-05-27 | 2022-07-01 |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2022-04-05 |  |
 | [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 | 2022-04-05 |  |
+| [Crisp](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Crisp](https://open.spotify.com/album/57CwP4oDHIPUfG1mr5vy2P) | 2:32 | 2023-05-05 |  |
 | [Crystal Clear](https://open.spotify.com/track/0Ogm2QwgnGabdYA24p59Q4) | [Luminous](https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u) | [Crystal Clear](https://open.spotify.com/album/1tfeajzxADOTdv6bISDtqP) | 3:46 | 2022-04-05 | 2022-07-01 |
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-09-09 |  |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
@@ -253,6 +254,7 @@
 | [Play It Deep](https://open.spotify.com/track/7CMPSvxS4twJI3a7RYOC6j) | [BLK BX](https://open.spotify.com/artist/1y1qkzZPEQRXs5lHzqQP41) | [Play it Deep](https://open.spotify.com/album/3r6lYpUQHUjQEpXI7mlRzh) | 2:55 | 2022-04-05 | 2022-09-09 |
 | [Poolside](https://open.spotify.com/track/7MwdpC8XHqrQuk8PZS0H7t) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Poolside](https://open.spotify.com/album/6ZNvoxhhS4FY1nTZg1OpAj) | 2:54 | 2022-07-22 |  |
 | [Prends Une Gorgée](https://open.spotify.com/track/3GnWF937SVEkmDWCiZW2wR) | [De Mayu](https://open.spotify.com/artist/7bUlyOlDHrlNWjVUTiamjJ) | [Prends Une Gorgée](https://open.spotify.com/album/1Od3DKnrdSJkZ6bxNtjiTG) | 3:13 | 2022-04-05 |  |
+| [Pretty Party People](https://open.spotify.com/track/3IbMrPsQjOBhqM3SqgUf6B) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Pretty Party People](https://open.spotify.com/album/31i7kLJmzrGirJU54NqMOd) | 2:41 | 2023-05-05 |  |
 | [Price is Right](https://open.spotify.com/track/4wSlz46D7v1VvKB6RVsUEo) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Price is Right](https://open.spotify.com/album/4AUammqsMgkKSNGS3aJ6ff) | 2:39 | 2023-04-21 |  |
 | [Public Pope Smoke](https://open.spotify.com/track/5R834sTxkmLouUSfrrrnwD) | [Supreme.Frost](https://open.spotify.com/artist/31MX58GvqNdpjzAqZQ3nVp) | [Public Pope Smoke](https://open.spotify.com/album/1tS2NhLxePqoWMqq7EcNAJ) | 2:02 | 2022-05-20 | 2022-05-27 |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2022-04-05 |  |

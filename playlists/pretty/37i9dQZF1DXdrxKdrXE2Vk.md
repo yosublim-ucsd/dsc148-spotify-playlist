@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. This week we are featuring some of the favorite live worship tracks of our Guest Curator, Sadie Roberston.
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,116 likes - 100 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,237 likes - 100 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 99 | [Leaning \- Live](https://open.spotify.com/track/3ftY8vtaNvwIDBwbFDDFVH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Leaning \(Live\)](https://open.spotify.com/album/6UGWowK96hTdQJyZadFfyJ) | 7:56 |
 | 100 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 
-Snapshot ID: `MCw0NmEzZTk2NjhiMWZhYWEwZWRhMjQwYThhZmEwOWRhODIzNjM2M2Zi`
+Snapshot ID: `MCwyNjMwOWNjMWU3YWQ5ZjFjOWUxYTMyNWZhMzI2NjQyNTJjOGMyZWY1`

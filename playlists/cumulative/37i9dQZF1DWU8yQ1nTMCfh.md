@@ -2,9 +2,9 @@
 
 ### [Rock Total](https://open.spotify.com/playlist/37i9dQZF1DWU8yQ1nTMCfh)
 
-> Las nuevas vibras del rock en español\. Cover: Rodrigo y Gabriela
+> Las nuevas vibras del rock en español\. Cover: WOS
 
-205 songs - 11 hr 29 min
+207 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-04-15 | 2023-02-11 |
 | [De Policía a Ladrón](https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [De Policía a Ladrón](https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6) | 3:12 | 2022-04-15 | 2022-12-10 |
 | [De Sigilos y Decretos](https://open.spotify.com/track/7fqR5Ybmw7CWdTdAzf5mHB) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [De Sigilos y Decretos](https://open.spotify.com/album/1Kcf9JddHIfAopxbYjH9xD) | 3:25 | 2022-07-19 | 2022-12-17 |
+| [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-05-05 |  |
 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 | 2022-12-09 |  |
 | [Diamante](https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [El mundo no se hizo en dos días](https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP) | 4:05 | 2022-12-16 | 2023-03-02 |
 | [Dime Qué Pasó](https://open.spotify.com/track/6TVW74b5hGxhttPMVICi3c) | [Madigan](https://open.spotify.com/artist/7koaptn4z7oXGkK9wtdmyI) | [Dime Qué Pasó](https://open.spotify.com/album/0oEiIxzRvUDBbwfhMVMFYx) | 3:04 | 2022-04-15 | 2022-12-10 |
@@ -70,7 +71,7 @@
 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 | 2022-04-15 |  |
 | [El Podio del TC](https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:02 | 2022-04-15 | 2022-12-10 |
 | [El Portal](https://open.spotify.com/track/3doBRDu4E0hSEXuIDa5Ov3) | [REX MARTE](https://open.spotify.com/artist/7HQ7g5kSVZvXHhfBQzd3pk) | [El Portal](https://open.spotify.com/album/2P2Z88TI9kCt622KYLd3iS) | 4:27 | 2022-04-15 | 2022-12-31 |
-| [EL PUENTE](https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Transcender](https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk) | 3:48 | 2022-04-15 |  |
+| [EL PUENTE](https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Transcender](https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk) | 3:48 | 2022-04-15 | 2023-05-06 |
 | [El Punto](https://open.spotify.com/track/1jwJrt9jMQEjzdzqbuFxAh) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [El Punto](https://open.spotify.com/album/0zqO7xoKsIvpYqcaZDSRBZ) | 4:42 | 2022-04-15 | 2022-12-10 |
 | [El Rey](https://open.spotify.com/track/4JUcW4PdYqX3rqAPSSkbmA) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [El Rey](https://open.spotify.com/album/7FyY0zoQGvDmSlmwwICinQ) | 3:27 | 2022-04-15 | 2022-12-10 |
 | [El Tiempo Lo Devora Todo](https://open.spotify.com/track/7iBrgjspfHwJkVsU0XNX6R) | [Supersilverhaze](https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 3:54 | 2022-04-15 | 2022-12-10 |
@@ -145,7 +146,7 @@
 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:57 | 2022-12-09 |  |
 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 | 2023-04-14 |  |
 | [Otra Vez \(Otra Vez\)](https://open.spotify.com/track/17yD1QTXS8nlfKOForUgzC) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Otra Vez \(Otra Vez\)](https://open.spotify.com/album/20ZRFgY2obZ2rvZtxL0Ceg) | 3:12 | 2022-04-15 | 2022-12-24 |
-| [Para Siempre](https://open.spotify.com/track/2VqVScPVFQLtg6bDtnhQW3) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Para Siempre](https://open.spotify.com/album/1SCkHpyMe6KZK5ScMcrp9a) | 3:36 | 2023-04-14 |  |
+| [Para Siempre](https://open.spotify.com/track/2VqVScPVFQLtg6bDtnhQW3) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Para Siempre](https://open.spotify.com/album/1SCkHpyMe6KZK5ScMcrp9a) | 3:36 | 2023-04-14 | 2023-05-06 |
 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 | 2023-02-11 |  |
 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 | 2022-04-15 | 2022-12-10 |
 | [Phantom Tide](https://open.spotify.com/track/1WMUG4qM8koBr8Libld4VP) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Phantom Tide](https://open.spotify.com/album/4ZM3DGuoQYtGmaDaYECAQ1) | 2:52 | 2022-04-15 | 2022-12-10 |
@@ -202,6 +203,7 @@
 | [True Nature](https://open.spotify.com/track/7u4CFjfUADO2LTRcFdEimj) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:22 | 2023-04-21 |  |
 | [Trueno](https://open.spotify.com/track/7kBi255cSaTNYI6bNq3Yf3) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Trueno](https://open.spotify.com/album/0jqnLzo96FODjGzBeXFmXe) | 4:20 | 2022-04-15 | 2022-12-10 |
 | [Tu Tiempo](https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:25 | 2023-01-13 |  |
+| [Veneno](https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Veneno](https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC) | 3:10 | 2023-05-05 |  |
 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 | 2022-04-15 |  |
 | [Vigilantes del Espejo](https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Detrás del Espejo: Variaciones y Ecos](https://open.spotify.com/album/3fnqOpqZRoC8rol5S1pgRh) | 3:23 | 2022-04-15 | 2022-12-13 |
 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 | 2022-07-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,496 likes - 118 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,508 likes - 118 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 117 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 |
 | 118 | [Forever Young](https://open.spotify.com/track/1YoOexv2qAxVZo5xnLlt5h) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Forever Young](https://open.spotify.com/album/5ETornmpL2uUmYDdtF0Oy4) | 3:39 |
 
-Snapshot ID: `MCw2YzY3ZDRhMzc5N2Y5ZjlmNThlMmNlYzZjODAwZDc5ZWUyNDE0MmZm`
+Snapshot ID: `MCw0Zjg3ZDdiNGM5ZGFlMTE0NWM2YmFjYzM5YzI3OTU1OWM3Zjg4ZWMz`

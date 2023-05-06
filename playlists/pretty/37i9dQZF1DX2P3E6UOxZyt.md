@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LÜCY
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,058 likes - 67 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,073 likes - 67 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [Let Go](https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Let Go](https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H) | 3:19 |
 | 67 | [因為我還年輕](https://open.spotify.com/track/2rJZJT8waYGkWIDlP6OKVI) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [因為我還年輕](https://open.spotify.com/album/6KGZcpuMVu6pKO7E0XMCDH) | 3:30 |
 
-Snapshot ID: `MCw1ZGNlMmFhMmZjYjVjMzkyMjJjOGQ0MGMyMmM0Nzc0ZDZlMDEzMWY3`
+Snapshot ID: `MCxmZGU1YTY1MmVjMTQzMzNjZWFkYzRjODkwZjZiMDY1YTM4M2U0Yjdi`

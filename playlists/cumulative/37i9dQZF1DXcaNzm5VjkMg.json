@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "Cintanya Aku",
+        "url": "https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234125,
+      "name": "Cintanya Aku",
+      "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
+    },
+    {
+      "album": {
         "name": "COBA CINTAKU",
         "url": "https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp"
       },
@@ -490,7 +512,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210490,
       "name": "I Can't Wait x Tak Bisa Bersama",
       "url": "https://open.spotify.com/track/35o9kIkPKgolXQFxOcupPf"

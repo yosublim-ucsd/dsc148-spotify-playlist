@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,362 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,403 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Motown](https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Tracee Meyn](https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly) | [Motown](https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l) | 6:28 |
 | 50 | [Tensions](https://open.spotify.com/track/2QQUDbP66s6xGINZZNkICG) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Tensions](https://open.spotify.com/album/0a8YaBpZkRFwqlsFyfAMKF) | 6:28 |
 
-Snapshot ID: `MCxkNjY5NTBjOTI1Y2FiYzNjMjU0ZjNmNjJkMDMyNTc1ZDk0MTA3MjE0`
+Snapshot ID: `MCwyZGY5YzY5NTRjM2U4YzMwZjBlMzIwZjY1NzQ5ZTQ3MjdmMWQ4ODMx`

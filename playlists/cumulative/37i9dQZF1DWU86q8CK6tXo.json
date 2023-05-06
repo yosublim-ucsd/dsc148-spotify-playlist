@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
       },
@@ -2778,6 +2796,24 @@
       "duration_ms": 214989,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1S5c3aXnTcoAFFhGQ4FrTX"
+      },
+      "artists": [
+        {
+          "name": "MILCK",
+          "url": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172166,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5v2HlTA9HGIp97umphPlKP"
     },
     {
       "album": {
@@ -7986,7 +8022,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 296973,
       "name": "Just Like In Heaven",
       "url": "https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV"
@@ -10014,7 +10050,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 215000,
       "name": "NANANA",
       "url": "https://open.spotify.com/track/3cjm5VQKY4lKbZQPv0AxNE"
@@ -10252,6 +10288,24 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
+    },
+    {
+      "album": {
+        "name": "Why Does the Earth Give Us People to Love?",
+        "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356474,
+      "name": "no fun/party",
+      "url": "https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK"
     },
     {
       "album": {
@@ -16912,7 +16966,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 213084,
       "name": "you don't think about me",
       "url": "https://open.spotify.com/track/7zYgEjgM8wp0m1e3qsFFDS"

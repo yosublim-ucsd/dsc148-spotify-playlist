@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,880 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,866 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 49 | [Nightlife](https://open.spotify.com/track/6b2mRkThwyuVlw9IYW7aST) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Nightlife](https://open.spotify.com/album/4ZpE0RfPiMkohY2AHZoUHe) | 3:19 |
 | 50 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 |
 
-Snapshot ID: `MCw3ZmFlMjFkNmM4NjgyMDcyZWU4ZGVjN2NjMzU3ZmZiOGRhNjZlM2I3`
+Snapshot ID: `MCw3MTI3ZDdmYTA0ZmQ3ODI2YjcyNzBlNjVkMjc5OTM1OWY5OTI3ODA2`

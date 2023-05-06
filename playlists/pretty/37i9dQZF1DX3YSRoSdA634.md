@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Having a bad day? We know how it feels!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,885,254 likes - 200 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,886,298 likes - 200 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [When She Loved Me \- From "Toy Story 2" / Soundtrack Version](https://open.spotify.com/track/780W6YW5HFANQLR77Owern) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 3:03 |
 | 200 | [Cry with you](https://open.spotify.com/track/46LAHXpuIUZ5kR7AyQ1qmd) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:37 |
 
-Snapshot ID: `MCxiNzFiZmUzOTUyOTc1YzIzOGFjZGU4NDJmNTVkYzZlZDUwYjgzZWE0`
+Snapshot ID: `MCw5NDJkYzU1NDI2Y2ViNDcxZjBkYjMxZGFmYzQyNDU2NjViMjEyNzRj`

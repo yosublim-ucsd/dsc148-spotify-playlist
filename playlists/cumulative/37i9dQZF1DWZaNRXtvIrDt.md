@@ -2,7 +2,7 @@
 
 ### [Portal](https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt)
 
-> a new world of alternative electronic music\. Cover: Nabihah Iqbal
+> a new world of alternative electronic music\. Cover: Fred Again.\. & Brian Eno
 
 261 songs - 19 hr 38 min
 

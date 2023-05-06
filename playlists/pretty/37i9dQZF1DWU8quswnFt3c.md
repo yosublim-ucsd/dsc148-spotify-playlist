@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Katherine Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,091 likes - 78 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,380 likes - 78 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 77 | [Hamari](https://open.spotify.com/track/67xVBSXBy7QXDMafOKj5D2) | [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [Hamari](https://open.spotify.com/album/6JcX3H3h6JC0naU0KEpVOM) | 5:05 |
 | 78 | [Dua Sejoli](https://open.spotify.com/track/1olV4sMH1nQ9GPXTyJYTlQ) | [Titiek Puspa](https://open.spotify.com/artist/3xNnuifrhhASrcBsxQb5G1) | [69 Tahun Perjalanan Karir Titiek Puspa](https://open.spotify.com/album/78CUB4rZiAFctJvtaLBeRf) | 3:34 |
 
-Snapshot ID: `MCxkNmExNjM1NzJmOWYxZDIzNGY2MWY0N2ExYzJiZTMzNmVkOWRkYjg1`
+Snapshot ID: `MCw2MWUwYmI0NjgwOWU4MjcwMTRiY2NhYjA1MGE2YzhiYTMwNTE2Yjhj`

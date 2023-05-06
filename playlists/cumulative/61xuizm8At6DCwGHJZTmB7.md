@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-274 songs - 1 day 2 hr 33 min
+275 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Pour My Love On You](https://open.spotify.com/track/0THyR6FIUIrWVOQIYePq2p) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Jonathan Lewis](https://open.spotify.com/artist/0yw87LS4yMQ6WhI2pZAPRY) | [Moments: Near 007](https://open.spotify.com/album/4WAhiiG3HkSMh7OvFMGqRA) | 11:31 | 2022-11-11 |  |
 | [Prodigal \- Live](https://open.spotify.com/track/7CfeMjtSGL2W41GgvBP8D8) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Barbarians \(Live\)](https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo) | 6:45 | 2023-02-24 |  |
 | [Promises](https://open.spotify.com/track/3wkcyREQrVVDOIUjx1eZ1W) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Promises](https://open.spotify.com/album/0Aq2RVdHV4pzxDTNi3UP7b) | 4:47 | 2022-02-17 | 2023-01-05 |
+| [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 | 2023-05-05 |  |
 | [Pursuit \(As The Deer\) \- Live](https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Pursuit \(As The Deer\) \[Live\]](https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F) | 6:14 | 2022-10-31 |  |
 | [Radical Love \(The Joy Song\) \- Live](https://open.spotify.com/track/2WeQ5ufNKqxIkCdcNms3tH) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Radical Love \(The Joy Song\) \[Live\]](https://open.spotify.com/album/4UYnCX4Xnlf4Po9jhgvoZy) | 5:21 | 2023-01-27 |  |
 | [Raise A Hallelujah \- Live From Passion 2020](https://open.spotify.com/track/7GT8eex9MR0kW80XSMYlYg) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:39 | 2022-02-17 | 2023-01-05 |

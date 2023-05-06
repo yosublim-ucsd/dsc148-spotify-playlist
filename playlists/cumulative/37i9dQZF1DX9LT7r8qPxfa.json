@@ -2471,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Private Life",
+        "url": "https://open.spotify.com/album/4VPPGtD8UErhmPMKixf5Qx"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207297,
+      "name": "Private Life",
+      "url": "https://open.spotify.com/track/27kWVlrIBpEsEugNrBNd9c"
+    },
+    {
+      "album": {
         "name": "Prove It",
         "url": "https://open.spotify.com/album/0nUe42yrUWiUl7pTUhPwGy"
       },
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 284951,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/6gjkQKgCWQA2ZA9froITyw"

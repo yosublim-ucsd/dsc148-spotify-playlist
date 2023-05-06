@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,749 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,799 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Why Me \- Live](https://open.spotify.com/track/6m8OOi2u7gre29fIYYHrJi) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live From Austin, TX](https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF) | 3:48 |
 | 150 | [Dixieland Delight \- Live](https://open.spotify.com/track/3PHaozz42k50ctvbLEawdu) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [At The Ryman \(Live\)](https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd) | 12:05 |
 
-Snapshot ID: `MCw1YTU1ZTY5ODllMjY2OTFlZDI2YjQ4MjAyYTQzNjE2NGQ0YTA3NTY3`
+Snapshot ID: `MCw4ZDRiYjM2MjA4ZWUyMjBmOWQ4ZGUwY2VhOWM2NDY4ODkyMTYzNGI2`

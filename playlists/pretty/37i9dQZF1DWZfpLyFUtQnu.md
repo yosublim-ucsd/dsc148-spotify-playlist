@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,301 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,405 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Parce Qu'On Vient De Loin \(Version Acoustique\)](https://open.spotify.com/track/66BL8LOHoqwGgPzMOraqtW) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 4:01 |
 | 75 | [Allez reste \(feat\. Vianney\)](https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Loin des yeux](https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil) | 2:47 |
 
-Snapshot ID: `MCw5NmFhZDdlOTI4OTg2ODBiM2VlMTYxZDQwNGZkNDg5MTk2ZTBjODVl`
+Snapshot ID: `MCxkNWQ1OTRhZTdhN2U5NDlmMjQ5Njg0NjllYmUzN2IxMmQzNTUxYmVl`

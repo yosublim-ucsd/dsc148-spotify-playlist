@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,164 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,445 likes - 150 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 | 149 | [Hello Mary Lou, Goodbye Heart \- Remastered](https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:18 |
 | 150 | [Knock On Wood](https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Greatest Hits](https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V) | 4:10 |
 
-Snapshot ID: `MCw5MWZiOTEyN2VhYTRkYmU2NjM3NGJmMDA1MTUyZmU5MTE4MTI2YWU1`
+Snapshot ID: `MCxiMzdiOGNlNjA4OTNlYjgxYmE3OTNkMDk2ZjY4NDAzYTE1OTRkMGMx`

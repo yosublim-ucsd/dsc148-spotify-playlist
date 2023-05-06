@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,429 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,506 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 |
 | 100 | [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 |
 
-Snapshot ID: `MCwxYzM2ZmI4MmY2NWQ1OWE5ZWU0OTlkMmQ2ZjU1YTI0YzE1MGJlNWVm`
+Snapshot ID: `MCw2MjhmNTNmM2NlNWZlMDlhNDk5M2JjOTYxZGExNDEwMWI0MGYwMzk3`

@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-117 songs - 7 hr 47 min
+118 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Old MacDonald Zulu Style](https://open.spotify.com/track/73gBGz0ByDjEx8ZRhPOIjO) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 3:18 | 2021-12-28 | 2022-10-13 |
 | [Once In a Blue Moon](https://open.spotify.com/track/1aJD2XbbrBlhjg8zi63o0d) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [In Harmony](https://open.spotify.com/album/0Ei2iU4AG1Qgz23S5pNpjf) | 3:57 | 2022-11-23 |  |
 | [Passage to Promise](https://open.spotify.com/track/7rFbSBTKulTxbuM3Z8ncSe) | [Andreas Vollenweider](https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Walter Keiser](https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX) | [Book of Roses](https://open.spotify.com/album/3f3DZviJ9w39tCBsj2go2F) | 2:29 | 2022-10-12 |  |
-| [Paulina](https://open.spotify.com/track/6htw75SIT1q1SSp681lA2V) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 3:45 | 2021-12-29 |  |
+| [Paulina](https://open.spotify.com/track/6htw75SIT1q1SSp681lA2V) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 3:45 | 2021-12-29 | 2023-05-06 |
 | [Peace Train/Isitimela Sokuthula](https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:40 | 2021-12-28 |  |
 | [People Get Ready](https://open.spotify.com/track/59eUyVQKwDYI92CQFfo1q4) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 5:56 | 2021-12-31 | 2022-05-27 |
 | [Possessed \(feat\. Kerwin Du Bois & Ladysmith Black Mambazo\)](https://open.spotify.com/track/2DrPhYull6fT49DUOdEbyw) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Machelements \(Volume 1\)](https://open.spotify.com/album/5swDuO84IPdgpn4dzAmTIJ) | 3:57 | 2021-12-28 |  |
@@ -99,6 +99,7 @@
 | [River Of Dreams](https://open.spotify.com/track/3XCAO6v3Rkz4q2yzyMAauZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 5:31 | 2021-12-28 | 2022-10-13 |
 | [She'd Say \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/2SPqhlmGmYCM4oU4HGCnsx) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:26 | 2021-12-28 |  |
 | [Shosholoza](https://open.spotify.com/track/2O32KTWp8w2JO0v58wuNQa) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Long Walk to Freedom](https://open.spotify.com/album/2olJjVdkyXb7NebI6vegAK) | 4:52 | 2021-12-28 | 2022-10-14 |
+| [Siligugu Isiphambano](https://open.spotify.com/track/1NPc4dIbxgekcxpJIMa6A6) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Umthombo Wamanzi](https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM) | 3:37 | 2023-05-05 |  |
 | [Siligugu Isiphambano](https://open.spotify.com/track/7H3kEcq9CrYW2FqlXM4g6V) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 3:37 | 2022-04-11 | 2022-04-13 |
 | [Swing Low Sweet Chariot](https://open.spotify.com/track/1xqIZGxTRGVp5ZTpdU4d7J) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 3:52 | 2021-12-28 | 2022-10-11 |
 | [Swing Low Sweet Chariot](https://open.spotify.com/track/5BujScz3tYp115DoioZUCs) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:52 | 2022-10-24 |  |

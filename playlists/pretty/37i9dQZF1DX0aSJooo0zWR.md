@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,600 likes - 80 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,713 likes - 80 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Eastern Kaleidoscope](https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Eastern Kaleidoscope](https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI) | 6:24 |
 | 80 | [Big Bang](https://open.spotify.com/track/5D3qsYYQev3PM5I2e7spp5) | [Klaus Doldinger's Passport](https://open.spotify.com/artist/4EjjMTj801PRhn5aje8gsp) | [Garden Of Eden](https://open.spotify.com/album/3ftpM0sGdtCqJl0DnO8RJD) | 3:54 |
 
-Snapshot ID: `MCw4Y2Y0ODE4NWE4YzBmMjk1ZWE2NmU3MWNkMzVhNmM2MWEzYjM4ZDdl`
+Snapshot ID: `MCxiMDI0OWEzYjgxOTEzZmRkYWZjYzI0MjE4ODVkYmU4MmU3YzZkYjE5`

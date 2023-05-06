@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,889 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,915 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [Heat](https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Philippe Saisse](https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ) | [Heat](https://open.spotify.com/album/50h9oPdFPFkcbCDrS6b4XS) | 4:24 |
 | 100 | [Slam Dunk](https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 4:40 |
 
-Snapshot ID: `MCxjNDdhNTAzYjMwMmY3NTdmYjI4MmU2ODM1MDkwMzA5Y2EwYzJhNGIy`
+Snapshot ID: `MCw2OTQ4MTZkZmM4NjkxYzhmZDU4MmQyZTlhZjBhYzA4MGZhZWI0ZWVi`

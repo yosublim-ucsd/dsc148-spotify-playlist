@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Ana Sanz
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,874 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,896 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 99 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 |
 | 100 | [Somos aire](https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o trato](https://open.spotify.com/album/4U65heHTb2hRm7xjo6z4W7) | 3:31 |
 
-Snapshot ID: `MCwxMTQ4ODdhYjdkNThjZjY1NzMxZTJiM2QyMTM4ZWNkZDdkODg3ODUy`
+Snapshot ID: `MCwyNzhmMmNiYTIwOWIxMTVlMWU0NGI2OWI4YTEwYjY3NDMyMGJhNTU2`

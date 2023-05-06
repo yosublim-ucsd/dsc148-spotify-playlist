@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-316 songs - 18 hr 38 min
+317 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Crosswords](https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Crosswords](https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp) | 2:33 | 2021-06-22 | 2022-07-29 |
 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 | 2023-03-17 |  |
 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 | 2022-06-30 | 2023-04-09 |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-05-05 |  |
 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2021-06-22 |  |
 | [Delilah](https://open.spotify.com/track/2MOsa4NltIx6KhJPaDhWAl) | [Aeris Roves](https://open.spotify.com/artist/1O5IeYqvtwnWzlNq3Ux3jd) | [Moon By Island Gardens](https://open.spotify.com/album/76XVjqkXUROffb5jrbdeOK) | 3:07 | 2022-05-27 | 2022-07-29 |
 | [Depths \(Pt\. I\)](https://open.spotify.com/track/5JMY7l5GE5ze1mdkyDptdh) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Willowbank](https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03) | 2:50 | 2022-10-28 | 2022-11-13 |
@@ -295,7 +296,7 @@
 | [Water Under the Bridge](https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:00 | 2022-07-22 |  |
 | [Water Under The Bridge](https://open.spotify.com/track/7xfzwPasShmaPL7gB7va3J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:00 | 2021-06-22 | 2022-07-29 |
 | [What A Day](https://open.spotify.com/track/2cnuiYBSniFCbnVBw2vVXH) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [What A Day](https://open.spotify.com/album/66qrZ13E9AatdoK9DIVO5v) | 3:09 | 2021-06-22 | 2022-05-18 |
-| [What Makes A Life Good?](https://open.spotify.com/track/4IU62RQTQlHDjU9Uk44p8x) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [What Makes A Life Good?](https://open.spotify.com/album/0jgTUkzTvA8f4j5WiGbw58) | 3:48 | 2023-04-28 |  |
+| [What Makes A Life Good?](https://open.spotify.com/track/4IU62RQTQlHDjU9Uk44p8x) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [What Makes A Life Good?](https://open.spotify.com/album/0jgTUkzTvA8f4j5WiGbw58) | 3:48 | 2023-04-28 | 2023-05-06 |
 | [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2021-06-22 | 2022-05-28 |
 | [What's A Song](https://open.spotify.com/track/19EIuWpVEtyoBGyUVuFg6k) | [Joel Baker](https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY) | [What’s A Song](https://open.spotify.com/album/74mkzHkJU9B7HJ2y5ykCxc) | 3:15 | 2022-07-15 | 2022-07-20 |
 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 | 2022-07-22 |  |

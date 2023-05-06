@@ -1034,10 +1034,28 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 199831,
       "name": "APA",
       "url": "https://open.spotify.com/track/3vKYvbzB7801a5qd47pxkm"
+    },
+    {
+      "album": {
+        "name": "aPoLLo13",
+        "url": "https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160547,
+      "name": "aPoLLo13",
+      "url": "https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4"
     },
     {
       "album": {
@@ -4702,6 +4720,28 @@
       "duration_ms": 168520,
       "name": "Flow 2000 - Remix",
       "url": "https://open.spotify.com/track/7fRtruULHGuwC0wNRx1HSa"
+    },
+    {
+      "album": {
+        "name": "Flow Violento (Remix)",
+        "url": "https://open.spotify.com/album/6iWto0Hn1ZEAbOjym7ZTEL"
+      },
+      "artists": [
+        {
+          "name": "YoSoyPlex",
+          "url": "https://open.spotify.com/artist/4x6RfZKryEo441M8BscIJ0"
+        },
+        {
+          "name": "Ruven",
+          "url": "https://open.spotify.com/artist/28alLwceRIxNti9r9M9sPf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166533,
+      "name": "Flow Violento - Remix",
+      "url": "https://open.spotify.com/track/66j4P6CdkPZQW5q0Lv3Vn8"
     },
     {
       "album": {
@@ -13966,7 +14006,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194400,
       "name": "YANKEE",
       "url": "https://open.spotify.com/track/0FirgnvrpCkkhdaq64Gfen"

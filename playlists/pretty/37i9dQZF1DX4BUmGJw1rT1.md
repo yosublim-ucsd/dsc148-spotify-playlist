@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,126 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,223 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [I Shouldn't Care \- Bonus Track](https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [I Shouldn’t Care \(Bonus Track\)](https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng) | 3:39 |
 | 100 | [Love At First Sight](https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Love At First Sight](https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF) | 3:28 |
 
-Snapshot ID: `MCxhMjZlY2NlOTY5NTkyOWMxMjNhYTJlNjgzNzI1Nzg0YTcwMGFlNTEw`
+Snapshot ID: `MCw4YzJkNjY0OTgwMjExM2RlOWE5YWFkMWI1MzJlNWNkODM5MzJkYWRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,391 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,396 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 99 | [Estancia / Danzas del Ballet: III\. Los peones de hacienda \- Live At Centro de Acción Social por la Música, Sala Simón Bolivar, Caracas / 2008](https://open.spotify.com/track/0e3dZBAIU40GtrBeEl9wuZ) | [Alberto Ginastera](https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Fiesta](https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP) | 1:58 |
 | 100 | [Abertura em Ré](https://open.spotify.com/track/3adOPOSZ1UDZm0KE0iv6gX) | [José Maurício Nunes Garcia](https://open.spotify.com/artist/1cXDibzdR0jcIjv5Vuqqt8), [Vox Brasiliensis](https://open.spotify.com/artist/3A7W6Vmh2ufEM3adhnglrB), [Ricardo Kanji](https://open.spotify.com/artist/31Ifo0Eh3EOzqR7Tjtfmdk) | [Música Sacra do Brasil](https://open.spotify.com/album/4qLounK5Id31Qwk6PFkCUr) | 4:32 |
 
-Snapshot ID: `MCw5NGIwM2M2ZjM5MDkwYTQ0NDk0YzJkYTU5YjE1ODJkY2Y3NjhmMzZl`
+Snapshot ID: `MCwyZjNjMDE5MGZhNTJiMGJmMjA2NDIxMTU2NGU3NTAwMmZkYzk3NzYw`

@@ -1058,6 +1058,28 @@
     {
       "album": {
         "name": "Imagina",
+        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297664,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
+    },
+    {
+      "album": {
+        "name": "Imagina",
         "url": "https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo"
       },
       "artists": [
@@ -4362,7 +4384,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 315986,
       "name": "Diggy Diggy Hole",
       "url": "https://open.spotify.com/track/4KUaNBVG2YRoIrg8ajzBaf"
@@ -5182,7 +5204,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 166000,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/1VFTF35B6jkkFAXiNCuoEs"
@@ -6340,7 +6362,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 183286,
       "name": "Gabbana",
       "url": "https://open.spotify.com/track/1zkoSIuTrvJ1N4Bfqn76B3"
@@ -11624,6 +11646,24 @@
     {
       "album": {
         "name": "NARCISSISTIC PERSONALITY DISORDER",
+        "url": "https://open.spotify.com/album/2iLfp8BAcBilTaO88gGzNq"
+      },
+      "artists": [
+        {
+          "name": "FenoSkii",
+          "url": "https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110510,
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "url": "https://open.spotify.com/track/19eQKZicAzXgQ2Tg3y4K0N"
+    },
+    {
+      "album": {
+        "name": "NARCISSISTIC PERSONALITY DISORDER",
         "url": "https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd"
       },
       "artists": [
@@ -11634,7 +11674,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 110510,
       "name": "NARCISSISTIC PERSONALITY DISORDER",
       "url": "https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29"

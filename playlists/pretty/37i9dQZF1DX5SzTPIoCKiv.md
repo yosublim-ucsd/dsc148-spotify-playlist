@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,735 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,856 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [Not Today](https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:13 |
 | 100 | [I CHOOSE TO WORSHIP](https://open.spotify.com/track/4lVkwkjR27tEl9i8ZG7MTb) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [CHOOSE TO WORSHIP](https://open.spotify.com/album/2YkuRwXmz9uCPklzmKZ69L) | 4:26 |
 
-Snapshot ID: `MCxkYjg0ZDc1MWMyZDU1MzljYWM2OTJjOTE3YTg1NWEwMDcyNWM2MTY2`
+Snapshot ID: `MCwzMTU5MmNlNjdhNTRkZWZmZjJkNGUwYjY3MzFjZmE1NmVjZTRjMjE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > Celebrating the powerful voices of Latin music\. Cover: Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,889 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,000 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 99 | [Bailo Pa Ti](https://open.spotify.com/track/0eRPNA76bLUkPUk2YMUcQk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bailo Pa Ti](https://open.spotify.com/album/5qAD8mFpMoR9mrGzAPqJHn) | 3:20 |
 | 100 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
 
-Snapshot ID: `MCxlNTE5NzAzODhmYTcwY2IyMjhmOWY5ZjQ0ZDBhYjNhYjVlZWY0OGQy`
+Snapshot ID: `MCxmYjM5MDI4ZTkxMmZkNGM0Njg2YmNkMzJiMTk3ZDQ1YWQ5MTJmZDUy`

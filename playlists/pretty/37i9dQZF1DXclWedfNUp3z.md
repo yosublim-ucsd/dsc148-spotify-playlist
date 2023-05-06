@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,228 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,311 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 |
 | 100 | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [k o : d a](https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2) | 3:58 |
 
-Snapshot ID: `MCwwM2ZiMTI1MDZiYzJmNjFhMjM4ZGM0ZmYyZWUxZWJiYWQwYzk1OTRj`
+Snapshot ID: `MCxkMzM2MmZiMTM2OTAwZDFhZGVlNTU0Nzg5YTk4MWNhNGMxNDQyNzQ2`

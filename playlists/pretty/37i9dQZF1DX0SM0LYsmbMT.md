@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,141,305 likes - 300 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,141,537 likes - 300 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Midnight Dinner](https://open.spotify.com/track/288UlMNjTPKmHqSFg7m09C) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Midnight Dinner](https://open.spotify.com/album/1pvKrUZOlXgmxyWRhcPq73) | 1:52 |
 | 300 | [In Between](https://open.spotify.com/track/7D56BYZHOiHXNXBcVJI0Sl) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [In Between](https://open.spotify.com/album/7zLjHv906AQXMJ6307lqWL) | 1:58 |
 
-Snapshot ID: `MCw4YzQxMmI2YjUyYTYwM2M0ZjIyNDRiYWNmOTk4MThjNjUxZjIzMTRk`
+Snapshot ID: `MCwwYmI3Y2NkMWRmNTA4OGVkYTU4MjQ3MzEzYWQ4MDUxZTNhZjI2MzEz`

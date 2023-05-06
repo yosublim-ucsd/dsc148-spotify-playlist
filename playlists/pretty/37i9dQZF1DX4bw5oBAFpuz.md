@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,499 likes - 248 songs - 14 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,528 likes - 248 songs - 14 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 247 | [Queen of Elba](https://open.spotify.com/track/1e402nE03yvaw6YFruqc25) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ) | 3:56 |
 | 248 | [Walk on Water](https://open.spotify.com/track/7gJxovbniGxd1capql4YkA) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:34 |
 
-Snapshot ID: `MCw1MjU0YmQzMmY4OGRkZDlhZGYwZmZmNGJkZThiOTIxY2Y4ZWVmM2Uw`
+Snapshot ID: `MCxkMDQyMmU3NjUxZmUzOTE4NThhMjUxODMwNGQzZTllZjM0YjRlYTAy`

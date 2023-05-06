@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-961 songs - 21 hr 50 min
+963 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Away With Me](https://open.spotify.com/track/11xSEDkKHlTTLaF4Y7aL1f) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |
 | [Back Home](https://open.spotify.com/track/0IyTpgi77rDglvxb97mi7I) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:10 | 2022-01-12 |  |
 | [Balance](https://open.spotify.com/track/1TzeN9UeIfkw26sn0U88EQ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Balance](https://open.spotify.com/album/3tbQGMTiTKWr24aemv07Uh) | 1:01 | 2023-05-01 |  |
+| [Balance Arr\. For Cello](https://open.spotify.com/track/3kVRMbllRfTwpPQdmnYnWw) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Balance Arr\. For Cello](https://open.spotify.com/album/1pp6s7tOnu8WzoqMy2daUf) | 1:01 | 2023-05-05 |  |
 | [Bare](https://open.spotify.com/track/5ccbZRLFO7X9TJkALMRLKZ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:37 | 2022-01-20 |  |
 | [Barriers Between](https://open.spotify.com/track/7GI5F432HpRntYFtSKrtMD) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Barriers Between](https://open.spotify.com/album/36BOhfw1l2Ywd9HpOlQqqh) | 1:01 | 2022-02-24 |  |
 | [Bath](https://open.spotify.com/track/0xVDJ29bnFPSroQqq4GgKU) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Beyond](https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I) | 1:04 | 2022-01-12 |  |
@@ -653,6 +654,7 @@
 | [Reading The Clouds](https://open.spotify.com/track/6SvWKLeu59Vys0mYhYZ2cA) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Reading The Clouds](https://open.spotify.com/album/6gymokvnt7nE0apSh1KyKN) | 2:47 | 2022-01-12 | 2023-04-09 |
 | [Recreating](https://open.spotify.com/track/0k2eVvdDcy385P0RHRPtSS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:26 | 2022-01-20 |  |
 | [Reflecting Light](https://open.spotify.com/track/6KTQCrG3ZcdrpUn7pbU0JH) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Reflecting Light](https://open.spotify.com/album/4YfeXu0eclOImmjlD5aZpX) | 1:00 | 2023-01-19 |  |
+| [Rejoice](https://open.spotify.com/track/1XFEahEM6ImxstRy6jSt1b) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Rejoice](https://open.spotify.com/album/0P4dI2nVLqSj2arXS1EjOs) | 1:01 | 2023-05-05 |  |
 | [Relative](https://open.spotify.com/track/4REktrP1OR1w04vkePLS6P) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:13 | 2022-01-12 |  |
 | [Release](https://open.spotify.com/track/2kyAl8r7d4iIcLE1z7Gexo) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:19 | 2022-01-12 |  |
 | [Remembering](https://open.spotify.com/track/5ZPla5Bc3L2e9wahFlMZfw) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Remembering](https://open.spotify.com/album/3Q9o47lcyvYNihqnauJC7O) | 1:46 | 2022-01-20 |  |

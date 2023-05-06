@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 195986,
       "name": "a friend",
       "url": "https://open.spotify.com/track/3TKRwSY9389uPAnGgUpx79"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 128571,
       "name": "April (Eyes)",
       "url": "https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 215771,
       "name": "Baby My Phone",
       "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
@@ -10417,6 +10417,28 @@
     },
     {
       "album": {
+        "name": "Firetruck (umru Remix)",
+        "url": "https://open.spotify.com/album/7wkziBoiMWKIc5jD6rVn4l"
+      },
+      "artists": [
+        {
+          "name": "SG5",
+          "url": "https://open.spotify.com/artist/7D2TZnpK65Crptr2BgWrJ6"
+        },
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Firetruck (umru Remix)",
+      "url": "https://open.spotify.com/track/4uRlCLIdCetmRMYC5QFluW"
+    },
+    {
+      "album": {
         "name": "fish don't sleep",
         "url": "https://open.spotify.com/album/2o6nzB4Rj6KWGH6exQGKMc"
       },
@@ -12427,6 +12449,28 @@
     },
     {
       "album": {
+        "name": "goddammit.",
+        "url": "https://open.spotify.com/album/4YQz0KegsElofuJ6A3QtFs"
+      },
+      "artists": [
+        {
+          "name": "bodyimage",
+          "url": "https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg"
+        },
+        {
+          "name": "Sophia Black",
+          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178493,
+      "name": "goddammit.",
+      "url": "https://open.spotify.com/track/005w7f7Ect0chkLpfGmYvx"
+    },
+    {
+      "album": {
         "name": "I'm the Best!!",
         "url": "https://open.spotify.com/album/6w9oUGbZ82ofJcFUSM0fUA"
       },
@@ -12782,7 +12826,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 206931,
       "name": "GROUNDBREAKER",
       "url": "https://open.spotify.com/track/2PNRSiSxpNwPvWL3RBw5sU"
@@ -13084,7 +13128,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
@@ -14212,6 +14256,24 @@
       "duration_ms": 228627,
       "name": "hopele555",
       "url": "https://open.spotify.com/track/4E517TOQVETDAHzKmgmcDa"
+    },
+    {
+      "album": {
+        "name": "Forever the Sickest Rose",
+        "url": "https://open.spotify.com/album/1rSPeSb3PkGS6Cw8ikXene"
+      },
+      "artists": [
+        {
+          "name": "Peake",
+          "url": "https://open.spotify.com/artist/0soB1KCkKWNzoj6UQCsacI"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118975,
+      "name": "hopeless",
+      "url": "https://open.spotify.com/track/5SYVuaC2cmgLUvTJrZS1fO"
     },
     {
       "album": {
@@ -15962,7 +16024,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 118167,
       "name": "in my head",
       "url": "https://open.spotify.com/track/59Db7h4glgRygW36Dn15Wu"
@@ -16686,7 +16748,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 141299,
       "name": "joy - nc",
       "url": "https://open.spotify.com/track/5eOhbWDviXO6clqn33sQ6s"
@@ -16958,7 +17020,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197791,
       "name": "Keep Me Safe - Ninajirachi Remix",
       "url": "https://open.spotify.com/track/4jaJZnBGeCkBcKlUTDJPzt"
@@ -16976,7 +17038,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 188076,
       "name": "Keitai",
       "url": "https://open.spotify.com/track/590dohozCjn1gqD468XJDO"
@@ -18556,7 +18618,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 175629,
       "name": "lucid",
       "url": "https://open.spotify.com/track/1GnAz3LZ3mG5j5oqhTR3ge"
@@ -19438,7 +19500,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 283289,
       "name": "Meridians",
       "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
@@ -23026,7 +23088,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": "2021-09-24",
+      "date_removed": null,
       "duration_ms": 140016,
       "name": "Play Poker Remix - Remix",
       "url": "https://open.spotify.com/track/4HwClUHxzTmCgKkfUFPfxU"
@@ -23070,6 +23132,24 @@
       "duration_ms": 166188,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3Ruv9GEcztgqxDvbOL3ccT"
+    },
+    {
+      "album": {
+        "name": "poison",
+        "url": "https://open.spotify.com/album/7ClOXODZighfFZmOXW9ffE"
+      },
+      "artists": [
+        {
+          "name": "lieu",
+          "url": "https://open.spotify.com/artist/0MliYj4eUtEoxXU56zBOqx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101691,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/6uTNwwSVJoaJbOjVkZ4Iit"
     },
     {
       "album": {
@@ -29804,7 +29884,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 142181,
       "name": "The Fairy, the Wizard and the Moon",
       "url": "https://open.spotify.com/track/6U4O5hDzujciV75r6OKOfa"

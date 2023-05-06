@@ -3508,7 +3508,7 @@
     {
       "album": {
         "name": "Nasty",
-        "url": "https://open.spotify.com/album/2Lt6F1UoKsFa6qYk60wdOy"
+        "url": "https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4"
       },
       "artists": [
         {
@@ -3527,6 +3527,32 @@
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/2Lt6F1UoKsFa6qYk60wdOy"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
       "duration_ms": 160615,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/5mLMev7skmmcBn0Woo03SM"

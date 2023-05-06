@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,243 likes - 100 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,237 likes - 100 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Our God Is Alive](https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [With/In](https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4) | 4:47 |
 | 100 | [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 |
 
-Snapshot ID: `MCwxNTU4NmJlY2ZhNGZlMzkwOTEwMTBiMjQ0MGI3MmFhYzRhNzY0OTY0`
+Snapshot ID: `MCw3Y2U5NmRhZmU0NTg5Y2UzZmNlZGNlZmM3NjZhZDA2ODczNWI3ZmQ4`

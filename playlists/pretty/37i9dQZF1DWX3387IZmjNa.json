@@ -1,12 +1,12 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Karri",
-  "num_followers": 1985262,
+  "num_followers": 1985618,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2FiMDVjN2QwZDRkY2MwNGMwYTg2YWQ5ZDAwNDc2MmU1OWNjZTVj",
+  "snapshot_id": "MCwyOThhNTViMzAyN2FiMWQ2NWEzNDk0ODM1NjBmMjYzZGU3ZGI1N2Fi",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -101,6 +101,62 @@
       "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Secrets (feat. Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Secrets (feat. Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Her Old Friends",
+        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 256117,
+      "name": "Her Old Friends",
+      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "GEEZYWORLD 2",
+        "url": "https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Saturday (feat. Kalan.FrFr)",
+      "url": "https://open.spotify.com/track/5uQybrSaOXUjaBZCI89KQE"
+    },
+    {
       "added_at": "2023-04-28 09:25:52",
       "album": {
         "name": "Jackman.",
@@ -133,20 +189,24 @@
       "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
+      "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Her Old Friends",
-        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
+        "name": "What It Is (Block Boy) (with Kodak Black)",
+        "url": "https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 256117,
-      "name": "Her Old Friends",
-      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
+      "duration_ms": 223343,
+      "name": "What It Is (Block Boy) (with Kodak Black)",
+      "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
     },
     {
       "added_at": "2022-10-18 02:56:45",
@@ -167,26 +227,6 @@
       "duration_ms": 167977,
       "name": "Forever (feat. Fridayy)",
       "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Secrets (feat. Mariah the Scientist)",
-        "url": "https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Secrets (feat. Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -265,24 +305,20 @@
       "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
     },
     {
-      "added_at": "2023-04-28 09:25:52",
+      "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Talk More Soon",
-        "url": "https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2OlZc3EjX8Yg3G2voQc6nd"
       },
       "artists": [
         {
-          "name": "Dustystaytrue",
-          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
-        },
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
         }
       ],
-      "duration_ms": 169606,
-      "name": "Reflections (feat. Toosii)",
-      "url": "https://open.spotify.com/track/3fPjjfF6iU3uklTplZOKTw"
+      "duration_ms": 165084,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/7vq5N3HREotT71RnQoFTB8"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -319,22 +355,6 @@
       "duration_ms": 153599,
       "name": "Kissing On Your Tattoos",
       "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
-      "added_at": "2023-04-28 09:25:52",
-      "album": {
-        "name": "Toxic Ish",
-        "url": "https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh"
-      },
-      "artists": [
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 203687,
-      "name": "Toxic Ish",
-      "url": "https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -393,22 +413,6 @@
       "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
     },
     {
-      "added_at": "2023-04-28 09:25:52",
-      "album": {
-        "name": "A Life For Two",
-        "url": "https://open.spotify.com/album/2EkGUhLIGG7M5ji8stWrgw"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 163282,
-      "name": "Reservation",
-      "url": "https://open.spotify.com/track/2XT3v6Ji3xSFYTPBpwGES4"
-    },
-    {
       "added_at": "2023-03-31 08:32:56",
       "album": {
         "name": "I'M REALLY LIKE THAT",
@@ -437,20 +441,60 @@
       "url": "https://open.spotify.com/track/7eVicnA5ZWS6cq0HEiBvXK"
     },
     {
-      "added_at": "2023-04-28 09:25:52",
+      "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Spicy Tuna Yellow Tail Freestyle",
-        "url": "https://open.spotify.com/album/0mar8M4lUZgMyDkc73IWFd"
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/0fV1mTqgvlLDAcjoXuyOHS"
       },
       "artists": [
         {
-          "name": "Kodie Shane",
-          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+          "name": "Highway",
+          "url": "https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Spicy Tuna Yellow Tail Freestyle",
-      "url": "https://open.spotify.com/track/0yvxyLOcl9q2cnOj35MtLO"
+      "duration_ms": 291994,
+      "name": "All U Needed (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4BpIvMO0sf7J1Vh16bQihy"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "SHITUMSS",
+        "url": "https://open.spotify.com/album/2ZGsgclVau99YKe4WdtR67"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 135625,
+      "name": "JAGGED EDGE",
+      "url": "https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo"
+    },
+    {
+      "added_at": "2023-04-28 09:25:52",
+      "album": {
+        "name": "Talk More Soon",
+        "url": "https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc"
+      },
+      "artists": [
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 169606,
+      "name": "Reflections (feat. Toosii)",
+      "url": "https://open.spotify.com/track/3fPjjfF6iU3uklTplZOKTw"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -487,6 +531,26 @@
       "duration_ms": 160551,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/5uzTQQDcW2BbTyPsOoZreP"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "BABYST5XNE GORILLAS 2",
+        "url": "https://open.spotify.com/album/5NHBNP3hs6AP1yUVlc4VZv"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Shake That Shit (feat. Kalan.FrFr)",
+      "url": "https://open.spotify.com/track/3gP9gEf80R4j2mDjAsv6y5"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -797,46 +861,6 @@
       "url": "https://open.spotify.com/track/4hMugsbwjPBoyYwCIsqnoD"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Stargaze",
-        "url": "https://open.spotify.com/album/2iMRzFILMCwvuHk5cVZhvV"
-      },
-      "artists": [
-        {
-          "name": "Calboy",
-          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
-        }
-      ],
-      "duration_ms": 178059,
-      "name": "Stargaze",
-      "url": "https://open.spotify.com/track/6HuodZbqN0qUY1LhrKSzK5"
-    },
-    {
-      "added_at": "2023-03-31 08:32:56",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/2jFfZQtfv4KzEhIfb2sewo"
-      },
-      "artists": [
-        {
-          "name": "Rucci",
-          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
-        },
-        {
-          "name": "Bankroll Got It",
-          "url": "https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5"
-        },
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 165281,
-      "name": "Up 2 U",
-      "url": "https://open.spotify.com/track/3qNSaMXqJxfcvHDw4aSZ0Y"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "I NEVER LIKED YOU",
@@ -955,22 +979,6 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Blinded By Death (Deluxe)",
-        "url": "https://open.spotify.com/album/4iGNig0GVOAe6wsQXEJVfl"
-      },
-      "artists": [
-        {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        }
-      ],
-      "duration_ms": 155759,
-      "name": "Writing My Wrongs",
-      "url": "https://open.spotify.com/track/1yXCWJQfYF8ff7XcUzwcCy"
     }
   ],
   "unique_name": "B.A.E.",

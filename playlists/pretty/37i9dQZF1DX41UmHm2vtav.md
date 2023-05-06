@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,020 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,268 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
 | 70 | [Nunca Fui Desse Lugar \(DUX Remix\) \[Daparte feat\. Lagum\]](https://open.spotify.com/track/4e5RkL0LPzqmzlD5tIoWAO) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Nunca Fui Desse Lugar \(DUX Remix\) \[Daparte feat\. Lagum\]](https://open.spotify.com/album/7ld1TzHKmvV2kjomArv5vu) | 2:57 |
 
-Snapshot ID: `MCw0MGU0NmE1YjlhNjkwODMxZGM2ZmQ3OGYzZjk5MTQ1NzFkNGJmODc3`
+Snapshot ID: `MCwyN2VkOWVhNGY5MDcyYjg4NzliODBlNDAzNzY3ZTYwNjQ0OTM5MTJk`

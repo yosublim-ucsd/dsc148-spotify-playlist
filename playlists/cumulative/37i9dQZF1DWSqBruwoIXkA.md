@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Mimi Webb
 
-500 songs - 1 day 3 hr 47 min
+502 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2022-05-16 |  |
 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 | 2022-04-01 | 2022-05-20 |
 | [18](https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [18](https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod) | 2:58 | 2022-09-30 | 2022-12-10 |
-| [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 |  |
+| [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 | 2023-05-06 |
 | [3 Months](https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [3 Months](https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj) | 4:30 | 2023-02-03 | 2023-02-18 |
 | [3 Moods](https://open.spotify.com/track/3n9ok4Eyi26VSubDdVLA1E) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [3 Moods](https://open.spotify.com/album/5eWV4nxVgx850XQp3ZJSEn) | 3:08 | 2021-12-17 | 2022-05-20 |
 | [A Concert Six Months From Now](https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [A Concert Six Months From Now](https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J) | 3:25 | 2021-12-17 | 2022-03-26 |
@@ -262,6 +262,7 @@
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2021-12-17 | 2022-07-29 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2022-07-22 |  |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-28 | 2022-12-17 |
+| [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-05 |  |
 | [Just Married](https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:18 | 2023-02-17 |  |
 | [Keep Hoping](https://open.spotify.com/track/4RhK5GQfBDhrJfkHImoBS0) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Keep Hoping](https://open.spotify.com/album/61GIbNflbuWH1DWUoHxI8Q) | 3:26 | 2022-03-18 | 2022-04-16 |
 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 | 2021-12-17 |  |
@@ -371,7 +372,7 @@
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-10 | 2023-04-01 |
 | [Places We Won't Walk](https://open.spotify.com/track/30QNjcM3Q1GnLFIIJjWQL1) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 2:49 | 2022-06-21 | 2022-10-01 |
 | [Play Dumb](https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb](https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo) | 2:53 | 2023-02-10 | 2023-03-11 |
-| [PLEASE HURRY](https://open.spotify.com/track/1SkrD3fKSDuZNzihiCiQgl) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [PLEASE HURRY](https://open.spotify.com/album/7wi0rbpwv1PCh34B4PAGOf) | 3:44 | 2023-04-28 |  |
+| [PLEASE HURRY](https://open.spotify.com/track/1SkrD3fKSDuZNzihiCiQgl) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [PLEASE HURRY](https://open.spotify.com/album/7wi0rbpwv1PCh34B4PAGOf) | 3:44 | 2023-04-28 | 2023-05-06 |
 | [Pluto](https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Pluto](https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9) | 3:51 | 2022-01-07 | 2022-03-18 |
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-07-08 | 2022-08-22 |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2022-04-30 |  |
@@ -420,6 +421,7 @@
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-12-17 | 2022-12-17 |
 | [Stupid](https://open.spotify.com/track/42c7aUxtj89o7CxXO6bJo5) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Stupid](https://open.spotify.com/album/4nZL6dJ1pZk81IA7sPkpWz) | 2:38 | 2022-03-18 | 2022-04-21 |
 | [Stupid Cupid](https://open.spotify.com/track/08uYRkYyBrEBAolgY5irVW) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Stupid Cupid](https://open.spotify.com/album/5L3H6uXdvsSUkgSZTeU3fv) | 2:53 | 2023-03-17 |  |
+| [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 | 2023-05-05 |  |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-12-17 |  |
 | [tear myself apart](https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:45 | 2021-12-17 | 2022-07-29 |
 | [Teenage Tears](https://open.spotify.com/track/02bXsIFfIuKXcNw1LTBu80) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Teenage Tears](https://open.spotify.com/album/1V5vfb0B2U2pMuyfz3NDOi) | 3:22 | 2022-09-02 | 2022-09-10 |

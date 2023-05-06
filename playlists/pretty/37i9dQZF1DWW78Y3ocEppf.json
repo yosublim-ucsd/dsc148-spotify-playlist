@@ -1,44 +1,28 @@
 {
-  "description": "Let the songs speak. Cover: Sy Ari Da Kid",
-  "num_followers": 41166,
+  "description": "Let the songs speak. Cover: Reggie Becton",
+  "num_followers": 41173,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmFmZGE1Zjg3YTExZWRkZmQ5ZmJkY2E1N2RjYTk0YThhNTc4MWRm",
+  "snapshot_id": "MCxmZWE2YTA3OWQ3YzUwYWI1ZjcyMzI2MTQwNjE3NWY5OGVmODc5MGM2",
   "tracks": [
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "Toxicity At It's Finest (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1NgMOYIBY8EvNWNGNoT8Gf"
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
       "artists": [
         {
-          "name": "Sy Ari Da Kid",
-          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
         }
       ],
-      "duration_ms": 198501,
-      "name": "Grand Rising",
-      "url": "https://open.spotify.com/track/1QAZDfOQHp63hkoJqKSM6n"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -61,6 +45,26 @@
       "url": "https://open.spotify.com/track/3rNreFbHZADxGFssb4Ohm1"
     },
     {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "Maddest Hoes",
+        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Maddest Hoes",
+      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Stutter",
@@ -81,20 +85,24 @@
       "url": "https://open.spotify.com/track/2oMFMuDI3p05ncKqltBAgp"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "Meet Me Upstrz",
-        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
+        "name": "Take II",
+        "url": "https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf"
       },
       "artists": [
         {
-          "name": "Upstrz",
-          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        },
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
         }
       ],
-      "duration_ms": 156107,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
+      "duration_ms": 128506,
+      "name": "For The Girls",
+      "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -181,24 +189,20 @@
       "url": "https://open.spotify.com/track/6tv0ml6tExtwYWCiJfhvmN"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "Lethal Weapon (feat. Gemaine)",
-        "url": "https://open.spotify.com/album/6qxZ2LgzTGVSmLOOLjI5LT"
+        "name": "212",
+        "url": "https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk"
       },
       "artists": [
         {
-          "name": "Lily Massie",
-          "url": "https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9"
-        },
-        {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
         }
       ],
-      "duration_ms": 206002,
-      "name": "Lethal Weapon (feat. Gemaine)",
-      "url": "https://open.spotify.com/track/6fN1VPY1mndv67dhGXbJWc"
+      "duration_ms": 146799,
+      "name": "212",
+      "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -341,20 +345,24 @@
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
-      "added_at": "2022-09-09 04:09:30",
+      "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+        "name": "Glowin 4 Me (Pt. 2) [feat. Amaria BB]",
+        "url": "https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        },
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
         }
       ],
-      "duration_ms": 189462,
-      "name": "DO 4 LOVE",
-      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+      "duration_ms": 145609,
+      "name": "Glowin 4 Me (Pt. 2) [feat. Amaria BB]",
+      "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -403,6 +411,42 @@
       "duration_ms": 181830,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "added_at": "2022-09-09 04:09:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Lethal Weapon (feat. Gemaine)",
+        "url": "https://open.spotify.com/album/6qxZ2LgzTGVSmLOOLjI5LT"
+      },
+      "artists": [
+        {
+          "name": "Lily Massie",
+          "url": "https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 206002,
+      "name": "Lethal Weapon (feat. Gemaine)",
+      "url": "https://open.spotify.com/track/6fN1VPY1mndv67dhGXbJWc"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -497,6 +541,22 @@
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 162006,
+      "name": "ROLLING STONE",
+      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Tell Me It's Over",
@@ -537,54 +597,6 @@
       "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 162006,
-      "name": "ROLLING STONE",
-      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
-    },
-    {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 172131,
-      "name": "Make Me Stay",
-      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Talkback",
-      "url": "https://open.spotify.com/track/616rALOBxvc3bbp38iiud5"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
@@ -619,6 +631,38 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
+    },
+    {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 172131,
+      "name": "Make Me Stay",
+      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Talkback",
+      "url": "https://open.spotify.com/track/616rALOBxvc3bbp38iiud5"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -957,6 +1001,22 @@
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 153599,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Still Over It",
@@ -1005,22 +1065,6 @@
       "url": "https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Bout Mine",
@@ -1035,6 +1079,22 @@
       "duration_ms": 147613,
       "name": "Bout Mine",
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1055,6 +1115,22 @@
       "duration_ms": 168000,
       "name": "Sum 2 See",
       "url": "https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Meet Me Upstrz",
+        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
+      },
+      "artists": [
+        {
+          "name": "Upstrz",
+          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+        }
+      ],
+      "duration_ms": 156107,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1145,26 +1221,6 @@
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Obsession (feat. Muni Long) [Remix]",
-        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Obsession (feat. Muni Long) - Remix",
-      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Lost In Melody (Deluxe)",
@@ -1183,6 +1239,26 @@
       "duration_ms": 144869,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Obsession (feat. Muni Long) [Remix]",
+        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Obsession (feat. Muni Long) - Remix",
+      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1675,70 +1751,6 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Sock It 2 Me",
-        "url": "https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Sock It 2 Me",
-      "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
-    },
-    {
-      "added_at": "2022-11-04 06:34:53",
-      "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
-      },
-      "artists": [
-        {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
-        }
-      ],
-      "duration_ms": 158661,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Recalling",
-        "url": "https://open.spotify.com/album/1Itqs7iyazBGQq9abvXDvD"
-      },
-      "artists": [
-        {
-          "name": "PAULSN",
-          "url": "https://open.spotify.com/artist/4uBkOGR9CiYGQcILcNQ1HV"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Recalling",
-      "url": "https://open.spotify.com/track/3SvMSGyG1Ub7BzWRBI5KbZ"
     }
   ],
   "unique_name": "Some Kinda Way",

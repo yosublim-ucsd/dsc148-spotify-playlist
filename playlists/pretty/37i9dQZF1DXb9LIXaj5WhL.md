@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,311,169 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,311,464 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [Head over Feet \- Live / Unplugged](https://open.spotify.com/track/0HxDXAUayBZXU8ZaWdBKyc) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:22 |
 | 75 | [Smells Like Teen Spirit \- 2015 Remaster](https://open.spotify.com/track/1kWqRB6PHLM9QTfaXuHpIV) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 3:15 |
 
-Snapshot ID: `MCxkYThiNWE4ZDU0YzcyODU0YmIxMTBiMGFkOWMyMTdhMGZhM2RiMjFi`
+Snapshot ID: `MCw1MDdkMDRlNTMwZGZhMzBlYzYzNWNiYzUwMzdmZjYyZjZkYTk4NTUy`

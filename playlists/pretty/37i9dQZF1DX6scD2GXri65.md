@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,183 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,405 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [In the Light](https://open.spotify.com/track/1MpQKl4T6Po9Kywj98Ccuu) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [In the Light](https://open.spotify.com/album/2ZBNBiQhtSr1GtigDbrKPk) | 2:35 |
 | 80 | [Unsung Heroes](https://open.spotify.com/track/75QWJJ6axfkD7KqSYVqmAJ) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Unsung Heroes](https://open.spotify.com/album/6aPa1pPSSyO6ZBUQenvJPJ) | 4:16 |
 
-Snapshot ID: `MCwzZWY3MDJjZGM4NDk1MmYxZGIwNGVlZTI0YzZkZjE0YmM2MmFiNjdl`
+Snapshot ID: `MCxkNDA4OTcxNDJjNDM3NGE2N2JhNzdjNTBhM2VlZjRjNTA4YzJlZDk0`

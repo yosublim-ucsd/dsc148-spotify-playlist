@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> I Prevail on top of the biggest Metal playlist.
+> Atreyu on top of the biggest Metal playlist.
 
-427 songs - 1 day 4 hr 45 min
+428 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Leaves](https://open.spotify.com/track/4tKL65lg6TSVBoMCRePoC6) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 4:59 | 2021-12-20 | 2022-01-21 |
 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-02-17 |  |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-20 | 2022-03-25 |
-| [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-10 |  |
+| [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-10 | 2023-05-06 |
 | [Lights & Fire](https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lights & Fire](https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD) | 3:30 | 2022-01-21 | 2022-02-11 |
 | [Like A Villain](https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Like A Villain](https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g) | 3:30 | 2022-01-21 | 2022-07-16 |
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2021-12-20 | 2022-05-06 |
@@ -302,6 +302,7 @@
 | [Silver Lining](https://open.spotify.com/track/4CBdaNfqAK3CNkGtf1I6dE) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [...So Unknown](https://open.spotify.com/album/0PkxIDjdvpCvfJDucmDpce) | 3:55 | 2023-04-14 |  |
 | [Silver Tongue](https://open.spotify.com/track/7l3WTEY9owUL3kRgna75Bd) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silver Tongue](https://open.spotify.com/album/60gDJXh5wx8VyyvFkt7fbf) | 4:18 | 2022-08-12 |  |
 | [Sing to the Grave](https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Sing to the Grave](https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o) | 2:39 | 2023-01-27 | 2023-04-01 |
+| [Six Feet Under](https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Six Feet Under](https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G) | 2:58 | 2023-05-05 |  |
 | [Slaughter Beach](https://open.spotify.com/track/234GDlel7bc4Cl7e5jiwNa) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Slaughter Beach](https://open.spotify.com/album/1ktlp4ovJQGkGCep35GaQq) | 3:41 | 2022-09-30 | 2022-11-19 |
 | [Slaughterhouse](https://open.spotify.com/track/66AylJWCrknRTguI3L6Cbq) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [God's Country](https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx) | 4:12 | 2022-08-05 | 2022-09-03 |
 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 | 2022-06-10 |
@@ -389,7 +390,7 @@
 | [UNHALLØWED](https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNHALLØWED](https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e) | 6:29 | 2022-06-24 | 2022-08-27 |
 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-10-07 |  |
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-12-20 | 2022-01-14 |
-| [Until There Is No Longer](https://open.spotify.com/track/7M29N3LpCBMb0YqOGsdhT9) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Until There Is No Longer](https://open.spotify.com/album/35l01U5iYahwYIGzlk2MbT) | 3:41 | 2023-03-31 |  |
+| [Until There Is No Longer](https://open.spotify.com/track/7M29N3LpCBMb0YqOGsdhT9) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Until There Is No Longer](https://open.spotify.com/album/35l01U5iYahwYIGzlk2MbT) | 3:41 | 2023-03-31 | 2023-05-06 |
 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 | 2022-11-18 | 2023-02-11 |
 | [Vengeance](https://open.spotify.com/track/087mtS3g2C2oL1V1hSmOvB) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Vengeance](https://open.spotify.com/album/1hPFFfkRIrIIaTqiHzD6OF) | 3:50 | 2022-12-02 | 2023-03-04 |
 | [Views From Halfway Down](https://open.spotify.com/track/6K2VQLJfexhkn3teQeAwkd) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Views From Halfway Down](https://open.spotify.com/album/5Ws6SfeRSLUZWlW3tPAOtM) | 3:48 | 2021-12-20 | 2022-04-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Didik Budi",
-  "num_followers": 126380,
+  "num_followers": 126555,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGRjZDRkZWRlNzlhYjg2MTRjMWJhMWI1MDk3NTBhZjU1ZGRmYzg2",
+  "snapshot_id": "MCw2ZDEzNjUwZjNhZDAzYmFiNzIzNjAwZjIyMjhjM2YyYjdjNDNkNmNh",
   "tracks": [
     {
       "added_at": "2023-05-04 16:48:03",
@@ -59,6 +59,26 @@
       "duration_ms": 230000,
       "name": "Mergawe",
       "url": "https://open.spotify.com/track/5N2z1MNzKTszoXTZmPnwgG"
+    },
+    {
+      "added_at": "2023-05-05 03:00:10",
+      "album": {
+        "name": "Mulyomu Mulyoku",
+        "url": "https://open.spotify.com/album/48Lw2KHfTibGKGFoCdRhdA"
+      },
+      "artists": [
+        {
+          "name": "Atta Halilintar",
+          "url": "https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67"
+        },
+        {
+          "name": "Anang Hermansyah",
+          "url": "https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy"
+        }
+      ],
+      "duration_ms": 170999,
+      "name": "Mulyomu Mulyoku",
+      "url": "https://open.spotify.com/track/2YuyuyKmfgtnK5GqZSJntw"
     },
     {
       "added_at": "2023-05-04 16:48:03",
@@ -1003,26 +1023,6 @@
       "duration_ms": 255508,
       "name": "Korban Janji",
       "url": "https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju"
-    },
-    {
-      "added_at": "2023-05-04 16:48:03",
-      "album": {
-        "name": "Pengangguran Yo Lumayan",
-        "url": "https://open.spotify.com/album/2T43tjtvE6n0UJeG11MrX4"
-      },
-      "artists": [
-        {
-          "name": "Hendra Kumbara",
-          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
-        },
-        {
-          "name": "Kathul",
-          "url": "https://open.spotify.com/artist/7JyZ5v5vVHpdl5pS1JrCLA"
-        }
-      ],
-      "duration_ms": 266982,
-      "name": "Pengangguran Yo Lumayan",
-      "url": "https://open.spotify.com/track/6p8N18UzPaCugzW4C5XzSo"
     },
     {
       "added_at": "2023-05-04 16:48:03",

@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Marina Sena
 
-201 songs - 9 hr 21 min
+202 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [De Passagem](https://open.spotify.com/track/0hKEj0GISdujd8v4pJooYO) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [De Passagem](https://open.spotify.com/album/6LwJJeUUyjp1RUGuvYpYqr) | 2:23 | 2022-02-18 | 2022-03-05 |
 | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/track/0DlHQxrVijRqVUfuS6PKaY) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/album/1fjkJADMiiZWMDusZSMNix) | 3:04 | 2022-01-14 | 2022-02-12 |
 | [Depois do Fim](https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 3:29 | 2023-04-14 |  |
-| [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 | 2022-10-28 |  |
+| [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 | 2022-10-28 | 2023-05-06 |
 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [DESCANSA](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 | 2022-03-04 | 2022-03-18 |
 | [Descontrolada](https://open.spotify.com/track/1KVg1Mc3zFmZP5QnKuYjG0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Descontrolada](https://open.spotify.com/album/5bqZKSkxw0vPEBTJbLtTHc) | 2:42 | 2022-09-23 | 2022-12-03 |
 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 | 2022-07-22 |  |
@@ -182,6 +182,7 @@
 | [súplica](https://open.spotify.com/track/4omVsjOJY7aCHcBV9l6UkC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [para\-raio](https://open.spotify.com/album/6iZPdkQAcuvcc4sYlfqGDw) | 2:49 | 2022-11-11 | 2023-04-01 |
 | [TANTO FAZ](https://open.spotify.com/track/31cQX1WeqiCHQSysz9KaVb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:44 | 2022-12-23 |  |
 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 | 2022-10-14 |  |
+| [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 | 2023-05-05 |  |
 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 | 2023-02-10 | 2023-02-18 |
 | [Tenho o Poder](https://open.spotify.com/track/1RbGo06dE8jfdWgrsNOamb) | [Larissa Manoela](https://open.spotify.com/artist/1454TL51gTbW2Vm5XCFhtv), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Tenho o Poder](https://open.spotify.com/album/0pS3OTwONyXAX4EBxSTTgM) | 3:11 | 2022-03-11 | 2022-04-07 |
 | [Terminei](https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Terminei](https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g) | 2:47 | 2023-02-03 | 2023-02-18 |

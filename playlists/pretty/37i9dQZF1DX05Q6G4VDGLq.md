@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,854 likes - 200 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,866 likes - 200 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 199 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 |
 | 200 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 |
 
-Snapshot ID: `MCwzMGIzZmE4NDJiMTEwMTQ4MTg2NDg4NTZhZGViMzZlZjg2ZmIxOTBj`
+Snapshot ID: `MCxmZGNiMjM0ZWM5MDFiNjI0NDllMzg3OWJhYjg1NjExZmFmYjdkY2Mw`

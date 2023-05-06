@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,059 likes - 250 songs - 20 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,174 likes - 250 songs - 20 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Nörvenich Lounge](https://open.spotify.com/track/5beXQMyanezwQHWfTJptHq) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26) | [XXXX](https://open.spotify.com/album/4IStAnJ6JI7ivJY8IGpTOW) | 3:47 |
 | 250 | [Flint](https://open.spotify.com/track/67ryoGDiSRsCZA5bQHOhlx) | [BRUUT!](https://open.spotify.com/artist/1z5i6osuIDbkLptD9f4gjh) | [Flint](https://open.spotify.com/album/1vuLDwteMMsJtzmGStKaFj) | 4:21 |
 
-Snapshot ID: `MCwzNGQ3NjI0OTg3YzFlYzQyOGU4ZjQ4OGQ0MDU5MGRjYjBmYTIxMmNj`
+Snapshot ID: `MCw5ZGVmNjE5ODVmMWFlYTU0Mjc3YjhhMjY2NmIyZThkZGJmODFlYTAy`

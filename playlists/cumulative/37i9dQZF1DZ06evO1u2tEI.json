@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 158360,
       "name": "Angel In The Snow",
       "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
@@ -442,6 +442,24 @@
     {
       "album": {
         "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "Condor Ave",
+      "url": "https://open.spotify.com/track/4Tz0TCqxlpMDDMQWMycyEF"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
         "url": "https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN"
       },
       "artists": [
@@ -452,7 +470,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214853,
       "name": "Condor Ave",
       "url": "https://open.spotify.com/track/7MSuEJUiHDa28DyCCZkobJ"
@@ -650,10 +668,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 117134,
       "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed / Remastered",
       "url": "https://open.spotify.com/track/0tiz18U3REWZSXkn1A6g8L"
+    },
+    {
+      "album": {
+        "name": "Either/Or (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3UVJu0QdTJBfGJBl1AMWEM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117134,
+      "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed And Remastered 2017",
+      "url": "https://open.spotify.com/track/5ZcaVWg9HsFf2DdMgH0FEl"
     },
     {
       "album": {
@@ -740,10 +776,28 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 220840,
       "name": "Kiwi Maddog 20/20 (version 2 of 2)",
       "url": "https://open.spotify.com/track/32gMbrYoS2qIA54JmZ9TFn"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222853,
+      "name": "Kiwi Maddog 20/20 (Version 2)",
+      "url": "https://open.spotify.com/track/4VVVIchlJFKul9vntEVNcz"
     },
     {
       "album": {
@@ -1432,6 +1486,24 @@
     {
       "album": {
         "name": "New Moon",
+        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "Whatever (Folk Song In C)",
+      "url": "https://open.spotify.com/track/4B0ev59DimAmNoBNTQ0NGd"
+    },
+    {
+      "album": {
+        "name": "New Moon",
         "url": "https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF"
       },
       "artists": [
@@ -1442,7 +1514,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 137800,
       "name": "Whatever (Folk Song In C)",
       "url": "https://open.spotify.com/track/1YbZab5h60Tr89DZp5Tdr2"

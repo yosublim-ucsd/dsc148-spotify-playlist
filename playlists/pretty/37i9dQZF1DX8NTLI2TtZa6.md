@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,472,074 likes - 219 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,472,440 likes - 219 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 75 | [Alicanto](https://open.spotify.com/track/3eDCEskR6LRnFGgL5u7j8Y) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Yamasá](https://open.spotify.com/album/0qMYA2SgQ2g3nFuZ2JWnCN) | 2:44 |
 | 76 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 |
 | 77 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 |
-| 78 | [Bowden: Patterns](https://open.spotify.com/track/6ssrsr0MumEjM2CeYioYcU) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [Patterns](https://open.spotify.com/album/6Bmr6r1RUZrMJKbZuRE8Gz) | 2:05 |
+| 78 | [Patterns](https://open.spotify.com/track/6ssrsr0MumEjM2CeYioYcU) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [Patterns](https://open.spotify.com/album/6Bmr6r1RUZrMJKbZuRE8Gz) | 2:05 |
 | 79 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 |
 | 80 | [primeiro verão](https://open.spotify.com/track/2V1y8aiJS9HMFqh51dNVs4) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [primeiro verão](https://open.spotify.com/album/5R6voZl0tGls3ews6juX0L) | 3:28 |
 | 81 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 |
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 147 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 |
 | 148 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 |
 | 149 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 |
-| 150 | [Lawson: irreplaceable \- solo piano](https://open.spotify.com/track/6vYYdK6VdU1c3X5WinwjPZ) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [irreplaceable \(solo piano\)](https://open.spotify.com/album/5kndQiB3SZc5NuT32Ampg4) | 4:27 |
+| 150 | [irreplaceable \- solo piano](https://open.spotify.com/track/6vYYdK6VdU1c3X5WinwjPZ) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [irreplaceable \(solo piano\)](https://open.spotify.com/album/5kndQiB3SZc5NuT32Ampg4) | 4:27 |
 | 151 | [Last Things First](https://open.spotify.com/track/7HCl80rnRUZoeVWpuXLSli) | [Baltasar Thorgrimson](https://open.spotify.com/artist/0wyQQ5R0rWiaT1g8GUEDBC) | [Last Things First](https://open.spotify.com/album/30WZaV9jXKl6JYqjSUEZZq) | 2:32 |
 | 152 | [Sweet Alyssum](https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw) | [Evelyn Urich](https://open.spotify.com/artist/1JSB56ShPffPPGXU7HU2Ky) | [Sweet Alyssum](https://open.spotify.com/album/1jC3AyYyBtnDaAQv42qk1l) | 2:21 |
 | 153 | [Moux: with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 218 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 |
 | 219 | [Endearing](https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [Endearing](https://open.spotify.com/album/4igF9besSJ9l4MzQQfT9SK) | 2:17 |
 
-Snapshot ID: `MCw2MDFiNzcyYmE0YWEyNjEyMzBlNjhmZDRkNDcxZjY2N2YyOTY5NDg3`
+Snapshot ID: `MCw3NTNkZDVlOTE1ZGRiM2E1MGJiZjM5ZTliMTY2YzYyNzYyODBmNmRl`

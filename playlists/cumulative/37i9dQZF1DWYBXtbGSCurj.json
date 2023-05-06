@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: MD Chefe",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Xam\u00e3",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 122192,
       "name": "3AM (PXT4 RASA) - Remix",
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 118413,
       "name": "Ai Ai Ai",
       "url": "https://open.spotify.com/track/1zaPLy70EDETZvhErzb9VL"
@@ -1698,6 +1698,40 @@
       "duration_ms": 144000,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1maizcIARVRKATHo6XFTgY"
+    },
+    {
+      "album": {
+        "name": "Bandida Sexy (feat. Pedro Lotto & WEY)",
+        "url": "https://open.spotify.com/album/2jZ7NditoLlTK6oXCra1Or"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Bandida Sexy (feat. Pedro Lotto & WEY)",
+      "url": "https://open.spotify.com/track/1qJRVdA8YE2BDJgay5FXCO"
     },
     {
       "album": {
@@ -5848,7 +5882,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 157608,
       "name": "Feir\u00e3o dos 23",
       "url": "https://open.spotify.com/track/4V1MOX0xhbRroh6YBmAVZg"
@@ -5966,7 +6000,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 268085,
       "name": "Festa na Piscina",
       "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
@@ -11007,6 +11041,32 @@
     },
     {
       "album": {
+        "name": "No Topo",
+        "url": "https://open.spotify.com/album/2Tq9t0VdZmmw6DO8HXJlDv"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "DJ LN",
+          "url": "https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "No Topo",
+      "url": "https://open.spotify.com/track/5ZvH8gZcSbJ2zYkoJSafJv"
+    },
+    {
+      "album": {
         "name": "Nois faz a moda",
         "url": "https://open.spotify.com/album/35PHjpGIk3ICMNWOJ1GcXv"
       },
@@ -12324,7 +12384,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 166285,
       "name": "Pecados",
       "url": "https://open.spotify.com/track/1UrZ1qDDYh9RnN07FHT3LQ"
@@ -15055,6 +15115,28 @@
     },
     {
       "album": {
+        "name": "Sexo e Dramas",
+        "url": "https://open.spotify.com/album/4XzBe109U96T5KXaTRCarR"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152649,
+      "name": "Sexo e Dramas",
+      "url": "https://open.spotify.com/track/1egbFZtcwx2urbr2q8TsZ5"
+    },
+    {
+      "album": {
         "name": "Sextou",
         "url": "https://open.spotify.com/album/2Fhbj4szNsFo1rVVquPTUV"
       },
@@ -15579,6 +15661,32 @@
     },
     {
       "album": {
+        "name": "Levante",
+        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "DJ Gui",
+          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159874,
+      "name": "SUV",
+      "url": "https://open.spotify.com/track/1O80SvOuSakBE2pwTqutv0"
+    },
+    {
+      "album": {
         "name": "Diretoria",
         "url": "https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO"
       },
@@ -16018,6 +16126,32 @@
       "duration_ms": 135075,
       "name": "Taylor Swift",
       "url": "https://open.spotify.com/track/6gzVtouBunn9PKdVy1ppQ5"
+    },
+    {
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144822,
+      "name": "TE ENCONTREI",
+      "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
     },
     {
       "album": {

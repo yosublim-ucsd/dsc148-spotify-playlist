@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's true alternative rock scene. Cover: The Luka State",
+  "description": "The best of today's true alternative rock scene. Cover: P\u00c6RISH",
   "name": "New  Alt-Rock Mixtape",
   "tracks": [
     {
@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "All I Wanna Do Is Hate",
+        "url": "https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165052,
+      "name": "All I Wanna Do Is Hate",
+      "url": "https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb"
+    },
+    {
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/71KAS6yGlZYDXKhbP5osbP"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214109,
       "name": "Around the Bend",
       "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
@@ -866,7 +884,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 232584,
       "name": "Car Crash",
       "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 209528,
       "name": "Come On",
       "url": "https://open.spotify.com/track/2YUTrl4xlX9jAlpxWEpOnU"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 190946,
       "name": "Double Down - 2019 Mix",
       "url": "https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch"
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 175577,
       "name": "Earth Is A Black Hole",
       "url": "https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb"
@@ -1328,6 +1346,24 @@
       "duration_ms": 175577,
       "name": "Earth Is A Black Hole",
       "url": "https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc"
+    },
+    {
+      "album": {
+        "name": "Elimination Dances",
+        "url": "https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217136,
+      "name": "Elimination Dances",
+      "url": "https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl"
     },
     {
       "album": {
@@ -1450,7 +1486,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 166834,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
@@ -2033,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212228,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
+    },
+    {
+      "album": {
         "name": "Lost Ghosts, Vol. 1",
         "url": "https://open.spotify.com/album/2ZsBSBmRkl5OvVVOFqQWZr"
       },
@@ -2062,7 +2116,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 196457,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
@@ -2145,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Baby",
+        "url": "https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Hollywood Baby",
+      "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
+    },
+    {
+      "album": {
         "name": "hollywood sucks//",
         "url": "https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1"
       },
@@ -2221,6 +2293,42 @@
     },
     {
       "album": {
+        "name": "Houses of American Style",
+        "url": "https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl"
+    },
+    {
+      "album": {
+        "name": "How Far Can You Push A Man?",
+        "url": "https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243947,
+      "name": "How Far Can You Push A Man?",
+      "url": "https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN"
+    },
+    {
+      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
       },
@@ -2250,10 +2358,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "album": {
+        "name": "i heard they found you face down inside your living room",
+        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191548,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
     },
     {
       "album": {
@@ -2304,7 +2430,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 170080,
       "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
       "url": "https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv"
@@ -2707,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "Killing Time / Lead Pipe",
+        "url": "https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179920,
+      "name": "Lead Pipe",
+      "url": "https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc"
+    },
+    {
+      "album": {
         "name": "Leader of the Pack",
         "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
       },
@@ -2722,6 +2866,24 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
+    },
+    {
+      "album": {
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "album": {
@@ -2956,7 +3118,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 188746,
       "name": "Magical Touch",
       "url": "https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ"
@@ -3166,6 +3328,24 @@
     {
       "album": {
         "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230935,
+      "name": "Moments of Clarity",
+      "url": "https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
         "url": "https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ"
       },
       "artists": [
@@ -3176,7 +3356,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 230935,
       "name": "Moments of Clarity",
       "url": "https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu"
@@ -3234,6 +3414,24 @@
       "duration_ms": 305345,
       "name": "Mother - Single Version",
       "url": "https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01"
+    },
+    {
+      "album": {
+        "name": "Plus Ultra",
+        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "My Fall",
+      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
     },
     {
       "album": {
@@ -3356,7 +3554,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 172495,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
@@ -3558,7 +3756,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 216108,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
@@ -3742,7 +3940,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 190212,
       "name": "Rich",
       "url": "https://open.spotify.com/track/4sFfItk3bF8wrs1KmTJxU6"
@@ -3926,6 +4124,24 @@
       "duration_ms": 203064,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"
+    },
+    {
+      "album": {
+        "name": "Too Quick to Forgive",
+        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261345,
+      "name": "Savior Mode",
+      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
     },
     {
       "album": {
@@ -4192,7 +4408,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 228853,
       "name": "So So Soon",
       "url": "https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G"
@@ -4322,7 +4538,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 225068,
       "name": "Stop Beating on My Heart (Like a Bass Drum)",
       "url": "https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre"
@@ -4384,6 +4600,24 @@
       "duration_ms": 198508,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194010,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS"
     },
     {
       "album": {
@@ -4745,6 +4979,24 @@
     },
     {
       "album": {
+        "name": "This Won't Go Over Well",
+        "url": "https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204197,
+      "name": "This Won't Go Over Well",
+      "url": "https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT"
+    },
+    {
+      "album": {
         "name": "Too High",
         "url": "https://open.spotify.com/album/62LB05IJUlQ2VcChMtY7d6"
       },
@@ -4850,6 +5102,24 @@
       "duration_ms": 218288,
       "name": "Undone",
       "url": "https://open.spotify.com/track/1PdaYDglJxEle6PGQanvp1"
+    },
+    {
+      "album": {
+        "name": "Very High",
+        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114872,
+      "name": "Very High",
+      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
     },
     {
       "album": {
@@ -5030,6 +5300,24 @@
       "duration_ms": 195986,
       "name": "Welcome to Silvertown",
       "url": "https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX"
+    },
+    {
+      "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "album": {

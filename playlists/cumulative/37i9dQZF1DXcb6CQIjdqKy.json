@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  <a href=\"https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97?si=ce4e89d71a0e4849\">Ryan Stevenson</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  <a href=\"https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW?si=a725179e6cb34822\">Lecrae</a> and <a href=\"https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=a71d1fa21eb84f52\">Tasha Cobbs Leonard</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -230,6 +230,24 @@
       "duration_ms": 275944,
       "name": "All in Your Hands",
       "url": "https://open.spotify.com/track/4u841f1ewKUqDUWdjIoeSf"
+    },
+    {
+      "album": {
+        "name": "All Things",
+        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189799,
+      "name": "All Things",
+      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
     },
     {
       "album": {
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 180221,
       "name": "Can You Hear Me Now?",
       "url": "https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa"
@@ -1548,6 +1566,24 @@
       "duration_ms": 146000,
       "name": "Destroy Myself Just For You",
       "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
+    },
+    {
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/5Ye5ScJubuk49CLWLf4j8a"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250750,
+      "name": "Did You Come for Me",
+      "url": "https://open.spotify.com/track/1wblZ0UBogwtzrwVp8kyq8"
     },
     {
       "album": {
@@ -2440,6 +2476,24 @@
       "duration_ms": 157531,
       "name": "GO BACK",
       "url": "https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP"
+    },
+    {
+      "album": {
+        "name": "God Gave Me Freedom",
+        "url": "https://open.spotify.com/album/5jn87T626Y7Tf9sJYNOu1p"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175473,
+      "name": "God Gave Me Freedom",
+      "url": "https://open.spotify.com/track/1p4GDJjbXJrkIaqEzjVfWQ"
     },
     {
       "album": {
@@ -4288,7 +4342,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 218166,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR"
@@ -4996,7 +5050,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 251612,
       "name": "King of Calvary - Live",
       "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
@@ -5846,10 +5900,36 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 338493,
       "name": "Monday Morning Faith - Acoustic",
       "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
+    },
+    {
+      "album": {
+        "name": "Monday Morning Faith (Studio Version)",
+        "url": "https://open.spotify.com/album/34SQZDK7kntzsEMmWfFCaL"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256531,
+      "name": "Monday Morning Faith - Studio Version",
+      "url": "https://open.spotify.com/track/5pttLvlCeWoUsjMqoQL54O"
     },
     {
       "album": {
@@ -6242,7 +6322,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 145750,
       "name": "Nights In Atlanta",
       "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
@@ -6398,6 +6478,24 @@
       "duration_ms": 220047,
       "name": "One Prayer Away",
       "url": "https://open.spotify.com/track/4oQvirbMqCZyjDUHMy42MQ"
+    },
+    {
+      "album": {
+        "name": "Glory Hour",
+        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421320,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
     },
     {
       "album": {
@@ -6902,6 +7000,28 @@
       "duration_ms": 153351,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
+    },
+    {
+      "album": {
+        "name": "pure",
+        "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356962,
+      "name": "pure",
+      "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
     },
     {
       "album": {
@@ -8050,7 +8170,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 230750,
       "name": "Story of History",
       "url": "https://open.spotify.com/track/5IOmUiIy04qPMJvavDf2La"
@@ -8830,10 +8950,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 203266,
       "name": "The Lord's Prayer (It's Yours)",
       "url": "https://open.spotify.com/track/6oAfRUceWYKgrYORnyGsDg"
+    },
+    {
+      "album": {
+        "name": "The Lord's Prayer (It's Yours) [Acoustic]",
+        "url": "https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224024,
+      "name": "The Lord's Prayer (It's Yours) - Acoustic",
+      "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
     },
     {
       "album": {
@@ -10102,7 +10240,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 515314,
       "name": "Yo Soy Tu Amado (I Am Your Beloved)",
       "url": "https://open.spotify.com/track/2C9fMUl9vXTU8aEwmFwGrI"
@@ -10222,6 +10360,28 @@
       "duration_ms": 263791,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd"
+    },
+    {
+      "album": {
+        "name": "Your Power",
+        "url": "https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222169,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"
     },
     {
       "album": {

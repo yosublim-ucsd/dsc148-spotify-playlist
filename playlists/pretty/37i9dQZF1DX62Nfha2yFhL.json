@@ -1,13 +1,29 @@
 {
   "description": "Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.",
-  "num_followers": 877832,
+  "num_followers": 877974,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTM0YTAyM2NlOTNjNjIwNWQzMjQzN2JjNDQ0ZTM0NzI5YWJmODdj",
+  "snapshot_id": "MCw0NDhiOTU3MTE4MmIyZDU2MzBjMDRmMTJiNDg5NGJkY2IxNTE0OTU4",
   "tracks": [
+    {
+      "added_at": "2023-05-05 04:56:38",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "WELCOME TO SOUL,PRESENT",
+      "url": "https://open.spotify.com/track/0us7zsn3fg0xjJ4nzNeEHu"
+    },
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
@@ -45,6 +61,46 @@
       "url": "https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU"
     },
     {
+      "added_at": "2023-05-05 04:56:38",
+      "album": {
+        "name": "The Energy",
+        "url": "https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        },
+        {
+          "name": "KOLE",
+          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
+        }
+      ],
+      "duration_ms": 219464,
+      "name": "The Energy",
+      "url": "https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH"
+    },
+    {
+      "added_at": "2023-05-05 04:56:38",
+      "album": {
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+    },
+    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "No More Lies",
@@ -79,6 +135,22 @@
       "duration_ms": 205090,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/2bD6V29O7EiIA7CKca72as"
+    },
+    {
+      "added_at": "2023-05-05 04:56:38",
+      "album": {
+        "name": "ME YOU & GOD",
+        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "MiSS BEHAVE",
+      "url": "https://open.spotify.com/track/442BDy6jx8GcqKWZmjMaLg"
     },
     {
       "added_at": "2023-03-03 05:07:57",
@@ -195,6 +267,26 @@
       "duration_ms": 219240,
       "name": "I Won't Tell",
       "url": "https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k"
+    },
+    {
+      "added_at": "2023-05-05 16:15:12",
+      "album": {
+        "name": "Forgot Your Name (feat. Cory Henry)",
+        "url": "https://open.spotify.com/album/0mVuw95yTugX4QNeCK5CaL"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 218972,
+      "name": "Forgot Your Name (feat. Cory Henry)",
+      "url": "https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT"
     },
     {
       "added_at": "2022-11-11 05:00:00",

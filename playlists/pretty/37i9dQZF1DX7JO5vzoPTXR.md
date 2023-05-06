@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:5OoHiZhOXBrB73x6TixINe">Kerstin Ljungstrom</a>,  <a href="spotify:playlist:37i9dQZF1EFFaNIqhJxmrd">Fanny Hultman</a> + <a href="spotify:artist:7eCmccnRwPmRnWPw61x6jM">Shy Martin</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,549 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,575 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 |
 | 2 | [Mine](https://open.spotify.com/track/62f6K4BIhmaQEti3Sc6ouK) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Dear Diary](https://open.spotify.com/album/0XqwZbB6TwIBSLyv2Kjq9C) | 2:33 |
 | 3 | [Billete de amor](https://open.spotify.com/track/4HH7I2xLFb1wgXvOI2siNa) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Billete de amor](https://open.spotify.com/album/0PW5n62HhofJEwKbAavjfZ) | 2:48 |
-| 4 | [Monster](https://open.spotify.com/track/5EBqNVcx1sVCiuTLspkUU4) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Monster](https://open.spotify.com/album/1F1S2u5t7qlco3ljhDLQFj) | 3:50 |
+| 4 | [Closer](https://open.spotify.com/track/5v2HlTA9HGIp97umphPlKP) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Closer](https://open.spotify.com/album/1S5c3aXnTcoAFFhGQ4FrTX) | 2:52 |
 | 5 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 |
 | 6 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 |
 | 7 | [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Hope It's You](https://open.spotify.com/track/6GUmRZHRsO47xusCW7k9Fk) | [India Parkman](https://open.spotify.com/artist/11kHBGgTdLbqPjfn8FDurP) | [Hope It's You](https://open.spotify.com/album/5XzARNCSH3bft8GQFYwcAn) | 3:24 |
 | 40 | [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 |
 
-Snapshot ID: `MCxmZmNhNWUzZDVlNzUwYzAyNzg4MmFiMmYzZjViNjM2ZjUxNjYzYjM4`
+Snapshot ID: `MCw1YTZjMzQwMWM2NjQ0Yjg4NmExMDk2ZDYyZGQ3Nzc3MmNkOTQzYzMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,428,218 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,428,422 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 99 | [4:38am](https://open.spotify.com/track/778rI4lJeJKKy34mAeq4KA) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 3:46 |
 | 100 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
 
-Snapshot ID: `MCxjZTgxM2U0YmViZGNkMDA0ZDI3Y2RmNTQ1ZjU0MDBkYWRmNjVjOTM3`
+Snapshot ID: `MCw0NmI2N2JkN2VkNThjOGU2YTJhNTU0OGM0NjY2MTYyNTIwZTMyYTFi`

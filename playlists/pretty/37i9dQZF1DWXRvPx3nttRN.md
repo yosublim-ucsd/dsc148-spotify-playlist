@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,993 likes - 235 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,161 likes - 235 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 234 | [](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 0:00 |
 | 235 | [Can't Hold Us \- Acoustic](https://open.spotify.com/track/1wq1UtonmZYKJxFjPa6SlX) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Can't Hold Us \(Acoustic\)](https://open.spotify.com/album/3fY2zDDnGQF0iuN8jBOb9L) | 3:19 |
 
-Snapshot ID: `MCw4NmVhOWVmNzBmYjhhNWY4ZjgzMjdmOTcwNTc5OGE4ZjcyMTAxNjli`
+Snapshot ID: `MCw4MjMyYmI3ZDEwNmMwYmVmZmFkZmI3NWU4MThmNGRiYTFiNmM4MTVj`

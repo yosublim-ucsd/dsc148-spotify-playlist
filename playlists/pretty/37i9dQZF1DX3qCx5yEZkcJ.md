@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486,811 likes - 80 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,486,838 likes - 80 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 |
 | 80 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 |
 
-Snapshot ID: `MCw2NWQwMDZhNmFlOTZjNWUxNDAwYWVmZmNmODRiYTk3MzNhYzVmYTBm`
+Snapshot ID: `MCxhMjJhODVjYWUxNWEzNDFhN2IwODY1YTM3ZDRmMDI0MTA1NDk2YTdm`

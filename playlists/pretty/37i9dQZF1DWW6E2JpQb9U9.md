@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: La Beriso
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,306 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,351 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [La Guitarra \- En Vivo en el Foro Sol](https://open.spotify.com/track/4ZsRQFV26bM6y8GRs4hLoM) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Joaquín Levinton](https://open.spotify.com/artist/40YfcUtQrNSRJty5K9O3eI), [Leandro Lopatin](https://open.spotify.com/artist/6MOOqOsT16VsoZOwZpttXX), [Luis Beretta](https://open.spotify.com/artist/5C1kh43hROSUSZdAMwDeoS), [Francisco Lago](https://open.spotify.com/artist/3vBvFZBnjjDdjV35dDvL9L), [David Hinojosa](https://open.spotify.com/artist/3RLiAwVzdOkXPlFEv2DtPg), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 4:11 |
 | 100 | [Las Cosas Que No Se Tocan \- En Vivo Luna Park](https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 4:04 |
 
-Snapshot ID: `MCw2OWRhNmY4YzEzOWZlNDI0OWM2M2VhMWJkODBhMDcyN2FiNjI0YmQ4`
+Snapshot ID: `MCw0YTQyNmY5M2Y5NzNjNTVkMmZmMTFmNjQ5MmRjMjI3ZGUwZTQ0OTdl`

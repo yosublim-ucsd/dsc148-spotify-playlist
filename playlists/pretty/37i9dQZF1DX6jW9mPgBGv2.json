@@ -1,12 +1,12 @@
 {
   "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Eladio \"3MEN2 KBRN\" Carri\u00f3n plantando cara.",
-  "num_followers": 166405,
+  "num_followers": 166656,
   "original_name": "FRONTEO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDdmNDE1NDVkYzdlNjA2YWU2Mzk5YWZkOTdkMmEzOTNlZmY2ZjE4",
+  "snapshot_id": "MCxmNTM3NjhkY2M1NzJiZDg0N2JkZjAxMzVkNWJjMGRhNDY5NmU5YWI0",
   "tracks": [
     {
       "added_at": "2023-03-31 19:53:52",
@@ -99,6 +99,22 @@
       "duration_ms": 170762,
       "name": "Tu No Metes Cabra",
       "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
+    },
+    {
+      "added_at": "2023-05-05 21:26:07",
+      "album": {
+        "name": "My Name",
+        "url": "https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy"
     },
     {
       "added_at": "2023-03-31 19:53:52",

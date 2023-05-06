@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,773 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,863 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [3 Gymnopedies \(orch\. Debussy\): Gymnopedie No\. 2](https://open.spotify.com/track/2euauaTvztPp2Ae6rCeTri) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Ondrej Lenard](https://open.spotify.com/artist/1V8rAXmdVnkT0417znOkAs) | [French Festival](https://open.spotify.com/album/0T9YCy8TruLD6Z4qiCGSn6) | 3:41 |
 | 60 | [Piano Concerto No\. 6 in B\-Flat Major, K\. 238: II\. Andante un poco adagio](https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Zoltán Kocsis](https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm), [Liszt Ferenc Chamber Orchestra](https://open.spotify.com/artist/6QZkgt4JiF3RQcvxggrMxr), [János Rolla](https://open.spotify.com/artist/0idaRQS8I2GsqPSPA5z5Mn) | [Zoltán Kocsis: A Tribute](https://open.spotify.com/album/7BgQdVLNI9mmO5P1ijJ5wT) | 6:01 |
 
-Snapshot ID: `MCw1NTM5NmQwODEwYTE3NDNhYTU4ZmZmNmIxNzYyYzU3NDczZjA4MDBm`
+Snapshot ID: `MCwzODM5YWMyNDA0ZGEyYmRhYzRhNGJlMTU1Mjc5N2MyODY1MTY1YjYw`

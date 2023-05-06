@@ -4,7 +4,7 @@
 
 > The perfect indie mixtape for spring & summer.
 
-280 songs - 16 hr 0 min
+282 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Next to Normal](https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:10 | 2022-06-10 | 2022-07-29 |
 | [No Going Back](https://open.spotify.com/track/4AKN68fSI8weZ1dbN35QLi) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [No Going Back](https://open.spotify.com/album/53n71tD6F4I1afwJtjZCVS) | 3:28 | 2020-01-31 | 2022-07-29 |
 | [nothing else i could do](https://open.spotify.com/track/08ZFO4ONTelCXs1Q5YRMcW) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [nothing else i could do](https://open.spotify.com/album/3JoL1vexsTdwS4JleasqfT) | 2:50 | 2022-06-10 | 2022-07-29 |
+| [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-05 |  |
 | [O.N.E.](https://open.spotify.com/track/1yElfZ8b4weRLt5YFve91c) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/2W9L68YdbM7mYSfNuy3bGK) | 5:23 | 2020-01-31 | 2022-06-11 |
 | [One More Weekend](https://open.spotify.com/track/5CXCo9MJFpjFLkEFKaMz19) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/17tA1j7iaCKHDjXhW2cpkI) | 2:22 | 2022-06-10 | 2022-07-29 |
 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 | 2023-04-21 |  |
@@ -184,7 +185,7 @@
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2022-06-10 | 2023-04-09 |
 | [Psychic City \- Classixx Remix](https://open.spotify.com/track/1GdkQKNGLMtPaUvtcjOeSj) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Psychic City](https://open.spotify.com/album/2I4lTXfj5tSZN4HNOjMtwz) | 4:11 | 2020-01-31 | 2022-06-11 |
 | [push pull](https://open.spotify.com/track/6pTfJ82DLrBoTTaKJrFr7R) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 3:27 | 2020-01-31 | 2022-06-11 |
-| [Put a Light On](https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V) | 3:44 | 2023-03-28 |  |
+| [Put a Light On](https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V) | 3:44 | 2023-03-28 | 2023-05-06 |
 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 | 2020-01-31 | 2022-07-12 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2022-06-10 |  |
 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2020-01-31 |  |
@@ -217,6 +218,7 @@
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2022-06-10 |  |
 | [Starting Again](https://open.spotify.com/track/6VGtBU8oAyQlYbKVeSBkfQ) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Starting Again](https://open.spotify.com/album/1IkYdoG0i5IOc4tV7WTKW4) | 3:33 | 2020-02-28 | 2022-07-29 |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2022-06-10 | 2022-07-29 |
+| [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 | 2023-05-05 |  |
 | [Stop Making This Hurt](https://open.spotify.com/track/32srSGuuy12hEhrD2iCIIK) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Stop Making This Hurt](https://open.spotify.com/album/6Zumf6wFEd0VHxHIUoMXhX) | 3:19 | 2022-06-10 | 2022-07-29 |
 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-05 | 2023-04-15 |
 | [Sucker Punch](https://open.spotify.com/track/7FeWgVGGphXuSUu5wNeAcJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:14 | 2020-01-31 | 2022-06-11 |
@@ -265,7 +267,7 @@
 | [Thunder Clatter](https://open.spotify.com/track/6JugKFXssO9L2tN8omeTPt) | [Wild Cub](https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal) | [Youth](https://open.spotify.com/album/72YtuqmrV1LcDhzQXgFaNN) | 4:31 | 2020-01-31 | 2022-06-11 |
 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2022-06-10 | 2023-05-03 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-06-10 | 2023-04-27 |
-| [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-04-14 |  |
+| [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-04-14 | 2023-05-06 |
 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 | 2022-06-10 | 2022-07-30 |
 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 | 2022-06-10 | 2022-07-29 |
 | [Up We Go](https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Little Machines](https://open.spotify.com/album/1u8OmwItT46Y1gD2xKAK9D) | 2:51 | 2020-01-31 | 2022-06-11 |

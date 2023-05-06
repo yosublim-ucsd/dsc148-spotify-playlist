@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,945 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,046 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Here \- Madism Remix](https://open.spotify.com/track/3aB0xS45shndxNnvfhpEEz) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Here \(Madism Remix\)](https://open.spotify.com/album/5zr53yPoCvQmyyTrDWVncs) | 3:00 |
 | 50 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
 
-Snapshot ID: `MCw1MTc2NzU4ZWJmMmM4ZjJiZmUwMjk4MzkwNmQ1NWY3MDRjNGQ0ZGIw`
+Snapshot ID: `MCxjMmVhNjExNzI4MzI5MjhiZjdiZjdjZDE1OGNmNWZhM2RiZjU5ZWM0`

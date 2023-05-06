@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,353 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,497 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Soul Shower](https://open.spotify.com/track/7yFIDeG04tRKHMDNrQXe5J) | [Mister T.](https://open.spotify.com/artist/45GgOqa6xJwhZ3IXiMMkh7) | [Soul Shower](https://open.spotify.com/album/0MDEgla82omGDz6scX5gEA) | 3:33 |
 | 80 | [Jump Up \- 7" edit](https://open.spotify.com/track/6UAvcih8yeFJgSe6Hj8AGQ) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Jump Up \(7" edit\)](https://open.spotify.com/album/6uLsmgSr8BEleapqyoeJqg) | 3:42 |
 
-Snapshot ID: `MCwwYWNiNzcwOTExMTEwMzRmYTllYzI1YTJmMDU4YWFmOTFjNGQ1NGYw`
+Snapshot ID: `MCxkMTg0NDg1ZjE2NjE0MjM3MGNmNmVlNzhmMjRiZTViMGUyODM1ZjIw`

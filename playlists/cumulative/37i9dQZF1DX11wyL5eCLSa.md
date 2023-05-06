@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Juan Carlos Bodoque en Portada.
 
-264 songs - 16 hr 14 min
+267 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cicatriz](https://open.spotify.com/track/1rg5jQyjIOLDVY1pVIvAp2) | [Garam Masala](https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3), [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cicatriz](https://open.spotify.com/album/17UCqNgvn8qTeRvQK8NNk8) | 4:13 | 2022-07-01 | 2022-07-16 |
 | [Claroscuro](https://open.spotify.com/track/5p5AhrRFj9HUaxqDXDL5rh) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Claroscuro](https://open.spotify.com/album/7yfdxsGFK68Q5P2kGaqK3Y) | 3:04 | 2023-03-17 | 2023-03-25 |
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-15 | 2022-05-28 |
+| [Cometa 1984](https://open.spotify.com/track/23WnCzq7npJbLDw6iqIJpQ) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Cometa 1984](https://open.spotify.com/album/0E1oJl1teRMLS1KTwKhOb6) | 3:09 | 2023-05-05 |  |
 | [Comida](https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Comida](https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ) | 3:39 | 2023-02-10 | 2023-02-18 |
 | [Como Gelatina de Limon](https://open.spotify.com/track/4DtmjMhj8BVtwyMo7Yw8I1) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Ruido Hecho por la Gente](https://open.spotify.com/album/47uFOMz79sGxUe6fJIu4GH) | 3:12 | 2023-03-17 | 2023-03-25 |
 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-06-02 |  |
@@ -66,7 +67,7 @@
 | [Demasiado](https://open.spotify.com/track/12URqDQygL3AlD2wF5WbhN) | [El Último Vecino](https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX) | [Demasiado](https://open.spotify.com/album/3uWNyMXOlW3gPYQSWX4wyV) | 2:17 | 2023-04-21 | 2023-04-29 |
 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 | 2022-08-09 | 2023-03-18 |
 | [Descending To Nowhere](https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Descending To Nowhere](https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt) | 3:29 | 2023-02-17 | 2023-04-24 |
-| [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-04-14 |  |
+| [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-04-14 | 2023-05-06 |
 | [Despiértame](https://open.spotify.com/track/5mLWU71Qwb0QTNdbgTlMJr) | [O Tortuga](https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK) | [Despiértame](https://open.spotify.com/album/20GQd8n1lRT9GEOvPVwuIo) | 3:45 | 2022-10-28 | 2022-11-26 |
 | [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-14 | 2023-04-22 |
 | [Diosito](https://open.spotify.com/track/17BSIxhmwh5He7UzguwJPs) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Diosito](https://open.spotify.com/album/4ell8Y3YqPm4xtFKBAzSwV) | 2:42 | 2022-08-09 | 2022-08-19 |
@@ -78,7 +79,7 @@
 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2021-12-17 |  |
 | [Dulce y Amargo](https://open.spotify.com/track/5D3CxWrRvLCKRq4r7bt27j) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Dulce y Amargo](https://open.spotify.com/album/6zA9mGPGpWnoT0jmaf3bbn) | 4:12 | 2021-12-17 | 2022-07-02 |
 | [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 | 2021-12-17 |  |
-| [Dínamo](https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Dínamo](https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba) | 3:27 | 2023-04-28 |  |
+| [Dínamo](https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Dínamo](https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba) | 3:27 | 2023-04-28 | 2023-05-06 |
 | [Efímera](https://open.spotify.com/track/6ghPND4VxckeuSFjOkG4XC) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Efímera](https://open.spotify.com/album/54q8TWCEtwz0eHnPKk5EHB) | 4:58 | 2021-12-17 | 2022-07-02 |
 | [El Accidente](https://open.spotify.com/track/0wchDmvHOahKI191E7X448) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [El Accidente](https://open.spotify.com/album/3tBnzfpisn2oyDgD1TPxjB) | 4:05 | 2022-07-01 |  |
 | [El Brillo de Tu Ausencia](https://open.spotify.com/track/5j1grRcBgGMzdXh0DoEOzz) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [El Brillo de Tu Ausencia](https://open.spotify.com/album/5t1Uw2qWVVMCAzmHwwdT02) | 4:12 | 2022-09-07 | 2022-09-28 |
@@ -97,7 +98,7 @@
 | [FILA 14](https://open.spotify.com/track/3bzhWqjLW4YWUqC3hPLFJ8) | [Los Dynamite](https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9) | [FILA 14](https://open.spotify.com/album/5utuRSmD6b2yBYHO5iDiTC) | 2:29 | 2023-04-14 | 2023-04-22 |
 | [Filosa](https://open.spotify.com/track/4It3yolMmTWgrhQx4S0a4x) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Filosa](https://open.spotify.com/album/2P2nyPyDLuIjt2ED3WBIMP) | 4:19 | 2023-04-07 | 2023-04-15 |
 | [Fluye](https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Dualidad](https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS) | 3:35 | 2021-12-17 | 2023-02-18 |
-| [Fresno](https://open.spotify.com/track/3S1L6zZ7cPVdNiK2cYXc74) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Plaza Futura](https://open.spotify.com/album/7dmqZcDMJyCQuMapnNNkGP) | 3:10 | 2023-04-28 |  |
+| [Fresno](https://open.spotify.com/track/3S1L6zZ7cPVdNiK2cYXc74) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Plaza Futura](https://open.spotify.com/album/7dmqZcDMJyCQuMapnNNkGP) | 3:10 | 2023-04-28 | 2023-05-06 |
 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 | 2021-12-17 |  |
 | [Galáctica](https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Galáctica](https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m) | 3:27 | 2021-12-17 |  |
 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 | 2022-07-11 | 2022-08-13 |
@@ -239,6 +240,7 @@
 | [Sólo Tú](https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Sólo Tú](https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS) | 3:16 | 2022-04-09 | 2022-07-12 |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Tantas Cosas Buenas](https://open.spotify.com/album/3sGo39318ViQM2ZHNporVo) | 3:58 | 2022-11-11 | 2022-12-17 |
 | [Tauro Con Leo](https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Tauro Con Leo](https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib) | 3:02 | 2022-03-11 | 2022-07-22 |
+| [Teatro del absurdo](https://open.spotify.com/track/7pzj7aFZxaPrvproUNEaf8) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Teatro del absurdo](https://open.spotify.com/album/2ADvULJtZQpapB8I6VGJW2) | 4:00 | 2023-05-05 |  |
 | [Tecolotes](https://open.spotify.com/track/3kGEAWMgqQn78pcktXz2uB) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Tecolotes](https://open.spotify.com/album/243ojdy2kghaCPBSjfxQRt) | 5:00 | 2021-12-17 | 2022-07-23 |
 | [The Eye That Catches The Dream](https://open.spotify.com/track/0OF4qKlgVVA4xAgdDSZ52b) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [The Eye That Catches The Dream](https://open.spotify.com/album/6XfREUYIYLA8AoeCtQImhB) | 4:14 | 2023-04-07 | 2023-04-15 |
 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 | 2023-03-17 | 2023-04-22 |
@@ -272,5 +274,6 @@
 | [Zeppelin](https://open.spotify.com/track/2pKX8ad4udW2XIbka2P3fe) | [Aladin Fox](https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l) | [Aladin Fox](https://open.spotify.com/album/39ubZMkaMKwvNTnPLkmArp) | 2:33 | 2022-07-01 | 2022-07-06 |
 | [¿Por Qué Te Vas?](https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [¿Por Qué Te Vas?](https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ) | 3:24 | 2022-03-11 | 2022-08-10 |
 | [Ángel Eléctrico](https://open.spotify.com/track/6fCrDaFJJrBVibwCOu7Nea) | [Menino Bulle](https://open.spotify.com/artist/6zxXwaIhTcmOKktiZn3CjK) | [Ángel Eléctrico](https://open.spotify.com/album/75UND50jl2D43kHsMZBB5F) | 3:08 | 2022-08-09 | 2022-08-19 |
+| [Árbol](https://open.spotify.com/track/6MkWgZNpY548ccjs2PJSyq) | [Japonica](https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Árbol](https://open.spotify.com/album/2EmvmqrZduLbrkcpVyVutX) | 2:45 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2022-04-22. Prior content cannot be recovered.

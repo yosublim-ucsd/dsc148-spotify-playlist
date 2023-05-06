@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Calibre 50 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,757 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,082 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 99 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 |
 | 100 | [Siempre Estoy Pa´Ti](https://open.spotify.com/track/7tdu9DVtHAxWapgPtnuZkM) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Siempre Estoy Pa´Ti](https://open.spotify.com/album/4xYCQogPWyemOhsaSLQkre) | 3:53 |
 
-Snapshot ID: `MCw1NWExNDc2ODQ2Y2RhZmQ1OTUzODJmMzkxYmY0NmJmZWZjOTQ3NWNl`
+Snapshot ID: `MCxmZDQ5ZDg4N2Q1NTU0YzZiZDYyNTk0Y2IzNTcyZWQ4NWU4OGZhOTBk`

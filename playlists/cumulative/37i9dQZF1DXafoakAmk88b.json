@@ -948,7 +948,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 186151,
       "name": "Claymore (feat. Smino)",
       "url": "https://open.spotify.com/track/051zam2WDIKOLdu4XYpCaA"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 271756,
       "name": "DAYS GO BY",
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
@@ -1774,6 +1774,24 @@
       "duration_ms": 140146,
       "name": "GHOST*",
       "url": "https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi"
+    },
+    {
+      "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
       "album": {
@@ -3377,6 +3395,24 @@
     },
     {
       "album": {
+        "name": "Curser's Lament EP",
+        "url": "https://open.spotify.com/album/7fM6cruyi0SeSc4q7dfTEk"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Pyke",
+          "url": "https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228026,
+      "name": "No Comply",
+      "url": "https://open.spotify.com/track/59IFFdXjFoKr9Yf5gwmCVR"
+    },
+    {
+      "album": {
         "name": "no way out",
         "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
       },
@@ -3922,6 +3958,24 @@
       "duration_ms": 266772,
       "name": "Rearrange",
       "url": "https://open.spotify.com/track/1APcu1K9e8tT6gqcxZ8PZS"
+    },
+    {
+      "album": {
+        "name": "Ribs",
+        "url": "https://open.spotify.com/album/1STW8v44VbbFKtmToUurll"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170107,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM"
     },
     {
       "album": {
@@ -5234,7 +5288,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200877,
       "name": "whatever u like",
       "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"

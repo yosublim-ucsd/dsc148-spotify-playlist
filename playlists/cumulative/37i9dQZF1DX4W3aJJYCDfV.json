@@ -4357,6 +4357,28 @@
     },
     {
       "album": {
+        "name": "First Lap",
+        "url": "https://open.spotify.com/album/0Ukfuv1AjZhBQg7c2QpDaK"
+      },
+      "artists": [
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        },
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151176,
+      "name": "Back 2 Back (feat. Potter Payper)",
+      "url": "https://open.spotify.com/track/3qADzUJtHJMy6rxbSLusJ5"
+    },
+    {
+      "album": {
         "name": "Back 2 Back (feat. Potter Payper)",
         "url": "https://open.spotify.com/album/2vbR7MuRmXGWfIm3zEQpdf"
       },
@@ -4372,7 +4394,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151176,
       "name": "Back 2 Back (feat. Potter Payper)",
       "url": "https://open.spotify.com/track/6fRWobvU9232QJsfZi2Bnp"
@@ -15084,6 +15106,24 @@
     {
       "album": {
         "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/0UkxPgr1xYlGMxzm6GiLK6"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/38CuN4CRLP5s76gE2PVmgD"
+    },
+    {
+      "album": {
+        "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/40QI5nHRjt52ohmAnINQ0z"
       },
       "artists": [
@@ -15112,7 +15152,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200000,
       "name": "Don't Tell Me (Extended Mix)",
       "url": "https://open.spotify.com/track/0f9GmBXYoodhorw5jtmUga"
@@ -21885,6 +21925,24 @@
     },
     {
       "album": {
+        "name": "Gilded Shadow",
+        "url": "https://open.spotify.com/album/36WMmYNjZ3V1KcHjo7QX1m"
+      },
+      "artists": [
+        {
+          "name": "Sophie DeMasi",
+          "url": "https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190935,
+      "name": "Gilded Shadow",
+      "url": "https://open.spotify.com/track/76o4GyiqzGYlegNkPoW8OX"
+    },
+    {
+      "album": {
         "name": "GIMME",
         "url": "https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi"
       },
@@ -25982,6 +26040,28 @@
       "duration_ms": 156746,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/2e8d2VJ1V2seFa0b0h8KqY"
+    },
+    {
+      "album": {
+        "name": "Honey Love",
+        "url": "https://open.spotify.com/album/0YiDuhb3BweEUXzrDORQfp"
+      },
+      "artists": [
+        {
+          "name": "Producerboibrad.",
+          "url": "https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB"
+        },
+        {
+          "name": "Amalie Bryde",
+          "url": "https://open.spotify.com/artist/6ZRXf3EvRlQul3Uq06WnYN"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Honey Love",
+      "url": "https://open.spotify.com/track/2wWXZGkYZwjzW84fstJdyC"
     },
     {
       "album": {
@@ -35534,6 +35614,10 @@
         {
           "name": "Nippa",
           "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
         }
       ],
       "date_added": "2023-05-04",
@@ -37604,7 +37688,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 212218,
       "name": "MOP",
       "url": "https://open.spotify.com/track/6vKzxT4FXGHECZEw3tIIge"
@@ -39827,6 +39911,24 @@
     },
     {
       "album": {
+        "name": "THE RAT ROAD",
+        "url": "https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247209,
+      "name": "NO INTENTION",
+      "url": "https://open.spotify.com/track/4h8t83GOfsslUI7ADtf31j"
+    },
+    {
+      "album": {
         "name": "NO INTENTION",
         "url": "https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri"
       },
@@ -39842,7 +39944,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 247209,
       "name": "NO INTENTION",
       "url": "https://open.spotify.com/track/771Tpqi1DLOrqwfiNV3Er9"

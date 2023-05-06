@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Casper Sage",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Sean Leon",
   "name": "Vanguard",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 79291,
       "name": "*smokes weed once*",
       "url": "https://open.spotify.com/track/0u42ardVmhoaCo746IumyG"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
@@ -1778,6 +1778,24 @@
       "duration_ms": 173774,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
+    },
+    {
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "album": {
@@ -4748,7 +4766,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
@@ -7030,7 +7048,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197000,
       "name": "In This Darkness",
       "url": "https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy"
@@ -8816,7 +8834,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 230557,
       "name": "Mess Around (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP"
@@ -8983,6 +9001,24 @@
     },
     {
       "album": {
+        "name": "ME YOU & GOD",
+        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173506,
+      "name": "MiSS BEHAVE",
+      "url": "https://open.spotify.com/track/442BDy6jx8GcqKWZmjMaLg"
+    },
+    {
+      "album": {
         "name": "Miss Summer",
         "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
       },
@@ -9106,7 +9142,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 253375,
       "name": "Most Men - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
@@ -11816,7 +11852,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 249667,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
@@ -12517,6 +12553,24 @@
     },
     {
       "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+    },
+    {
+      "album": {
         "name": "Spacing Out",
         "url": "https://open.spotify.com/album/6vX0B7KKVkzPJrPqTMnsQM"
       },
@@ -12964,7 +13018,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194109,
       "name": "SUGAR DIVE",
       "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
@@ -14294,7 +14348,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 189232,
       "name": "Touch Your Soul (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
@@ -14504,7 +14558,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 243866,
       "name": "UNDERSTAND (feat. Baby Rose)",
       "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
@@ -15018,7 +15072,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 248669,
       "name": "whelmed",
       "url": "https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl"

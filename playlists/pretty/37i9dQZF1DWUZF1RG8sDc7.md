@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,322 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,440 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [Casualidad](https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Super Vallenatos 2008](https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w) | 4:52 |
 | 60 | [Al Fin Llegaste Tú](https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Sin Límites](https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK) | 3:52 |
 
-Snapshot ID: `MCwzMzY5MjBkODVlYjQyM2U2NmEzMzE5NTc3ZmNjNTkwMjBmMDA1MDgz`
+Snapshot ID: `MCw1MzM3MDMxODljZDY0MTlkNzk5NjhhYTVhNmRjY2U3MGExNWZkMmVl`

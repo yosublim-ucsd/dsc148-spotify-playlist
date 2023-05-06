@@ -2,9 +2,9 @@
 
 ### [Darkwave](https://open.spotify.com/playlist/37i9dQZF1DWWmsWPbM2pKT)
 
-> Obscure, dreamy and nostalgic synth sounds from all over the world\. Molchat Doma on cover.
+> Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-157 songs - 10 hr 23 min
+159 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,13 +17,14 @@
 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 | 2020-12-21 |  |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2023-02-09 |  |
 | [After the Rain](https://open.spotify.com/track/5PJX4rUiIHjDoUi3C8jeZm) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Moondust](https://open.spotify.com/album/3FfcJSLi3vTvOEAjYgO7hB) | 3:00 | 2020-12-21 | 2023-02-10 |
-| [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 | 2020-12-21 |  |
+| [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 | 2020-12-21 | 2023-05-06 |
 | [Allude](https://open.spotify.com/track/39GNrhMrtompGnn05genwA) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Allude](https://open.spotify.com/album/0kgsQdGtnR0WPxkdHF5Gpi) | 5:51 | 2020-12-21 |  |
 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 | 2023-01-06 |  |
 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 | 2023-03-17 |  |
 | [Anvil](https://open.spotify.com/track/4eKN8RPS06OHyk8dTdempU) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [VESSEL](https://open.spotify.com/album/2fiGmNRXBH0QMnkm4jswEr) | 3:29 | 2020-12-21 |  |
 | [Audiotool Day 2016](https://open.spotify.com/track/0mAYx7e7gOsH7wUQgrD8t2) | [Xtract](https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re) | [Audiotool Day 2016](https://open.spotify.com/album/3Zs4J3UFVJxLA2Bs0Iz6rA) | 3:57 | 2020-12-21 | 2023-04-16 |
 | [Audiotool Day 2016](https://open.spotify.com/track/0j0BYhRSoVbYDvDlVoSP4a) | [Xtract](https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re) | [Audiotool Day 2016](https://open.spotify.com/album/5flSmZT9JHd4qQUmAnetPj) | 4:00 | 2023-04-28 |  |
+| [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 | 2023-05-05 |  |
 | [Bad Night at Black's Beach](https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [II](https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73) | 2:50 | 2020-12-21 |  |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2023-02-09 |  |
 | [Bichota \(Post\-Punk\)](https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Bichota \(Post\-Punk\)](https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD) | 3:01 | 2023-04-03 |  |
@@ -66,7 +67,7 @@
 | [Holod](https://open.spotify.com/track/3uuZgHc57MBoBchsETeecJ) | [Super Besse](https://open.spotify.com/artist/6bcE5jaMjqBXy1bwH8KdR0) | [63610\*](https://open.spotify.com/album/4M6aZ41q3nWcfgVn1Q6buu) | 4:52 | 2020-12-21 | 2023-02-10 |
 | [Honey](https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Violent Rains](https://open.spotify.com/album/7IZ2mNo4PPWCdsEuEKkGyU) | 3:32 | 2023-02-09 |  |
 | [Hoy Solo Quiero Odiar](https://open.spotify.com/track/6d4TnEhdm5ohWkhhV6D7zy) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw) | 4:21 | 2023-04-28 |  |
-| [If Love Is Just a Word](https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0) | [Bleib Modern](https://open.spotify.com/artist/2FCVB3cfCC0e3O8G7Gs8t6) | [All Is Fair in Love and War](https://open.spotify.com/album/7B13N33UUfGmh0s6pr5dBL) | 2:49 | 2023-02-09 |  |
+| [If Love Is Just a Word](https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0) | [Bleib Modern](https://open.spotify.com/artist/2FCVB3cfCC0e3O8G7Gs8t6) | [All Is Fair in Love and War](https://open.spotify.com/album/7B13N33UUfGmh0s6pr5dBL) | 2:49 | 2023-02-09 | 2023-05-06 |
 | [Impermanence](https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:02 | 2023-02-09 |  |
 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 | 2023-02-09 |  |
 | [Into the Void](https://open.spotify.com/track/68FAxdemTDnum52uSSYUWd) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Chroma](https://open.spotify.com/album/6wIN1Dl6CDXyXPEVxjugqF) | 3:36 | 2023-02-09 |  |
@@ -75,6 +76,7 @@
 | [Invierno Nuclear](https://open.spotify.com/track/0wK1nvACkwDtDPAL0PmE6E) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Escama](https://open.spotify.com/album/4NYnACTDLJ1YHcbnEpPh7D) | 4:34 | 2020-12-21 | 2023-02-10 |
 | [It Feels Like I Start over Again](https://open.spotify.com/track/79721eJS5TNJHyUWDT1coe) | [Faience Knife](https://open.spotify.com/artist/4hQOWxvWv9RG1J2kpR8ZDv) | [Ἀλκυών](https://open.spotify.com/album/6zRrpZvy9paQCIFT42mSZm) | 3:13 | 2022-02-18 | 2023-02-10 |
 | [Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:12 | 2020-12-21 |  |
+| [Killer](https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:06 | 2023-05-05 |  |
 | [Labor](https://open.spotify.com/track/3Ra7J2KKsqKOHR4w9OMuEN) | [Ssleeping Desiress](https://open.spotify.com/artist/4fDRRcMe3Ci8lhq01OaVlI) | [Ssleeping Desiress](https://open.spotify.com/album/157P582dPYLDWK3tbHBe8f) | 4:01 | 2023-01-12 | 2023-02-22 |
 | [Leave](https://open.spotify.com/track/7i0Y4Lmp5Zrvu3QvKn3H9C) | [Cactus Ponchos](https://open.spotify.com/artist/4puf0OYh6mMjTRFuprvekt) | [Leave](https://open.spotify.com/album/6e1FsnxiW7AuqxhzrV5jM4) | 4:29 | 2023-03-07 | 2023-03-25 |
 | [leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [leichter//kälter](https://open.spotify.com/album/1Q3Vo8cPBMEYDnCm5982vC) | 3:15 | 2021-09-01 |  |

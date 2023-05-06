@@ -11621,6 +11621,24 @@
     },
     {
       "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/1pgpTTjwE9HEdkK9RYQ2VG"
+      },
+      "artists": [
+        {
+          "name": "Sleep Cyclone",
+          "url": "https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/1aZQokBzBRVdm8d24yPi8P"
+    },
+    {
+      "album": {
         "name": "Spiritual Alignment",
         "url": "https://open.spotify.com/album/6APh84KBRc7seMrOxssFi4"
       },
@@ -14138,6 +14156,24 @@
       "duration_ms": 244250,
       "name": "You Were There",
       "url": "https://open.spotify.com/track/4yeSps53hkpdwz7G4Jl7PR"
+    },
+    {
+      "album": {
+        "name": "Element",
+        "url": "https://open.spotify.com/album/0USAI4oXakWxAFFvMXYjmp"
+      },
+      "artists": [
+        {
+          "name": "Takhall",
+          "url": "https://open.spotify.com/artist/5JT8XbqZDGSHR91TqvUKi0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Your Are The Calm",
+      "url": "https://open.spotify.com/track/2APApFAWZgn1F0Efpl6jlj"
     },
     {
       "album": {

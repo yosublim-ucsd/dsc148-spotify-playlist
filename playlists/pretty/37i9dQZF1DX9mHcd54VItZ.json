@@ -1,28 +1,28 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=2tuFGhMOTQq74hieYvJjVw\">Ruff Majik</a> ",
-  "num_followers": 12864,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn?si=Dy-6K__kSu6y-7gjp5Fyzw\">Glaskas</a> ",
+  "num_followers": 12876,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWZhNzA3ZDRlMWJmZDI4ZjAzM2YzOWI1NzUzNzIxNGZlNTc3MWZk",
+  "snapshot_id": "MCxiYmNkNzlhNjhmOWE0NjYwOTA0YWE1OWExMTcwM2U2YzVjYzA4ZTNk",
   "tracks": [
     {
-      "added_at": "2023-04-27 21:59:00",
+      "added_at": "2023-05-05 04:14:59",
       "album": {
-        "name": "Elektrik Ram",
-        "url": "https://open.spotify.com/album/4HpDEF8FVhuaXWAz1Sr4Je"
+        "name": "Die Lig",
+        "url": "https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb"
       },
       "artists": [
         {
-          "name": "Ruff Majik",
-          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
         }
       ],
-      "duration_ms": 172003,
-      "name": "Rave to the Grave",
-      "url": "https://open.spotify.com/track/0yidnSQ53CqoAEhb4ZqNBK"
+      "duration_ms": 145528,
+      "name": "Die Lig",
+      "url": "https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R"
     },
     {
       "added_at": "2023-03-16 21:59:00",
@@ -43,6 +43,70 @@
       "duration_ms": 159652,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Elektrik Ram",
+        "url": "https://open.spotify.com/album/4HpDEF8FVhuaXWAz1Sr4Je"
+      },
+      "artists": [
+        {
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+        }
+      ],
+      "duration_ms": 172003,
+      "name": "Rave to the Grave",
+      "url": "https://open.spotify.com/track/0yidnSQ53CqoAEhb4ZqNBK"
+    },
+    {
+      "added_at": "2023-05-05 04:14:59",
+      "album": {
+        "name": "Good Little Girl",
+        "url": "https://open.spotify.com/album/2A2SF1ydODURrgfp9hOp8A"
+      },
+      "artists": [
+        {
+          "name": "Saturn Return",
+          "url": "https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt"
+        }
+      ],
+      "duration_ms": 205100,
+      "name": "Good Little Girl",
+      "url": "https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y"
+    },
+    {
+      "added_at": "2023-05-05 04:14:59",
+      "album": {
+        "name": "Verby",
+        "url": "https://open.spotify.com/album/0F7M5RLUaX36HO8wYf2vYF"
+      },
+      "artists": [
+        {
+          "name": "Swerwer",
+          "url": "https://open.spotify.com/artist/2Agm0pczmzwW1mpWQjioPJ"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Verby",
+      "url": "https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz"
+    },
+    {
+      "added_at": "2023-05-05 04:14:59",
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/6I10aJiMRq2h1jqF1zhYtF"
+      },
+      "artists": [
+        {
+          "name": "Fortunes Fool",
+          "url": "https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py"
+        }
+      ],
+      "duration_ms": 262682,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/1NXO41gIxIzpBVc3JIO00v"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -393,22 +457,6 @@
       "url": "https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Nameless Days",
-        "url": "https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n"
-      },
-      "artists": [
-        {
-          "name": "Brynn",
-          "url": "https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n"
-        }
-      ],
-      "duration_ms": 251189,
-      "name": "Nameless Days",
-      "url": "https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j"
-    },
-    {
       "added_at": "2023-04-14 03:54:26",
       "album": {
         "name": "ek voel ek droom",
@@ -617,22 +665,6 @@
       "url": "https://open.spotify.com/track/2JMDWqOSByeWD9f2SpyXtK"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Kanniedood",
-        "url": "https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 159494,
-      "name": "Nie Alleen Nie",
-      "url": "https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3"
-    },
-    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "Theory of Emotion",
@@ -807,22 +839,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/1iY7kl6SSFgsvanujYfz4n"
-      },
-      "artists": [
-        {
-          "name": "Tailyn",
-          "url": "https://open.spotify.com/artist/2qzHxFKbv8nubU91e90OHx"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/5HZHEJr2lB9UuJdTnJ2LlC"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "Aansteeklik",
         "url": "https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 175728,
       "name": "Kopskud Revolusie (feat. Spoegwolf)",
       "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Die Son",
-        "url": "https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ"
-      },
-      "artists": [
-        {
-          "name": "Vrede",
-          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "Die Son",
-      "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
     }
   ],
   "unique_name": "SA Rock ",

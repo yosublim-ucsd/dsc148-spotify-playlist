@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-78 songs - 4 hr 57 min
+79 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,13 +65,14 @@
 | [Step](https://open.spotify.com/track/4tSfW5rFL596C52yfvygz2) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Hot Dads in Tight Jeans](https://open.spotify.com/album/6UPvt5EJIuI3uCpnwgoOJ6) | 4:02 | 2022-10-21 |  |
 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-01-13 |  |
 | [Strawberry Soju](https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Strawberry Soju](https://open.spotify.com/album/5ndnvMs3zF4hOcyT9NFHI9) | 2:51 | 2023-04-07 |  |
+| [Surrender](https://open.spotify.com/track/2lbfgYWkeW7rQRYlixgkAZ) | [Surahn](https://open.spotify.com/artist/7isf2onROC85pAnUK3wXAb) | [Surrender](https://open.spotify.com/album/2RknVcT1UWgRzNEJyRpLPn) | 4:38 | 2023-05-05 |  |
 | [Takeoff](https://open.spotify.com/track/6Rg1H1aIrg99gsOKCEEDjh) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 4:07 | 2022-10-21 |  |
 | [The Dandelion](https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM) | 3:39 | 2022-10-21 | 2023-04-30 |
 | [The Dandelion](https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG) | 3:39 | 2022-10-21 |  |
 | [The Dandelion](https://open.spotify.com/track/6yTchvmjqKDj4psl8WunJK) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Paris II](https://open.spotify.com/album/3mIkvHphijwLhjlYZPWJN7) | 3:39 | 2022-10-21 | 2022-12-24 |
 | [The Lottery](https://open.spotify.com/track/16xoohpKWmRCrSbK5tQtpL) | [The Stepkids](https://open.spotify.com/artist/1JbB3pybR1wjrQSBLaMWyn) | [Troubadour](https://open.spotify.com/album/0IA0ptUhfkuHZa6pz8g82v) | 3:50 | 2022-10-21 |  |
 | [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 | 2022-10-21 |  |
-| [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-18 |  |
+| [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-18 | 2023-05-06 |
 | [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-21 | 2023-01-14 |
 | [TIP OF THE FLAME \- 12" DISCO MIX](https://open.spotify.com/track/1rtL8tDWsIWhRjuOONau7r) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [TIP OF THE FLAME \(12" DISCO MIX\)](https://open.spotify.com/album/7B4L0vrNdIShUKOqwcM8mO) | 5:57 | 2023-02-17 | 2023-02-19 |
 | [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip Of The Flame \(12" Disco Mix\)](https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD) | 5:57 | 2023-02-17 |  |

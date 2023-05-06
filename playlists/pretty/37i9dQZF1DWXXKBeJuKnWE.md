@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,014 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,027 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [Set Fazers](https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Set Fazers](https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K) | 3:15 |
 | 80 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
 
-Snapshot ID: `MCxhYWMwMTlmMGE3ZWEyMjMwZjE1ODFiNDYzZWE2YTdiN2NiYTQ2MmM2`
+Snapshot ID: `MCwxNWQyZTY0NzRkNDEyNmFhMTRiNTNkOThiNDNhMjdkNDZiZmM5MzQz`

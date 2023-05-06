@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,430 likes - 110 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,477 likes - 110 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [Juniper](https://open.spotify.com/track/2hydT7CjDeOfmzEQMwVKxo) | [Nearly Oratorio](https://open.spotify.com/artist/30daoc0SCzQpNd6ZWjaoZi) | [A Comforting Fact](https://open.spotify.com/album/4wP6C0ZAL1TiMFPrUVxEI3) | 4:19 |
 | 110 | [Andalusia](https://open.spotify.com/track/75LdAXSmYSJkS2aVYBxxDW) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Chasing After Shadows..\. Living With the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/1Trf9tr74LtVRBRqAJjnxS) | 7:42 |
 
-Snapshot ID: `MCwwMmE2YjA2ZjBhZGZmMzRjZWI5NzBhZGNlMmI0YTNjZmNmNjk2ZjQ3`
+Snapshot ID: `MCxhMjQ0NTE3ZTRlNDAxZWM1YzJjNzU1N2NiZTZjZTM0ZDZhZTE4MmZl`

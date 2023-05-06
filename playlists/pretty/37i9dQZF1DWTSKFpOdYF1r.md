@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,103 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,402 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Our Lips Are Sealed](https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx) | 2:51 |
 | 80 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
 
-Snapshot ID: `MCwxYzdhYWY0M2Q1MzUyYzFmNzM4OTY4MTkxNWZkMjkyMTVkZGZjMWQx`
+Snapshot ID: `MCw0NWJmZWI3YWQzNTU5ZTI1ODMyNGYyNDQ4OTljNzc0YmJhM2FhZjY2`

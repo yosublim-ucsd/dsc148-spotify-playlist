@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,363 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,033 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 | 149 | [Soundtrack 2 My Life](https://open.spotify.com/track/0rFpcfF0YfvFUYsl99Bw9d) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 3:55 |
 | 150 | [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 |
 
-Snapshot ID: `MCwwYzE3YjNmM2UyYzdkOWI1NWQ2NGQ4OWRhMjg0YTMwMjAxMDdiZDk2`
+Snapshot ID: `MCw5YTNmYzE0N2U3NDVlYjk4ZDdmNzdjMTcwMDEyNzI4OGFlMTExZGIx`

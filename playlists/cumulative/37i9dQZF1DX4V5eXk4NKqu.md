@@ -4,7 +4,7 @@
 
 > The best Latin Indie tracks right now, featuring Little Jesus.
 
-246 songs - 14 hr 6 min
+247 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Confidently Lost](https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Confidently Lost](https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw) | 3:29 | 2022-05-06 | 2022-09-07 |
 | [Continental](https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Continental](https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME) | 3:24 | 2023-01-27 |  |
 | [Corazon de Fieltro](https://open.spotify.com/track/3Zlt9VzAa9MBELpZYFd9Ym) | [Ravo](https://open.spotify.com/artist/3xOxSUVQx9oLgljBu8bLVP) | [Corazon de Fieltro](https://open.spotify.com/album/5cK2mGWhh1IO7E4V2G0NB5) | 2:48 | 2022-03-10 | 2023-02-09 |
+| [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 | 2023-05-05 |  |
 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 | 2023-04-14 |  |
 | [costas de coral](https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [costas de coral](https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps) | 3:08 | 2023-02-08 |  |
 | [Cuando](https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:10 | 2022-03-10 | 2022-10-13 |
@@ -238,7 +239,7 @@
 | [Universe](https://open.spotify.com/track/5S5S5oiwdGS4ppgXmF2w0V) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:30 | 2022-03-10 | 2022-10-13 |
 | [Universe](https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:30 | 2022-09-06 | 2023-01-28 |
 | [Vas](https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c) | [Blssom](https://open.spotify.com/artist/66xgo99rMsMKLL1JknCawn) | [Blssom](https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb) | 3:44 | 2022-12-30 |  |
-| [VHS](https://open.spotify.com/track/4k34WNz27uYpifsREylsyx) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [VHS](https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI) | 2:56 | 2023-04-14 |  |
+| [VHS](https://open.spotify.com/track/4k34WNz27uYpifsREylsyx) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [VHS](https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI) | 2:56 | 2023-04-14 | 2023-05-06 |
 | [vuelve](https://open.spotify.com/track/5vbUaeom27lTaAIhDin5DU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:21 | 2022-05-06 |  |
 | [Vámono](https://open.spotify.com/track/623mI2F1iCO4cqGbv6WUVn) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Vámono](https://open.spotify.com/album/0DAtzeZ09MxUORBOwGWxF5) | 3:28 | 2022-04-21 | 2022-09-07 |
 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 | 2022-04-21 | 2023-02-09 |

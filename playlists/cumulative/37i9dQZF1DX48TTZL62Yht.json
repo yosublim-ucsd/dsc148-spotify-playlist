@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The tracks you just keep pulling up. Cover: NLE Choppa",
+  "description": "The tracks you just keep pulling up. Cover: Jack Harlow",
   "name": "Hip-Hop Favourites",
   "tracks": [
     {
@@ -20,6 +20,32 @@
       "duration_ms": 135338,
       "name": "!",
       "url": "https://open.spotify.com/track/5a1ofLoPiAn5xxf5UE6472"
+    },
+    {
+      "album": {
+        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178950,
+      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
     },
     {
       "album": {
@@ -3228,7 +3254,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
@@ -3940,6 +3966,28 @@
       "duration_ms": 133773,
       "name": "Foreign (feat. Nav)",
       "url": "https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167977,
+      "name": "Forever (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
       "album": {
@@ -5782,6 +5830,24 @@
       "duration_ms": 174805,
       "name": "Intro (Hate On Me)",
       "url": "https://open.spotify.com/track/4s7TIubkdsgdtDEDFEAYVL"
+    },
+    {
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118796,
+      "name": "Is That Ight?",
+      "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
     },
     {
       "album": {
@@ -10604,7 +10670,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 161052,
       "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO"
@@ -13120,7 +13186,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187541,
       "name": "WAP (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"

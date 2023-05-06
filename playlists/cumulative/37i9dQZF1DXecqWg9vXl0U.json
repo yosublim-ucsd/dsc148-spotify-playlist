@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica Para Adultos",
+        "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166246,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
+    },
+    {
+      "album": {
         "name": "Adentro M\u00edo",
         "url": "https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ"
       },
@@ -208,7 +226,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 168841,
       "name": "Algo",
       "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 257170,
       "name": "Cosas raras (feat. Pimp Flaco)",
       "url": "https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg"
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 237142,
       "name": "Hola Lola",
       "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
@@ -2064,6 +2082,24 @@
       "duration_ms": 291750,
       "name": "La Novela",
       "url": "https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG"
+    },
+    {
+      "album": {
+        "name": "Las cosas que no pude hablar",
+        "url": "https://open.spotify.com/album/3ObdwOot9AaRviUeJT5qEw"
+      },
+      "artists": [
+        {
+          "name": "Dawn Haze",
+          "url": "https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Las cosas que no pude hablar",
+      "url": "https://open.spotify.com/track/65kCrHEUYHI59yFLp3IXKA"
     },
     {
       "album": {
@@ -2698,7 +2734,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 110175,
       "name": "Never Felt This Before",
       "url": "https://open.spotify.com/track/6wlwBbeNhohbrPfCxRGBYe"
@@ -3420,7 +3456,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 245840,
       "name": "reina de primavera",
       "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
@@ -4075,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "cl\u00e1sico vol. 1",
+        "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178541,
+      "name": "tus mensajes",
+      "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
+    },
+    {
+      "album": {
         "name": "So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/3aGmHJLrFubhnEBeaASZoy"
       },
@@ -4295,6 +4349,28 @@
     },
     {
       "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/4k34WNz27uYpifsREylsyx"
+    },
+    {
+      "album": {
         "name": "Volver A Empezar",
         "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
       },
@@ -4484,7 +4560,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 161621,
       "name": "yo sad, t\u00fa feliz",
       "url": "https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO"

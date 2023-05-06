@@ -4,7 +4,7 @@
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-160 songs - 11 hr 5 min
+161 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,13 +114,14 @@
 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 | 2022-04-01 |  |
 | [Pude](https://open.spotify.com/track/5rbpO1uwknNtqDtMk3egEn) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Siglo Pánico](https://open.spotify.com/album/7MRsKtJ9izfxC4jOs7h4UY) | 3:08 | 2022-04-01 | 2022-07-13 |
 | [Qué Se Yo](https://open.spotify.com/track/24RgLBs7t0WMWBcYdHOI6u) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Buenas](https://open.spotify.com/album/76m32yTlWJucOTf9LWtuae) | 3:59 | 2022-04-01 | 2022-08-19 |
+| [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 | 2023-05-05 |  |
 | [Resaca de Carnaval](https://open.spotify.com/track/6FPYeXUbLfwmwcknp1f7VZ) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [No Se Lo Cuentes a Nadie](https://open.spotify.com/album/6FZ81NpFnYO5IOGUm8uzGk) | 3:41 | 2022-04-01 | 2022-07-29 |
 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 | 2022-04-01 |  |
 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 | 2022-04-01 | 2022-07-28 |
 | [Rotos y Descocidos](https://open.spotify.com/track/03gBHAQqX65jxtnDdfPj5m) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social II](https://open.spotify.com/album/2UsSavt2PWkbqaFnTSxHFg) | 3:06 | 2022-07-08 | 2022-08-17 |
 | [Rotos y Descocidos](https://open.spotify.com/track/2u55FMNQoM8W7tHuO4JOgM) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social II](https://open.spotify.com/album/5zmuYdSpq60tyeNhGmbouj) | 3:06 | 2022-04-01 | 2022-07-17 |
 | [Ruleta](https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:16 | 2022-04-01 |  |
-| [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 | 2022-04-01 |  |
+| [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 | 2022-04-01 | 2023-05-06 |
 | [Salgo A Recorrer](https://open.spotify.com/track/5Wq9FCjJFuJ34L49a98Nlr) | [Gabriel Carámbula](https://open.spotify.com/artist/5B5uB2qgf8cY4j5n9FdMNV), [Nigel Walker](https://open.spotify.com/artist/1wdOYq4dlX4EhFcrFtX4Xi) | [Carámbula](https://open.spotify.com/album/4Da8L42GmoNpAmNfdbEBja) | 3:22 | 2022-07-08 | 2022-07-16 |
 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 | 2022-04-01 |  |
 | [Se Viene](https://open.spotify.com/track/50ub3uFroRYynQRez4AKrq) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/07VQy3WNlaYt8WBJvdGLuy) | 3:25 | 2022-04-01 | 2022-07-29 |

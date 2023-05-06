@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-492 songs - 1 day 3 hr 32 min
+493 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Drama \(feat\. Drake\) \- Sped Up](https://open.spotify.com/track/4Xu9IUWFfEkW8YZw6orPGd) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drama \(feat\. Drake\) \[Sped Up\]](https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv) | 3:44 | 2023-03-26 | 2023-04-04 |
 | [Dreamland](https://open.spotify.com/track/6v1D8Qw4DSZ3AOGrY6IuuB) | [Baku](https://open.spotify.com/artist/5m3CibdsoEKP2HxjyRBuGZ) | [Dreamland](https://open.spotify.com/album/2Oshxvp7CnyoVCam904Lgy) | 2:39 | 2023-03-12 | 2023-03-21 |
 | [Dreams \(feat\. Mandark\)](https://open.spotify.com/track/31AwtIYfVZv7ujPcMEktvR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Dreams \(feat\. Mandark\)](https://open.spotify.com/album/2aMVUEYp4SKsWiVlUaOWUJ) | 4:28 | 2023-04-16 | 2023-04-24 |
-| [Dreams run around the barren fields](https://open.spotify.com/track/4SigsrnnCHXPTlt5qq5gTJ) | [VOLOJZA](https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md) | [Dreams run around the barren fields](https://open.spotify.com/album/5ScqhCRHYOMUjimCi7X1jp) | 3:08 | 2023-05-01 |  |
+| [Dreams run around the barren fields](https://open.spotify.com/track/33eOYd0S8wkFJRVlclsstR) | [VOLOJZA](https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md) | [Something the broken mirror saw.](https://open.spotify.com/album/53Fxv4ZQvWRTgsQ93ooryi) | 3:08 | 2023-05-01 |  |
+| [Dreams run around the barren fields](https://open.spotify.com/track/4SigsrnnCHXPTlt5qq5gTJ) | [VOLOJZA](https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md) | [Dreams run around the barren fields](https://open.spotify.com/album/5ScqhCRHYOMUjimCi7X1jp) | 3:08 | 2023-05-01 | 2023-05-06 |
 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 | 2023-05-01 |  |
 | [DSDM](https://open.spotify.com/track/2AeKRTpcndY3TsQmCukgDK) | [RICK NOVA](https://open.spotify.com/artist/7flydDGMB0orujddPJZnTg) | [DSDM](https://open.spotify.com/album/1fQVBXQvHeH6riVUMZm3pG) | 3:30 | 2023-04-03 | 2023-04-10 |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-20 | 2023-03-27 |

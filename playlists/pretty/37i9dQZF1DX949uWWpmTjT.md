@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,620 likes - 400 songs - 1 day 0 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,772 likes - 400 songs - 1 day 0 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 399 | [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 |
 | 400 | [In The Night](https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E) | [Stefania Tallini](https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb), [Matteo Bortone](https://open.spotify.com/artist/6Igu2eu1zPLL09auCGQqS8), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [Uneven](https://open.spotify.com/album/5q8nd3LqfzNaOfrv9VRhG8) | 4:00 |
 
-Snapshot ID: `MCxlODVkMjFhODNjNTg5YmNhYjk2MTRiZDNiZjhjZDlmNTk3NTIyYjZj`
+Snapshot ID: `MCw0OWQ1ZWI2ZWQ4M2NhN2IyMzViNDQxODdlMjY1NzRiMzcwMDQzOWY0`

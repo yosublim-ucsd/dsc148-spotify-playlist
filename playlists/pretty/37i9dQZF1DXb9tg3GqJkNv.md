@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,850 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,920 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 |
 | 75 | [One of Mines](https://open.spotify.com/track/3qjhYfvWfNC6SgvDfAm9oO) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 4:27 |
 
-Snapshot ID: `MCwyNDQ4ODUxOGVjOTllZTgwN2ViOGQzN2ViZmUzYTc2ZGIxYTBhODU4`
+Snapshot ID: `MCxlYmQ3M2U1NmIxNjNiMzg1MzcxMTIyMzg0MDk3MGU1MmQ2YjAyN2Jk`

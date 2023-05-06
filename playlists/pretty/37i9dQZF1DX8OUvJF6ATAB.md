@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,248 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,322 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 99 | [Monastic](https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 6:33 |
 | 100 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 |
 
-Snapshot ID: `MCw0NTVlOGQxZGQxYTlmZDc0NTE5MzlhM2NmN2YzNDk3YzgxOWQ4ZTQz`
+Snapshot ID: `MCw0OGQ1ODM0OGM4ODgwZmZkMjEwY2M4Y2ZlMzY1OWI2YjdiMWU4MGU0`

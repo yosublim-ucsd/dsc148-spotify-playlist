@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,159 likes - 200 songs - 16 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,188 likes - 200 songs - 16 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [Existing Closer or Deeper in Space](https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [Grass and Trees](https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7) | 3:51 |
 | 200 | [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 |
 
-Snapshot ID: `MCxmODc1OThjMTk4NzMwMzEzMDI3ZGVmZDE3YjFmYzBlOGJiYzEzM2M5`
+Snapshot ID: `MCwyY2E0NmU1YzE0OGI0ZGMyMWNlMjAzYmYyZDVmNzI1MmU1ODY4NzU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Jordan Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,440 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,663 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [I Can't Take You Anywhere](https://open.spotify.com/track/6qy96hXke3U5vSxZe5klYp) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [I Can't Take You Anywhere](https://open.spotify.com/album/2p63vg635NT4kQN3amdxRR) | 3:31 |
 | 100 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 |
 
-Snapshot ID: `MCxiNDljZWQ2NTY2ZDY1YWUyNzZhZjI4Njk1NTQ1ZjUwZDdiNDVkOThh`
+Snapshot ID: `MCwyMTcxOTNiM2NiY2M4NzE5OTUyMWY0Njk0OWQwMDRmMThmYzBhZWNl`

@@ -4,7 +4,7 @@
 
 > dark & dreamy for night creatures
 
-146 songs - 9 hr 1 min
+147 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Julia](https://open.spotify.com/track/25UzfmFg4oLQjedaSt3aX3) | [Sakkaris](https://open.spotify.com/artist/4S4HXXp7lMA41ttdFGpDIn) | [Julia](https://open.spotify.com/album/0pCf79uCIFJco9i61gJlZL) | 3:36 | 2022-10-14 |  |
 | [Just Obliterate \- Remix](https://open.spotify.com/track/6XD2uQTYOexy47pKXKf6wO) | [Extra Small](https://open.spotify.com/artist/0Z9lM4V1wdIfthABSwgSuH) | [Nepotism Child](https://open.spotify.com/album/35TgguE3Z8rmZ1PVeU4qZy) | 3:10 | 2023-01-19 |  |
 | [KEEP](https://open.spotify.com/track/1419vVVQ7pKVJYx5ydEomk) | [LVCK](https://open.spotify.com/artist/68QplKBnl2hnvnF0WDoT0G) | [KEEP](https://open.spotify.com/album/6Wp428ZEL1CMizVdBP3Fkq) | 2:56 | 2022-10-28 |  |
+| [Killer](https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:06 | 2023-05-05 |  |
 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 | 2022-12-12 |  |
 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 | 2022-09-02 | 2022-09-17 |
 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 | 2022-09-16 | 2022-10-08 |
@@ -90,7 +91,7 @@
 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 | 2022-11-10 |  |
 | [Lithium](https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Oak](https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr) | 3:27 | 2022-12-01 |  |
 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 | 2022-09-02 |  |
-| [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 | 2023-03-22 |  |
+| [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 | 2023-03-22 | 2023-05-06 |
 | [Lucid Dreams](https://open.spotify.com/track/2ts21ZYW03qgYpJ83huP2D) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [Lucid Dreams](https://open.spotify.com/album/7qx3nol9hH62ES4HtcsIeh) | 3:47 | 2022-09-16 |  |
 | [making out at the cemetery](https://open.spotify.com/track/6dKxNezVre0MtpWtvrQnLS) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [making out at the cemetery](https://open.spotify.com/album/4svnzibfqU4IMugrAwPn5s) | 2:30 | 2022-12-01 | 2023-01-20 |
 | [Massif Central](https://open.spotify.com/track/057wVpkAoz9DtXLLTI28wg) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [No Repair](https://open.spotify.com/album/1JHO44zLQD1EzgiSBwArqV) | 3:06 | 2023-01-26 | 2023-04-14 |
@@ -148,7 +149,7 @@
 | [When I'm Small](https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp) | 4:09 | 2022-09-02 | 2023-04-29 |
 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 | 2022-10-14 | 2023-01-20 |
 | [Wildflower](https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 3:39 | 2022-09-02 | 2022-12-13 |
-| [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2023-04-14 |  |
+| [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2023-04-14 | 2023-05-06 |
 | [Would It Kill You At All](https://open.spotify.com/track/0MFpii15OtF6euR17upS7S) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc) | 2:47 | 2022-10-07 | 2022-10-29 |
 | [Would It Kill You At All](https://open.spotify.com/track/1LOIGR5G6y2lqDpNQDdppm) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Would It Kill You At All](https://open.spotify.com/album/169zbd4B9wyNVMcknh3zcC) | 2:47 | 2022-09-30 | 2022-10-13 |
 | [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-09-16 | 2022-10-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,735 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,353 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 |
 | 100 | [Salt](https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:43 |
 
-Snapshot ID: `MCw4ZjFiNmExNTQ3ZjQxZThkNGQyNTFjMWNlZjU3Y2Y0OGQ4ZGI5YTRi`
+Snapshot ID: `MCwwYTZlY2FjY2RiZWY4ZTcxMzhlMWFkYjcxNGY0ZmI2MzJjYTJmYWEy`

@@ -1,12 +1,12 @@
 {
   "description": "Future & melodic bass. Cover: Blanke.",
-  "num_followers": 90818,
+  "num_followers": 90886,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmUwY2RmZmRlYTk5M2JiMjQ1NTM0Y2JlMjdiMWRkYTIwZjUxZTJj",
+  "snapshot_id": "MCxiYTdjMzY4NGZkNjZjOTM3YjI2ZDYxNGM0MzkxZGFiYjk2ZjA0YjNh",
   "tracks": [
     {
       "added_at": "2023-04-07 14:26:08",
@@ -189,6 +189,26 @@
       "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Today Tomorrow Forever (feat. fknsyd)",
+        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 155175,
+      "name": "Today Tomorrow Forever (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
+    },
+    {
       "added_at": "2023-04-07 14:26:08",
       "album": {
         "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
@@ -335,6 +355,22 @@
     {
       "added_at": "2023-04-07 14:26:08",
       "album": {
+        "name": "Drift Like A Cloud, Flow Like Water",
+        "url": "https://open.spotify.com/album/5Tfvcp2QbPL3caRaJQXeIE"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Drift Like A Cloud, Flow Like Water",
+      "url": "https://open.spotify.com/track/4eH90XBDNITj5M8TradkSS"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
         "name": "From The Ashes",
         "url": "https://open.spotify.com/album/3VH8ly1obBbFxSJodod4eD"
       },
@@ -351,22 +387,6 @@
       "duration_ms": 253983,
       "name": "From The Ashes",
       "url": "https://open.spotify.com/track/3bEkAkaKjxaC7DubsfCo1t"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
-        "name": "Drift Like A Cloud, Flow Like Water",
-        "url": "https://open.spotify.com/album/5Tfvcp2QbPL3caRaJQXeIE"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Drift Like A Cloud, Flow Like Water",
-      "url": "https://open.spotify.com/track/4eH90XBDNITj5M8TradkSS"
     },
     {
       "added_at": "2023-04-07 14:26:08",
@@ -735,26 +755,6 @@
     {
       "added_at": "2023-04-07 14:26:08",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
-        }
-      ],
-      "duration_ms": 249532,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
         "name": "Fire Again (Dabin Remix)",
         "url": "https://open.spotify.com/album/6VcgKd8N1eGmiaiWYi2rsf"
       },
@@ -771,50 +771,6 @@
       "duration_ms": 190666,
       "name": "Fire Again - Dabin Remix",
       "url": "https://open.spotify.com/track/6GJy7B0rZdy2PhWCp2jJpc"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/7lJSmMbApjYTvZaU72KZTo"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Heleen",
-          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
-        }
-      ],
-      "duration_ms": 229161,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/6ay07MXOmggaJyMoLT1fqC"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Jo Cohen",
-          "url": "https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q"
-        },
-        {
-          "name": "Lusil",
-          "url": "https://open.spotify.com/artist/1AzsVW3RPGZk0foQcGktHZ"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7"
     },
     {
       "added_at": "2023-04-07 14:26:08",
@@ -839,6 +795,70 @@
       "duration_ms": 222400,
       "name": "When I'm Gone - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/7lJSmMbApjYTvZaU72KZTo"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "duration_ms": 229161,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/6ay07MXOmggaJyMoLT1fqC"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+        }
+      ],
+      "duration_ms": 249532,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Jo Cohen",
+          "url": "https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q"
+        },
+        {
+          "name": "Lusil",
+          "url": "https://open.spotify.com/artist/1AzsVW3RPGZk0foQcGktHZ"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1403,6 +1423,22 @@
     {
       "added_at": "2023-04-07 14:26:08",
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "It's Not Too Late",
+      "url": "https://open.spotify.com/track/3j3xA2JFjRvV9MVF2mSBc5"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/5yWY4gVRl4oJEuRSBbBOHq"
       },
@@ -1479,22 +1515,6 @@
       "duration_ms": 232000,
       "name": "Think Of Me (feat. SOUNDR)",
       "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "It's Not Too Late",
-      "url": "https://open.spotify.com/track/3j3xA2JFjRvV9MVF2mSBc5"
     },
     {
       "added_at": "2023-04-07 14:26:08",
@@ -1711,26 +1731,6 @@
     {
       "added_at": "2023-04-07 14:26:08",
       "album": {
-        "name": "Another Way",
-        "url": "https://open.spotify.com/album/2k8sl8eCdvZGmLT2udUJLe"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "Another Way",
-      "url": "https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/1XsbynHmfcfG5n5vbSBWcu"
       },
@@ -1771,6 +1771,26 @@
       "duration_ms": 230400,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/45ZGq5V2xy1CV8uVkvxt8t"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
+        "name": "Another Way",
+        "url": "https://open.spotify.com/album/2k8sl8eCdvZGmLT2udUJLe"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "Another Way",
+      "url": "https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv"
     },
     {
       "added_at": "2023-04-07 14:26:08",
@@ -1909,22 +1929,6 @@
       "url": "https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Fight It",
-        "url": "https://open.spotify.com/album/7Muw30FkYabhPMhpJtnrm4"
-      },
-      "artists": [
-        {
-          "name": "Wavedash",
-          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Fight It",
-      "url": "https://open.spotify.com/track/1OI3U2W6ZoRU700lOP0lwt"
-    },
-    {
       "added_at": "2023-04-07 14:26:08",
       "album": {
         "name": "Atlas",
@@ -1949,6 +1953,22 @@
       "url": "https://open.spotify.com/track/41sFEVzcBymxGTnnZCUkzG"
     },
     {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Fight It",
+        "url": "https://open.spotify.com/album/7Muw30FkYabhPMhpJtnrm4"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Fight It",
+      "url": "https://open.spotify.com/track/1OI3U2W6ZoRU700lOP0lwt"
+    },
+    {
       "added_at": "2023-04-07 14:26:08",
       "album": {
         "name": "Between Broken (Remixes)",
@@ -1971,26 +1991,6 @@
       "duration_ms": 222375,
       "name": "Starbright (Elephante Remix)",
       "url": "https://open.spotify.com/track/6PJkaKTuQGaV2d58gLBT30"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
-        "name": "I'll Be Your Home",
-        "url": "https://open.spotify.com/album/3YJ6J8dmeDXXSMKpNl59JL"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "I'll Be Your Home",
-      "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2027,6 +2027,26 @@
       "duration_ms": 228922,
       "name": "JSYK",
       "url": "https://open.spotify.com/track/3nOg31lPxRYK0Y0o1XoAf0"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
+        "name": "I'll Be Your Home",
+        "url": "https://open.spotify.com/album/3YJ6J8dmeDXXSMKpNl59JL"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "I'll Be Your Home",
+      "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
     },
     {
       "added_at": "2023-04-07 14:26:08",
@@ -2131,26 +2151,6 @@
     {
       "added_at": "2023-04-07 14:26:08",
       "album": {
-        "name": "Endless (Best of Me)",
-        "url": "https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Endless (Best of Me)",
-      "url": "https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
         "name": "UNIVERSE",
         "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
       },
@@ -2243,6 +2243,26 @@
     {
       "added_at": "2023-04-07 14:26:08",
       "album": {
+        "name": "Endless (Best of Me)",
+        "url": "https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Endless (Best of Me)",
+      "url": "https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC"
       },
@@ -2255,26 +2275,6 @@
       "duration_ms": 210750,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
-        "name": "Fight Or Flight",
-        "url": "https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Fight Or Flight",
-      "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
     },
     {
       "added_at": "2023-04-07 14:26:08",
@@ -2295,6 +2295,26 @@
       "duration_ms": 202403,
       "name": "Parallel Heartbreak",
       "url": "https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
+        "name": "Fight Or Flight",
+        "url": "https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Fight Or Flight",
+      "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
     },
     {
       "added_at": "2023-04-07 14:26:08",
@@ -2363,6 +2383,22 @@
     {
       "added_at": "2023-04-07 14:26:08",
       "album": {
+        "name": "Hope In Chaos",
+        "url": "https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "duration_ms": 193457,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
         "name": "NEED IT",
         "url": "https://open.spotify.com/album/6hRN1GU6dWV7MU81ZTbL7i"
       },
@@ -2379,22 +2415,6 @@
       "duration_ms": 161600,
       "name": "NEED IT",
       "url": "https://open.spotify.com/track/6Ycrb9oeP1wqg2zDSjdeEF"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
-        "name": "Hope In Chaos",
-        "url": "https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        }
-      ],
-      "duration_ms": 193457,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
     },
     {
       "added_at": "2023-04-07 14:26:08",
@@ -2775,30 +2795,6 @@
     {
       "added_at": "2023-04-07 14:26:08",
       "album": {
-        "name": "Army Of Angels",
-        "url": "https://open.spotify.com/album/08vRZUFEVTfO1Qd7oVIMxG"
-      },
-      "artists": [
-        {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
-        },
-        {
-          "name": "Elle Vee",
-          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
-        },
-        {
-          "name": "ANDY KAUTZ",
-          "url": "https://open.spotify.com/artist/3LOMW9qqOdqeimIDQNmMIh"
-        }
-      ],
-      "duration_ms": 273928,
-      "name": "Army Of Angels",
-      "url": "https://open.spotify.com/track/5C8Xk9oi6Kpiln7ZdEe1JQ"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
         "name": "New Horizons",
         "url": "https://open.spotify.com/album/5wYxsRyzQb97jskV9DVAqa"
       },
@@ -2855,6 +2851,30 @@
       "duration_ms": 178470,
       "name": "want u 2 stay",
       "url": "https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE"
+    },
+    {
+      "added_at": "2023-04-07 14:26:08",
+      "album": {
+        "name": "Army Of Angels",
+        "url": "https://open.spotify.com/album/08vRZUFEVTfO1Qd7oVIMxG"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        },
+        {
+          "name": "ANDY KAUTZ",
+          "url": "https://open.spotify.com/artist/3LOMW9qqOdqeimIDQNmMIh"
+        }
+      ],
+      "duration_ms": 273928,
+      "name": "Army Of Angels",
+      "url": "https://open.spotify.com/track/5C8Xk9oi6Kpiln7ZdEe1JQ"
     },
     {
       "added_at": "2023-04-07 14:26:08",
@@ -3047,22 +3067,6 @@
       "duration_ms": 196000,
       "name": "It's All You",
       "url": "https://open.spotify.com/track/4IVpkOqPbxS3kIllPE3pDl"
-    },
-    {
-      "added_at": "2023-04-07 14:26:08",
-      "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc"
-      },
-      "artists": [
-        {
-          "name": "Leah Culver",
-          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh"
     }
   ],
   "unique_name": "Bass Lounge",

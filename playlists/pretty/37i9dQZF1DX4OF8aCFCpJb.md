@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,546 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,560 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Full fokus](https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan Raderna](https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE) | 3:11 |
 | 50 | [12 Steps](https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2) | [USCB Allstars](https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ) | [Class Brutáls](https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB) | 4:02 |
 
-Snapshot ID: `MCxmY2NhMjlkMDdlNGQ5ZjBiNWZlNTZiNjJlYTM5N2NmZGY4ZWZhNWEy`
+Snapshot ID: `MCw2ZWE3ZTAwNTcwYjU4YmFmOGQwOGZjYWU5NGZlOThlODVkYWUwMDM0`

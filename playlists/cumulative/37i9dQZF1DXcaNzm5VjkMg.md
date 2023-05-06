@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-83 songs - 5 hr 37 min
+84 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Biar Mantan Tau](https://open.spotify.com/track/6E6OhmmXOkklCcbqq7XF88) | [3 Composers](https://open.spotify.com/artist/145zDAbvELoocgZ4bZrSXe) | [Biar Mantan Tau](https://open.spotify.com/album/4MX7M5najq0wZTRjcYe4aX) | 3:19 | 2023-02-03 |  |
 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2023-04-17 |  |
 | [Cinta Terakhirku](https://open.spotify.com/track/5bLIFHq7N4yqz8LX3wwD4E) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Syifa Hadju](https://open.spotify.com/artist/0xchyM3xA3eEnjNUU2BZby) | [Cinta Terakhirku](https://open.spotify.com/album/4clmaWZDHoHzqw70ZhcW7W) | 4:17 | 2023-02-03 |  |
+| [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-05-05 |  |
 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 | 2023-02-03 |  |
 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 | 2023-02-03 |  |
 | [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 | 2023-02-03 |  |
@@ -33,7 +34,7 @@
 | [Hari Bersamanya](https://open.spotify.com/track/1nfOP7xNHeFSPOlziXswJc) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Berlayar](https://open.spotify.com/album/2yDNCNEbfaE2GnCSkY7yba) | 3:52 | 2023-02-03 |  |
 | [Hari ini,Esok dan Seterusnya/HES](https://open.spotify.com/track/18BpGOOxfFPKrjbdG9HlPT) | [Nirina Zubir](https://open.spotify.com/artist/5dN7FWc0YwXTR24XAg2hZ3) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:28 | 2023-02-03 |  |
 | [Home](https://open.spotify.com/track/1P9QCD6hXnJeu4y4psiqVS) | [D'Cinnamons](https://open.spotify.com/artist/7mW0FqPhqBN7ixFImDMEYA) | [Home](https://open.spotify.com/album/4SaQ2MRmyFhNJMMzvRjIdu) | 4:12 | 2023-02-03 | 2023-04-18 |
-| [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/track/35o9kIkPKgolXQFxOcupPf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/album/3MmEdPluU152jAt54TAuKa) | 3:30 | 2023-03-31 |  |
+| [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/track/35o9kIkPKgolXQFxOcupPf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/album/3MmEdPluU152jAt54TAuKa) | 3:30 | 2023-03-31 | 2023-05-06 |
 | [I Love You 3000](https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [I Love You 3000](https://open.spotify.com/album/0vaFqzSwOjHv4QhK6BizL5) | 3:29 | 2023-02-03 |  |
 | [I Wanna](https://open.spotify.com/track/40LxkGy1Ubg4GDRM9ThWfX) | [Alsa](https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU) | [I Wanna](https://open.spotify.com/album/05t8DqAXfJm99F4H7PzO65) | 3:19 | 2023-02-03 |  |
 | [Ijinkan Aku Menyayangimu](https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [In Love](https://open.spotify.com/album/0jBvMGOZkpYyBQHz6y246o) | 4:42 | 2023-02-03 |  |

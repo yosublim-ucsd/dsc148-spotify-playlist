@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-235 songs - 12 hr 52 min
+236 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [29 Palms](https://open.spotify.com/track/0UR1lesYoawHMS3GMOTcG5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [29 Palms](https://open.spotify.com/album/5Q4wjlWCX95OYwVv8uUkqT) | 3:21 | 2022-05-20 | 2022-09-17 |
 | [2econd 2ight 2eer \(that was fun, goodbye.\)](https://open.spotify.com/track/4jd13hFvWAZKZpomQleZ8L) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 3:26 | 2022-05-17 | 2023-01-07 |
 | [30/90](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/5jMxsWwmiQl6lRo01xHMmG) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2022-05-17 |  |
+| [A TV Show Called Earth](https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [A TV Show Called Earth](https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7) | 3:22 | 2023-05-05 |  |
 | [Against the Kitchen Floor \- Live in Charlotte, NC](https://open.spotify.com/track/5iSHEe6K8pmrcWWy2kPvZE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [IN CASE I DIE \(Live\)](https://open.spotify.com/album/7jGDcKK1aVh9vxDXV6RGmb) | 5:20 | 2023-01-13 | 2023-01-19 |
 | [Ain't No Crying](https://open.spotify.com/track/18wSH9W51fEBd9qrUAb9aW) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Songs of the SMP](https://open.spotify.com/album/6ks45W8ykLFRr1lgoUj9mW) | 2:36 | 2022-05-17 | 2022-12-10 |
 | [All Eyes On Me](https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 5:02 | 2022-06-07 | 2022-08-06 |
@@ -209,7 +210,7 @@
 | [Tapeworms](https://open.spotify.com/track/1tRqkzDbWCxDq2wBiI5vhm) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Tapeworms](https://open.spotify.com/album/1EfIsnaZOJ9FK6cWFg53J8) | 3:07 | 2022-07-11 | 2022-07-16 |
 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 | 2022-05-17 | 2022-12-10 |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2022-05-17 |  |
-| [The Afterparty](https://open.spotify.com/track/4CjoseT1Sf0lrWnd8dAttA) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Afterparty](https://open.spotify.com/album/62WN4KZgA7iRqzx5lbOMNi) | 3:34 | 2023-03-16 |  |
+| [The Afterparty](https://open.spotify.com/track/4CjoseT1Sf0lrWnd8dAttA) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Afterparty](https://open.spotify.com/album/62WN4KZgA7iRqzx5lbOMNi) | 3:34 | 2023-03-16 | 2023-05-06 |
 | [The DJ Is Crying For Help](https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The DJ Is Crying For Help](https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB) | 3:40 | 2022-11-18 | 2023-01-28 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-28 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-17 | 2022-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,391 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,400 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [I'll Be Seeing You](https://open.spotify.com/track/19DtZpLaBGZHQARScc4c5F) | [Heidi Skjerve](https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB), [Daniel Formo](https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz), [Bjørn Marius Hegge](https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj), [Håkon Mjåset Johansen](https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I) | [I'm Glad There Is You](https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl) | 4:19 |
 | 100 | [Shallow Waters](https://open.spotify.com/track/0Q3LZbJerwYufO4DfOfZ56) | [Harold Danko](https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Jeff Hirshfield](https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ) | [Triple Play](https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr) | 7:46 |
 
-Snapshot ID: `MCxhZTUxZjIwYzNiNjJhNzY4MWJhMjI2OGIzNTNkMWM5YmQ0NWNkMWY4`
+Snapshot ID: `MCxiNjdhYmM1MzgxYTRhMGVhOWFiNDE0ZDhhMjJiNjQ4ODY5NDNhNjRj`

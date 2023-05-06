@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The extraordinary women making great country music today. Cover: Tenille Townes",
+  "description": "The extraordinary women making great country music today. Cover: Kimberly Perry",
   "name": "Women of Country",
   "tracks": [
     {
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 189442,
       "name": "Greener Pasture",
       "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187373,
       "name": "I'm A Survivor",
       "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
@@ -2438,6 +2438,24 @@
       "duration_ms": 181066,
       "name": "I'm Not Pretty",
       "url": "https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m"
+    },
+    {
+      "album": {
+        "name": "If I Die Young Pt. 2",
+        "url": "https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Perry",
+          "url": "https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203765,
+      "name": "If I Die Young Pt. 2",
+      "url": "https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v"
     },
     {
       "album": {
@@ -3929,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "Same Car",
+        "url": "https://open.spotify.com/album/18QJ8qka8jU6I9P4SAgmGo"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "Same Car",
+      "url": "https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO"
+    },
+    {
+      "album": {
         "name": "Say It First",
         "url": "https://open.spotify.com/album/6icFOHKNtZPLyUimlFFCSA"
       },
@@ -4084,7 +4120,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 146520,
       "name": "Should Have Known Better",
       "url": "https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV"
@@ -4854,7 +4890,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210631,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P"
@@ -5553,6 +5589,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241837,
+      "name": "Why Johnny",
+      "url": "https://open.spotify.com/track/3yCcJIX6VbB1DKXrIsm0BE"
+    },
+    {
+      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -5676,6 +5730,24 @@
       "duration_ms": 177951,
       "name": "Woman You Got",
       "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
+    },
+    {
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183107,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,018,232 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,018,432 likes - 100 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Old Ballad For Hawk](https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79) | [Andrew Rathbun](https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx) | [Semantics](https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ) | 8:21 |
 | 100 | [Virgo](https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Virgo](https://open.spotify.com/album/3T0FYXLhtSJoHAywJLwphU) | 5:58 |
 
-Snapshot ID: `MCxmNTYyMDFkY2EyMDI2NjRjMGRjMjg2ZjhmYjE0NWFmYmFmZmU4NGY0`
+Snapshot ID: `MCw1ZTQyMjcyYzllNjI1OWU1MjIxZTc0MGIyYTMxODMzMWU0NDkwMTI4`

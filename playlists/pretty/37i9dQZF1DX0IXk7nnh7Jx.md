@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,699 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,816 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Soldier](https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Soldier](https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm) | 2:12 |
 | 150 | [Thousands of Years](https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Thousands of Years](https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS) | 3:01 |
 
-Snapshot ID: `MCwyZWVjOWQ2ZmY5NmI3YjMxY2JiOTliN2Q3M2E4ZDE1OGQ0ODQ5NjMx`
+Snapshot ID: `MCwyNGZjZWJhOGExMzYwNTU1YTQxN2Y5MGY3MmE2ZWY0ZDhiMmFiM2Q0`

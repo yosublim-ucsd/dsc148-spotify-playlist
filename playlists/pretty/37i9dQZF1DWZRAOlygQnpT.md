@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,044 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,139 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [Las Cerezas](https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Los Grandes Éxitos del Rock & Roll \(En Español\), Vol\. 1](https://open.spotify.com/album/0sxafO6H50bdV0DTidP9MV) | 2:55 |
 | 100 | [Por Eso Estamos Como Estamos](https://open.spotify.com/track/3SmJd4t4lu5Dn0LCuIcuWw) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 3:30 |
 
-Snapshot ID: `MCw1M2ZkODBlY2VlMzg5Y2MyOWFjZTcwZjI0YmZjN2Q4MjhhZWM4Y2Uy`
+Snapshot ID: `MCw4MDAzNTJmMzFiMjcxYmMwNDkyN2ZkMWQ1M2ZmODA1M2UzNzlkOWEw`

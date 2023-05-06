@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "CAHUITA",
+        "url": "https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215908,
+      "name": "CAHUITA",
+      "url": "https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt"
+    },
+    {
+      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7edabrxvUHcMQMzO0NCIGg"
       },
@@ -332,6 +350,24 @@
       "duration_ms": 194583,
       "name": "Cnv Sound, Vol. 14",
       "url": "https://open.spotify.com/track/6ioupaJ387IxHQC9RSHMar"
+    },
+    {
+      "album": {
+        "name": "Cuesta",
+        "url": "https://open.spotify.com/album/12QvrKwFx7ibo0SSM9jgSn"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Cuesta",
+      "url": "https://open.spotify.com/track/7MCj8RzWpRjPVkdnAJCI9c"
     },
     {
       "album": {
@@ -918,7 +954,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 196164,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir"
@@ -1060,7 +1096,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 233116,
       "name": "Mi Guitarra Enamorada",
       "url": "https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY"

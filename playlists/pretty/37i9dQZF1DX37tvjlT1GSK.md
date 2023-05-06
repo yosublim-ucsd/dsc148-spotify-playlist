@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Virlán García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,495 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,651 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS) | 3:32 |
 | 100 | [Falta de Química](https://open.spotify.com/track/3MuDbrQKyn0MzBlWjQyr4q) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Falta de Química](https://open.spotify.com/album/3MtbsSNUXZBC8WGGsdSIRS) | 3:42 |
 
-Snapshot ID: `MCxkZTYwZTE5NjNhMDNhOTllYzQzODViMDZmY2VhNTU1ZWRiYWU0YmU1`
+Snapshot ID: `MCxiNDE1NGVmN2IwMjNlMDcyNDA0NDcxOWJlNTNkZDA5NmVjMDgxMGFh`

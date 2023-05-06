@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,144 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,214 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 |
 | 100 | [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 |
 
-Snapshot ID: `MCw3Y2IzM2ExOGFhM2RkYzhkZWZiMTI0MGNjYWI3YjA1ODIzNjEwYmJm`
+Snapshot ID: `MCw0YzdkMDI1ZjhjNWRlYTQ4NTNkZTdjMjEyZTU5ZDM3NzE1ZmI0NDQw`

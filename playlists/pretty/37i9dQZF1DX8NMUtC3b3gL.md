@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,622 likes - 262 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,771 likes - 262 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 31 | [resilience](https://open.spotify.com/track/61l6SanwGoOBFmKPWa08wl) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [resilience](https://open.spotify.com/album/73FsXK6FzizLlXM3rXlMcR) | 1:20 |
 | 32 | [Pleasure Management](https://open.spotify.com/track/3omD9V1ffkjV2YZJ5qs11A) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Pleasure Management](https://open.spotify.com/album/6DhW69NataNj5wX5W0q7hC) | 2:10 |
 | 33 | [Home](https://open.spotify.com/track/4sXh3eo15M3C5TTPWzo52L) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Home](https://open.spotify.com/album/0ulwOH308qSJ5dcoUnehtV) | 2:27 |
-| 34 | [Milky Way](https://open.spotify.com/track/4nClhrNscevthmisW3LQVK) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL) | [Milky Way](https://open.spotify.com/album/6HcXA8ugxueM2Q0s3Uons2) | 2:32 |
+| 34 | [Milky Way](https://open.spotify.com/track/4nClhrNscevthmisW3LQVK) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Milky Way](https://open.spotify.com/album/6HcXA8ugxueM2Q0s3Uons2) | 2:32 |
 | 35 | [Kitty Got Claws](https://open.spotify.com/track/4Pfh9UNVy3ok3CUbtHTip6) | [Beats On Cans](https://open.spotify.com/artist/2W6kwJ8wuKIw9JhUt1fofP) | [Kitty Got Claws](https://open.spotify.com/album/4zrNErMj3xEqBvQRPu30FR) | 1:59 |
 | 36 | [Nice monsters and scary spirits](https://open.spotify.com/track/7iaf0xFvyWxFOaGZoSuo8R) | [SlowFly](https://open.spotify.com/artist/2Pi1SjVtZboevr4pxULaLb) | [Nice monsters and scary spirits](https://open.spotify.com/album/1kQo97XMQg6OjLSL1sRPar) | 2:34 |
 | 37 | [Passeio](https://open.spotify.com/track/0VlCGSR9qApwxelX36S1JY) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Passeio](https://open.spotify.com/album/42JGcSmWYu00SrmMolODin) | 2:44 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 261 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 262 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MCwwZjUwYmFlN2VmZWFjY2UyMjNkYjllYWE4ZWM0YjNmZmQwNmZjMjU3`
+Snapshot ID: `MCwzOTk2NTRlZDI3MjhhNTUyMmZlODZjMTU5ZmM0OTlmOTAzNzAzZDFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,967 likes - 75 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,975 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [for you](https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo) | 3:08 |
 | 75 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
 
-Snapshot ID: `MCxhNmFjYWM4NGRkYTAzMWZmYTQ3NThiMjI3NGE5MzBjZjg5NGVlMjk1`
+Snapshot ID: `MCw4NWIyZGQ0MTYzNjk3YWEyZjRmOGZmYmY1ZGEzZjllYjk4NWFkYjEx`

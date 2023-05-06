@@ -545,6 +545,28 @@
     },
     {
       "album": {
+        "name": "Culito",
+        "url": "https://open.spotify.com/album/2t3rg1IJcw59hPyHUlkNEx"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197608,
+      "name": "Culito",
+      "url": "https://open.spotify.com/track/6ZndSNse8aw5IKafbp3poh"
+    },
+    {
+      "album": {
         "name": "Dame Break",
         "url": "https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF"
       },
@@ -619,6 +641,28 @@
     },
     {
       "album": {
+        "name": "EASY (Easy Riddim)",
+        "url": "https://open.spotify.com/album/3XkJUjryWlnvMr4hEbUVjk"
+      },
+      "artists": [
+        {
+          "name": "Krazy Tracks",
+          "url": "https://open.spotify.com/artist/2CaJm4RZACw9bhzXH0xWV6"
+        },
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "EASY (Easy Riddim)",
+      "url": "https://open.spotify.com/track/3PSptzNhR0yClpwCVLo9pj"
+    },
+    {
+      "album": {
         "name": "Smile Riddim",
         "url": "https://open.spotify.com/album/418F3f9pX5ZW5FJMFrCrJj"
       },
@@ -684,7 +728,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 233112,
       "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
       "url": "https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL"
@@ -1241,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "Jaque Mate",
+        "url": "https://open.spotify.com/album/43LhGX9oNDLi7fXfZVYeSf"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        },
+        {
+          "name": "Dubosky",
+          "url": "https://open.spotify.com/artist/6tMb6Fah1HWzlaHE9ylNGJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211826,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/5sGRdsr2bl8JSNV2TA5u2M"
+    },
+    {
+      "album": {
         "name": "Jiggiri",
         "url": "https://open.spotify.com/album/0CwT7GIKcZfvtpwnBozG6n"
       },
@@ -1432,7 +1498,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 151304,
       "name": "La Jhayco",
       "url": "https://open.spotify.com/track/011ox5s7df1BY6kcqxKZVE"
@@ -1540,6 +1606,24 @@
       "duration_ms": 258665,
       "name": "Laptop",
       "url": "https://open.spotify.com/track/0kdIdp62usgrjKDvuzeCmb"
+    },
+    {
+      "album": {
+        "name": "Las Paredes",
+        "url": "https://open.spotify.com/album/7otnVviucmjeILPBsWJu7a"
+      },
+      "artists": [
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Las Paredes",
+      "url": "https://open.spotify.com/track/7up6PZ77hriEYAHS5XU8Ac"
     },
     {
       "album": {
@@ -1956,7 +2040,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 210279,
       "name": "Movie",
       "url": "https://open.spotify.com/track/0yqJp8j8GbUuY5mSKWk3QF"
@@ -2042,6 +2126,24 @@
       "duration_ms": 249965,
       "name": "Mujer Bonita",
       "url": "https://open.spotify.com/track/5ROK8b0hPldHvZsUWTFKjG"
+    },
+    {
+      "album": {
+        "name": "Narco Baby",
+        "url": "https://open.spotify.com/album/6IWEp5uh18C6h3S01YWEbl"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Narco Baby",
+      "url": "https://open.spotify.com/track/1wTPEYZUHJ1vs1DgTE1OaM"
     },
     {
       "album": {
@@ -2506,7 +2608,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 294901,
       "name": "PRESO Y MOSTROSIAO",
       "url": "https://open.spotify.com/track/3uqDOi2zjDhXH5zMxIquKC"
@@ -2963,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/1JReYuNTR8YkQTtrrJHoze"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157732,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/6VkoloMNT2p5O6HNW1OMTD"
+    },
+    {
+      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/0PWBpz6cOOFp3ys5CWyeu1"
       },
@@ -3147,6 +3267,32 @@
     },
     {
       "album": {
+        "name": "Tu Chacal",
+        "url": "https://open.spotify.com/album/54TJ2t2cbWixJjwffEK68w"
+      },
+      "artists": [
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171812,
+      "name": "Tu Chacal",
+      "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
+    },
+    {
+      "album": {
         "name": "Tu Demente",
         "url": "https://open.spotify.com/album/429PprGv5svm3oBVbua2aH"
       },
@@ -3170,7 +3316,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 304800,
       "name": "Tu Demente",
       "url": "https://open.spotify.com/track/0poH5h0DOuJ75OCOKqqotN"
@@ -3395,6 +3541,28 @@
     },
     {
       "album": {
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/2yJfdgd8Y38uK5PgukSnpB"
+      },
+      "artists": [
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214961,
+      "name": "Vicio",
+      "url": "https://open.spotify.com/track/0JJ074OaMdofBdF5DRqOVr"
+    },
+    {
+      "album": {
         "name": "VIRAL",
         "url": "https://open.spotify.com/album/5OHHCufZg80tvQarKY4y0U"
       },
@@ -3498,7 +3666,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 187368,
       "name": "Zarcos",
       "url": "https://open.spotify.com/track/0Cksf1doSAlRUjeNVAl35p"

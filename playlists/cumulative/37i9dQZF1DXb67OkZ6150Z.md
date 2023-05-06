@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-388 songs - 23 hr 50 min
+389 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 | 2022-04-01 | 2023-02-13 |
 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 | 2023-04-11 |  |
 | [Slow Burn](https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Slow Burn](https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg) | 3:36 | 2021-03-12 | 2022-07-27 |
-| [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 | 2022-09-03 |  |
+| [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 | 2022-09-03 | 2023-05-06 |
 | [Some Things Last A Long Time](https://open.spotify.com/track/45OkuBV8goyDppKZg3amkk) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go b/w Some Things Last A Long Time](https://open.spotify.com/album/1DZPuUHbDCJ3aeaNMXoNJX) | 6:09 | 2021-07-21 | 2022-07-16 |
 | [Someday](https://open.spotify.com/track/0zq8RD39kiIern93PYjokX) | [Yung Heazy](https://open.spotify.com/artist/15fMBLwvm3qGTWXgdxOUCV) | [Someday](https://open.spotify.com/album/3jLLKEZNhE5TQzpG87sCn3) | 3:50 | 2021-04-02 | 2022-04-15 |
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/0GdoJHiw5DpePwcIfPOPHz) | 4:24 | 2021-03-12 | 2022-08-10 |
@@ -347,6 +347,7 @@
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-09 |  |
 | [Tonight Tonight](https://open.spotify.com/track/0jzYWajrQdUtNzcFtBOtNl) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Tonight Tonight](https://open.spotify.com/album/5UMoMmwxOJFOlF2JQguF56) | 3:34 | 2021-10-08 | 2022-07-29 |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/2J1eKLPP56xKQxDbrsA9z4) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Total Eclipse of the Heart](https://open.spotify.com/album/5IFLjnOtcyHEJpZ2uWVfHV) | 5:18 | 2021-07-21 | 2022-07-29 |
+| [Toxic](https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Spotify Singles](https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3) | 4:29 | 2023-05-05 |  |
 | [True Colors](https://open.spotify.com/track/4NkHXFlCQ7dWfnfmsWVnwG) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [True Colors](https://open.spotify.com/album/7x4f4UYybb8FvGcWygj5Xb) | 2:20 | 2021-03-12 | 2022-04-20 |
 | [True Love Will Find You In The End](https://open.spotify.com/track/6BVf3oAXsUfo070LBaPPRw) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE), [Benjamin Longman](https://open.spotify.com/artist/4mXA7wTTHSpP0T2cgHmlVE) | [True Love Will Find You In The End](https://open.spotify.com/album/2McxqxEWdP35JqkmfGlqMB) | 3:35 | 2021-03-12 | 2022-07-29 |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2021-03-12 |  |

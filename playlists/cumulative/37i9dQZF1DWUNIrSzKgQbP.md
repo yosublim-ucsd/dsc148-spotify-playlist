@@ -4,7 +4,7 @@
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-497 songs - 1 day 7 hr 9 min
+498 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 | 2022-06-07 | 2022-09-07 |
 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 | 2022-09-06 | 2022-12-21 |
 | [Learning to Fly](https://open.spotify.com/track/774L5jcka6KfVUecFA0Zc1) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Learning to Fly](https://open.spotify.com/album/4CPWgOPiOYXbUFi7G7VQdC) | 3:05 | 2022-03-21 | 2022-06-08 |
+| [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 | 2023-05-05 |  |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2023-03-15 |  |
 | [Lighthouse](https://open.spotify.com/track/31iO9bmNknTGoYvXkHjxPe) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Young Heart](https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx) | 3:33 | 2022-03-21 | 2022-06-08 |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2022-09-06 | 2022-12-21 |

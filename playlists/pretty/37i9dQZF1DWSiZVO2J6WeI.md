@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,455 likes - 170 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,618 likes - 170 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 169 | [Oblačno](https://open.spotify.com/track/4njX5u1fq7kcrpki88zDMq) | [Lois Haas](https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5) | [Oblačno](https://open.spotify.com/album/5TvXotn7BPEyVbHcT4n5uT) | 3:46 |
 | 170 | [Deep Steadiness](https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ) | [Winds Of Minds](https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0) | [Deep Steadiness](https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX) | 2:36 |
 
-Snapshot ID: `MCwwNWZhOTVhNDYxZmZmZmYxMzc2Yzg1YjQ4MTU5YTUwMTllNjdjMTk5`
+Snapshot ID: `MCw0ZjU5ZjI3MDk1YjVlZTk3MDYxOTFiMDM2YTI4ZmE3MGJhMTQ0MDc3`

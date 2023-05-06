@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,717 likes - 250 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,756 likes - 250 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 |
 | 250 | [A Smile](https://open.spotify.com/track/6GuSaslGEKLW4vaJ1VINEH) | [Myles Mackay](https://open.spotify.com/artist/3eQGI9kcs53CVhYJMzOZJE) | [A Smile](https://open.spotify.com/album/3x5FNp8Kfk5bPuFotBdL5b) | 2:13 |
 
-Snapshot ID: `MCxlZDc0OTAzYzVmODExOThjZTUzMTI0NDIxMGJiYjI1MTdmZGNmMzU1`
+Snapshot ID: `MCw1NWMzYzcwOWYxZjU3NzI0OTIxYTgwYWVmMmZlZDEyMzVjYzY4ODk4`

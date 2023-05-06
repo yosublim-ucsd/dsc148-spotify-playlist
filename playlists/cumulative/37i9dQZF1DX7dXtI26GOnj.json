@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Rosal\u00eda, Rauw Alejandro",
+  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Emilia, LUDMILLA",
   "name": "Calorcito",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 170396,
       "name": "El Que Espera",
       "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 197647,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 147680,
       "name": "La Misma Mujer",
       "url": "https://open.spotify.com/track/6f424CH1mjwlOLr8MevYp7"
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 204414,
       "name": "La Ni\u00f1a de la Escuela",
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 190405,
       "name": "Mal Acostumbrao - con Maria Becerra",
       "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
@@ -3084,7 +3084,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 221270,
       "name": "MAL DE AMOR",
       "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
@@ -3649,6 +3649,28 @@
     },
     {
       "album": {
+        "name": "No Sigue Reglas",
+        "url": "https://open.spotify.com/album/44wh3UWMOXXlKTMCugJA5X"
+      },
+      "artists": [
+        {
+          "name": "Maeso",
+          "url": "https://open.spotify.com/artist/0pC1Jc795DJh6ffra4d7D9"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "No Sigue Reglas",
+      "url": "https://open.spotify.com/track/3DR7LD0aFRhLzoii5vHGsp"
+    },
+    {
+      "album": {
         "name": "NO voy a llorar :')",
         "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
       },
@@ -3664,6 +3686,32 @@
       "duration_ms": 178874,
       "name": "NO voy a llorar :')",
       "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
+    },
+    {
+      "album": {
+        "name": "No_se_ve.mp3",
+        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "No_se_ve.mp3",
+      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
     },
     {
       "album": {
@@ -3700,7 +3748,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 191086,
       "name": "Nos Comemos (feat. Ozuna)",
       "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
@@ -4106,7 +4154,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 174932,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
@@ -4702,7 +4750,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 122120,
       "name": "Si Me Quieres",
       "url": "https://open.spotify.com/track/0S8cQiwRG0jrSQpK7cToGd"
@@ -4786,7 +4834,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 234666,
       "name": "Sin Fin",
       "url": "https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x"
@@ -5004,7 +5052,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
@@ -5048,7 +5096,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
@@ -5485,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+    },
+    {
+      "album": {
         "name": "Un Ratito",
         "url": "https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B"
       },
@@ -5636,7 +5702,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 206639,
       "name": "Volar",
       "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"

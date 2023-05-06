@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-534 songs - 1 day 10 hr 4 min
+536 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2020-12-24 | 2022-09-02 |
 | [Good Rising](https://open.spotify.com/track/74f0VaipJke6lIWI5BEfTW) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Good Rising](https://open.spotify.com/album/6FpPtyj1Q86xBCiHgAKxL6) | 2:25 | 2021-04-15 | 2021-05-13 |
 | [Granite Stone \(Instrumental Version\)](https://open.spotify.com/track/5AsK51bvshzxVrR33GwlXf) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS), [Wai](https://open.spotify.com/artist/2naLLiIUfTp0IxAN6JM3hn) | [Rumors](https://open.spotify.com/album/5QxpbwNLKbIpNTO7LbZCVB) | 3:27 | 2020-10-20\* | 2022-04-06 |
+| [Grapefruit Diet](https://open.spotify.com/track/2wALasLtHG5IBHxc5Xlj2O) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Grapefruit Diet](https://open.spotify.com/album/1vlo1lL9bs1e6xuGcsob0X) | 2:57 | 2023-05-05 |  |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2021-08-25 |  |
 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2021-08-25 | 2023-03-04 |
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2021-08-25 | 2022-05-20 |
@@ -303,6 +304,7 @@
 | [Morning Sun](https://open.spotify.com/track/2VXSsHHGfzOPzo0od8VmqI) | [Antonne](https://open.spotify.com/artist/4aVCtWZXi66nIRjFglKHwH) | [Morning Sun](https://open.spotify.com/album/2UHOxUrdYv59FxyjBrxSa8) | 3:51 | 2021-02-12 | 2022-05-20 |
 | [Morning Tram](https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Morning Tram](https://open.spotify.com/album/2W1mf9JWUqNKc1FjBJiWCd) | 3:15 | 2021-07-09 |  |
 | [Moscow Mule](https://open.spotify.com/track/6f2s1QUKZksKTm77l17oov) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Moscow Mule](https://open.spotify.com/album/3CCfK3ByQ3FSnO7PPTpfjI) | 2:58 | 2021-04-15 | 2021-10-16 |
+| [motor](https://open.spotify.com/track/70t40X77HO7jtb2O8Y1ZDk) | [Androm](https://open.spotify.com/artist/4e0hkGJ86D7I16d4vBnx3j) | [motor](https://open.spotify.com/album/6AxmADQcHlPPYY2G4py0AX) | 2:19 | 2023-05-05 |  |
 | [Move Me Tonight](https://open.spotify.com/track/1TQ0aiLrWb8Bvnlynd2XyH) | [Scoobadive](https://open.spotify.com/artist/3jR9KEaFl4oXjElgnvG2Bd) | [Move Me Tonight](https://open.spotify.com/album/4pjETgyqj82NMOWCyTKOxV) | 4:07 | 2021-10-16 | 2022-02-11 |
 | [Movement](https://open.spotify.com/track/3e9EyVQS725AiXEa858VsI) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [No Traffic in LA](https://open.spotify.com/album/4DLwx4s2acnnreMmtZjSEA) | 2:27 | 2020-10-20\* | 2021-03-06 |
 | [Movements](https://open.spotify.com/track/0qbIHhnxsOa7DlAJom8Lla) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Zanzibar](https://open.spotify.com/album/2jNYFdsgDIqY1iR4xIXVLE) | 3:18 | 2020-10-20\* | 2021-01-07 |

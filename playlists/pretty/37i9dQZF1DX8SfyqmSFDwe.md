@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,882,018 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,883,044 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 |
 | 100 | [Cójela Que Va Sin Jockey](https://open.spotify.com/track/5PlXm1EYkNmVH3o85Bpfql) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 3:03 |
 
-Snapshot ID: `MCwzYjdlOTg3NGFmOTAxZjRiNThiYTdkNDJiYTcwODFiN2E2ODMwYzYz`
+Snapshot ID: `MCw1NTc5MmZiNWM3YjFiOTU1ZGUxODMxODQxMTNmOWFkZmM3NDBkMzc5`

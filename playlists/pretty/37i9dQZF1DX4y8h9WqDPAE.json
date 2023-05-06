@@ -1,12 +1,12 @@
 {
   "description": "Where Hip-Hop, Afro-Fusion & Pop meet R&B !  Cover: Rema",
-  "num_followers": 1779983,
+  "num_followers": 1780090,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmZlNWM2Y2YwNjNlOGEwZDYwZTkyMTgyY2E1MzJlNDY3YTQ0ZWI4",
+  "snapshot_id": "MCw5Zjg1ZTc1MWY4OGJlZjZkYjUzZjg5MGRhNjNhODMwYTZjOWJjN2Ix",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -41,20 +41,24 @@
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
-      "added_at": "2023-03-03 05:05:07",
+      "added_at": "2023-05-05 14:46:34",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "Fell In Love",
+        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
       },
       "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
         {
           "name": "Brent Faiyaz",
           "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+      "duration_ms": 121283,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -173,6 +177,62 @@
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
     },
     {
+      "added_at": "2023-05-05 05:50:55",
+      "album": {
+        "name": "HALLELUJAH (feat. Blaqbonez)",
+        "url": "https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "HALLELUJAH (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
+    },
+    {
+      "added_at": "2023-05-05 05:50:55",
+      "album": {
+        "name": "Co-Star",
+        "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Co-Star",
+      "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
+    },
+    {
+      "added_at": "2023-05-05 05:50:55",
+      "album": {
+        "name": "Full Circle : Sonic Book 1",
+        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 132021,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/4iDjnpw9LVl20pDoCDtOSM"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Terms and Conditions",
@@ -187,6 +247,58 @@
       "duration_ms": 209682,
       "name": "Terms and Conditions",
       "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
+    },
+    {
+      "added_at": "2023-05-05 05:50:55",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/2TcTJLPbXqWvH8vPB19UL0"
+      },
+      "artists": [
+        {
+          "name": "Kenya Vaun",
+          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
+        }
+      ],
+      "duration_ms": 169728,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/7HAPnbrRswVgXYSGNzO1hF"
+    },
+    {
+      "added_at": "2023-03-03 05:05:07",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": "2023-05-05 05:50:55",
+      "album": {
+        "name": "F65",
+        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 160010,
+      "name": "Elmina",
+      "url": "https://open.spotify.com/track/3NlFpLNLAyv1f838clGuQD"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -241,44 +353,20 @@
       "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-05-05 05:50:55",
       "album": {
-        "name": "DO 4 LOVE (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 224281,
-      "name": "DO 4 LOVE - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 187274,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+      "duration_ms": 157722,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -315,6 +403,22 @@
       "duration_ms": 176385,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 159244,
+      "name": "Double Back",
+      "url": "https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -385,34 +489,6 @@
       "url": "https://open.spotify.com/track/6JGbBAVvplOLmXrb8o0ily"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "What It Is (Block Boy) (with Kodak Black)",
@@ -471,6 +547,74 @@
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 187274,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
       "added_at": "2022-07-29 04:12:34",
@@ -635,26 +779,6 @@
       "duration_ms": 170366,
       "name": "Nasty Remix ft Saint Levant",
       "url": "https://open.spotify.com/track/6ONNprntoihbrQMFkNUPlO"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "G Love (feat. Nippa)",
-      "url": "https://open.spotify.com/track/7zqQeeWMHwWnsrYfrOOEI4"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -835,22 +959,6 @@
       "duration_ms": 168307,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/2jnKTP2gpVFTSBEmJ9aCrj"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Champagne Dial",
-        "url": "https://open.spotify.com/album/6M7mC7u3Z1WqHKify2UDIb"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Champagne Dial",
-      "url": "https://open.spotify.com/track/41uS4HFocWN6cO2VpKy8Ht"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1303,46 +1411,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "TANTRA",
-        "url": "https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Your Love Is Dangerous",
-      "url": "https://open.spotify.com/track/1sSirMADazMg5vdkpdQgy0"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Keep Calling",
         "url": "https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs"
       },
@@ -1381,22 +1449,6 @@
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "What I Didn't Tell You",
-        "url": "https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 159244,
-      "name": "Double Back",
-      "url": "https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "SOS",
@@ -1433,26 +1485,6 @@
       "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "WOAH, WHAT A BLUR!",
-        "url": "https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 164469,
-      "name": "PICK YOUR POISON (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Do You Mind",
@@ -1475,8 +1507,8 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/4Deg6HHdQy5130ZiMVLiFT"
+        "name": "WanMor",
+        "url": "https://open.spotify.com/album/0aYPSRTp7BA050C0XRAvhM"
       },
       "artists": [
         {
@@ -1484,9 +1516,9 @@
           "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
         }
       ],
-      "duration_ms": 222565,
+      "duration_ms": 222081,
       "name": "Mine",
-      "url": "https://open.spotify.com/track/2iNGlAHyuZW7J7yUXZtHUp"
+      "url": "https://open.spotify.com/track/3QFISEIAKK4FJPPWxAH3lm"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1803,26 +1835,6 @@
       "duration_ms": 188579,
       "name": "Outside",
       "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
-    },
-    {
-      "added_at": "2022-07-29 04:12:34",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 116727,
-      "name": "ENERGY (feat. Beam)",
-      "url": "https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K"
     },
     {
       "added_at": "2022-08-12 04:16:05",

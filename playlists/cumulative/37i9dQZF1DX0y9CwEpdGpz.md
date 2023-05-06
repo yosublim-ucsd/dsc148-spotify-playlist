@@ -4,7 +4,7 @@
 
 > Known as the Nation's Little Sister in South Korea.
 
-80 songs - 4 hr 59 min
+81 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Only I didn't know](https://open.spotify.com/track/48uwqEenPJeJvFYdrM0qV7) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL+](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) | 3:22 | 2022-03-17 |  |
 | [Palette \(feat\. G\-DRAGON\)](https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:37 | 2022-03-17 |  |
 | [Peach](https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 3:10 | 2022-03-17 |  |
+| [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-05-05 |  |
 | [Pierrot laughs at us](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:53 | 2022-03-17 |  |
 | [Red Queen \(feat\. Zion.T\)](https://open.spotify.com/track/1dlKwoKIZkDPqFZJfR4PeV) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 3:32 | 2022-03-17 |  |
 | [Shoes](https://open.spotify.com/track/2FDTnypxiwIZNjoO9T1j6O) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 3:35 | 2022-03-17 |  |

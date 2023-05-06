@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Os Bico T\u00e3o Se Perguntando e os funks mais \ud83d\udd11 do Brasil. Foto: MC PH",
+  "description": "Mec Mec e os funks mais \ud83d\udd11 do Brasil. Foto: DJ ESCOBAR",
   "name": "Funk Hits",
   "tracks": [
     {
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 169800,
       "name": "Famoso Machuca Xota",
       "url": "https://open.spotify.com/track/5u0iZ81Yf2L90FQLYQUiiG"
@@ -2090,6 +2090,44 @@
       "duration_ms": 184845,
       "name": "MANO DO AK",
       "url": "https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427"
+    },
+    {
+      "album": {
+        "name": "Marolento",
+        "url": "https://open.spotify.com/album/4TzGr4urshbTMEJoXTfsb6"
+      },
+      "artists": [
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Pedro Bala",
+          "url": "https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Marolento",
+      "url": "https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci"
     },
     {
       "album": {

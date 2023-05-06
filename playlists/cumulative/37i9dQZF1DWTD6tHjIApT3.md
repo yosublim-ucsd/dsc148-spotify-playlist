@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Uru
 
-1,321 songs - 3 day 14 hr 2 min
+1,322 songs - 3 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
 | [ichimoku](https://open.spotify.com/track/0InJ51oQDgsT8YWBvofDJS) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [ichimoku](https://open.spotify.com/album/5JVzsRCaDQaHd8PePUauc2) | 3:44 | 2022-06-02 | 2022-06-06 |
 | [If](https://open.spotify.com/track/10q5xuxzTGWyBtG0fQfseC) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/4wxvHYc2ESuh2euEMn2SlF) | 3:15 | 2022-05-29 | 2022-06-20 |
+| [Iijan](https://open.spotify.com/track/2fI1cHKCcgf3CSK02hEt6Y) | [IDE AYAKA](https://open.spotify.com/artist/2TdIl7ikauEs63fMLrnE7b) | [Iijan](https://open.spotify.com/album/1sE3XGiQ57dQkKrSmDTIM9) | 3:04 | 2023-05-04 |  |
 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2023-01-10 | 2023-02-22 |
 | [Ikitemiruwa](https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ECHO CHAMBER](https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O) | 3:32 | 2022-07-07 | 2022-07-20 |
 | [IKUNE](https://open.spotify.com/track/6VMyyI0Ap0KKLIsiGeIvSh) | [GIVE ME OW](https://open.spotify.com/artist/1gOZX2GKUGvwGkDQagW3dH) | [IKUNE](https://open.spotify.com/album/138bhJmESaN5UtECXd7Pb0) | 2:49 | 2023-04-25 | 2023-05-03 |
@@ -366,7 +367,7 @@
 | [lean forward](https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [lean forward](https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO) | 4:30 | 2022-06-16 | 2022-06-22 |
 | [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 | 2023-03-14 | 2023-03-16 |
 | [Leap](https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q) | 4:06 | 2023-03-14 | 2023-03-22 |
-| [LEFT RIGHT REMIXX \- FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS](https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [CIARA](https://open.spotify.com/artist/0tOYEdn7eVhu3S1eUKff36), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE), [Jackson](https://open.spotify.com/artist/7BNHznQrUoZRBlr3aijk7n) | [LEFT RIGHT REMIXX \(FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS\)](https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX) | 4:31 | 2023-05-04 |  |
+| [LEFT RIGHT REMIXX \- FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS](https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [LEFT RIGHT REMIXX \(FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS\)](https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX) | 4:31 | 2023-05-04 |  |
 | [Lemon Soda](https://open.spotify.com/track/21gUf257jq6tmJQUfCXNSX) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Lemon Soda](https://open.spotify.com/album/18JumQQ3R2RxhN9GuxO2Ux) | 4:16 | 2022-08-17 | 2022-08-24 |
 | [Let's Danceee](https://open.spotify.com/track/0MljPpmpTTYiY0eY3Lm1uZ) | [i\-dep](https://open.spotify.com/artist/1s0PMSVk5LQQshjbyYjsIr) | [Let's Danceee](https://open.spotify.com/album/6js1uux8DcDHKaNwSgYX40) | 4:10 | 2022-07-07 | 2022-07-12 |
 | [Letters](https://open.spotify.com/track/27GXDT9uMX6VLcnAYPisMj) | [diue](https://open.spotify.com/artist/0BghUUqZWmXlfXxAZfqkvw), [&mkz](https://open.spotify.com/artist/1n4aHNYirNcTqD074Ml8It) | [Letters](https://open.spotify.com/album/7zAoGrrJwpEd16ACo1SLiF) | 2:06 | 2022-12-20 | 2023-01-04 |
@@ -772,7 +773,7 @@
 | [あなたをやめられない](https://open.spotify.com/track/1ilR5NDnD3WWt7TKbrgYMg) | [Mirei Toyama](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw) | [あなたをやめられない](https://open.spotify.com/album/2pXtOx6Da6rNPXaQ4IoNZM) | 4:05 | 2022-11-15 | 2022-11-23 |
 | [あの笑み \(feat\. ano\)](https://open.spotify.com/track/3ZV2Ikfk9eGJbPZLqLjgQy) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [あの笑み \(feat\. ano\)](https://open.spotify.com/album/1QuHCYOQRcHOfCROj1FrkV) | 4:50 | 2022-06-21 | 2022-06-29 |
 | [ありがとうさよなら](https://open.spotify.com/track/6vTPnDeVmVmY2EtdLc8oVV) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [ありがとうさよなら](https://open.spotify.com/album/4xLbLXEWLW3uHwqOZTCbDw) | 2:45 | 2022-05-31 | 2022-07-05 |
-| [いいじゃん](https://open.spotify.com/track/7hKALgOCxMAHD9XkU5rt08) | [井手綾香](https://open.spotify.com/artist/2fNTb2FBI4pvPWSxazrNBV) | [いいじゃん](https://open.spotify.com/album/7AqKS4Zd6YRpuTDumR75HN) | 3:04 | 2023-05-04 |  |
+| [いいじゃん](https://open.spotify.com/track/7hKALgOCxMAHD9XkU5rt08) | [井手綾香](https://open.spotify.com/artist/2fNTb2FBI4pvPWSxazrNBV) | [いいじゃん](https://open.spotify.com/album/7AqKS4Zd6YRpuTDumR75HN) | 3:04 | 2023-05-04 | 2023-05-06 |
 | [いけないbaby](https://open.spotify.com/track/2YFkYS11X5biooHpEQtMc8) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [いけないbaby](https://open.spotify.com/album/1D61fTagHmbifkxX2AYStq) | 3:35 | 2022-05-29 | 2022-07-29 |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 | 2023-04-19 |
 | [いつか見た映画みたいに](https://open.spotify.com/track/06LDLrnLqpKWHedusZKnTe) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [いつか見た映画みたいに](https://open.spotify.com/album/7JNRGOQnDZNXAUbEPhYepK) | 3:17 | 2023-04-18 | 2023-04-20 |

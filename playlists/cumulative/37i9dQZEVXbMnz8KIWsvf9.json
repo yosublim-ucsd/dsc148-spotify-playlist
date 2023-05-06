@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 163522,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -1658,6 +1658,28 @@
       "duration_ms": 191000,
       "name": "Don't Care About Me",
       "url": "https://open.spotify.com/track/1Sy1ZJBwL22SG1QGwkmwqC"
+    },
+    {
+      "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Don't ever say love me (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
     },
     {
       "album": {
@@ -7300,7 +7322,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
@@ -9554,7 +9576,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 216136,
       "name": "\u0e23\u0e39\u0e49\u0e01\u0e31\u0e19\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49 - mint",
       "url": "https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD"
@@ -10500,6 +10522,24 @@
       "duration_ms": 207032,
       "name": "\u0e40\u0e14\u0e47\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e14\u0e47\u0e01\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b (Too Young)",
+        "url": "https://open.spotify.com/album/67cqHFhyafs48bApZD1xZW"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226567,
+      "name": "\u0e40\u0e14\u0e47\u0e01\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b (Too Young)",
+      "url": "https://open.spotify.com/track/48qHdp4mhFenZIBhejBqGU"
     },
     {
       "album": {

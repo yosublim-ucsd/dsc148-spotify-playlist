@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Andy Rivera.\n",
+  "description": "Latinoam\u00e9rica baila al ritmo de Anuel AA.\n",
   "name": "El Ritmo",
   "tracks": [
+    {
+      "album": {
+        "name": "+ SINCERO",
+        "url": "https://open.spotify.com/album/6zWsMwn5J8zyA5P72LaUpZ"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137100,
+      "name": "+ SINCERO",
+      "url": "https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J"
+    },
     {
       "album": {
         "name": "0 Amigos Falsos",
@@ -390,6 +412,28 @@
       "duration_ms": 202894,
       "name": "7 L\u00e1grimas - Remix",
       "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
+    },
+    {
+      "album": {
+        "name": "A la Carta",
+        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "A la Carta",
+      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
     },
     {
       "album": {
@@ -1010,7 +1054,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 173714,
       "name": "Aria Vega Hotline: Cobuz & Bustta",
       "url": "https://open.spotify.com/track/7cURSrRxV8kJCDSzWYJKow"
@@ -4449,6 +4493,36 @@
     },
     {
       "album": {
+        "name": "FCK Love",
+        "url": "https://open.spotify.com/album/2H1rKPlSCrQREG1o52hvAj"
+      },
+      "artists": [
+        {
+          "name": "Fenix The Producer",
+          "url": "https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261186,
+      "name": "FCK Love",
+      "url": "https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB"
+    },
+    {
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/5A9mItuPjhWffKpSUhCihV"
       },
@@ -5006,7 +5080,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 231959,
       "name": "Horas",
       "url": "https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz"
@@ -6642,7 +6716,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 135906,
       "name": "Me Presento",
       "url": "https://open.spotify.com/track/35bHwwPYklY6rRe4Hhc4ZJ"
@@ -6706,6 +6780,32 @@
       "duration_ms": 332608,
       "name": "Medio Crazy Remix",
       "url": "https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Yo",
+        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242696,
+      "name": "Mejor Que Yo",
+      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
     },
     {
       "album": {
@@ -8704,7 +8804,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 215946,
       "name": "Poropopompon",
       "url": "https://open.spotify.com/track/6taOZoNSjPLewGblEv0p0u"

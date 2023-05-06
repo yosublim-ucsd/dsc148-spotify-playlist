@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,408 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,579 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 99 | [Allá En El Rancho Grande](https://open.spotify.com/track/26LABlj8Jq3a0uKYnp2bf9) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 2:47 |
 | 100 | [El Hidalguense](https://open.spotify.com/track/5vozBkZkjmew8kVuPxWOnY) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [RCA 100 Anos De Musica \- Segunda Parte](https://open.spotify.com/album/2uJqbXKxHtQHoeU6CK0RvY) | 3:17 |
 
-Snapshot ID: `MCwzOTMwZWQ3NmRjM2Q2MTQ3NGI5MWYwNjhjNjBiOGU0ZmRjMThmY2Rj`
+Snapshot ID: `MCwwZTY0ZWUwNjQ3NTk4MGRjYjU1MWRlYTI0MTNhMGE3Y2ExNDM2YmNm`

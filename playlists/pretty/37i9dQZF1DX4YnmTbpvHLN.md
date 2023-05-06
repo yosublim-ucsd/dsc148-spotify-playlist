@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 
 > Degusta de lo más delicioso para cenar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,923 likes - 300 songs - 19 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,914 likes - 300 songs - 19 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 | 299 | [Bella's Smile](https://open.spotify.com/track/2YDm0hVUj1JGWqyRK6ERpP) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Baldwin's Tune](https://open.spotify.com/album/7BkeW5r0rPvAuIgnCLQD7F) | 3:11 |
 | 300 | [Stardust](https://open.spotify.com/track/41qzCwPm0Myt0uJIarjl4p) | [Lisa Gordan Trio](https://open.spotify.com/artist/5as2rPZvgwaMW96pHHPDTW) | [Stardust](https://open.spotify.com/album/3zzFdi4zMi1OwjrOvg6Au7) | 6:24 |
 
-Snapshot ID: `MCw3OTJlNTBmODIzZDkxMDExMjVkYTdkNWZjNWUyMGIzOWM4YTJhMTlm`
+Snapshot ID: `MCw4NWVmNTIyNGRhMzM0MDEzMTkxNmRhMDQ5MmM4MWJmNTAxN2I3MzAw`

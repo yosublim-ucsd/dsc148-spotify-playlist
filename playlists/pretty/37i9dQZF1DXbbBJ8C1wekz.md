@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,430 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,583 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
 | 60 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 
-Snapshot ID: `MCw4MTcxZTA0NzFlZTQzYWUzM2Y3M2RmNmEyY2M4YmQ0MWJmNGMyZWUz`
+Snapshot ID: `MCwyZWVkNzg3OWU0MzRlOTc4ODJlYmIzMjhmNGJiNTczZjQwZWVhNzI3`

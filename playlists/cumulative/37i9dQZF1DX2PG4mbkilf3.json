@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with Zeina & Saint Levant.",
+  "description": "This is R&B in Canada, elevate your aura with Sean Leon.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 202500,
       "name": "1440",
       "url": "https://open.spotify.com/track/2fbS0Ka9up4KbcndDi189l"
@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Answer Me",
+        "url": "https://open.spotify.com/album/37oMprXnH2grAsdwIxz8wp"
+      },
+      "artists": [
+        {
+          "name": "PLAZA",
+          "url": "https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Answer Me",
+      "url": "https://open.spotify.com/track/3aNWM9WRAk8npqbgnqe8rk"
+    },
+    {
+      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/0fkIIczS0nBiX4Q4iGlSt2"
       },
@@ -1162,6 +1180,24 @@
       "duration_ms": 161454,
       "name": "BLISS",
       "url": "https://open.spotify.com/track/4O1CRaOBYEEZkqomqYjvay"
+    },
+    {
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "album": {
@@ -4155,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "Have Fun",
+        "url": "https://open.spotify.com/album/4AKm0LLj5I5Q0LfJBQeeJG"
+      },
+      "artists": [
+        {
+          "name": "City Fidelia",
+          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+        },
+        {
+          "name": "AP",
+          "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162094,
+      "name": "Have Fun",
+      "url": "https://open.spotify.com/track/1rPvhegIHzqY1b5BVro7IZ"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD"
       },
@@ -4748,7 +4806,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 181227,
       "name": "I Love Being Invisible",
       "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
@@ -4784,7 +4842,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 171863,
       "name": "I thought",
       "url": "https://open.spotify.com/track/4yuQLTlJk0b4okaYvEFjeU"
@@ -5193,6 +5251,54 @@
     },
     {
       "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/6krsc0Dl1U6Qxl3DS11B48"
+      },
+      "artists": [
+        {
+          "name": "Public Goods",
+          "url": "https://open.spotify.com/artist/4cQuovzAeCxbyJV7EAsh3l"
+        },
+        {
+          "name": "Jo\u00ebl",
+          "url": "https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik"
+        },
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        },
+        {
+          "name": "FrancisGotHeat",
+          "url": "https://open.spotify.com/artist/43xx9BioWvl8pstIMp0pAt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190473,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/2Wc7wILZnmYTZZbKr88Ery"
+    },
+    {
+      "album": {
+        "name": "WOIIYOIE VOL. 2 - INTENSE CITY",
+        "url": "https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Intense City",
+      "url": "https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr"
+    },
+    {
+      "album": {
         "name": "Into Nirvana",
         "url": "https://open.spotify.com/album/23yroNvqRYGmbbl0YXPsS5"
       },
@@ -5368,7 +5474,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 236133,
       "name": "Keep From Falling",
       "url": "https://open.spotify.com/track/2J1iMDApDGF5akWEl1spZQ"
@@ -5480,6 +5586,24 @@
       "duration_ms": 174705,
       "name": "Lallaby's",
       "url": "https://open.spotify.com/track/0wJrPkPOnlbE2zS7TuHz9J"
+    },
+    {
+      "album": {
+        "name": "LaSenza",
+        "url": "https://open.spotify.com/album/4vrxfbyeurYiKLySHODPWc"
+      },
+      "artists": [
+        {
+          "name": "Jordel",
+          "url": "https://open.spotify.com/artist/6Wwdgvn4VyRAFwlcJTm92h"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130151,
+      "name": "LaSenza",
+      "url": "https://open.spotify.com/track/4ekb6cQpOOjAGqmFpzu2J6"
     },
     {
       "album": {
@@ -5668,7 +5792,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 200853,
       "name": "Let me go",
       "url": "https://open.spotify.com/track/6w52GAsdrejKZPZPo4Iu47"
@@ -7815,6 +7939,24 @@
     },
     {
       "album": {
+        "name": "Pain, no Percocet",
+        "url": "https://open.spotify.com/album/21NMZv3MRj4nw6O75v5hha"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Pain, no Percocet",
+      "url": "https://open.spotify.com/track/67qc0MK4wCWJPaEQ9eCd4X"
+    },
+    {
+      "album": {
         "name": "PAINKILLERS",
         "url": "https://open.spotify.com/album/5FrHN3chpDhEdhZYOXduzu"
       },
@@ -7862,7 +8004,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 202380,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4R3WUzM7xXAIzT5HhH1DDw"
@@ -7902,7 +8044,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 160426,
       "name": "Pause",
       "url": "https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf"
@@ -8332,6 +8474,24 @@
       "duration_ms": 143624,
       "name": "Raids - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0ontHo5fSr5T1Pc8eoVhw6"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/5kcZWZvnwksb7zBUD7H53P"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225691,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6cglXxd6F4eWXr6nVXE2Ac"
     },
     {
       "album": {
@@ -8787,6 +8947,24 @@
     },
     {
       "album": {
+        "name": "Santa Muerte",
+        "url": "https://open.spotify.com/album/76y2LRLrSEIxJIdn7xKCyE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155760,
+      "name": "Santa Muerte",
+      "url": "https://open.spotify.com/track/55YBMD7z0cnKNDU5fH5l6O"
+    },
+    {
+      "album": {
         "name": "SEALED",
         "url": "https://open.spotify.com/album/0Dvd00aVRh1EiAXNUBcQ68"
       },
@@ -9018,7 +9196,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 212000,
       "name": "Should Have Cared",
       "url": "https://open.spotify.com/track/0AfGuZU5zRTJVQ48xNseAR"
@@ -11092,7 +11270,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 170000,
       "name": "Walla",
       "url": "https://open.spotify.com/track/55HcTdeOk91pgrwzXoJVA0"
@@ -11501,6 +11679,24 @@
     },
     {
       "album": {
+        "name": "WORK WITH ME",
+        "url": "https://open.spotify.com/album/5R9dHO9jSRlHeN4hylZITq"
+      },
+      "artists": [
+        {
+          "name": "SASHA CHAA",
+          "url": "https://open.spotify.com/artist/5Uhc9u418MjnapB9RqTZir"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "WORK WITH ME",
+      "url": "https://open.spotify.com/track/5nzwJ9fq4RHeUIEXq4wf7C"
+    },
+    {
+      "album": {
         "name": "WORLD GON CRAZY",
         "url": "https://open.spotify.com/album/3Uuqjio27upK4oyACIGEIn"
       },
@@ -11566,7 +11762,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 194937,
       "name": "WOULD YOU LIKE A HEART?",
       "url": "https://open.spotify.com/track/00Pb0FY3Yoc8mAKNH2y4T1"

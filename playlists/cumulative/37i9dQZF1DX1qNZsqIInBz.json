@@ -280,10 +280,28 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 139636,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/58oi0OWV0fHLsnJWFv5VQe"
+    },
+    {
+      "album": {
+        "name": "Pt. One",
+        "url": "https://open.spotify.com/album/7xNgPrxoV7XX4mNRsoLp0c"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164067,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7sVUnabs5smgvNm8khfxT2"
     },
     {
       "album": {
@@ -516,7 +534,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 183400,
       "name": "Dream Road",
       "url": "https://open.spotify.com/track/006xxgBdSswgtgXOks59u4"
@@ -639,6 +657,24 @@
     },
     {
       "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi"
+      },
+      "artists": [
+        {
+          "name": "ROMANTICA",
+          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "ERROR",
+      "url": "https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ"
+    },
+    {
+      "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/1t32gKI0EhGB4z5hnwKjSs"
       },
@@ -690,10 +726,28 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 183441,
       "name": "EXIST",
       "url": "https://open.spotify.com/track/6SqUoYtpsmaFhSU3TnUVtT"
+    },
+    {
+      "album": {
+        "name": "Eyez On The Prize",
+        "url": "https://open.spotify.com/album/7eekajxZPv3c0lHDItaAUd"
+      },
+      "artists": [
+        {
+          "name": "Tele.phonk",
+          "url": "https://open.spotify.com/artist/7Fi1jHSJRaQfZpHArLW36Q"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111290,
+      "name": "Eyez On The Prize",
+      "url": "https://open.spotify.com/track/4ewahlsQrOeZwSNZToFvRD"
     },
     {
       "album": {
@@ -839,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Frontier",
+        "url": "https://open.spotify.com/album/6UU1uLU30SJsZjl7WCMcbP"
+      },
+      "artists": [
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        },
+        {
+          "name": "SxDJI",
+          "url": "https://open.spotify.com/artist/6TpYb8Z1yUegbmuRcJhiC1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227004,
+      "name": "Frontier",
+      "url": "https://open.spotify.com/track/5EE2ubLj0U3kZRkZr7vjbJ"
+    },
+    {
+      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/4QTBGcS5DSCe6N3RTNixsN"
       },
@@ -978,7 +1054,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 212267,
       "name": "Going Deep",
       "url": "https://open.spotify.com/track/2jlWbXGnQ8RXK7k6n6EnFv"
@@ -1126,10 +1202,36 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 161118,
       "name": "Kansai",
       "url": "https://open.spotify.com/track/4qvnEEwIXb8ch6CfudeqGW"
+    },
+    {
+      "album": {
+        "name": "Atomic Heart (Original Game Soundtrack) Vol.1",
+        "url": "https://open.spotify.com/album/2XVO5mhDvOpSTYpXUDVisx"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        },
+        {
+          "name": "Igor Sklyar",
+          "url": "https://open.spotify.com/artist/0CS3vgS9XURba0m7OvCPJv"
+        },
+        {
+          "name": "Atomic Heart",
+          "url": "https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Komarovo (DVRST Phonk Remix)",
+      "url": "https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB"
     },
     {
       "album": {
@@ -1452,6 +1554,28 @@
       "duration_ms": 169248,
       "name": "MUSEUM OF THE VOID",
       "url": "https://open.spotify.com/track/6rDjt5uh8wte2GzZHQxVzT"
+    },
+    {
+      "album": {
+        "name": "MUSIC DEALER",
+        "url": "https://open.spotify.com/album/5t0koaV8MkNBU4IjcwTnfI"
+      },
+      "artists": [
+        {
+          "name": "LXST CXNTURY",
+          "url": "https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/0kYf4ylD6mLtRa6s9vyscE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "MUSIC DEALER",
+      "url": "https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1"
     },
     {
       "album": {
@@ -2110,7 +2234,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 153600,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/1EapFpXRLVRnK3PXUoJtTh"
@@ -2354,7 +2478,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 225230,
       "name": "Tell me what - Alternative",
       "url": "https://open.spotify.com/track/3ZAVDqWDatGhJEbgTJrSpE"
@@ -2575,6 +2699,28 @@
     },
     {
       "album": {
+        "name": "WITHOUT LIMITS",
+        "url": "https://open.spotify.com/album/0wZtlxTmKkoFKw8VG4xcdx"
+      },
+      "artists": [
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        },
+        {
+          "name": "SPXCZWXLK",
+          "url": "https://open.spotify.com/artist/3WrlSOTKIeBRZ6X4bhocdw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192648,
+      "name": "WITHOUT LIMITS",
+      "url": "https://open.spotify.com/track/5Yg83kIdXfueoh1BMUDjxr"
+    },
+    {
+      "album": {
         "name": "you're my moon",
         "url": "https://open.spotify.com/album/1fHsZc8gUUsdqVHA22N9Rw"
       },
@@ -2586,10 +2732,28 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 142559,
       "name": "you're my moon",
       "url": "https://open.spotify.com/track/3QS2MR6CbGUliVnbRi8k1f"
+    },
+    {
+      "album": {
+        "name": "ZEMLYA",
+        "url": "https://open.spotify.com/album/4Oy3RyBfpG5G13efSVzLHG"
+      },
+      "artists": [
+        {
+          "name": "EDWXRDX",
+          "url": "https://open.spotify.com/artist/7d0TKChRUOvzyn7UGzJR6N"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144631,
+      "name": "ZEMLYA",
+      "url": "https://open.spotify.com/track/6ykmd9ifNFPlKFdjePXLUb"
     },
     {
       "album": {

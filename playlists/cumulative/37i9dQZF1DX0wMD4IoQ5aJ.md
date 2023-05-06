@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-287 songs - 15 hr 19 min
+288 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Chlorine](https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1) | [Swank Doral](https://open.spotify.com/artist/1zgVVdHt2QiytBSufPLLaV) | [Chlorine](https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY) | 2:59 | 2022-04-15 |  |
 | [Circular Thoughts](https://open.spotify.com/track/0CfvIXU3OhPOSTtUTMf63F) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Colormind](https://open.spotify.com/album/55mJJHUp9WzQxMeiROb21Y) | 3:16 | 2023-01-06 |  |
 | [City Bumps](https://open.spotify.com/track/4MNC485ddP6YTl8KIZeq5d) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [City Bumps](https://open.spotify.com/album/3QrvlTFiGpzZs2eShpmut6) | 2:46 | 2022-04-15 |  |
-| [City Lights](https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [City Lights](https://open.spotify.com/album/4iJ7bm22jHrWnHLOaT8d6r) | 2:46 | 2022-04-15 |  |
+| [City Lights](https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [City Lights](https://open.spotify.com/album/4iJ7bm22jHrWnHLOaT8d6r) | 2:46 | 2022-04-15 | 2023-05-06 |
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 |  |
 | [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2022-04-15 | 2023-01-07 |
 | [Colors By Shade](https://open.spotify.com/track/3MZfnoljBW1ktW5kgwiEZU) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Colors By Shade](https://open.spotify.com/album/7IwQLb1is4Bd5ZtPOCUkEB) | 2:25 | 2022-04-15 |  |
@@ -70,7 +70,7 @@
 | [Course Correction](https://open.spotify.com/track/1lZ7KgAXfoybBX2Lxow0Uf) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Course Correction](https://open.spotify.com/album/2laHbGZd6kNRvEyA5RTfBt) | 3:21 | 2022-06-10 | 2022-09-02 |
 | [Cream](https://open.spotify.com/track/6MWkUVtjXZlRL53qHGvmhm) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Cream](https://open.spotify.com/album/0atDzI8n3yA1frNSaiUo6B) | 2:00 | 2022-12-23 |  |
 | [Crisp Velvet](https://open.spotify.com/track/4EVeGsLzlWrOB7W2QGUCdM) | [Tigran Boiler](https://open.spotify.com/artist/5LhWWwxDFZzMYZPvt0axJM) | [Crisp Velvet](https://open.spotify.com/album/2pz8Asd0pk4UCtU758mEjy) | 2:33 | 2022-09-23 |  |
-| [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 | 2022-09-16 |  |
+| [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 | 2022-09-16 | 2023-05-06 |
 | [Crossover](https://open.spotify.com/track/5gOJnRETmSQubVXzbKwJCT) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Crossover](https://open.spotify.com/album/6JkOdjBdCYYlumTYapoXfq) | 3:52 | 2022-10-28 | 2023-02-10 |
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-04-15 |  |
 | [Cube Seat](https://open.spotify.com/track/2imYOSrNnKm5e3dQXtv3TQ) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Cube Seat](https://open.spotify.com/album/6mcLVjr7SwXhQ7LXn1jOxk) | 3:01 | 2022-09-23 |  |
@@ -125,6 +125,7 @@
 | [getting ideas](https://open.spotify.com/track/4g5zahq9MIoBxji1q0YF5F) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [getting ideas](https://open.spotify.com/album/10lwP63JZMKOnydAJ2o8uI) | 3:12 | 2022-08-19 |  |
 | [Glide \- DJ Counselling Remix](https://open.spotify.com/track/0tR8nMqQze7nPiec1ONj7u) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Glide \(DJ Counselling Remix\)](https://open.spotify.com/album/2xHOofjrZylWq7F9qCo5L8) | 4:48 | 2022-08-19 | 2023-02-10 |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2022-04-15 | 2022-09-02 |
+| [Glow Day](https://open.spotify.com/track/5b4BjNC7Sv4iRPPnwyYSr8) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Glow Day](https://open.spotify.com/album/65CoQ0dpFbLhl0iNbDR1L2) | 3:01 | 2023-05-05 |  |
 | [Gravity Run](https://open.spotify.com/track/1v4fcTze4n1Yqj1NrFSKTm) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Lunar Module](https://open.spotify.com/album/5JE2PXgd8OpMkUZWuvb9T0) | 3:02 | 2022-04-15 |  |
 | [Green Grass](https://open.spotify.com/track/1Y3BHcMtNlMANFFn2FQNYM) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Green Grass](https://open.spotify.com/album/52sjGVyYFTzABHzmeWXqpP) | 2:19 | 2022-12-09 |  |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2022-04-15 | 2023-01-20 |
@@ -240,7 +241,7 @@
 | [Skyline](https://open.spotify.com/track/1kNNHQqmlO5Lgw0slxpdL3) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Skyline](https://open.spotify.com/album/49uAYCjOOcHK6POXCBiJS5) | 2:24 | 2022-10-14 | 2023-01-07 |
 | [Sleep walk](https://open.spotify.com/track/2pK9bSqCnf8Nn7uSmy9z6S) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Sleep walk](https://open.spotify.com/album/4x6YXPZxMXwOAUOAU6KPwS) | 3:50 | 2022-09-02 | 2023-01-07 |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-04-15 |  |
-| [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2022-04-15 |  |
+| [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2022-04-15 | 2023-05-06 |
 | [Smoke N' Stuff](https://open.spotify.com/track/76GzwL91UGF3mczJ5rD1JU) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Smoke N' Stuff](https://open.spotify.com/album/2SPGcjGcimqvcsEKBbkCsj) | 3:17 | 2022-11-25 |  |
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2022-04-15 | 2022-10-08 |
 | [Softglove](https://open.spotify.com/track/1f7vseTZGBLMKCgWuFsdIb) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Softglove](https://open.spotify.com/album/5VsqfDi3GafC3OpChX9Cbm) | 3:58 | 2022-11-25 |  |

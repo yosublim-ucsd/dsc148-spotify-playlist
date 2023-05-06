@@ -4,7 +4,7 @@
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-107 songs - 5 hr 19 min
+108 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Farolito \(Little Star\)](https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 4:39 | 2021-09-30 |  |
 | [Feliz Navidad](https://open.spotify.com/track/2q6Pjan1gvTJA4Jz1Uh0tx) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones De Navidad En Español](https://open.spotify.com/album/716i3FUoHuiLCScWOZFvUn) | 3:19 | 2021-09-30 |  |
 | [Feliz Navidad](https://open.spotify.com/track/44xD4VflQVswhyAgjhXIQs) | [Coro Católico Navideño Virgen María](https://open.spotify.com/artist/1i2brfbbB4R5ZfRcKRaazP) | [Navidad para Niños\. Voces Blancas Cantan Villancicos](https://open.spotify.com/album/44PVoGzXgo7Awm0r37jPF4) | 2:56 | 2021-09-30 |  |
-| [Feliz Navidad](https://open.spotify.com/track/2ASZEvGTYJKeM27iGej1je) | [El Payaso Plim Plim](https://open.spotify.com/artist/1E7NoA5YJu5N0XEm6ojotR), [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Feliz Navidad](https://open.spotify.com/album/5yzBHrlea3rhUMpSxs5LbN) | 2:17 | 2021-12-10 |  |
+| [Feliz Navidad](https://open.spotify.com/track/0DpjUwuKAtDBRJ76H0lHlo) | [El Payaso Plim Plim](https://open.spotify.com/artist/1E7NoA5YJu5N0XEm6ojotR) | [Feliz Navidad](https://open.spotify.com/album/2Eox8nau4HXNMIRslo1Jfm) | 2:17 | 2021-12-10 |  |
+| [Feliz Navidad](https://open.spotify.com/track/2ASZEvGTYJKeM27iGej1je) | [El Payaso Plim Plim](https://open.spotify.com/artist/1E7NoA5YJu5N0XEm6ojotR), [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Feliz Navidad](https://open.spotify.com/album/5yzBHrlea3rhUMpSxs5LbN) | 2:17 | 2021-12-10 | 2023-05-06 |
 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 | 2021-09-30 |  |
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2021-09-30 |  |
 | [Feliz Navidad](https://open.spotify.com/track/364zaCkRaENgzJ9THwg6dD) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Behind This Guitar](https://open.spotify.com/album/5FsRPLn0LijFONLY9HogEH) | 3:07 | 2021-09-30 |  |

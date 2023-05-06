@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Nerone ed Ensi, Brava Gente, in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,071 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,098 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 99 | [Bellissimo](https://open.spotify.com/track/0OR6yQeHG1OH1vCtDZsPw0) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Bellissimo](https://open.spotify.com/album/1aFG5BkuyC5l0JSZG4RaLH) | 2:55 |
 | 100 | [Chi more pe' mme](https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:43 |
 
-Snapshot ID: `MCw1ZGMxOTFjMDM3ZjI2N2JhNTdlOTYxOGU4OWZlNjlhZTgzOWNhNGQ0`
+Snapshot ID: `MCw4YjRhYjg4MWFkMThhNWZiYjQ4OTRiMjdjN2E5MmJlNGVkZTUxYThm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover:  Thundercat, Tame Impala",
+  "description": "Current indie tunes from Asia and around the world. Cover: The National",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 216775,
       "name": "100-99 (feat. GoldLink)",
       "url": "https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd"
@@ -216,6 +216,24 @@
       "duration_ms": 225733,
       "name": "5D",
       "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
+    },
+    {
+      "album": {
+        "name": "6HRS",
+        "url": "https://open.spotify.com/album/7eCIML9RC3CNoeMdZF5GMl"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "6HRS",
+      "url": "https://open.spotify.com/track/61A5Doh50xlDcf9hjLtjiE"
     },
     {
       "album": {
@@ -418,6 +436,24 @@
       "duration_ms": 192786,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5"
+    },
+    {
+      "album": {
+        "name": "In My Myth",
+        "url": "https://open.spotify.com/album/7r3Avec8jernU9ZI1GNKjl"
+      },
+      "artists": [
+        {
+          "name": "Flasher",
+          "url": "https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260794,
+      "name": "Adriene",
+      "url": "https://open.spotify.com/track/41LWp11o90tOinH3V3xpky"
     },
     {
       "album": {
@@ -1848,7 +1884,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 252053,
       "name": "Bottle Episodes",
       "url": "https://open.spotify.com/track/4po80V0UADskVYWjH20GKk"
@@ -2855,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Cops and robbers",
+        "url": "https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265959,
+      "name": "Cops and robbers",
+      "url": "https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW"
+    },
+    {
+      "album": {
         "name": "Corncob",
         "url": "https://open.spotify.com/album/3PblNI46eRHY3teWBGfvCR"
       },
@@ -3613,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Don't Want This To Be Over",
+        "url": "https://open.spotify.com/album/2F3GrHb6K3khg9mzFwRYj8"
+      },
+      "artists": [
+        {
+          "name": "White Chorus",
+          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Don't Want This To Be Over",
+      "url": "https://open.spotify.com/track/5twf1eTmqVUvPpmjGPPaX0"
+    },
+    {
+      "album": {
         "name": "Done (Let's Get It)",
         "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
       },
@@ -4140,7 +4212,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 183114,
       "name": "Eraser",
       "url": "https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv"
@@ -4194,7 +4266,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 264960,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
@@ -4862,6 +4934,24 @@
       "duration_ms": 181593,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
+    },
+    {
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/5fZmcavpVB5MZ8U6s0ghan"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180495,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/0T8vJjMDkL6I0ED3Tw8qBi"
     },
     {
       "album": {
@@ -6165,6 +6255,24 @@
     },
     {
       "album": {
+        "name": "Hey Aries",
+        "url": "https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257221,
+      "name": "Hey Aries",
+      "url": "https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I"
+    },
+    {
+      "album": {
         "name": "Hideous",
         "url": "https://open.spotify.com/album/6s5GbyGHzt8qXx0eb0IAN0"
       },
@@ -6234,7 +6342,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 235430,
       "name": "High and Away",
       "url": "https://open.spotify.com/track/3jkxvUypqXWjfV8rVu0Pt8"
@@ -7559,6 +7667,24 @@
     },
     {
       "album": {
+        "name": "Kenneth",
+        "url": "https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229088,
+      "name": "Kenneth",
+      "url": "https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K"
+    },
+    {
+      "album": {
         "name": "Key To The City",
         "url": "https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L"
       },
@@ -8646,7 +8772,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 185169,
       "name": "Maybe I'm Just Fine",
       "url": "https://open.spotify.com/track/3HK6mXqACXFBJE3CgemAUY"
@@ -9258,7 +9384,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 246720,
       "name": "Nadja",
       "url": "https://open.spotify.com/track/6AaZ0uxY59zj65pyIalnKS"
@@ -9862,7 +9988,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 278760,
       "name": "Nothing's Free",
       "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
@@ -9884,6 +10010,28 @@
       "duration_ms": 174846,
       "name": "Now You See Me",
       "url": "https://open.spotify.com/track/6Oex5FIRjSH56Q1e3Z5JFA"
+    },
+    {
+      "album": {
+        "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184284,
+      "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO"
     },
     {
       "album": {
@@ -10381,6 +10529,24 @@
     },
     {
       "album": {
+        "name": "Oscillating In Imaginary Butterflies",
+        "url": "https://open.spotify.com/album/5uMwDNV9ZIhzUCiofmqXMM"
+      },
+      "artists": [
+        {
+          "name": "Matahara",
+          "url": "https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67131,
+      "name": "Oscillating In Imaginary Butterflies",
+      "url": "https://open.spotify.com/track/0lukljBfDuvj3I1HPe5zIE"
+    },
+    {
+      "album": {
         "name": "OTT",
         "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
@@ -10602,7 +10768,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 197360,
       "name": "Paraiso",
       "url": "https://open.spotify.com/track/11kPRHkZCTgudM8Xyr1KXu"
@@ -12283,6 +12449,24 @@
     },
     {
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287297,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ"
+    },
+    {
+      "album": {
         "name": "Silent Running (feat. Adeleye Omotayo)",
         "url": "https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9"
       },
@@ -12570,7 +12754,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 247471,
       "name": "Slugs of Love",
       "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
@@ -12744,6 +12928,24 @@
       "duration_ms": 195804,
       "name": "So Typically Now",
       "url": "https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS"
+    },
+    {
+      "album": {
+        "name": "C\u00e1i \u0110\u1ea7u Ti\u00ean",
+        "url": "https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5"
+      },
+      "artists": [
+        {
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129440,
+      "name": "Sober Song",
+      "url": "https://open.spotify.com/track/6QiE9xVHfGT1s3ilFo2lVu"
     },
     {
       "album": {
@@ -13520,7 +13722,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 274337,
       "name": "Swim Back",
       "url": "https://open.spotify.com/track/5jOKm7AO3CYs79nRi03BIj"
@@ -14744,7 +14946,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 251573,
       "name": "Uneven",
       "url": "https://open.spotify.com/track/352StnCiFEF6hqe3eR791o"
@@ -15262,6 +15464,24 @@
       "duration_ms": 184024,
       "name": "We The Female!",
       "url": "https://open.spotify.com/track/2yagcsYdqa14jDsGAFJ2BP"
+    },
+    {
+      "album": {
+        "name": "We Were Never Really Friends",
+        "url": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "We Were Never Really Friends",
+      "url": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
     },
     {
       "album": {

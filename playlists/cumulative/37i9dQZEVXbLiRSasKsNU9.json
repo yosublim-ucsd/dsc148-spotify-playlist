@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 165557,
       "name": "All Eyez On Me - Gangsta Remix",
       "url": "https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 312000,
       "name": "Apna Banale (Lofi)",
       "url": "https://open.spotify.com/track/40YOgYCuKbo2bT5h71X2xN"
@@ -2992,7 +2992,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 191275,
       "name": "BAYBAY",
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
@@ -10300,7 +10300,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
@@ -17448,7 +17448,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 211990,
       "name": "Na Brisa Que \u00c9 Bom Vs Cheiro do Skunk",
       "url": "https://open.spotify.com/track/0IuKBc2qc4yRajqLd9uFGR"
@@ -17514,6 +17514,24 @@
     {
       "album": {
         "name": "NARCISSISTIC PERSONALITY DISORDER",
+        "url": "https://open.spotify.com/album/2iLfp8BAcBilTaO88gGzNq"
+      },
+      "artists": [
+        {
+          "name": "FenoSkii",
+          "url": "https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110510,
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "url": "https://open.spotify.com/track/19eQKZicAzXgQ2Tg3y4K0N"
+    },
+    {
+      "album": {
+        "name": "NARCISSISTIC PERSONALITY DISORDER",
         "url": "https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd"
       },
       "artists": [
@@ -17524,7 +17542,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 110510,
       "name": "NARCISSISTIC PERSONALITY DISORDER",
       "url": "https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29"
@@ -19070,6 +19088,24 @@
       "duration_ms": 240903,
       "name": "P.S. I LOVE YOU",
       "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
+    },
+    {
+      "album": {
+        "name": "Pa La Europa",
+        "url": "https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219753,
+      "name": "Pa La Europa",
+      "url": "https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG"
     },
     {
       "album": {

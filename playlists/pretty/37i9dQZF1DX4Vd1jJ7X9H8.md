@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,865 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,084 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 99 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 |
 | 100 | [Dollar](https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [KIN](https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY) | 3:28 |
 
-Snapshot ID: `MCwyYmY1YjI5NDMxZDNhZTkxZjEwMmMyZDY0MGJjMmI1MTFkNzdkZDJi`
+Snapshot ID: `MCxiODhiZTE4YmNhN2JkNjBhMjc5YmQxZmM4NWUwOGY0YzI2MWU0MDRl`

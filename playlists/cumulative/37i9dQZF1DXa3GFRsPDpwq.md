@@ -4,7 +4,7 @@
 
 > This is Rkive of RM\. Indigo\. 💜
 
-49 songs - 2 hr 51 min
+50 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Closer \(with Paul Blanco, Mahalia\)](https://open.spotify.com/track/0Cuwd86fyu0lPVokzTp8Hu) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 3:16 | 2022-12-06 |  |
 | [Crying Over You ◐ \(feat\. RM & BEKA\)](https://open.spotify.com/track/7AyaV1Ga66yguStIr20zsO) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Love Me / Love Me Not \(Sessions\)](https://open.spotify.com/album/74nLAOXgk7p5ujlR5RYZ03) | 4:04 | 2022-12-02 |  |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2022-12-02 |  |
+| [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-05 |  |
 | [everythingoes](https://open.spotify.com/track/7bSJAuXjyhlTcz5CfoNDdt) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 3:42 | 2022-12-02 | 2022-12-19 |
 | [everythingoes \(with Nell\)](https://open.spotify.com/track/0ZUtat3yQpzMRMJ9Qmz5k0) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [mono.](https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb) | 3:42 | 2022-12-06 |  |
 | [forever rain](https://open.spotify.com/track/0MBLKSjisnYtP4J6KYYT1T) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 4:31 | 2022-12-02 | 2022-12-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,504 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,527 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea) | 2:43 |
 | 100 | [Pink \- Live & Acoustic](https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Live from the Village \(Acoustic\)](https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq) | 3:47 |
 
-Snapshot ID: `MCw5YjZhZmQ5NGQyYWVjNDBjMzJiYTVlMjBmMzQwMzFhMmY0OTM5YmZk`
+Snapshot ID: `MCxkZjE5NzIyMTBjZThhNjE4OTkzZGYzMmQyMjYxNThiYTVhMzk5ODZh`

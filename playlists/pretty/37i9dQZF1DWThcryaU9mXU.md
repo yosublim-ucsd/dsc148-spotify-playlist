@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,745 likes - 90 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,809 likes - 90 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Still Here](https://open.spotify.com/track/4VUX1UU7Rm8itgHYQ8jU3N) | [Ben Levin](https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci) | [Still Here](https://open.spotify.com/album/4Luc0LX0LP4hH1tuqELJyV) | 4:10 |
 | 90 | [Unfair Lovers](https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [Rare Oldies Jazz: Eddy Boyd](https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6) | 3:03 |
 
-Snapshot ID: `MCwxNTkwODRhZGE2MzNhNzVjNjI3NmE3NTNhMzhmNjExYTY0ODgxZDU5`
+Snapshot ID: `MCw2ZTcyMTcyMmE0N2IwMWFhNDFjYjhmZjRhYjE1ZDdlZTE5Yjk3NDIz`

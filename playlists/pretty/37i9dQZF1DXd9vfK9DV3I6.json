@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 247286,
+  "num_followers": 247527,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YThkOTk4M2VkYzg4ODdiYTg0MTI2MGM4YjcxZmQzNzY3MjM4M2Uy",
+  "snapshot_id": "MCw2ODg4ZGE5NWJiNjVmNGVmYjU0OTIyYzNlYjI1ZDllM2U3NWE0Nzdi",
   "tracks": [
     {
       "added_at": "2023-04-28 15:20:33",
@@ -580,12 +580,12 @@
       },
       "artists": [
         {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
           "name": "Bolier",
           "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
         },
         {
           "name": "Rhi'N'B",

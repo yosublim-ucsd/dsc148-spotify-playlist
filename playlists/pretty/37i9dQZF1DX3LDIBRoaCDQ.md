@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,881 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,145 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
 | 100 | [Anarchy Burger \(Hold the Government\)](https://open.spotify.com/track/3n2TG1KESRWFP33dFjUUj5) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism \(Deluxe Edition\)](https://open.spotify.com/album/6RIUceBjyscQjYFT81nTxt) | 1:53 |
 
-Snapshot ID: `MCxkNWEzNmMzZGUwYTUyMDVjMjQ2MzcwZWViM2ZiYzE5OWQzYzNiNDI4`
+Snapshot ID: `MCwxMDVkYzAxOWQxMDYzNmY3Yjk5YTE1NGFmNjI0OWI4NjkxMThiMGVl`

@@ -4,7 +4,7 @@
 
 > Nuevo rock alternativo argentino\. <br/>📷 Winona Riders.
 
-133 songs - 7 hr 32 min
+134 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Escurridiza](https://open.spotify.com/track/5wLMgRfTU6darBQ2X1DkeN) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [El Resto de los Días](https://open.spotify.com/album/0XqoGBuZ30uBpXlfBlSQx5) | 3:20 | 2022-03-25 | 2023-03-25 |
 | [Fantasmas](https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S) | [Los Jardines De Bruselas](https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8) | [Fantasmas](https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc) | 3:29 | 2022-03-25 | 2023-03-25 |
 | [febrero](https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [aeropuerto](https://open.spotify.com/album/3ugKv9ex4bNGJAEsBs8Igu) | 3:33 | 2023-03-31 |  |
+| [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 | 2023-05-05 |  |
 | [Gualicho](https://open.spotify.com/track/4T19ysiQ1owalfXXXcWZK5) | [Gativideo](https://open.spotify.com/artist/4syvKWgnIigkaQdgF4NNZM) | [Gualicho](https://open.spotify.com/album/2NeIHG0JddnTE6hAd5XzGM) | 3:32 | 2022-03-25 | 2023-03-25 |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-03-25 |  |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-03-25 | 2023-03-25 |

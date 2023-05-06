@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\.  Cover: <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=cc4qsqDzSfS21lTakVte6w">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,404 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,622 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 99 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
 | 100 | [Say Cheese](https://open.spotify.com/track/601WxmzITFziMCk3iuNps7) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Blue](https://open.spotify.com/album/3dHnvFaf3fJFPqCOjzWURD) | 2:25 |
 
-Snapshot ID: `MCw1MTgyNjczOGZjYWFlNDk1NWU5YTdiNmJlOTY5NzI5ZmIxODEwMTk5`
+Snapshot ID: `MCwwYzJhM2Y3MTFkM2I3OTk0OWQ0NjhlMGEwZmJjYTQxNzBkODI5NGVm`

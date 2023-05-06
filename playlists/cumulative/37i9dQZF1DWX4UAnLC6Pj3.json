@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis \u00c1ngel El Flaco & Josi Cuen en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda El Recodo en portada.",
   "name": "Banda 2023",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 213666,
       "name": "Cambiaste Mis Planes",
       "url": "https://open.spotify.com/track/02brBj2eGQVlHXNJzM7Tpk"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 186000,
       "name": "El Moyo",
       "url": "https://open.spotify.com/track/3gr4qlvyDNqPr10mrMSyxl"
@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 218282,
       "name": "La Llamada De Mi Ex (En Vivo)",
       "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 159387,
       "name": "Mentiroso",
       "url": "https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG"
@@ -3065,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
+        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423653,
+      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
+      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
+    },
+    {
+      "album": {
         "name": "Por Andar Con Un Cabr\u00f3n",
         "url": "https://open.spotify.com/album/2ySTXVUYP1G2O00pjHVCBd"
       },
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
@@ -4110,7 +4128,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 214684,
       "name": "Un Chingo de Tequila",
       "url": "https://open.spotify.com/track/3mUe9jWtdpNk9qkE976D1j"
@@ -4542,6 +4560,28 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "album": {
+        "name": "\u00bfCu\u00e1les Fronteras?",
+        "url": "https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u00bfCu\u00e1les Fronteras?",
+      "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-264 songs - 12 hr 55 min
+265 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2021-12-23 |  |
 | [Answers](https://open.spotify.com/track/2iOKDbXoqcTENod90jSmcH) | [Elmer Loyd](https://open.spotify.com/artist/4VIdNbofDE1Txze8n5jshd) | [Answers](https://open.spotify.com/album/6L7t3tZ2gQAJ3CYhM4joVp) | 2:58 | 2021-12-23 | 2022-09-03 |
 | [Antina](https://open.spotify.com/track/5GiaKRLBu8vWdY80hHZTdu) | [Selma Key](https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa) | [Calming Mist](https://open.spotify.com/album/29OVOlzATI437uWYeKX29c) | 2:43 | 2023-03-10 |  |
-| [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 | 2021-12-23 |  |
+| [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 | 2021-12-23 | 2023-05-06 |
 | [Ascending](https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Ascending](https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr) | 2:42 | 2022-06-16 |  |
 | [Ashes to Dawn](https://open.spotify.com/track/5P08ISI8K0fUqHuJJZoYlq) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Ashes to Dawn](https://open.spotify.com/album/0CkFnmpN1vdw2cf2NX6DgN) | 1:52 | 2022-01-07 |  |
 | [At Day's End](https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [At Day's End](https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG) | 2:53 | 2022-08-15 |  |
@@ -53,7 +53,7 @@
 | [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-09-13 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-12-23 | 2022-12-10 |
 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2021-12-23 |  |
-| [Contemplation](https://open.spotify.com/track/6dAScKFmnc7epcmlV7uXRv) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Contemplation](https://open.spotify.com/album/4X1afAsNqXENvFo1ijXnau) | 3:02 | 2021-12-23 |  |
+| [Contemplation](https://open.spotify.com/track/6dAScKFmnc7epcmlV7uXRv) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Contemplation](https://open.spotify.com/album/4X1afAsNqXENvFo1ijXnau) | 3:02 | 2021-12-23 | 2023-05-06 |
 | [Coucher](https://open.spotify.com/track/0gBwjXf71aUxndZSzrJ6Ej) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Coucher](https://open.spotify.com/album/5GaPY7G2NrAsOG6M0y5d4y) | 3:13 | 2022-11-11 |  |
 | [Crayons Part 2](https://open.spotify.com/track/7eyhf1p0OTrZ804PusfMvl) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Dear Dawn](https://open.spotify.com/album/6Aih1IKbgXvDw8Tc3sMsRn) | 2:09 | 2021-12-23 | 2022-07-29 |
 | [Crayons Part 2](https://open.spotify.com/track/19vWPaRELzfUUlA4e9c7RB) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Dear Dawn](https://open.spotify.com/album/65IrZAMOiYuxHlrbxFYwGJ) | 2:10 | 2022-07-22 |  |
@@ -66,6 +66,7 @@
 | [Donia](https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV) | [Duanova](https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b) | [Donia](https://open.spotify.com/album/7b9pUYGK5xYVe107o6b7ae) | 2:22 | 2022-06-16 |  |
 | [Dormiveglia](https://open.spotify.com/track/59wYGLIGo4rMqIXcteuFd2) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Dormiveglia](https://open.spotify.com/album/6fplqqCFvzrz1fZHgxvS89) | 3:21 | 2021-12-23 |  |
 | [Dream Winds](https://open.spotify.com/track/3augHYWWU4yLtwpchGKyaW) | [Riseran](https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho) | [Grande](https://open.spotify.com/album/3c8RWTE6C8Ok6yAxfeQkYZ) | 2:35 | 2022-12-02 |  |
+| [Dreaming Stardust](https://open.spotify.com/track/0qYOvZK1cPFq3TtZLMXwXN) | [Glow Crow](https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI) | [I feel it I know it](https://open.spotify.com/album/7bWxPucoQiYYbNiVUvogNk) | 3:20 | 2023-05-05 |  |
 | [Dreams](https://open.spotify.com/track/0e5hI6tWwk5ntTtGa0OYNG) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Dreams](https://open.spotify.com/album/75Zm6EmgaCMhiCmDfHpcxe) | 3:16 | 2021-12-23 |  |
 | [Drømme](https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Drømme](https://open.spotify.com/album/37DmOAu4jFHqzroEvraPPu) | 4:13 | 2021-12-23 |  |
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2021-12-23 |  |
@@ -80,7 +81,7 @@
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-23 |  |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2021-12-23 |  |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-06-24 |  |
-| [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2021-12-23 |  |
+| [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2021-12-23 | 2023-05-06 |
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-12-23 |  |
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-14 |  |
@@ -114,7 +115,7 @@
 | [In Plain Sight](https://open.spotify.com/track/1Hv0xfiKWyRicMFmV4TYZU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/3clSZEB0Fg1q8HE6Ckp2ya) | 3:19 | 2022-07-22 |  |
 | [In The Light Of Hope](https://open.spotify.com/track/6W1g2BdA980139iaKZ8XHx) | [Phiala](https://open.spotify.com/artist/6Ix7ocKRGZU8XnVX9FiXuL) | [In The Light Of Hope](https://open.spotify.com/album/3pHnYILBlmIHv7MNOXw5iq) | 2:37 | 2023-02-09 |  |
 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 | 2021-12-23 |  |
-| [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2021-12-23 |  |
+| [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2021-12-23 | 2023-05-06 |
 | [Kaikoura](https://open.spotify.com/track/6VbbLSIgEMklrpKjdhwtpF) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Kaikoura](https://open.spotify.com/album/6GdrIIHxUkFJWYhOEYsKC5) | 3:15 | 2022-12-02 |  |
 | [L'ambience](https://open.spotify.com/track/6g1AnzB3B4VUFlXJTzXEUE) | [Deep Zones](https://open.spotify.com/artist/7fwJtNfFJPvvPbY2EKgMbX) | [L'ambience](https://open.spotify.com/album/0eyvpkaCP84vYfRUIY65XO) | 2:46 | 2021-12-23 | 2023-02-10 |
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2021-12-23 |  |
@@ -135,7 +136,7 @@
 | [Längtan](https://open.spotify.com/track/5dU3ZoeCCMmRziuCCr4ErZ) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Längtan](https://open.spotify.com/album/1Ct1me1fiNQ2c37OyvTnku) | 3:55 | 2022-09-02 |  |
 | [líquido](https://open.spotify.com/track/6UlSa5WUahJzFVSRCUt8K3) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [líquido](https://open.spotify.com/album/4MXpvYR7qsNouiXC5bP6ar) | 2:24 | 2021-12-23 |  |
 | [Marmoris](https://open.spotify.com/track/3DEJFS5pJMjFr2zG24oDHt) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Marmoris](https://open.spotify.com/album/5jWt650eZDQgPm47eEazPd) | 2:36 | 2021-12-23 |  |
-| [Mellow Moon](https://open.spotify.com/track/3pwWWv9jwQxxh81W8bKWSB) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Winds](https://open.spotify.com/album/0y85Fl4PfcS9zsfvYyA7q6) | 3:25 | 2021-12-23 |  |
+| [Mellow Moon](https://open.spotify.com/track/3pwWWv9jwQxxh81W8bKWSB) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Winds](https://open.spotify.com/album/0y85Fl4PfcS9zsfvYyA7q6) | 3:25 | 2021-12-23 | 2023-05-06 |
 | [Midway](https://open.spotify.com/track/2kTv2khALDAQLexccNt7Ik) | [Marlowe Coleman](https://open.spotify.com/artist/19Ezl9iEvMupXpC5XMgZBR) | [Midway](https://open.spotify.com/album/2ZB8ydKdh58ricHGdb8eN9) | 3:33 | 2021-12-23 |  |
 | [Minutes](https://open.spotify.com/track/4zIyhdolfQSwPrclbLyvUT) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Minutes](https://open.spotify.com/album/3WNhmBvd5KGFOW2vPEFNkR) | 2:28 | 2021-12-23 |  |
 | [Mixture](https://open.spotify.com/track/0OXgaVgiSiuPYjPRiFSyiY) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Sonorous](https://open.spotify.com/album/23dHOKDvEMYX4C1ukHTULU) | 3:18 | 2022-01-07 |  |
@@ -249,7 +250,7 @@
 | [Time Flies Away](https://open.spotify.com/track/22avKCPSA6gN7p3lKbTytV) | [Tin Shui](https://open.spotify.com/artist/5hSVBR00vPBcQuAfvY1sZs) | [Time Flies Away](https://open.spotify.com/album/5QyzVz6mNSkD253nZf1989) | 3:02 | 2021-12-23 |  |
 | [Tomorrow](https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM) | [Lior Freudenthal](https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO) | [Tomorrow](https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu) | 2:48 | 2022-11-22 |  |
 | [Tum Somnum](https://open.spotify.com/track/3Q2ykZ9rFuFOvYDcAOY6w3) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Tum Somnum](https://open.spotify.com/album/2ALQCc03yCk75pGsH8DEnc) | 3:05 | 2021-12-23 |  |
-| [Two](https://open.spotify.com/track/0PXUx6eELO2zQwheVfo12k) | [Awlee](https://open.spotify.com/artist/1bc9CAR8zEADSEyBmp3T05) | [Lullah](https://open.spotify.com/album/5GBaRTt7PaEDQFayxUFxrb) | 2:59 | 2022-07-22 |  |
+| [Two](https://open.spotify.com/track/0PXUx6eELO2zQwheVfo12k) | [Awlee](https://open.spotify.com/artist/1bc9CAR8zEADSEyBmp3T05) | [Lullah](https://open.spotify.com/album/5GBaRTt7PaEDQFayxUFxrb) | 2:59 | 2022-07-22 | 2023-05-06 |
 | [Two](https://open.spotify.com/track/3RnKx1I9P2hV1uIO9IW5En) | [Awlee](https://open.spotify.com/artist/1bc9CAR8zEADSEyBmp3T05) | [Lullah](https://open.spotify.com/album/0o7IZ2GBgrZ49NztPbHvAB) | 2:59 | 2021-12-23 | 2022-07-29 |
 | [Two](https://open.spotify.com/track/3Y6O1aZ1qpYmdC3CgB35X2) | [Awlee](https://open.spotify.com/artist/1bc9CAR8zEADSEyBmp3T05) | [KEEN: Sweet Dreams Vol\. 2](https://open.spotify.com/album/477RqgcnrDxvtoi4LCferE) | 2:59 | 2022-11-11 | 2022-11-13 |
 | [Unbound](https://open.spotify.com/track/5X17M78aHKmdcB0iDCe3BT) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Unbound](https://open.spotify.com/album/2pkZ4r4io3uCgrdFo8h7wT) | 3:12 | 2021-12-23 | 2022-06-17 |
@@ -270,7 +271,7 @@
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2021-12-23 |  |
 | [With Every Breath I Breathe](https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:19 | 2022-10-07 |  |
 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 | 2021-12-23 | 2022-09-03 |
-| [Yamuna](https://open.spotify.com/track/3kzMuziVFP7PTOry77H9W7) | [Elise Ryen](https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc) | [Yamuna](https://open.spotify.com/album/4t0Y3UVW4APwGMvdRn2g47) | 3:01 | 2021-12-23 |  |
+| [Yamuna](https://open.spotify.com/track/3kzMuziVFP7PTOry77H9W7) | [Elise Ryen](https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc) | [Yamuna](https://open.spotify.com/album/4t0Y3UVW4APwGMvdRn2g47) | 3:01 | 2021-12-23 | 2023-05-06 |
 | [Éjszakai](https://open.spotify.com/track/2qHGPanT2ux9hwZDbmPr8t) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Éjszakai](https://open.spotify.com/album/1L1moItugCPspJnsGIkKmL) | 2:32 | 2021-12-23 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

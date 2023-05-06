@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Todo es Ceremonia en el Jardin Salvaje",
+        "url": "https://open.spotify.com/album/1cwkQ7TFUp35Gju5Y7DL2L"
+      },
+      "artists": [
+        {
+          "name": "Tunacola",
+          "url": "https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Adentro Brilla El Sol",
+      "url": "https://open.spotify.com/track/2Y985lqSz23xEgUhdRZK28"
+    },
+    {
+      "album": {
         "name": "Algo De Verdad",
         "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
       },
@@ -757,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Cuervos",
+        "url": "https://open.spotify.com/album/0LYVuAP7NIuM6blxAFWjeN"
+      },
+      "artists": [
+        {
+          "name": "Furland",
+          "url": "https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182344,
+      "name": "Coraz\u00f3n T\u00edpico",
+      "url": "https://open.spotify.com/track/4TbpyKHfjiTXQF1ObiNYrY"
+    },
+    {
+      "album": {
         "name": "Crimen",
         "url": "https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i"
       },
@@ -946,6 +982,28 @@
       "duration_ms": 250977,
       "name": "Dos Amantes",
       "url": "https://open.spotify.com/track/66lOJXZVLAIBFogLrXM4Z6"
+    },
+    {
+      "album": {
+        "name": "El Principal",
+        "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "ni-hao!!!!",
+          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210187,
+      "name": "El Principal",
+      "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
     },
     {
       "album": {

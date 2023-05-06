@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Time To See",
+        "url": "https://open.spotify.com/album/23NMoQoPwXeQlGpB1q2zM2"
+      },
+      "artists": [
+        {
+          "name": "magic air_",
+          "url": "https://open.spotify.com/artist/4RgUVFZKgZjBTLoEr4nVhC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Goa Nova",
+      "url": "https://open.spotify.com/track/5wOcMlOLztxvP8EtoUIgqj"
+    },
+    {
+      "album": {
         "name": "Pantrana Calm",
         "url": "https://open.spotify.com/album/2wc8UqKag2QJgjtENEcCMW"
       },
@@ -3908,6 +3926,24 @@
       "duration_ms": 179086,
       "name": "Unforgettable Moments",
       "url": "https://open.spotify.com/track/5lSPw2NndV5W0jQ4TeM3Z4"
+    },
+    {
+      "album": {
+        "name": "I start to feel",
+        "url": "https://open.spotify.com/album/7KiKS5NY51JOiE0sjH40XK"
+      },
+      "artists": [
+        {
+          "name": "Udda Jnhale",
+          "url": "https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Unforgotten Girl",
+      "url": "https://open.spotify.com/track/5QROqX69Jt5QgS1fhYXUj2"
     },
     {
       "album": {

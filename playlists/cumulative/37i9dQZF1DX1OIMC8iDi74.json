@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 270422,
       "name": "GOD (MUSIC)",
       "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
@@ -4850,6 +4850,24 @@
       "duration_ms": 237241,
       "name": "Traffic - X&G Remix",
       "url": "https://open.spotify.com/track/6uTFvYTIKRFtOCVgO9reAy"
+    },
+    {
+      "album": {
+        "name": "Trailblazer",
+        "url": "https://open.spotify.com/album/7AtoANo3rq2VChRB98SPfR"
+      },
+      "artists": [
+        {
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314840,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5"
     },
     {
       "album": {

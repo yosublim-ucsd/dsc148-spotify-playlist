@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Binaural Serenade",
+        "url": "https://open.spotify.com/album/75xJLqtlDky9rlnxzknINy"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158735,
+      "name": "Beta Serenade 17 Hz",
+      "url": "https://open.spotify.com/track/1tgXeD0P4KHpQ3XQ2hBbwu"
+    },
+    {
+      "album": {
         "name": "Ampinomene",
         "url": "https://open.spotify.com/album/7K1iVbSGN6L22Ci3NiBm75"
       },

@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Down For Anything",
+        "url": "https://open.spotify.com/album/6u2FL1r8zNSaUwGs3GVAdu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149523,
+      "name": "Down For Anything",
+      "url": "https://open.spotify.com/track/22PGa3sM5Hb8B21u0iymi2"
+    },
+    {
+      "album": {
         "name": "Dreamatic",
         "url": "https://open.spotify.com/album/15b6oP9UfGUyEYJpv2V150"
       },
@@ -1907,7 +1925,7 @@
         },
         {
           "name": "Laney",
-          "url": "https://open.spotify.com/artist/3WQxYOqxLper87sp8bxtAU"
+          "url": "https://open.spotify.com/artist/21FWhAH9S758eTvvujmOqg"
         }
       ],
       "date_added": "2023-05-04",
@@ -2170,6 +2188,32 @@
       "duration_ms": 192314,
       "name": "Guide You Home",
       "url": "https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W"
+    },
+    {
+      "album": {
+        "name": "Halo (I'll Be There)",
+        "url": "https://open.spotify.com/album/23zxzYYJoZlfIGkajSLOBM"
+      },
+      "artists": [
+        {
+          "name": "Poylow",
+          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
+        },
+        {
+          "name": "Misfit",
+          "url": "https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH"
+        },
+        {
+          "name": "MAD SNAX",
+          "url": "https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164531,
+      "name": "Halo (I'll Be There)",
+      "url": "https://open.spotify.com/track/4yjD6NhVSE7vdxqGgTXyyp"
     },
     {
       "album": {
@@ -5498,6 +5542,28 @@
       "duration_ms": 125454,
       "name": "You Did Me Wrong",
       "url": "https://open.spotify.com/track/021AdIBrNm09ETA6iMxnyw"
+    },
+    {
+      "album": {
+        "name": "Your Highness",
+        "url": "https://open.spotify.com/album/4K03B0jZLorCFqXj4LjXkU"
+      },
+      "artists": [
+        {
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+        },
+        {
+          "name": "Jstn Dmnd",
+          "url": "https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Your Highness",
+      "url": "https://open.spotify.com/track/1r2epakXbNUm9jJFBwnYbR"
     },
     {
       "album": {

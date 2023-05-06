@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Michael Bolton
 
-81 songs - 5 hr 20 min
+82 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Panopticom \- Bright Side Mix](https://open.spotify.com/track/0DpMQVZpl0bsIlFbm5CS7V) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Panopticom \(Bright Side Mix\)](https://open.spotify.com/album/3vMQQGbY67Sj77bD6dT8zt) | 5:13 | 2023-01-06 |  |
 | [Precious Time](https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Precious Time](https://open.spotify.com/album/6C6bBwceQNCXaNK78OPTKe) | 4:27 | 2021-10-22 | 2022-04-02 |
 | [Pretending](https://open.spotify.com/track/3WYq8auGS8CFtRM7XLNxJn) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Pretending](https://open.spotify.com/album/5sHQpKS54EcEG784t7bJaO) | 6:47 | 2022-04-08 |  |
-| [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 | 2021-10-22 |  |
+| [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 | 2021-10-22 | 2023-05-06 |
 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 | 2021-10-22 | 2023-03-25 |
 | [Rushing Water](https://open.spotify.com/track/46FlEsH8J7IwPgY2guQqef) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Super Deluxe\)](https://open.spotify.com/album/3ZCIcCsU3wAG2o8p8WfNjk) | 3:17 | 2021-10-22 | 2022-11-13 |
 | [Rushing Water](https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Rushing Water](https://open.spotify.com/album/4gqzoPUB5hRX7NC6r1uE5P) | 3:17 | 2021-10-22 | 2022-07-29 |
@@ -85,6 +85,7 @@
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb) | 3:37 | 2021-10-22 | 2022-03-26 |
 | [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 | 2021-10-22 |  |
 | [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 | 2023-04-28 |  |
+| [Whatever She Wants](https://open.spotify.com/track/658sx2DDcxQFawG7EELEpC) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Whatever She Wants](https://open.spotify.com/album/3iAI36xSp4CxNOuddYICXX) | 3:02 | 2023-05-05 |  |
 | [When You Danced With Me](https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 2:50 | 2021-11-05 |  |
 | [Where Is Our Love Song \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/7d41wCresuSZFzFh2VRnd2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Where Is Our Love Song](https://open.spotify.com/album/3rgaqrCj7z4EdOwuDTTjBi) | 3:37 | 2021-10-22 | 2022-08-13 |
 | [Why Can't We Live Together](https://open.spotify.com/track/7fjju295nRrFMwK7bunuEL) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Why Can't We Live Together](https://open.spotify.com/album/3fGr7K47n7t7OYckvx3gpr) | 3:44 | 2023-03-17 |  |

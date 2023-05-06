@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Gettin' figgy with it, bana\-na\-na\-nanana
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,097 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,550 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 99 | [Don't Mess With My Man \(feat\. Brian Casey & Brandon Casey\)](https://open.spotify.com/track/39YovPslPCXbFYhlYjsZ2Y) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Brian Casey](https://open.spotify.com/artist/1Zgn8DDi8ema6uKufbQOdG), [Brandon Casey](https://open.spotify.com/artist/6pw5ePxlLPN87ikxsFHsvZ) | [Nivea](https://open.spotify.com/album/6tXzTKfHd9fR1OPsvstxVt) | 3:33 |
 | 100 | [Church \(feat\. EARTHGANG\)](https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Church \(feat\. EARTHGANG\)](https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN) | 3:48 |
 
-Snapshot ID: `MCw1MTM0ZWNiMjJiZjAxM2YwNDIzNzU4ZTE5NTIxZWJmOTI2M2VhZTIw`
+Snapshot ID: `MCwyODUyNWIyYjk1MGZiYTI1NmZmMDNjNDZkMzU2YTAyZjE2NGJmMjlk`

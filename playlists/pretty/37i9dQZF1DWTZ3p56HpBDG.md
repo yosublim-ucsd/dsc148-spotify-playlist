@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 ### [No Borders](https://open.spotify.com/playlist/37i9dQZF1DWTZ3p56HpBDG)
 
-> Best of South Asian diaspora\. Cover: Riz Ahmed
+> Best of South Asian diaspora\. Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,522 likes - 36 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,559 likes - 36 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
-| 2 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 |
-| 3 | [Neeye Oli](https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Made in Jaffna](https://open.spotify.com/album/4fzYyzg0c0c6pFXHOnCVjO) | 3:57 |
-| 4 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 |
-| 5 | [Victoire](https://open.spotify.com/track/2TfhosU0uZ3XRY7b3y4lnC) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Cloud](https://open.spotify.com/album/217M10Fi7Xd6PtIYx5cU1Q) | 2:49 |
-| 6 | [Ghazab Kiya](https://open.spotify.com/track/6x87ncNAvRpLgglWXO67FW) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Ghazab Kiya](https://open.spotify.com/album/4BrDfbyfW3AcWDVTiW752e) | 3:26 |
-| 7 | [Deal With It](https://open.spotify.com/track/48iyEjHqc399GIvhbWCDaz) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/4hBcCJ6y6uLtVPJ4l2xpL5) | 2:32 |
-| 8 | [WORKING](https://open.spotify.com/track/5e49oiBAVNGKsBdPPJmRe0) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Jide](https://open.spotify.com/artist/6gPZR4HMlqsGRErOrM8dxw) | [WORKING](https://open.spotify.com/album/2QiFmcNRCeA4gVpEeCHlJE) | 2:37 |
-| 9 | [Good Luck](https://open.spotify.com/track/6IVsYkP3RWt3AwMeHOgDFF) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 2:15 |
-| 10 | [Stunnin' \(feat\. Harm Franklin\)](https://open.spotify.com/track/2JSmxLqt8h7ZpJJkfuLJvK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Pity Party](https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD) | 2:24 |
-| 11 | [Santa Maria](https://open.spotify.com/track/5MiD1d6C7EXxadJwekOudc) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Approved](https://open.spotify.com/album/1bV0yl7ESEK6bnIUS0vIuu) | 2:48 |
-| 12 | [You Can Go](https://open.spotify.com/track/6f9wRfuZL9HrFuILn1Hn2S) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Last Flight Out](https://open.spotify.com/album/5nZHw2JJImX1LNcaivVEBR) | 2:22 |
-| 13 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 |
+| 1 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 |
+| 2 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
+| 3 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 |
+| 4 | [Neeye Oli](https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Made in Jaffna](https://open.spotify.com/album/4fzYyzg0c0c6pFXHOnCVjO) | 3:57 |
+| 5 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 |
+| 6 | [Victoire](https://open.spotify.com/track/2TfhosU0uZ3XRY7b3y4lnC) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Cloud](https://open.spotify.com/album/217M10Fi7Xd6PtIYx5cU1Q) | 2:49 |
+| 7 | [Ghazab Kiya](https://open.spotify.com/track/6x87ncNAvRpLgglWXO67FW) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Ghazab Kiya](https://open.spotify.com/album/4BrDfbyfW3AcWDVTiW752e) | 3:26 |
+| 8 | [Deal With It](https://open.spotify.com/track/48iyEjHqc399GIvhbWCDaz) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/4hBcCJ6y6uLtVPJ4l2xpL5) | 2:32 |
+| 9 | [WORKING](https://open.spotify.com/track/5e49oiBAVNGKsBdPPJmRe0) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Jide](https://open.spotify.com/artist/6gPZR4HMlqsGRErOrM8dxw) | [WORKING](https://open.spotify.com/album/2QiFmcNRCeA4gVpEeCHlJE) | 2:37 |
+| 10 | [Good Luck](https://open.spotify.com/track/6IVsYkP3RWt3AwMeHOgDFF) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 2:15 |
+| 11 | [Stunnin' \(feat\. Harm Franklin\)](https://open.spotify.com/track/2JSmxLqt8h7ZpJJkfuLJvK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Pity Party](https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD) | 2:24 |
+| 12 | [Santa Maria](https://open.spotify.com/track/5MiD1d6C7EXxadJwekOudc) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Approved](https://open.spotify.com/album/1bV0yl7ESEK6bnIUS0vIuu) | 2:48 |
+| 13 | [You Can Go](https://open.spotify.com/track/6f9wRfuZL9HrFuILn1Hn2S) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Last Flight Out](https://open.spotify.com/album/5nZHw2JJImX1LNcaivVEBR) | 2:22 |
 | 14 | [Lavender](https://open.spotify.com/track/4b5XMjALLKtcTgruHMctTY) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Lavender](https://open.spotify.com/album/5RvpleoNOyvit0U1G2XDM7) | 3:08 |
 | 15 | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/track/6xzQ1uSk2Rzz6Xdf8xBnWn) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/album/1grQXv1qJbhubOAYEeIOW6) | 3:47 |
 | 16 | [Satisfy](https://open.spotify.com/track/0EWUew0pxdYClLrBIRDu3x) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [In Transit](https://open.spotify.com/album/3Hpduk2uMFN021IlWCjgFJ) | 3:00 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 35 | [Honey Bee](https://open.spotify.com/track/1s2eSfchKBG6NIWpwL6x5B) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/72HabOyINqSkT0YSQ1Pdtv) | 3:39 |
 | 36 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
 
-Snapshot ID: `MCw4YjJiNGYwMjUyNDYxNzY3N2VhMmJhY2Y5YzZmZTM4ZDVkMjg2NWI0`
+Snapshot ID: `MCw3OTRjYjAyNjliODUzOWZiMTRkZWRjNTQxODQ0ZDI5NmIyMmE0NjE1`

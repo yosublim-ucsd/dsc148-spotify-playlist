@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,087 likes - 140 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,078 likes - 140 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 139 | [Noel \- Live](https://open.spotify.com/track/5eMK2CHhWtufXfNrA6FgpG) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:17 |
 | 140 | [O Holy Night \- Live](https://open.spotify.com/track/4mBR7vdP33yfR2w4y3pKHR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 4:19 |
 
-Snapshot ID: `MCxkZGExYzgyNTA5NDE1MDMwYjcyYzBkZTY3ZmU1ODFhMjY1NzJlNDZk`
+Snapshot ID: `MCxlMDQwYjAwYzgzYTZhMzA0NjU4ZjA2ZTVhM2Y0OTc3ODEyNTUxZjM2`

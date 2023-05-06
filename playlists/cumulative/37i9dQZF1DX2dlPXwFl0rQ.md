@@ -2,9 +2,9 @@
 
 ### [Mujeres Bravías](https://open.spotify.com/playlist/37i9dQZF1DX2dlPXwFl0rQ)
 
-> Estas son las indomables del Regional Mexicano\. Chiquis en portada.
+> Estas son las indomables del Regional Mexicano\. Ana Bárbara en portada.
 
-265 songs - 14 hr 17 min
+266 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 | 2022-07-29 |  |
 | [Mujer Normal](https://open.spotify.com/track/726IaUmpXvHvGNih6GHd6W) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Mujer Normal](https://open.spotify.com/album/2rfYNpxBcb7EcSIEdkwTrw) | 3:21 | 2023-01-20 | 2023-03-09 |
 | [Nadie Me Verá Llorar](https://open.spotify.com/track/0iQBxjQzHmyHEt4nBfGmsQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Nadie Me Verá Llorar](https://open.spotify.com/album/62cOOnQ3t3QDqKg12E7L8C) | 3:06 | 2022-04-29 | 2023-02-25 |
-| [Ni Diabla Ni Santa](https://open.spotify.com/track/1NncWv7T19isafndpzddUd) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Ni Diabla Ni Santa](https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr) | 2:48 | 2022-09-23 |  |
+| [Ni Diabla Ni Santa](https://open.spotify.com/track/1NncWv7T19isafndpzddUd) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Ni Diabla Ni Santa](https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr) | 2:48 | 2022-09-23 | 2023-05-06 |
 | [Ni Dios Lo Quiera](https://open.spotify.com/track/2YSFeITUSjryNJA9ERQMMP) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/5dR2k3sOy7X9OQ56o3EluT) | 3:03 | 2021-12-17 | 2022-03-16 |
 | [Ni Una Mas](https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Ni Una Mas](https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W) | 2:41 | 2022-01-28 | 2022-03-14 |
 | [Ningún Pero](https://open.spotify.com/track/34drpn3wwgOnotfh6BHxEb) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ningún Pero](https://open.spotify.com/album/3K5b9SrlpBbPE55TARnzOH) | 3:09 | 2022-12-09 | 2023-01-21 |
@@ -189,6 +189,7 @@
 | [Porque Me Extrañas](https://open.spotify.com/track/4xMfXBXs3bpacJNWrGaA9R) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Porque Me Extrañas](https://open.spotify.com/album/4QACN6feUpJlOoaubdVfV7) | 2:37 | 2021-12-17 | 2022-02-10 |
 | [Porque Me Sabes Querer](https://open.spotify.com/track/3XTggCtNo5eeMgjy4BgpBk) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Porque Me Sabes Querer](https://open.spotify.com/album/6iaj4eF6KuCyBrJXFzdOem) | 3:13 | 2022-09-23 |  |
 | [Porque Soy Abeja Reina](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 | 2023-01-20 |  |
+| [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 | 2023-05-05 |  |
 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 | 2021-12-17 | 2022-05-07 |
 | [Que Poca](https://open.spotify.com/track/0JQO9eCZDOTcUkXz7FfRQO) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Que Poca](https://open.spotify.com/album/0XQF6UKQVn168OYRJfNoL5) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [Que Poca](https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:09 | 2022-09-23 |  |

@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-739 songs - 1 day 14 hr 51 min
+743 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 | 2020-05-09 | 2023-05-03 |
 | [Dreaming \- Ethereal Piano](https://open.spotify.com/track/0MvigYTSmsu7AZxiLqNOCH) | [Celinia](https://open.spotify.com/artist/6FRBsqFVmuqnPj7qu9AqSk) | [Dreaming \- Ethereal Piano](https://open.spotify.com/album/0pEooqn17vDTrbXyu9kYHS) | 3:05 | 2020-07-11 | 2023-01-07 |
 | [Dreaming Deeper](https://open.spotify.com/track/4KPRqt53xnT2Hs2rDGKiRu) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Dreaming Sessions](https://open.spotify.com/album/46II2E9jn1lDdklpYBM1CT) | 3:43 | 2019-05-26\* | 2023-01-07 |
+| [Dreaming Stardust](https://open.spotify.com/track/0qYOvZK1cPFq3TtZLMXwXN) | [Glow Crow](https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI) | [I feel it I know it](https://open.spotify.com/album/7bWxPucoQiYYbNiVUvogNk) | 3:20 | 2023-05-05 |  |
 | [Dreams Dissolving](https://open.spotify.com/track/0MQm7MYFD4ZBocFv0AgS5L) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Dreams Dissolving](https://open.spotify.com/album/73926xAqHitMvOSKVjFd0D) | 2:56 | 2022-01-19 |  |
 | [Dreams Of Another Reality](https://open.spotify.com/track/6e21HGKZqkwYjddfKCnstu) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a) | 3:10 | 2019-05-26\* | 2020-01-03 |
 | [Drifting Tides](https://open.spotify.com/track/7K0Rphw24dhliYMbiyo1n9) | [El Ambiente](https://open.spotify.com/artist/65DwviFYxUr0wAh3Du1y2J) | [Drifting Tides](https://open.spotify.com/album/1pOieHfV7KG6ix7EIJAXd6) | 3:27 | 2023-02-03 |  |
@@ -331,6 +332,7 @@
 | [Humilis Cicer](https://open.spotify.com/track/1sYKMOqw4fgn8jlHrlodmU) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Humilis Cicer](https://open.spotify.com/album/4kJNPj1cyLiE3ux4LjhIgI) | 2:54 | 2019-07-27 | 2023-04-07 |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2019-05-26\* | 2021-09-14 |
 | [Hvis du bare vidste](https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL) | [Silas Mathiasen](https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5) | [Hvis du bare vidste](https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk) | 2:42 | 2020-07-11 |  |
+| [I feel it I know it](https://open.spotify.com/track/7q61dvdXaJ2sWipMrh4wiE) | [Glow Crow](https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI) | [I feel it I know it](https://open.spotify.com/album/7bWxPucoQiYYbNiVUvogNk) | 3:22 | 2023-05-05 |  |
 | [I Know You're Here](https://open.spotify.com/track/15IzXs0Oln8qBHIJUYLSzM) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Presence](https://open.spotify.com/album/6IgFlUlufatumAUT9b9w3l) | 3:25 | 2019-05-26\* | 2020-07-11 |
 | [I Will Carry You](https://open.spotify.com/track/03atDG2j0uoUFIanUel5Ae) | [Ruth Mountain](https://open.spotify.com/artist/7erlZkwZDiF5P7f1gXPxxD) | [I Will Carry You](https://open.spotify.com/album/4KTtx77JVSG8TAmLv47Mte) | 3:15 | 2021-02-18 |  |
 | [Illusionist](https://open.spotify.com/track/6wnhGsrGb5UlbPLebsCb25) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 1](https://open.spotify.com/album/7Gig1E35PHUzCtBrjJJ6xy) | 2:55 | 2022-06-16 |  |
@@ -405,6 +407,7 @@
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2019-07-27 | 2023-01-07 |
 | [Magic](https://open.spotify.com/track/1CnxuoUdFLe5owHXJjJVQw) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Counting Sheep](https://open.spotify.com/album/2e0oxaz5R2xkHcvyCy9eEH) | 2:29 | 2020-05-09 | 2021-12-18 |
 | [Maha](https://open.spotify.com/track/101yM8CCgt951q8cjslUOP) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Tao](https://open.spotify.com/album/3eHnIz0wPAyWWxvakws2rO) | 3:28 | 2019-05-26\* | 2021-09-14 |
+| [Mahabharata](https://open.spotify.com/track/5X5nxaIGTBD83D93pqAjcr) | [Mellow Line](https://open.spotify.com/artist/04VbUIBiU4FPdTGp83ATXB) | [Mahabharata](https://open.spotify.com/album/7vTm9nMF9IlpmnL18EQ1jo) | 2:58 | 2023-05-05 |  |
 | [Mars](https://open.spotify.com/track/2hqrlnqY2lbaRRsc7SM2cU) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Mars](https://open.spotify.com/album/28gs93hKCxdd7r6amWFIXX) | 2:27 | 2019-05-26\* | 2020-01-03 |
 | [Mayor Eléctrico](https://open.spotify.com/track/2m4uep4xTPOg8NTv6RtZyJ) | [Nait](https://open.spotify.com/artist/45XwPTweTKUqmRfCkuGzCs) | [NAIT](https://open.spotify.com/album/1sTfSpdRjN1B4JGRkugZej) | 1:36 | 2019-07-12 | 2020-07-11 |
 | [Meaning](https://open.spotify.com/track/1M2bdpwWkekhMWIlVFmd3e) | [Arpeggiated Motives](https://open.spotify.com/artist/2vJaUyXZAIBV2sKiznI4kH) | [First Temple](https://open.spotify.com/album/2gzsnt28uMDKwAnSle9veo) | 3:39 | 2020-08-08 | 2021-09-14 |
@@ -501,6 +504,7 @@
 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 | 2019-07-11 | 2022-09-15 |
 | [Pines](https://open.spotify.com/track/64y6Sje1cgvOg83Z9JGiCc) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:45 | 2019-05-26\* | 2020-07-11 |
 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2020-01-03 | 2023-05-03 |
+| [Poetica](https://open.spotify.com/track/5cNTgIYnVw6EqnUtP9LRh3) | [Amber Twilight](https://open.spotify.com/artist/2YihGzUlFb7MxHElA2IZDd) | [Poetica](https://open.spotify.com/album/6tY2cnaWuNe8NGNqVC5rpU) | 2:51 | 2023-05-05 |  |
 | [Polar Drone](https://open.spotify.com/track/6SxcRJNPDlwiciVkzxu0oC) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Drones](https://open.spotify.com/album/0aB0sdg1xr6Yr8K2AVhaYy) | 3:35 | 2019-05-26\* | 2022-08-24 |
 | [Polaris](https://open.spotify.com/track/15Q4tq0gvEelMr40CeBClA) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Polaris](https://open.spotify.com/album/1O4hCDZOcxLITrYIocKgdt) | 3:28 | 2020-10-27 |  |
 | [Pompeiana](https://open.spotify.com/track/6aiNDJMuzHwomOHCjIxIgq) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Pompeiana](https://open.spotify.com/album/69U97EpbUG2vn9pAn0IoGH) | 2:55 | 2022-07-11 |  |

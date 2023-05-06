@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:5OoHiZhOXBrB73x6TixINe">Kerstin Ljungstrom</a>,  <a href="spotify:playlist:37i9dQZF1EFFaNIqhJxmrd">Fanny Hultman</a> + <a href="spotify:artist:7eCmccnRwPmRnWPw61x6jM">Shy Martin</a>.
 
-597 songs - 1 day 8 hr 58 min
+598 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [CHILDREN OF THE SON](https://open.spotify.com/track/1ogERapvhNPt4wZCx0Ac87) | [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w), [Brielle](https://open.spotify.com/artist/2iNiSOXG7MjwwwypRYxCtR) | [Groove Theory, Vol\. 1](https://open.spotify.com/album/1Z2wosTCeeh4tcYeLjBJF5) | 4:14 | 2021-12-08 | 2022-01-06 |
 | [Chosen](https://open.spotify.com/track/1Afkb5r8LZ6WESWZM0LUQ9) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 4:35 | 2021-12-09 | 2022-01-06 |
 | [Citrine](https://open.spotify.com/track/6c75l5YqH6zvcfz5wu0Ra7) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK), [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [Citrine](https://open.spotify.com/album/3eEPF2kp86ZxOsCahl70lw) | 2:30 | 2023-02-01 | 2023-03-02 |
+| [Closer](https://open.spotify.com/track/5v2HlTA9HGIp97umphPlKP) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Closer](https://open.spotify.com/album/1S5c3aXnTcoAFFhGQ4FrTX) | 2:52 | 2023-05-05 |  |
 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 | 2023-02-01 | 2023-03-02 |
 | [Cold Lips \(So Wylie Remix\)](https://open.spotify.com/track/0TIP85NV9IDthxUs28sBd5) | [MASUMI](https://open.spotify.com/artist/3Mgv0bbH3V7s7c3ddUyC1y), [So Wylie](https://open.spotify.com/artist/0O66QHPs08luarCKRfo5ys) | [Cold Lips \(So Wylie Remix\)](https://open.spotify.com/album/4VQg6KInMBAGlYZXwpbVrE) | 2:50 | 2022-01-05 | 2023-01-05 |
 | [Collapsed In Sunbeams](https://open.spotify.com/track/6mX9vCy6Mie9QBlSpa7AGp) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 0:54 | 2022-11-09 | 2022-12-01 |
@@ -380,7 +381,7 @@
 | [Missing Out](https://open.spotify.com/track/4Fbo7DDWTiYJGtfaB3jrnr) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:59 | 2022-05-04 | 2022-06-01 |
 | [Misuse Oh](https://open.spotify.com/track/4ceYoSkxbt9ALe5vTxBR3B) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Carpet Bed EP](https://open.spotify.com/album/4pX1lVZftqOyT77W2ePFym) | 3:07 | 2023-01-04 | 2023-02-02 |
 | [Moment](https://open.spotify.com/track/2sbcVWdhUogW1bt0Iv2GKf) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [The Mirror Talk EP](https://open.spotify.com/album/5iVjJgRq6O9s0VguOtHFox) | 2:58 | 2022-09-07 | 2022-10-06 |
-| [Monster](https://open.spotify.com/track/5EBqNVcx1sVCiuTLspkUU4) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Monster](https://open.spotify.com/album/1F1S2u5t7qlco3ljhDLQFj) | 3:50 | 2023-05-03 |  |
+| [Monster](https://open.spotify.com/track/5EBqNVcx1sVCiuTLspkUU4) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Monster](https://open.spotify.com/album/1F1S2u5t7qlco3ljhDLQFj) | 3:50 | 2023-05-03 | 2023-05-06 |
 | [Moody](https://open.spotify.com/track/1W1Ut3GZQaKtw3pSJQ7s3j) | [Alina Smith](https://open.spotify.com/artist/0yRUDVI598cLXxDpzn9TY8) | [Moody](https://open.spotify.com/album/1oijunUCCMRCC7tmPVk5sa) | 3:15 | 2022-04-06 | 2022-05-05 |
 | [Mosquito](https://open.spotify.com/track/3sUH6Y47a4g1hh7BelByjh) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [NY to FL](https://open.spotify.com/album/0PoX7E9w2VM0AykBU1bn9S) | 3:16 | 2022-01-05 | 2022-02-03 |
 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 | 2023-04-05 | 2023-05-04 |

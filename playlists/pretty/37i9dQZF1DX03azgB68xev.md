@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,937 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,976 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [Walk Away](https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Walk Away](https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug) | 3:29 |
 | 80 | [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 |
 
-Snapshot ID: `MCxjMGMxMjBmNjc2MmRiZTU1YjdkNTIwMzBlYTM5MTZmYmI4NTI1NmU1`
+Snapshot ID: `MCxmYzI1ZmU1YWI5NDc1ZWYxYTQ5YjY0OTY0ZDEyMDU1M2Y4OWRkMjU4`

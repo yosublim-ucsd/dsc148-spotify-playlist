@@ -1441,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "MozartReworked",
+        "url": "https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391360,
+      "name": "Fantasia in D Minor, K. 397",
+      "url": "https://open.spotify.com/track/3HbztGS3c2ZUY9z7ZmDKTr"
+    },
+    {
+      "album": {
         "name": "Relaxing Classics",
         "url": "https://open.spotify.com/album/15ySNjCbDjE89Xq7gl9l7f"
       },
@@ -2919,6 +2941,28 @@
     },
     {
       "album": {
+        "name": "Merry Christmas, Mr. Lawrence",
+        "url": "https://open.spotify.com/album/7fYm3zSkPgxSF8LSxHiKQt"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Pablo Sainz Villegas",
+          "url": "https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343520,
+      "name": "Merry Christmas, Mr. Lawrence",
+      "url": "https://open.spotify.com/track/4PBWzpbH1qM7w2497XfkVk"
+    },
+    {
+      "album": {
         "name": "Mia (Solo Piano Version)",
         "url": "https://open.spotify.com/album/7MKcfhPJMlchtnRSlyoRrx"
       },
@@ -3076,6 +3120,36 @@
       "duration_ms": 120480,
       "name": "Musica callada I Angelico",
       "url": "https://open.spotify.com/track/659hxuqutVn4k51rgTJPxb"
+    },
+    {
+      "album": {
+        "name": "Naruto: Alone Theme",
+        "url": "https://open.spotify.com/album/5idXBK7HISXS4p353XlrCf"
+      },
+      "artists": [
+        {
+          "name": "Toshio Masuda",
+          "url": "https://open.spotify.com/artist/78JmbZfna6DOfhSoxccZZw"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98083,
+      "name": "Naruto: Alone Theme",
+      "url": "https://open.spotify.com/track/7iV3JqPBRtXEFka2Uhh9Uj"
     },
     {
       "album": {
@@ -3622,6 +3696,24 @@
       "duration_ms": 428066,
       "name": "Pavane, Op. 50 (Arr. for Saxophone and Orchestra)",
       "url": "https://open.spotify.com/track/4GmlHDCTQdcFfnpTPcytRj"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142402,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6r149zapbSHwCxJUoh0aLD"
     },
     {
       "album": {
@@ -5420,6 +5512,24 @@
       "duration_ms": 191610,
       "name": "Together At Last",
       "url": "https://open.spotify.com/track/2xEVhZew6VihAm4buanz2P"
+    },
+    {
+      "album": {
+        "name": "Tranquillant",
+        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Tranquillant",
+      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
     },
     {
       "album": {

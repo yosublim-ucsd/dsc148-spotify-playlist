@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,866 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,912 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 79 | [Beirut](https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [A Slice of'' Heaven'' EP](https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA) | 7:27 |
 | 80 | [Shift II \- Original Mix](https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Shift I \- II](https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX) | 5:56 |
 
-Snapshot ID: `MCxiYzk1NTQwYmE1YjA1M2MzYmM2NzU2MzcxN2NlZTk1NWFhOTYxNzgz`
+Snapshot ID: `MCw1OGE3ZWZkZjdkZTFlMDI1ZDQ5OGFiYjRjOGJmODE2MjlhN2M5NzU5`

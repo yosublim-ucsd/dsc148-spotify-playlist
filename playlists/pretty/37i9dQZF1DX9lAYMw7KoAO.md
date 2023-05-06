@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"> Victor Thompson </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,715 likes - 80 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,743 likes - 80 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Na Your Hand](https://open.spotify.com/track/4of2lvm7dopjHj5NoELI5O) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Na Your Hand](https://open.spotify.com/album/0m1pNqZhVWVwJOWAoWP9mC) | 12:37 |
 | 2 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |
-| 3 | [THIS YEAR \(Blessings\) \- North African Remix](https://open.spotify.com/track/6lsj28Ac7tqZUpILTwMfbs) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[North African Remix\]](https://open.spotify.com/album/5fGAs374BFHuzbA7rzfGyM) | 2:09 |
+| 3 | [THIS YEAR \(Blessings\) \- North African Remix](https://open.spotify.com/track/6lsj28Ac7tqZUpILTwMfbs) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[North African Remix\]](https://open.spotify.com/album/5fGAs374BFHuzbA7rzfGyM) | 2:03 |
 | 4 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 5 | [Zion \(Gbe\)](https://open.spotify.com/track/57p3KH8I42tHFBVrQwtjlw) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Zion \(Gbe\)](https://open.spotify.com/album/2P685NkylY7hPjlsD30EBZ) | 2:44 |
 | 6 | [Better Days](https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Better Days](https://open.spotify.com/album/1Dzyn3q1FPDHMafFv3Slq9) | 3:03 |
 | 7 | [Oba Ni Jesu \(Live\)](https://open.spotify.com/track/44I8QDtWqhVlmhqXhjJ8JH) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Oba Ni Jesu \(Live\)](https://open.spotify.com/album/2mQ483LxOmlD7ext2P1fg9) | 21:02 |
 | 8 | [Your Love](https://open.spotify.com/track/6a8G6scqUjGIrRCArFRNYP) | [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Your Love](https://open.spotify.com/album/7mtDmT2RFhPb8DP9qNUiNU) | 3:01 |
 | 9 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
-| 10 | [Basheshe Bahleke](https://open.spotify.com/track/32PnVMQXGPHviFa7T4qRct) | [Deborah Fraser](https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ) | [Basheshe Bahleka](https://open.spotify.com/album/4tU5X737hd9Kr8wYEa4JTw) | 4:18 |
+| 10 | [Basheshe Bahleke](https://open.spotify.com/track/32PnVMQXGPHviFa7T4qRct) | [Deborah Fraser](https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ) | [Basheshe Bahleke](https://open.spotify.com/album/4tU5X737hd9Kr8wYEa4JTw) | 4:18 |
 | 11 | [Imela](https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:24 |
 | 12 | [Pole Pole](https://open.spotify.com/track/36KpEwMZI8ZC59o1bp13Ai) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [Called Out Music](https://open.spotify.com/artist/0o01yhGXCY0kN3RGmDFlVi) | [POLE POLE](https://open.spotify.com/album/3VtEo5wRsLOOUhzcBmntLD) | 3:28 |
 | 13 | [VICTORY DANCE](https://open.spotify.com/track/0bRt230xIYDhNJ6fC1voSt) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [VICTORY DANCE](https://open.spotify.com/album/4HOinc1ltZLvIjmHlA2E2M) | 9:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 79 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 |
 | 80 | [You Are \(Live\)](https://open.spotify.com/track/5DOe949J5w1cD7WvxChUwA) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Your Kingdom on Earth \(Live\)](https://open.spotify.com/album/0TYTdff6CTiivlJ13wHFfI) | 6:37 |
 
-Snapshot ID: `MCwwMDhhYjY2OGZhZjg3ODliY2Q4ZWE2NTI0ZTZlYWEyYzM1NGY2NjQw`
+Snapshot ID: `MCxjZDNlYTQzM2VhMDAwZDkzNzNkMmMwZTMyYTRlOWU4MGRiZDRhZGI3`

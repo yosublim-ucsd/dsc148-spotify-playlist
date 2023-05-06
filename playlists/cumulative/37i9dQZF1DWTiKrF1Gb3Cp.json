@@ -99,6 +99,32 @@
     },
     {
       "album": {
+        "name": "Al Mill\u00f3n",
+        "url": "https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0"
+      },
+      "artists": [
+        {
+          "name": "El Burger",
+          "url": "https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT"
+        },
+        {
+          "name": "Razeth",
+          "url": "https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n"
+        },
+        {
+          "name": "Alann Mora",
+          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138028,
+      "name": "Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z"
+    },
+    {
+      "album": {
         "name": "Aleman: Bzrp Music Sessions, Vol. 15",
         "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
       },
@@ -118,6 +144,24 @@
       "duration_ms": 174178,
       "name": "Aleman: Bzrp Music Sessions, Vol. 15",
       "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
+    },
+    {
+      "album": {
+        "name": "aPoLLo13",
+        "url": "https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160547,
+      "name": "aPoLLo13",
+      "url": "https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4"
     },
     {
       "album": {
@@ -252,7 +296,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 238210,
       "name": "Corren Con Suerte",
       "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
@@ -612,7 +656,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
@@ -652,6 +696,36 @@
       "duration_ms": 195840,
       "name": "Fantas\u00eda Espacial",
       "url": "https://open.spotify.com/track/7sw0eBhRmEDTvU22MYEjoG"
+    },
+    {
+      "album": {
+        "name": "FCK Love",
+        "url": "https://open.spotify.com/album/2H1rKPlSCrQREG1o52hvAj"
+      },
+      "artists": [
+        {
+          "name": "Fenix The Producer",
+          "url": "https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261186,
+      "name": "FCK Love",
+      "url": "https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB"
     },
     {
       "album": {
@@ -1196,10 +1270,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 227495,
       "name": "Pa Los Barrios Y Las Clikas",
       "url": "https://open.spotify.com/track/722FnPcAf2KnbXzdokciiz"
+    },
+    {
+      "album": {
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "album": {
@@ -1458,7 +1550,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 229251,
       "name": "Sabadrugs",
       "url": "https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5"
@@ -1498,6 +1590,36 @@
       "duration_ms": 252923,
       "name": "Se Rumora",
       "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
+    },
+    {
+      "album": {
+        "name": "Sentosa",
+        "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151594,
+      "name": "Sentosa",
+      "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
     },
     {
       "album": {
@@ -1778,7 +1900,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 196235,
       "name": "WARZONE FREESTYLE",
       "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"

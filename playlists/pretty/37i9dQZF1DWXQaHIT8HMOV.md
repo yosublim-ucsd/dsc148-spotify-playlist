@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,469 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 40 | [Sikwebela](https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA) | [MC Yallah](https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg), [Debmaster](https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl) | [Sikwebela](https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe) | 2:29 |
 | 41 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 |
 | 42 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 |
-| 43 | [Bega Bega](https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bega Bega](https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9) | 2:52 |
-| 44 | [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 |
-| 45 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
-| 46 | [Plan Ki](https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Plan Ki](https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN) | 3:14 |
+| 43 | [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 |
+| 44 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
+| 45 | [Plan Ki](https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Plan Ki](https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN) | 3:14 |
+| 46 | [Saving My Love](https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Saving My Love](https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg) | 3:18 |
 | 47 | [Byowaba](https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Byowaba](https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x) | 3:44 |
-| 48 | [Saving My Love](https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Saving My Love](https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg) | 3:18 |
+| 48 | [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 |
 | 49 | [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 |
-| 50 | [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 |
+| 50 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 |
 
-Snapshot ID: `MCxlYTc5OGNkY2JhNGI0MzZlMzQ1ZTM2OWE4MGFmZGE2NDVmNWY3MWYw`
+Snapshot ID: `MCxkY2Q3YWVkM2VlNzE4NTJiYjE3OWE5OTIwOTkyOTNmZWMxYWQ4NmVl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Yussef Dayes",
+  "description": "New jazz for open minds. Cover: Butcher Brown",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 370456,
       "name": "Black Heroes",
       "url": "https://open.spotify.com/track/2Rkk6jgH8P7ae6UDjALEGF"
@@ -4261,6 +4261,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Believe The Dancers",
+        "url": "https://open.spotify.com/album/0yKgERY2W7gXxylEYNCe7H"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/7j5X9nl8nG6sQAIX2GOlmq"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176937,
+      "name": "Don\u2019t Believe The Dancers",
+      "url": "https://open.spotify.com/track/4l9tu2beBs4QXeyZ9v9koq"
+    },
+    {
+      "album": {
         "name": "Universal Language",
         "url": "https://open.spotify.com/album/5NerkQCeXbV9phVaKSi85K"
       },
@@ -5860,7 +5882,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 382122,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/5T1NTaINxEWzvXCUE3Wz0S"
@@ -6306,6 +6328,32 @@
       "duration_ms": 402195,
       "name": "Grand Mesa",
       "url": "https://open.spotify.com/track/5XgKmvuYSEkXwPJ3a0LbIJ"
+    },
+    {
+      "album": {
+        "name": "Greens",
+        "url": "https://open.spotify.com/album/3lanaM3Gp8H70az2FR1TI8"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Omar Sosa",
+          "url": "https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX"
+        },
+        {
+          "name": "Kokayi",
+          "url": "https://open.spotify.com/artist/2AyMC7HowLT6ULLdKwJSZ2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283133,
+      "name": "Greens",
+      "url": "https://open.spotify.com/track/2Y0sTNWD4FapzWvS5RW78a"
     },
     {
       "album": {
@@ -7200,6 +7248,44 @@
       "duration_ms": 200065,
       "name": "I Don't Wanna Think About Ants",
       "url": "https://open.spotify.com/track/33x1xc6rm9nZYzXBsMR21G"
+    },
+    {
+      "album": {
+        "name": "I Got It Bad (And That Ain't Good)",
+        "url": "https://open.spotify.com/album/59I04ZfQXvABeo3Q99ZjP0"
+      },
+      "artists": [
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        },
+        {
+          "name": "Kenneka Cook",
+          "url": "https://open.spotify.com/artist/1SdMrNeKvyntOu9edUG4Zo"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        },
+        {
+          "name": "Tennishu",
+          "url": "https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg"
+        },
+        {
+          "name": "R4nd4zzo",
+          "url": "https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253747,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP"
     },
     {
       "album": {
@@ -8961,6 +9047,24 @@
     },
     {
       "album": {
+        "name": "Lights Away from Home",
+        "url": "https://open.spotify.com/album/3kGTTuz6VveX3AibqUxsHJ"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291891,
+      "name": "Lights Away from Home",
+      "url": "https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v"
+    },
+    {
+      "album": {
         "name": "Like Him",
         "url": "https://open.spotify.com/album/68WPYZbyg71tCq3mfsjbQZ"
       },
@@ -10449,6 +10553,28 @@
     },
     {
       "album": {
+        "name": "Moradas",
+        "url": "https://open.spotify.com/album/3beTlXv1QDKfIs2IKMEvMx"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Frank Carlberg",
+          "url": "https://open.spotify.com/artist/70vlidktezpl3h9TTZpqPe"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433493,
+      "name": "Moradas",
+      "url": "https://open.spotify.com/track/6setBDWQ0ErSwch2UG0pSS"
+    },
+    {
+      "album": {
         "name": "Morse Code",
         "url": "https://open.spotify.com/album/3IfDOB3CQ0a2CJt8iXrBVy"
       },
@@ -11368,7 +11494,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 338977,
       "name": "Oakland",
       "url": "https://open.spotify.com/track/12JtmOiSDB5YrXKWbGf7Ir"
@@ -11843,6 +11969,36 @@
     },
     {
       "album": {
+        "name": "Parenthesis",
+        "url": "https://open.spotify.com/album/1EH5BGZgv7HZKylJhYTcgX"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Realistic Orchestra",
+          "url": "https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Dan Neville",
+          "url": "https://open.spotify.com/artist/1ZQRr38THQnqgnLDZ9o9mJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347551,
+      "name": "Parenthesis",
+      "url": "https://open.spotify.com/track/3X4lYXX8q8D0vYcKG76Sah"
+    },
+    {
+      "album": {
         "name": "Loyal Returns",
         "url": "https://open.spotify.com/album/0PkAPv6e4SjbiM2qHSlSlo"
       },
@@ -11894,7 +12050,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 368232,
       "name": "Pash Rash",
       "url": "https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78"
@@ -11945,6 +12101,24 @@
     },
     {
       "album": {
+        "name": "Butcher Brown Presents Triple Trey (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6l824oPUhxCMIOkvK2ipdX"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369808,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/3fvPQZN1ryptWYiLHXI6J7"
+    },
+    {
+      "album": {
         "name": "Peace Invocation",
         "url": "https://open.spotify.com/album/5ay3DrmpMp92GnLugHxScM"
       },
@@ -11982,6 +12156,24 @@
       "duration_ms": 88016,
       "name": "Peace Please",
       "url": "https://open.spotify.com/track/3ff3uqKr2Yqx6nIXH6ZvMC"
+    },
+    {
+      "album": {
+        "name": "People's Park",
+        "url": "https://open.spotify.com/album/2iK6a5RnzYAys4Q1E2GgxN"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade & The Fellowship Band",
+          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323095,
+      "name": "People's Park",
+      "url": "https://open.spotify.com/track/4uJ2oLeiz6XuxVSvNpUf6d"
     },
     {
       "album": {
@@ -13690,7 +13882,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 221015,
       "name": "Sex, Drugs and Chocolate",
       "url": "https://open.spotify.com/track/1Pc911HasdIOeIEJ3q2PmR"
@@ -14091,6 +14283,24 @@
     },
     {
       "album": {
+        "name": "Sky",
+        "url": "https://open.spotify.com/album/6p8sF3aFRqLzasMfcMpjoz"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS"
+    },
+    {
+      "album": {
         "name": "Slosetta",
         "url": "https://open.spotify.com/album/5KfGEC7FwRFuH07JLwJQhJ"
       },
@@ -14298,7 +14508,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 467627,
       "name": "Sol e Luz (feat. Thiago Rabello & Salom\u00e3o Soares)",
       "url": "https://open.spotify.com/track/2GW9AQ3UMitOvAxZ6qDYxw"
@@ -14916,7 +15126,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 245000,
       "name": "Strawberry Jam",
       "url": "https://open.spotify.com/track/5yuK3Wp8cC4BtJ1QtTktFk"
@@ -15141,6 +15351,24 @@
     },
     {
       "album": {
+        "name": "Sunset Milk Tea",
+        "url": "https://open.spotify.com/album/7sBUdKY1vdyGsF1riaUjEB"
+      },
+      "artists": [
+        {
+          "name": "PYJ\u00c6N",
+          "url": "https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245877,
+      "name": "Sunset Milk Tea - Instrumental",
+      "url": "https://open.spotify.com/track/6mp6PUHw9vnWIIg2zujrSm"
+    },
+    {
+      "album": {
         "name": "SUPER MAD MAX",
         "url": "https://open.spotify.com/album/0TzvvixHFNrtwTIYI3IfDm"
       },
@@ -15174,6 +15402,28 @@
       "duration_ms": 166448,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
+    },
+    {
+      "album": {
+        "name": "Supplication",
+        "url": "https://open.spotify.com/album/1X5tJ97A74MyWTMzsSwnd6"
+      },
+      "artists": [
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Faris Ishaq",
+          "url": "https://open.spotify.com/artist/48jiXPS3c6rSlGN9aGQxcc"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148702,
+      "name": "Supplication",
+      "url": "https://open.spotify.com/track/3XSBY2I4txRyH9rkaYoYbX"
     },
     {
       "album": {
@@ -15372,6 +15622,28 @@
       "duration_ms": 214320,
       "name": "Take the a Train",
       "url": "https://open.spotify.com/track/5pNjrMW06fRfXnCiSkFl0c"
+    },
+    {
+      "album": {
+        "name": "Tangram",
+        "url": "https://open.spotify.com/album/3MOpZ2MgmSFc5jJXPcSu04"
+      },
+      "artists": [
+        {
+          "name": "Bokoya",
+          "url": "https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA"
+        },
+        {
+          "name": "Gianni Brezzo",
+          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "Tangram",
+      "url": "https://open.spotify.com/track/5gHDa3J7x4v6KtNtF41dPB"
     },
     {
       "album": {
@@ -16852,7 +17124,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 219782,
       "name": "There Is This Thing",
       "url": "https://open.spotify.com/track/6Dd2qLs8ElSYBRJdZbUARM"
@@ -17762,7 +18034,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 493088,
       "name": "Uptown in Orbit",
       "url": "https://open.spotify.com/track/2GTkObBFBYLIzgLRqPHHm1"
@@ -18598,7 +18870,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 239526,
       "name": "Winter Sun",
       "url": "https://open.spotify.com/track/2CqtIFjoTHvvrULM3RdKtc"
@@ -18918,7 +19190,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 288950,
       "name": "You and the Night and the Music",
       "url": "https://open.spotify.com/track/38c784KxSdIUzJoz37ZJCZ"

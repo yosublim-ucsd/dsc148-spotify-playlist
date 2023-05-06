@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,607 likes - 120 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,663 likes - 120 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Small Town Nashville Blues](https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei) | [Cristina Vane](https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD) | [Make Myself Me Again](https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre) | 2:49 |
 | 120 | [Circle Of Lies](https://open.spotify.com/track/6M8KpTVYG0ZqgZosDxg9HG) | [Jim Bows & The Flycatchers](https://open.spotify.com/artist/0U0pUhmntI6hEFvdro8a6Q) | [Circle Of Lies](https://open.spotify.com/album/587AGksXRFKQ9JikfDaH2L) | 3:52 |
 
-Snapshot ID: `MCwyZmM1MjdhMzA5OWU2OTE1ZDI2M2FhMzVhNTM1YWY1NGYxNGU0NDY0`
+Snapshot ID: `MCw4OWQ5NzZjY2I0NzVkNmQ0YmQ1MTU1MGJiNTFmMWRkODBiNDQ2Y2Jm`

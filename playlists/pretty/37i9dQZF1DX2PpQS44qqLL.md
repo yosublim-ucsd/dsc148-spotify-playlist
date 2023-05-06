@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,373 likes - 200 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,526 likes - 200 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
 | 200 | [¿Cómo, cuándo y porqué \- Why Do I Love You So](https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Mi tributo a Juan Gabriel](https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3) | 3:45 |
 
-Snapshot ID: `MCwwNTVjMDY0MjdlZGI1NjFiZjMzOTIyZTA1YThiMTU2MDQ4NjFiMGQ3`
+Snapshot ID: `MCwzNTY1MTRlOGRiZjRkYzU5YWYwMzJhZmUwNjZmYmY5YTk0NDA2ZDAz`

@@ -4,7 +4,7 @@
 
 > Romance antigüito en voz de tus artistas pop con Luis Miguel en portada.
 
-244 songs - 14 hr 29 min
+245 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Aguerrida](https://open.spotify.com/track/5SwajDujxeN4JLnZHR5oFG) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Otra Cara de Aguerrida](https://open.spotify.com/album/1vQBFLn4ZzouSQEGAAQTp3) | 4:37 | 2022-04-23 | 2022-07-21 |
 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 | 2022-04-08 |  |
 | [Algo contigo](https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo) | 4:57 | 2022-04-08 | 2022-07-29 |
-| [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 | 2021-10-16 |  |
+| [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 | 2021-10-16 | 2023-05-06 |
 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 | 2021-10-16 |  |
 | [Amar Y Vivir \- En Vivo](https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Amar Y Vivir \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey) | 3:02 | 2021-10-16 |  |
 | [Amor de Bolero](https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Amor de Bolero](https://open.spotify.com/album/7GQCGDiH41ovnH6yQJYr7G) | 2:24 | 2021-10-16 | 2022-10-29 |
@@ -162,6 +162,7 @@
 | [Para Que Pides Perdon \- Bonus Track](https://open.spotify.com/track/1mL823LB8IlMK8KBSPRZkm) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Para Que Pides Perdon](https://open.spotify.com/album/2btjmvJe3CoX86yMNvIaBx) | 3:29 | 2021-10-16 | 2022-07-23 |
 | [Para Sonreír](https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Para Sonreír](https://open.spotify.com/album/6azaNQiixTpGmS2SeG6O3N) | 3:21 | 2021-10-16 | 2022-04-18 |
 | [Perfidia](https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:08 | 2021-10-16 |  |
+| [Perfidia](https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Perfidia](https://open.spotify.com/album/101igY1HyXs27avcElHKzj) | 3:35 | 2023-05-05 |  |
 | [Perfidia](https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:26 | 2021-10-16 | 2022-07-29 |
 | [Perfume de Gardenia \(with Alejandro Fernández\)](https://open.spotify.com/track/4TlgiJ7Wm3A5bmNcuNYOSY) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:08 | 2022-01-11 | 2022-11-14 |
 | [Perfume de Gardenia \(with Alejandro Fernández\)](https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 3:08 | 2022-01-11 |  |

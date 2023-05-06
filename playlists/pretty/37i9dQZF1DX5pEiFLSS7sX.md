@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,691 likes - 100 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,786 likes - 100 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [The Cross Has The Final Word](https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Darker The Night / The Brighter The Morning](https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho) | 4:14 |
 | 100 | [Not Afraid \- Live](https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 7:25 |
 
-Snapshot ID: `MCw5YzlhN2Q2M2QxYWZlNGQxMzk4MWFiMTVkNzZmMTExNjIwNzU4NjA5`
+Snapshot ID: `MCw2NjNhZTVmZmVhMWJlMzQ0NDJhNmI4ZWY1ODk5NjJmNzBmYzMyZTAw`

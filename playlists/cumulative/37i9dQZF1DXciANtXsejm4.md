@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-199 songs - 11 hr 58 min
+200 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Piropo](https://open.spotify.com/track/70i8ZsGgXVBelUmsHXddDJ) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/5dYAPQdnmtlneTu9U468sx) | 3:08 | 2022-06-03 | 2022-07-29 |
 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 | 2022-04-15 |  |
 | [Por Qué Te Vas?](https://open.spotify.com/track/16A2PqIXMWuiHnzW5GLG9n) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Por Qué Te Vas?](https://open.spotify.com/album/4a3P8A0wjzFeF8u2JBnOlR) | 4:11 | 2022-06-17 | 2022-07-12 |
-| [Porqué Les Mientes](https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Un Nuevo Desafío](https://open.spotify.com/album/7vlYe0SeAaPzRS3ehgtq18) | 3:40 | 2022-09-02 |  |
+| [Porqué Les Mientes](https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Un Nuevo Desafío](https://open.spotify.com/album/7vlYe0SeAaPzRS3ehgtq18) | 3:40 | 2022-09-02 | 2023-05-06 |
 | [Porqué Les Mientes](https://open.spotify.com/track/752j9FabixCNPWHU2nByil) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Un Nuevo Desafío](https://open.spotify.com/album/6FFl7UY3UxwLgXIm0rbHM4) | 3:40 | 2022-06-17 | 2022-06-27 |
 | [Privado de la Libertad](https://open.spotify.com/track/22Kg1EgpBn47gi6mO8eWe4) | [Yuli y Los Girasoles](https://open.spotify.com/artist/3WN801ZTlM5MxIpircGrsO) | [Tropibaile Santafesino, Vol\. 6](https://open.spotify.com/album/4CTo8Azvk9es5d3Hb6I5Ev) | 4:04 | 2022-06-17 | 2022-07-02 |
 | [Que Precio Tiene El Cielo](https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [Cómo Le Gusta A Mi Gente](https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg) | 4:13 | 2022-04-15 |  |
@@ -202,6 +202,7 @@
 | [Voy a Olvidarme de Mí](https://open.spotify.com/track/2YCQpCXM0ebgdFLql30VDh) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:16 | 2022-04-15 | 2022-07-29 |
 | [Voy a Olvidarme de Mí](https://open.spotify.com/track/5culmYJR6bdgdY1w4HRYt0) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:16 | 2022-07-15 |  |
 | [Vuelve Mi Amor](https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:06 | 2022-06-03 |  |
+| [Y Hoy Volvimos A Vernos](https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Y Hoy Volvimos A Vernos](https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc) | 3:23 | 2023-05-05 |  |
 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 | 2022-04-15 |  |
 | [Y tú te vas](https://open.spotify.com/track/6X4fk1YMYQNIwDaVnVD3Ut) | [La contrà](https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM) | [Cree En Ti](https://open.spotify.com/album/1DEulkr2WxK5KbZlsP5elb) | 3:32 | 2022-06-03 | 2022-11-19 |
 | [Ya Me Canse De Ser Tu Amor](https://open.spotify.com/track/2RWlSi1pQ2CqoDK1vKryJk) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Ya Me Canse De Ser Tu Amor](https://open.spotify.com/album/0Ur5VDqnQk3m4Adi6HCAKh) | 2:54 | 2022-06-10 | 2022-07-01 |

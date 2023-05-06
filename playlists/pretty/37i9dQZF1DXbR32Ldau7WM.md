@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: SHERBETS
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,518 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,587 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 79 | [Boys Jump The Midnight](https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9) | [The Cro\-magnons](https://open.spotify.com/artist/2zznlBwNMFL1nlABMoqq0b) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 3:55 |
 | 80 | [VOX](https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1) | 4:10 |
 
-Snapshot ID: `MCw1OGNmZTllNTRhOTQ2Y2U0YjQzYTcyMTcyZGQ2ZjE3YzRjM2ZiOTY0`
+Snapshot ID: `MCxmMDQ0OTkyNGFkZjJkZjYwOTUzNTcwNGI2YjRmYmY0OTZhZTM2ODli`

@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 228181,
       "name": "Bait",
       "url": "https://open.spotify.com/track/54Fs529fifiDt3qDBWaIjl"
@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/1dkq45ItGdHYFjGlSxlcZg"
+      },
+      "artists": [
+        {
+          "name": "Rhys Davids",
+          "url": "https://open.spotify.com/artist/3zkCmXCBcpPtF3UqPTNMNv"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198898,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4WRi0GE9rB7ca848HIavkJ"
+    },
+    {
+      "album": {
         "name": "Dream State",
         "url": "https://open.spotify.com/album/2akH8BvfJ3sqfsLM7Lmab7"
       },
@@ -1536,6 +1554,24 @@
       "duration_ms": 163570,
       "name": "First Blood",
       "url": "https://open.spotify.com/track/3YR0NA22mvARUqUvaRX8CT"
+    },
+    {
+      "album": {
+        "name": "First to Leave",
+        "url": "https://open.spotify.com/album/4qnGA5yi2g401vBGdlME23"
+      },
+      "artists": [
+        {
+          "name": "Rubber Duc",
+          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249799,
+      "name": "First to Leave",
+      "url": "https://open.spotify.com/track/6JYbCsAzIOeY3v7NfFX196"
     },
     {
       "album": {
@@ -2438,7 +2474,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
@@ -2858,6 +2894,24 @@
       "duration_ms": 275319,
       "name": "Mermaids",
       "url": "https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/66M8jLSIBg9EWzRbPsriuZ"
+      },
+      "artists": [
+        {
+          "name": "Josie Field",
+          "url": "https://open.spotify.com/artist/7E5WcKtx2EGc0GYJ9ef4J1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192167,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2aXlE2ON2ya8zFg6HDTCRs"
     },
     {
       "album": {
@@ -4546,7 +4600,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 167142,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/1PP9T1txg5vSHHemsLNd38"
@@ -4824,7 +4878,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-06",
       "duration_ms": 247879,
       "name": "ukuthanda wena",
       "url": "https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd"
@@ -5182,6 +5236,24 @@
       "duration_ms": 212818,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr"
+    },
+    {
+      "album": {
+        "name": "Wyoming",
+        "url": "https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm"
+      },
+      "artists": [
+        {
+          "name": "NIRESAN",
+          "url": "https://open.spotify.com/artist/4icnMO2iFmNmeImB5mDFFI"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165377,
+      "name": "Wyoming",
+      "url": "https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,406 likes - 129 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,434 likes - 129 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 | 128 | [Without Me](https://open.spotify.com/track/5Oows4h53UGeAvJFyCMseY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:21 |
 | 129 | [Beacon](https://open.spotify.com/track/4Mk4PFcGjfU8Z0CSzzTz7u) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Beacon](https://open.spotify.com/album/3hdKiBU6Yxh42FJsyc0jF0) | 3:47 |
 
-Snapshot ID: `MCxlNGRiZGMwNzdhZmU4M2FjYzY5ZWFlNGZlZjljNTZlMzEzODNmNThl`
+Snapshot ID: `MCw3YjU2Mjc3MDBmYjdkZWE4Nzk5MWU2NTcxYmIxYzQ1ZjViMWUzMjE1`

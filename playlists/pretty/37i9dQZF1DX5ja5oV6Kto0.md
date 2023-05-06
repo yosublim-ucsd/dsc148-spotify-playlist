@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=vjDDUivWQb604vAkRuI\_dw"> Fireboy DML</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,818 likes - 90 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,882 likes - 90 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 89 | [Very Simple](https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 |
 | 90 | [MATILDA \(feat\. Brazy\)](https://open.spotify.com/track/4PdDPRNhKeS1krsLvclPUb) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 3:50 |
 
-Snapshot ID: `MCxiMTI3MGJkYTA0ZjkzZTgwMjA0MzFjZjUzMGNkMmQwOGRlY2I3ZDJj`
+Snapshot ID: `MCwzMzdkNTAxMzIzNDY5NTg2OGU5ZDI4ZGFkYTIwZmQ1MmIxYzViMDQ4`

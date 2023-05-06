@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,724 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,759 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 49 | [Rosa](https://open.spotify.com/track/6K3TfsDV3CPDnVmsv1dkqb) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Rosa](https://open.spotify.com/album/01f7LtCEJXug2iAI1wkmTf) | 3:52 |
 | 50 | [Better When You're Here](https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Better When You're Here](https://open.spotify.com/album/6iaLrXWXvl0yFGhN6xR5z5) | 3:20 |
 
-Snapshot ID: `MCwxYzg5MWRiYTJhMzRmYWU1NzZlMTM1MTY3OGNlY2NlMjllYjBlMzFi`
+Snapshot ID: `MCw2ODQ4YTExOGE5ZDkxODIyOWRhNjRiMjQ1YTYzOGRkYTk1N2JkYzAw`

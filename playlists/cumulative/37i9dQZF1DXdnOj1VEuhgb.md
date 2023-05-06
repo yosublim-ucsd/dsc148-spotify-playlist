@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive x Ohash
 
-120 songs - 5 hr 16 min
+121 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [PARA](https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2) | [PARA](https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8) | 2:56 | 2023-01-10 | 2023-05-05 |
 | [Paspartu](https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Paspartu](https://open.spotify.com/album/1UTwQbcpKHteAspEdAN0nc) | 4:34 | 2023-03-16 |  |
 | [Patron](https://open.spotify.com/track/7HBvkEYHY8rhn4puR1TcjV) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 1:50 | 2023-01-10 | 2023-01-13 |
-| [PAVYON](https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J) | [masthon](https://open.spotify.com/artist/7sEM2coB7d8PGVKBbyBWD8) | [KAPITAL](https://open.spotify.com/album/34TsaH9wHudgsQqrSGj1VT) | 2:30 | 2023-05-04 |  |
+| [PAVYON](https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J) | [masthon](https://open.spotify.com/artist/7sEM2coB7d8PGVKBbyBWD8) | [KAPITAL](https://open.spotify.com/album/34TsaH9wHudgsQqrSGj1VT) | 2:30 | 2023-05-04 | 2023-05-06 |
 | [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-13 |  |
 | [R \- CHORBA](https://open.spotify.com/track/79YI30eKDKmcHwDQvN9ryS) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 1:17 | 2023-01-10 | 2023-03-10 |
 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 | 2023-03-09 |  |
@@ -123,6 +123,7 @@
 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 | 2023-04-27 |  |
 | [yok muydu vaktin bana?](https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [yok muydu vaktin bana?](https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC) | 3:07 | 2023-02-02 | 2023-05-05 |
 | [Yolum Açık](https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Yolum Açık](https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu) | 2:41 | 2023-04-27 |  |
+| [Yolunda "pavyon"](https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Yolunda "pavyon"](https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM) | 2:30 | 2023-05-04 |  |
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-10 | 2023-03-03 |
 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 | 2023-01-10 |  |
 | [ÇEK \(feat\. Strick\)](https://open.spotify.com/track/1j8LzWBV8n4LvTjwuSu3CS) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH) | [ÇEK \(feat\. Strick\)](https://open.spotify.com/album/2tJ3W32WmVxCUUcQCZOVWY) | 3:21 | 2023-03-23 | 2023-04-07 |

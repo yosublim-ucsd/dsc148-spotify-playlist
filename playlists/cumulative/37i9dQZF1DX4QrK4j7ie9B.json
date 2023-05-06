@@ -419,24 +419,6 @@
     },
     {
       "album": {
-        "name": "eviction sessions",
-        "url": "https://open.spotify.com/album/0ERUs6siaB59eOoKcUviBd"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "date_added": "2021-03-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 266186,
-      "name": "Blais: sans titre - andante",
-      "url": "https://open.spotify.com/track/7m1PPd6nk5SiPBL0n4ox3i"
-    },
-    {
-      "album": {
         "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
         "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
       },
@@ -1308,6 +1290,24 @@
       "duration_ms": 266186,
       "name": "sans titre - andante",
       "url": "https://open.spotify.com/track/7J0MD3GP9XcUkXKf8iwhPk"
+    },
+    {
+      "album": {
+        "name": "eviction sessions",
+        "url": "https://open.spotify.com/album/0ERUs6siaB59eOoKcUviBd"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266186,
+      "name": "sans titre - andante",
+      "url": "https://open.spotify.com/track/7m1PPd6nk5SiPBL0n4ox3i"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Ernia, Yung Snapp, Ensi e Nerone, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,436 likes - 85 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,484 likes - 85 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [Giovani Briatore](https://open.spotify.com/track/7sQJAfjZ7YNXAZQ8R8LeRZ) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [Giovani Briatore](https://open.spotify.com/album/59DAgd3PKCG219GWKK8RMN) | 2:17 |
 | 85 | [B\*TCH DON'T BREAK MY HEART](https://open.spotify.com/track/6QswKYGLY9kqQT3qKh6cik) | [Thom.](https://open.spotify.com/artist/4e5mUDLdGeosdE593StPBi) | [B\*TCH DON'T BREAK MY HEART](https://open.spotify.com/album/3J8LaR7kSodAQLubjdowBx) | 1:45 |
 
-Snapshot ID: `MCw2ZGZiM2Q1OWU4ZjNmY2MzNGUwNjc3ODQ0OWVhMWQ3MDExMDIzMWVm`
+Snapshot ID: `MCw5ZDUxOGNjMmEzZjQxOTFiMTViOTM5OTI5MDdkNzllZTI1MGFmYjY2`

@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Role Model",
+        "url": "https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133540,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz"
+    },
+    {
+      "album": {
         "name": "Seaside Adventures",
         "url": "https://open.spotify.com/album/090krYhm5bNW0wlujblsjo"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,953 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,967 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 74 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
 | 75 | [We Don’t Talk Enough \(with Alexander 23\)](https://open.spotify.com/track/4IaizE26moyyMYn70TeFiX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:28 |
 
-Snapshot ID: `MCw0MDA0OTExZTc3NmUwOTdkOGI5NDJlZjY1MWQ3MWNmM2U2ZDk4OWQz`
+Snapshot ID: `MCwyMzA0MWJiZmI1NGE5OTdlZGZiMTI3ZmYwMzQwNTkwNTgzNTExNDdh`

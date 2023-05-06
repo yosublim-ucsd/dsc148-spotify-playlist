@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-114 songs - 7 hr 0 min
+115 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Come on with the Good Thing](https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Come on with the Good Thing](https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F) | 5:19 | 2021-07-26 | 2023-02-27 |
 | [Comfortable](https://open.spotify.com/track/6xvMkF9YbgGS0TC53ysmWo) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX), [Sareem Poems](https://open.spotify.com/artist/0eftDOchNXxRmc1krF1ZKi) | [Comfortable](https://open.spotify.com/album/7DU6NhZpWMOWsi7kbzgP3l) | 3:05 | 2021-07-26 |  |
 | [Coming Back Around](https://open.spotify.com/track/5NpZjhChvYiJzbBlXynlMy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Cory and the Wongnotes](https://open.spotify.com/album/6DoHXjDY8U748166kiW8J3) | 4:08 | 2021-07-26 |  |
+| [Crazy About You](https://open.spotify.com/track/0huzyKskhjraWtPgj2d1Zu) | [Scott Vlassis](https://open.spotify.com/artist/4e0QYCA4OB6BIG8RNZagSC) | [Crazy About You](https://open.spotify.com/album/0bG9YusGtMBHucPDqtvdGJ) | 3:29 | 2023-05-05 |  |
 | [Crush](https://open.spotify.com/track/7GkmADl4mQgmk9x1upnjjN) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Adesha](https://open.spotify.com/artist/24dFswAz2Xxqyju3SqasUw) | [Crush](https://open.spotify.com/album/5DsyOlmMeQK9kdnir41SXe) | 2:46 | 2021-07-26 |  |
 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 | 2021-07-26 |  |
 | [Dance To Keep From Crying \- Extended Mix](https://open.spotify.com/track/025orqTVzganndkUT0M3B0) | [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Dance To Keep From Crying \(Extended\)](https://open.spotify.com/album/1h8QZxz7F5ZiHKUicOJf5X) | 7:58 | 2022-11-18 |  |
